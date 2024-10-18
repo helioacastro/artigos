@@ -24,18 +24,42 @@
 \maketitle
 
 \begin{abstract}
-The research explores the need for an ontology to improve soil data analysis. It is proposed to create an ontology based on the Brazilian Soil Classification System (SiBCS) and uses the OWL language to describe the relationships between data. The TOETL methodology will be applied to semantic mapping of data. The research aims to improve the use of Artificial Intelligence in the study of soils, highlighting the scarcity of similar studies and the importance of structured knowledge for analysis and future applications.
+The research explores the need for an ontology to improve soil data analysis. It is proposed to create an ontology based on the Brazilian Soil Classification System (SiBCS) and uses the OWL language to describe the relationships between data. The objective of the research aims to improve the use of Artificial Intelligence in the study of soils, highlighting the scarcity of similar studies and the importance of structured knowledge for analysis and future applications. Understanding that only with a soil ontology can intelligent systems provide assertive answers.
 \end{abstract}
      
 \begin{resumo} 
-A pesquisa explora a necessidade de uma ontologia para aprimorar a análise de dados sobre solos. Propõe-se a criação de uma ontologia baseada no Sistema Brasileiro de Classificação de Solos (SiBCS) e utiliza a linguagem OWL para descrever as relações entre dados. A metodologia TOETL será aplicada para o mapeamento semântico dos dados. A pesquisa visa melhorar o uso de Inteligência Artificial no estudo dos solos, destacando a escassez de estudos semelhantes e a importância de um conhecimento estruturado para a análise e futuras aplicações.
+A pesquisa explora a necessidade de uma ontologia para aprimorar a análise de dados sobre solos. Propõe-se a criação de uma ontologia baseada no Sistema Brasileiro de Classificação de Solos (SiBCS) e utiliza a linguagem OWL para descrever as relações entre dados. O objetivo da pesquisa visa melhorar o uso de Inteligência Artificial no estudo dos solos, destacando a escassez de estudos semelhantes e a importância de um conhecimento estruturado para a análise e futuras aplicações. Compreendendo que somente com uma Ontologia de solos, os sistemas inteligentes possam dar respostas assertivas.
 \end{resumo}
 
 \section{Introdução}
 
-A análise dos solos sob uma perspectiva orientada a dados, nos traz a necessidade de um conhecimento mais detalhado desta informação. Esse dado/informação deve ser processado e compreendido por uma área de Ciência de Dados, multidisciplinar na sua concepção, mas que por outro lado, requer um rigor na forma e apresentação dos dados para gerar resultados relevantes. Os estudos dos solos, mais especificamente a Pedologia, uns dos ramos da Ciência dos Solos, possui vasto material sobre este assunto. No entanto, é necessário uma representação de conhecimento acerca deste domínio para que um sistema de informação ou mesmo um modelo de Inteligência Artificial, por exemplo, seja capaz de produzir conteúdo que venha contribuir para o estudo científico.\par
-O uso de ontologia serve para realizar este mapeamento. A ontologia, apesar de não ser um conceito novo, advém da Filosofia, ele é um conceito usado amplamente em Ciência da Computação. Segundo \cite{Pileggi2024}, ontologias são modelos de dados ricos que permitem uma especificação de processamento semântico de máquinas. Ou seja, este conhecimento descrito de forma inequívoca, a partir de uma ontologia, passa a ser um requisito fundamental para um modelo de inteligência artificial. \par
-Nesta linha de raciocínio verificamos um esforço para descrever uma ontologia em variadas áreas de conhecimento, notadamente nas áreas de negócio, saúde (\cite{Teixeira2018}) e automação, onde são verificadas um volume maior de pesquisas em ontologia, conforme demonstrado na Figura~\ref{fig:exampleFig1}. Percebemos assim uma brecha para estudos de solos, com poucos estudos relacionados a ontologias.
+A análise dos solos sob uma perspectiva orientada a dados, nos traz a necessidade de um conhecimento mais detalhado desta informação. Esse dado/informação deve ser processado e compreendido por uma área de Ciência de Dados, multidisciplinar na sua concepção, mas que por outro lado, requer um rigor na forma e apresentação dos dados para gerar resultados relevantes. Os estudos dos solos, mais especificamente a Pedologia \cite{Hartemink2024}, uns dos ramos da Ciência dos Solos, possui vasto material sobre este assunto. No entanto, é necessária uma representação de conhecimento acerca deste domínio para que um sistema de informação ou mesmo um modelo de Inteligência Artificial, por exemplo, seja capaz de produzir conteúdo que venha contribuir para o estudo científico.\par
+O uso de ontologia serve para realizar este mapeamento. A ontologia, apesar de não ser um conceito novo, advém da Filosofia, e é um conceito usado amplamente em Ciência da Computação. Segundo \cite{Pileggi2024}, ontologias são modelos de dados ricos que permitem uma especificação de processamento semântico de máquinas. Ou seja, este conhecimento descrito de forma inequívoca, a partir de uma ontologia, passa a ser um requisito fundamental para um modelo de inteligência artificial. \par
+Nesta linha de raciocínio verifica-se um esforço para descrever uma ontologia em variadas áreas de conhecimento, notadamente nas áreas de negócio, saúde \cite{Teixeira2018} e automação, onde são verificadas um volume maior de pesquisas em ontologia. Percebe-se assim uma brecha para estudos de solos, com poucos trabalhos relacionados a ontologias.
+
+O escopo desta pesquisa limita-se aos dados relacionados a Pedologia, como: classe de solo, profundidade, textura, conteúdo de água disponível (CAD), etc. Essa ontologia, neste domínio, pode oferecer subsídios numa análise de movimento de massa \cite{Paul2024}, sugestões de culturas \cite{Rahman2018}, localização de água, dentre várias outras aplicações. A classificação dos solos deve se orientar no Sistema Brasileiro de Classificação de Solos (SiBCS), mantido pela Embrapa. Com isso, temos uma visão focada na realidade de solos encontrados no Brasil, frente a uma realidade onde os softwares de Pedologia são na maioria importados, nem sempre compatíveis com o SiBCS.
+
+\section{Referencial teórico}
+
+\section{Ontologia}
+
+O conceito de Ontologia está ligado diretamente a uma descrição do conhecimento. A partir de uma Ontologia consegue-se  estruturar um conhecimento que pode ser utilizado por algoritmos de Inteligência Artificial em sua plenitudade. Na verdade, como afirma, \cite{Zimmermann2024} inteligência é construir e usar ontologias. Nesse estudo que a Ontologia é que faz os sistemas serem inteligência. Por isso a importância em definir e contruir este modelo.
+
+\section{Sistema Brasileiro de Classificação de Solos (SiBCS)}
+
+O Sistema Brasileiro de Classificação de Solos (SiBCS) é a taxonomia dos solos brasileiros mantido pela Embrapa. Neste primeiro momento, a pesquisa abordará a realidade de solos encontrados no Brasil. Ainda que, sabidamente, existem outros solos característicos encontrados exclusivamente em outros países. \par
+
+\section{TOETL (Text and Ontology ETL)}
+
+Metodologia descrita por \cite{Teixeira2018}, onde o método denominado TOETL (Text and Ontology ETL), baseado em processos tradicionais de ETL (Extract, transform and load) é usado para atender ao contexto de anotação de textos científicos.
+
+\section{OWL (Web Ontology Language)}
+
+A OWL (Web Ontology Language) é uma notação para descrição de ontologias amplamente utilizado \cite{Thomas2021}. Este é um padrão homologado pelo consórcio W3C de linguagem semântica da web, na sua versão mais recente, a 2.0. Este formato permite descrever todo esse conhecimento a partir de relações entre coisas. Particularmente deve compreender a relação estrutural entre as classes e objetos, sinalizando atributos relacionados ou não relacionados, que são conceitos importantes para a exploração dos dados. Utilizando também o formato RDF e  a linguagem SPARQL para manipulação dos dados, ambas são aplicações presentes na pilha de tecnologia descrita na OWL.\par
+
+\section{Trabalhos relacionados}
+
+Na busca de trabalhos relacionados, não foi localizado nenhuma pesquisa, utilizando o acervo da coleção Scopus, onde trata sobre ontologia aplicada a estudo de solos, explicitamente. Contudo, foram localizados alguns trabalhos com assunto semelhante, ainda que em domínios diferentes e forma de metodologia diversa. Refletindo em poucos materiais sobre este domínio nas pesquisas científicas \cite{Teixeira2018}\par
 
 \begin{figure}[ht]
 \centering
@@ -44,30 +68,12 @@ Nesta linha de raciocínio verificamos um esforço para descrever uma ontologia em
 \label{fig:exampleFig1}
 \end{figure}
 
-O escopo desta pesquisa limita-se aos dados relacionados a Pedologia, como: classe de solo, profundidade, textura, conteúdo de água disponível (CAD), etc. Essa ontologia, neste domínio, pode oferecer subsídios numa análise de movimento de massa \cite{Paul2024}, sugestões de culturas \cite{Rahman2018}, localização de água, dentre várias outras aplicações. A classificação dos solos utilizada foi baseada no Sistema Brasileiro de Classificação de Solos (SiBCS), mantido pela Embrapa. Com isso, temos uma visão focada na realidade de solos encontrados no Brasil, frente a uma realidade onde os softwares de Pedologia são na maioria importados, nem sempre compatíveis com o SiBCS.
+Na pesquisa desenvolvida por  \cite{Valadares2019}, exemplifica a dificuldade do uso de inteligência artificial no estudo de solos justamente pela carência de estudos de ontologia, onde a utilização de modelos preditivos de classificação não se mostrou adequado para alguns solos complexos. Desta forma, a utilização de aprendizagem de máquina deve ser utilizada pontual e criteriosamente enquanto este conhecimento não estiver melhor consolidado.
+\par
 
-\section{Referencial teórico}
+O trabalho de\cite{Palvannan2022} citava o uso de inteligência artificial para classificação dos solos a partir da coleta de sensores. Esta aplicação não faz uso de ontologias, mas possui uma abordagem denominada HIAS (Hybrid Intelligence Approach for Soil) que em última análise faz uso da informação obtida do solo para recomendação de culturas mais apropriadas, de acordo com este conhecimento gerado. Na mesma analogia, o trabalho desenvolvido por \cite{Rahman2018} também recomenda tipos de culturas a partir da classificação dos solos utilizando aprendizagem de máquina.\par
 
-O Sistema Brasileiro de Classificação de Solos (SiBCS) é o referencial teórico principal a ser utilizado neste estudo. A taxonomia dos solos brasileiros descrita neste documento servirá de base conceitual para o estudo da ontologia. Neste primeiro momento, a pesquisa abordará a realidade de solos encontrados no Brasil. Ainda que, sabidamente, existem outros solos característicos encontrados exclusivamente em outros países. \par
-
-Para realizar o mapeamento da ontologia, será utilizado a metodologia descrita por \cite{Teixeira2018}, num método denominado TOETL (Text and Ontology ETL), baseado em processos tradicionais de ETL (Extract, transform and load) para atender ao contexto de anotação de textos científicos.
-
-Quanto a descrição da ontologia em si, será utilizado o formato amplamente reconhecido: OWL (Web Ontology Language). Este é um padrão homologado pelo consórcio W3C de linguagem semântica da web, na sua versão mais recente, a 2.0. Este formato permite descrever todo esse conhecimento a partir de relações entre coisas. Particularmente deve compreender a relação estrutural entre as classes e objetos, sinalizando atributos relacionados ou não relacionados, que são conceitos importantes para a exploração dos dados. Será também utilizado o formato RDF e linguagem SPARQL para manipulação dos dados, ambas são aplicações presentes na pilha de tecnologia descrita na OWL.\par
-
-Uma parte importante na condução da pesquisa é a obtenção dos dados para análise. A premissa é a utilização de dados já processados, a partir de dados abertos disponibilizados ao público. Acredita-se ainda assim, que possa ser necessário um trabalho de pré-processamento dos dados, antes da execução do método TOETL. Outras fontes de dados podem incluir informações cartográficas e uso de imagens e dados coletados de sensores.\par 
-
-A predição de dados de solos, numa possível necessidade de imputação de dados faltantes, encontrou dificuldades a partir de alguns experimentos anteriores. Como na pesquisa desenvolvida por \cite{Valadares2019}, onde a utilização de modelos preditivos de classificação não se mostrou adequado para alguns solos complexos. Desta forma, a utilização de aprendizagem de máquina deve ser utilizada pontual e criteriosamente.
-
-\section{Trabalhos relacionados}
-
-Na busca de trabalhos relacionados, não foi localizado nenhuma pesquisa, utilizando o acervo da coleção Scopus, onde trata sobre ontologia aplicada a estudo de solos, explicitamente. Contudo, foram localizados alguns trabalhos com assunto semelhante, ainda que em domínios diferentes e forma de metodologia diversa.\par
-
-Um dos trabalhos citava o uso de inteligência artificial para classificação dos solos a partir da coleta de sensores. Esta aplicação não faz uso de ontologias, mas possui uma abordagem denominada HIAS (Hybrid Intelligence Approach for Soil) que em última análise faz uso da informação obtida do solo para recomendação de culturas mais apropriadas, de acordo com este conhecimento gerado \cite{Palvannan2022}. \par 
-
-Na mesma analogia, o trabalho desenvolvido por \cite{Rahman2018} também recomenda tipos de culturas a partir da classificação dos solos utilizando aprendizagem de máquina.\par
-
-Um outro trabalho relacionado, faz uso intensivo de sensores para análise dos solos, com ênfase na agricultura digital. A abordagem detalha aspectos da coleta de informações para manter um sistema preciso e autônomo com o objetivo de incremento da produção agrícola. Não cita nominalmente o uso de ontologia, mas faz uso de um processo de grupamento, taxionomia e anotações técnicas, típicas de uma análise de ontologia \cite{Amertet2024}.
-
+Na análise de \cite{Amertet2024}, outro trabalho relacionado, faz-se uso intensivo de sensores para análise dos solos, com ênfase na agricultura digital. A abordagem detalha aspectos da coleta de informações para manter um sistema preciso e autônomo com o objetivo de incremento da produção agrícola. Não cita nominalmente o uso de ontologia, mas faz uso de um processo de grupamento, taxionomia e anotações técnicas, típicas de uma análise de ontologia, conforme detalhado pelo esquema de fluxo de trabalho exibido na Figura 2.
 \begin{figure}[ht]
 \centering
 \includegraphics[width=.9\textwidth]{hyper-automation-farming.jpg}
@@ -75,7 +81,7 @@ Um outro trabalho relacionado, faz uso intensivo de sensores para análise dos so
 \label{fig:exampleFig3}
 \end{figure}
 
-Partindo de uma orientação diferenciada, identificamos também um trabalho sobre solos utilizando a ferramenta ChatGPT. Nesta pesquisa foi realizado um levantamento sobre o nível de conhecimento dos usuários da ferramenta sobre o assunto de solos. Dentre as pesquisas relacionadas, esta possui menor relação com a pesquisa de ontologias.  Contudo, oferece alguns indicadores para formulação de questionários que possam compreender melhor as propriedades dos solos \cite{Cahyana2024}.
+Partindo de uma orientação diferenciada, \cite{Cahyana2024} executa um trabalho sobre solos utilizando a ferramenta ChatGPT. Nesta pesquisa foi realizado um levantamento sobre o nível de conhecimento dos usuários da ferramenta sobre o assunto de solos. Dentre as pesquisas relacionadas, esta possui menor relação com a pesquisa de ontologias.  Contudo, oferece alguns indicadores para formulação de questionários que possam compreender melhor as propriedades dos solos .
 
 \section{Considerações finais}
 
