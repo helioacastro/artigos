@@ -1,0 +1,744 @@
+IETE Journal of Research
+ISSN: 0377-2063 (Print) 0974-780X (Online) Journal homepage: www.tandfonline.com/journals/tijr20
+An Ontology-based Knowledge Mining Model for
+Eﬀective Exploitation of Agro Information
+E. Murali & S. Margret Anouncia
+To cite this article: E. Murali & S. Margret Anouncia (2023) An Ontology-based Knowledge
+Mining Model for Eﬀective Exploitation of Agro Information, IETE Journal of Research, 69:11,
+7856-7873, DOI: 10.1080/03772063.2022.2058629
+To link to this article:  https://doi.org/10.1080/03772063.2022.2058629
+Published online: 10 Apr 2022.
+Submit your article to this journal 
+Article views: 195
+View related articles 
+View Crossmark data
+Citing articles: 4 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tijr20
+IETEJOURNALOFRESEARCH
+2023,VOL.69,NO.11,7856–7873https://doi.org/10.1080/03772063.2022.2058629
+An Ontology-based Knowledge Mining Model for Effective Exploitation of Agro
+Information
+E. Murali and S. Margret Anouncia
+SCOPE,VelloreInstituteofTechnology,Vellore632014,India
+ABSTRACT
+The quality of agriculture depends on the quality of the yield, which is usually obtained through the
+well-being of the crop. The quality of any crop depends on the minerals in the soil, the type of soil, thelocation, and the seasons. The crop yield depends on soil fertility, availability of water, climate, anddisease prevention. Although this information is prevailing in plenty among the expert farmers, the
+means of abducting the information to the future generation has not been much promoted. Hence,
+the knowledge disseminated regarding agriculture becomes scarce, affecting the entire agriculturalprocess. Given these facts, a single source, strong knowledge management system is proposed to bedesigned. The system aims to embrace the different kinds of knowledge associated with agricultureand attempt to obtain a single source of agro information that is very much usable and reusable tothe users. To ensure the maximum level of reusability, the knowledge of the domain needs to bemodeled and represented in a way that is scalable and flexible. One of the knowledge representa-tion techniques that emphasizes on reusability and scalability is ontology. Thus, this paper attemptsto design an ontology-based agro knowledge management system. A rule base is constructed toimprove the expressiveness of the knowledge. An incremental mining approach is adopted to extractthe knowledge from multiple ontology. To understand better to aid decision-making, a visualizationtask is carried out. A multi ontology-based knowledge mining model is attempted in this research toprovide better insight regarding agro knowledge.KEYWORDS
+Cropontology;Incremental
+miningapproach;Locationontology;
+Seasonontology;
+Soilontology;Ontologyvisualization
+1. INTRODUCTION
+Ontology Mining is a framework for sharing and
+reusing knowledge across a particular domain. Ontol-
+ogy, a viable knowledge representation technique, isknown for its semantics-based processing. The onto-logical schema appears to be a useful technique forprocessing semantic data and its analysis through theservice of conceptualization. As the conceptualizationenhances the data elements through property charac-teristics, the classification and discovery of knowledgebecome very easy. The process further enables gener-ating various interpretable patterns, which would bemore helpful for future predictions. To extract usefulknowledge patterns from an ontology, several ontologymining techniques, such as w eb mining technique, nat-
+ural language processing, machine learning, statistical
+techniques, data mining, and knowledge representation,
+a r em o s tw i d e l yu s e d .T h e s et e c h n i q u e sa r eu s e f u lt oextract different patterns of data from the represented
+knowledge.
+In this attempt, multiple ontologies, such as soil, loca-
+tion,season,andcrop,havebeencreatedandintegrated.The objective of creating separate multiple ontologies isto ensure the multiple levels of reusability and scalabil-ity of the agro knowledge. As the representations arepracticableforincludingdataatanyinstance,theknowl-edge level tends to increase, and it may have impactthe pattern created earlier. Hence, to accept and pro-cessthegrowingdatasetfortheinferenceswithoutomit-ting the earlier detected patterns and extract the pat-tern from the different sources, incremental mining isproposed.
+2. RELATED WORK
+Ontology is a system of knowledge for representing adomain. The ontology model is a framework for rep-resenting sharable and reusable knowledge across thedomain.Toextractinformationfromthereusablesource,ontology mining is usually applied. Especially in thedynamicdomainlikeagriculture,wherethedatatakeupdifferent dimensions of interpretations, the mining pro-cess facilitates the collection, storage, and use of dataenabling, easy interpretation, and reusing data. Apartfrom these, Ontology mining helps increase the qual-ity of entity analysis, improving the use and reuse of
+©2023IETE
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7857
+information systems, and exploiting the domain knowl-
+edge for wide sharing. Yet, many challenges have beenassociated with the process when dealing with large,dynamicdatabases.Hence,afeasiblesolutionisexpectedto obtain by using multiple ontologies. Various studieshave been carried out in the past to confirm the effec-tiveness of ontology and mining. Few notable researchs t u d i e si nt h i sd i r e c t i o na r eo u t l i n e di nt h ef o l l o w i n gsections.
+Ontology development has introduced a lot of reusable
+knowledge models. It provides better effectiveness insharing the information of dynamic domains. The min-ing of the ontology knowledge model generally cre-ates a pattern of facts that might be helpful for differ-ent decision-making processes, especially for a dynamicdomainlikeagriculture.
+The information flow of agriculture knowledge comes
+i nv a r i o u sd o m a i n s ,s u c ha sf o o d ,v e g e t a b l e ,f r u i t ,t r e e s ,
+flower, livestock, and aquaculture. Similarly, the infor-
+mation flow of soil mining knowledge comes with soilproperties,soilminerals,andsoilprocesses.Cropontol-ogy comes with crop type, plant anatomy, etc. Ontology
+mining helps to increase the quality of entity analysis,increased use and reuse of information systems, anddomainknowledgesharing.
+A domain ontology cannot be stored in a system with
+largeamountsofdata.Variouschallengesassociatedwithlarge databases such as searching, analysis, etc.Af e w
+studieshaveelaboratedontheuseofmultipleontologies.
+Earlier, Leite and Ricarte [ 1]p r o p o s e dan o v e lf r a m e -
+work of fuzzy information retrieval model to multi-
+ple ontology. For experimental purposes, Brazilian ter-ritorial and climate fuzzy ontology is taken as a sam-ple of input. Finally, knowledge expressed in multi-ple ontology and relationships as fuzzy relation showedbetter performance than multi-relationship fuzzy con-cept.Similarly ,aggregatemultipleontologybasedontheInducedOrderedWeightedAveragingoperator(IOWA)
+was proposed by Lai et al.[2]. For similarity aggrega-
+tion, six operators are used: maximal, minimal, average,
+a tl e a s th a l f ,m o s t ,a sm a n ya sp o s s i b l e .T oa c h i e v et h eperformance,acombinedmultiplematchingapproachisu s e d .A sar e s u l t ,i tw a sf o u n dt h a tt h i sm e t h o dc o u l dintegratemultiplematchingresultsandimprovetheper-formance of the matching system. Abburu and Babu [3 ]
+havealsoproposedanewclusterandparallel-basedmul-tiple ontology merge process. The input to the system ismultiple ontology, which belongs to the same domain.For experimental purposes, four ontologies are merged,and hence decreased merge cost over multiple ontol-ogy is produced. Likewise, the development of MultipleOntology Workspace Management System (MOWMS)and performance assessment were proposed by Xu et al.
+[4]. The functional requirement of MOWMS consists of
+userregistration,sign-upinterface,passwordencryption,service authorization, verification, ensuring users’ workwith their own workspace, SPARQL, service endpoints,configuration setting, etc.A sar e s u l t ,ap r i v a t eo n t o l -
+ogy workspace is given to the user, and it enables theusertostoreandretrieveinformationonontology,whereperformanceisreliable,buttheresponsetimeismore.
+Moreover, the recent development of ontology mining
+hasitsownpathintheagriculturedomain.Thisontologymining in the agriculture domain is mostly contributedtovegetablesupplychain,agriculturee-commerce,plantdomain knowledge, agriculture information retrieval,etc.
+Yueetal.[5]proposedaframeworkforvegetablesupply
+chain ontology construction. In the construction pro-cess, the initial stage consists in defining all the con-cepts and the relationships between them. In the nextstage, ontology is formalized, and in the final stage, it isexamined and evaluated for ontology construction. Asa result, information sharing and exchange among themembers of the vegetable supply chain is made. Simi-larlys,aknowledgesearchingsystemwasproposedbyFuetal.[6].Thesystemhasametadatamodelconstruction
+for agriculture, e-commerce knowledge, and manage-m e n t ,c o n s i s t i n go ft h r e el a y e r s ,p e r s o n n e la g r i c u l t u r e ,e-commerce knowledge, and agriculture e-commerce’sdomain metadata model. The system is formalizedby RDF, which solves the matching reasoning of e-commerceknowledgemanagementtorealizeknowledgesharing.
+Analogous to this, an ontology model of plant domain
+knowledge was proposed by Fan et al.[7]. The model
+was divided into botany and environmental knowledge.
+Theconceptandattributeintheplantdomainontology,
+relationshipcollection,axiomcollectionhavebeeniden-tified. Finally, the paper analyzes the plant knowledgemodelrepresentedusingOWL.
+Liyinget al.[8] also proposed an agriculture informa-
+tionretrievalsystembasedonontology.Theclassification
+system of the agriculture information network is made,indexing information is used to classify information.Computer programming is used to classify and indexthe agriculture information network automatically. Thes-matching algorithm of similarity calculating, which
+7858 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+includesthestructureofshallow,middle,anddeepmap-
+pingmodesisadopted.
+An ontology-based knowledge and optimization model
+to drive the decision support system for intercroppingwas similarly proposed by Phoksawat and Mahmud-din [9]. Knowledge acquisition and ontology modeling,
+ontology development and recommender system, andOptimizationmodelingandDSSimplementationaretheconceptual frameworks that help in intercropping to gethighincomewithlowcost.Theappropriateplantsthatfittheareaarealsorecommended.
+I o Tt e c h n i q u e sw i l lb r i n go u tar e c e n td e v e l o p m e n ti n
+visualization.
+Kodaliet al.[10] designed an agriculture soil moisture
+monitoringsystemthatalertsthefarmeronwhetherthe
+moisture content level is low. Losant platform is an IoTcloudplatformthatprovidesdatacollection,aggregation,
+visualization,andgraphwiththehelpofreal-timedevice
+and sensor data. Soil moisture sensor data are used asinput.Toconnectwiththelosantplatform,anapplicationis created, which helps to communicate with the sen-sor and visualize the final output. This method was notsatisfactory since the sensor was not placed all over thefield.
+Similarly, an application on cloud-based IoT has been
+proposedbyDholu etal.[11].Thespecialtyofthisappli-
+cation is the implementation of precision agriculture,whereaminimaln umberofresourcesaregiventocropsduring the apt time. The inputs to the IoT module aresoil moisture sensor, humidity, and temperature sensor.Soil moisture is measured by YL-69 electrodes; DHT11 device measures the humidity and temperature. IoTplatform helps in storing, visualizing, and analyzing thedata.Amobileapphelpsvisualizethedata,namelytem-p e r a t u r e ,r e l a t i v eh u m i d i t y ,a n ds o i lm o i s t u r e .H o w e v e r ,there is no response given by the system to alert thefarmerwhethersomeparametersareoutofthethreshold
+level.
+An IoT platform called VegIoT for smart applications
+was developed by Codeluppi et al.[12]. It deals with
+the management of vegetable gardens through the col-lection, monitoring, and analysis of sensor data relatedto parameters for growing plants. The application con-sistsofagardenwirelesssensornetworkthathelpscollectdata from the field. Home node collects the data andstores it. The mobile app is used for data visualizationandvegetablestatusmonitoring.Hence,thetoolhelpsthefarmers solve multiple issues and suggests proper actionduring farming. However, future prediction and diseasepreventionmechanismwasnotprovided.
+Someapproachesandmodelsarediscussedbrieflyinthe
+followingsection.
+A system for uniform fertilizer application was devel-
+oped by Gil et al.[13]. The work focuses on the design
+of new automated assistance tools, and it helps farm-erstakeappropriateactionsinthefield.Theinformationabout fertilizer used in the field is stored using GPS andGIS.Thehistogramshowsthestoringofthefertilizerses-sion.Finally,thesystemhelpsinsubstantialsavingsintheproductionandtheprotectionoftheenvironment.
+Tanet al.[14] likewise proposed extensible and inte-
+gratedsoftwarearchitecturefordataanalysisandvisual-
+izationinprecisionagriculture.Theinputiscollectedbyamobilesensor,anditconvertsthemintoauniforminter-nal presentation for data processing. The main purpose
+of the AgriD software architecture is to provide guide-
+lines for analytical tools that process and visualize thefield’s collected data. Finally, the results are visualizedusingJzy3d,anopen-sourcejavalibrary.
+Yetanothernewzoningmethodthatoptimallydelineates
+rectangular homogeneous management zones using rel-ativevariancetoguaranteehomogeneitywasprovidedbyCid-Garcia etal.[15].Aninputof40soilsamplesistaken
+fromanagriculturefield.TheILPMZmethoddelineatesthe most homogeneous rectangular management zonesfromafieldforsoilproperties.Aclassicalzoningmethodis compared with the ILPMZ method. Hence it is foundthattheILPMZmethodismoreefficient.
+Similarly,acomparisonoffourfeaturesetsforthedetec-
+tion of visual features representing non-fruit and cof-fee fruit was proposed by Carrijo et al.[16]. The input
+used is an Unmanned Aerial Vehicle(UAV), which isused to obtain high-resolution RGB images of a coffeefield. The proposed methodology enables the extraction
+of visual features from image regions and uses super-
+visedMachineLearning(ML)techniquestoclassifyareasas coffee fruits and non-fruits. As a result, the ANNmodel is more reliable for accurately identifying coffeefruit.
+Aknowledgebaseofanagriculturalenterprise,amodel,
+and a method was developed by Skobelev et al.[17]
+with the help of a software service. The knowledge baseincludes information on crop growing conditions, cropproduction, plant disease, soil type, application of fer-tilizer,etc.I nc o n c l u s i o n ,t h ep r o p o s e dm e t h o dh a sa
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7859
+solutionfornewsoftwaretoolsformanagingagricultural
+production,anditreducesthecostoftheend-user.
+T h e4 Dr e c o n s t r u c t i o na p p r o a c hw a s ,a n a l o g o u s l y ,p r o -
+posedbyDong etal.[18]forcropmonitoring,whichuses
+a spatio-temporal model of dynamic scenes useful forprecision agriculture applications. A sample of 21 rowsof peanut plant, where the ground vehicle attached withcamera and sensor which collect data, is taken as theinput. As a result, the 4D approach is a set of 3D pointclouds with a pleasing visual appearance and correctgeometric properties. Sehgal et al.[19] likewise devel-
+opedavisualanalyticaltoolusingmachinelearningandoptimization-based approach to predict the seed varietychosen by the farmer which helps in decision-makingand also provides visualization. Syngenta crop challenge2016datasetisused,whichisacombinationofuptofivesoybeanvarieties.Inconclusion,ageo-spatialvisualana-lyticstoolisused,whichexploresrawdataandhelpsthefarmergetasolution.
+Anovelvision-basedcrop-weedclassificationsystemwas
+similarly developed by Lottes et al.[20]. The experi-
+ment was conducted on sugar beet fields with the helpof robots. All robots were using RGB +NIR cameras,
+and the input to the classification system was taken asthe sequence of images. As a result, this system classi-fies crops in different growth stages and spatial arrange-ments of plants through stimulation. Kuang et al.[21]
+compared the visual classification of kiwifruit imagesbetween deep neural network and decision tree classi-fierwithfeaturesandclassificationalgorithmtoassesstheperformanceandimplementationcost.Theresultrecom-mends that DNN-based object classification gives highaccuracy.
+Similarly, Michelon et al.[22]d e v e l o p e daw e ba p p l i -
+cation called AgDataBox for the control and manage-
+ment of agriculture fields. The data obtained from dif-ferent sources, such as soil sample data, georeferencedimages,precipitation,fieldoperations,andthematicmap,
+are taken as input. As a result, the thematic map can
+help toward the correct interpretation to fertilizer appli-cation at the right place and in the necessary amountto increase the productive potential in the field. Liet al.[23]p r o p o s e dan o v e lm e t h o df o rr e c o g n i z i n g
+crop plant in a field with weed. Visual features, suchas color, intensity, and orientation, are extracted andcombined to generate a saliency map. The experimentresults demonstrate that the proposed method accu-rately segment crop plant from a weedy background inreal-time.A stand-alone crop recommending device that detectst h es o i lq u a l i t ya n dp r o v i d e sal i s to fc r o p st ob ec u l t i -vatedthatcanbeavailedfromthedatabasewasproposedby Martinez-Ojeda et al.[24]. The device uses different
+sensorstomeasurethePHlevels,soilmoisture,soiltem-perature,andsoilfertility.Tensamplesperdayweretakenf r o mat e s t i n gs i t ef o r1 0d a y s .T h er e s u l tf r o mt h eb a rchart displayed crops that can be planted in a particularsoiltype.
+An o v e lm a pt h a ts h o w sag r i d - b a s e dm u l t i m o d a le n v i -
+ronment with a vegetation index and a digital surfacemodelwassimilarlydevelopedbyPotena etal.[25].The
+input data are collected from soybeans, sugar beets, andwinter wheat fields. Finally, a multimodal environmentthat uses semantics and geometry of the target field andad a t aa s s o c i a t i o np r o b l e mi ss o l v e du s i n gt h eL D O Fproblem.
+Thefollowingsectionwillhighlighttheusageofsensors
+inthefieldofagriculture.
+Floreset al.[26] developed a wireless sensor network
+applicationtomonitorenvironmentalparameterswhich
+affect crop development. The recommendation systemprovides the type and amount of fertilizer to be appliedi nt h efi e l d .T h em a i ns e r v e rs h o w sv i s u a l i z e ds t a t u so fthe environment and soil around the crop, using whichthefarmercantakeappropriateactionforcropyield.
+Analogously, a low-cost resistive soil moisture sensors
+performance was evaluated by Saleh et al.[27]. A
+resistivity-based soil moisture sensor is used to read theamountofmoisturepresentinthesoil.Althoughseveralerrors were identified, such as sensitivity to electrolyticcorrosion, sensitivity to soil ion concentration, sensitiv-itytotemperature,andinstallationerror,itissuitedonlyforshortapplication.
+A case study of using Soil Moisture Active and Pas-
+sive (SMAP) soil moisture data products for agriculture
+land soil assessment was done by Yang et al.[28]. Data
+were collected by measuring surface soil moistureusing
+as e n s o r .A sar e s u l t ,t h eS M A Pr e s u l ti sc o n s i s t e n tw i t hthe NASS survey result. In addition to this, Vegscape-b a s e dp r o t o t y p ee n h a n c e st h eu s e re x p e r i e n c ef o rc r o pconditionmonitoringanddecisionsupport.
+Astudyofbarrierstoimplementingprecisionagriculture
+and an automatic decision-making system was likewiseproposedbyMarios etal.[29].Finally,anoverviewofthe
+existing agricultural circuit and sensing system used to
+7860 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+construct an automated circuit and sensing system was
+studied.
+Similarly, systematic irrigation and soil testing method
+was proposed by Reddy et al.[30]. Here, the mois-
+ture sensor, NPK sensor, TCS230 color sensor are usedas input. As a result, the NPK sensor was successfullyimplanted using a control unit. The volumetric percent-a g eo fw a t e rc o n t e n ti su s e dt oc o n t r o lt h ew a t e rp u m panddecideitswaterrequirement.
+El-magrous et al.[31] designed, developed, and tested
+a customizable weather soil sensor station alike, for
+precision agriculture based on wireless communication,clouddatastorage,andcomputationtechnology.Finally,statistical and machine learning techniques are inte-grated into the app for various precision agricultureapplications.
+Thefollowingsectionwillhighlighttheusageofsatellite
+images,aerialimages.
+Amethodforimagebrightnesscorrectionwasproposed
+by Mednieks et al.[32] .T h ei m a g ev a r i e sd u et oa t m o -
+sphericconditions.Amultispectralimageisanalyzedforrural areas related to different vegetation types. Finally,theimageofanareaiscomparedbeforevisiblelight,andcorrectionisproposed.
+An assessment of peanut pod maturity by an automated
+visual analysis was done by Bindlish et al.[33]. Visual
+analysis of the middle layer of the shell is known asmesocarp. As a result, the classification method is basedon pod size and mesocarp color. An accuracy of 92.5%wasobtainedinidentifyingbrown-blackpeanutsineachsample.
+Similarly, a community-based research initiative related
+to interactive web-based information visualization andGISdecisionsupportsystemwasdeployedbyWachowiaket al.[34] .A sar e s u l t ,t h ew e bs e r v i c ea l l o w sf o rs h a r -
+inginformationbetweentheresearcherandtheproducer.The producer allows the researcher to monitor the fielda n du s ead e c i s i o ns u p p o r ts y s t e mt oi m p r o v et h ec r o pyield.
+Later, Xu et al.[35] developed an automatic weed
+mapping and Variable Rate Herbicide Spraying sys-
+tem(VRHS) for row crops. Here, charge-coupled devicecameraimagesareusedastheinput,andimageprocess-ing technology controls the herbicide application rate.DSPcontrollerhelpscontroltherateofsprayingaccord-ingtoreal-timeweeddistributionmapping.Inadditiontothis,anintegratedinformaticsfarmingsys-temwasproposedbyVijayaKumar etal.[36].Theinput
+tothemodelisahighlyscalablemapinterfacetovisualizet h ed a t ao nE R O S( E a r t hR e s o u r c eO b s e r v a t i o nS a t e l -lites)images. As a result,thefarmers have easyaccess todata regarding their farms which helps them in effectivecultivationofcrops.
+Finally, an automatic vegetation monitoring system was
+developed by Santos et al.[37]. The system analyzes the
+crop images and divides them into regions using imagescaptured by unmanned aerial vehicles, and are identi-fied by color for easy visualization. As a result, usinga portable system allows farmers to identify whether aplantneedsspecialcareornot.
+Thefollowingsectionwillhighlightthedatavisualization
+anddataminingtechniques.
+Chen and Roeber [ 38]d e v e l o p e daN e b r a s k ac r o p
+surveillance network project. The main objective of this
+project is automatic field data collection and processingand tracking of soybean disease infection patterns. Thesystem fetches the data from the MYSQL database andfeedsthemintotheZGDchartcomputergraphrenderingpackage, which renders the data and displays the resultgraphically. A chart type, such as a line chart, pie chart,a n dh i s t o g r a m ,i sp r o d u c e di n2 Da n d3 De ff e c t s .L a t e r ,Zhanget al.[39] developed an automatic soil nutrient
+detectionsystem.Thedataarecollectedthroughanion-sensitiveelectrodeanddisplayedonanLCDscreen.Asaresult,ittakesonly90secondstotestasoilsample,whichhelpstoimprovethetestefficiencyandaccuracy.AlabormonitoringsystemwasdevelopedbyTan etal.[14].The
+system consists of real-time labor monitoring, payrollaccrual, and data-based labor analysis. Here, a cloud-basedsystemcollectslaborinformationfrompreviouslydesigned labor monitoring devices and visualizes real-t i m el a b o rp r o d u c t i v i t yd a t at h r o u g ham o b i l e - f r i e n d l yuser interface. As a result, the real-time labor monitor-ing system can be connected to a variety of devices and
+viewed. Akin to this, Venkata Krishna et al.[40]p r o -
+posedamiddlewarearchitectureforprecisionagriculture
+to solve agricultural-related problems, such as wastageo fw a t e r ,u s eo fi m p r o p e rf e r t i l i z e r s ,c h o i c eo fw r o n gcrops and seasons, poor yield, etc. Finally, a stimulation
+i sd e v e l o p e dw i t has c e n a r i ob a s e do nt h ec u l t i v a t i o no fpaddy, and the results are compared with existing man-ual cultivation, and a graph is drawn to identify theefficiency.
+Analogously, Gandhi et al.[41] highlighted a study
+on applying data visualization techniques to find the
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7861
+correlation between climatic factors and rice crop yield.
+The dataset is collected from the National Bureau ofSoil Survey and Land Use Planning. The experimentalresultsshowthatJ48andLADTreedisplayedthehighestaccuracy,sensitivity,andspecificity.
+Jedlickaet al.[42] also focused on big data visualiza-
+tion for agriculture using 3D visualization. The mainobjectives are as follows: (i) agriculture and rural devel-
+opment data (ii) predicted crop yield, (iii) linked opendata related to agriculture. The main data sources areLANDSAT satellite images. An estimated yield was cal-culated for a separate scene in relation to each pixel tothe mean value of the whole field. The Rostenice appli-cationhelpsvisualizethecropyielddatasetfromsatelliteimagery.
+Figure 1: Agroincrementalminingmodelframeworkforperformanceevaluation
+Figure 2: Agro_incrementalminingsoilontologyconcept
+7862 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+Table 1: Object property of soil ontology, crop ontology,
+location ontology, and crop seasoning ontology
+S.No Model Objectproperty
+1. Soilontology Clay_soilsubclassofsoil_types
+2. Cropontology Wheatsubclassoﬀood_crop
+3. Locationontology Arcotsubclassofvellore_district
+4. Cropseasoningontology Rabisubclassofcrop_season
+Finally, a visual sensing system for monitoring and con-
+trolling purposes in agriculture and forest area was laterdeveloped by Pinho et al.[43]. Disease control, post-
+processing, parameter estimation, UAVs, and satelliteswereaddressedinthestudy .Centralizedserverandsoft-waretoolshelpsinthedecision-makingprocess.
+Thus, with the study carried out, a comparison agro
+ontologymodelwillbringoutefficiency.Inviewofthis,aframeworkisproposed,whichhasbeenelaboratedinthefollowingsection.
+3. DESIGN OF AGRO ONTOLOGY FRAMEWORK
+(i) Argo_dataacquisitionandvalidation
+(ii) OntologyAgro_incrementalminingmodel
+(iii) MultipleontologyAgro_incrementalminingmodel
+(iv) Agro_incrementalminingmodelvisualizationT h es y s t e mi sd e s i g n e dt oe n c l o s et h ea g r of a c t sr e l a t e dto attributes of soil mineral, temperature, humidity, sea-son, soil type, crop type, and location as soil ontology.A crop ontology is separately designed to categorize thecr o psinahiera r c hicalo r der ,whileaCr o psea so no n t o l-ogy is planned to enclose the facts existing betweent h ec l i m a t ea n dt h ec r o p .A no n t o l o g yp r u n i n gi sp e r -formedtoomittheirrelevantfactsandtherebyimprovingthe efficiency of reasoning. The design of agro multipleontology incremental mining framework was given inFigure1.
+3.1 Agro_Data Acquisition and Validation
+T h ea g r i c u l t u r ed a t aa r ec o l l e c t e df r o ma ne x t e r n a l
+source as per the paper’s objective. The data collectedhave facts about soil mineral, temperature, humid-
+ity, season, soil type, crop type, and location, which
+are collected from a reputable resource. The collecteddata are subjected to agro pre-processing, where datacleaning is performed. In data cleaning, irrelevant andincomplete data are cleaned and normalized for fur-ther processing. As the data werefrom a reliable source,the availability of issues is limited, and hence a man-u a ls c r e e n i n gw a sd o n et og e tr i do ft h e s ei s s u e s .T h e
+Figure 3: Agro_incrementalminingcropontologyconcept
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7863
+Figure 4: Agro_incrementalmininglocationontologyconcept
+Figure 5: Agro_incrementalminingcropseasoningontologyconcept
+c l e a n i n gp r o c e s sw a sf o l l o w e db yad a t ar e d u c t i o ni n
+which attributes that are not related to research objec-tives are removed, and in the data integration task per-formedsinceontologyAgro_incrementalminingmodelsrequired data from different sources. Preprocessed datacontain information on soil minerals, such as calcium,magnesium,phosphorus,temperature,humidity,season,s o i lt y p e ,c r o pt y p e ,a n dl o c a t i o n .P r e p r o c e s s e dd a t aa r egiven as input to the ontology Agro_incremental min-ing model and multiple ontology incremental miningmodels.
+3.2 Ontology Agro Mining Model
+Soil ontology has an input of soil mineral composition
+wheresoiltypeisbasedonmineraldata.Incropontology,the input data, such as soil type, temperature, humidity,and crop type, are obtained as output. In location ontol-ogy, the data soil type, temperature, and crop type areg i v e na si n p u t ,a n dt h el o c a t i o ni so b t a i n e da so u t p u t .Crop seasoning ontology, crop type, temperature, andlocation are given as input, and seasoning is obtained asoutput. All the above ontology agro models commencewith conceptualization, and they are followed by for-malization.Theconceptualizationbeginswithcollectingrelevant facts such as soil mineral for soil ontology, croptypeforcropontology,locationforlocationontology,andseasoningforcropseasoningontology.Theformalization
+iscarriedouttocreateasemi-structuredknowledgebase.
+Fromthecollecteddata,anontologystructureiscreated.TheconceptforontologymodelconstructionisgiveninFigures2–5.
+7864 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+Figure 6: Classhierarchyforontologysoilontology
+Figure 7: Classhierarchyforontologycropontology
+Initially, the data needed for the model are collected,
+a n da na n a l y s i si sm a d ef o ru s a b i l i t yf o rm o d e lc r e a t i o n .The collected data are used for building up an ontol-ogy model. The nomenclature structure created in theprotégéontologyisgiveninFigures 6–9.
+Having created a class structure, the class is describedusing the object properties. The object property is usedto describe the relationship between the classes. Asample object property is given for illustration purposes(Table1).
+Figure 8: Classhierarchyforontologylocationontology
+Figure 9: Classhierarchyforontologycropseasoningontology
+3.3 Multiple Ontology Agro_Incremental Mining
+Model
+Multiple ontology Agro_incremental mining modelsbe gi nwi thth ep r oc e s so fc r ea ti n ga ni n c r e m e n talo n t o l -
+ogy model where the output of the previous ontology
+model is given as input to the next ontology model.Soil ontology commences with the conceptualization ofontology agro incremental mining that is relevant tos o i lt y p eb a s e do nm i n e r a lc o m p o s i t i o n .T h i si sf o l -l o w e db yc r o po n t o l o g yw h i c hb e g i n sw i t ht h eo u t p u tof soil ontology, which is given as input along withtemperature and humidity, where crop classification isobtained. In location ontology, which starts with outputfromthepreviousmodel,isgivenasinputtothecurrentmodel and temperature and soil type. Finally, to obtaincrop seasoning as output, the input location is obtained
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7865
+Algorithm: Soil, crop, and location classiﬁcation
+Input:LetObtainedData {1...n1+1}andV{1...n2+1}beanewVector’s
+Vn={V1,V2,V3.....until }//get user input as thresholdValue e.g. V 1->2000
+//1→
+functionobtainSoilType(V n)
+fori=V1tountildo
+ObtainedData←Database.getSoilInfo(i)
+// primaryKey =thresholdValue
+// TableName =soilInfo, primaryKey =thresholdValue
+//1st row record →|thresholdVale =2000|soilname =claysoil|
+//2nd row record →|thresholdVale =2001|soilname =claysoil|
+soilType =ObtainedData.soilname
+returnsoilType
+endfor
+endfunction
+Input:LetObtainedData {1...d1+1}andT {1...d2+1}beanewVector’s
+Tn={T1,T2,T3.....until }//get user input temperature Value e.g. T 1->100
+Hn={H1,H2,H3.....until }//get user input humidity Value e.g. H 1->low or medium or high
+soil_type =S1//obtain data from previous function S1- >claysoil
+//2→
+functionobtainCropType(S n,Tn,Hn)
+ifthesoil_type =S1ANDtemperature =T1ANDhumidity =H1
+crop_type ←ObtainedData.crop
+Type
+returncropType
+endif
+endfunction
+Input:LetObtainedData {1...c1+1}andA{1...c 2+1}beanewVector’s
+An={A1,A2,A3.....until }//get user input as Temperature Value e.g. A 1->100
+soil_type =E1//obtain data from previous function E1- >claysoil
+crop_type =F1//obtain data from previous function F1- >soybean
+//3→
+functionobtainlocation(E n,An,Cn)
+ifthesoil_type =E1ANDtemperature =A1ANDcrop_type =F1
+location ←ObtainedData.location
+returnlocation
+endif
+endfunction
+Input:LetObtainedData {1...s1+1}andA{1...s 2+1}beanewVector’s
+Un={U1,U2,U3.....until }//get user input temperature Value e.g. U 1->100
+crop_type =R1//obtain data from previous function F1- >soybean
+location =L1// obtain data from previous function
+//4→
+functionobtainCropSeasoning(U n,Rn,Ln)
+ifthecropType ==R1ANDtemperature ==U1ANDlocation ==l1
+cropSeasoning← ObtainedData.
+seasoning
+returncropSeasoning
+endif
+endfunction
+Output:Soil_type, crop_type, location, crop_seasoning
+Table 2: Object property of multiple ontology
+S.No Objectproperty
+1. Soil_featuressubclassofsoil
+2. Soil_locationsubclassofsoil
+3. Crop_typesubclassofsoil
+4. Humiditysubclassofsoil
+from the previous model along with temperature and
+croptype.
+The concept of the multiple ontology agro incremental
+miningmodelisgiveninFigure 10.
+As followed in the individual ontology model, in thismultiple agro ontology mining model we are building aclass structure. The ontology class construction is giveninFigure 11.AsampleobjectpropertyistabulatedinTable 2.
+A na l g o r i t h mi sp r o p o s e dt h a tt a k e si n p u ta ss o i lm i n -eral details in iteration 1 and provides the output ofsoil type. In iteration 2, the output of iteration 1 withtemperature and humidity is taken as input to produce
+croptype.Similarly ,incrementalalgorithmfashionisfol-
+lowed up to iteration 4. In iterations 3 and 4, location &cropseasoningisobtainedasoutput.
+Theabovealgorithmcanbemathematicallyexpressedas
+follows.
+Input details of the algorithmare given by soil minerals,
+temperature,humidity,soiltype,croptype,andlocation.
+7866 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+Figure 10: MultipleAgro_incrementalminingconcept
+Figure 11: ClasshierarchyforMultipleAgro_incrementalmining
+With each input, a vector S0 is created. The S0 is the
+vertexweightatone-timepoint.At some point of time, the weight of the vertex changesdependingontheweightofthefactorsinfluencingit.For
+graphrepresentation,wecanuseaknowledgeablematrix
+aboutthegroupofobjectsandtherelationshipsbetweenthem.
+L e tt h eIs t a t et h em a t r i xt h a tt h ee n t r yo ft h em a t r i xi s
+the weight between the vertices i and j. We call it theapproximateweightofthealgorithmmatrix.
+S
+1=XS0, (1)
+Fornthstep,Sn=XnS0 (2)
+For(n+1)step,Sn+1=Xn+1S0 (3)
+IfwewriteS 0aslinearcombinationofeigenvalues
+aij:S0=λiai (4)
+ThennthSn=/summationdisplay
+λn
+iai(5)
+3.3.1 Rule Evaluation for Agro Incremental Mining
+Model
+The performance of the ontology model is evaluated
+by comparing the rule validation, which will bring outthe truthfulness of the model. Support, confidence, lift,conviction, and leverage are carried out for the ruleevaluation.
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7867
+Table 3: Multiple ontology rule evaluations
+Multipleontology
+RuleSupport
+(Xc)Conﬁdence
+(Xc)Lift
+(Xc)Conviction
+(Xc)Leverage
+(Xc)
+A→C 0.21 0.20 1.17 1.04 0.030
+A→PH 0.23 0.3 1.28 1.08 0.050
+A→PO 0.24 0.3 0.89 0.96 −0.030
+A→M 0.20 0.2 1.11 1.03 0.020
+A→Y 0.05 0.19 0.79 0.99 −0.013
+A→S 0.21 0.2 1.17 1.04 0.030
+A→L 0.09 0.19 1.11 1.01 0.009
+C→PH 0.02 0.18 0.50 0.89 −0.020
+C→PO 0.02 0.19 0.33 0.78 −0.040
+C→M 0.07 0.3 1.75 1.23 0.030
+C→Y 0.007 0.0 0.50 0.96 −0.007
+C→S 0.04 0.2 1.00 1.00 0.000
+C→L 0.02 0.18 1.11 1.01 0.002
+PH→PO 0.03 0.19 0.50 0.82 −0.030
+PH→M 0.02 0.17 0.50 0.89 −0.020
+PH→Y 0.00 0.0 0.00 0.93 −0.014
+PH→S 0.03 0.18 0.75 0.94 −0.010
+PH→L 0.02 0.19 1.11 1.01 0.002
+PO→M 0.03 0.17 0.50 0.89 −0.030
+PO→Y 0.007 0.0 0.33 0.95 −0.014
+PO→S 0.03 0.18 0.50 0.89 −0.030
+PO→L 0.02 0.19 0.74 0.98 −0.007
+M→Y 0.007 0.0 0.50 0.96 −0.007
+M→S 0.04 0.2 1.00 1.00 0.000
+M→L 0.02 0.18 1.11 1.01 0.002
+Y→S 0.02 0.3 1.43 1.13 0.006
+Y→L 0 0.0 0.00 0.91 −0.006
+S→L 0.02 0.17 1.11 1.01 0.002
+CS→LS 0.02 0.4 10.00 1.90 0.018
+CS→SS 0.01 0.3 6.25 1.28 0.008
+CS→SLS 0.01 0.3 6.25 1.28 0.008
+LS→SS 0.02 0.4 10.00 1.60 0.018
+LS→SLS 0.02 0.4 10.00 1.60 0.018
+SS→SLS 0.01 0.3 6.25 1.28 0.008
+Support:
+Tobringouttheevaluationprocess, thesupportiscalcu-
+latedbythenumberoftransactionsindatabaseDtothetotalnumberoftransactions.Thesupport(X )isgivenby
+theexpression
+Support (X)=Number of transaction in X
+Total number of transaction
+Asaresult,itisobservedthat
+Therangeofsupportforindividualontology1:[0,0.28]Therangeofsupportforindividualontology2:[0.08,0.46]Therangeofsupportforindividualontology3:[0.2,0.5]Therangeofsupportforindividualontology4:[0,0.28]
+Therangeofsupportformultipleontology:[0,0.24]Confidence:
+Confidence is defined as how often each item in Y
+appearsinthetransactionitemin X.
+Confidence (X⇒Y)=Supp(X∪Y)
+Supp(X)
+Asaresult,itisobservedthatThe range of confidence for individual ontology 1:
+[0,0.4]
+The range of confidence for individual ontology 2:
+[0.26,0.54]
+The range of confidence for individual ontology 3:
+[0.35,0.56]
+The range of confidence for individual ontology 4:
+[0.24,0.6]
+Therangeofconfidenceformultipleontology:[0,0.4]Lift:
+Theliftvalueofanassociationruleistheratioofthecon-
+fidence of the rule and the expected confidence of therule.Iftheliftvalueisgreaterthan1.0,itimpliesastrong
+Table 4: Normalized multiple ontology rule evaluation
+RuleNormalized
+SupportNormalized
+ConﬁdenceNormalized
+LiftNormalized
+ConvictionNormalized
+Leverage
+A→C 0.88 0.40 0.12 0.23 0.78
+A→PH 0.96 0.60 0.13 0.27 1.00
+A→PO 1.00 0.60 0.09 0.16 0.11
+A→M 0.83 0.40 0.11 0.22 0.67
+A→Y 0.21 0.20 0.08 0.19 0.30
+A→S 0.88 0.40 0.12 0.23 0.78
+A→L 0.38 0.20 0.11 0.21 0.54
+C→PH 0.08 0.20 0.05 0.10 0.22
+C→PO 0.08 0.20 0.03 0.00 0.00
+C→M 0.29 0.60 0.18 0.40 0.78
+C→Y 0.03 0.00 0.05 0.16 0.37
+C→S 0.17 0.40 0.10 0.20 0.44
+C→L 0.08 0.20 0.11 0.21 0.47
+PH→PO 0.13 0.20 0.05 0.04 0.11
+PH→M 0.08 0.20 0.05 0.10 0.22
+PH→Y 0.00 0.00 0.00 0.13 0.29
+PH→S 0.13 0.20 0.08 0.14 0.33
+PH→L 0.08 0.20 0.11 0.21 0.47
+PO→M 0.13 0.20 0.05 0.10 0.11
+PO→Y 0.03 0.00 0.03 0.15 0.29
+PO→S 0.13 0.20 0.05 0.10 0.11
+PO→L 0.08 0.20 0.07 0.18 0.37
+M→Y 0.03 0.00 0.05 0.16 0.37
+M→S 0.17 0.40 0.10 0.20 0.44
+(continued ).
+7868 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+Table 4: Continued.
+RuleNormalized
+SupportNormalized
+ConﬁdenceNormalized
+LiftNormalized
+ConvictionNormalized
+Leverage
+M→L 0.08 0.20 0.11 0.21 0.47
+Y→S 0.08 0.60 0.14 0.31 0.51
+Y→L 0.00 0.00 0.00 0.12 0.38
+S→L 0.08 0.20 0.11 0.21 0.47CS→LS 0.08 1.00 1.00 1.00 0.64
+CS→SS 0.04 0.60 0.63 0.45 0.53
+CS→SLS 0.04 0.60 0.63 0.45 0.53
+LS→SS 0.08 0.80 1.00 0.73 0.64
+LS→SLS 0.08 0.80 1.00 0.73 0.64
+SS→SLS 0.04 0.60 0.63 0.45 0.53
+Figure 12: Chart for Normalized multiple ontology rule
+evaluation
+associationbetween XandY.
+Lift(X=>Y)=P(X|Y)
+P(Y)=Supp(XUY)
+Supp(X)xSupp(Y )
+Asaresult,itisobservedthat
+Therangeofliftforindividualontology1:[0,2]Therangeofliftforindividualontology2:[0.69,1.08]Therangeofliftforindividualontology3:[0.63,0.99]Therangeofliftforindividualontology4:[0.53,0.95]Therangeofliftformultipleontology:[0,10]In ontology 1, 21 rules out of 28 are strongly associated.
+In ontology 2, 3, and 4, there is no strong association,whereasinmultipleontology17ruleshaveavaluegreaterthan 1, and5 rules are closer to 1. Therefore, out of 34rules,22rulesareverymuchstronglyassociated.
+Conviction:Convictionisdefinedbythefollowingexpression
+Conv(X ⇒Y)=(1−supp(Y))/((1 −conf(X ⇒Y))
+Asaresult,itisobservedthat
+The range of conviction for individual ontology 1:
+[0.88,1.23]
+The range of conviction for individual ontology 2:
+[0.76,1.09]
+The range of conviction for individual ontology 3:
+[0.68,1]
+The range of conviction for individual ontology 4:
+[0.63,0.93]
+Therangeofconvictionformultipleontology:[0.78,1.9]In ontology 1, 15 rules out of 28 are strongly associated.
+In ontology 2, 3, and 4, there is no strong association,whereasinmultipleontology17ruleshaveavaluegreaterthan 1, and 12 rules are closer to 1. Therefore, out of 34rules,29rulesareverymuchstronglyassociated.
+Leverage:Theleverageiscomputedusingthefollowingexpession
+Leverage(X ⇒Y)=Supp(X∪Y)−Supp(X)∗Supp(Y)
+Thecomputedoutcomeoftheleverageis
+The range of leverage for individual ontology 1: [ −0.02,
+0.1]The range of leverage for individual ontology 2: [ −0.07,
+0.04]Therangeofleverageforindividualontology3:[ −0.12,0]
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7869
+Figure 13: Pruningforselectionphase–croptype
+Figure 14: DecisiontreePruningforcroptype
+7870 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+Figure 15: DecisiontreePruningforsoiltype
+Figure 16: Visualizedclasshierarchy
+The range of leverage for individual ontology 4: [ −0.12,
+−0.01]
+The range of leverage for multiple ontology: [ −0.04,
+0.05]The value “0” indicates independence, and the value
+above “0” indicates acceptance of rules. From Table 3,i t
+isnotedthat,inontology1,2rulesarenotdesirable,andinontology3,1ruleisnotdesirable,whereasinmultipleontology2rules,outof34rulesarenotdesirable.
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7871
+Normalized Support, Confidence, Lift, Conviction,
+LeverageforMultiple:
+Table4and Figure 12.T h eN o r m a l i z e ds u p p o r t ,c o n fi -
+dence,lift,conviction,leverageformultipleontologyrule
+evaluationisgivenintheT able4 andnormalizedchartis
+giveninFigure 1.
+3.3.2 Ontology PruningTheintentionofthepruningistoautomaticallypullouta subset of conceptualization that is appropriate to theontology domain. In this ontology pruning, irrelevantdata for the subset concept are removed, which willincrease the processing time of the concept. In the fol-
+lowing concept, two stages are involved. The first phase
+consistsoftheselectionphase,andthesecondphasecon-sistsofthepruningphase.Intheselectionphase,asubsetof crop type is selected. In the pruning phase, decisiontreepruningisappliedtothesubsetoftheconcept,whichwill increase the execution time. A sample snapshot isappliedforillustrationpurposes(Figures 13–15).
+4. AGRO_INCREMENTAL MINING MODEL
+VISUALIZATION
+Data visualization is the technique used to communi-cate data or information in a graphical form. Data val-
+u e sw i l lb er e p r e s e n t e dv i s u a l l yb yap i c t o r i a lm a r ks u c h
+a ss i z eo rc o l o rw i l lh e l pi nd e t e r m i n i n gt h ev a l u eo fdata.Ontology-basedagroincrementalminingmodelisshowninavisualizedforminFigure16.
+5. CONCLUSION
+O n t o l o g yi sat o o lf o rr e p r e s e n t i n gd o m a i nk n o w l -edge. A structured method of ontology is importantfor ontology development and evaluation. This paperpresentstheperformanceevaluationofindividualontol-ogyagroincrementalminingwithmultipleontologyagro
+incremental mining models. The results of the compar-
+ative study bring out that multiple ontology agro incre-mental mining models have good performance than theindividualontologyagroincrementalminingmodel.
+DISCLOSURE STATEMENT
+Nopotentialconflictofinterestwasreportedbytheauthor(s).
+REFERENCES
+1. M. A. d. A. Leite and I. L. M. Ricarte, “Fuzzy information
+retrieval model based on multiple related ontologies,” in
+200820thIEEEInternationalConferenceonToolswithArti-
+ficial Intelligence ,2008, pp. 309–16, DOI:10.1109/ICTAI.
+2008.72.2. J. Lai, Y. Wang, R. Zhang, X. Gu, T. Yu, and J.
+Li, “Aggregating multiple ontology similarity based on
+IOWA operator,” in 2010 2nd International Workshop
+on Database Technology and Applications ,2010, pp. 1–4,
+DOI:10.1109/DBTA.2010.5659030 .
+3. S.AbburuandG.S.Babu,“Aclusterbasedmultipleontol-
+ogy parallel merge method,” in 2013 International Con-
+ference on Recent Trends in Information Technology (ICR-
+TIT),2013, pp. 335–40, DOI:10.1109/ICRTIT.2013.684
+4226.
+4. X. Xu, G. M. Luis, A. Lobov, and J. L. Martinez Las-
+tra, “Multiple ontology workspace management and per-
+formance assessment,” in 2015 IEEE 13th International
+Conference on Industrial Informatics (INDIN), 2015,p p .
+1063–8,DOI:10.1109/INDIN.2015.7281882 .
+5. J.Y ue,W .Mu,X.Liu,andZ.Fu,“Usingprotégétoconstruct
+vegetable SCM knowledge ontology,” in 2006 6th World
+Congress on Intelligent Control and Automation ,2006,p p .
+7123–7,DOI:10.1109/WCICA.2006.1714467 .
+6 .Z .F u ,J .Y u e ,D .L i na n dX .L i u ,“ O n t o l o g y - b a s e dm e t a -
+data model for agriculture E-commerce knowledge man-agement,” in Third International Conference on Seman-
+tics, Knowledge and Grid (SKG 2007), 2007, pp. 616–17,
+DOI:10.1109/SKG.2007.139 .
+7. J. Fan, X. Zhang, and T. Dong, “Research of plant domain
+knowledge model based on ontology,” in 2008 3rd Inter-
+national Conference on Innovative Computing Informa-tionandControl ,2008,pp.108–108, DOI:10.1109/ICICIC.
+2008.451.
+8. D. Liying, L. Hongjuan, H. Dongbin, W. Zhe, and L.
+Xuning, “Research on intelligent searching of agriculturalinformationbasedonontology,"in 2012InternationalCon-
+ference on Computer Science and Service System, 2012,p p .
+1026–9,DOI:10.1109/CSSS.2012.260.
+9. K. Phoksawat and M. Mahmuddin, “Ontology-based
+knowledge and optimization model for decision supportsystem to intercropping,” in 2016 International Computer
+ScienceandEngineeringConference(ICSEC) ,2016,pp.1–6,
+DOI:10.1109/ICSEC.2016.7859927 .
+10. R. K. Kodali and A. Sahu, “An IoT based soil moisture
+monitoringonLosantPlatform,”in 20162ndInternational
+Conference on Contemporary Computing and Informatics
+(IC3I),2016,pp.764–8, DOI:10.1109/IC3I.2016.7918063 .
+11. M. Dholu and K. A. Ghodinde, “Internet of Things
+(IoT) for precision agriculture application,” in 2018
+2n
+d International Conference on Trends in Electron-
+ics and Informatics (ICOEI) , IEEE,2018, pp. 339–42,
+DOI:10.1109/ICOEI.2018.8553720 .
+12. G. Codeluppi, A. Cilfone, L. Davoli, and G. Ferrari,
+“VegIoT garden: A modular IoT management plat-
+form for urban vegetable gardens,” in IEEE Interna-
+tional Workshop on Metrology for Agriculture and Forestry
+7872 E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION
+(MetroAgriFor) ,2019, pp. 121–6, DOI:10.1109/MetroAgri
+For.2019.8909228.
+13. J. Gomez Gill, M. Martilnez Zarzuela2, F. J. Diaz Pernas,
+J. F. Diez Higuera, D. Gonzalez Ortega, and D. Boto-
+Giralda, “Dynamic generation of fertilizer maps usingG P St e c h n o l o g y , ”i n2005 IEEE Conference on Emerging
+Technologies and Factory Automation ,2005, pp. 667–72,
+DOI:10.1109/ETFA.2005.1612739.
+14. L. Tan, R. Haley, R. Wortman, Y. Ampatzidis, and M.
+Whiting, “An integrated cloud-based platform for labormonitoring and data analysis in Precision agriculture,”
+in2013 IEEE 14th International Conference on Infor-
+mation Reuse & Integration (IRI) ,2013, pp. 349–56,
+DOI:10.1109/IRI.2013.6642492 .
+15. N. M. Cid-Garcia, V. Albornoz, Y. A. Rios-Solis, and
+R. Ortega, “Rectangular shape management zone delin-eation using integer linearprogramming,” Comput. Elec-
+tron.Agri. ,Vol.93,pp.1–9, 2013.
+16. G. L. A. Carrijo, D. E. Oliveira, G. A. de Assis, M. G.
+C a r n e i r o ,V .C .G u i z i l i n i ,a n dJ .R .S o u z a ,“ A u t o m a t i c
+d e t e c t i o no ff r u i t si nc o ff e ec r o p sf r o ma e r i a li m a g e s , ”
+in2017 Latin American Robotics Symposium (LARS) and
+2017BrazilianSymposiumonRobotics(SBR) ,2017,pp.1–6,
+DOI:10.1109/SBR-LARS-R.2017.8215283 .
+1 7 .P .O .S k o b e l e v ,D .S .B u d a e v ,G .Y .V o s h c h u k ,A .N .
+Mochalkin, S. V. Susarev, and N. G. Gubanov, “Plan-ning of production processes for agricultural enterprisesusing joint competences of university and IT company
+in development of knowledge bases,” in 2017 IEEE VI
+Forum Strategic Partnership of Universities and Enter-
+prisesofHi-TechBranches(Science.Education.Innovations)
+(SPUE),2017, pp. 141–3, DOI:10.1109/IVForum.2017.
+8246074.
+1 8 .J .D o n g ,J .G .B u r n h a m ,B .B o o t s ,G .R a i n s ,a n dF .D e l -
+laert, “4D crop monitoring: spatio-temporal reconstruc-tionforagriculture,”in 2017IEEEInternationalConference
+on Robotics and Automation (ICRA) ,2017, pp. 3878–85,
+DOI:10.1109/ICRA.2017.7989447 .
+19. G. Sehgal, B. Gupta, K. Paneri, K. Singh, G. Sharma,
+and G. Shroff, “Crop Planning using stochastic visualoptimization,” in 2017 IEEE Visualization in Data Sci-
+ence (VDS), 2017, pp. 47–51, DOI:10.1109/VDS.2017.857
+3443.
+20. P. Lottes, J. Behley, A. Milioto, and C. Stachniss, “Fully
+convolutional networks with sequential information forr o b u s tc r o pa n dw e e dd e t e c t i o ni np r e c i s i o nf a r m i n g , ”
+IEEE Robotics Automation Lett. ,V o l .3 ,n o .4 ,Oct.
+2018.
+21. Y.C.Kuang,L.Streeter,andM.J.Cree,“Evaluationofdeep
+neuralnetworkandAlternatingDecisiontreeforkiwifruit
+detection,”in 2019IEEEInternationalInstrumentationand
+Measurement Technology Conference (I2MTC), 2019,p p .
+1–6,DOI:10.1109/I2MTC.2019.8826818 .22. G. K. Michelon, et al.,
+“Software AgDataBox-Map to pre-
+cision agriculture management,” SoftwareX , Vol. 10, pp.
+1–7,2019,DOI:10.1016/j.softx.2019.100320 .
+2 3 .N .L i ,X .Z h a n g ,C .Z h a n g ,H .G u o ,Z .S u n ,a n dA .X .
+Wu, “Real-time crop recognition in transplanted fields
+with prominent weed growth: A visual-attention-based
+approach,” IEEE Access, Vol. 7, pp. 185310–21, 2019,
+DOI:10.1109/ACCESS.2019.2942158 .
+24. C. O. Martinez-Ojeda, T. M. Amado, and J. C. Dela Cruz,
+“ I nfi e l dp r o x i m a ls o i ls e n s i n gf o rr e a lt i m ec r o pr e c o m -mendationusingfuzzylogicmodel,”in 2019International
+SymposiumonMultimediaandCommunicationTechnology
+(ISMAC),2019, pp. 1–5, DOI:10.1109/ISMAC.2019.883
+6160.
+25. C.Potena,R.Khanna,J.Nieto,R.Siegwart,D.Nardi,andA.
+Pretto,“Agricolmap:Aerial-groundcollaborative3Dmap-ping for precision farming,” IEEE Robotics Automation
+Lett.,Vol.4,no.2,pp.1085–92, 2019.
+2 6 .K .O .F l o r e s ,L .M .B u t a s l a c ,J .E .M .G o n z a l e s ,S .
+M. G. Dumlao, and R. S. J. Reyes, “Precision agri-
+culture monitoring systemusing wireless sensor net-
+work and raspberry Pi local server,” in 2016 IEEE
+Region 10 Conference (TENCON) ,2016, pp. 3018–21,
+DOI:10.1109/TENCON.2016.7848600 .
+27. M. Saleh, I. H. Elhajj, D. Asmar, I. Bashour, and S. Kidess,
+“Experimental evaluation of low-cost resistive soil mois-turesensors,”in 2016IEEEInternationalMultidisciplinary
+Conference on Engineering Technology (IMCET) ,2016,
+179–84,DOI:10.1109/IMCET.2016.7777448.
+2 8 .Z .Y a n g ,W .C r o w ,L .H u ,L .D i ,a n dR .M u e l l e r ,
+“Smap data for cropland soil moisture assessment: Acase study,” in 2017 IEEE International Geoscience and
+Remote Sensing Symposium (IGARSS) ,2017, pp. 1996–9,
+DOI:10.1109/IGARSS.2017.8127373.
+29. S. Marios and J. Georgiou, “Precision agriculture: Chal-
+lenges in sensors and electronics for real-time soiland plant monitoring,” in 2017 IEEE Biomedical Cir-
+cuits and Systems Conference (BioCAS), 2017, pp. 1–4,
+DOI:10.1109/BIOCAS.2017.8325180 .
+30. G. Nithin Reddy, M. Danish, Y. SyamBabu, and G. Kope-
+rundevi, “Automatic irrigation and soil quality testing,”in2018 International Conference on Recent Innovations
+in Electrical, Electronics & Communication Engineering(ICRIEECE), 2018, pp. 1363–7, DOI:10.1109/ICRIEECE4
+4171.2018.9009114.
+31. A. A. El-magrous, J. D. Sternhagen, G. Hatfield, and Q.
+Qiao,“Internetofthingsbasedweather-soilsensorstation
+forprecisionagriculture,”in 2019IEEEInternationalCon-
+ference on Electro Information Technology (EIT) ,2019,p p .
+92–7,DOI:10.1109/EIT.2019.8833811 .
+32. I. Mednieks, “A method for correction of rural mul-
+ti
+spectral aerial image mosaics,” in 2012 13th Biennial
+E. MURALI AND S. M. ANOUNCIA: AN ONTOLOGY-BASED KNOWLEDGE MINING MODEL FOR EFFECTIVE EXPLOITATION OF AGRO INFORMATION 7873
+Baltic Electronics Conference (BEC2012) , October 3–5,
+2012.
+3 3 .E .B i n d l i s h ,A .L y n nA b b o t t ,a n dM .B a l o t a ,“ A s s e s s m e n t
+of peanut Pod maturity”,” in 2017 IEEE Winter Confer-
+enceonApplicationsofComputerVision(WACV) ,2017,pp.
+688–96,DOI:10.1109/WACV.2017.82 .
+34. M. P. Wachowiak, D. F. Walters, J. M. Kovacs, R.
+Wachowiak-Smolíková, and A. L. James, “Visual analyt-
+ics and remote sensing imagery to support community-based research for precision agriculture in emerging
+areas,”Comput. Electron. Agric. , Vol. 143, pp. 149–64,
+2017.
+3 5 .Y .X u ,Z .G a o ,L .K h o t ,X .M e n g ,a n dQ .Z h a n g ,“ A
+real-time weed mapping and precision herbicide spray-
+i n gs y s t e mf o rr o wc r o p s , ” Sensors, Vol. 18, p. 4245, 2018,
+DOI:10.3390/s18124245 .
+36. B. P. Vijaya Kumar, N. K. Mahadev Mohit, M. S. Pawan
+Ranjith, N. D. Nadig, and K. P. Nikita Menon, “Aug-mentation on satellite imagery with information inte-grated farming,” in 2019 IEEE International Conference
+on Electrical, Computer and Communication Technolo-gies(ICECCT) ,2019,pp.1–5, DOI:10.1109/ICECCT.2019.
+8869021.
+37. S. G. Santos, J. C. Melo, R. G. Constantino, and A.
+V. Brito, “A solution for vegetation analysis, separa-
+tion and geolocation of management zones using aerial
+images by UAVs,” in 2019 IX Brazilian Symposium on
+Computing Systems Engineering (SBESC) ,2020, pp. 1–8,
+DOI:10.1109/SBESC49506.2019.9046079 .38. X. Chen and R. Roeber, “Monitoring soybean disease and
+insectinfectionpatternsinNebraska,”in 2005IEEEInter-
+national Conference on Granular Computing ,2005,p p .
+128–30,DOI:10.1109/GRC.2005.1547250 .
+39. M. Zhang, M. Wang, L. Chen, S. S. Ang, C. V. Nguyen,
+and J. Zhu, “An automatic fluidic system for the rapid
+Detection of soil nutrients,” in 2008 IEEE International
+ConferenceonAutomationandLogistics ,2008,pp.2742–6,
+DOI:10.1109/ICAL.2008.4636639 .
+4 0 .P .V e n k a t aK r i s h n a ,S .M i s r a ,S .S i v a n e s a n ,a n dM .
+S. Obaidat, “Learning automaton based context ori-
+ented middleware architecture for precision agriculture,”in2015 International Conference on Computer, Informa-
+tionandTelecommunicationSystems(CITS) ,2015,pp.1–5,
+DOI:10.1109/CITS.2015.7297720 .
+41. N.GandhiandL.J.Armstrong,“Ricecropyieldforecasting
+of tropical wet and dry climatic zone of India using dataminingtechniques,”in 2016IEEEInternationalConference
+on Advances in Computer Applications (ICACA) ,2016,p p .
+357–63,DOI:10.1109/ICACA.2016.7887981 .
+42. K. Jedlička and K. Charvát, “Visualisation of big data in
+agriculture and rural development,” in IST-Africa week
+conference(IST-Africa) ,2018,pp.1–8.
+43. T. M. Pinho, J. o. Paulo Coelho, J. Oliveira, and J.
+Boaventura-Cunha, “An overview on visual sensing for
+automaticcontrol on smart farming and forest manage-
+men
+t,” in2018 13th APCA International Conference on
+AutomaticControlandSoftComputing(CONTROLO) ,Jun.
+4–6,2018.
+AUTHORS
+EM u r a l i i sar e s e a r c hs c h o l a ri nt h e
+Vellore Institute of Technology , Vel-
+lore, India. He received the bachelor’sdegreeincomputerscienceandengineer-
+ing from Anna University affiliated col-
+legeandmaster’sincomputerscienceandengineering from Dr MGR Research and
+Educational Institute. His areas of interest
+include data mining, ontology mining and knowledge engi-
+neering.
+Email:emurali88@gmail.com
+S Margret Anouncia is professor at the
+Vellore Institute of Technology, Vellore,
+India. She received her bachelor’s degree
+incomputerscienceandengineeringfrom
+Bharathidasan University and master’s insoftware engineering from Anna Univer-
+sity. She has been awarded a doctorate in
+computer science and engineering at VIT
+University. Her area of specialization includes digital image
+processing,softwareengineering,andknowledgeengineering.
+Corresponding author. Email: smargretanouncia@gmail.com,
+smargretanouncia@vit.ac.in

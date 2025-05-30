@@ -1,0 +1,776 @@
+Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 
+ 
+ 
+ Applied Mathematics and Nonlinear Sciences  
+ 
+https://www.sciendo.com  
+  
+ 
+†Corresponding author.  
+Email address:  11082@zzrvtc.edu.cn  ISSN 2444 -8656  
+  https://doi.org/10.2478/amns.2023.2.00626  
+ © 2023 Hongshuo Sun  and Hongtao Dai, published by Sciendo.  
+  This work is licensed under the Creative Commons Attribution alone 4.0 License.  
+ 
+ 
+Optimal seismic solution design for underground frame structure of subway station 
+considering uniform damage  
+ 
+Hongshuo Sun1,†, Hongtao Dai1 
+1. College of Railway Engineering, Zhengzhou Railway Vocational and Technical College, 
+Zhengzhou, Henan, 451460, China . 
+ 
+  
+Submission Info  
+ 
+Communicated by Z. Sabir  
+Received January 13, 2023  
+Accepted April 25, 2023  
+Available online October 15, 2023  
+ 
+Abstract  
+Based on the dynamic finite element theory, this paper establishes a fully coupled Mohr -Coulomb plastic finite element 
+model of the soil ontology with the A metro station structure as the research object, conducts a nonlinear dynamic response 
+analysis of t he model structure, studies the variation of the seismic response of the model under different vibrations, soil 
+material parameters and concrete parameters, and analyzes the influence of the station structure form on the displacement. 
+In EL -2 condition, th e first pair displacement of the S3 measurement point of the rectangular station is 5.695 mm, and the 
+displacement of the arch-shaped station is 2.5 mm less than that of the rectangular station. The relative displacement of 
+soil shear modulus with Gmax=200 MPa is 2.3 mm less than that of soil shear modulus with Gmax=80 MPa in the case 
+of sidewall height of 3 m, which indicates that both the shape of station and soil stiffness has an effect on the seismic 
+performance of the station. Influence on the seismic performance of the station. The research in this paper has an important 
+reference value for the seismic design of underground frames of subway stations.  
+Keywords: Finite element model; Dynamic response; Uniform damage; Nonlinear analysis; Seismic performance . 
+AMS 2010 codes:  65D17  
+ 
+  
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 2 
+1 Introduction  
+The subway station complex is moving from a single transportation station to an urban transportation 
+hub complex that integrates transportation, commercial, residential, and entertainment fu nctions  [1-
+2]. As an emerging architectural element introduced by cities in recent years, metro stations can be 
+metro station complexes that can come to drive the development of surrounding plots, thus 
+accelerating urban economic development and social activities [3-4]. Urban und erground structures 
+are an important part of urban functions, and urban underground structures are characterized by 
+complex structural forms, large spatial scales, safety hazards that are not easy to detect and difficult 
+to repair, and are crucial for maintaining their safety and functions when strong earthqua kes come [5-
+6]. Although subway stations as underground structures have better seismic performance than surface 
+buildings, these structures are difficult to repair once damage occurs [7-8]. Moreover,  damage to 
+subway stations can also cause damage to above -ground buildings and facilities, resulting in chain 
+damage leading to major safety accidents [9-10]. 
+Nowadays, the seismic study of subway station complexes is particularly important as more complex 
+structures and involves many factors such as economic effects and human mobility [11]. The seismic 
+response of the subway station complex structure is not only related to its own structural properties 
+but also inv olves the dynamic interaction between the subway station -soil-adjacent underground 
+structures  [12-13]. 
+Miao et al. used the finite element software ABAQUS to develop a fully coupled model of the soil -
+structure interaction system and analyzed the damage to the subway structure by different seismic 
+waves [14]. The effect of the central column of a subway station on the seismic performance of the 
+station was studied by Hou et al., and the results of his data support the idea that increasing the aspect 
+ratio of the columns can improve the seismic performance of th e station [15]. Xu et al. studied the 
+nonlinear d ynamic interaction of soil with subsurface structures in liquefied foundations and 
+suggested that soil liquefaction attenuates the seismic performance of stations [16]. Liang et al. 
+compared the differences in seismic response of subway stations between linear and nonlinear soils 
+and between water -saturated and dry soils and suggested that the nonlinear and water -saturated soil 
+states of soils have a direct impact on the seismic performance of subways [17]. Chen et al. proposed 
+that the deeper the structure  is buried , the better the seismic performance of the subway station and 
+that the soft soil structure has a weakening effect on the seismic resistance of the subway [18]. 
+In this paper, we first study the process of implementing dynamic finite element analysis, discretize 
+the structural solution domain, perform unit analysis and construct interpolation functions to construct 
+the system dynamic equilibrium equations, and use  the implicit Newmark method to solve the 
+dynamic equilibrium equations. Then, based on the finite element theory, the structure of the subway 
+station is modeled, the Mohr -Coulomb plasticity model of the soil ontology is established, and the 
+plastic damage  of concrete and the stress -strain relationship curve of concrete are analyzed by this 
+model. Finally, the seismic performance of the underground frame structure of the subway station is 
+analyzed, and the influence of the concrete strength and soil stiffne ss on the seismic performance of 
+the underground frame structure of the station is investigated under different operating conditions.  
+2 Dynamic finite element analysis  
+2.1 Dynamic finite element  
+The finite element method is currently the most effective SUSI analysis method. In the dynamic 
+analysis of a structure using the finite element method, the action of the external load on the structure 
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  3 
+is always a function of time, and the function needs to be solved from the beginning of the input of 
+the external load to the end of the process, so as to obtain the internal force and deformation of the 
+structure at any moment. The basic idea of the dynamic finite element method is to discretize the 
+solution domain of a structure or a continuum into several discrete units, and these discrete units are 
+ordered in some form to form an aggregate instead of the original structure or continuum.  
+The following are the steps of the dynamic finite element solution.  
+1) Discretize the structure solution domain.  
+2) Perform unit analysis and construct interpolation functions.  
+3) Construct the system dynamic equilibrium equation.  
+4) Introduce the boundary conditions.  
+5) Solve the dynamic equations.  
+2.2 Establishment of the dynamic equilibrium equation  
+Physical force per unit volume of moving object:  
+ 
+2
+2{ } { } { }s p p vtt  = − −  (1) 
+Where 
+  is the material density, 
+v  is the damping factor, 
+{}p  is the gravitational and other static 
+forces, 
+{}   is the motion displacement, 
+2
+2{}t
+   is the inertia force, and 
+{}vt
+   is the 
+damping force.  
+When the finite element method solves for the displacement, the displacement takes the form of : 
+ 
+{ } [ ]{ }ef N n=  (2) 
+Where 
+[]N  is the form function matrix and 
+{}e  is the unit node displacement matrix.  
+The unit damping matrix, mass matrix, and stiffness matrix are: 
+ 
+[ ] [ ]
+[ ] [ ]
+[ ] [ ][ ]eT
+eT
+eTC N U N dV
+M N N dV
+K B D B dV=
+=
+=
+
+  (3) 
+The dynamic equilibrium equation for the soil -subsurface structure interaction:  
+ 
+g [ ]{ } [ ]{ } [ ]{ } [ ]M C K M   + + =−
+  (4) 
+ 
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 4 
+2.3 Solution of the dynamic equilibrium equation  
+In solving SSI problems using the finite element method, there are usually two methods, showing the 
+central difference method, and the implicit Newmark method. In this paper, the implicit Newmark 
+method is used to solve the dynamic equilibrium equation, which is more suitable for analyzing a 
+series of nonlinear dynamic problems. Its analytical principle is as follows.  
+1) Initial operations  
+Generate the damping matrix, mass matrix, and stiffness matrix: 
+C , 
+M , 
+K . 
+Calculate the initial acceleration, velocity, and displacement vectors: 
+0
+ , 
+0
+, 
+0. 
+Select time step 
+t , parameters 
+  and 
+  integration constants : 
+ 
+20.50  0.25(0.5 )   = +  (5) 
+ 
+0 1 2 31 1 1, , , 1,22tt t        = = = = −  (6) 
+ 
+4 5 6 7 1, 2 , (1 ),2ttt     = − = − = − =    (7) 
+Form the equivalent stiffness matrix 
+K : 
+ 
+01 K K M C= + +  (8) 
+Perform a triangular decomposition on 
+K : 
+ 
+0TK LDL=  (9) 
+2) Calculate the load, displacement, velocity and acceleration at 
+tt+  moment for each 
+integration step.  
+Load calculation:  
+ 
+( )( ) 0 1 1 1 4 5 t t t t t t t t t tP P M C        + += + + + + + +
+  (10) 
+Displacement calculation:  
+ 
+T
+t t t t LDL P+ +=  (11) 
+Speed calculation:  
+ 
+()6 2 3 t t t t t t t      + += + − −
+  (12) 
+Acceleration calculation:  
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  5 
+ 
+67 t t t t t t     + += + +
+  (13) 
+3 Seismic response model of subway station structure considering uniform damage  
+3.1 Overview of subway station structure  
+In this paper, finite element modeling is carried out on the A subway station structure. The station 
+structure is 4.2m thick, 19m wide, 10.7m high, 4.72m high at the top level and 5.98m high at the 
+bottom level, with concrete type C30 and reinforcement type HRB335. The top slab of the station is 
+0.8m thick , and the reinforcement rate is 1.21%. The middle slab is 0.6m thick with a reinforcement 
+rate of 1.1%, the bottom slab is 1m thick with a reinforcement rate of 1.03%, and the side walls are 
+1.2m thick with a reinforcement rate of 0.5%. The cross -section of the central column of the station 
+is a rectangle of 0.6×1 meter s with a reinforcement rate of 2.01%, and the longitudinal spacing of the 
+central column is 8 meters. Figure 1 shows the structural dimensions of the station and the distribution 
+of soil layers.  
+1200 600800 600 10004500 10000
+190004500
+5980 4720
+10700
+11660 7900 5000 4300 1140Manual filling
+Grey -yellow clay
+Grey silty 
+powdery clay
+Grey silty clay
+Grey clay
+ 
+Figure 1 . Station structure and distribution of soil layers  
+Table 1 shows the soil parameters.  
+  
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 6 
+Table 1 . Physical parameters of the soil body  
+Soil layer  Thickness 
+(m) Gravity 
+(kN/m3) Modulus of 
+elasticity  E (MPa)  Poisson’s 
+ratio V Cohesion 
+(kPa)  Internal 
+friction angle  
+
+ (°) Shear wave 
+speed  
+m/s 
+Artificial fill  1.14 18 167 0.4 20 33 180 
+Grayish yellow 
+clay 43 18.2 226 0.38 30 32 210 
+Grey silty -
+powdered clay  5 17.5 194 036 25 31 200 
+Grey silty clay  7.9 17 270 0.35 25 31 240 
+Grey clay  11.66  17.6 316 0.3 25 31 260 
+Table 2 shows the basic parameters of concrete C30.  
+Table 2 . Basic parameters of concrete C30  
+Modulus of 
+elasticity (MPa)  Axial Compressive Strength  
+Standard value (MPa)  Axial tensile strength 
+standard value (MPa)  Density 
+(Vm3) Poisson ’s ratio  
+V 
+3×l04 20.1 2.01 2.4 0.2 
+Table 3 shows the basic parameters of reinforcing steel HRB335.  
+Table 3 . Basic parameters of reinforcing steel HRB335  
+Modulus of 
+elasticity (MPa)  Yield strength standard 
+value (MPa)  Standard value of ultimate 
+strength (MPa)  Density 
+(t/m3) Poisson ’s ratio  
+V 
+2×105 335 455 7.8 0.3 
+3.2 Material Ontology Model  
+3.2.1 Soil ontology Mohr -Coulomb plasticity model  
+1) Mohr -Coulomb strength theory  
+The Mohr -Coulomb plasticity model is based on the Mohr -Coulomb strength theory, assuming that 
+the shear stress on the braking surface of the soil is affected by the normal stress on that surface and 
+can be judged by the Mohr circle, and the expression of the shear strength of the soil is : 
+ 
+tan c  =+  (14) 
+Where  
+ is the maximum shear stress that any section of the soil can withstand. 
+c  is the cohesive 
+force of the soil, 
+  is the positive stress perpendicular to the soil section, and 
+  is the angle of 
+internal friction of the soil.  
+The Mohr -Coulomb model yield surface function is given by : 
+ 
+tan 0mc F R q p c  = − − =  (15) 
+Where 
+q  is the Mises deflection stress, 
+23 qJ= . 
+P  is the equivalent compressive stress, and 
+1/ 3 ( ) P trac  =−
+. 
+ is the friction angle within the soil. 
+mcR  is the shape parameter controlling 
+the yield surface in the 
+  plane.  
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  7 
+2) Model plastic potential surface  
+The Mohr -Coulomb model uses the elliptic function proposed by Menetrey -Willam as the plastic 
+potential surface of the model to avoid sharp corners in the analysis process. , whose expressions are:  
+ 
+()()2 2
+0tan tanmw G c R q p  = + −  (16) 
+Where 
+   is the shear expansion angle of the soil. 
+0c   is the cohesion of the soil, 
+   is the 
+eccentricity on the meridian plane.  
+mwR
+ is the shape parameter controlling 
+G  in the 
+  plane, which is calculated as : 
+ 
+()
+()2 2 2
+2 2 2 24 1 cos (2 1)
+,3(2 1) cos (2 1) 4 1 cos 5 4mw mcee
+RR
+e e e e e− + −=  − + − − + −  (17) 
+e
+ is the eccentricity in the 
+  plane that can change the shape of the 
+0~3=  plastic potential 
+surface in the 
+  plane, which is calculated as : 
+ 
+3 sin
+3 sine
+−=+  (18) 
+The value of 1 ranges from 0.5 to 
+e . At this time, the sharp angle of the plastic potential surface is 
+tangential to yield in the 
+  plane, and Figure 2 shows the corresponding plastic potential surface 
+when 
+e  is at different values.  
+p
+0c
+mwRq
+pid
+
+4 / 3= Mises ( e=1)Menetrey -Willam  
+(1/2< e  Rankine ( e=1/2)
+0=
+/3=
+2 / 3=
+ 
+Figure 2 . Plastic potential surface in Morh -Coulomb model  
+3.2.2 Concrete plastic damage  
+Assuming that the main causes of damage suffered by concrete are tensile cracking and compressive 
+crushing, it can be used to simulate the mechanical behavior of concrete under monotonic loading, 
+cyclic loading and dynamic loading.  
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 8 
+1) Uniaxial tensile and compressive behavior  
+In concrete in uniaxial tension, when the stress is less than the failure stress 
+0t , the material is in the 
+linear elastic stage concrete modulus of elasticity is expressed by 
+0E . When the stress reaches after 
+0t
+ for unloading, at this time , the elastic modulus of concrete degenerates to 
+()0 1tdE− , where  
+td 
+is the concrete damage factor in tension, taking the value of 0 -1, 0 means no damage, 1 means 
+completely damaged. Figure 3 shows the uniaxial tensile curve of concrete.  
+0t
+t
+0E
+0E
+()0 1tdE−
+t
+~ck
+t
+~
+0el
+t
+~pl
+t
+~el
+t
+ 
+Figure 3 . Uniaxial tension curve of concrete  
+When concrete is compressed in one axis, the material is linearly elastic when the stress is less than 
+the yield stress 
+0c . When the stress is between yield 
+0c  and the ultimate stress 
+cu , the concrete 
+enters the strengthening phase. When the stress exceeds 
+cu , softening of the concrete occurs. When 
+the stress reaches 
+0c  for unloading, at this time , the elastic modulus of concrete degenerates to 
+according to 
+()0 1cdE− , where 
+cd  is the damage factor of concrete under compression, taking a 
+value of 
+0 ~ 1,0   means no damage, 1 means complete damage. Figure 4 shows the uniaxial 
+compressive curve of concrete.  
+0E
+0E
+()0 1tdE−
+c
+~in
+c
+~
+0el
+c
+~pl
+c
+~el
+c
+c
+0c
+cu
+ 
+Figure 4 . Uniaxial compression curve of concrete  
+ 
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  9 
+The transformation relationship between plastic strain and actual strain leads to the following stress 
+expression equation:  
+ 
+()() 0 1pl
+t t t t dE  = − −
+  (19) 
+ 
+()() 0 1pl
+c c c c dE  = − −
+  (20) 
+2) Uniaxial cyclic loading  
+Concrete under uniaxial cyclic loading, cracking and crack closure will occur, and the mechanical 
+mechanism of concrete is more complex at this time. Under unidirectional loading, cracks begin to 
+appear in the concrete , and its stiffness decreases. When reverse loading, the cracks close and the 
+material stiffness is restored. In the CDP model, the damage factor 
+d   is used to represent this 
+mechanism of material stiffness degradation so that the relationship between the modulus of elasticity 
+E
+ and the initial modulus of elasticity 
+0E  after material stiffness degradation can be expressed as : 
+ 
+0 (1 )E d E=−  (21) 
+Damage factor 
+d   is jointly determined by tensile damage factor 
+td   and compressive damage 
+factor 
+cd . Under uniaxial cyclic loading, the expressions are : 
+ 
+()() (1 ) 1 1t c c t d s d s d− = − −  (22) 
+In the above equation, 
+ts  and 
+cs  are the stress state functions related to the opposite direction of 
+stress, respectively, which are defined as : 
+ 
+()
+()()*
+11
+*
+111              0 1
+1 1     0 1t t t
+c c cs w r w
+s w r w
+= −  
+= − −    (23) 
+Among them:  
+ 
+()()11 *
+11 11
+1110
+00rH==   (24) 
+Figure 5 shows the schematic diagram of the stiffness recovery of concrete under cyclic loading. 
+When the material is in tension, the OA section is in the linear elastic stage, and the modulus of 
+elasticity of the material is 
+0E . After the peak tensile stress A point, the concrete starts to crack, and 
+after loading to point B, it starts to unload, and the modulus of elasticity of the concrete is 
+()0 1tdE− . 
+When the material is loaded in the opposite direction, if the recovery factor of compressive stiffness 
+is 
+1cw= , the compressive stiffness is fully recovered, and the modulus of elasticity of the concrete 
+is still 
+0E  at this time, and the loading path CDN is continued to reach the point N for unloading, 
+and the modulus of elasticity of the concrete is 
+()0 1cdE−  at this time. When the load is reversed 
+again, if the tensile stiffness recovery factor is 
+0tw= , the tensile stiffness is damaged and the loading 
+path changes along MG.  
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 10 
+A
+B
+OG
+DC
+
+0EI
+()0 tl d E−
+t
+0t
+1cw=
+0cw=
+0E
+N
+0tw=
+1tw=M
+()0 1cdE−
+2
+()()0 11tcd d E−−
+ 
+Figure 5 . CDP model stiffness recovery by reciprocal loading  
+3.2.3 Concrete stress -strain relationship curve  
+The uniaxial tensile and compressive -stress -strain curves for concrete are as follows.  
+1) When concrete is subjected to uniaxial tension:  
+ 
+() 1tcdE=−  (25) 
+ 
+5
+1.71 1.2 0.2 ( 1)
+1 ( 1)( 1)t
+tt
+txx
+d
+xxx
+
+− − =−−+  (26) 
+ 
+,trx
+=  (27) 
+ 
+,
+,tr
+t
+c t rf
+E=  (28) 
+2) Concrete uniaxially compressed : 
+ 
+() 1ccdE=−  (29) 
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  11 
+ 
+21 ( 1)1
+1 ( 1)( 1)c
+n
+c
+c
+cnxnxd
+xxx
+
+−−+=
+−−+  (30) 
+ 
+,
+,cr
+c
+c c rf
+E=  (31) 
+ 
+,
+,,c c r
+c c r c rEnEf
+=−  (32) 
+ 
+,crx
+=  (33) 
+3.2.4 Sidoroff energy equivalence principle  
+Sidoroff ’s energy equivalence principle, whereby stresses produce the same form of residual elastic 
+energy in a damaged material as in a nondamaged material, allows the replacement of stress 
+  with 
+equivalent force 
+  or the conversion of modulus of elasticity 
+0E  to modulus of elasticity 
+dE  at 
+the time of damage.  
+Residual energy of elasticity in undamaged materials:  
+ 
+2
+0
+02WE=  (34) 
+Residual elastic energy of lossy materials:  
+ 
+22
+022D
+dWEE==  (35) 
+ 
+1D=−  (36) 
+Combining equations (34), (35) and (36) yields : 
+ 
+()2
+0 1 ( , )dKE D E k c t= − =  (37) 
+Further obtained:  
+ 
+()2
+0 1 ( , )K K K D E k c t= − =  (38) 
+Uniaxial stress -strain relationships for concrete:  
+ 
+()0 1 ( , )k k k d E k c t= − =  (39) 
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 12 
+Where parameter 
+kd  is the damage evolution parameter, and the joint (38)(39) equation yields:  
+ 
+1 1 ( , )kkD d k c t= − − =  (40) 
+The relationship between the concrete damage factor 
+kD   and the concrete damage evolution 
+parameter 
+kd  can be obtained from equation (40).  
+4 Seismic performance analysis of underground frame structure of subway station  
+4.1 Effect of station structure form on displacement  
+In this paper, EL -Centro wave is used for the simulation analysis, and horizontal seismic excitation 
+is applied to the station model of rectangular structure form and the station model of arched structure 
+form, respectively. Table 4 shows the test loading conditions.  
+Table 4 . Test loading conditions  
+Serial number  Condition Number  Seismic wave  Structure  
+X Z 
+1 EL-1 E1 Centro Wave  0.036  - 
+2 EL-2 E1 Centro Wave  0.065  - 
+3 EL-3 E1 Centro Wave  0.022  - 
+The EL -3 and EL -2 operating conditions are selected to compare the relative displacements of the top 
+and bottom of the arched station and rectangular structure station models. According to the numerical 
+simulation results, the displacement responses of the rectangular station model and the arched station 
+model gradually decrease f rom the top of the model to the bottom of the model. With the increase of 
+the peak input acceleration, the displacement response of the two station models shows a pattern of 
+increasing with the increase of seismic excitation. In the EL -3 condition, the dis placement of S1 
+measurement point of the arched station is 3.932 mm, and the relative displacement of S1 
+measurement point of the rectangular station is 7.503 mm. In the EL -2 condition, the displacement 
+of S3 measurement point of the arched station is 3.14 3 mm, and the first pair displacement of S3 
+measurement point of the rectangular station is 5.695 mm. The peak relative displacements of the 
+measurement points and the bottom measurement points are relatively small. Table 5 shows the peak 
+relative displace ment of each measurement point and the bottom measurement point.  
+Table 5 . Relative displacement of each measurement point  
+Measurement points  S1 S2 S3 S4 S5 S6 S7 
+Arched station -EL-3 (mm)  3.932  3.523  3.143  2.745  2.245  1.755  0 
+Arched station -EL-2 (mm)  1.691  1.594  1.544  1.416  1.303  1.183  0 
+Rectangular station -EL-3 (mm)  7.503  6.404  5.695  4.594  3.525  2. 058  0 
+Rectangular station -EL-2 (mm)  3.075  2.729  2.494  2.144  1.817  1.358  0 
+4.2 Effect of concrete strength on the dynamic response of underground structures in 
+subway stations  
+To study the effect of concrete material strength on the seismic response of subway underground 
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  13 
+structure, it is assumed that the model soil layer is a single homogeneous soil layer, and the soil is 
+taken as plastic loess, the density of structural model material is changed, and the finite element model 
+of the underground structure and other parameters of material and burial depth is kept constant. The 
+acceleration value of 0.1g of E1 Centro wave ground vibration is input at the bottom of the model, 
+and the difference of relative displacement of the top and bottom plates of the station structure and 
+the change of internal structur al force is considered.  
+Fig. 6 Relative displacement of side walls of station structure. Figure 7: Relative horizontal 
+displacement time curve of the top and bottom slab of the station structure. 0.3 times the concrete 
+strength, the relative displacement is 1.5 mm for a sidewall height of 3 m. 0.6 times the concrete 
+strength, the relative displacement is 1.4 mm for a sidewall height of 3 m. The relative displacement 
+of the original concrete strength is 1.2 mm for a sidewall height of 3 m. The relative displacement of 
+the station s tructure remains basically the same for different concrete strengths. The relative 
+displacement of the station structure remains the same for different concrete strengths. The chang ing 
+pattern of the time course curve of the top and bottom slab of the station with different concrete 
+strengths is consistent, and the amplitude of the time course curve remains the same.  
+Table 6 shows the values of internal forces in each section of the station structure. 2042.68 KN for 
+the cross -sectional axial force of 0.3 times the concrete strength in section A1. 2053.84 KN for the 
+cross -sectional axial force of 0.6 times the concrete strength in section A1. 989.78 KN*m for the 
+cross -sectional bending moment of 0.3 times the concrete strength in section A1. 991.76 KN*m for 
+the cross -sectional bending moment of 0.6 times the concrete strength in section A1. The effect of 
+concrete strengt h on the internal force of the station structure under earthquake load is basically 
+negligible. The variation of concrete strength has a limited effect on the magnitude of horizontal 
+displacement and the time course curve of the top and bottom slab displacement of the underground 
+structure of the subway station. The effect on the internal forces of the main observation surfaces of 
+the station structure is basically negligible.  
+ 
+Figure 6 . Relative displacement of station structure side walls  
+
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 14 
+ 
+Figure 7 . Time course curve of relative horizontal displacement of top and bottom plate  
+Table 6 . The station structure each section internal force value  
+Cross -section 
+number  Cross -sectional axial force (KN)  Cross -sectional bending moment (KN*m)  
+0.3 times  0.6 times  The original concrete  
+The intensity of soil  0.3 times  0.6 
+times  The original strength 
+of concrete  
+A1 2042.68  2053.84  2070.76  989.78  991.76  986.51  
+A2 1852.65  1660.40  1843.38  992.75  993.16  993.79  
+A3 512.72  515.19  503.61  1549.11  1553.74  1558.07  
+A4 523.35  528.51  531.71  1628.38  1630.98  1631.65  
+AS 4673.47  4438.92  4976.74  427.59  429.71  433.09  
+A6 1504.34  1508.65  1545.56  1218.51  1220.67  1524.45  
+A7 1727.47  1736.47  1739.44  1467.77  1304.38  1667.56  
+A8 1536.52  1567.88  1571.94  1398.87  1400.43  1401.14  
+A9 4865.35  4877.26  4965.72  466.75  445.82  480.61  
+A10 1538.44  1546.42  1551.56  1181.57  1182.99  1183.59  
+4.3 Effect of soil stiffness on the dynamic response of underground structures in subway 
+stations  
+To study the effect of dynamic shear modulus Gmax on the seismic response of subway underground 
+structure, it is assumed that the model soil layer is a single homogeneous soil layer, other parameters 
+of the soil are kept constant, the soil is taken as plas tic loess, the finite element model of the 
+underground structure and material parameters and burial depth is kept constant. The shear modulus 
+Gmax=80Mpa, Gmax=100MPa, Gmax=150MPa and Gmax=200MPa of the three soils are taken 
+respectively, and the E1 -Centro ground shaking with acceleration value of 0.1g is input at the bottom 
+of the model to consider the difference of structural displacement of the station under the above three 
+cases.  
+Figure 8 shows the time course of relative horizontal displacement of the station structure sidewall 
+under the three cases of the maximum dynamic shear modulus of soil. Figure 9 shows the relative 
+horizontal displacement curves of the top and bottom slabs of the station structure for three types of 
+
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  15 
+soil masses with maximum dynamic shear modulus. With the increase of the maximum dynamic shear 
+modulus of soil, the peak value of the time course curve of the relative horizontal displacement of the 
+top and bottom of the station decreases , and the maximum value of the relative horizontal 
+displacement of the top and bottom of the sidewall also has the same pattern. In the weak site where 
+the maximum dynamic shear modulus of the soil is small, the deformation of the underground 
+structure is l arger compared to  that of the underground structure, which causes damage to the 
+underground structure.  
+ 
+Figure 8 . Relative displacement of station structure side walls  
+ 
+Figure 9 . Time course curve of relative horizontal displacement of top and bottom plate  
+
+Hongshuo Sun and Hongtao Dai. Applied Mathematics and Nonlinear Sciences, 9(1) (2024) 1 -17 16 
+5 Conclusion  
+In this paper, the finite element model of the subway station structure is established based on the 
+dynamic finite element theory, and the material ontological model is studied to determine the 
+calculation of the stress -strain relationship and the damage calculation method for various materials, 
+and the influence of structural form on displacement and the influence of concrete strength and soil 
+stiffness on the dynamic response of the underground structure of the s ubway station is studied. The 
+following con clusions are drawn:  
+Under EL -2 working condition s, the displacement of S3 measurement point of the arch station is 
+3.143, and the first pair displacement of S3 measurement point of the rectangular station is 5.695. 
+The relative displacement of different measurement points of its station model and the pea k of the 
+bottom measurement point are relatively small under the same seismic action.  
+The shear modulus of soil with Gmax=80Mpa has a relative displacement of 3.5 mm for a sidewall 
+height of 3 m. The shear modulus of soil with Gmax=200Mpa has a relative displacement of 2.3 mm 
+less than that of soil with Gmax=80Mpa for the same condition. Wi th the increase of the maximum 
+dynamic shear modulus of soil, the peak of the relative horizontal displacement time curve of the top 
+and bottom slab of the station decreases.  
+The relative displacement of 0.6 times concrete strength is 0.1 mm less than that of 0.3 times concrete 
+strength for a sidewall height of 3 m. The effect of concrete strength on the internal force, horizontal 
+displacement, and internal force of the observa tion surface of the station structure under seismic 
+loading is basically negligible.  
+References  
+[1] Wenting, Chen, & Qingjun. (2018). Seismic performance and failure mechanism of a subway station 
+based on nonlinear finite element analysis. KSCE journal of civil engineering.  
+[2] Du, X. , Liu, H. , Xu, C. , Jin, L. , & Li, S . (2018). Experimental study on seismic performance of precast 
+column in assembled monolithic subway station under different axial compression ratio. Jianzhu Jiegou 
+Xuebao/Journal of Building Structures, 39(11), 11 -19. 
+[3] Xue-Jian, W. , Hai-Yang, Z. , Guo-Xing, C. , & Rui, W . (2017). Effect of diaphragm wall on earthquake 
+responses of an underground subway station. Chinese Journal of Geotechnical Engineering.  
+[4] Tang, B. , Li, X. , Chen, S. , Zhuang, H. , & Chen, H. P . (2020). Investigations of seismic response to an 
+irregular -section subway station structure located in a soft clay site. Engineering Structures, 217, 110799.  
+[5] Chen, Z. , & Zhou, Y . (2019). Seismic performance of framed underground structures with self -centering 
+energy -dissipation column base. Advances in Structural Engineering, 22(13), 2809 -2822.  
+[6] Huang, P. , Ge, H. , & Chen, Z . (2022). Rapid seismic damage evaluation of subway stations using machine 
+learning techniques. International Journal of Computational Methods.  
+[7] Liu, H. , Wang, Z. , Du, X. , & Shen, G . (2021). The seismic behaviour of precast concrete interior joints 
+with different connection methods in assembled monolithic subway station. Engineering Structures, 
+232(2), 111799.  
+[8] Yu, Z. , & Zhang, H . (2019). Seismic characteristics and design method for cross transfer subway stations. 
+Journal of Southeast University  (Natural Science Edition).  
+[9] Huang, P. , & Chen, Z . (2021). Deep learning for nonlinear seismic responses prediction of subway station. 
+Engineering Structures, 244(5), 112735.  
+[10] Liu, Z. Q. , Chen, Z. Y. , & Zhao, H . (2020). Characteristics of earthquake input energy of a subway station 
+structure based on probability density evolution method. International Journal of Computational Methods.  
+Optimal seismic solution design for underground frame structure of subway station considering uniform 
+damage  17 
+[11] Chen, Z. , Huang, P. , & Chen, W . (2021). Seismic response characteristics of multi -story subway station 
+through shaking ta ble test:  Advances in Structural Engineering, 24(10), 2185 -2200.  
+[12] Hou, C. , Xiaoguang, Yan, G. , & Jie, H . (2021). Shaking table test on the seismic response of a frame -type 
+subway station in composite soil. International journal of geomechanics.  
+[13] Lu, D. , Li, Q. , Du, X. , & Wu, C . (2019). Research on seismic performance of subway station based on 
+failure model control. Yantu Gongcheng Xuebao/Chinese Journal of Geotechnical Engineering, 41(8), 
+1400 -1407.  
+[14] Miao, P. , & Cui, W. J . (2018). Study on seismic dynamic response of shallow -buried subway station 
+structure and ancillary facilities. Civil Engineering Journal, 4(12), 2853.  
+[15] Liu, G. , & Hou, Z . (2020). Adaptive iterative learning control for subway trains using multiple -point -
+mass dynamic model under speed constraint. IEEE Transactions on Intelligent Transportation Systems, 
+PP (99), 1 -13. 
+[16] Chen, C . (2019). Seismic response and damage of underground subway station in a slightly sloping 
+liquefiable site. Bulletin of earthquake engineering, 17(11).  
+[17] Liang, J. W. , & Zhu, J . (2018). Fem -ibem coupling method for nonlinear seismic response analysis of 
+underground structures in water -saturated soft soils. Yantu Gongcheng Xuebao/Chinese Journal of 
+Geotechnical Engineering, 40(11), 1977 -1987.  
+[18] Li, W. , & Chen, Q . (2020). Effect of vertical ground motions and overburden depth on the seismic 
+responses of large underground structures. Engineering Structures, 205(Feb.15), 110073.1 -110073.18.  
+About the Author  
+Hongshuo Sun was born in Shijiazhuang, Hebei, PR China, in 1986. He received his master ’s degree 
+from Shijiazhuang Tiedao University, PR China. Now, he works at Zhengzhou Railway V ocational 
+and Technical College. His main research area is Tunnel works.  
+Hongtao Dai was born in Zhengzhou, Henan, PR China, in 1986. He received his master ’s degree 
+from the South China University of Technology, PR China. Now, he works at Zhengzhou Railway 
+V ocational and Technical College. His main research area is seismic resistance of building structures.  
+ 

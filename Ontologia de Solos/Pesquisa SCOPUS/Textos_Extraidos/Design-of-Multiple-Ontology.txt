@@ -1,0 +1,533 @@
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    47 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org  Design of Multiple Ontology Based Agro Knowledge 
+Mining M odel 
+ 
+Azween Abdullah1, E.Murali*2, Sreeji S3, Dr.Balamurugan Balusamy4,   S.Rajashree5 
+1Professor and Dean , Perdana University , Malaysia  
+azween@perdanuniversity.edu.my  
+2Department of computer Science and Engineering , Sathyabama Institute of Science and Technology , Chennai, India  
+emurali88@gmail.com  
+3Department of computer Science and Engineering , Sathyabama Institute of Science and Technology , Chennai, India  
+sreeji.cse@gmail.com  
+4Associate Dean -Student Engagement , Shiv Nadar University , balamurugan.balusamy@snu.edu.in  
+5Department of computer science and engineering,  Sathyabama institute of science and technology,  Chennai, India  
+rajashree.cse@sathyabama.ac.in  
+ 
+Abstract —Farming is regarded as a major industry in India, accounting for 17% of the country's GDP growth. Agriculture employs 60% of the 
+population hence it is considered an important sector in India. The important factors for agriculture are pest management, di sease prevention, 
+irrigation management, soil mineral composition, crop management, location, and the season in which the crop is grown. Hence all this 
+information along with the techniques are well known only by the experienced farmers. Hence it is importa nt to create an agro knowledge 
+management system. As a result, this work makes an attempt to develop a multiple ontology -based agro knowledge management system. The 
+designed system consists of agriculture information related to attributes of soil mineral, moisture, season, location, crop t ype, and temperature. It 
+consists of multiple ontologies such as soil ontology, crop ontology, location ontology, and crop season ontology to provide agronomy 
+knowledge. Soil ontology is premeditated to classify the soil t ype in a hierarchical order while crop ontology classifies the crop type, location 
+ontology classifies locations suitable for different crop types and finally, crop season ontology classifies the season that is suitable for different 
+crops. A rule base is built to develop the knowledge base and to validate the truthfulness of the knowledge base. Visualizati on of a knowledge 
+base is carried out for better understanding and decision -making.  
+Keywords -ontology; knowledge management system; ontology visualization; data mining; multiple ontology.  
+ 
+I. INTRODUCTION  
+An ontology[16] is a formal description of knowledge that 
+includes a group of concepts from a certain field and the 
+connections between them. The main objectives of ontology 
+are sharable, reusable, and also add new knowledge about the 
+domain. The classification and discovery of knowledge get 
+much easier when the conceptualization improves the data 
+elements through property characteristics. Natural language 
+processing[21], machine learning, information retrieval, data 
+mining[22], and knowledge representation[23] techniques 
+have all contributed to the evolution of ontology development. 
+The technique also allows for the creation of numerous 
+interpretable patterns that can be used to make future 
+predictions. In the field of agriculture, ontology has proved to 
+have a broad application in a taxonomy of agriculture 
+information, design and building up of information, & 
+knowledge base[17] and development of information search 
+engines.  
+In this attempt, agro knowledge management using 
+multiple ontologies is created as soil ontology, crop 
+ontology[13], location ontology[14], and crop season ontology. All these ontologies are integrated to ensure 
+multilevel reusability and scalability of the agro knowledge 
+which serves as an objective of the research attempt. As the 
+representations become more practical for incorporating 
+information at any time, the knowledge level tends to rise, and 
+this may have an impact on the pattern established previously. 
+As a result, incremental mining is proposed to accept and 
+process the rising data set for inferences without omitting 
+previously recognized patterns, and to extract the pattern from 
+various sources.  
+II. RELATED WORK  
+Ontology is served different purposes like knowledge 
+management system, knowledge base decision support system, 
+expert system, sharing of conceptual data, reuse of knowledge 
+domain, and other intelligent systems. Hence ontology is 
+becoming a major tool for knowledge representation. The use 
+of ontology in the field of agriculture is used for several 
+purposes such as knowledge sharing to the farmers and 
+supporting farmer decisions. The framework of multiple 
+ontology models is useful in representing knowledge across 
+various domains which are highlighted in this section.  
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    48 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org  Earlier, A cluster -based multiple ontology parallel merger 
+process was proposed by Sunitha abburu[1] et. al(2013). Same 
+domain ontology was given as input. For experimental 
+purposes, four ontologies are taken. As a result, the 
+recommended technique took just 725 milliseconds, reduced 
+merging costs across different ontologies, and produced a 
+better and more consistent merger ontology.  
+SwaranLata[2] et al(2013). have proposed a semantic web 
+query on e -governance data and the building of an ontology 
+for the agriculture sector. The ontology development 
+comprises of identifying the concept, establishing the 
+relationship, setting rules, and finally agriculture ontology. As 
+a result, a web query ontology model has been 
+designed.   Similarly, Chuan Lei et. al(2018) has designed an 
+architecture that serves a diversity of an application NLQ 
+service, chatbots, and other application that use programming 
+API. Ontology query language represent queries that operate 
+on a set of concepts and relationships to predict used to 
+compare properties, express the join between concepts, use 
+binary operation, and use path expression. Finally, an ontology 
+based back to back NLQ system to explore the database and 
+knowledge base.   
+A new cybercrime ontology with multiple perspectives for 
+cybercrime classification has been designed by Charlette 
+Donalds[3] et. al(2019). The conceptual model consists of a 
+designed classification of attacks of various events like 
+Email_Hacked, LulzSec associate indicated. As a result, a 
+knowledge -based cyber -attack was designed.  Similarly,  A 
+framework was designed by Athanasios kiourtis[4] et. 
+al(2019) where a non -communicable system to 
+communication system for transforming healthcare data into 
+ontologies is carried out. A data -driven strategy was designed 
+for automating healthcare -related activities, improving disease 
+diagnosis, more precisely predicting outcomes, and managing 
+patients. As a result, the developed mechanisms created new 
+opportunities in the field of healthcare opportunity.    
+JinLiu[5] et al(2019). have suggested a deep learning based 
+approach to correlate several ontology rule bases that finds 
+new suggestion rules. To demonstrate the utility of several 
+ontologies, a case study of traffic security application that 
+links the vehicle ontology and the traffic management 
+ontology has been developed.    
+Similarly, Nikolay Shilov[6] et. al(2019) has created a 
+standard information model that allows for smooth knowledge 
+interchange while maintaining the existing information. As a 
+result, an effective information system for multiple ontologies 
+with terminologies is built.     
+Human Phenotype ontology was initiated to find 
+abnormalities in human disease was proposed by Sebastian Kohler[7] et. al(2020). For computationally assessing the 
+phenotypic anomalies identified in human disease, a multiple 
+ontology model for neurology, nephrology, immunology, 
+pulmonology, and newborn screening was created. Likewise, 
+an online collaboration portal was developed for a domain 
+expert to process a new disease.   Multiple ontology for 
+decision support based on the human -machine environment 
+which aimed to solve the real -world problem was proposed by 
+Alexander Smirnov[8] et. al(2021). To enable interoperability 
+between system components and coordinate relevant 
+processes, a multi -ontology knowledge decision support 
+system built on human -machine collective intelligence is 
+created. The method reflected the significance of applying 
+multiple ontologies in system development. Having learned 
+about the importance and usage of multiple ontologies, this 
+system for agronomy is envisioned with the idea of 
+incorporating several individual ontologies of a subdomain.  
+III. AGRO ONTOLOGY FRAMEWORK  
+The framework consists of agro data collection followed 
+by data pre -processing[12] and then multiple ontology based 
+knowledge models are designed which consist of soil 
+ontology[9], crop ontology, location ontology, and crop season 
+ontology. To validate the designed framework rule evaluation 
+is processed. Agro knowledge visualization[10] is performed 
+to bring out a better understanding to the end -user. The design 
+of the agro multiple ontology agro kn owledge model is shown 
+in Fig.  1.  
+A. Argo_data acquisition and  validation  
+B. Multiple Ontology based Knowledge model  
+C. Agro_Rule Base and Evaluation  
+D. Agro_Knowledge Visualization  
+A. Argo_data acquisition and  validation  
+As per the objective of the research, Argo information are 
+collected from a reputable exterior source. Soil type, crop 
+type, location, crop season, temperature, and humidity are the 
+agriculture data collected. In the agro data pre -processing[11], 
+data cleaning, and data integration is performed. Inappropriate 
+and incomplete data are removed in data cleaning. A data 
+integration task is performed where the attribute irrelevant to 
+the research objective is removed since the data are collected 
+from multiple sources. Pre -processed data are given as input to 
+multiple ontology based knowledge models.  
+B.  Multiple Ontology based Knowledge model  
+Four different sub domains of agronomy such as soil, crop, 
+location, and season are considered in this attempt for creating 
+the knowledge model. Consequently, Soil ontology, crop 
+ontology, location ontology, and crop season ontology are 
+designed in the multiple ontology based knowledge model. 
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    49 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org  The designed soil ontology consists of soil minerals such as 
+calcium, magnesium, potassium, and phosphorus are given as 
+input and soil type is acquired as result. In crop ontology[18], 
+attribute such as  soil classification, temperature, and humidity 
+is given as input and crop type is acquired as result. Similarly, 
+In location ontology attribute such as soil classification, 
+temperature, and crop type are given as input, and crops 
+suitable for a particular location are acquired as result. Finally, 
+in crop season ontology, attribute such as location, crop type, and temperature are given as input, and crop season is 
+obtained as output. All the above ontology design process 
+starts with conceptualization which is followed by 
+formalization. Collection of germane facts about the 
+conceptualization starts with soil mineral for soil ontology, 
+crop type for crop ontology, location for location ontology, 
+and season for crop season. A semi -structured knowledge base 
+is created in the formalization. The ontology taxonomy  is 
+shown in Fig . 2 - 5 
+Fig. 1  A framework of multiple ontology agro knowledge mining model  
+ 
+Fig. 2  Soil Ontology  Taxonomy  
+
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    50 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org   
+Fig. 3 Crop Ontology  Taxonomy  
+ 
+Fig. 4 Location Ontology  Taxonomy  
+ 
+Fig. 5 Crop season Ontology  Taxonomy  
+ 
+
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    51 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org   
+Fig. 6 Integrated Taxonomy of Agro Knowledge  
+ 
+Fig. 7 Hierarchy structure of soil ontology  
+ 
+Fig. 8 Hierarchy structure of crop ontology  
+ 
+
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    52 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org   
+Fig. 9 Hierarchy structure of location ontology  
+ 
+Fig. 10 Hierarchy structure of crop season ontology  
+ 
+Fig. 11 Class Hierarchy for Agro_Knowledge  
+The outcome of the preceding ontology model is given as 
+input to the upcoming ontology model in the integrated 
+multiple ontology[20] agro knowledge model. Soil ontology 
+output is fed into crop ontology, while crop ontology output is 
+fed into location ontology. Similarly, crop season ontology 
+receives information from location ontology. The integrated 
+taxonomy of the agro knowledg e model is shown in Fig.  6. After the required data collections and an ontology model is 
+created. The class structure is described using the object 
+properties. The relationship between the classes is described 
+using the object properties. The classification structure is 
+created using protégé which is shown in Fig . 7-10. The class 
+hierarchy of the integrated k nowledge base is shown in Fig.  
+11. 
+
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    53 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org  C. Agro_Rule Base and Evaluation  
+To bring the truthfulness of the agro  multiple ontology 
+knowledge model, rule validation is carried out. For the rule 
+evaluation[19], support, confidence, lift, conviction, and 
+leverage are used.  
+1.  Support  
+Support is defined by,  
+𝑆𝑢𝑝𝑝𝑜𝑟𝑡 (𝑋)=Number  of transactions  in X
+𝑇𝑜𝑡𝑎𝑙  𝑛𝑢𝑚𝑏𝑒𝑟  𝑜𝑓 𝑡𝑟𝑎𝑛𝑠𝑎𝑐𝑡𝑖𝑜𝑛  () 
+The observed results are as follows  
+TABLE 1 : SUPPORT  
+S.No  Ontology  Range  
+1.  Soil ontology  [0, 0.28]  
+2. Crop ontology  [0.08, 0.46]  
+3. Location ontology  [0.2, 0.5]  
+4. Crop season ontology  [0, 0.28]  
+5. Multiple ontology Agro knowledge base  [0, 0.24]  
+ 
+2. Confidence  
+Confidence is defined by,  
+𝐶𝑜𝑛𝑓𝑖𝑑𝑒𝑛𝑐𝑒 (𝑋⇒Y)= Support (X ∪Y) 
+Support (X)                           (2) 
+The observed results are as follows  
+TABLE 2  CONFIDENCE  
+S.No  Ontology  Range  
+1.  Soil ontology  [0, 0.4]  
+2. Crop ontology  [0.26, 0.54]  
+3. Location ontology  [0.35, 0.56]  
+4. Crop season ontology  [0.24, 0.6]  
+5. Multiple ontology Agro 
+knowledge base  [0, 0.4]  
+ 
+3. Lift 
+Lift value is defined by,  
+𝐿𝑖𝑓𝑡 (𝑋=>𝑌)= 𝑆𝑢𝑝𝑝𝑜𝑟𝑡  (𝑋𝑈𝑌 )
+𝑆𝑢𝑝𝑝𝑜𝑟𝑡  (𝑋) 𝑥 𝑆𝑢𝑝𝑝𝑜𝑟𝑡  (𝑌)                        (3) 
+The observed results are as follows  
+TABLE 3  LIFT 
+S.No  Ontology  Range  
+1.  Soil ontology  [0, 0.2]  
+2. Crop ontology  [0.69, 1.08]  
+3. Location ontology  [0.63, 0.99]  
+4. Crop season ontology  [0.53, 0.95]  
+5. Multiple ontology agro knowledge 
+base [0, 10]  
+ In soil ontology, twenty one rules out of twenty eight rules 
+are strongly associated. There is no significant association in 
+crop ontology, location ontology, and crop season ontology. In 
+multiple ontology agro knowledge base, seventeen rules have 
+values greater than one and five rules are closer to one. Hence 
+twenty two rules out of thirty four rules are strongly 
+associated.  
+4. Conviction  
+Conviction is defined by  
+Conviction(X ⇒Y)=(1 -support(Y))/((1 -confidence(X ⇒Y)) (4) 
+TABLE 4  CONVICTION  
+S.No  Ontology  Range  
+1.  Soil ontology  [0.88, 1.23]  
+2. Crop ontology  [0.76, 1.09]  
+3. Location ontology  [0.68, 1]  
+4. Crop season ontology  [0.63, 0.93]  
+5. Multiple ontology agro 
+knowledge base  [0.78, 1.9]  
+ 
+In soil ontology, fifteen rules out of twenty eight rules are 
+strongly associated. There is no significant association in crop 
+ontology, location ontology, and crop season ontology. In 
+multiple ontology agro knowledge base, seventeen rules have 
+a value larger than one and twelve rules are nearer to one. 
+Hence twenty nine rules out of thirty four rules are strongly 
+associated.  
+5. Leverage  
+Leverage is defined by  
+Leverage(X ⇒Y)=Support(X ∪Y)-(Support (X)*Support(Y))  (5) 
+TABLE 5  LEVERAGE  
+S.No  Ontology  Range  
+1.  Soil ontology  [-0.02, 0.1]  
+2. Crop ontology  [-0.07, 0.04]  
+3. Location ontology  [-0.12, 0]  
+4. Crop season ontology  [-0.12, -0.01]  
+5. Multiple ontology agro knowledge 
+base [-0.04, 0.05]  
+ 
+The value zero denote independence and a value over zero 
+denote desirability of rules. In the soil ontology and crop 
+ontology, two rules are not preferable. In location ontology & 
+crop season ontology, one rule is not acceptable. In multiple 
+ontology agro knowledge base, two rules out of thirty four 
+rules are not preferable.  
+6. Normalized support, confidence, lift, conviction, leverage 
+for multiple ontology agro knowledge base  
+The normalized rule evaluation of support, confidence, lift, 
+conviction, and leverage is gi ven in the chart below in Fig.  12. 
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    54 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org   
+Fig. 12 Chart for Normalized multiple ontology rule evaluation  
+D. Agro Knowledge Visualization  
+A graphical representation of ontology is shown using the 
+data visualization[15]. This will bring a better understanding to the farmers. The hierarchical structure is shown in a 
+visualized model in Fig. 13 -14 
+ 
+Fig. 13 Visualization of the class hierarchy of crop ontology   
+Fig. 14 Visualization of the class hierarchy of location ontology  
+0 0.5 1 1.5 2 2.5 3 3.5 4A->CA->POA->YA->LC-> POC->YC->LPH-> MPH->SPO->MPO->SM->YM->LY->LCS->LSCS->SLSLS->SLS
+Normalized Support
+Normalized Confidence
+Normalized Lift
+Normalized Conviction
+Normalized Leverage
+
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    55 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org  IV. CONCLUSION  
+The agriculture domain has been represented with help of 
+an ontology tool. In this framework, multiple ontology of the 
+agro knowledge management system is presented. Hence, soil 
+ontology has given different soil types, crop ontology has 
+given different crop types, location ontology has given 
+different locations suitable for crops, and crop season ontology 
+gives season suitable for different crops. Multiple ontology 
+agro knowledge base gives better results than individual soil, 
+crop, location, and crop season ontology.    
+REFERENCES  
+[1] S. Abburu and G. S. Babu, "A cluster based multiple ontology 
+parallel merge method," 2013 International Conference on 
+Recent Trends in Information Technology (ICRTIT), Chennai, 
+India, 2013, pp. 335 -340, doi: 10.1109/ICRTIT.2013.6844226.  
+[2] Lata, S., Sinha, B., Kumar, E., Chandra, S., & Arora, R, 
+"Semantic Web Query On E - Governance Data And Designing 
+Ontology For Agriculture Domain", InternationalJournal of 
+Web & Semantic Technology, 4, 201 -209, 2013.  
+[3] Charlette Donalds, Kweku -Muata Osei -Bryson, "Toward a 
+cybercrime classification ontology: A knowledge -based 
+approach", Computers in Human Behavior, Vol. 92, pp. 403 -
+418, 2019 https://doi.org/10.1016/j.chb.2018.11.039.  
+[4] Athanasios Kiourtis, Sokratis Nifakos, Argyro Mavrogiorgou, 
+Dimosthenis Kyriazis, "Aggregating the syntactic and semantic 
+similarity of healthcare data towards their transformation to 
+HL7 FHIR through ontology matching", International journal 
+of medical informatics, Vol. 132, pp. 104002, 2019.  
+[5] Liu, Jin & Zhang, Xin & Li, Yunhui & Wang, Jin & Kim, Hye -
+jin,  "Deep Learning -Based Reasoning With Multi -Ontology for 
+IoT  Applications. IEEE Access, 2019, pp. 1. 
+10.1109/ACCESS.2019.2937353.  
+[6] Vijay Yadav, Raghuraj Singh, Vibhash Yadav. (2023). 
+Evaluation of OO Software Quality by Using Predictive Object 
+Points (POP) Metric. International Journal of Intelligent 
+Systems and Applications in Engineering, 11(2s), 328 –336. 
+Retrieved from 
+https://ijisae.org/index.php/IJISAE/article/view/2700  
+[7] Smirnov, A., Shilov, N., & Parfenov, V, "Building a multi -
+aspect ontology for semantic interoperability in PLM", In 
+Product Lifecycle Management in the Digital Twin Era: 16th 
+IFIP WG 5.1 International Conference, PLM 2019, Moscow, 
+Russia, July 8 –12,2019.  
+[8] Sebastian Köhler, "Expansion of the Human Phenotype 
+Ontology (HPO) knowledge base and resources", Nucleic 
+Acids Research, Vol. 47, Iss. D1,pp.D1018 –D1027, 2019.  
+https://doi.org/10.1093/nar/gky1105  
+[9] Smirnov, Alexander & Levashova, Tatiana & Ponomarev, 
+Andrew & Shilov, Nikolay, "Methodology for Multi -Aspect 
+Ontology Development: Ontology for Decision Support Based 
+on Human -Machine Collective Intelligence" , IEEE Access. 
+2021.  
+[10] Prof. Romi Morzelona. (2019). Histogram Based Data 
+Cryptographic Technique with High Level Security. International Journal of New Practices in Management and 
+Engineering, 8(04), 08 - 14. 
+https://doi.org/10.17762/ijnpme.v8i04.80  
+[11] Elumalai, M., Anouncia, S.M, "Development of soil mineral 
+classification using ontology mining", Arabian Journal of 
+Geosciences, Vol. 14, Iss. 1371 ,2021  
+https://doi.org/10.1007/s12517 -021-07651 -w 
+[12] E. Murali and S. Margret Anouncia, "Visualization of Multiple 
+Ontology Agro Knowledge Mining Model", International 
+Journal of Reliability, Quality and Safety Engineering, Vol. 
+29,Iss. 05, pp. 2241001,2022  
+[13] E. Murali and S. M. Anouncia, "A Survey on Computational 
+Aptitudes towards Precision Agriculture using Data Mining," 
+2022 3rd International Conference on Smart Electronics and 
+Communication (ICOSEC), Trichy, India,  pp. 952 -956, 2022 
+doi: 10.1109/ICOSEC54921.2022.9951960.  
+[14] M. E, V. R, D. D, P. N, H. S and R. S, "A Survey on Organic 
+Agro Data Towards Agriculture Using Data Mining," 2022 
+Seventh International Conference on Parallel, Distributed and 
+Grid Computing (PDGC), Solan, Himachal Pradesh, India, pp. 
+71-76, 2022.doi: 10.1109/PDGC56933.2022.10053164.  
+[15] Enesi Femi Aminu, Ishaq Oyebisi Oyefolahan, Muhammad 
+Bashir Abdullahi, Muhammadu Tajudeen Salaudeen, 
+"MaCOnto: A robust maize crop ontology based on soils, 
+fertilizers and irrigation knowledge", Intelligent Systems with 
+Applications, Vol. 16, 2022, 
+https://doi.org/10.1016/j.iswa.2022.200125.  
+[16] Dong -mei HUANG, Qian FANG, Qing -mei YU, "Location 
+Service Information Supporting System Based on Ontology", 
+Journal of Integrative Agriculture, Vol. 11, Iss. 5, pp. 858 -864, 
+2012,  ISSN 2095 -3119, https://doi.org/10.1016/S2095 -
+3119(12)60076 -8. 
+[17] Garcia, P., Martin, I., Garcia, J., Herrera, J., & Fernández, M. 
+Enhancing Cyber security with Machine Learning -Based 
+Intrusion Detection. Kuwait Journal of Machine Learning, 1(4). 
+Retrieved from 
+http://kuwaitjournals.com/index.php/kjml/article/view/157  
+[18] Van, H. T., Rooijakkers, L., Berckmans, D., Peña F. A., 
+Norton, T., Berckmans. D. and Vranken, E. "Appropriate data 
+visualization is key to Precision Livestock Farming 
+acceptance", Computers and Electronics in Agriculture,  
+Vol.138, pp.1 - 10, 2017.  
+[19] Wang, Y., Jing, W., Yuan, Y. and Zili, Z , "An ontology -based 
+approach to integration of hilly citrus production knowledge", 
+Computer Electronic Agriculture, Vol. 113, pp. 24 – 43, 2015  
+[20] Ye-lu, Z., Qi -yun, H. E., Ping, Q. and Ze, L,"Construction of 
+the OntologyBased Agricultural Knowledge Management 
+System", Journal of Integrative Agriculture, Vol.11, Iss. 5, 
+pp.700 -709, 2012.  
+[21] Deepa, R. and Vigneshwari, S,"An effective automated 
+ontology construction based on the agriculture domain", 
+Electronics and Telecommunications Research Institute Journal 
+, Vol. 44, Iss. 4, pp. 573 – 587, 2022.  
+[22] Jing X, Min H, Gong Y, Biondich P, Robinson D, Law T, Nohr 
+C, Faxvaag A, Rennert L, Hubig N, Gimbel R, "Ontologies 
+Applied in Clinical Decision Support System Rules: Systematic 
+Review  JMIR Med Inform" , Journal of Medical Internet 
+International Journal on Recent and Innovation Trends in Computing and Communication  
+ISSN: 2321 -8169 Volume: 11 Issue: 7 
+DOI: https://doi.org/10.17762/ijritcc.v11i 7.7829  
+Article Received : 20 April 2023 Revised : 15 June  2023 Accepted : 01 July 2023  
+___________________________________________________________________________________________________________________  
+ 
+    56 
+IJRITCC | July 2023 , Available @ http://www.ijritcc.org  Research, 2023  
+[23] Sakura Nakamura, Machine Learning in Environmental 
+Monitoring and Pollution Control , Machine Learning 
+Applications Conference Proceedings, Vol 3 2023.  
+[24] Fatima N. AL -Aswadi, Huah Yong Chan, Keng Hoon Gan, 
+Wafa’ Za'al Alma'aitah, "Enhancing relevant concepts 
+extraction for ontology learning using domain time relevance" , 
+Information Processing & Management, Vol. 60, Iss. 1, 2023  
+[25] Ashish Singh Patel, Giovanni Merlino, Antonio Puliafito, 
+Ranjana Vyas, O.P. Vyas, Muneendra Ojha, Vivek Tiwari, "An 
+NLP -guided ontology development and refinement approach to 
+represent and query visual information", Expert Systems with 
+Applications, Vol. 213,2023, 
+https://doi.org/10.1016/j.eswa.2022.118998.  
+[26] Jeysenthil.KMS , Manikandan.T, Murali.E, "Third Generation 
+Agricultural Support System Development Using Data 
+Mining", International Journal of Innovative Research in 
+Science, Engineering and Technology, Vol. 3 Issue 3, 2014  
+[27] Manzoor, S.; Rocha, Y.G.; Joo, S. -H.; Bae, S. -H.; Kim, E. -J.; 
+Joo, K. -J.; Kuc, T. -Y, "Ontology -Based Knowledge 
+Representation in Robotic Systems: A Survey Oriented toward 
+Applications", Application Science, Vol. 11,pp. 4324, 2021. 
+https://doi.org/10.3390/app11104324  
