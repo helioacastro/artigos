@@ -120,7 +120,7 @@ def categorize_summaries_with_gemini_and_update_planilha(caminho_planilha, categ
 PASTA_BASE = os.path.abspath(os.path.dirname(sys.argv[0]))
 
 # Caminho completo para o seu arquivo Excel
-PLANILHA_PATH = r'' + PASTA_BASE + '\Pesquisa_Ontologia_Solos.xlsx'
+PLANILHA_PATH = r'' + PASTA_BASE + '\\Pesquisa_Ontologia_Solos.xlsx'
 
 # --- DEFINA SUAS CATEGORIAS AQUI ---
 # Este dicionário será usado para guiar a categorização do Gemini.

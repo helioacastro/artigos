@@ -109,9 +109,9 @@ def update_planilha_com_bibtex(caminho_planilha, pasta_bibtex):
 # Diretório base onde o script está localizado
 PASTA_BASE = os.path.abspath(os.path.dirname(sys.argv[0])) 
 # Caminho completo para o seu arquivo Excel
-PLANILHA_PATH = r'' + PASTA_BASE + '\Pesquisa_Ontologia_Solos.xlsx'
+PLANILHA_PATH = r'' + PASTA_BASE + '\\Pesquisa_Ontologia_Solos.xlsx'
 # Caminho para a pasta onde você salvou seus arquivos .bib
-BIBTEX_FOLDER = r'' + PASTA_BASE + r'\Metadados_BibTeX\\'
+BIBTEX_FOLDER = r'' + PASTA_BASE + r'\\Metadados_BibTeX\\'
 
 # --- Executa a função ---
 if __name__ == "__main__":

@@ -79,13 +79,13 @@ def extract_text_from_pdfs_and_update_planilha(caminho_planilha, pasta_pdfs_orig
 PASTA_BASE = os.path.abspath(os.path.dirname(sys.argv[0]))
 
 # Caminho completo para o seu arquivo Excel
-PLANILHA_PATH = r'' + PASTA_BASE + '\Pesquisa_Ontologia_Solos.xlsx'
+PLANILHA_PATH = r'' + PASTA_BASE + '\\Pesquisa_Ontologia_Solos.xlsx'
 
 # Caminho para a pasta onde você salvou seus arquivos PDF originais
-PDFS_ORIGINAIS_FOLDER = r'' + PASTA_BASE + '\PDFs_Originais\\'
+PDFS_ORIGINAIS_FOLDER = r'' + PASTA_BASE + '\\PDFs_Originais\\'
 
 # Caminho para a pasta onde os arquivos de texto extraídos serão salvos
-TEXTOS_EXTRAIDOS_FOLDER = r'' + PASTA_BASE + '\Textos_Extraidos\\'
+TEXTOS_EXTRAIDOS_FOLDER = r'' + PASTA_BASE + '\\Textos_Extraidos\\'
 
 # --- Executa a função ---
 if __name__ == "__main__":

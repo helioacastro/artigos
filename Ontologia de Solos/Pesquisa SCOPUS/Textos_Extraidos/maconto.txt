@@ -1,0 +1,1086 @@
+Intelligent Systems with Applications 16 (2022) 200125
+Available online 10 September 2022
+2667-3053/© 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-
+nc-nd/4.0/ ).MaCOnto: A robust maize crop ontology based on soils, fertilizers and 
+irrigation knowledge 
+Enesi Femi Aminua,*, Ishaq Oyebisi Oyefolahanb, Muhammad Bashir Abdullahia, Muhammadu 
+Tajudeen Salaudeenc 
+aDepartment of Computer Science, Federal University of Technology Minna, Nigeria 
+bDepartment of Information & Media Technology, Federal University of Technology Minna, Nigeria 
+cDepartment of Crop Production, Federal University of Technology Minna, Nigeria   
+ARTICLE INFO  
+Keywords: 
+Maconto 
+Ontology evolution 
+Competency question 
+Maize ’s soils knowledge 
+Maize ’s fertilizer knowledge 
+Maize ’s irrigation knowledge ABSTRACT  
+The demand for relevant information in a timely manner portrays the significance of knowledge management in 
+all areas of lives; for instance, agriculture. To this end, soils, fertilizers and irrigation as agronomic concepts are 
+essential knowledge inputs for any crops, such as maize. Conversely, there is always difficulty in timely retrieval 
+of these relevant information owing to the unstructured nature of data in repositories, and complexity of con-
+cepts mismatch. Sequel to this development, ontology, a semantic data modeling technique is promising as it has 
+been recently employed to deal with these challenges across different domains. However, the robustness of 
+ontology, in terms of semantic expressivity of hidden knowledge, and autonomous growth of ontology leave 
+some gaps to contend with. In view of this development, this research aims to design a robust OWL Rule based 
+ontology for maize crop domain by considering primarily soils, fertilizers and irrigation agronomic concepts 
+capable to evolve autonomously. The proposed ontology herein christened MaCOnto , is developed using the 
+adapted six steps ontology-engineering principle. Over 1,430 entities are encoded in OWL; eighty Competency 
+Questions (CQs) validated by domain experts are modeled in FOL, and implemented as rules via SWRL. Thus, the 
+ontology is queried by SQWRL. Besides, the novel algorithmic design for the ontology to autonomously evolve is 
+implemented in Java environment by employing WordNet. The results obtained from structural based evaluation 
+show an outstanding performance across the eight metrics. Similarly, the results of the competency-based 
+evaluation are also promising. Therefore, the proposed MaCOnto is a robust application based ontology 
+capable to infer and responds to user’s query based on its contextual information.   
+1.Introduction 
+Maize (Zea mays L.), widely referred to as corn is arguably one of the 
+economic viable cereal crops. While, in most developing nations, maize 
+serves as staple food like rice or wheat (Badmus & Ariyo, 2011 ); in 
+developed climes, it serves as feed for animals and also a significant raw 
+materials for production industries; such as biofuels energy (¯Sarauskis 
+et al., 2014 ). Therefore, considering these aforementioned importance 
+of the crop, the rationale for its choice as knowledge domain in this 
+research is justified. More so, according to Food and Agriculture Orga-
+nization of United Nations (FAO), Soils, Fertilizers and Irrigation 
+knowledge are essential agricultural inputs for any crop, and specif -
+ically, maize. Soils type for maize crop may determine the choice of ir-
+rigation ’s method; as amount of moisture or irrigation water affects the growth of maize (Fang & Su, 2019 ; Hazman, 2015 ; Mohanraj et al., 
+2018 ). Similarly, the nature of nutrient presence in soil also determines 
+the volume and ingredient of fertilizers to apply (Ding et al., 2010 ). 
+These scenarios partly formed the competency questions considered in 
+this research. The Consultative Group on International Agriculture 
+Research (CGIAR) ’ proposal of 2017 – 2022 carried on maize crop, re-
+ported the important of soils on the crop ’s growth. Similarly, fertilizer as 
+an essential input of crop is described according to FAO as next to water. 
+It is mostly available in various contents and ingredients for example, 
+nitrogen, phosphorus and potassium. More so, when there is inadequacy 
+of rainfall or moisture, an alternative water source – irrigation becomes 
+indispensable; more importantly, precision irrigation is required for the 
+crop (Goumopoulos et al., 2014 ). 
+No doubt that in this present age, the availability of all these 
+*Corresponding author. 
+E-mail address: enesifa@futminna.edu.ng (E.F. Aminu).  
+Contents lists available at ScienceDirect 
+Intelligent Systems with Applications 
+u{�~zkw! s{yo|kr o>!ÐÐÐ1u{� ~zkw�1ow�o�to ~1m{y2tz�ow wtroz�/�Þ��oy �/Ðt�s/k|| wtmk�t{z�!
+https://doi.org/10.1016/j.iswa.2022.200125 
+Received 20 December 2021; Received in revised form 11 August 2022; Accepted 7 September 2022   
+Intelligent Systems with Applications 16 (2022) 200125
+2knowledge about maize crop is not a challenge any longer; but to 
+retrieve the relevant information in a timely and easier manner forms 
+the challenge. This research problem is attributed to the unstructured 
+nature of repositories and heterogeneous forms of data (Agyapong-Ko -
+dua et al., 2013 ; Bonacin et al., 2016 ; Walisadeera et al., 2015 ). Besides, 
+the ambiguity nature of natural languages in terms of synonyms and 
+polysemy contributed to the problem of concepts mismatch (Fawei et al., 
+2019 ). Hence, based on literature, ontology as a top-notch technology 
+has proven to proffer solution across different knowledge areas. 
+Ontology, a semantic data modeling technique is defined according to 
+Gruber (1993) as an explicit and formal specification of shared con-
+ceptualizations. Gruber also described ontology in four different forms. 
+An ontology design based on a particular domain is described as domain 
+based ontology. However, such ontology can be further modeled to 
+perform certain defined activities via set of complex or technical ques-
+tions called Competency Questions (CQs). Thus, such modified domain 
+ontology is regarded as task ontology (Li et al., 2013 ); which may be 
+otherwise known as application ontology (Park et al., 2012 ). Top-level 
+ontology is generic in nature, because it does not necessarily conform 
+to a particular knowledge area. 
+To design a deep represented ontology, Web Ontology Language 
+(OWL) (Alkhammash, 2020 ), which is a knowledge representation lan-
+guage with high power of semantic expressivity is required. Besides, 
+making ontology to be rule based by way of using Semantic Web Rule 
+Language (SWRL) (Tang et al., 2018 ), significantly contributes to a huge 
+effort desired for robust ontology. Consequently, OWL Rule (Gonz ˘alez 
+et al., 2021 ) based ontology would be achieved. More importantly, the 
+robustness of ontology could be further defined based on the level of 
+Competency Questions (CQs) formulated and appropriately modeled by 
+First-Order-Logic (FOL) (Alvez et al., 2017 ). In the end, Prot˘eg˘e (5.5.0) 
+(Nandhinidevi et al., 2021 ), an ontology development application and 
+editor has the required capacity to develop such level of ontology. 
+More so, the use of WordNet, a lexical database similar in structure 
+with ontologies (Jarrar, 2021 ), is promising. This is to achieve robust -
+ness of the proposed ontology in terms of providing mechanism for the 
+autonomous evolution. It is a lexical resource considered to be one of the 
+global largest word collection corpuses that offers hierarchical structure 
+of Synset (set of one or more synonyms), and semantic properties of 
+every word (Chakravarthi et al., 2018 ; Uthayan & Mala, 2015 ). Thus, 
+synonymy, antonymy, meronyms, hypernyms and hyponyms are ex-
+amples of WordNet ’s semantic relations (Alobed et al., 2021 ). 
+Therefore, this research aims to design an OWL Rule based appli -
+cation ontology for maize crop considering primarily soils, fertilizers 
+and irrigation knowledge christened herein as MaCOnto. Other knowl -
+edge partly considered as validated by the domain experts include cli-
+matic conditions, maize ’s pest and weeds treatments. This research is an 
+extension of an earlier published works on ontology designed for soils 
+and fertilizers knowledge of maize crop (Aminu et al., 2019 ); and SIM-
+cOnto: an ontology designed for soils and irrigation knowledge of maize 
+crop (Aminu et al., 2021b ). The domain part of the proposed MaCOnto is 
+represented in OWL DL using prot˘eg˘e 5.5.0 based on the adapted six 
+steps iterative ontology engineering principle (Aminu et al., 2020 ). The 
+tasks part consists of eighty (80) CQs validated by experts, modeled 
+using First-Order-Logic (FOL) and implemented via Semantic Web Rule 
+Language (SWRL). In addition, the robustness of the ontology equally 
+lies on the novel algorithmic design for its autonomous evolution le-
+verages on WordNet. Similarly, robustness of ontology can be deter -
+mined based on its performance level of evaluation. One of the 
+promising evaluation techniques to validate the robustness is the 
+structural based evaluation with its eight metrics (Sicilia et al., 2012 ). 
+Therefore, MaCOnto is adjudged to be robust owing to the results from 
+the evaluation. 
+The remaining sections of this paper are organized as follows: Sec-
+tion 2 presents some related literature of the domain under consider -
+ation; and Section 3 presents the ontology engineering process. The 
+proposed MaCOnto framework, and development of the ontology are accounted for in both Sections 4 and 5 respectively. While Section 6 
+discusses the results; conclusion and suggested future work are pre-
+sented in section 7. 
+2.Related studies 
+The research proposal of CGIAR on maize, which described the crop 
+as C4 (Abdelgawad et al., 2021 ) crop hypothetically said that maize has 
+a higher yield potential than rice and wheat. This is because it can grow 
+across all seasons; it was projected to be the leading crop in year 2020. 
+However, similar to any other knowledge areas, to retrieve relevant 
+knowledge related to maize poses challenges as a result of unstructured 
+data representation and the deficiency of retrieval mechanisms (Aminu 
+et al., 2021a ; Fawei et al., 2019 ; Tulasi et al., 2017 ). In view of this, this 
+section accounts for how ontology has been explored for knowledge 
+representation and retrieval system; the challenges and future. 
+Wimalanathan et al. (2018) implored a sequence based methods to 
+produce a functional annotation of maize protein coding genes based on 
+Gene Ontology (GO) (Ontology Gene Consortium, 2019 ) entities allo-
+cation. Primarily, the study aimed at improving maize annotation of the 
+existing phytozome and Gramene maize GO annotation set (Wimala -
+nathan et al., 2018 ). However, the maize protein coding genes are 
+structured as taxonomy classification system with metadata. It lacks 
+semantic knowledge representation techniques; that is, no aspect of 
+ontology modeling is considered in the classification system. 
+The research work of Vincent et al. (2003) designed zea mays plant 
+structure ontology database with the aid of Directed Acyclic Graph 
+(DAG) Edits (Landgrebe, 2022 ) to aid knowledge sharing in terms of 
+botanical terms classification along with abbreviated synonyms of 
+terms. The plant ontology designed by the researchers (Vincent et al., 
+2003) may be described as database for terms classification. In other 
+words, concepts relationship were not explored based on inference. In 
+the crop ontology of Shrestha et al. (2016) whose aim is to collect 
+validated terms on anatomy, structure and phenotype of crops also with 
+their relationship concepts; developed maize trait ontology as one of the 
+crops using OBO-Edit (Karray et al., 2021 ). The research reported the 
+significance of ontology to depict agronomic phenotypes terms as it offer 
+structured data and thus enhance the retrieval of information. However, 
+the ontology editor is no doubt limited in semantic expressivity; since 
+the OBO-Edit version does not supports OWL knowledge representation. 
+Therefore, the ontology output is deficient of formal computational 
+definitions to other semantic based knowledge representations for 
+effective information retrieval. Also concepts on soils formed less than 
+five entities; knowledge on irrigations was not modeled. Similarly, the 
+work of (Green et al., 2011 ) designed ontology by considering the 
+retrieval of mutant phenotype information of maize gene only. 
+Furthermore, the research of Ma et al. (2013) developed reasoning 
+based ontology to diagnose maize diseases with the aid of OWL DL and 
+Semantic Web Rule Language as maize diseases knowledge representa -
+tion language and rule language respectively. However, the ontology 
+developed is not pivoted on any defined methodology; and the maize 
+information is limited to disease only. Similarly, Cao et al. (2013) 
+equally developed maize ’s diseases diagnostic model based on ontology 
+and algorithm for diagnosis. It is solely a domain-based ontology. 
+The knowledge of appropriate soils, fertilizers, irrigation or any 
+agricultural inputs to an appropriate crop has been giving research at-
+tentions in a recent time by employing ontology, semantic data 
+modeling technique to develop decision based system (Chougule et al., 
+2019 ). Similarly, Car (2018) equally modeled a decision based ontology 
+for irrigation knowledge. The researcher aimed to improve the decision 
+system by paying attention to the concise relationship among the en-
+tities of the ontology. Malik et al. (2018) developed ontology for the 
+domain of agriculture but considering fertilizer knowledge. The re-
+searchers anticipate in future integrating the knowledge with other 
+related domain such as soils. More so, owing to the significance of soils 
+knowledge in agriculture, the research work of (Heeptaisong & E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+3Shivihok, 2012 ) designed an ontology based on soils domain to assist 
+users in processing relevant information. 
+In furtherance to the literature, the work of Cornejo et al. (2005) 
+developed irrigation-based ontology aims to serve as learning guide for 
+subsistence farmers. Following the Noy-McGuiness approach, the 
+ontology was designed using a graph based ObjectEditor (Tsiakmaki & 
+Hartonas, 2013 ). However, the editor for the ontology is highly 
+restricted for complex knowledge representation. Consequently, the 
+proposed system is limited in terms of inference capability. The hilly 
+citrus ontology designed by Wang & Wang (2018) focuses on three 
+heterogeneous knowledge which include irrigation and fertilizers. It was 
+developed using TopBraidComposer editor (Khondoker & Mueller, 
+2010 ) in the syntax of RDF and query in SPARQL. Considering the RDF 
+technology, the ontology is limited to make detail semantic inferences. 
+Finally, the research work of Aminu et al. (2019) modeled soils and 
+fertilizers knowledge of maize crop ontologically based on the adopted 
+methodology. However, the ontology developed did not consider veri-
+fied CQs of the knowledge; and even though Hermit reasoner (Romero 
+et al., 2012 ) validated the ontology, the overall performance was not 
+evaluated. Similarly, Aminu et al. (2021b) equally designed an OWL 
+Rule based ontology dubbed SIMcOnto by considering soils and irriga -
+tion knowledge for the same crop. The same ontology development 
+approach was explored considering it potentials to address complex 
+questions and ontology evolution. However, the ontology was not 
+evaluated to show its efficacy against the set standard of ontology 
+content and construction evaluations. In conclusion, ontology can be 
+adjudged as an effective semantic data modeling technique for complex 
+knowledge representation such as agriculture domain Song et al. (2012) . 
+Hence, the proposed application based ontology (MaCOnto) 
+considered maize crop along with the essential agricultural inputs such 
+as soils, fertilizers and irrigations, which are interoperable agronomic 
+concepts. Similarly, unlike other review works in this section, the 
+ontology is developed based on hybridized methodology, which 
+uniquely includes the autonomous growth of the ontology. More so, the 
+ontology is adjudged to be robust based on the satisfactory results of the 
+evaluations. 
+3.The MACOnto ’s ontology engineering process: the 
+methodology 
+Every standard ontology is developed based on a given engineering 
+processes called methodology, which is similar to the iterative software 
+development approaches. There are numbers of ontology development 
+methodologies, but there is no standard or single correct methodology 
+for ontology design (Kapoor & Kapoor, 2014 ; Noy & Mcguinness, 2001 ; 
+Walisadeera et al., 2015 ). Consequently, this research adopted the hy-
+bridized six steps iterative ontology design process shown in Fig. 1. The 
+steps are collection of domain knowledge, terms specification of 
+ontology, setting out competency questions, ontology formalisation, 
+ontology evaluation, and ontology evolution (Aminu et al., 2020 ). 
+The six activities (or steps) of harmonized Gruninger –Fox, Methontology and FAO based methodologies in Fig. 1 are described as 
+an iterative ontology engineering process. This is because developer can 
+easily loop back to any earlier implemented step if defect is noticed at 
+any step. Therefore, the methodology for the development of the 
+ontology (MaCOnto) is explained by the following steps. i. The first step 
+in the development of MACOnto is the collection and analysis of domain 
+knowledge; in this case, knowledge about maize crop itself, soils, fer-
+tilizers and irrigation. Other related knowledge of maize collected as 
+suggested by domain experts include climatic condition, farm imple -
+ment, pest/insects and weed treatment. Terminological concepts were 
+collected from various reliable information sources. This include 
+research articles, authoritative online data sources, and published books 
+from institutions such as International Maize and Wheat Improvement 
+Center (CIMMYT), International Institute of Tropical Agriculture (IITA). 
+Others are School of Agriculture and Agricultural Technology (SAAT), 
+Federal University of Technology, Minna and Institute for Agricultural 
+Research (IAR), Zaria. More so, hundreds of CQs were collected via 
+questionnaire however, after series of validation exercise by the team of 
+domain experts, eighty CQs were satisfactorily used. The analysis of the 
+knowledge is carried out manually following the middle-out-approach. 
+The rationale behind the manual process is to ensure adequate 
+involvement and participation of domain specialists. Besides, manual 
+approach of ontology development is more reliable in terms of accuracy 
+and precision when compare to available automatic processes, which 
+have been proven inaccurate (Fawei et al., 2018 ). ii. The next step is 
+specification of the knowledge terminologies analyzed from the previ -
+ous step in accordance to OWL knowledge representation strategy. That 
+is, the ontology ’s terms are specified as classes, properties (object and 
+data) and individuals. The statistics of these OWL components starting 
+from component classes, which include the default class of owl: Thing 
+stands at 309. The total properties that is, object properties for relations 
+and data properties for entity description stand at 619. Lastly, the in-
+dividual component has a total number of 502 entities. In order to 
+simplify the terms specified for domain experts, a knowledge modeling 
+software called CMap tool (version 6.04) (Bonacin et al., 2016 ; Novak & 
+Ca~nas, 2008 ) is employed in this research. It helps to stimulate the 
+knowledge of the terms, and understanding between ontology de-
+velopers and domain specialists. Each of the knowledge considered in 
+this work has their terminologies specified. For example, sample of soils 
+knowledge is presented in this paper using the CMap tool as shown in 
+Fig. 2. 
+Fig. 2 presents sample terms of some specified soils knowledge. The 
+terms in oval shapes represent classes but the bolded terms represent 
+individual ’s concepts. In this paper, the forward slash (/) in some of the 
+oval shapes indicates that the terms are synonymous (for example, the 
+term Soils is synonymous to SoilCondition and Edaphic_Requirements ) as 
+additional attributes. Also the arrow stands for object properties. For 
+instance, Loamy has SiltLoamSoil and Soil requiresFertilier Fertilizers . iii. 
+Competency Questions (CQs) evidently distinguish ontology from other 
+related knowledge representation models. The semantic contents of 
+ontology largely have to do with its ability to handle the user query; in 
+other word, to infer contextual knowledge of a given CQ. This step of the 
+ontology development gives room for enforcement of logic and rules. In 
+this research, there are 24, 23, 20 and 13 numbers of validated CQs for 
+soils, fertilizers, irrigation and other supportive knowledge respectively. 
+The supportive knowledge include but not limited to climatic condition 
+and pest/insects. The reduction to the initial number of CQs is necessi -
+tated because of repetitions of some questions by almost all the re-
+spondents. Similarly, subject granularity is another factor that led to the 
+reduction during CQs validation by experts; this is to revolve the 
+ontology within its scope and purpose. First Order Logic (FOL) is 
+exploited to model the questions in order to adequately represent the 
+hidden contextual information. Table 1 presents the modeling of four 
+sample CQs of the knowledge considered in this research. 
+Table 1 presents samples of the formalized CQs in second column of 
+the table against the expressed CQs in natural language as appeared in 
+ Fig. 1.Ontology Development Methodology.  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+4the first column. The FOL model enables the contextual information of 
+every question to be expressed, in other words, allows entailment of 
+hidden knowledge. The first row contains the sample CQ for fertilizer 
+knowledge, which is about the suitable fertilizers for maize plant. The 
+logic takes cognizance of the two classes of fertilizers that can be 
+applied. However, each of the classes has the most suitable type for 
+maize crop; that is, not all types of fertilizers can be applied. Conse -
+quently, the use of existential quantifier (9x) has to be invoked for both 
+classes of fertilizers. In this case, PoultryDropping for OrganicFertilizer 
+class and NitrogenPhosphorusPotassium (NPK) and Urea for Inorga -
+nicFertilizer class are independently suitable for maize cultivation 
+because of their Nitrogen content. The hidden knowledge or contextual 
+information of the (informal) CQ that is modelled by the logic (the 
+formal CQ) is that maize crop is aHeavyFeederOfNitrogen . This concate -
+nated word is a relation (object property) for classes MaizeCrop and 
+Nitrogen as shown in the first row, second column of Table 1. The second 
+row is the CQ for soil knowledge; third row is the CQ for irrigation 
+knowledge and the last row contains sample CQ for pest/insects 
+knowledge of maize crop. The output is at the right side of the impli -
+cation symbol (→), which is the consequence of antecedent knowledge 
+at the left side. iv. The next step formalizes the ontology using latest version of Prot˘eg˘e 5.5.0 edition that strongly supports the OWL2. Terms 
+specified in steps 2 and 3 are formalized in OWL along with constraints 
+enforcement while, the formulated CQs of step 3 are formulized using 
+SWRL. 
+Next step is evaluation, which is a process of carrying out consistency 
+checks of ontology in adherence to proper concepts. The process in-
+volves ontology validation and verification with respect to W3C se-
+mantic web vocabularies convention. In this research, the eight popular 
+metrics of structural based evaluation is employed. In addition, HermiT 
+version 1.3.8.413, an ontology reasoner was constantly used to verify 
+and validates consistencies of the ontology ’s concepts. CQs were enco-
+ded in SQWRL to validate the correctness content of the ontology; and 
+domain experts ascertained the level of results ’ accuracy. In case of any 
+defect, the ontology developer can easily loops back to previous steps for 
+correction. 
+Ontology evolution is the last step of this design methodology. The 
+principle of ontology ’s scalability is an important aspect of evolution 
+that aids ontology ’s self-growth and reuse. In view of this, the following 
+novel Algorithm 1 presents design framework on how the proposed 
+ontology can autonomously evolve.  
+Algorithm1: MaCOnto Evolution 
+Input: Q 
+Output: Result, MaCOnto Autonomous Update 
+Parameters: Query String (Q); WordNet; MaCOntoTerms (T); POSparser: 
+CandidateTerms 
+(C); counter (i); numbers of terms in C (n); hypernyms (hyp); holonymy (hoy); 
+Meronym (mer); domain (dom); object property (obProp); individual (indiv) 
+Procedure: 
+1 execute OntEvolutionThreads; 
+2 input Q 
+3 qPOSPOSparser(Q, true); //preprocess to remove stop words and tokenize 
+4 C qPOS; 
+5 initialize T; 
+6 do 
+7 if C ∃T then // if C is found among MaCOnto ’s Terms 
+8 Output Result // the appropriate C along with synonyms terms and relation 
+9 elseIf C ℑ∃T. then //if C is not found in MaCOnto (MaCOnto starts to evolve ) 
+10 learn WordNet (C); 
+11 check SemanticRelation(hyp; hoy; mer); 
+12 encode OntStatement(dom; range; subclass; obProp); 
+13 elseIf find(WordNet; classes) then 
+14 axiom; classes getRelatedAxiom(WordNet); 
+15 end 
+16 elseIf find(WordNet; indiv) then 
+17 axiom; indiv getRelatedAxiom(WordNet); 
+18 end 
+19 update MaCOnto; 
+20 else Print “out of subject granularity ” end 
+21 end 
+22 end 
+23 while (i n) 
+24 return MaCOnto 
+Fig. 2.Graphical Representation of Specified Terms for Soils Knowledge.  
+Table 1 
+FOL Representation of Sample CQs.  
+Competency Questions 
+(Informal) Competency Questions (Formal) 
+Which type of fertilizer is required 
+for maize cultivation/ what is 
+the best fertilizer type for maize? 9x ⊥y . (Fertilizer(x) ‖MaizeCrop(y) ‖
+isAheavyFeederOfNitrogen(y, Nitrogen) ‖
+isA_NitrogenRich(PoultryDropping, x) ‖
+isA_NitrogenRich(NPK ↕Urea, x) → 
+isMostlySuitableFor(PoultryDropping ↕NPK ↕
+Urea, y))  
+How fertility state of soil can be 
+determined for maize crop? ⊥x . (SoilSample(x) ‖9y. (0–15cm_Auger(y) ‖
+isA_MaizeTest(y, Tool) → 
+isTestedForMaizeCropUsing(x, y) ‖
+isTestedInThe(x, SoilLab))) 
+Which type of soil can irrigation be 
+carried out in maize cultivation? ⊥x . (Soil(x) ‖isATypeOf(Loam ↕Clay ↕Sandy, 
+x) ‖9y. (Irrigation(y) ‖
+forMaizeCropDependsOn(y, SoilPercolation ↕
+SoilNutrient ↕IrrigationMethods) ‖hasGood 
+(Loam, SoilPercolation ‖SoilNutrient) → 
+isAgoodSoilForMaize 
+(SandLoam↕ClayLoam↕SiltLoam, y))) 
+What type of pesticide to use if 
+earworm, stem borer or 
+armyworm is noticed? 9x, y . (EarWorm (x) ↕StemBorer (x) ↕
+ArmyWorm(x) ‖isAmaizeCropDisease(x, 
+Disease) ‖PesticideTreatment(y) ‖
+isAmaizeCrop(y, FarmChemicalTreatment) → 
+isUsedForTheTreatmentOf(y, x))  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+5From this algorithm, it is expected to define before engage in 
+execution of all the necessary user define methods that aid its objective. 
+This is collectively termed as Ontology evolution threads in this research 
+as shown by line 1; they include SemanticRelation, OntStatement, 
+getRelatedAxiom and load WordNet. 
+From lines 2 to 5, user inputs query string as competency question; 
+and the query is immediately preprocessed to eliminate stop words like 
+punctuations, articles (a, an, the) and conjunctive terms using the part of 
+speech (POS) parser technique. The result of this process is what is 
+referred to as candidate terms in this research. Before testing if the 
+candidate term(s) is/are found in the ontology, the already manually 
+built terms of MaCOnto is initialized. From line 7, the term(s) is/are 
+being tested to know if they are matched with the existing ontology ’s 
+terms. If true, results are outputted, else the objective of this algorithm 
+starts to manifest from line 9. 
+From lines 10 to 12, the user defined methods activate and load 
+WordNet to learn the terms. It also determines with the aid of Seman -
+ticRelation and OntStatement methods if such term is a super class 
+(hypernymy), subclass (hyponymy) or relation (meronymy). Class can 
+either serves as domain class or range class; it depends on the relation. 
+This research is only considering the nouns POS; which are equivalent of 
+classes and individuals in OWL ontology. Consequently, from lines 13 to 
+19, the terms are being validated by the methods if they are classes or 
+individuals. Hence the ontology is autonomously updated via the map-
+ping strategy between MaCOnto, the domain ontology and WorldNet, 
+the lexical database. If no update takes place, it implies that the term is 
+outside the domain consideration as represented by line 20 and the 
+ontology returns. At line 23, the pseudocode checks by the do…while loop 
+construct if the condition is satisfy. That is, the counter (i) checks if it has 
+got to the last term (n) in the string data structure. 
+4.The proposed MaCOnto ’s framework 
+The proposed MaCOnto is defined based on the Maize Crop Knowl -
+edge Framework (MCKF) primarily consist of MaizeCrop (Mo) itself, 
+Soils (So), Fertilizers (Fo) and Irrigation (Io) knowledge. Other Sup-
+portive Knowledge (SKo) are Climatic Conditions (Windspeed, Humid -
+ity, Sunlight, and Temperature), Farm Implements, Pest/Insects and 
+Diseases. Therefore, the ontology is formulized as follows: 
+MaCOntoDCCPCICαF (1)  
+where C stands for set of nonterminal Concepts or Classes for the 
+domain. In this research work, C comprises set of classes for Soils, Fer-
+tilizers, Irrigation and other considered knowledge of Maize Crop. That 
+is, 
+CCMo}CSo}CFo}CIo}CSKo (2) 
+P is set of Properties. Typically, property may be defined as set of 
+relationship (R) that exists between concepts. That is, 
+R≤C×CBOntheother handC⊥r∃RBr⊔c1Cc2Bc1Cc2∃C⊓ (3) 
+However, in this research work the definition of Eq. (3) only hold for 
+object property, which implies relationship (R). This is because Data 
+Property (Pd) of (nonterminal or terminal) concept is also an essential 
+component to consider for robust ontology. OWL based ontology is 
+robust when developer equally harvests all required concepts from 
+collection sources strictly in accordance to classes, individuals and 
+(object and data) properties. However, in many cases, data property 
+component is not considered, which inadvertently affect the correctness 
+of ontology in terms of annotation. 
+PdcdCid (4)  
+that is, (class data property (cd), individual data property (id)). For example, class MaizeCrop hasRoot ; therefore, hasRoot is Pd specifically, 
+it is cd. Because the data property belong to a class. Conclusively, 
+property component of OWL is expressed in this research as: 
+PRUP d (5) 
+Symbol I stands for Individual which is/are terminal(s) set of c. that 
+is, 
+cx⊔i0Ci1Ci2C…in⊓n≽0 (6) 
+α represents rules and constraints of concept, which is expressed as 
+follow 
+α 
+CinfCCcon)
+(7) 
+Where Cinf stands for Contextual information derived from compe -
+tency questions that form the rules. Ccon denotes Concept ’s constraints 
+such as transitive and functional characteristics of object property. 
+Furthermore, the development of MaCOnto is analogously described 
+by the conceptual framework of Fig. 3. As stated by Eq. (1), the devel -
+opment of the application-based ontology consists of taxonomy and 
+semantic components ’ implementation. 
+The framework of Fig. 3 is described as three-tier architectural 
+design. They are:  
+i Knowledge Collection: this is the first tier of the architecture where 
+the required knowledge in textual forms are collected from reliable 
+and trusted information sources. The domain experts constantly 
+validate the (soils, fertilizers and irrigations) knowledge based on the 
+defined domain of maize crop. Middle-out-approach is employed in 
+this work as concept identifying technique owing to its ability to first 
+identify most important concepts and then generalized and special -
+ized into other concepts.  
+ii Ontology Design: the second tier illustrates how the domain 
+ontology is designed. The domain ontology at this level primarily 
+consist of Eqs. (2) to 6; that is, ⊑C, P, I,⊒without contextual infor-
+mation derived from the set of CQs (α). The entities of 309 classes, 
+443 object properties, 176 data properties and 502 individuals based 
+on OWL representation model defined the domain ontology at this 
+point. From Fig. 3, classes, prop and ind denote the Classes, Properties 
+and Individuals respectively. The entities are encoded via Prot˘eg˘e 
+editor. At this level of the design, the ontology cannot performed a 
+robust competency tasks; hence, the need for the last tier.  
+iii Inference Design: This research goes beyond development of 
+lightweight ontology or typical domain ontology that cannot 
+perform competency tasks. It is extended by enforcing high-level 
+constraints on concepts for example, properties are designed to be 
+Fig. 3.Conceptual Framework of MaCOnto.  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+6transitive, functional and symmetric. Besides, class component of the 
+domain ontology from second tier are furthered encoded by 
+considering Classes General Axiom (CGA) mechanism of Prot˘eg˘e to 
+minimize the challenge of synonyms. More importantly, the vali-
+dated CQs are modeled using FOL as shown by the samples of 
+Table 1. Consequently, the logics are encoded into rules and axioms 
+with the aid of SWRL of Prot˘eg˘e; so that the ontology can perform 
+robust competency tasks. That is, to infer contextual knowledge 
+based on the informal query in CQs form. In the end, an OWL Rule 
+based application ontology that autonomously evolves is developed. 
+The aspect of ontology evolution is achieved via the adoption of 
+WordNet as ontology to ontology mapping strategy as earlier shown 
+by algorithm 1. Table 2 shows the SWRL representation of the CQs 
+already modeled in FOL of Table 1 and their corresponding query 
+format: SQWRL. 
+Table 2 presents samples of implemented CQs using SWRL as shown 
+by the second column of the Table. The first CQ in first row of the Table, 
+which is on fertilizers knowledge, formulized the modeled CQ in FOL 
+into SWRL using the notations. Concepts such as Fertilizers, Inorga -
+nicFertilizers and NPK_Fertilizer are defined using letter as atom or vari-
+able, which is normally preceded by question mark (?) symbol in 
+parenthesis. For example, the concept Fertilizers is coded in SWRL as 
+Fertilizers(?f) ; and the concepts are separated with the exponential 
+symbol (^). The knowledge that precede the implication symbol (-F) 
+such as containsAlotOf(PoultryDropping, Nitrogen) is termed as ante-
+cedent knowledge. While the knowledge after the symbol is termed as 
+the consequent that represents the output of the knowledge. Thus, the 
+OWL axioms and the SWRL in the Table 2 are transferred to the rule 
+engine (Drools). Consequently, execution take place and the inferred 
+axioms were successfully transferred back to the OWL model. 
+Similarly, the corresponding representation of the rule but in query 
+form is the SQWRL shown by the third column of Table 2. Ontology 
+query language that complies with the OWL evolution in terms of in- 
+depth supports for semantic expressivity of axioms and rules is 
+required; hence, the motivation for SQWRL. This query language works 
+by using the antecedent and consequent parts of the SWRL as pattern 
+specification and retrieval specification respectively. However, in order 
+to avoid duplication of results during query, some special functions such 
+as sqwrl:makeSet(?s1, ?f) is used. In this example, the atom (?s1) makes a 
+union set of the concept Fertilizer (?f) regardless of the numbers of time it 
+appears in the ontology file. The second row of the Table 2 shows the 
+corresponding SWRL and SQWRL of the FOL model for soils. While, the 
+third column is for irrigation knowledge, the last row is for knowledge on pest and insects. Therefore, the results are discussed in the next 
+section of this research. 
+5.MaCOnto ’s results and discussion 
+This section firstly, presents and discusses the results of the devel -
+oped MaCOnto based on the terminological construct of OWL and the 
+competency questions. Similarly, the result of how the ontology 
+autonomously evolve is equally discussed. Secondly, the results of the 
+ontology ’s different forms of evaluations are also discussed in this sec-
+tion of the paper. 
+The ontology is developed using the java based Prot˘eg˘e editor, and 
+the summary result is graphically presented by Fig. 4. 
+Fig. 4 shows the summary representation of the ontology graphically, 
+using OntoGraf of Prot˘eg˘e by considering only the core classes. The 
+rectangular boxes of the Figure represent the core classes and the plus 
+() signs signify that they are all super classes. As clearly shown by the 
+Figure, every other classes span out from the root (default) class owl: 
+Thing . As such, each of the classes contain numbers of classes among 
+which are also super classes to some other classes. For examples, Figs. 5 
+and 6 demonstrate fragmented results of the implemented soils and 
+supportive knowledge respectively for terminological aspect of the 
+ontology, semantically. 
+Fig. 5 presents the snapshot of the implemented results of some 
+classes of the soils knowledge. The arrows that precede some classes of 
+the Figure for instance, Soil_Organisms, SoilAmendment and Soils signify 
+that the entities are super classes. SoilAmendment has 
+Table 2 
+Implementation of Modeled CQs using SWRL.  
+CQs SWRL SQWRL 
+What is the best fertilizer 
+type for maize? Fertilizers(?f)^OrganicFertilizers(?o)InorganicFertilizers(?i) 
+^MaizeCrop(?m)^Urea(?u)^NPK_Fertilizer(?n)^isAheavyFeederOf(?m, 
+Nitrogen)^strictlyContains(?u,Nitrogen)^containsGoodProportionOf(? 
+n, Nitrogen) isAveryRichFormsOf(PoultryDropping, ?o) 
+^containsAlotOf(PoultryDropping, Nitrogen) -FisTheMostSuitable 
+(PoultryDropping, ?o) ^ isTheMostSuitableForCultivating(?n, ?m) ^ 
+isTheMostSuitableForCultivating (?u, ?m) Fertilizers(?f) . sqwrl:makeSet(?s1, ?f) ^ MaizeCrop(?m) ^ sqwrl:makeSet(?s2, 
+?m) ^ Urea(?u) ^ NPK_Fertilizer(?n) ^ isAheavyFeederOf(?m, Nitrogen) ^ 
+containsMainlyNitrogen(?u, Nitrogen) ^ containsGoodProportionOf(?n, 
+Nitrogen) ^ containsAlotOfNitrogen(?a, Nitrogen) ^ AnimalManures(?a) ^ 
+containsAlotOfNitrogen(PoultryDropping, Nitrogen) -F
+isA_SuitableFertilizerToGrow(?a, ?m) ^ isA_SuitableFertilizerToGrow(?n, ?m) 
+^ isA_SuitableFertilizerToGrow(?u, ?m) ^ sqwrl:select(?n) ^ sqwrl:select(?u) ^ 
+sqwrl:select(?a) 
+How fertility state of soil 
+can be determined for 
+maize crop? SoilFertilityTest(?f)^SoilSample(?s) ^SoilLaboratory(?l) ^Auger(?a) 
+^MaizeCrop(?c)- FisDeterminedFor(?f, ?c) ^ isCarriedOutInThe(?f, ?l) ^ 
+isCarriedOutOnThe(?f, ?s) ^isConductedUsing(?f,0 –15cmTool) Soils(?s)^SoilTestTools(?t)^SoilFertility(?y)^SoilFertilityTest(?f)^Maize(?m) 
+^sqwrl:makeSet(?s1, ?t). sqwrl:size(?d, ?s1)^Maize(?m) . sqwrl:makeSet(?s2, 
+?f). sqwrl:size(?z, ?s2)^canBeDeterminedByTest(?y, ?f) ^ 
+canBeDeterminedByTool(?y, ?t) -FstateOfFertilitycanBeDeterminedByTest(? 
+s, ?f)^stateOfFertilitycanBeDeterminedByTool(?s,?t)^sqwrl:select(?f)^sqwrl: 
+select(?t) 
+Which type of soil can 
+irrigation be carried out 
+in maize cultivation? Soils(?s)^Irrigation(?i)^MaizeCrop(?m)^requiresModerateIrrigation(? 
+m, ?i) -FcanBeCarriedOutInAnySoil(?i, ?s) ^ sqwrl:select(?s) Soils(?s) . sqwrl:makeSet(?s1, ?s) ^Irrigation(?i) ^MaizeCrop(?m) 
+-FrequiresModerateIrrigation(?m, ?i) ^canBeCarriedOutInAnySoil(?i, ?s) ^ 
+sqwrl:select(?s) 
+What type of pesticide to use 
+if earworm, stem borer or 
+armyworm is noticed? Insecticides_Treatment(?i) ^ Pests(?p)^isUsedForTheTreatmentOfPest 
+(?i, ?p)-Fsqwrl:select(?i)OR sqwrl:select(?i, ?p) Insecticides_Treatment(?i) ^ Pests(?p) ^isUsedForTheTreatmentOfPest(?i, ?p) 
+-Fsqwrl:select(?i)OR sqwrl:select(?i, ?p)  
+Fig. 4.General Concepts of MaCOnto.  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+7InorganicAmendments and OrganicAmendments as subclasses. This is the 
+same implementation and operational methods with the super classes of 
+the knowledge. Similarly, Fig. 6 presents other supportive knowledge 
+such as ClimaticCondition along with subclasses, FarmChemicalTreatment 
+and Pest/Insects . Pests or Insects is a similar class to Disease. Figs. 7 and 8 
+also partly present the implemented classes for fertilizer and irrigation 
+knowledge respectively. 
+From Fig. 7, class Fertilizer_Application_Methods has BandingApplica -
+tionMethod, BroadcastingApplicationMethod and others directly appeared 
+under it as subclasses. Similarly, different categories of fertilizers are 
+encoded along with their examples. Fig. 8 also partly presents the irri-
+gation concepts such as Surface_Irrigation, Sprinkler_Irrigation and 
+Drip_Irrigation . 
+As stated earlier, CGA is employed to provide similar metadata to the 
+agronomic concepts; therefore, Fig. 9 presents an implemented example 
+for soil concept. 
+The class Soils has Edaphic_Requirement and Soil_Conditions as 
+equivalent concepts. However, beyond this effort, the developers of the 
+ontology provide a metadata mechanism to easily identify concepts. As 
+shown by Fig. 9, this is an annotation mechanism such that when 
+document in the ontology contain concepts like compositionOfOrga -
+nicMatter or mixtureOfSandClaySilt , it can be ascribed to the class Soils. 
+Summarily, all the 309 classes along with 443 object properties, 176 
+data properties and 502 individuals are duly implemented. The OWL file 
+of the ontology can be accessed via https://github.com/enesifa/Enesi/ 
+blob/main/MaCOnto_OWL%20File.owl. 
+More so, Figs. 10 and 11 present the results of querying the first and 
+last CQs as earlier shown by Table 2 using the SQWRL of SWRL. 
+The semantic result of the CQ: What is the best fertilizer type for maize 
+is displayed as variables n, u and a at the bottom of Fig. 10. Each of these 
+variables contains NitrogenPhosphorusPotassium_Fertilizer, Urea_Fertilizer 
+and PoultryDropping respectively as value; they are highlighted in blue color of Fig. 10. The query as earlier written on the third column, row 
+one of Table 2 is successfully executed using drools engine. Similarly, 
+Fig. 11 equally presents the result of successful execution of another 
+sample CQ. 
+The CQ: What type of pesticide to use if earworm, stem borer or army-
+worm is noticed is named S72 in the SWQRL tab as shown in Fig. 11. The 
+SQWRL is executed by the drool engine of Prot˘eg˘e and produces tabular 
+results shown by the highlighted blue color at the bottom of the 
+Figure labelled columns i and p. Column i, which is a coded atom for 
+Insecticides_Treatment displays the corresponding treatment for the three 
+diseases. Column p highlights the diseases. For example, the pesticide for 
+treatment of EarWorm disease is Cypermethrin . However, each of the 
+outputs has prefix of maizeCropOntology_MODIFY3_VALIDATION: as 
+namespace. 
+Furthermore, Fig. 12 shows the implementation results of how the 
+ontology autonomously evolves based on the given CQ. 
+Considering the executed CQ from Fig. 12, the only single candidate 
+term is tree, a noun concept which could be superclass or subclass. 
+However, the term is not found in the manually curated ontology file, 
+whereas in actual sense, it could be a superclass to the term Maize_Crop . 
+That is, Maize_Crop is part of Tree. Therefore, through the imple -
+mentation of Algorithm 1 and the conceptual framework of Fig. 3, the 
+term is autonomously added to the system. Firstly, since the term is not 
+part of the ontology file, the WordNet is automatically activated to 
+process the relevance of the term to the ontology by checking its se-
+mantic relations. Secondly, once the condition is satisfy, the system infer 
+maize crop to be the only tree in this context. Therefore, the term tree is 
+considered as hypernymy of the class Maize_Crop based on the concepts 
+Fig. 5.Soils Knowledge Classes.  
+Fig. 6.Supportive Knowledge Classes.  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+8mapping between the MaCOnto ’s file and the WordNet ’s semantic 
+relation. 
+Consequently, the semantic relations of either meronym or hol-
+onymy hold for the two concepts; and the term Tree is autonomously 
+updated as class of the ontology. Similarly, the duo knowledge models 
+also infer a user defined relation: hasVariousGrowthParts from the 
+ontology as a result of the existence of the term: part in the CQ. Thus, the 
+semantic result, which is Maize_Crop has VariousGrowthParts Maize_ -
+Growth_Parts is displayed as shown by the Figure. The result is a hy-
+perlink text upon clicking; various parts of maize crop as tree are 
+displayed. 
+5.1. MaCOnto evaluations 
+In addition to HermiT reasoner for checking the consistency of 
+MaCOnto ontology, structural and competency based evaluations were 
+duly carried out to ascertain its validity. The details of the validations 
+are as follows. 
+5.1.1. MaCOnto structural based evaluation 
+The ontology structural based evaluation is driven by the eight 
+popular metrics (Vrandecic, 2010; Yao et al., 2005) listed in Table 3. 
+MaCOnto is evaluated against the average and median values of 1413 
+existing OWL ontologies. The OWL based ontologies obtained via 
+swoogle have become a standard of ontology ’s validation and verifica -
+tion (Sicilia et al., 2012 ; Wang & Wang, 2018 ). 
+Table 3 presents the results of MaCOnto ’s structural evaluations 
+against the existing ontologies based on the eight metrics. The first 
+metric is the classes ’ numbers (cn). While the standard average and 
+median number of classes for OWL ontologies are 36 and 6 respectively; 
+the proposed MaCOnto has an outstanding number of 309 classes. The 
+second and third structural evaluation metrics are numbers of individual 
+and object properties with expected average numbers of 28 and 24 
+respectively. However, the proposed MaCOnto has 502 individuals ’ 
+numbers (in) and 443 number of object properties (op). Similarly, the 
+fourth metric is the root classes ’ numbers (rcn), which are numbers of 
+classes that are mainly first level super classes. In this research, there are 
+109 numbers of root classes against the average and median minimum 
+numbers of 6 and 5 respectively. 
+Therefore, the results of the first four metrics (that is, cn, in, op and 
+rcn) for MaCOnto are far higher than their corresponding average and 
+median values of the existing 1413 benchmark OWL ontologies. The 
+results validate the robustness of the ontology developed in this 
+research. 
+Furthermore, the fifth metric is average population (ap), which is 
+obtained by dividing the absolute value of individuals ’ numbers by the 
+classes ’ number. That is, ap |in| / |cn| which is equal to |502| / |309| 
+or 1.62. This is against the average value of 1.34 for this metric; this 
+implies the proposed ontology has a promising average population. 
+Similarly, the sixth metric, which is utilization of class (uc) is obtained 
+by dividing the absolute value of the number of classes that have a 
+minimum of one individual by the classes ’ numbers. That is, uc |c| / | 
+cn| which is equal to |309 –25| / |309|. |c| is calculated by subtracting 
+numbers of classes without individuals, which is 25 from the total 
+number of classes. With 0.92 for uc, it indicates that the ontology ’s in-
+dividuals adequately utilized the classes. 
+More so, schema deepness (sd), which is the seventh metric clearly 
+portrays the robustness level of ontology. It is computed by dividing the 
+number of subclasses by the total number of classes; that is, sd |nsc| / | 
+cn| which is 200/309. Subtracting the number of root classes from 
+number of the classes, derives the number of subclasses; that is, |nsc| | 
+cn| - |rcn|. The value of sd clearly determine the robustness of the 
+ontology in terms of how the classes are spread to form the ontology 
+inheritance pattern. A higher value obtained for sd compared to the 
+benchmark values shows the deepness of the ontology. Else, if the value 
+of sd is less than the benchmark values, such ontology is described to be 
+Fig. 7.Fertilizer Knowledge Classes.  
+Fig. 8.Irrigation Knowledge Classes.  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+9flat. But, in the case of this research owing to the value of sd, the 
+ontology is described to be deep. 
+Finally, the last metric is the diversity of relationship (dr), which is obtained by dividing the absolute value of object properties (op) by the 
+summation of number of subclasses and object properties. That is, dr | 
+op| / |nscop| (|443| / (|200 443|)); this translate to dr value of 443/ 
+Fig. 9.General Class Axioms for Class Soils.  
+Fig. 10.Semantic Result of Fertilizer/Maize Crop CQ.  
+Fig. 11.Semantic Result of Pesticide/Maize Crop CQ.  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+10643 or 0.96. This last metric intends to signify the multiplicity of 
+ontology ’s properties (relations). This is based on theory that ontology 
+consist many relations other than meronyms and holonyms, which are 
+class inheritance relations. However, the value of dr in this research is 
+less than the average dr value but closely equal to the median value. 
+Therefore, since the total numbers of properties in the proposed 
+ontology are the user defined relations; it can be concluded that the 
+value is on the fair side. 
+In conclusion, the structure of MaCOnto is evidently robust and 
+stable judging from the values obtained from the eight metrics. Thus, 
+Fig. 13 represents the results of the metrics graphically for clarity of 
+comparisons. 
+The graphical representation of the results of structural evaluation of 
+the ontology is clearly shown in percentage by Fig. 13. Obviously, except 
+for the diversity of relationship metric, the proposed ontology is sufficiently robust. Nonetheless, the result of MaCOnto for relationship 
+diversity is fairly satisfactory because it is very close to the median value 
+of the existing ontologies. 
+5.1.2. MaCOnto ’s competency based evaluation 
+Competency Question (CQ) forms another distinctive metric for 
+ontology ’s validation. This evaluation is carried out by using the formal 
+CQs as input string. It is important to mention that the CQs are not 
+directly dependent on the contents of the ontology ’s file. The total 
+number of CQs validated for this research is eighty; Table 4 presents 
+them in four categories considering the four knowledge sources. 
+The formal CQs (SWRL) are executed in their query forms that is, the 
+SQWRL; and the results are shown by Table 4. Out of the 24 validated 
+CQs for soils maize concepts, two (2) failed to give complete accurate 
+results. For example, the CQ: Which type of soil can irrigation be carried out 
+in maize cultivation returns Soil_Separates as part of results. Similar de-
+ficiencies were recorded in the other knowledge as rightly shown by the 
+Table. The rationale behind the inaccurate results is largely traced to the 
+multiplicity and similarity of user defined relations (object properties) 
+between the given concepts. Consequently, this deficiency manifest on 
+the obtained value of diversity of relationship metric of the structural 
+based evaluation. Numbers of CQs with deficiencies results are 3, 2 and 
+1 for maize fertilizers, maize irrigation and maize pests/climatic con-
+dition respectively. The results displayed were studied and validated by 
+the domain experts. At the end, the competency based evaluation ach-
+ieved an overall result with accuracy of 90%. Therefore, Fig. 14 presents 
+the summary result of the evaluation in graphical form. Nonetheless, 
+CQs that could not return complete expected results are attributed to the 
+diversity of relations as earlier observed in the previous structural based 
+evaluation. 
+Fig. 12.Result of Ontology Evolution.  
+Table 3 
+MaCOnto Structural Evaluations.  
+Ontology Structural Metrics MaCOnto 1413 OWL Ontologies Average 
+Median 
+classes ’ numbers (cn) 309 36.11 6 
+individuals ’ numbers (in) 502 28.13 6 
+object properties (op) 443 24 0 
+root classes ’ numbers (rcn) 109 6.69 5 
+average population (ap) 1.62 1.34 1 
+utilization of class (uc) 0.92 0.54 0.72 
+schema deepness (sd) 0.65 0.34 0 
+diversity of relationship (dr) 0.96 2.78 1  
+Fig. 13.MaCOnto Structural Evaluation.  Table 4 
+Validation of Competency Questions.  
+CQs 
+Category Number 
+of 
+Validated 
+CQs CQs with 
+Accurate 
+Outputs Percentage 
+of Accuracy 
+(%) CQs with 
+Inaccurate 
+Outputs Percentage 
+of 
+Inaccuracy 
+(%) 
+Soils 24 22 92 2 8       
+Fertilizers 23 20 87 3 13       
+Irrigation 20 18 90 2 10       
+Others 13 12 92 1 8       
+Total 80 72 90 8 10  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+11The formal CQs for each knowledge as presented by Table 4 are 
+queried and tested in SQWRL formats. In the overall, the accuracy of the 
+returned results being validated by domain experts is clearly promising 
+as shown by Fig. 14. From the Figure, the summary accuracy of the 
+proposed ontology based on the CQs is 90%, while the remaining 10% 
+accounts for inaccurate results. This is tolerated because the magnitude 
+of the inaccurate results is not total; that is, the inaccurate results 
+contain a larger numbers of accurate results but contain one or more 
+inaccurate concepts. 
+6.Conclusions and future work 
+In this research, a robust ontology christened MaCOnto, is developed 
+based on the domain of maize crop but primarily considered the soils, 
+fertilizers and irrigation agronomic concepts. MaCOnto is an extension 
+of two earlier published literature of OWL Rule based ontology models; 
+firstly, for soils and fertilizers ’ maize crop agronomic concepts; and 
+secondly for soils and irrigation knowledge for maize crop. The devel -
+opment of the ontology is premised on manual top-down approach of the 
+six steps iterative ontology engineering principle. The domain knowl -
+edge is represented using OWL2 based on RDF/XML syntax; while the 
+CQs, which are modeled using FOL, are encoded into ontology files using 
+the SWRL. Consequently, the ontology is queried in the format of the 
+formal CQs as query input strings using SQWRL as query language. 
+Hundreds of CQs initially collected via questionnaire instrument were 
+finally scaled down to 80 after several analysis and validation by the 
+team of domain experts. In the overall, MaCOnto has 309 classes include 
+the root class of owl:Thing , 619 number of properties and 502 numbers of 
+individuals component. Therefore, considering the sizes of the ontol -
+ogy’s classes, properties and individuals following the results of the 
+structural based evaluation, the proposed MaCOnto is described to be a 
+deep ontology. In addition, efforts were equally made to exploit Class 
+General Axiom technique of Prot˘eg˘e tool to provide metadata for the 
+ontology ’s entities. More importantly, the robustness of the ontology 
+leverages on the eighty (80) validated CQs by domain experts; and the 
+new mechanism to allow the ontology to autonomously evolve. 
+Furthermore, in order to ascertain the validity and verification of the 
+ontology, structural and competency based evaluations were carried 
+out; and the results are promising. This is in addition to the consistency 
+checks of the ontology using the HermiT reasoner of Prot˘eg˘e 5.5.0. 
+Therefore, the results recall are precisely defined, which saves a lot of 
+retrieval response time and computational cost. However, a Graphical 
+User Interface (GUI) would be developed so that user can query the 
+MaCOnto ’s files in informal CQ or natural language form. Besides, the 
+results obtained for autonomous evolution of the ontology is practically 
+limited; because the novel algorithm can only add a single new concept 
+that is a class or individual from a given CQ. The algorithm could not 
+consider or adds new concept as semantic relation; consequently, it is 
+yet to add two classes from a given CQ. More so, the data source 
+(WordNet) employed to autonomously update MaCOnto is limited, 
+because it is a general lexical ontology or database. Therefore, there are contending issues of polysemy associated with the data source to care-
+fully select an intended concept to update the ontology. In future, an 
+alternative peculiar semantic database like AGROVOC would be 
+considered for autonomous update of the ontology. 
+CRediT authorship contribution statement 
+Enesi Femi Aminu: Conceptualization, Formal analysis, Methodol -
+ogy, Data curation, Software, Validation, Writing – review & editing. 
+Ishaq Oyebisi Oyefolahan: Supervision, Project administration, 
+Writing – review & editing. Muhammad Bashir Abdullahi: Supervi -
+sion, Data curation, Resources, Writing – review & editing. Muham -
+madu Tajudeen Salaudeen: Investigation, Formal analysis, Data 
+curation, Validation, Resources, Writing – review & editing. 
+Declaration of Competing Interest 
+We have no known competing financial interests; and there is no any 
+funding agency for this paper. 
+Acknowledgments 
+This research work was performed as part of PhD program at the 
+Federal University of Technology (FUT) Minna Nigeria. The authors 
+acknowledge the immense contributions of the team of domain experts 
+ably led by Dr. M.T. Salaudeen. Other members include Dr. (Mrs.) O. A. 
+Adediran, Dr. Yakubu, Mr. Hamza Ibrahim, Mr. R. O. Oyewale, Mr. 
+Bolajoko, they are staff of Crop Production Department, FUT. Dr. (Mrs.) 
+M. O. Ojo and Mr. Mohammed Yakubu are from Department of Agri-
+cultural Extension. Mr. Saidu Tenuche from Institute of Agricultural 
+Research, Ahmadu Bello University, Zaria. 
+MaCOnto: A robust maize crop ontology based on soils, fertilizers 
+and irrigation knowledge 
+References 
+Abdelgawad, H., Zinta, G., Hassan, Y. M., Abdel-mawgoud, M., Hussien, D., 
+Alkhalifah, M., et al. (2021). Soil arsenic toxicity differentially impacts C3 (barley) 
+and C4 (maize) crops under future climate atmospheric CO 2. Journal of Hazardous 
+Materials, 414. https://doi.org/10.1016/j.jhazmat.2021.125331 , 125331. 
+Agyapong-Kodua, K., Lohse, N., Darlington, R., & Ratchev, S. (2013). Review of semantic 
+modelling technologies in support of virtual factory design. International Journal of 
+Production Research, 51(14), 4388 –4404. https://doi.org/10.1080/ 
+00207543.2013.778433 
+Alkhammash, E. (2020). Formal modelling of OWL ontologies-based requirements for the 
+development of safe and secure smart city systems. Soft Computing, 24(15), 
+11095 –11108. https://doi.org/10.1007/s00500-020-04688-z 
+Alobed, M., Altrad, A. M., Bakar, Z. B. A., & Zamin, N. (2021). Automated Arabic essay 
+scoring based on hybrid stemming with wordnet. Malaysian Journal of Computer 
+Science, 2, 55–67. 
+Alvez, J, Lucio, P, & Rigau, G (2017). Black-box Testing of First-Order Logic Ontologies 
+Using WordNet. ArXiv Preprint ArXiv , 1705.10217. 
+Aminu, EF, .Oyefolahan, IO, .Abdullahi, MB, .& Salaudeen, MT (.2019). An OWL based 
+ontology model for soils and fertilizations knowledge on maize crop farming: 
+Scenario for developing intelligent systems. 2019 15th International Conference on 
+Electronics, Computer and Computation, ICECCO 2019, Icecco, 1–8. 10.1109/ICECC 
+O48375.2019.9043214 . 
+Aminu, E. F., Oyefolahan, I. O., Abdullahi, M. B., & Salaudeen, M. T. (2020). A review on 
+ontology development methodologies for developing ontological knowledge 
+representation systems for various domains. International Journal of Information 
+Engineering and Electronic Business, 12(2), 28–39. https://doi.org/10.5815/ 
+ijieeb.2020.02.05 
+Aminu, EF, .Oyefolahan, IO, .Abdullahi, MB, .& Salaudeen, MT (.2021a). An Enhanced 
+WordNet Query Expansion Approach for Ontology Based Information Retrieval 
+System. In Communications in Computer and Information Science (Vol. 1350). 
+Springer International Publishing. 10.1007/978-3-030-69143-1_51 . 
+Aminu, EF, .Oyefolahan, IO, .Abdullahi, MB, .& Salaudeen, MT (.2021b). Modeling 
+Competency Questions Based Ontology for the Domain of Maize Crop : SIMcOnto. 
+Advances in intelligent systems and computing, 1–11. 
+Badmus, M. A., & Ariyo, O. S. (2011). Forecasting cultivated areas and production of 
+maize in Nigerian using ARIMA model. Asian Journal of Agricultural Sciences, 3(3), 
+171–176. 
+Bonacin, R., Nabuco, O. F., & Junior, I. P. (2016). Ontology models of the impacts of 
+agriculture and climate changes on water resources : Scenarios on interoperability 
+Fig. 14.Competency based Evaluation.  E.F. Aminu et al.                                                                                                                                                                                                                                
+Intelligent Systems with Applications 16 (2022) 200125
+12and information recovery. Future Generation Computer Systems, 54, 423–434. https:// 
+doi.org/10.1016/j.future.2015.04.010 
+Cao, L, Zhang, X, San, X, Ma, L, & Chen, G (2013). Maize Disease Diagnosis Model Based 
+on Ontology and Multi-Agent. In D & Y.Li Chen (Eds.), IFIP advances in information 
+and communication technology. Springer. 
+Car, NJ (.2018). USING decision models to enable better irrigation Decision Support 
+Systems. Computers and Electronics in Agriculture, 152(July), 290–301. 10.1016/j. 
+compag.2018.07.024 . 
+Chakravarthi, BR, .Arcan, M, & McCrae, JP (.2018). Improving wordnets for under- 
+resourced languages using machine translation. GWC 2018 - 9th Global WordNet 
+Conference, 2018-Janua, 77–86. 
+Chougule, A, Jha, VK, .& Mukhopadhyay, D (2019). Crop Suitability and Fertilizer 
+Recommendation Using Data Mining Techniques. In C. R. et al. Panigrahi (Ed.), 
+Progress in Advanced Computing and Intelligent Engineering (Vol. 714, pp. 25–35). 
+Springer Singapore. 10.1007/978-981-13-0224-4 . 
+Cornejo, C, Beck, HW, .Haman, DZ, .& Zazueta, FS (.2005). Developing an ontology for 
+irrigation information resources. 2005 ASAE Annual International Meeting, 0300 
+(05). 10.13031/2013.19063 . 
+Ding, W., Yu, H., Cai, Z., Han, F., & Xu, Z. (2010). Responses of soil respiration to N 
+fertilization in a loamy soil under maize cultivation. Geoderma, 155(3–4), 381–389. 
+https://doi.org/10.1016/j.geoderma.2009.12.023 
+Fang, J., & Su, Y. (2019). Effects of soils and irrigation volume on maize yield, irrigation 
+water productivity, and nitrogen uptake. Scientific Reports, 9(1), 1–11. https://doi. 
+org/10.1038/s41598-019-41447-z 
+Fawei, B, Pan, JZ, .Kollingbaum, M, & Wyner, AZ (.2018). A methodology for a criminal 
+law and procedure ontology for legal question answering. In Joint International 
+Semantic Technology Conference, 11341 LNCS, 198–214. 10.1007/978-3-030 
+-04284-4_14 . 
+Fawei, B., Pan, J. Z., Kollingbaum, M., & Wyner, A. Z. (2019). A semi-automated 
+ontology construction for legal question answering. New Generation Computing, 37 
+(4), 453–478. https://doi.org/10.1007/s00354-019-00070-2 
+Gonz ˘alez, E., Pi~neiro, J. D., Toledo, J., Arnay, R., & Acosta, L. (2021). An approach based 
+on the ifcOWL ontology to support indoor navigation. Egyptian Informatics Journal, 
+22(1), 1–13. https://doi.org/10.1016/j.eij.2020.02.008 
+Goumopoulos, C., O’Flynn, B., & Kameas, A. (2014). Automated zone-specific irrigation 
+with wireless sensor/actuator network and adaptable decision support. Computers 
+and Electronics in Agriculture, 105, 20–33. https://doi.org/10.1016/j. 
+compag.2014.03.012 
+Green, J. M., Harnsomburana, J., Schaeffer, M. L., Lawrence, C. J., & Shyu, C. R. (2011). 
+Multi-source and ontology-based retrieval engine for maize mutant phenotypes. 
+Database , 1–15. https://doi.org/10.1093/database/bar012 , 2011. 
+Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. 
+Knowledge Acquisition, 5(2), 199–220. 
+Hazman, M (2015). Crop irrigation schedule expert system. International Conference on 
+ICT and Knowledge Engineering, 2015-Decem, 78–83. 10.1109/ICTKE.201 
+5.7368475 . 
+Heeptaisong, T., & Shivihok, A. (2012). Soil knowledge-based systems using ontology. 
+Lecture Notes in Engineering and Computer Science,, 2195 , 284–288. 
+Jarrar, M. (2021). The Arabic ontology – An Arabic wordnet with ontologically clean 
+content. Applied Ontology, 16(1), 1–26. https://doi.org/10.3233/ao-200241 
+Kapoor, B, & Kapoor, B (2014). A Comparative Study Ontology Building Tools for 
+Semantic Web Applications A Comparative Study Ontology Building Tools for 
+Semantic Web Applications. July 2010. 10.5121/ijwest.2010.1301 . 
+Karray, M, Otte, N, Ray, R, Ameri, F, Kulvatunyou, B, Smith, B et al. (2021). The 
+Industrial Ontologies Foundry (IOF) perspectives. 1–6. 
+Khondoker, MR, .& Mueller, P (2010). Comparing Ontology Development Tools Based on 
+an Online Survey. World Congress on Engineering 2010 (WCE 2010), I. 
+Landgrebe, J. (2022). The birth of ontology and the directed acyclic graph. Journal of 
+Knowledge Structures and Systems, 3(1), 72–75. 
+Li, D., Kang, L., Cheng, X., Li, D., Ji, L., Wang, K., et al. (2013). An ontology-based 
+knowledge representation and implement method for crop cultivation standard. 
+Mathematical and Computer Modelling, 58(3–4), 466–473. https://doi.org/10.1016/j. 
+mcm.2011.11.004 Ma, L, Yu, H, Chen, G, Cao, L, & Zhao, Y (2013). Research on Construction and SWRL 
+Reasoning of Ontology of Maize Diseases. 386–393. 
+Malik, N., Sharan, A., & Shrivastav, J. (2018). Natural language interface for ontology in 
+agriculture domain. Lecture Notes in Networks and Systems, 18, 259–268. https://doi. 
+org/10.1007/978-981-10-6916-1_24 
+Mohanraj, I, Gokul, V, Ezhilarasie, R, & Umamakeswari, A (2018). Intelligent drip 
+irrigation and fertigation using wireless sensor networks. Proceedings - 2017 IEEE 
+Technological Innovations in ICT for Agriculture and Rural Development, TIAR 
+2017, 2018-Janua, 36–41. 10.1109/TIAR.2017.8273682 . 
+Nandhinidevi, S., Saraswathi, K., Thangamani, M., & Ganthimathi, M. (2021). Design and 
+development of bird ontology using prot˘eg˘e. Materials Today: Proceedings , 1–6. 
+https://doi.org/10.1016/j.matpr.2021.01.596 
+Novak, JD, .& Ca~nas, AJ (.2008). The theory underlying concept maps and how to 
+construct and use them. In Pr˘axis Educativa (Vol. 5, Issue 1). 
+Noy, NF, .& Mcguinness, DL (.2001). Ontology Development 101 : A Guide to Creating 
+Your First Ontology. 
+Ontology Gene Consortium. (2019). The gene ontology resource : 20 years and still going 
+strong. Nucleic Acids Research, 47, 330–338. https://doi.org/10.1093/nar/gky1055 . 
+November 2018. 
+Park, H., Yoon, A., & Kwon, H.-C. (2012). Task model and task ontology for intelligent 
+tourist information service. International Journal of U-and e-Service, 5(2), 43–58. 
+Romero, AA, .Grau, BC, .& Horrocks, I (2012). MORe : modular combination of owl 
+reasoners for ontology classification. in international semantic web conference, 
+1–16. 
+¯Sarauskis, E., Buragien le, S., Masilionyt le, L., Romaneckas, K., Avi¯zienyt le, D., & 
+Sakalauskas, A. (2014). Energy balance, costs and CO2 analysis of tillage 
+technologies in maize cultivation. Energy, 69, 227–235. 
+Shrestha, R, Senger, M, Mauleon, RP, .Davenport, G, & Arnaud, E (2016). CROP 
+ONTOLOGY : A reference controlled vocabulary on crop trait information for maize, 
+wheat, chickpea, sorghum, Musa, potato, and rice. Plant and Animal Genomes 
+Conference, XVIII; Abstracts of Oral and, CA (USA); 9-13 Jan 2010. Abstracts of Oral 
+and Poster Presentations^ C2010 (No. CIS-6171. CIMMYT.)., 7. 
+Sicilia, M. A., Rodríguez, D., García-Barriocanal, E., & S˘anchez-Alonso, S. (2012). 
+Empirical findings on ontology metrics. Expert Systems with Applications, 39(8), 
+6706 –6711. https://doi.org/10.1016/j.eswa.2011.11.094 
+Song, G., Wang, M., Ying, X., Yang, R., & Zhang, B. (2012). Study on precision agriculture 
+knowledge presentation with ontology. AASRI Procedia, 3, 732–738. https://doi.org/ 
+10.1016/j.aasri.2012.11.116 
+Tang, X., Xiao, M., Hu, B., & Pan, D. (2018). Exchanging knowledge for test-based 
+diagnosis using OWL Ontologies and SWRL Rules. Procedia Computer Science, 131, 
+847–854. https://doi.org/10.1016/j.procs.2018.04.279 
+Tsiakmaki, M, & Hartonas, C (2013). Implementing the CROP Reference Architecture: 
+The CROP Learning Object Editor. In BCI (Local), 72. 
+Tulasi, RL, .Rao, MS, .Ankita, K, & Hgoudar, R (2017). Ontology-Based Automatic 
+Annotation : An Approach for Efficient Retrieval of Semantic Results of Web 
+Documents. In S. C. et al. Satapathy (Ed.), First International Conference on 
+Computational Intelligence and informatics, Advances in Intelligent Systems and 
+Computing (pp. 331–339). Springer. 10.1007/978-981-10-2471-9 . 
+Uthayan, K. R., & Mala, G. S. A. (2015). Hybrid ontology for semantic information 
+retrieval model using keyword matching indexing system. The Scientific World 
+Journal , (1), 2015 . 
+Vincent, P. L. D., Coe, E. H., Jr, & Polacco, M. L. (2003). Zea mays ontology – a database 
+of international terms. Trends in Plant Science, 8(11), 513–517. https://doi.org/ 
+10.1016/j.tplants.2003.09.009 
+Walisadeera, I. A., Ginige, A., & Wikramanayake, N. G. (2015). User centered ontology 
+for Sri Lankan farmers. Ecological Informatics, 26, 140–150. https://doi.org/ 
+10.1016/j.ecoinf.2014.07.008 
+Wang, Y., & Wang, Y. (2018). Citrus ontology development based on the eight-point 
+charter of agriculture. Computers and Electronics in Agriculture, 155(October), 
+359–370. https://doi.org/10.1016/j.compag.2018.10.034 
+Wimalanathan, K., Friedberg, I., Andorf, C. M., & Lawrence-Dill, C. J. (2018). Maize GO 
+annotation —methods, evaluation, and review (maize-GAMER). Plant Direct, 2(4), 
+1–15. https://doi.org/10.1002/pld3.52 E.F. Aminu et al.                                                                                                                                                                                                                                

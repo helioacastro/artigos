@@ -87,7 +87,7 @@ def generate_summaries_with_gemini_and_update_planilha(caminho_planilha):
 PASTA_BASE = os.path.abspath(os.path.dirname(sys.argv[0]))
 
 # Caminho completo para o seu arquivo Excel
-PLANILHA_PATH = r'' + PASTA_BASE + '\Pesquisa_Ontologia_Solos.xlsx'
+PLANILHA_PATH = r'' + PASTA_BASE + '\\Pesquisa_Ontologia_Solos.xlsx'
 
 # --- Executa a função ---
 if __name__ == "__main__":
