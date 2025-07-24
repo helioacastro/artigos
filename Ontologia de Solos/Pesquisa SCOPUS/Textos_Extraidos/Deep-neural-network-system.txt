@@ -1,0 +1,775 @@
+Deep Neural Network System Using Ontology to Recommend Organic Fertilizers for a 
+Sustainable Agriculture 
+Kush ala Vijay a Kumar Mummigatti1* , Supriy a Maganahalli Ch andramouli2 , Divakar Harohally Ramachandra3
+1 Department of Computer Science, Sri Siddharth a Academy of Higher Education and Research, Tumkur 572107, India 
+2 Department of Information Science, Sri Siddhartha Institu te of Technology, Tumkur 572107, India 
+3 Department of Master of Computer Applications, PES Colleg e of Engineering, Mandya 571401, India 
+Corresponding Author Email: vmkushala@gmail.com
+https://doi.org/ 10.18280/isi. 2802 22 ABSTRACT  
+Received: 6 February 2023  
+Accepted: 15 March 2023  The highest challenge humankind is facing in the current time period is the enormous 
+population growth and the need to meet the food and nutrient to the population. To meet the 
+enormous production, the farmers are more relayed on the usage of chemicals to increase 
+the food production during the cultivation process. Inclination towards chemical fertilizers 
+is because of their popularity and availability , the over usage of these chemicals is a root 
+cause of many major problems like nutrient -less crops, soil quality degradation, and 
+environmental hazards in the long run. The availability of a knowledge base of the soil 
+quality parameters and their related organic fertilizers according to the farmer’s region can 
+decrease the inclination towards the utilization of chemical fertilizers and adopt the usage 
+of organic fertilizers. To help in this process of a major change in farming we built an 
+ontology oriented  deep learning model which recommends the farmers in choosing the best 
+organic fertilizers based on the soil quality. The domain ontology construction for 
+agriculture is based on semantic language which can be reused in the future. The knowledge 
+base is th en utilized by the deep learning model to process the data and recommend the best 
+suitable fertilizers.  Keywords:  
+ontology, deep learning, knowledge base, 
+recommender system  
+1.INTRODUCTION
+India is well known for its diversified agricultural crops and 
+their practices. Agriculture is called the backbone occupation 
+of India contributing 70% of the population employed in 
+agriculture. India is the fastest developing country, agriculture 
+plays a very prominent role in devel opment, employment, and 
+source of raw materials which directly affects the economic 
+growth of India helping the growth of GDP predominantly [1]. 
+Indian agriculture is the most diversified field. The cultivation 
+culture varies from geographical regions, his torical practices, 
+soil diversity, seasonal changes, the demand for the crop and 
+many more factors [2].  
+With the rapid growth of population sufficient food 
+production to meet the growth plays a challenge with the 
+minimum amount of cultivation land availabl e with the cause 
+of development. This scenario is not just a part of India it’s a 
+challenge faced by the world. To reach the maximum yield 
+unscientific methodologies, inorganic fertilizers and pesticides 
+are used to the maximum extent. The unethical usage of 
+inorganic fertilizers has degraded the nutrient value of soil 
+which makes the cultivation land non -reusable and also 
+inefficient in producing a nutritious yield. It's high time to 
+orient towards saving the limited cultivation land by adopting 
+organic fe rtilizers in the cultivation practices [3]. Adopting 
+organic fertilization helps maintain the nutrient of soil helping 
+in sustainable agriculture. Soil quality is measured on the basis 
+of chemical properties, soil is tested for PH, Nitrogen, 
+Phosphorus, Ni trogen and Potassium to evaluate the quality 
+and the stage at which the soil needs to be treated to get a good 
+yield [4].  Agriculture practices are widely a diverse field when it 
+comes to India [5]. The agriculture demands, seasons, 
+environment, methodolog y adopted by each farmer, 
+fertilization technique, culture is widely diverse and has multi 
+dimensions to it. It is also evident that acquiring information 
+related to agriculture is a very tedious task. The farmers have 
+limited access to knowledge related t o the type of crop that can 
+be cultivated, fertilization technique, price variation, and 
+policies available to them. As the diversity increases having a 
+default knowledge accumulation technique with a simple 
+database is not an efficient way to retrieve the  information.  
+In this paper, we are trying to address the two main 
+problems in agriculture. Firstly, having a domain knowledge 
+of agriculture which is related to a specific geographical region 
+with all the relevant information needed for cultivation. 
+Secon dly, building a recommender system for organic 
+fertilizers using deep learning.  
+An ontology is a direct approach to managing complex 
+agricultural data and their dimensions effectively. Ontology is 
+nothing but a generalized format for representing knowledge  
+[6]. As we have already observed the dependency present 
+between various domains in agriculture will help the farmers 
+in sustainable agriculture ontologies can actually provide 
+interoperability between the domains and establish a better 
+understanding of th e domain [7]. Extensively generalizing an 
+ontology: they define the entities, domains and attributes that 
+are present in the domain and make it accessible to a machine -
+interpretable format [6].  
+Deep learning is an extension of machine learning. Deep 
+learning is very popular as it can address complex problems 
+Ingénierie des Systèmes d’Information 
+Vol. 28, No.  2, April, 2023 , pp. 461-467 
+Journal homepage:  http://iieta.org/ journals/i si 
+461
+
+ effectively with a minimum amount of time [8]. Deep learning 
+has a promising result with its adopting nature in solving any 
+kind of data lik e images, sound, and natural languages with 
+good results. Leveraging these advantages of deep learning in 
+a complex domain of agriculture a promising system can be 
+built. When the knowledge base of the domain is present in a 
+machine -interpretable format, u tilizing the information related 
+to fertilizers and soil a deep learning model is built to 
+recommend the organic fertilizers to the farmers handily 
+which encourages and helps the farmers in achieving a 
+sustainable agriculture practice benefiting soil to ma intain its 
+nutrient value and helping it to rejuvenate.  
+ 
+ 
+2. OVERVIEW AND SURVEY  
+ 
+Ontology act as a medium to explain the domain. By acting 
+as a medium, they explain the domain formally, explicitly 
+specifying the sharable information of the domain. This 
+prope rty of ontology solves information sharing between 
+different fields. Ontology also facilitates to access the 
+knowledge base in a machine -readable format. They also act 
+as a backbone for semantic web where the semantic web acts 
+as a retrieval platform for t he complex data.  
+The development of a knowledge base helps in cooperative 
+knowledge sharing among all the dependencies of agriculture 
+by which ontology can also act as a search engine for 
+knowledge retrieval [9]. A study was conducted in Thailand 
+on Rice disease identification and control recommendation to 
+farmers by building a domain ontology and was evaluated with 
+different stakeholders in addressing the queries related to rice 
+crop disease. With this research, they filled the gap that existed 
+between th e knowledgebase of ontology and semantic 
+technologies [10]. To fill the gap that exists in searching for 
+the kind of diseases utilizing the capacity of a semantic method 
+with the help of OWL (Web ontology language) was 
+developed and using queries diseases were retrieved [11]. Sri 
+Lankan research found the problem related to agricultural 
+information and utilized ontology by creating SPARQL as an 
+endpoint for retrieval of information, they built a domain 
+ontology that is a user -centric agricultural knowledge 
+repository system. The system they built can be used in 
+different ways like reusing, extending, modifying and pruning 
+[12]. Well -maintained practices in agriculture are maintained 
+or acknowledged and shared for the betterment of agricultural 
+practices [13] . A domain ontology named agricultural online 
+service was developed by keeping knowledge sharing as the 
+main idea of agriculture which supported a multi -linguistic 
+approach [14]. This research showcases the capacity of the 
+relationship property of ontology . A knowledge management 
+system for agriculture particularly for a wheat crop a novel 
+approach that oracle supports RDF (Resource description 
+framework) and OWL to present meaningful knowledge to the 
+usage. The average rating provided by the expert by eval uating 
+the ontology model vs the traditional knowledge management 
+model is very much greater in comparison with the knowledge 
+model [13].  
+Deep learning is an advance of machine learning. Deep 
+learning algorithms are conceptualized on the basis of the 
+human  brain [15]. They have evidently performed and 
+produced outstanding results. Deep learning uses multi -layer, 
+layer -to-layer interconnection to address complex problems by 
+learning the training and target even in an unsupervised and 
+complex dataset. The mai n aim of deep learning is to 
+understand the data feature from the lower level and then form a higher -level dimensionality abstraction of the feature 
+semantically to rule out the manual effort to make the complex 
+data into a machine -feedable form.  
+Leveragin g machine learning techniques can be extensively 
+seen in building recommender systems. We would like to brief 
+a few of them in the below Table 1 as they form a strong base 
+for improvising the recommendation systems. With this study, 
+we can conclude that th e prediction of disease, crop or 
+fertilizer has been reproduced effectively but the efficiency, 
+time, robustness, and adaptability of the system to dynamic 
+changes when it comes to rigorous change of the aspects can 
+be handled with the adoption of building  recommender system 
+with deep learning techniques.  
+ 
+Table 1 . Machine learning algorithm discussion  
+ 
+Algorithm used for 
+recommender 
+system  Outcome  
+Random forest  They have made a complete survey of the 
+implementations made by adopting a 
+machine -learning random forest 
+algorithm to predict pesticides and 
+fertilizers by involving the methodology 
+of text processing. They discuss the 
+outcomes produced by them in detail and 
+proofs that the machine learning 
+algorithm is efficient enough to make the 
+recommendations [16].  
+K-NN, Random 
+Forest, Gradient 
+boosted decision 
+tree, Regularized 
+greedy forest.  An overall effort was made to build a 
+recommendation system that predicts 
+yield and also disease detection. The 
+overall system helped in many ways by  
+predicting the market price, suggesting 
+the best crop to opt for, suggesting the 
+optimum date for cultivation, evaluating 
+demand and supply, weed detection, and 
+fertilizer prediction. The system 
+concentrated the overall picture of 
+agriculture practices [1 7]. 
+Regression 
+algorithms (Support 
+vector regression, 
+Polynomial 
+regression, Linear 
+regression, Random 
+Forest)  Using majority voting by combining the 
+best algorithms they have built a yield 
+recommendation system based on the 
+crop by considering geographical region, 
+soil chemical properties, and weather 
+data. They have increased the accuracy to 
+94% than the previous methodologies 
+used [18].  
+SVM Classification, 
+Decision Tree  They built a system to recommend pest 
+control based on the crop. They hav e 
+considered almost all crops into 
+consideration to predict the pest. The 
+model shows SVM has outperformed 
+with 89% accuracy than the rest of the 
+algorithms [19].  
+ 
+Recommender Systems work based on defending the over -
+flooded information against customized information 
+considering the user choice, and personalization [20, 21]. This 
+makes the user experience more meaningful. The advances in 
+deep learning, has made a remarkable change in the 
+architecture of the recommender system by providing statefu l 
+results. Deep learning has also helped in improvising the 
+performance measure of the recommender system [22]. Deep 
+learning can capture linear which is user preference and also 
+non-linear which is not a user preference and do the 
+recommendation [23, 24].  It is also able to capture the intricate 
+relationship between all the data sources like text, contextual 
+462
+ and visual [22]. There are many who has built a system to 
+recommend features like pest control based on the crop. They 
+have considered almost all crop s into consideration to predict 
+the pest. Considering a model built on SVM has outperformed 
+with 89% accuracy than the rest of the algorithms [19].  
+There are three types of recommender system:  
+Content -based recommender system: They work based on 
+past revie ws, likes or dislikes given by the user by considering 
+the explorative characters of the item and then recommending 
+a new item/user [22, 23].  
+Collaborative recommender system: They recommend the 
+item by considering the inclination of the current user with 
+other user likes and dislikes [22, 23].  
+Hybrid recommender system: Hybrids are divided into three 
+types. Monolithic, parallel and pipeline recommender. 
+Monolithic leverages the integration of several recommender 
+systems and then integrates them into one. T he other two 
+require two strategies of the recommender to combine and 
+produce the recommendation [22, 23].  
+Utilization of the above -mentioned recommender 
+architecture has been witnessed in the agriculture field lately. 
+Climatic conditions play a very impor tant role in agriculture. 
+By considering the importance of climate a crop improvisation 
+recommender system based on climate was built with an 
+average accuracy score of ninety percent. A combination of 
+collaborative filtering and case -based reasoning enhanc es the 
+performance of recommending the best weather condition 
+based on the crop. The recommender system combined 
+collaborative filtering along with case -based reasoning 
+making it a novel approach in a hybrid recommender system 
+[24]. Krishi Mantra is an agr iculture recommendation system 
+developed by considering the advantages of ontology and deep 
+learning. They identified the gap that present in the data 
+availability and its reachability, they built a domain ontology 
+which acts as a knowledge base and recomm ends the required 
+information based on the geographical data, the recommender 
+system inherits the advantages of neural network and resolves 
+the query from the farmers [25].  
+A collaborative recommender system to answer the 
+questions of the farmer based on t he proposed government 
+schemes was built efficiently which supported three languages 
+[26]. SyrAgri is a recommender system that sends 
+recommendations in Mali to the farmer using a collaborative 
+filtering approach. It recommends practices of the crop and 
+type of crop based on parameters like soil type, yield, season, 
+and life cycle of the crop [27].  
+With the previously mentioned studies, we observe that 
+ontology is an efficient knowledge management system for a 
+multi dimension involving fields like agricultu re. To make a 
+decision or predict from the knowledge an application of deep 
+learning which is capable of not just processing the data but 
+also which can learn the features from the data can be applied 
+to recommend organic fertilizers to the farmers based o n the 
+soil type. The previous efforts mostly concentrated on 
+recommending crops, pest control and fertilizer 
+recommendation which lacked a domain ontology which eases 
+the knowledge storage, the study also shows organic fertilizer 
+recommender system was not  been considered extensively.  
+ 
+ 
+3. METHODOLOGY  
+ 
+3.1 Data over -view  
+ 
+The data relating to soil chemical property is gathered from the agricultural soil testing centres near Mysuru, Karnataka, 
+India. The chemical properties which were measured from the 
+soil are PH, EC, Nitrogen, Phosphorus, and Potassium. The 
+soil is mainly identified and classified as black and red soil. 
+The information related to organic fertilizers with respect to 
+the soil quality is gathered from the farmers who have adopted 
+organic cultivation practices and also from the government 
+fertilizer centre experts from the data collected region.  
+ 
+3.2 Domain ontology  
+ 
+A domain ontology is the best solution when we are dealing 
+with agricultural data which is heterogeneous and has 
+difficulty i n interoperability [28]. Hence, we built a domain 
+ontology by considering an overall aspect of agriculture 
+activities and the dependent factors required for sustainable 
+growth.  
+Ontology building is a continuous and iterative process. 
+Complete understanding  of the domain from different sources 
+and validation is a key challenge. It must be capable of 
+adapting to future changes without requiring the same amount 
+of rework . Identification of class, sub -class their respective 
+objects, properties, inheritance and hierarchy which are the 
+major skeleton of the ontology is identified according to the 
+domain.  
+We used proté gé  as a tool to build the ontology [29, 30]. 
+The tool is capable to handle the structure easily. It also allows 
+querying the ontology effectively.  
+ 
+ 
+ 
+Figure 1.  Class and sub class of soil and its chemical 
+properties  
+ 
+In the initial stage, a part of domain ontology was built 
+concerning soil chemical properties. Based on the constructed 
+ontology, we built a deep neural network to classify the soil 
+into healthy or non -healthy depending on the chemical 
+parameter. The system helped to store the knowledge 
+effectively and retrieve the information. As already 
+mentioned, ontology enables data to be in a machine -readable 
+format. By utilizing this we classif ied the soil into healthy and 
+unhealthy classes with a backpropagation algorithm which 
+produced 93 percent of accuracy [15]. In the later stage, 
+ontology is extended by adding all the required domains which 
+are necessary for agriculture. The extension invo lved organic 
+fertilizer as a domain with respect to the data collected. Figure 
+1, represents the domain ontology hierarchy with respect to 
+soil types present in the region and its chemical property and 
+also their sub classes. Figure 2, represents the domai n ontology 
+hierarchy of organic fertilizers and their instances.  
+463
+  
+ 
+Figure 2 . Class and sub class of organic fertilizer domain  
+ 
+3.3 Recommender system  
+ 
+The previous model was built using backpropagation to 
+classify the soil as healthy and unhealthy and is considered as 
+a base model . We built a recommender system to recommend 
+an organic fertilizer based on the lack of nutrient component 
+in the soil when th e soil is classified as unhealthy. The pictorial 
+flow of the architecture of the recommender system is 
+explained using Figure 3.  
+ 
+ 
+ 
+Figure 3.  Overview of the architecture of recommender 
+system  
+ 
+3.3.1 Wide and deep neural network for recommendation  
+Wide c omponents in a generalized linear model which are 
+combined  with the neural network are the main idea of wide 
+and deep neural networks.  
+ 
+ 
+ 
+Figure 4. Wide and deep neural network architecture  
+ 
+Memorization is learning the periodic or habitual 
+occurrence of the behavior, item or feature and learning the 
+correlation present in the historical data. Generally memorizing happens in a linear format to predict the output. 
+Generalization is understanding and containing the correlation 
+and generating a new feature which is very new and has not 
+occurred in the past. This solves the cold -start problem by 
+understanding the patterns and generalizing them. The 
+generalization and memorization concept explaining the 
+architecture of the model is represented usin g Figure 4.  
+The architecture helps to train wide linear models and deep 
+neural networks to combinedly do the recommendation by 
+adopting generalization and memorization techniques to 
+recommend items [31]. The wide component is nothing but a 
+generalization o f the linear model. Y=wTx+ b, where Y is the 
+prediction and x=[x1, x2, x3, …., x d] is a vector of features. 
+w=[w1, w 2, w 3, …., w d] is the model features. The feature 
+contains raw input and its features which are then transformed. 
+The cross -product transform ation is defined as the below 
+equation. This helps in generalizing the model.  
+ 
+ϕk(x)=𝜋𝑥𝑐𝑘𝑖
+𝑖 𝑖=1𝑑 (1) 
+ 
+where, cki belongs {0,  1}. 
+The deep component in the architecture is a feed -forward 
+neural network. This component helps in converting high -
+dimensional features are converted to lower -level dimensions 
+which are nothing but embedding’s. They are first initialized 
+randomly and then va lues are trained to minimize the final loss. 
+The converted low -dimension embedding’s are then fed into 
+hidden layers of the neural network. The computation of 
+hidden layer is shown below.  
+ 
+𝑝(𝑖+1)=𝑓(𝑋(𝑖)𝑎(𝑖)+𝑏(𝑖)) (2) 
+ 
+Both the components are then combine d by the weighted 
+sum of their output logs and then fed to one loss function for 
+training. Joint training  happens by back -propagating the 
+gradients from the output end to both model at the same time.  
+ 
+3.3.2 Deep learning and restricted boltzmann machine (R BM) 
+for domain specific ontology  
+RBM are shallow networks that act as a building block of 
+deep neural networks. The domain -specific ontology of soil 
+and fertilizers are derived based on the ontology -based deep 
+restricted Boltzmann machine model (OB-DRBM). This 
+model helps to build the ontology by guiding the architecture 
+of semantics and also helps in training and the validation of 
+the model [32].  
+With our domain -oriented ontology which has the semantic 
+level knowledge of soil fertility along wit h their fertilizers, we 
+use OR -DRBM to guide in building the architecture of the 
+ontology which also helps in training and validation of the 
+deep learning model. Many challenges faced by deep learning 
+in feature learning, predicting, and memory issues can be 
+actively and effectively addressed using domain ontology 
+which is constructed using OR -DRBM. It helps in making our 
+domain ontology learn the representations related to the 
+ontology. The representations are actually composed of the 
+regular type of data with the complex semantic structure of the 
+ontology.  
+The OR -DRBM are actually an extension of the Restricted 
+Boltzmann Machine (RBM) which uses stochastic binary 
+units, RBM’s are made of deep learning neural networks that 
+are fully connected with hidden la yers and not within layers 
+[33]. RBM have visible layers as ‘ v’ and invisible layers as ‘ h’, 
+which are structured as a bipartite graph.  
+464
+  
+ 
+Figure 5.  RBM architecture of hidden and visible layers  
+ 
+The probability of connection between hidden and visible 
+are given as p(v, h), X is the partition function . The hidden and 
+visibility of the function in RBM model and interconnection 
+between them are explained in the Figure 5.  
+ 
+𝑝(𝑣,ℎ)=exp⁡(−𝐸(𝑣,ℎ))
+𝑋 (3) 
+ 
+The RBM binary units A (v, h) are defined with the below 
+function, while { xi, yi} are bias function for hidden and visible 
+layers. This explains the probability of connections between 
+them.  
+ 
+𝐴(𝑣,ℎ)=−∑𝑥𝑖𝑣𝑖−∑𝑦𝑗ℎ𝑗
+𝑗 𝑖−∑𝑣𝑖ℎ𝑗𝑤𝑖𝑗
+𝑖,𝑗 (4) 
+ 
+OB-DRBM architecture follows a hierarchical approach, 
+which starts  from top classes and then starts adding up sub -
+classes. In our domain ontology being O and semantic 
+reasoning being R becomes the basic building block OB -
+DRBM model U. This follows sub -class relations ρ(c) ∈Q for 
+each concept c ∈C, for C, Q ∈O. The model building starts by 
+adding the top class of our ontology c ∈C for the sequence of 
+subclass Sc. For every class of the ontology c ∈Sc we build the 
+DRBM model. DRBM takes only its input for the top class of 
+the ontology, the subclass takes input from the higher level and 
+also from its own.  
+As we already have the DRBM model for every concept in 
+the ontology we adopt a softmax layer Sc which makes 
+learning semantic rich learning in agriculture ontology very 
+easy. The softmax layer contains the target unit at every 
+semantic level. Along with the softmax layer for every concept 
+and DRBM layer, we also add multiple hidden multiple visible 
+restricted Boltzmann machine (MVMH) layer Mc for the 
+subclasses. For every concept c in our ontology, we have the 
+DRBM model and each concept is connected to the softmax 
+layer. DRBM decodes the feature from top -level concepts 
+before passing it to the lower  sub-classes during this process 
+MVMH layer helps in generating an easy and understandable 
+representation of high features and feeds into the lower sub -
+classes.  
+The OB -DRBM model is trained just like any other 
+Boltzmann model. Initially, the model is train ed module -wise 
+and layer -wise by applying the greedy method. In the next 
+stage, stochastic gradient descent is used across all the softmax 
+layers to fine -tune the model. This method reduces the error 
+for the layers of softmax output produced. We validate t he 
+consistency of output generated from every softmax layer in 
+our model by applying a logistic regression. Let output from 
+softmax be S then the output is explained by the below 
+equation.  𝑧̃=𝑎𝑟𝑔𝑚𝑎𝑥 𝑠∁𝑆∏𝑐∈𝑠𝑓𝐶(𝑛,𝑤)[𝑅(𝑂,𝑥→𝑠)]
+∑∏𝑐∈𝑠 𝑠∁𝑆 fc(n,w)[R(O,x→s)]⁡ (5) 
+ 
+ 
+4. RESULTS  
+ 
+The domain ontology model which emphasizes deep 
+learning recommender systems to predict the organic 
+fertilizers produced a promising result depending on the soil's 
+chemical properties.  
+The construction of the ontology is the first step in 
+structuring  and making the knowledge base for the agriculture 
+domain. We built soil information ontology and organic 
+fertilizers ontology by collecting the information from the 
+farmers and stake holders  using the protege tool and validated 
+the ontology by querying  the knowledge. In the next step we 
+utilize the ontology by publishing it to sematic world and 
+combine with our deep learning model to extensively use the 
+knowledge  to predict the organic  fertil izers based on the soil 
+chemical properties.  
+Our model takes input from farmers which are been tested 
+at soil testing centres based on these values the recommender 
+model recommends the top ‘N’ number of fertilizers, the 
+farmers can choose the best among t he recommendation.  
+The result in the recommender system is measured based on 
+precision and recall. Both precision and recall take a value 
+between 0 and 1. For every input from the user, the model 
+produces an ‘N’ recommendation and the value of precession 
+and recall is produced for the recommended items [34]. We 
+also get a prediction rating for the recommended item, if the 
+predicted rating is greater than 3.5 for the item then the item is 
+relevant if lesser than 3.5 then the item is irrelevant.  
+Precision i n the recommender system: Precision measures 
+the amount of correctness the model predicted i.e. it gives the 
+answer for the number of items which are correct from the 
+recommendation system [35]. The top ‘N’ recommended 
+items are given by calculating the pr ecision. The precession is 
+given based on the below pattern : 
+ 
+𝑝𝑟𝑒𝑐𝑒𝑠𝑠𝑖𝑜𝑛
+=(𝑁𝑢𝑚𝑏𝑒𝑟⁡𝑜𝑓⁡𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑒𝑑 ⁡𝑖𝑡𝑒𝑚⁡𝑎𝑡⁡𝑖𝑡𝑒𝑚𝑁′′𝑡ℎ𝑎𝑡⁡𝑎𝑟𝑒⁡𝑟𝑒𝑙𝑒𝑣𝑒𝑛𝑡 )
+𝑁𝑢𝑚𝑏𝑒𝑟⁡𝑜𝑓⁡𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑒𝑑 ⁡𝑖𝑡𝑒𝑚𝑠⁡𝑎𝑡⁡𝑁 (6) 
+ 
+𝑝𝑟𝑒𝑐𝑒𝑠𝑠𝑖𝑜𝑛 =(𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑒𝑑 ∩𝑟𝑒𝑙𝑎𝑣𝑒𝑛𝑡 )
+𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑒𝑑 (7) 
+ 
+Consider an example of how precision is calculated for the 
+recommendation  produced by the model for the user whose 
+chemical property is Nitrogen and whose value is 27. 9 which 
+is actually a very low value. The system recommends the top 
+three items as fertilizers for the value given. The precision 
+values are mentioned below for the recommended items. The 
+organic fertilizers are numbered with a unique identification 
+number  for more convenience in preparing ontology and 
+model training. We have mentioned the name of the fertilizers 
+in the brackets in the below Table  2.  
+Recall in recommender system: Recall defines the 
+proportion of recommended  items that are relevant among th e 
+items that are actually recommended [35]. The recall is 
+expressed by the below equation.  
+ 
+𝑅𝑒𝑐𝑎𝑙𝑙
+=(𝑁𝑢𝑚𝑏𝑒𝑟⁡𝑜𝑓⁡𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑒𝑑 ⁡𝑖𝑡𝑒𝑚⁡𝑎𝑡𝑁′′𝑡ℎ𝑎𝑡⁡𝑎𝑟𝑒⁡𝑟𝑒𝑙𝑎𝑣𝑒𝑛𝑡 )
+𝑇𝑜𝑡𝑎𝑙⁡𝑛𝑢𝑚𝑏𝑒𝑟⁡𝑜𝑓⁡𝑟𝑒𝑙𝑎𝑣𝑒𝑛𝑡 ⁡𝑖𝑡𝑒𝑚𝑠 (8) 
+ 
+465
+ 𝑅𝑒𝑐𝑎𝑙𝑙⁡=(𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑒𝑑 ∩𝑟𝑒𝑙𝑎𝑣𝑒𝑛𝑡 )
+𝑟𝑒𝑙𝑎𝑣𝑒𝑛𝑡 (9) 
+ 
+Table 2.  Precession value for nitrogen recommended 
+fertilizers  
+ 
+Precession  Recall  Item Recommended  
+0.79 
+0.78 
+0.83 0.71 
+0.64 
+0.77 2 (Blood meal)  
+1 (Manure)  
+2 (Blood meal)  
+ 
+With the above -discussed values of precision and recall for 
+the value of Nitrogen entered by the user, the model is about 
+to produce 80% precision in recommending the user organic 
+fertilizers to be used to enrich the soil with Nitrogen 
+components. The mode l can predict top N fertilizers for all the 
+other chemical values given by the user.  
+ 
+ 
+5. CONCLUSIONS  
+ 
+We build a domain ontology by observing and considering 
+most of the important dimensions involved in agriculture. We 
+built and validated the ontology by utilizing OR -DRBM 
+architecture. The model is populated with the data from soil 
+testing centres and built a wide deep neural network 
+architecture to recommend fertilizers to the farmers. Our 
+architecture can be reproduced by adding any more clas ses or 
+features without involving major changes. Ontology can be 
+reused by adding any other dimensions required by agriculture 
+depending on the socio conditions and regions. We have 
+majorly considered soil properties for recommending 
+fertilizers, the same methodology can be used to recommend 
+the type of crop to be grown under recommended climatic 
+conditions. Wide and deep neural network which is considered 
+to recommend organic fertilizers had given promising 
+performance with accuracy of 80 percent depending  on the 
+user soil chemical property. There is still a more place to 
+improvise the accuracy of the recommender model in the 
+future by adoting demographic or more complex hybrid 
+recommender systems.  
+The model can also be extended to recommend the demand 
+and supply of the crop based on the region, recommend 
+warehouse availability and also the pricing of the crop.  
+ 
+ 
+REFERENCES  
+ 
+[1] Khan, M.A. (2021). Impact of agriculture sector on 
+sustainable development of indian economy: An analysis.  
+[2] Jibran, S., Mufti, A. (2019). Issues and challenges in 
+Indian agriculture. International Journal of Business and 
+Management, 12: 85-88. 
+http://dx.doi.org/10.15740/HAS/IJCBM/12.2/85 -88 
+[3] Yadav, S.K., Babu, S., Yadav, M.K., Singh, K., Yadav, 
+G.S., Pal, S. (2013). A review of organic farming for 
+sustainable agriculture in Northern India. International 
+Journal of Agronomy, 2013: 718145. 
+https://doi.org/10.1155/2013/7 18145  
+[4] Ahmadpour, P., Ahmadpour, F., Sadeghi, S., Tayefeh, 
+F.H., Soleimani, M., Abdu, A.B. (2014). Evaluation of 
+four plant species for phytoremediation of copper -
+contaminated soil. Soil Remediation and Plants: 
+Prospects and Challenges, 147. http://dx.doi.o rg/10.1016/B978 -0-12-799937 -1.00007 -3 
+[5] Kumar, A., Saroj, S., Singh, R.K.P., Jee, S. (2016). 
+Agricultural diversity, dietary diversity and nutritional. 
+Agricultural Economics Research Review, 29(347 -2016 -
+17241): 15 -29. 
+[6] Goldstein, A., Fink, L., Ravid, G. (202 1). A framework 
+for evaluating agricultural ontologies. Sustainability, 
+13(11): 6387. http://dx.doi.org/10.3390/su13116387  
+[7] Taye, M.M. (2010). Understanding semantic web and 
+ontologies: Theory and applications.  arXiv preprint 
+arXiv:1006.4567.  https://arxiv.org/abs/1006.4567  
+[8] Kamilaris, A., Prenafeta -Boldú , F.X. (2018). Deep 
+learning in agriculture: A survey.  Computers and 
+Electronics in Agriculture , 147: 70-90. 
+http://dx.doi.org/10.1016/j.compag.2018.02.016  
+[9] Zheng, Y.L., He, Q.Y., Qian, P., Li, Z. (2012). 
+Construction of the ontology -based agricultural 
+knowledge management system.  Journal of Integrative 
+Agriculture, 11(5): 700-709. 
+https://doi.org/10.1016/S2095 -3119(12)60059 -8 
+[10] Jearanaiwongkul, W., Anutariya, C., Racharak, T., 
+Andres, F. (2021). An ontology -based expert system for 
+rice disease identification and control recommendati on. 
+Applied Sciences, 11(21): 10450.  
+https://doi.org/10.3390/app112110450  
+[11] Jearanaiwongkul, W., Anutariya, C., Andres, F. (2018). 
+An ontology -based approach to plant disea se 
+identification system. In  Proceedings of the 10th 
+International Conference on Advances in Information 
+Technology , pp. 1-8. 
+http://dx.doi.org/10.1145/3291280.3291786  
+[12] Walisadeera, A.I., Ginige, A., Wikramanayake, G.N. 
+(2014). User centered ontology for Sri Lankan 
+agriculture domain. In  2014 14th International 
+Conference on Advances in ICT for Emerging Regions 
+(ICTer) , pp. 149-155. 
+http://dx.doi.org/10.1109/ICTER.2014.7083894  
+[13] Ahsan, M., Motla, Y.H., Asim, M. (2014). Knowledge 
+modeling fore -agriculture using ontology. In  2014 
+International Con ference on Open Source Systems & 
+Technologies , pp. 112-122. 
+http://dx.doi.org/10.1109/ICOSST.2014.7029330  
+[14] Xiong, J.H., Yang, Y., Yang, Z.F., Wang, S.Y.  (2010). 
+An online system for agricultural ontology service. In  
+2010 Third International Conference on Intelligent 
+Networks and Intelligent Systems , pp. 479 -481. 
+http://dx.doi.org/10.1109/ICINIS.2010.106  
+[15] Mummigatti, K.V.K., Chandramouli, S.M. (2022). 
+Supervised ontology oriented deep neural network to 
+predict soil health. Revue d'Intelligence Artificielle, 
+36(2): 341-346. https://doi.org/10.18280/ria.360220  
+[16] Pandiarajaa, P. (2021). A survey on machine learning 
+and text processing for pesticides and fertilizer prediction.  
+Turkish Journal of Co mputer and Mathematics 
+Education (TURCOMAT),  12(2) : 2295 -2302.  
+https://doi.org/10.17762/turcomat.v12i2.1951  
+[17] Akulwar, P. (2020). A recommended system for crop 
+disease detection and yield prediction using machine 
+learning approach.  Recommender System with Ma chine 
+Learning and Artificial Intelligence: Practical Tools and 
+Applications in Medical, Agricultural and Other 
+Industries, pp. 141-163. 
+http://dx.doi.org/10.1002/9781119711582.ch8  
+[18] Garanayak, M., Sahu, G., Mohanty, S.N., Jagadev, A.K. 
+466
+ (2021). Agricultural recommendation system for crops 
+using different machine learning regression methods.  
+International Journal of Agricultural and Environmental 
+Information Systems (I JAEIS),  12(1) : 1-20. 
+http://dx.doi.org/10.4018/IJAEIS.20210101.oa1  
+[19] Kumar, A., Sarkar, S., Pradhan, C. (2019). 
+Recommendation system for crop identification and p est 
+control technique in agriculture. In  2019 International 
+Conference on Communication and Signal Processing 
+(ICCSP) , pp. 0185 -0189.  
+http://dx.doi.org/10.1109/ICCSP.2019.8698099  
+[20] Zhang, S., Yao, L., Sun, A., Tay, Y. (2019). Deep 
+learning based recommender system: A survey and new 
+perspectives.  ACM Computing Surveys (CSUR),  52(1) : 
+1-38. https://doi.org/1 0.1145/3285029  
+[21] Yadav, S., Nagpal, S. (2018). An improved collaborative 
+filtering based recommender system using bat algorithm.  
+Procedia Computer Science , 132: 1795 -1803.  
+http://dx.doi.org/10.1016/ j.procs.2018.05.155  
+[22] Mu, R. (2018). A survey of recommender systems based 
+on deep learning.  IEEE Access,  6: 69009 -69022.  
+http://dx.doi.org/10.1109/ACCESS.2018.28 80197  
+[23] Batmaz, Z., Yurekli, A., Bilge, A., Kaleli, C. (2019). A 
+review on deep learning for recommender systems: 
+Challenges and remedies.  Artificial Intelligence Review,  
+52(1) : 1-37. http://dx.doi.org/10.1007/s10462 -018-9654 -
+y 
+[24] Kamatchi, S.B., Parvathi, R. (2019). Improvement of 
+crop production using recommender system by weather 
+forecasts.  Procedia Computer Science,  165: 724-732. 
+http://dx.doi.org/10.1016/j.procs.2020.01.023  
+[25] Kumar, V., Dave, V., Bhadauriya, R., Chaudhary, S. 
+(2013). Krishimantra: Agricultural recommendation 
+system. In  Proceedings of the 3rd ACM Symposium on 
+Computing for Development , pp. 1 -2. 
+http://dx.doi.org/10.1145/2442882.2442933  
+[26] Jaiswal, S., Kharade, T., Kotambe, N ., Shinde, S. (2020). 
+Collaborative recommendation system for agriculture sector. In  ITM Web of Conferences , 32: 03034.  
+http://dx.doi.org/10.1051/itmconf/20203203034  
+[27] Konaté , J., Diarra, A.G., Diarra, S.O., Diallo, A. (2020). 
+Syragri: A recommender system for agriculture in Mali.  
+Information,  11(12) : 561. 
+https://doi.org/10.3390/info11120561  
+[28] Lacasta, J., Lopez -Pellicer, F.J., Espejo -Garcí a, B., 
+Nogueras -Iso, J., Z arazaga -Soria, F.J. (2018). 
+Agricultural recommendation system for crop protection.  
+Computers and Electronics in Agriculture,  152: 82-89. 
+http://dx.doi.org/10.1016/j.compag.2018.06.049  
+[29] https://protege.stanford.edu/ . 
+[30] Noy, N.F., McGuinness, D.L. (2001). Ontology 
+development 101: A guide to creating your first ontology.  
+[31] Cheng, H.T., Koc, L., Harmsen, J., Shaked, T., Chandra, 
+T., Aradhye, H., Shah, H. (2016). Wide &  deep learning 
+for recommender systems. In  Proceedings of the 1st 
+Workshop on Deep Learning for Recommender Systems , 
+pp. 7 -10. http://dx.doi.org/10.1145/2988450.2988454  
+[32] Wang, H., Dou, D., Lowd, D. (2016). Ontology -based 
+deep restricted boltzmann machine. In  International 
+Conference on Database and Expert Systems 
+Applications , pp. 431-445. 
+http://dx.doi.org/10.1007/978 -3-319-44403 -1_27  
+[33] Phan, N., Dou, D., Wang, H., Kil,  D., Piniewski, B. 
+(2017). Ontology -based deep learning for human 
+behavior prediction with explanations in health social 
+networks.  Information Sciences , 384: 298-313. 
+http://dx.doi.org/10.1016/j.ins.2016.08.038  
+[34] Chen, M., Liu, P. (2017). Performance evaluation of 
+recommender systems.  International Journal of 
+Performability Enginee ring, 13(8) : 1246.  
+http://dx.doi.org/10.23940/ijpe.17.08.p7.12461256  
+[35] Schrö der, G., Thiele, M., Lehner, W. (2011). Setting 
+goals and choosing metrics for reco mmender system 
+evaluations. In  UCERSTI2 Workshop at the 5th ACM 
+Conference on Recommender Systems , Chicago, USA, p. 
+53.  
+467

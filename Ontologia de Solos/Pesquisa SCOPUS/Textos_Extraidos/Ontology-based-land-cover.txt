@@ -1,0 +1,1035 @@
+Vol.:(0123456789)SN Computer Science           (2023) 4:731  
+https://doi.org/10.1007/s42979-023-02184-3
+SN Computer Science
+ORIGINAL RESEARCH
+Development of an Ontology‑Based Technique for Labeling Land 
+Cover Classes with Minimum Utilization of SAR Features
+Shruti Gupta1  · Dharmendra Singh2 · Sandeep Kumar3
+Received: 2 February 2023 / Accepted: 24 July 2023 
+© The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd 2023
+Abstract
+The availability of satellite imagery to "domain" experts, along with advancements in image processing and analysis 
+techniques, has revolutionized numerous fields, enabling better understanding, planning, and management of our planet's 
+resources. However, formalizing the knowledge gained from domain experts is essential for preserving, sharing, and leverag -
+ing their expertise. In this context, knowledge representation methods like ontology play a significant role in the development 
+of applications based on satellite image analysis. Land cover labeling is one of the significant applications of satellite image 
+analysis and plays a vital role in various domains by providing valuable information about the Earth's surface. Although 
+several works have been reported to focus on land cover land use classification and labeling, very few are properly docu-
+mented or formalized. Therefore, in this paper, an LCL (land cover labeling) ontology has been proposed for labeling the 
+land cover classes using PALSAR-I satellite data. The ontology is based on an adaptive algorithm, as the labeling criterion 
+is independent of specific range values and depends on feature image statistics. For algorithm development, four types of 
+features, namely, polarimetric features, texture features, color features, and wavelet features were examined. For selecting 
+optimal feature set, random forest was utilized and, consequently, for further labeling the classes a set of rules has been 
+formed by applying Otsu thresholding on the selected class-wise feature sets. The derived rules were finally formalized to 
+develop the ontology for labeling the land cover classes. The proposed ontology was applied to distinct study sites using 
+PALSAR-I data which resulted in a satisfactory classification accuracy of around 85%.
+Keywords Ontology · PALSAR · Random forests · Polarimetric features · Color features · Texture features · Wavelet 
+features
+This article is part of the topical collection “Research Trends 
+in Computational Intelligence” guest edited by Anshul Verma, 
+Pradeepika Verma, Vivek Kumar Singh and S. Karthikeyan.
+ * Shruti Gupta 
+ shruti2306@gmail.com
+ Dharmendra Singh 
+ dharmfec@gmail.com
+ Sandeep Kumar 
+ sandeepkumargarg@gmail.com
+1 Computer Science and Engineering and Information 
+Technology Department, Jaypee Institute of Information 
+Technology, Noida, India
+2 Electronics and Communication Engineering Department, 
+Indian Institute of Technology Roorkee, Roorkee, India
+3 Computer Science and Engineering Department, Indian 
+Institute of Technology Roorkee, Roorkee, IndiaIntroduction
+The goal of designing image analysis and understanding 
+systems today is to provide as much automation as possible 
+at all stages of working with images to minimize or elimi-
+nate the expert's involvement and make the system usable 
+even by those who lack specialized knowledge or skills in 
+image processing and analysis [1 ]. Ontology is one of the 
+best tools for this aim. Ontology [1 –7] has the potential to 
+support knowledge sharing and reuse, which has attracted 
+wide attention from researchers and practitioners across 
+many disciplines. Formalizing the knowledge can lead to 
+improvement of image analysis results, both in terms of 
+specificity and sensibility of the pattern recognition.
+Land cover identification is one of the significant appli-
+cations of satellite image analyses. PALSAR-I satellite 
+images are considered vital due to their all-weather imaging 
+capabilities, SAR technology, and the valuable information 
+ SN Computer Science           (2023) 4:731 
+   731  Page 2 of 15
+SN Computer Science
+they provide for land cover mapping, vegetation monitor -
+ing, disaster management, polar observations, scientific 
+research, and environmental studies. They contribute to our 
+understanding of the Earth's processes and support decision-
+making in various fields. In the past, an enormous amount of 
+work has been reported using PALSAR (Phased Array type 
+L-band Synthetic Aperture Radar) data for land cover iden-
+tification. Prevalent methods for classifying SAR data, such 
+as H-α decomposition, Wishart classifier, statistical models, 
+etc., are somewhat complex and classify data merely on the 
+basis of polarimetric information. Many research studies in 
+the field of land cover classification and labeling are driven 
+by specific objectives and research questions. Researchers 
+often focus on developing novel algorithms or techniques 
+to improve classification or labeling accuracy or address 
+specific challenges rather than on formal documentation 
+or standardization. As per the current scenario, emphasis 
+should be given on formal documentation and standardiza-
+tion of land cover classification and labeling methods. This 
+will help foster better collaboration, facilitate the exchange 
+of knowledge and expertise, and enable the development of 
+more robust and widely applicable approaches in the future.
+For satellite image analysis, researchers normally follow 
+the strategy of feature extraction, followed by identification 
+or labeling. For this purpose, feature extraction forms the 
+foundation for extracting information, which remains hidden 
+in the original intensity image to enumerate the image qual-
+ity utilizing diverse parameters or functions. Distinct feature 
+types are present in the literature, which has shown favorable 
+results in land cover identification. In the past, enormous 
+work has been reported in which numerous types of fea-
+tures were extracted and integrated to classify them using 
+any supervised or unsupervised technique to achieve decent 
+accuracy [ 8–12], but very less work has been reported for 
+land cover labeling on the basis of SAR feature values as it is 
+quite a challenging task. Although the results obtained from 
+classifying distinct features were favorable, the complexity 
+of computing numerous features has been increased. Also, 
+labeling of land cover classes on the basis of SAR feature 
+values is a challenging task. Therefore,  to avoid numerous 
+feature computations, without compromising on the accu-
+racy, there is a need to minimize the count of features by 
+selecting only significant features appropriate for labeling 
+the land cover into particular classes.
+Hence, the objective of this paper is to model an ontol-
+ogy for land cover labeling using SAR satellite images by 
+selecting only significant SAR features based on their con-
+tribution to the classification results, such that the computa-
+tional cost of extracting numerous features every time gets 
+reduced. Consequently, the developed ontology could help 
+to establish standardized land cover classes, provide labeling 
+guidelines and best practices, harmonize labels across data-
+sets, support labeling validation and quality control, assist in machine learning and automation, and enable data integra-
+tion and analysis. It will further contribute to the creation 
+of consistent, accurate, and interoperable labeled land cover 
+datasets, which are crucial for various other land monitoring 
+applications.
+The remainder of this paper is structured as follows. 
+After a brief introduction about the proposed work in the 
+fiist section, the following section illustrates the theoreti-
+cal background of the SAR features, feature minimization 
+or selection techniques, and the role of ontology in image 
+analysis. Section  “Study site and data used” specifies the 
+concise depiction about the study area and data used in the 
+analyses, Section  “LCL ontology development” includes the 
+discussion about the development and implementation of the 
+proposed ontology, while the results and discussion of the 
+proposed approach has been presented in Section  “Results 
+and discussion” which is followed by conclusion in Section 
+“Conclusion”.
+Theoretical Background
+SAR Features
+It has been discerned from the past researches that differ -
+ent land cover classes show distinct behavior in terms of 
+polarimetric, spatial, and color characteristics. Hence, for 
+selecting the significant features, features from four broad 
+categories, namely, polarimetric features, texture features, 
+color features, and wavelet features were examined for ana-
+lyzing their role in land cover characterization. For PALSAR 
+image analysis, features had been conventionally derived in 
+the form of polarimetric signatures, textural form, color 
+structure, or in the form of wavelet coefficients, all of which 
+has its own special capabilities for portraying the land cover. 
+Hence. it is difficult to select which feature type is more sig -
+nificant and has more contribution in the labeling precision.
+In comparison to optical data, SAR data is enriched with 
+polarimetric features which depict more specifications of 
+physical information from target backscattering in distinc-
+tive polarization channels. The polarimetric features of SAR 
+data are a great source for land cover characterization, as 
+distinct land cover classes show different scattering behavior 
+based on target shape, orientation, symmetry, etc., which 
+can be interpreted using distinct indices present in the lit-
+erature [13, 14]. In this paper, ten polarimetric indices such 
+as backscattering coefficients of different linear polariza-
+tions HH, HV, and VV, along with their fractions HH/HV, 
+HV/VV, and HV/HH, and other features such as normalized 
+difference polarization index (NDPI) [15], ratio vegetation 
+index (RVI) [16], weighted polarization sum (WPS) index 
+[17], and cross-polarization ratio (CPR) [18] were utilized 
+for land cover identification.
+SN Computer Science           (2023) 4:731  
+ Page 3 of 15   731 
+SN Computer Science
+Apart from polarimetric details, texture also plays an 
+important role in SAR image analyses, as texture presents 
+significant interpretation details, in extension to the intensity 
+or the backscattering values solely. Numerous researches in 
+the past have revealed that texture feature-based classifica-
+tion can advance the accuracy of the perception [19– 22]. 
+Distinct first-order and second-order texture features have 
+shown constructive performance in satellite image analyses 
+by highlighting properties such as spatial structure, contrast, 
+roughness, and orientation [9, 23, 24]. New forms of texture 
+measures such as semivariogram [25], lacunarity [26], local 
+binary pattern (LBP) [27], and weighted rank fill ratio [28] 
+have also raised the textural analysis investigation level to a 
+more noteworthy augment.
+Color is also one of the significant and unexplored feature 
+types in land cover identification [10]. As SAR data does not 
+acquire information in the real visible light spectral trans-
+mission, color information could be extracted by engender -
+ing the pseudo color composite image by utilizing distinct 
+polarimetric channels. From the past researches, it has been 
+revealed that different color spaces demonstrate unique per -
+ceptive skills of pattern recognition and each component 
+describes a different facet of chromatic and achromatic infor -
+mation [29, 30]. To utilize color as a visual intimation for 
+characterizing land surface, nine different color-portraying 
+features suchas hue, saturation, lightness, luminance (Y), in-
+phase (I), quadrature (Q), L*, a*, and b* has been employed 
+in this paper.
+In addition, wavelet coefficients too play a vital role, as 
+these components are obtained from discrete wavelet trans-
+formation of the image which separates the statistical details 
+of the image at distinct resolutions. Here, the Haar trans-
+formation is utilized to retrieve four wavelet features [8 ], 
+namely, approximation coefficient, horizontal coefficient, 
+vertical coefficient, and diagonal coefficient by the complete 
+decomposition of the grayscale image.
+Feature Selection or Minimization Techniques
+There are distinct techniques present for feature minimiza-
+tion. Low variance filter and PCA are the commonly used 
+technique in which a ow variance filter, filters out the fea-
+tures having variance lower than a set threshold, while PCA 
+transforms the feature set in such a way that it selects the 
+direction with the largest variance and generates a lower 
+dimensional representation of original data. Although fea-
+ture reduction techniques like ICA [31], PCA [8 ], Fisher's 
+linear discriminant [32] reduces the dimensionality, but does 
+not reduce the feature computation cost, as one has to com-
+pute all the features every time and then apply transforma-
+tions for getting components. But by these methods, which 
+feature is prominent for classification is missed out and the ability to interpret the potential of individual features goes 
+down.
+For analyzing the feature significance, random forest 
+classifier has been opted in this paper. Random forests have 
+gained substantial attention, on account of their impressive 
+accuracy and stability, robustness toward noise, and quick 
+ability to get trained [33– 35]. The random forest can also 
+compute ‘outlyingness’ by means of proximity, which can 
+be very constructive to identify mislabeled training points. 
+Although random forest has been previously utilized for 
+SAR (Synthetic Aperture Radar) classification, its another 
+trait of analyzing the variable importance for feature mini-
+mization is still unexplored, as it possesses a reasonably high 
+degree of interpretability so as to analyze the relative signifi-
+cance of the outcome of adding more variables on out-of-bag 
+test set error and marginal effects [36]. Some researchers 
+have also used random forests for predictor importance in 
+microarray studies [37] and got satisfactory results.
+Ontology for Image Analysis
+Some of the ontologies developed in relation to image analy -
+sis are: image feature ontology [4 ] which has the peculi-
+arity of cataloguing features, modeling the image analysis 
+domain, and being integrated with a library of image pro-
+cessing algorithms. Thesaurus-based ontology on image 
+analysis [38] can be utilized for processes such as automated 
+image analysis, algorithmic knowledge reuse, and intelligent 
+information retrieval. Cell image analysis ontology (CIAO) 
+[39] has been constructed for structuring the cell image 
+features domain. Ontology has also been used for object 
+recognition [40] involving the following aspects of cogni-
+tive vision: learning, recognition, and knowledge represen-
+tation. Diagnosis aiding ontology based on hysteroscopy 
+image processing [41] provided a useful platform for the 
+development of tools related to medical diagnosis for physi-
+cians. Ontology-based knowledge model for grayscale image 
+interpretation [42] with emphasis on welding defect clas-
+sification was developed. Except the ontologies discussed 
+above, many other ontologies have also been developed for 
+image interpretation [43]. In the area of satellite imagery, 
+geographic object-based image analysis (GEOBIA) [44] has 
+been used in remote sensing and image analysis to extract 
+information from satellite or aerial images. It goes beyond 
+pixel-based analysis by considering objects or regions in the 
+image as the basic units of analysis instead of individual pix -
+els. Ocean satellite image classification based on ontologies 
+[45] has been reported leveraging the principles of knowl-
+edge representation and semantic relationships to organize 
+and categorize satellite images of the ocean. The GEO-MD 
+ontology [46], which focuses on situations of significant 
+catastrophes like the 2010 Haiti earthquake, has also been 
+reported. Another work provided an expert knowledge-based 
+ SN Computer Science           (2023) 4:731 
+   731  Page 4 of 15
+SN Computer Science
+SITS (Satellite Image Time Series) analysis [47] approach 
+for analyzing regional dynamics and monitoring land cover. 
+Ontology has also been utilized for semantic segmentation 
+of satellite images [48, 49], change detection, image clas-
+sification, agriculture monitoring [50], etc. With the state of 
+art mentioned above, it has been observed that the field of 
+satellite image analysis ontology is evolving rapidly, with 
+ongoing research and advancements. New techniques, meth-
+odologies, and applications are continuously emerging to 
+further enhance the understanding and utilization of satellite 
+imagery using ontologies.
+Study Site and Data Used
+Study Site
+The analysis region comprises the Roorkee area of Uttara-
+khand, India, located at 29° 51′ N,  77ο 53′E. The analysis 
+region is a plane area, which is primarily composed of five 
+distinct land cover classes, specifically, urban, water, bare 
+soil, short vegetation, and tall vegetation.
+PALSAR and Ground Data Used
+In this paper, fully polarized SAR image collected by ALOS 
+PALSAR L-band level 1.1 (data provided by JAXA, Japan) 
+with data ID: ALPSRP277830590 (data-1) acquired on 
+April 12, 2011, ID: ALPSRP224150590 (data-2) acquired 
+on April 9, 2010, ID: ALPSRP277830580 (data-3) acquired 
+on April 12, 2011, and ID: ALPSRP222400590 (data-4) 
+acquired on March 03, 2010 (Kurukshetra region, Haryana) 
+were used for executing the proposed work and validation.
+With the aim of implementing the identification proce-
+dure, ground control points (GCPs) of distinct land cover 
+types of the analysis region were desired for both the training 
+and testing process. Thus, GCPs were collected for the five 
+separate land cover classes: urban (350 GCPs), water (350 
+GCPs), bare soil (350 GCPs), short vegetation (350 GCPs), 
+and tall vegetation (325 GCPs) from Google Earth imagery, 
+topographic map, and ground truth survey of the analysis 
+region. Out of this, 50 GCPs of each of the classes were 
+utilized for training and the remaining for testing.
+LCL Ontology Development
+The LCL ontology development procedure is briefly 
+depicted in Fig.  1. For developing the LCL ontology, the 
+following steps were performed.SAR Pre‑processing
+Firstly, raw ALOS PALSAR data were pre-processed to 
+make it suitable for extracting different types of features. 
+Subsequent pre-processing steps starting from importing 
+the data, followed by multilooking and filtering using lee 
+filter were performed, with the intention of removing the 
+speckle noise. For geometric error improvements caused 
+due to terrain-induced distortions, geocoding was carried 
+out utilizing the digital elevation model extracted from 
+the GTOPO 30 technique. After that, the backscattering 
+coefficient value was computed for different polarizations 
+on a logarithmic scale.
+Feature Set Extraction
+Four types of feature sets, specifically, polarimetric fea-
+tures (F1), texture features (F2), color features (F3), and 
+wavelet features (F4) were examined. The polarimetric 
+feature set includes ten features: backscattering coeffi -
+cients of different linear polarizations (HH, HV, VV) and 
+their ratios HH/HV, HV/HH, and HV/VV, along with other 
+indices such as NDPI, RVI, WPS, and CPR.
+For deriving color feature set, pseudo color composition 
+(shown in Fig.  2a) of the obtained HH (as red), HV (as 
+green), and VV (as blue) backscattering coefficients was 
+made to extract the following features: hue, saturation, 
+lightness, luminance (Y ), in-phase (I ), quadrature (Q ), L*, 
+a*, and b*.
+The texture feature set comprises distinct first-order 
+measures:  mean, variance, skewness, kurtosis; GLCM 
+measures: homogeneity, contrast, dissimilarity, entropy, 
+second moment and correlation; and new-fangled meas-
+ures: LBP, lacunarity, semivariogram, and weighted rank 
+fill ratio, which were extracted from the grayscale compo-
+sition (shown in Fig.  2b) of the HH, HV, and VV polariza-
+tions. Prior to extracting the GLCM measures from gray -
+scale polarized images, the image was firstly transformed 
+into 64 Gy levels so as to characterize the texture well and 
+also to lessen GLCM dimensionality. The texture measures 
+were computed by considering window size 5, as window 
+size less than 5 may not take into consideration the cor -
+relation among pixels, while the edge pixels get contami-
+nated in a larger size window.
+Lastly, four coefficients, namely, approximation coeffi-
+cient, vertical coefficient, horizontal coefficient, and diag-
+onal coefficient were mined using haar DWT, which forms 
+the wavelet feature set. Hence, a total of 37 features (10 
+polarimetric features, 14 texture features, 9 color features, 
+and 4 wavelet features) were extracted from the PALSAR 
+data for critically evaluating their effects on land cover 
+identification.
+SN Computer Science           (2023) 4:731  
+ Page 5 of 15   731 
+SN Computer Science
+Critical Evaluation of the Feature Sets
+For critical evaluation of feature sets, random forest clas-
+sification was performed by constructing the ensemble 
+of trees. The ensemble of trees was built by utilizing the collected GCPs of each of the five different classes: 
+urban, water, bare soil, short vegetation, and tall vegeta-
+tion. To induce randomness in selecting training samples, 
+bootstrapping is practiced, i.e., 66% of the total training 
+samples are taken. For reducing the correlation among 
+Fig. 1  LCL Ontology
+ SN Computer Science           (2023) 4:731 
+   731  Page 6 of 15
+SN Computer Science
+the trees, as suggested by Breiman and Cutler [51], the 
+square root of the total number of predictors was taken 
+into account in constructing the ensemble of trees so as to 
+attain the best performance. The number of trees could be 
+any positive integer 'n '; the analyses depict that the maxi-
+mum variation in the overall accuracy was observed when 
+the number of trees was varied from 1 to 50, after which 
+it became almost constant at ‘200’. Hence, ‘200’ number 
+of trees were selected for further analyses.Now, we have four feature types (F1, F2, F3, F4) which 
+are composed of 37 features all together. For these four fea-
+ture types, critical evaluation was performed using different 
+feature combinations (FC) (as shown in Table  1). A total of 
+15 feature set combinations were composed from different 
+permutations of the polarimetric, color, texture, and wavelet 
+features. The accuracies for each of the 15 feature set com-
+binations, at distinct parameters, were obtained using the 
+random forest classifier, and the finest achieved accuracy 
+Fig. 2  a Pseudo color composition of HH (red), HV (green), and VV (blue). b Grayscale composition of HH, HV, and VV
+Table 1  Distinct feature set 
+combination of diverse feature 
+typesFeature set Types of features Number of 
+features
+F1 Polarimetric features 10
+F2 Color features 9
+F3 Texture features 14
+F4 Wavelet features 4
+FC1 Polarimetric features + color features 19
+FC2 Polarimetric features + texture features 24
+FC3 Polarimetric features + wavelet features 14
+FC4 Color features + wavelets features 13
+FC5 Color features + texture features 23
+FC6 Texture features + wavelet features 18
+FC7 Polarimetric features + color features + texture features 33
+FC8 Color features + texture features + wavelet features 27
+FC9 Polarimetric features + color features + wavelet features 23
+FC10 Polarimetric features + texture features + wavelet features 28
+FC11 Polarimetric features + color features + texture features + wavelet 
+features37
+SN Computer Science           (2023) 4:731  
+ Page 7 of 15   731 
+SN Computer Science
+for each of the feature sets is depicted in Fig.  3. From Fig.  3. 
+it is observed that only one type of feature set (i.e., F1, F2, 
+F3, F4) individually is not sufficient for fine identification 
+accuracy, and the highest accuracy could be achieved by 
+combining all feature types (FC11) only. But extracting all 
+feature types is quite a tedious task, and hence after evaluat-
+ing the distinct feature set combination, individual feature 
+importance was analyzed for each of the four feature types.
+Optimal Feature Selection
+Random forest (RF) offers several advantages for feature 
+selection compared to other techniques. It reduces the risk 
+of selecting irrelevant or redundant features by averaging the 
+results over multiple decision trees. This stability makes RF 
+less sensitive to small changes in the dataset and more robust 
+in identifying important features. RF can capture non-linear 
+relationships and interactions between features. It can handle 
+complex data structures and identify features that contrib-
+ute to these complex relationships. Other techniques such as 
+linear models may struggle to capture non-linear patterns or 
+interactions, limiting their effectiveness in feature selection. 
+Hence, in this work, for selecting the best feature set, each 
+of the individual feature importance was analyzed by con-
+sidering “out-of-bag” data of each tree in random forest and 
+utilizing split criteria on the basis of Gini index. As each tree 
+created in random forest utilizes a distinct bootstrap sample 
+from the training data, the left out training samples which 
+are not used in the creation of that tree is known as “out-of-
+bag” data of that tree.
+(a) Out‑of‑Bag Permuted Variable Delta Error (OOBPVDE)
+For analyzing the feature importance on the basis of prediction 
+error, the  OOBPVDE property was computed for each of the features. It is the measure of increase in prediction error (PE) 
+if the values of that feature are permuted across the out-of-bag 
+observations. For computing this property for the n th feature, 
+randomly permute the values of the n th feature and calculate 
+the identification error before (EOOB) and after (EnPER) permut-
+ing the feature value over out-of-bag observations, followed 
+by execution of Eq.  1, which shows the prediction error for 
+Mth tree.
+This measure is calculated for every tree, then averaged 
+over the whole ensemble, and divided by the standard devia-
+tion over the whole ensemble as shown in Eq.  2.
+Features, which generate greater values for this property, 
+are ranked as more significant than features which generate 
+smaller values.
+(b) Split Criteria‑Based Feature Importance
+It estimates the changes in the split criterion summed over 
+splits on each feature, averaged over the complete random for -
+est. Here, the split criterion is based on the degree of impurity 
+of child nodes resulting after the split made on that particular 
+feature. The Gini impurity measure was considered for meas-
+uring the degree of impurity.(1) PEM_Tree= argmax/braceleft.s10;EnPER−EOOB/braceright.s1.
+(2)OOBPVDE =�∑T
+i=1PEi�
+∕T
+��∑T
+i=1(PEi−PE)2�
+∕(T−1).
+(3) Gini(t)=1−k−1/uni2211.s1
+i=0/bracketleft.s1p(i/uni007C.vart)/bracketright.s12,
+Fig. 3  Overall classification accuracy estimation at distinct feature sets on PALSAR data using random forest
+ SN Computer Science           (2023) 4:731 
+   731  Page 8 of 15
+SN Computer Science
+where p(i|t) represents the fraction of pixels belonging to 
+class i at a given node t and k is the number of classes. 
+The degree of impurity of child nodes is compared with the 
+degree of impurity of the parent. The larger the difference, 
+the better is the split.
+where I(.) is the Gini impurity measure of a node, N is the 
+total number of samples at the parent node, k  is the feature 
+value, and N (nj) is the total number of samples associated 
+with the child node nj.
+Feature Ranking Estimation
+For finding the feature ranking, feature significance meas-
+ures  (OOBPVDE and Gini impurity index) were computed for 
+the considered 37 features. After computing the measures, 
+firstly, the features were ranked in ascending order (i.e., from 
+1 to 37) according to the attained  OOBPVDE value, i.e., lesser 
+the average value, lesser is the error contribution from that 
+feature. Secondly, the ranking was computed on the basis 
+of Gini impurity split criteria. In this case, the higher the 
+measure value, the more important is the feature.
+The final ranking achieved for each of the feature from 
+ OOBPVDE and Gini impurity is displayed in Table  2. From 
+Table  2 it can be inferred that the feature from each of the 
+categories of the feature type has its own significance, and 
+top rankers’ features are a mixture of all types of categories. 
+The top five ranks (mean, approximation coefficient, light-
+ness, WPS, and LBP) include features from distinct four 
+types.
+Rank‑Wise Feature Evaluation
+As per the ranking estimated in Table  2, the features were 
+evaluated. The classification accuracy was computed begin-
+ning from the first rank feature (R1) and the step by step 
+addition of every next rank feature till the last rank feature 
+(R37) as shown in Table  3. From Table  3, it is inferred that 
+there is substantive enhancement in accuracy only up to the 
+17 rank feature. Hence, for this purpose, the selected 17 
+features were considered further for land cover labeling.
+Also, it has been known that random forest classifica-
+tion is a fully supervised technique and we need to imple-
+ment a semi-supervised method which is also adaptive in 
+nature. Feature minimization techniques such as PCA and 
+ICA (shown in Table  4) were also applied on a set of 37 fea -
+tures. The maximum classification accuracy obtained after 
+applying PCA was around 85%–86% by considering the 
+minimum first 11 principal components having maximum 
+variance, while accuracy was around 84% by considering (4) Δ= I(parent )−k/uni2211.s1
+j=1N/parenleft.s1nj/parenright.s1I/parenleft.s1nj/parenright.s1
+N,the minimum first 23 independent components obtained 
+after applying ICA. The analyses show that the classifica-
+tion accuracy obtained from components minimized from 
+PCA and ICA is comparatively less than those obtained from 
+proposed minimization technique and also the computational 
+cost of calculating all the features each time was not reduced.
+Class‑Wise Feature Selection
+From the accuracy results, it was observed that the first 
+16–17 features play a crucial role in land cover identifica-
+tion. For class-wise feature identification, separability index 
+criteria were considered for identifying the features signifi-
+cant for labeling the water, urban, bare soil, short vegetation, 
+and tall vegetation classes. The separability index (SI) is 
+defined as:
+where μ and S  are the means and standard deviations, respec-
+tively, of classes m and n.
+Through the separability index, we get to know which 
+features will be appropriate for segregating a particular land 
+cover class. The separabilty index for the five land cover 
+classes with respect to other classes is shown in Fig.  4.
+Formulation of Rules for Land Cover Labeling 
+For each of the classes, the top three features which have 
+shown the highest SI values were selected, i.e., for bare soil: 
+HV/VV, b*, and a *; for water lightness: VV and HH; for 
+urban mean: LBP and Y; for tall vegetation lightness: L * 
+and Y; and for short vegetation L *: wps and Y . After select-
+ing class-wise features, boundary estimation for each of the 
+features was a crucial task.
+Boundary Estimation for Different Classes
+For this purpose, we attempted to explore the most com-
+mon thresholding, i.e., Otsu thresholding. Otsu’s thresh -
+olding [52, 53] is a very well-accepted global automatic 
+thresholding method, based on discriminant analysis 
+that minimizes the weighted within-class variance and 
+maximizes the between-class variance while partition-
+ing the classes. It has been extensively utilized in dis-
+tinct real-time applications. As we are interested in clas-
+sifying the land cover into five classes, bare soil, water, 
+urban, tall vegetation and short vegetation, we estimate 
+four thresholds for each of the selected features such 
+that class1 <  = Thresh1, Thresh1 < class2 <  = Thresh2, 
+Thresh2 <  class3 <  =  Thresh3,  
+Thresh3 < class4 <  = Thresh4, and class5 > Thresh5. As a 
+result, each feature will get segregated into five classes. (5) SImn=/uni007C.x/uni007C.x/u1D707m−/u1D707n/uni007C.x/uni007C.x∕/parenleft.s1Sm+Sn/parenright.s1,
+SN Computer Science           (2023) 4:731  
+ Page 9 of 15   731 
+SN Computer Science
+For each of the classes, the threshold is estimated for each 
+of the selected features. After estimating the thresholds, 
+each of the features is quantized, resulting in five clusters. 
+For each of the classes, the clusters are labeled from the 
+selected features by utilizing GCPs and ground visits. The 
+threshold range for each of the classes is shown in Table  5, 
+where I1, I2, I3, I4 and I5 represent the bare soil, water, 
+urban, tall vegetation, and short vegetation classes, respec-
+tively.  Thresh1(x),  Thresh2(x),  Thresh3(x), and  Thresh4(x) 
+represent the first, second, third, and fourth threshold of feature ‘x ’. The thresholds obtained will not be fixed and 
+will vary from data to data statistics, making it adaptive 
+in nature. For a class assignment, among the three rules 
+(obtained from three features) as depicted in Table  5, any 
+two rules should be satisfied. The classes were extracted 
+on the basis of their separability index for land cover class 
+labeling, and the class showing a greater separability index 
+was extracted first. From the chart (shown in Fig.  4), it has 
+been inferred that bare soil shows the highest SI, followed 
+by water, urban, tall vegetation, and short vegetation.Table 2  Feature ranking based 
+on  OOBPVDE  and Gini impurityFeatures Ranking on the basis of 
+ OOBPVDE (1)Ranking on the basis of 
+Gini impurity(2)Final ranking 
+(average of 
+1& 2)
+Mean 1 1 1
+App coeff 2 2 2
+LIT 3 3 3
+WPS 6 4 4
+LBP 4 7 5
+HV/VV 7 5 6
+L* 8 6 7
+b* 9 8 8
+VV 5 14 9
+Y 10 10 10
+RVI 13 9 11
+HV 11 13 12
+HH 12 12 13
+a* 17 11 14
+Q 19 16 15
+Variance 14 22 16
+NDPI 21 15 17
+Saturation 16 23 18
+WRFR 15 27 19
+HH/HV 25 17 20
+Contrast 22 20 21
+Lacunarity 18 25 22
+I 24 19 23
+Dissimilarity 20 24 24
+HV/HH 27 18 25
+Semivariogram 23 26 26
+CPR 29 21 27
+Homogeneity 26 29 28
+Correlation 28 30 29
+HUE 31 28 30
+Ver coeff 30 33 31
+Skewness 32 31 32
+Horizontal coefficient 33 32 33
+Second moment 34 35 34
+Kurtosis 37 34 35
+Entropy 35 36 36
+Diagonal coefficient 36 37 37
+ SN Computer Science           (2023) 4:731 
+   731  Page 10 of 15
+SN Computer Science
+Ontology‑Based Modeling for Land Cover Labeling
+After forming the land cover labeling rules as depicted in 
+section A of Fig.  1, they were formalized using ontology, 
+named as land cover labeling (LCL) ontology. The LCL 
+ontology is developed using Protégé, an open-source plat-
+form which is a set of tools to build domain models and 
+knowledge-based applications using ontologies based on 
+semantic Web language, W3C OWL (Web Ontology Lan-
+guage). The structure of the LCL ontology is defined in 
+Table  6. 
+Table  6 describes the model of the LCL ontology.The 
+model has been formed on the basis of classes and property. 
+The properties are divided into object property and data 
+property. Object property relates individuals to individuals, 
+while the data property relates individuals to literals. LCL 
+ontology consists of SAR_Image as the main class which has 
+two subclasses Land_Cover_Classes and Features. Land_
+Cover _Classes has five individuals: urban, water, bare soil, 
+water and tall vegetation, while Features class has mean, 
+Y, L*, Lightness, HH, HV/VV, LBP, WPS, VV, a *, and b * 
+as individuals. The individuals of Land_Cover_Classes is 
+related to individuals of Features class by hasProminent -
+Feature and isProminentFeature of data properties. Each of 
+the individuals of Land_Cover_Classes, urban, water, bare soil, short vegetation and tall vegetation, has three prominent 
+features as found in step 6 and step 7. Each of the prominent 
+features is associated with two data properties having pre-
+fix” has_min” and “has_max” which defines the threshold 
+boundary of the class in that particular feature. In this way, 
+the rules of each of land cover classes have been incorpo-
+rated using these two data properties. The developed ontol-
+ogy model is briefly depicted in section B of Fig.  1. After 
+the development of the LCL ontology, the rules for land 
+cover classes were fetched for PALSAR classification, by 
+first extracting the prominent features and then applying the 
+rules for each of the classes.
+Results and Discussion
+The proposed LCL ontology-based labeling technique was 
+executed on data-1 (ID: ALPSRP277830590) acquired on 
+April 12, 2011 after computing the threshold values as 
+shown in Table  5. The obtained results were quite satisfac-
+tory (as shown in Fig.  5a) with the overall accuracy of 86% 
+with producer accuracy of 92.3%, 92.6%, 99%, 69.4%, and 
+76% for bare soil, water, urban, tall vegetation and short 
+vegetation, respectively. The confusion matrix of the classi -
+fication results on data-1 is shown in Table  7. The proposed 
+rules were validated on three other data, data-2, data-3 and 
+data-4, whose classification results have been are displayed 
+in Fig.  5b–d with a classification accuracy of 85%, 86%, 
+and 85.5%. The results reveal that the proposed method has 
+the capability to label the various land cover classes with 
+good accuracy. The obtained results are compared with the 
+existing classification techniques like isodata (74%), paral-
+lelepiped (64%), Mahalanobis distance (72%), and Wishart 
+classification (practiced in [54]) on the same data set which 
+illustrates the ascendancy of the algorithm over others. The 
+time complexity of the developed method is O(n), where ‘n’ 
+is the number of pixels in the image.
+Conclusion
+In this paper, an ontology for labeling land cover using 
+SAR data has been proposed by utilizing minimum SAR 
+features such that the rules and knowledge encoded in 
+the ontology could be directly utilized to model the land 
+cover identification and classification process and also 
+avoid complications and the lengthy training process. The 
+aim of modeling ontology is to establish standardized land 
+cover classes, provide labeling guidelines and best prac-
+tices, harmonize labels across datasets, support labeling 
+validation and quality control, assist in machine learning Table 3  Rank-wise classification accuracy (CA) estimation
+Features Classification 
+accuracyFeatures Clas-
+sification 
+accuracy
+R1 0.548764 R1–R20 0.902129
+R1–R2 0.647665 R1–R21 0.90728
+R1–R3 0.759959 R1–R22 0.902473
+R1–R4 0.861264 R1–R23 0.903846
+R1–R5 0.860577 R1–R24 0.904876
+R1–R6 0.893544 R1–R25 0.906593
+R1–R7 0.894231 R1–R26 0.90625
+R1–R8 0.894574 R1–R27 0.902816
+R1–R9 0.896635 R1–R28 0.906937
+R1–R10 0.895604 R1–R29 0.902473
+R1–R11 0.897665 R1–R30 0.901786
+R1–R12 0.899038 R1–R31 0.903846
+R1–R13 0.896978 R1–R32 0.902816
+R1–R14 0.899725 R1–R33 0.905907
+R1–R15 0.897321 R1–R34 0.907624
+R1–R16 0.898695 R1–R35 0.902129
+R1–R17 0.900412 R1–R36 0.905907
+R1–R18 0.902129 R1–R37 0.903846
+R1–R19 0.901786
+SN Computer Science           (2023) 4:731  
+ Page 11 of 15   731 
+SN Computer Science
+and automation, and enable data integration and analysis. 
+For identifying significant features in land cover identifica-
+tion, four types of SAR feature sets, namely, polarimetric 
+features, texture features, color features, and wavelet fea-
+tures were analyzed using random forest. Based on random 
+forest properties, 17 features were identified which con -
+tributed most to land cover identification. Among the 17 
+selected features, class-wise significant features were iden-
+tified using separability index. For locating the boundary of a particular class, Otsu' thresholding was applied on 
+feature sets selected for each of the classes. Based on 
+thresholding, ontology-based decision rules were devel-
+oped for labeling the land cover. The proposed labeling 
+method resulted in an accuracy of 85% which is superior to 
+many unsupervised classification technique. The proposed 
+method is adaptive, as it depends on image statistics, is not 
+very complex and easy to implement, and most signifi-
+cantly it has reduced computational cost by calculating a Table 4  PCA and ICA 
+component-wise classification 
+accuracy (CA) estimationPCA components Classification accuracy 
+(%)ICA components Classification 
+accuracy (%)
+PC1 44.3 ICl 33.6
+PC1 + PC2 76.4 IC1 + IC2 39.9
+PC1 + PC2 + PC3 73.6 IC1 + IC2 + IC3 41.9
+PC1 + PC2 + ⋅⋅⋅  + PC4 78.7 IC1 + IC2 + ⋅⋅⋅  + IC4 43.7
+PC1 + PC2 + ⋅⋅⋅  + PC5 83.1 IC1 + IC2 + ⋅⋅⋅  + IC5 43.2
+PC1 + PC2 + ⋅⋅⋅  + PC6 83.1 IC1 + IC2 + ⋅⋅⋅  + IC6 65.3
+PC1 + PC2 + ⋅⋅⋅  + PC7 83.3 IC1 + IC2 + ⋅⋅⋅  + IC7 69.0
+PC1 + PC2 + ⋅⋅⋅  + PC8 83.1 IC1 + IC2 + ⋅⋅⋅  + IC8 69.6
+PC1 + PC2 + ⋅⋅⋅  + PC9 83.7 IC1 + IC2 + ⋅⋅⋅  + IC9 68.6
+PC1 + PC2 + ⋅⋅⋅  + PC10 84.9 IC1 + IC2 + ⋅⋅⋅  + IC10 68.8
+PC1 + PC2 + ⋅⋅⋅  + PC11 85.3 IC1 + IC2 + ⋅⋅⋅  + IC11 69.5
+PC1 + PC2 + ⋅⋅⋅  + PC12 85.8 IC1 + IC2 + ⋅⋅⋅  + IC12 71.7
+PC1 + PC2 + ⋅⋅⋅  + PC13 85.4 IC1 + IC2 + ⋅⋅⋅  + IC13 72.4
+PC1 + PC2 + ⋅⋅⋅  + PC14 85.6 IC1 + IC2 + ⋅⋅⋅  + IC14 71.9
+PC1 + PC2 + ⋅⋅⋅  + PC15 85.0 IC1 + IC2 + ⋅⋅⋅  + IC15 71.8
+PC1 + PC2 + ⋅⋅⋅  + PC16 85.8 IC1 + IC2 + ⋅⋅⋅  + IC16 75.7
+PC1 + PC2 + ⋅⋅⋅  + PC17 85.9 IC1 + IC2 + ⋅⋅⋅  + IC17 74.9
+PC1 + PC2 + ⋅⋅⋅  + PC18 85.4 IC1 + IC2 + ⋅⋅⋅  + IC18 75.4
+PC1 + PC2 + ⋅⋅⋅  + PC19 86.0 IC1 + IC2 + ⋅⋅⋅  + IC19 75.9
+PC1 + PC2 + ⋅⋅⋅  + PC20 85.7 IC1 + IC2 + ⋅⋅⋅  + IC20 76.7
+PC1 + PC2 + ⋅⋅⋅  + PC21 85.4 IC1 + IC2 + ⋅⋅⋅  + IC21 79.9
+PC1 + PC2 + ⋅⋅⋅  + PC22 85.1 IC1 + IC2 + ⋅⋅⋅  + IC22 83.8
+PC1 + PC2 + ⋅⋅⋅  + PC23 85.6 IC1 + IC2 + ⋅⋅⋅  + IC23 84.0
+PC1 + PC2 + ⋅⋅⋅  + PC24 85.6 IC1 + IC2 + ⋅⋅⋅  + IC24 84.3
+PC1 + PC2 + ⋅⋅⋅  + PC25 85.4 IC1 + IC2 + ⋅⋅⋅  + IC25 84.3
+PC1 + PC2 + ⋅⋅⋅  + PC26 85.4 IC1 + IC2 + ⋅⋅⋅  + IC26 84.3
+PC1 + PC2 + ⋅⋅⋅  + PC27 85.0 IC1 + IC2 + ⋅⋅⋅  + IC27 84.4
+PC1 + PC2 + ⋅⋅⋅  + PC28 85.5 IC1 + IC2 + ⋅⋅⋅  + IC28 84.7
+PC1 + PC2 + ⋅⋅⋅  + PC29 85.3 IC1 + IC2 + ⋅⋅⋅  + IC29 84.4
+PC1 + PC2 + ⋅⋅⋅  + PC30 85.9 IC1 + IC2 + ⋅⋅⋅  + IC30 84.1
+PC1 + PC2 + ⋅⋅⋅  + PC31 85.8 IC1 + IC2 + ⋅⋅⋅  + IC31 84.8
+PC1 + PC2 + ⋅⋅⋅  + PC32 85.5 IC1 + IC2 + ⋅⋅⋅  + IC32 84.1
+PC1 + PC2 + ⋅⋅⋅  + PC33 85.5 IC1 + IC2 + ⋅⋅⋅  + IC33 84.5
+PC1 + PC2 + ⋅⋅⋅  + PC34 85.5 IC1 + IC2 + ⋅⋅⋅  + IC34 84.2
+PC1 + PC2 + ⋅⋅⋅  + PC35 85.6 IC1 + IC2 + ⋅⋅⋅  + IC35 83.9
+PC1 + PC2 + ⋅⋅⋅  + PC36 85.4 IC1 + IC2 + ⋅⋅⋅  + IC36 83.8
+PC1 + PC2 + ⋅⋅⋅  + PC37 85.0 IC1 + IC2 + ⋅⋅⋅  + IC37 83.8
+ SN Computer Science           (2023) 4:731 
+   731  Page 12 of 15
+SN Computer Science
+large number of features every time. The developed ontol-
+ogy contributes to the creation of consistent, accurate, and 
+interoperable labeled land cover datasets, which are cru-
+cial for various applications, such as land management, 
+environmental monitoring, and urban planning. In the 
+future, the developed ontology could also be extended to include more land cover classes, multi-source data fusion, 
+knowledge-based reasoning, and integration with machine 
+learning and decision support systems which can lead to 
+improved accuracy and decision-making capabilities in the 
+field of land cover identification.
+Fig. 4  Separability indices for distinct classes
+Table 5  Threshold range for land cover classes
+Feature1 Feature2 Feature 3
+Bare soil HV/VV:  Thresh1(HV/
+VV) <  =  I1 <  Thresh2(HH/HV)b*:  I1 <  =  Thresh1(b*) a*:  I1 >  Thresh4(a*)
+Water HH:  I2 <  =  Thresh1(HH) Lit:  I2 <  =  Thresh1(Lit) VV:  I2 <  =  Thresh1(VV)
+Urban Mean:  I3 >  Thresh4(Mean) LBP:  I3 >  Thresh4(LBP) Y:  I3 >  Thresh4(Y)
+Tall veg Lit:  Thresh3(Lit) <  =  I4 <  Thresh4(Lit) L*:  Thresh3(L*) <  =  I4 <  Thresh4(L*) Y:  Thresh3(Y) <  =  I4 <  Thresh4(Y)
+Short veg L*:  Thresh2(L*) <  =  I5 <  Thresh3(L*) WPS:  Thresh1(WPS) <  =  I5 <  Thresh2(WPS) Y:  Thresh1(Y) <  =  I5 <  Thresh2(Y)
+Table 6  LCL ontology
+LCL ontology Class, property
+Class SAR_Image, Land_Cover_Classes, Features
+Property Object Property, Data Property
+Object property ClassesOf, FeaturesOf, HasClasses, HasFeatures, has ProminentFeature, isProminentFeatureOf
+Data property has_max_a*_range, has_max_b*_range, has_max_HH_range, has_max_HV/VV_range, 
+has_max_L*_range, has_max_LBP_range, has_max_lightness_range, has_max_mean_range, 
+has_max_VV_range, has_max_WPS_range, has_max_Y_range,
+has_min_a*_range, has_min_b*_range, has_min_HH_range, has_min_HV/VV_range, 
+has_min_L*_range, has_min_LBP_range, has_min_lightness_range, has_min_mean_range, 
+has_min_VV_range, has_min_WPS_range, has_min_Y_range
+SN Computer Science           (2023) 4:731  
+ Page 13 of 15   731 
+SN Computer Science
+Acknowledgements The authors would also like to thank JAXA, 
+Japan, for providing the data.
+Declarations  
+Conflict of Interest On behalf of all authors, the corresponding author 
+states that there is no conflict of interest.
+References
+ 1. Gurevich B, Salvetti O, Trusova YO. Fundamental concepts and 
+elements of image analysis ontology. Pattern Recognit Image 
+Anal. 2009;19(4):603–11.
+ 2. Noy NF, McGuinness DL. Ontology development 101: a guide 
+to creating your first ontology. Stanford: Stanford University; 
+2001.
+ 3. Bittner T, Winter S. On ontology in image analysis, integrated 
+spatial databases digital images and GIS. Berlin: Springer; 
+1999. p. 168–91.
+ 4. Colantonio S, Martinelli M, Salvetti O. Ontology and algorithms 
+integration for image analysis. In: Internatinoal Workshop on 
+computational Intelligence for Multimedia Understanding. Ber -
+lin: Springer; 2011. p. 17–29.
+ 5. Gomez-Perez A, Fernández-López M, Corcho O. Ontological 
+engineering, vol. 139. Heidelberg: Springer; 2004.
+ 6. Zhou X, Xie X, Xue Y, Xue B. Ontology-based probabilistic 
+estimation for assessing semantic similarity of land use/land 
+cover classification systems. Land. 2021;10(9):920.
+ 7. Miranda E, Mutiara AB, Ernastuti E, Wibowo WC. Land cover 
+classification through ontology approach from sentinel-2 satel-
+lite imagery. Int J Geoinform. 2020;16(3):61–72.
+ 8. Chamundeeswari V, Singh D, Singh K. An analysis of texture 
+measures in PCA-based unsupervised classification of SAR 
+images. IEEE Geosci Remote Sens Lett. 2009;6:214–8. https://  
+doi. org/ 10. 1109/ LGRS. 2008. 20099 54.
+ 9. Dekker R. Texture analysis and classification of ERS SAR 
+images for map updating of urban areas in The Netherlands. 
+IEEE Trans Geosci Remote Sens. 2003;41:1950–8. https:// doi.  
+org/ 10. 1109/ TGRS. 2003. 814628.
+ 10. Uhlmann S, Kiranyaz S. Integrating color features in polarimet-
+ric SAR image classification. IEEE Trans Geosci Remote Sens. 
+2014;52:2197–216. https:// doi. org/ 10. 1109/ TGRS. 2013. 22586  
+75.
+ 11. Gupta S, Mishra P, Singh D, Kumar S. An approach to clas-
+sify tall vegetation and urban using deoriented PALSAR image. 
+IEEE Geosci Remote Sens Lett. 2017;14(12):2185–9.
+Fig. 5  a Classified results on data-1, b data-2, c data-3, d data-4Table 7  Confusion matrix for data-1 classification results
+Class Bare soil Water Urban Tall veg Short veg
+Bare soil 277 9 2 2 8
+Water 7 278 0 0 15
+Urban 0 0 297 82 0
+Tall veg 0 2 1 191 5
+Short veg 8 4 0 0 228
+Unclassified 8 7 0 0 44
+Total 300 300 300 275 300
+ SN Computer Science           (2023) 4:731 
+   731  Page 14 of 15
+SN Computer Science
+ 12. Gupta S, Singh D, Kumar S. Fusion of texture and wavelet fea -
+tures of PALSAR image using LDA and PCA for land cover 
+classification. Int J Image Data Fusion. 2017;8(4):354–74.
+ 13. Mishra P, Singh D. A statistical-measure-based adaptive land 
+cover classification algorithm by efficient utilization of pola-
+rimetric SAR observables. IEEE Trans Geosci Remote Sens. 
+2013;52:2889–900. https:// doi. org/ 10. 1109/ TGRS. 2013. 22675 48.
+ 14. Turkar V, Deo R, Rao YS, Mohan S, Das A. Classification accu-
+racy of multi-frequency and multi-polarization sar images for 
+various land covers. IEEE J Sel Topics Appl Earth Observat 
+Remote Sens. 2012;5:936–41. https:// doi. org/ 10. 1109/ JSTARS.  
+2012. 21929 15.
+ 15. Cao YG, Yan LJ, Zheng ZZ. Extraction of information on geol-
+ogy hazard from multi-polarization SAR images. In: Proceedings 
+ISPRS Congr. IAPRS: Beijing; 2008. p. 1529–32.
+ 16. Kim Y, Zyl JJV. A time-series approach to estimate soil moisture 
+using polarimetric radar data. IEEE Trans Geosci Remote Sens. 
+2009;47:2519–27. https:// doi. org/ 10. 1109/ TGRS. 2009. 20149 44.
+ 17. Corr DG, Walker A, Benz U, Lingenfelder I, Rodrigues A. Clas-
+sification of urban SAR imagery using object oriented techniques. 
+In: Proc. IEEE IGARSS. Toulouse: IEEE; 2003; p. 188–190. 
+https:// doi. org/ 10. 1109/ IGARSS. 2003. 12937 19
+ 18. Trudel M, Charbonneau F, Leconte R. Surface roughness clas-
+sification with multipolarized C-band SAR data. In: Proc. IEEE 
+IGARSS. Boston, MA, USA, 2008; vol. 2, p. II 727–II 730. 
+https:// doi. org/ 10. 1109/ IGARSS. 2003. 12937 19
+ 19. Pingxiang L, Shenghui F. SAR image classification based on its 
+texture features. Geo-spatial Inform Sci. 2003;6:16–9. https:// doi. 
+org/ 10. 1007/ BF028 26887.
+ 20. Kurosu T, Yokoyama S, Fujita M, Chiba K. Land use classifica-
+tion with textural analysis and the aggregation technique using 
+multi-temporal JERS-1 L-band SAR images. Int J Remote Sens. 
+2001;22:595–613. https:// doi. org/ 10. 1080/ 01431 16005 05058 74.
+ 21. Mahmoud A, Elbialy S, Pradhan B, Buchroithner M. Field-based 
+land cover classification using TerraSAR-X texture analysis. Adv 
+Space Res. 2011;48:799–805. https:// doi. org/ 10. 1016/j. asr. 2011.  
+04. 005.
+ 22. Zhang C, Xie Z. Combining object-based texture measures with 
+a neural network for vegetation mapping in the Everglades from 
+hyperspectral imagery. Remote Sens Environ. 2012;124:310–20. 
+https:// doi. org/ 10. 1016/j. rse. 2012. 05. 015.
+ 23. Kandaswamy U, Adjeroh D, Lee MC. Efficient texture analysis of 
+SAR imagery. IEEE Trans Geosci Remote Sens. 2005;43:2075–
+83. https:// doi. org/ 10. 1109/ TGRS. 2005. 852768.
+ 24. Acqua FD. Texture-based characterization of urban environ-
+ments on satellite SAR images. IEEE Trans Geosci Remote Sens. 
+2000;41:153–9. https:// doi. org/ 10. 1109/ TGRS. 2002. 807754.
+ 25. Ming D, Ci T, Cai H, Li L, Qiao C, Du J. Semivariogram-based 
+spatial bandwidth selection for remote sensing image segmenta-
+tion with mean-shift algorithm. IEEE Geosci Remote Sens Lett. 
+2012;9:813–7. https:// doi. org/ 10. 1109/ LGRS. 2011. 21826 04.
+ 26. Hadjileontiadis LJ. A texture-based classification of crackles and 
+squawks using lacunarity. IEEE Trans Biomed Eng. 2009;56:718–
+32. https:// doi. org/ 10. 1109/ TBME. 2008. 20117 47.
+ 27. Pietikäinen M, Ojala T, Xu Z. Rotation-invariant texture classifica-
+tion using feature distributions. Pattern Recognit. 2000;33:43–52.
+ 28. Novak LM, Owirka GJ, Netishen CM. Performance of a high-
+resolution polarimetric SAR automatic target recognition system. 
+Lincoln Lab J. 1993;6:11–23.
+ 29. Gonzalez RC, Woods RE. Digital image processing. Englewood 
+Cliffs: Prentice-Hall; 2002.
+ 30. Plataniotis KN, Venetsanopoulos AN. Color image processing and 
+application. Berlin: Springer; 2000.
+ 31. Haijiang W, Yiming P, Zongjie C. Unsupervised classification of 
+polarimetric SAR images based on ICA. In: Natural Computation, ICNC 2007, third International Conference. IEEE; 2007, vol. 3, 
+p. 576–582. https:// doi. org/ 10. 1109/ ICNC. 2007. 792
+ 32. Cui M, Prasad S, Mahrooghy M, Bruce LM, Aanstoos J. Genetic 
+algorithms and linear discriminant analysis based dimensional-
+ity reduction for remotely sensed image analysis. In: Proc. IEEE 
+IGARSS. Vancoever: IEEE; 2011; p. 2373–2376. https://  doi. org/ 
+10. 1109/ IGARSS. 2011. 60496 87
+ 33. Du P, Samat A, Waske B, Liu S, Li Z. Random Forest and Rota-
+tion Forest for fully polarized SAR image classification using 
+polarimetric and spatial features. ISPRS J Photogr Remote Sens. 
+2015;105:38–53. https://  doi. org/ 10. 1016/j.  isprs  jprs. 2015.  03. 002.
+ 34. Rodriguez-Galiano VF, Ghimire B, Rogan J, Chica-Olmo M, 
+Rigol-Sanchez JP. An assessment of the effectiveness of a random 
+forest classifier for land-cover classification. ISPRS J of Photogr 
+Remote Sens. 2012;67:93–104. https:// doi. org/ 10. 1016/j. isprs jprs.  
+2011. 11. 002.
+ 35. Gislason PO, Benediktsson JA, Sveinsson JR. Random forests for 
+land cover classification. Pattern Recognit Lett. 2006;27:294–300. 
+https:// doi. org/ 10. 1016/j. patrec. 2005. 08. 011.
+ 36. Genuer R, Poggi JM, Tuleau-Malot C. Variable selection using 
+random forests. Pattern Recognit Lett. 2010;31:2225–36. https://  
+doi. org/ 10. 1016/j. patrec. 2010. 03. 014.
+ 37. Archer KJ, Kimes RV. Empirical characterization of random 
+forest variable importance measures. Comput Stat Data Anal. 
+2008;52:2249–60. https:// doi. org/ 10. 1016/j. csda. 2007. 08. 015.
+ 38. Colantonio S, Gurevich I, Martinelli M, Salvetti O, Trusova Y. 
+Thesaurus-based ontology on image analysis. In: International 
+conference on semantic multimedia. Berlin: Springer; 2007. p. 
+113–6.
+ 39. Colantonio S, Gurevich I, Martinelli M, Salvetti O, Trusova Y. 
+Cell image analysis ontology. Pattern Recognit Image Anal. 
+2008;18(2):332–41.
+ 40. Maillot NE, Thonnat M. Ontology based complex object recogni-
+tion. Image Vis Comput. 2008;26(1):102–13.
+ 41. Poulos M, Korfiatis N. Developing a diagnosis aiding ontology 
+based on hysteroscopy image processing. In: Research Conference 
+on Metadata and Semantic, Research; 2010, p. 57–62
+ 42. Anouncia SM, Saravanan R. A knowledge model for gray 
+scale image interpretation with emphasis on welding defect 
+classification—an ontology based approach. J Comput Indus. 
+2010;61(8):742–9.
+ 43. Smailis CV, Iakovidis DK. Ontology-based automatic image 
+annotation exploiting generalized qualitative spatial semantics, 
+artificial intelligence: theories and applications lecture notes in 
+computer science. Berlin: Springer; 2012. p. 299–306.
+ 44. Blaschke T, Hay GJ, Kelly M, Lang S, Hofmann P, Addink E, 
+Feitosa RQ, Van der Meer F, Van der Werff H, Van Coillie F, 
+Tiede D. Geographic object-based image analysis–towards a new 
+paradigm. ISPRS J Photogr Remote Sens. 2014;87:180–91.
+ 45. Almendros-Jiménez JM, Domene L, Piedra-Fernández JA. A 
+framework for ocean satellite image classification based on 
+ontologies. IEEE J Select Top Appl Earth Observ Remote Sens. 
+2013;6(2):1048–63. https:// doi. org/ 10. 1109/ JSTARS. 2012. 22174 
+79.
+ 46. Bouyerbou H, Bechkoum K, Lepage R. Geographic ontology for 
+major disasters: methodology and implementation. Int J Disaster 
+Risk Reduct. 2019;34:232–42.
+ 47. Réjichi S, Chaabane F, Tupin F. Expert knowledge-based method 
+for satellite image time series analysis and interpretation. IEEE J 
+Select Top Appl Earth Observ Remote Sens. 2015;8(5):2138–50. 
+https:// doi. org/ 10. 1109/ JSTARS. 2015. 24332 57.
+ 48. Li Y, Ouyang S, Zhang Y. Combining deep learning and ontol-
+ogy reasoning for remote sensing image semantic segmentation. 
+Knowl-Based Syst. 2022;11(243): 108469.
+ 49. Li Y, Ouyang S, Zhang Y. Collaboratively boosting data-driven 
+deep learning and knowledge-guided ontological reasoning 
+SN Computer Science           (2023) 4:731  
+ Page 15 of 15   731 
+SN Computer Science
+for semantic segmentation of remote sensing imagery. 2020. 
+arXiv:2010.02451
+ 50. Murali E, Margret Anouncia S. An ontology-based knowledge 
+mining model for effective exploitation of agro information. IETE 
+J Res. 2022;1–18. https://  doi. org/ 10. 1080/  03772  063. 2022. 20586  
+29.
+ 51. Breiman L, Adele C. Random Forests for Beginners. 2014. http://  
+seman ticom munity. info/@ api/ deki/ files/ 35335/ RANDOM-  
+FORES  TS- FOR- BEGIN NERS. pdf.
+ 52. Otsu N. A threshold selection method from gray-level histograms. 
+IEEE Trans Syst Man Cybern SMC. 1979;9:62–6. https:// doi. org/  
+10. 1109/ TSMC. 1979. 43100 76.
+ 53. Tian H, Lam SK, Srikanthan T. Implementing Otsu’s thresholding 
+process approximation unit using area-time efficient logarithmic 
+approximation unit. In: Proc. IEEE ISCAS. 2003; pp. IV-21–
+IV-24. https:// doi. org/ 10. 1109/ ISCAS. 2003. 12057 63 54. Mittal V, Singh D, Saini LM. A critical analysis of EM based 
+fusion of different polarization data for effect on land cover clas-
+sification. Adv Space Res. 2015;56:1094–105. https:// doi. org/ 10.  
+1016/j. asr. 2015. 06. 004.
+Publisher's Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.

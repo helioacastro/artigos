@@ -1,0 +1,670 @@
+ 
+A Survey on Computational Aptitudes towards 
+Precision Agriculture using Data Mining  
+  
+E.Murali1 
+School of Computer Science and 
+Engineering  
+Vellore Institute of Technology  
+Vellore, India 
+ emurali88@gmail.com S.Margret Anouncia2* 
+School of Computer Science and 
+Engineering  
+Vellore Institute of Technology  
+Vellore, India 
+smargretanoucia@gmail.com 
+smargretanoucia@vit.ac.in  
+Abstract — Precision agriculture is a modern agriculture 
+implementation technique in which analysis of numerous 
+source data takes place for decision-making and operation in 
+the management of crop production. The data for precision 
+agriculture are collected through robots, sensors, satellites, and  
+drones. The two approaches of precision agriculture are the 
+predictive approach which is used for representing the static 
+indicator during the crop cycle whereas the control approach is 
+an updating of information Ontology is a demonstration of 
+concepts and their shared association. It can be used in a wid e 
+range of contexts, including the classification of agricultural 
+information and the development of knowledge bases. The 
+basic steps involved in precision farming are assessing 
+variation, managing variability, and evaluation. The various 
+tools used in precision farming are the internet of things (IoT), 
+a global positioning system (GPS), geographic information 
+system (GPS), remote sensor, proximate sensor technology, 
+grid sampling, etc. With the increase in information technology 
+in the field of agriculture. Consequently, data mining become 
+much essential for decision-making. This paper attempts to 
+emphasize the coherence of data mining approaches toward 
+helping precision agriculture as a valuable venture.  
+ 
+Keywords — Precision agriculture, Data mining, Ontology, 
+Sensor data, Agriculture. 
+I. INTRODUCTIO N  
+Precision agriculture is the application of modern 
+techniques for the analysis of data for decision-making and 
+crop management. The different new technologies used in 
+precision agriculture are automated steering systems, Geo-
+mapping, remote sensing, satellite positioning system, and 
+variable rate technology. Ultimately precision agriculture 
+aims to introduce automation in the field of agriculture. 
+However, these technologies are not much used by farmers 
+as there is not much awareness about the technologies. In 
+some cases, these technologies are cost too high which 
+farmers are not able to afford. There is a need for farmers to 
+get updated with technology. Despite all these issues, the 
+farmers must get updated with the latest technologies which 
+will make ease the agricultural process. Growth in the 
+computation approach has paved a way for the introduction 
+of data mining principles. Hence, this paper will help in 
+finding the advantages and disadvantages in the right 
+direction to improve the agriculture process.  
+II. PRECISION AGRICULTURE AND DATA MINING APPROACH  
+In general precision agriculture helps in improving crop 
+productivity with the help of information technology. Many approaches are discussed in the following section for 
+improving the crop yield of precision agriculture. Some of 
+the approaches that have developed in recent times are 
+highlighted .  
+ 
+A.  Vandana B[1] et al(2018) developed a novel strategy 
+with big data analytics to increase crop productivity. The 
+information is gathered from a real-time setting. Data 
+analyses employ classification and prediction techniques. As 
+a result, big data analytics is used to implement an efficient 
+decision-making system for increased crop productivity. 
+ 
+B. A  modular approach for crop health examination, and 
+recognition of weeds, and insects was proposed by Akhil 
+Kumar donka[3] et. al(2020). The input data are collected 
+through an unmanned aerial vehicle. TensorFlow is used to 
+construct a deep learning model for weed and insect 
+detection. Finally, a prediction accuracy of 89.5% is 
+attained .  
+ 
+C. A computer vision approach for evaluating red beet plant 
+count was proposed by A. Hassanzadeh[2] et al. (2021). 
+Input data is collected through a multispectral sensor which 
+is mounted on a DJI matrices 600 pro. Vegetation detection, 
+feature generation, and feature selection are part of 
+preprocessing . The plant count could be predicted using 
+partial least square regression, which showed promising 
+results.  
+ 
+D. In order to anticipate rainfall, J. S. A. N. W. 
+Premachandra[4] et al. (2021) have suggested a machine 
+learning-based method. The input dataset is collected from 
+the metrological department of the central environmental 
+authority. The collected dataset is preprocessed for data 
+consolidation, data reduction, data cleaning, and data 
+discretization which the same has been fed into four 
+machine learning algorithms such as Multiple Linear 
+Regression, Support Vector Machine, K Nearest Neighbors, 
+and Random Forest. As a result, it is observed that random 
+forest has a high accuracy of 89.16% .  
+ 
+E. EL HACHIMI Chouaib[5] et. al(2021) have proposed a 
+machine learning approach for crop suggestion and weather 
+estimation. Input data is segregated from an online dataset 
+which consists of 2200 instances. Machine learning models 
+like K-nearest neighbor, decision tree, random forest, Naïve 
+Bayes, and logistic regression are used for performance Proceedings of the Third International Conference on Smart Electronics and Communication (ICOSEC 2022)
+IEEE Xplore Part Number: CFP22V90-ART; ISBN: 978-1-6654-9764-0
+978-1-6654-9764-0/22/$31.00 ©2022 IEEE 9522022 3rd International Conference on Smart Electronics and Communication (ICOSEC) | 978-1-6654-9764-0/22/$31.00 ©2022 IEEE | DOI: 10.1109/ICOSEC54921.2022.9951960
+Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 15:52:33 UTC from IEEE Xplore.  Restrictions apply. 
+evaluation.  Finally,  random forest performs best in terms of 
+precision, accuracy, and recall.  
+III. PRECISION AGRICULTURE  DATA AND DATA ACQUIS ITION 
+METHOD  
+Precision a griculture is an approach used for getting high 
+yields than the traditional technique. Data plays a main role 
+in precision agriculture. The various  tools used to collect 
+data in  precision agriculture are sensors, the Internet of 
+Things, variable rate techn ology, automated steering 
+systems,  global positioning systems,  and geographic 
+information systems.  Each of the above  tools processes a 
+variety of  data such as  crop yields,  weeds, soil types,  
+weather conditions, different harvesting  operations, soil 
+moistur e content, and  amount of fertilizer used . The 
+different data acquisition is shown in fig 1.  The following 
+table highlights the data and data acquisition for the last 6 
+years  
+TABLE I.  DATA ACQUISITION AND PURPOSE  
+S 
+No Author  Sourc
+e of  
+Data  Data 
+Acquisition 
+equipme nt  Sector  Purpose  
+1. G.Sahity[
+6] (2017) 
+et. al  Wireless  
+Sensor  
+Network  ZIGBEE 
+technology  Precisio
+n 
+Agricult
+ure Transmissi
+on of real -
+time Data  
+2. Lorenzo 
+Comba[ 7]
+(2019) 
+et. al  Sensor  Unmanned 
+Aerial 
+Vehicle(UA
+V) Precisio
+n 
+Agricult
+ure 2D & 3D 
+data fusion 
+for crop 
+monitoring  
+3. Dimosth
+enis C. 
+Tsouros[8
+] (2019) 
+et. al  Sensor, 
+Camera, 
+GPS Unmanned 
+Aerial 
+Vehicle(UA
+V) Precisio
+n 
+Agricult
+ure The 
+outcome of 
+the data 
+analysis 
+method  and 
+its 
+application 
+in a 
+farming 
+operation  
+4. Avinash 
+J L[9] 
+(2020) 
+et. al  Wirel ess 
+Sensor 
+Network  XBee 
+technology  Precisio
+n 
+Agricult
+ure Assist 
+farmers to 
+maintain 
+agricultu ral 
+land 
+5. Jacob 
+Høxbroe 
+Jeppesen[
+10] (2020) 
+et. al  Satellite 
+Image  Satellite  Smart 
+Farming  Crop type 
+classificatio
+n  
+6. Yash 
+Bhojwan
+i[12] 
+(2020) 
+et. al  Sensor  Internet of 
+Things(IoT)  Precisio
+n 
+Agricult
+ure The crop 
+that is 
+suitable for 
+different 
+environmen
+tal 
+conditions  
+7. Rajani 
+Narayan 
+[11] 
+(2021) Sensor  Wireless  
+Sensor  Precisio
+n 
+Agricult
+ure Crop yield 
+prediction  et. al  Network  
+8. A.Bannar
+i[13] 
+(2021) 
+et. al  UAV 
+camera  Unmann
+ed Aerial 
+Vehicle(UA
+V) Precisio
+n 
+Agricult
+ure Information 
+for 
+application 
+in the 
+context of 
+precision 
+agriculture  
+9. Gabriel 
+da Silva 
+Vieira[14] 
+(2021) 
+et. al  Public 
+leaf 
+image 
+Database  Machine 
+learning 
+algorithm 
+and pattern  Smart 
+Farming  Automatic 
+leaf 
+analyses 
+and 
+reconstructi
+on of it  
+    10. Danilo 
+Cavaliere
+[15] 
+(2021) 
+et. al  Sensor  Normalized 
+Difference 
+Vegetation 
+Index 
+(NDVI)  Precisio
+n 
+Agricult
+ure Environme
+ntal 
+monitoring 
+of 
+vegetation 
+status  
+11. Hamid 
+Bagha[16]
+(2021) 
+et. al  Optical  
+sensor  Unmanned 
+Aerial 
+Vehicle(UA
+V) & 
+Internet of 
+Things  Precisio
+n 
+Agricult
+ure Plant health 
+analysis  
+12. Ila 
+Kaushik[1
+7] (2021) 
+et. al  Sensor  Internet of 
+Things(IoT)  Precisio
+n 
+Agricult
+ure Emphasize  
+the 
+significance 
+of 
+Integ rating 
+blockchain 
+technolog y 
+with smart 
+farming  
+13. Virupaxa
+ppa G[18] 
+(2021) 
+et. al  Sensor  Internet of 
+Things(IoT)  Smart 
+Agricult
+ure Role of IoT 
+in 
+agribusines
+s 
+ 
+IV. USING DATA MINING FOR AGRICULTURE DATA 
+PROCESSING  
+Different data processing methods that are used in 
+precision agriculture  in data mining are highlighted in this 
+section.  
+ 
+A. A study has been conducted by Kristoffer O. Flores[19] et. 
+al(2016) to observe the agriculture field. The input data are 
+collected through low -cost sensors such as  humidity, 
+temperature, moisture, lumin osity, electrical conductivity, 
+and pH are used. All sensors are linked  to a single Arduino 
+microcontroller board with an Xbee shield for wireless 
+communication. The sensor node is divided into three parts 
+(i)sensor, (ii)microcontroller, (iii)RF transmitte r. Fin ally, 
+each sensor collects the data at the  base station. The main 
+server displays the data in a visualized form to a farmer 
+about the status of the environment through a 
+GUI(Graphical user interface) and soil condition which in 
+turn helps for better productivity.  
+ Proceedings of the Third International Conference on Smart Electronics and Communication (ICOSEC 2022)
+IEEE Xplore Part Number: CFP22V90-ART; ISBN: 978-1-6654-9764-0
+978-1-6654-9764-0/22/$31.00 ©2022 IEEE 953
+Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 15:52:33 UTC from IEEE Xplore.  Restrictions apply. 
+B. A study has been conducted by E.Murali[20] et. al(2018) 
+to emphasize the data mining approaches for precision 
+agriculture. The data are collected through variable rate 
+technology, unmanned aerial vehicles, global positioning 
+system, mapp ing technology, and guidance technology. 
+Different data mining algorithms are studied which helps the 
+farmers for an effective decision model. Finally, the study 
+highlighted soil database maintenance, pest control, rainfall 
+prediction, and crop recommendat ion.  
+ 
+C. Grigore Stamatescu[21] et. al (2019)  proposed a data 
+analysis and processing approach to crop and soil 
+monitoring  for precision agriculture . The system 
+architecture consists of a field layer, fog computing layer, 
+cloud computing layer, and data p resentation layer. The data 
+are collected through sensors. To compute the performance 
+evaluation methods like the common linear interpolant and 
+two closely related interpolants, cubic spline and shape -
+preserving Piecewise Cubic He rmite Interpolating 
+Polyno mial are used. Finally,  an extensive assessment of 
+online decision -making by domain experts is obtained.  
+ 
+D. A prototype IoT -based smart farming for soil moisture 
+monitoring and analysis has been proposed by Supachai 
+Puengsungwan[22] et. al(2020). The IoT  device  consists of 
+cloud technology, user interface, and data analytics. The 
+input data are real -time data. The data are fed into 
+MATLAB for evaluation. As a result, soil moisture analysis 
+and monitoring have been implemented using real -time data.  
+ 
+E. A data processing for sentinel -1 SAR data and crop type 
+classification with visualization has been proposed by Jacob 
+Høxbroe Jeppesen[23] et. al(2020). The input data are 
+collected from sentinel -1A and sentinel -1B satellites. Data 
+visualization  is done for t hree different crop type s such as 
+forestry, maize, and rapeseed are discussed. Six machine 
+learning classifiers, including decision tree, random forest, 
+logistic regression, linear SVM, RBF SVM, and neural 
+network classifiers, are used to evaluate the data . Finally, 
+RBF SVM performs better concerning individual crops with 
+an overall accuracy of 94.02%.  
+ 
+F. To determine the stage of a cotton leaf, Zekai Feng[24] et 
+al. (2021) suggested an object detection technique based on 
+a faster RCNN. The data used as in put are taken from a 
+public dataset. The convolutional layer, pooling layer, 
+activation layer, fully connected layer, and output layer 
+make up the system architecture. The convolutional neural 
+network, candidate layer extraction, and detecting object 
+ident ification make up the algorithm. Finally, 80% of the 
+cotton leaf stage can be recognized by the system.  
+V. ONTOLOGY -BASED KNOWLEDGE MINI NG MODEL FOR 
+PRECISION AGRICULTUR E 
+Ontology -based Knowledge mining model for precision 
+agriculture that provides a recommen dation system, soil 
+mineral classification s, ontology -based prototype model, 
+and plant domain knowledge model are highlighted in this 
+section.  
+ 
+A. FAN Jing[25] et al(2008)  suggested an ontology -based 
+plant domain knowledge model . Plant knowledge and envir onment knowledge were separated from the plant 
+domain knowledge ontology. Finally, an effective approach 
+to knowledge modeling that makes use of ontologies was 
+shown.  
+B. A farmer helping system was proposed by 
+Shyamaladevi[26] et. al(2012) which integrates  web services 
+such as  soil information, crop disease information, plant 
+information, pesticides, and fungicides information. The 
+input data is semantically annotated data collected by the  
+sensor. The architecture consists of sensor ontology to form 
+a syste m ontology for knowledge representation. For 
+determining which soil is better for crop planting and 
+describing the pesticides and fungicides of a specific 
+disease, a rule -based engine is developed. As a result, 
+application enterprises and communities share  and reuse 
+data.  
+ 
+ C. Ontology -based knowledge management framework was 
+proposed by Patrizia Ribino[27] et. al(2009). Two ontology 
+domain model is represented which is based on structure 
+and modeling the concept of project development. Finally, 
+the Knowled ge management system prototype makes a rule -
+based system that can adapt its result to the possible change 
+in system ontology and document management system to 
+improve document searching, sharing, and discovery.  
+ 
+D.  A knowledge management approach for e -agriculture 
+has been proposed by Muhammad Ahsan[28] et. al(2014). 
+The data are collected through interviews, questionnaires, 
+observations, expert advice, observed data, image 
+documents, and reports. A prototype model is built to 
+demonstrate the result. As a  result, ontology -based 
+knowledge management has more  benefits than traditional 
+knowledge management techniques.  
+ 
+E. Ontology -based data access and integration for farming 
+in Nepal are proposed by Suresh Pokharel[29] et. al(2014). 
+The input data are ag riculture production statistics , weather 
+information, crop growing days inf ormation, soil 
+information , and administration data of Nepal. An ontology -
+based vocabulary is created from the dataset to integrate 
+data. As a result, AgriNepaldata is linked to an add itional 
+dataset that provides one structured dataset for agricultural 
+information.  
+ 
+F.  An ontology -based knowledge management system for 
+soil mineral classification and crop recommendation has 
+been proposed by E. Murali[30] et al. (2021). An online 
+databa se is used to gather the input data. The framework 
+comprises knowledge gathering and validation, the 
+development of an agricultural knowledge model, the design 
+of agricultural rules, and knowledge visualization. A 
+mechanis m for recommending crops has final ly been 
+created.  
+G. E.Murali[31] et. al(2021) have proposed multiple 
+ontology -based knowledge mining models for agriculture. 
+The framework consists of different ontologies like soil, 
+crop, location, and season ontology. Soil ontology provides  
+soil type as output, crop ontology provides crop type as 
+output, location ontology provides a different location in Proceedings of the Third International Conference on Smart Electronics and Communication (ICOSEC 2022)
+IEEE Xplore Part Number: CFP22V90-ART; ISBN: 978-1-6654-9764-0
+978-1-6654-9764-0/22/$31.00 ©2022 IEEE 954
+Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 15:52:33 UTC from IEEE Xplore.  Restrictions apply. 
+which crop can be grown, and season ontology provides 
+season in which crop can be grown. As a result, a multiple  
+ontology -based ontology model for agricu lture has been  
+developed.  
+ 
+ 
+Fig.1 Contribu tions of  compu tational toward agriculture to make precision 
+agriculture  
+ 
+VI. CONCLUSION  
+This study highlighted the different data mining 
+approaches, data processing, data acquisition, and ontology -
+based knowledge man agement model discussed. It is 
+observed study focuses on pest management, rainfall 
+prediction, crop recommendation, crop, and field monitoring 
+system, soil moisture detection, and crop health monitoring. 
+Technology integration with agriculture help in the success 
+of precision agriculture with the possibility of extending the 
+technology of further computerization . Existing research has 
+focused solely on a single type of vegetation, which is 
+considered a limitation.  As a future scope, multiple 
+vegetation can be focused on.  
+ 
+REFERENCES  
+[1]. B. Vandana and  S. S. Kumar, "A Novel Approach using Big  Data 
+Analytics to Improve the Crop Yield in Precision Agriculture,"  2018 
+Third IEEE International Conference on Recent Trends in 
+Electronics, Information & Communication Te chnology (RTEICT) , 
+2018, pp. 824 -827, DOI: 10.1109/RTEICT42901.2018.9012549.  
+ 
+[2]. A. Hassanzadeh, J. van Aard t, J. Kikkert, S. Pethybridge, S. Murphy 
+and D. Cross, "Plant Counts in Dense Red Beet Crops: A Compu ter 
+Vision Approach,"  2021 IEEE International Geos cience and Remote 
+Sensing Symposium IGARSS , 2021, pp. 6508 -6511, DOI: 
+10.1109/IGARSS47720.2021.9553481.   
+[3]. A. K. Donka, J. A. R. Seerapu, S. Verma, A. Sao, G. Shukla, and S. 
+Tripathi, "Unmanned Aerial Vehicle for Precision Ag riculture in a 
+Modular Approach,"  2020 IEEE 7th Uttar Pradesh Section 
+International Conference on Electrical, Electronics and Computer 
+Engineering (UPCON) , 2020, pp. 1 -5, DOI: 
+10.1109/UPCON50219.2020.9376521.   
+ 
+[4]. J. S. A. N. W. Premachandra and P. P. N. V. Kumara, "A novel 
+approach for weat her prediction for ag riculture in Sri Lanka using  
+Machine Learning techniques,"  2021 International Research 
+Conference on Smart Computing and Systems Engineering (SCSE) , 
+2021, pp. 182 -189, DOI: 10.1109/SCSE53661.2021.9568319.   
+ 
+[5]. C. El Hachimi, S. Belaqziz, S. Khabba, and A. Chehb ouni, "Towards 
+precision agriculture in Morocco: A machine learning approach for 
+recommending  crops and forecasting  weather," 2021 International 
+Conference on Digital Age & Technological Advances for Sustainable 
+Development (ICDATA) , 2021, pp. 88 -95, DOI: 
+10.1109/ICDATA52997.2021.00026.  
+ 
+[6]. G. Sahitya, N. Balaji, C. D. Naidu, and S. Abinaya, "Desig ning a 
+Wireless Sensor Network for Precision Agriculture Using Zigbee," 
+2017 IEEE Seventh International Advance Computing Conference 
+(IACC) , 2017, pp. 287 -291, DOI: 10.1109/IACC.2017.0069.  
+ 
+[7]. L. Comba, A. Biglia, D. R. Aimonino, P. Barge, C. Tortia and P. Gay, 
+"2D and  3D data fusion for crop monitoring in precision 
+agricultu re,"  2019 IEEE International Workshop on Metrology for 
+Agriculture and For estry (MetroAgriFor) , 2019, pp. 62 -67, DOI: 
+10.1109/MetroAgriFor.2019.8909219.  
+ 
+[8]. D. C. Tsouros, A. Triantafyllou, S. Bibi and P. G. Sarigannidis, "Data 
+Acquisition and Analysis Methods in UAV - based  Applications for 
+Precision Agriculture,"  2019 Fifteen Inte rnational Conference on 
+Distributed Computing in Sensor Systems (DCOSS) , 2019, pp. 377 -
+384, DOI: 10.1109/DCOSS.2019.00080.  
+ 
+[9]. J. L. Avinash, K. N. Sunil Kumar, G. B. Arjun Ku mar, G. R. 
+Poornima, R. Gatti, and S. Santosh Kumar, "A Wireless Sensor 
+Network Base d Precision Agriculture," 2020 International 
+Conference on Recent Trends on Electronics, Information, 
+Communication & Technology (RTEICT) , 2020, pp. 413 -417, DOI: 
+10.1109/RTEICT49044.2020.9315578.   
+ 
+[10]. J J. H. Jeppesen, R. H. Jacobsen, and R. N. Jørgensen, "C rop Type 
+Classification based on Machine Learning with Multitemporal 
+Sentinel -1 Data," 2020 Twenty -third Euromicro Conference on 
+Digital System Design (DSD) , 2020, pp. 557 -564, DOI: 
+10.1109/DSD51259.2020.00092.   
+ 
+[11]. R. Narayan and N. Nageshwari, "A Wi -Fi Base d Smart Energ y 
+Efficient Wireless Sensor Network for Yield Prediction in Precision 
+Agricultu re,"  2021 International Conference on Circuits, Controls 
+and Communications (CCUBE) , 2021, pp. 1 -5, DOI: 
+10.1109/CCUBE53681.2021.9702713.   
+ 
+[12]. Y. Bhojwani, R. Singh, R . Reddy, and B. Perumal, "Crop Selection 
+and IoT Based Monitoring  System for Precision Agriculture," 2020 
+International Conference on Emerging Trends in Information 
+Technology and Engineering (ic -ETITE) , 2020, pp. 1 -11, DOI: 
+10.1109/ic -ETITE47903.2020.123.  
+ 
+[13]. A. Bannari, A. Selouani, M. El -Basri, H. Rhinane, A. El -Harti, and A. 
+El-Ghmari, "Multi -Scale Analysis of DEMs Derived from Unmanned  
+Aerial Vehicle (UAV) in Precision Agriculture Context," 2021 IEEE 
+International Geoscience and Remote Sensing Symposium I GARSS , 
+2021, pp. 8285 -8288, DOI: 10.1109/IGARSS47720.2021.9554020.   
+ 
+[14]. G. D. Silva Vieira, N. Maria de Sousa, B. Rocha, A. U. Fonseca, and  
+F. Soares, "A Method for the Detection and Reconstruction of Foliar 
+Damage caused by Predatory Insects," 2021 IEEE Fort y Fifth Annual 
+Computers, Software, and Applications Conference (COMPSAC) , 
+2021, pp. 1502 -1507, DOI: 10.1109/COMPSAC51774.2021.00223.   
+ 
+[15]. D. Cavaliere and S. Senatore, "A multi -agent knowledge -enhanced  
+model for decision -supporting ag roforestry systems,"  2021 IEEE Proceedings of the Third International Conference on Smart Electronics and Communication (ICOSEC 2022)
+IEEE Xplore Part Number: CFP22V90-ART; ISBN: 978-1-6654-9764-0
+978-1-6654-9764-0/22/$31.00 ©2022 IEEE 955
+Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 15:52:33 UTC from IEEE Xplore.  Restrictions apply. 
+Symposium Series on Computational Intelligence (SSCI) , 2021, pp. 
+01-08, DOI: 10.1109/SSCI50451.2021.9660056.  
+ 
+[16]. H. Bagha, A. Yavari, and D. Georgakopoulos, "IoT -based Plant 
+Health Analysis using Optical Sensors in Precision Agriculture," 2021 
+Digital Image Computing: Techniques and Applications (DICTA) , 
+2021, pp. 01 -08, DOI: 10.1109/DICTA52665.2021.9647066.   
+ 
+[17]. I. Kaushik, N. Prakash and A. Jain, "Integration of Blockchain& IoT 
+in Precision Farming: Exploration, Scope and Security 
+Challenges,"  2021 IEEE 12th Annual Ubiquitous Computing, 
+Electronics & Mobile Communication Conference (UEMCON) , 2021, 
+pp. 0854 -0859, DOI: 10.1109/UEMCON53757.2021.9666554.  
+ 
+[18]. V. G and S. Thangam, "Smart ag riculture and role of IoT," 2021 
+Third International Conference on Inventiv e Research in Computing 
+Applications (ICIRCA) , 2021, pp. 1 -6, DOI: 
+10.1109/ICIRCA51532.2021.9545042.   
+ 
+[19]. K. O. Flores, I. M. Butaslac, J. E. M. Gonzales, S. M. G. Dumlao, and  
+R. S. J. Reyes, "Precision agriculture monitoring system using  
+wireless sensor netw ork and Raspberry Pi local server," 2016 IEEE 
+Region 10 Conference (TENCON) , 2016, pp. 3018 -3021, DOI: 
+10.1109/TENCON.2016.7848600.  
+ 
+[20]. Murali, E., & Anouncia, S.M, "A comprehension of rational in the 
+compu tational aptitudes towards precision agriculture". Indian 
+Journal of Public Health Research and Development(2018), 9 (10) 
+1025.  DOI: 10.5958/0976 -5506.2018.01136.1  
+ 
+[21]. G. Stamatescu, C. Drăgana, I. Stamatescu, L. Ichim, and D. Popescu , 
+"IoT-Enabled Distributed Data Processing for Precision Agricultu re" 
+27th Medi terranean Conference on Control and Automation (MED) 
+2019 , 286 -291, DOI: 10.1109/MED.2019.8798504.  
+ 
+[22]. S. Puengsungwan," IoT b ased Soil Moisture Sensor for Smart 
+Farming" International Conference on Power, Energy, and 
+Innovations (ICPEI) 2020 , pp. 221 -224, DO I: 
+10.1109/ICPEI49860.2020.9431455.  
+ 
+[23]. J. H. Jeppesen, R. H. Jacobsen, and R. N. Jørgensen, "Crop Type 
+Classification based on Machine Learning with Multitemporal 
+Sentinel -1 Data" Twenty -third Euromicro Conference on Digital System Design (DSD)2020 , pp.557 -564, DOI: 
+10.1109/DSD51259.2020.00092.  
+[24]. Z. Feng, G. Kang, F. Zeng, and X. Yue, "Identification of Cotton 
+Growing Stage Based on Faster -RCNN," 2021 IEEE International 
+Performance, Computing, and Communications Conference 
+(IPCCC) , 2021, pp. 1 -6, DOI: 10.1109/I PCCC51483.2021.9679423.  
+ 
+[25]. J. Fan, X. Zhang, and T. Dong, "Research of Plant Domain 
+Knowledge Model Based  on Ontology," 2008 Third International 
+Conference on Innovative Computing Information and Control , 2008, 
+pp. 108 -108, DOI: 10.1109/ICICIC.2008.451.  
+ 
+[26]. K. Shyamaladevi, T. T. Mirnalinee, T. E. Trueman and R. Kaladevi, 
+"Design of ontolog y -based ubiquitous web for agriculture — A 
+farmer helping system," 2012 International Conference on 
+Computing, Communication and Applications , 2012, pp. 1 -6, DOI: 
+10.1109/ICCC A.2012.6179214.  
+ 
+[27]. P. Ribino, A. Oliveri, G. L. Re, and S. Gaglio, "A Knowledge 
+Management System Based on Ontologies", International Conference 
+on New Trends in Information and Service Science  2009, pp.1025 -
+1033, DOI: 10.1109/NISS.2009.105.  
+ 
+[28]. M. Ahsan, Y. H.  Motla and  M. Asim," Knowledge modeling fore -
+agricultu re using ontology".  International Conference on Open 
+Source Systems & Technologies , 2014, pp.112 -122, DOI: 
+10.1109/ICOSST.2014.7029330.  
+ 
+[29]. S. Pokharel, M. A. Sherif and  J. Lehmann,"Ontology Based  Data 
+Access and Integration for Improving the Effectiveness of Farming in 
+Nepal" IEEE/WIC/ACM International Joint Conferences on Web 
+Intelligence (WI) and Intelligent Agent Technologies (IAT) 2014 , 
+pp.319 -326, DOI: 10.1109/WI -IAT.2014.114.  
+ 
+[30]. E.Murali, Anouncia, S.M , "Development of soil mineral classification 
+using ontology mining",  Arabian Journal of Geoscience  2021, 
+Vol.14, 1371. https://doi.org/10.1007/s12517 -021-07651 -w 
+ 
+[31]. E. Murali & S. Margret Anouncia, "An Ontolog y -based Knowledge 
+Mining Model for Effective Exp loitation of Agro Information". IETE 
+Journal of Research, 2022  DOI:10.1080/03772063.2022.2058629  
+ 
+ 
+ Proceedings of the Third International Conference on Smart Electronics and Communication (ICOSEC 2022)
+IEEE Xplore Part Number: CFP22V90-ART; ISBN: 978-1-6654-9764-0
+978-1-6654-9764-0/22/$31.00 ©2022 IEEE 956
+Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 15:52:33 UTC from IEEE Xplore.  Restrictions apply. 

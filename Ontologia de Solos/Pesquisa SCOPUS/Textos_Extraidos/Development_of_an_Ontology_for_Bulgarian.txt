@@ -1,0 +1,367 @@
+International Conference AUTOMATICS AND INFORMATICS `2023, October 05 - 07, 2023, Varna, Bulgaria (ICAI '23) 
+ 
+979-8-3503-1291-1/23/$31.00 ©2023 IEEE Development of an ontology for Bulgarian soil 
+types 
+ 
+Asya Stoyanova-Doycheva   
+Dept. of Computer Systems  
+University of Plovdiv “Paisii 
+Hilendarski” 
+Plovdiv, Bulgaria 
+IICT, Bulgarian Academy of Sciences 
+Sofia, Bulgaria 
+astoyanova@uni-plovdiv.net  Sebiha Madanska 
+Dept. of Computer Systems  
+University of Plovdiv “Paisii 
+Hilendarski” 
+Plovdiv, Bulgaria 
+sebimadanska@uni-plovdiv.bg   Sheban Bilyanov  
+Dept. of Residential Buildings,  
+University of Architecture, Civil 
+Engineering and Geodesy 
+Sofia, Bulgaria 
+sh.bilqnov_far@uacg.bg   
+Abstract—The article presents the development of an ontology 
+for the Taxonomic List of Soils in Bulgaria (accord ing to the FAO 
+World System). In addition to soil types, the ontol ogy includes 
+knowledge about the different agro-climatic regions  in Bulgaria 
+that are suitable for cultivating various agricultu ral crops. The 
+ontology is part of the knowledge base of the ZEMEL A platform 
+for smart agriculture.  
+Keywords— ontology, intelligent agriculture, ZEMELA,  
+Bulgarian soil 
+I.  INTRODUCTION  
+Agriculture is an important sector in the economy o f 
+Bulgaria. Increasing attention is being given to th e 
+development of concepts and tools that utilize vari ous 
+technologies and systems for automation and optimiz ation of 
+agricultural processes. This process of automation,  
+facilitation, and improvement of processes in agric ulture is 
+known as smart farming or precision agriculture. Ap proaches 
+to implementing smart farming include the use of a suitable 
+combination of sensors, data collection devices, th e Internet 
+of Things (IoT), artificial intelligence (AI), and others, aimed 
+at enhancing the efficiency, productivity, and sust ainability of 
+agricultural operations. Sensors are used to gather  information 
+on various parameters in the agricultural process, such as soil, 
+moisture, temperature, and plant growth. This data is analyzed 
+to make informed decisions and take appropriate act ions in 
+crop cultivation. 
+The goal of this article is to present the use of o ntologies 
+in the context of intelligent agriculture. The rese arch is part of 
+the intelligent farming platform called ZEMELA [1].  The 
+architecture of ZEMELA includes an intelligent assi stant [2] 
+that assists farmers in cultivating various crops b y providing 
+them with information about plant growth and any in cidental 
+events that occur during cultivation. To perform an alyses on 
+the state of agricultural crops, the assistant reli es on 
+foundational knowledge about the physiological deve lopment 
+of crops [3], plant taxonomy [4], environmental con ditions, 
+and more. This knowledge is stored in the form of o ntologies, 
+frames, and other structures within the ADK center,  which is 
+a component of the ZEMELA architecture. 
+A core part of the ADK Center comprises ontologies that 
+store fundamental knowledge about the cultivation o f various 
+agricultural crops. The ontologies in the Center ar e divided 
+into three main types - domain ontologies, event on tologies, 
+and task ontologies. • Domain ontologies contain structured knowledge 
+commonly accepted in the field of plant science. 
+This includes knowledge about plant taxonomy, 
+soil characteristics, and others. 
+• Event ontologies contain knowledge about the 
+cultivation of various agricultural crops. This 
+includes the developmental stages of plants and 
+the conditions under which they transition from 
+one phase to another. Each crop has its own 
+dedicated event ontology. Additionally, these 
+ontologies describe various emergency events 
+that may occur during crop cultivation, such as 
+drought, disease outbreaks, pest infestations, and 
+others. 
+• Task ontologies are related to the activities that 
+farmers need to perform in response to specific 
+events. These activities include transitioning 
+crops from one phase to another or carrying out 
+necessary tasks during emergency events. 
+Examples of such tasks include spraying with 
+various pesticides or herbicides, irrigation, 
+fertilization, and others. 
+In the article, we will focus in detail on one of t he 
+ontologies related to soil types in Bulgaria. The o ntology 
+presents knowledge about soil types as well as info rmation 
+about different regions with soils in Bulgaria that  are suitable 
+for cultivating various types of crops. 
+II.  STATE OF THE ART  
+Different crops have varying requirements for soil in terms 
+of texture, structure, pH value, drainage, and nutr ient content. 
+Farmers pay particular attention to the characteris tics of the 
+soil in which they will cultivate a specific crop i n order to 
+achieve optimal yields. They also focus on preservi ng the 
+soil's characteristics and nutrient levels from a f ertilization 
+perspective. In this regard, numerous developments exist. 
+The International Union of Soil Sciences (IUSS) is an 
+international society that brings together scholars  and 
+professionals in the field of soil science. They ha ve resources 
+and publications related to soil classification and  
+characteristics [5]. The World Soil Information (IS RIC) is a 
+global center for soil information that provides da ta, maps, and 
+online services related to soils. They have online resources 
+and databases that present soil types [6]. The Euro pean Soil 
+3782023 International Conference Automatics and Informatics (ICAI) | 979-8-3503-1291-1/23/$31.00 ©2023 IEEE | DOI: 10.1109/ICAI58806.2023.10339031
+Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 16:30:45 UTC from IEEE Xplore.  Restrictions apply. 
+Data Centre (ESDAC) is a soil information center es tablished 
+by the European Commission. They provide data, maps , and 
+tools that aid in the analysis and understanding of  soil 
+resources in Europe [7]. 
+There are also numerous ontologies developed for so il 
+taxonomy, soil properties, and soil content, intend ed for 
+various purposes and fields. In [8], the authors pr esent an 
+ontology for soil characteristics relevant to road construction 
+and infrastructure. The authors of [9] present an o ntology of 
+soil taxonomy in India. In [10], an ontology is cre ated for 
+storing detailed information about soil composition  with 
+various minerals. The ontology provides structured and 
+formalized knowledge that can be extracted for diff erent 
+models, ultimately resulting in crop recommendation s and 
+suitable soil compositions. 
+In this article, an ontology for soils in Bulgaria will be 
+presented, which also includes agro-climatic region s with 
+soils in Bulgaria suitable for cultivating differen t crops. 
+III.  BULGARIAN SOILS ONTOLOGY & AGRO -CLIMATIC 
+ZONING  
+We are not aware of the existence of another ontolo gy 
+focused on the study of soils regarding the locatio n of Bulgaria 
+and the so-called agro-climatic zoning of plant cro ps. The 
+ontology itself is developed in Protégé OWL-ontolog y 
+development environment [11].  
+It includes a total of 787 axioms, 295 logical axio ms, 161 
+declaration axioms, 123 classes, 6 object propertie s, 10 data 
+properties, 20 individuals and 5 types annotation p roperties 
+used (rdfs:comment, schema:image, source, rdfs:labe l on 
+Bulgarian and on English, and rdfs:seeAlso). The on tology is 
+being developed and is still a work in progress. 
+A.  Class hierarchy 
+The class hierarchy in the ontology for Bulgarian s oils 
+follows the Taxonomic List of Soils in Bulgaria (ac cording to 
+the FAO World System) by Professor Doctor Nino Nino v 
+[12], and regarding the zoning of crops and their s uitability – 
+the Bulgarian National Soil Survey’s studies [13].  
+The current state of the Bulgarian soils ontology ( as 
+metrics) is presented on Fig. 1. 
+ 
+Fig. 1.   Metrics of the Bulgarian soils ontology 
+The ontology includes a taxonomy of the soils on th e 
+territory of Bulgaria. They are used as predominant  types of 
+soils in the descriptions of the agro-climatic zoni ng of popular 
+plant crops like wheat - also including humus conte nt, level of benignity of the soil in view of the plant cultures . Soils are 
+divided into two main types - azonal and zonal. For  example, 
+fertile chernozems belong to zonal soils. They are widespread 
+in Northern Bulgaria, about 20% of the total area o f the 
+country [12]. An illustration of the taxonomy of al l soil types 
+represented as classes and some other classes is de picted in 
+Fig. 2. Several classes (namely Plant, 
+AgroclimaticZoningOfPlantCulture, Soil, Location, C limate ) 
+are subclasses of the base class owl:Thing  – and some of them 
+also have their subclasses. Each class is accompani ed by 
+additional information, which includes labels in tw o 
+languages. Some classes are described with comments , 
+pictures and links to additional sources of informa tion. The 
+information included as comments and pictures is pr esented 
+also with source  property. 
+ 
+Fig. 2.  Main class hierarchy  
+Disjointness axioms are attached, which means that two 
+classes with no possible instance belonging to both  must be 
+clearly stated. This is because of the ‘Open World 
+Assumption’, which is one of the bases of Ontology 
+Engineering in OWL. For the same reason, in the des criptions 
+of some of the classes (e.g. Soil, AzonalSoil, ZonalSoil , etc.) 
+the so-called ‘covering axioms’ were used. For inst ance, the 
+class Soil  is described with axiom as being either AzonalSoil  
+or ZonalSoil , which means that the class is defined only by a 
+specific set of classes.  
+Most of the classes are primitive (e.g. 
+EutricGleysolsAzonalSoil ), i.e. they have only necessary 
+conditions, while there are also defined classes - with 
+379Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 16:30:45 UTC from IEEE Xplore.  Restrictions apply. 
+necessary and sufficient conditions, for example, 
+WheatSoilZoning (Fig. 3),  which is defined class and also 
+enumerated class with a list of its possible indivi duals.  
+ 
+Source of information - rdfs:comment, schema:image:  nationalsoils.com [13] 
+Fig. 3.  WheatSoilZoning class description and annotations  
+B.  Object properties 
+Object properties are these that are used to connec t class 
+of individuals with other class of individuals, or a specific 
+individual with others. The object properties in th e ontology 
+are: accordingToPlant, growsWellIn, hasClimate, 
+isLocatedIn, isSuitableForGrowing and withPredomina nt . 
+They have further characteristics. For example, growsWellIn  
+is irreflexive property, with domain – class Plant , and range – 
+class Soil.  Its inverse property is isSuitableForGrowing (also 
+irreflexive). The accordingToPlant  property is functional and 
+inverse functional, with the class 
+AgroclimaticZoningOfPlantCulture as domain and the class 
+Plant as range. 
+C.  Data properties 
+Data property’s purpose is to connect a class of in dividuals 
+(or individual) with value from a specific data typ e. The data 
+properties in the ontology are: hasBenignity (with sub-
+properties hasGreatestBenignity and hasLowestBenignity) , 
+hasHumusContentPercentage  (with sub-properties 
+hasAtLeastHumusContentPercentage  and 
+hasTheBiggestHumusContentPercentage ), hasLatitude, 
+hasLongitude, hasOptimalTimeForSowing and  рН.   
+There are criteria which describe the most benefici al soil 
+for concrete plant culture. Therefore, the 
+hasHumusContentPercentage  property is included, and 
+annotated with metadata type ‘label’ on Bulgarian a nd English 
+languages. Its domain is the 
+AgroclimaticZoningOfPlantCulture  class, but its range is the 
+following axiom: xsd:double[>= "0.0"^^xsd:double , <= 
+"100.0"^^xsd:double] .  
+Another important property for the concept is 
+hasBenignity . Its domain is the class 
+AgroclimaticZoningOfPlantCulture , and its range is the 
+following axiom: xsd:integer[>= 0 , <= 100].  Some other properties in the ontology are hasLongitude  and hasLatitude , 
+with domain – the classes Soil  and 
+AgroclimaticZoningOfPlantCulture, and range – specific 
+value from a data type decimal. 
+D.  Individuals 
+The specific agro-climatic regions of plant culture s are 
+presented as individuals. For example, the 
+TwelfthWheatRegion  individual (on Fig. 4, illustrated using 
+Protégé’s OntoGraf plug-in) is an instance of the 
+WheatSoilZoning  class. Its description corresponds to the 
+following axiom: WheatSoilZoning and (withPredominant 
+some (ChromicLuvisolsZonalSoil or 
+GleyicChernozemsZonalSoil or PlanosolsZonalSoil or 
+VetricZonalSoil)).  Typically, they contain 1.5% humus, and 
+the benignity from the subtypes of soil in the regi on varies 
+from 62 to 83 points [13].    
+ 
+ 
+Source of information in annotations nationalsoils.com  [13] 
+Fig. 4.  OntoGraf view of the TwelfthWheatRegion individual 
+380Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 16:30:45 UTC from IEEE Xplore.  Restrictions apply. 
+Similarly, other agro-climatic regions of plant cul tures are 
+described, using the study by the Bulgarian Nationa l Soil 
+Survey [13] (in the ontology there are also attache d assertions 
+as rdfs:comments from the National Soil Survey’s si te). 
+Illustratively, the FirstWheatRegion  individual and its 
+annotations, descriptions and property assertions a re 
+presented on Fig. 5. 
+ 
+Source of information in rdfs:comment: nationalsoils.com  [13] 
+Fig. 5.  FirstWheatRegion: description, annotations, propert y assertions 
+IV.  REASONING  
+ The 16 th  wheat specific agro-climatic regions are 
+individuals of the class WheatSoilZoning , but the class itself 
+has also 3 subclasses, namely: 
+WheatRegionWithHighBenignity, 
+WheatRegionWithLowdBenignity, 
+WheatRegionWithMidBenignity,  which are described as 
+equivalent classes with necessary and sufficient co nditions – 
+similar to the following axiom: hasBenignity some 
+xsd:integer[>= 64 , < 100] . The range is conditional, 
+according to the individual agro-climatic zoning be nignity 
+values. 
+After a reasoning process with the Hermit Reasoner [14] 
+(which as mentioned in [15] is fast and accurate at  ontology 
+classification Reasoner), some individual agro-clim atic 
+regions are deduced as individuals of the defined c lasses 
+(illustrated on Fig. 6).  
+ 
+Fig. 6.  WheatRegionWithHighBenignity class reasoning This is due to the fact they are described with axi oms by 
+using the same data property, connecting the indivi dual with 
+value corresponding to the range in class’s conditi on (which 
+is not only necessary, but sufficient as mentioned) . Therefore, 
+they meet this condition and can be considered as i ts instances. 
+ 
+CONCLUSIONS  
+The article introduces a unique Bulgarian soil onto logy 
+designed to classify and categorize soil types with in the 
+country. This ontology is a valuable resource for f armers as it 
+provides insights into soil suitability for various  crops based 
+on criteria such as humus content and benignity. Th rough 
+reasoning processes, it allows for the classificati on of agro-
+climatic regions based on soil characteristics, fac ilitating 
+precise agricultural planning. 
+Furthermore, the article emphasizes that the soil o ntology 
+is an ongoing project. This suggests that there are  plans for 
+future development and refinement of the ontology. This 
+ongoing work could involve expanding the ontology t o 
+include additional soil properties, incorporating n ew research 
+findings, or enhancing its usability for farmers an d 
+researchers. 
+In summary, the Bulgarian soil ontology not only se rves 
+as a current tool for agricultural decision-making but also 
+signifies a commitment to its continued improvement  to meet 
+evolving agricultural needs. The soil ontology deve loped for 
+agriculture could have applications beyond farming,  
+potentially in the field of building foundations in  architecture.  
+ 
+ACKNOWLEDGMENT  
+This work is supported by the Bulgarian Ministry of  
+Education and Science under the National Research P rogram 
+“Smart crop production” approved by Decision of the  
+Ministry Council №866/26.11.2020. 
+ 
+REFERENCES  
+[1]  S. Stoyanov, J. Todorov, I. Stoyanov, V. Tabakova-K omsalova, L. 
+Dukovska, “ZEMELA – an intelligent agriculture plat form,” Big Data, 
+Knowledge and Control Systems Engineering – BdKCSE' 2021, 28–29 
+October 2021, Sofia, Bulgaria, 
+https://ieeexplore.ieee.org/document/9627248   
+[2]  I. Stoyanov, A. Stoyanova-Doycheva, I. Krasteva, Z.  Uhr, “A Personal 
+assistant supporting agriculture operators,” 2020 I EEE 10th 
+International Conference on Intelligent Systems, IS  2020 - 
+Proceedings, 2020, pp. 584–589, ISBN: 978-172815456 -5, DOI: 
+10.1109/IS48319.2020.9199953, 
+https://ieeexplore.ieee.org/document/9199953   
+https://www.scopus.com/authid/detail.uri?authorId=3 4880680500    
+[3]  A. Stoyanova-Doycheva, E. Doychev, V. Ivanova, V. V alkanov, V. 
+Tabakova-Komsalova, “Event ontology about wheat cul tivation,” 7th 
+IFAC Conference on Sensing, Control and Automation Technologies 
+for Agriculture AGRICONTROL 2022: Munich, Germany, September 
+14-16, 2022, IFAC-PapersOnLine, Volume 55, Issue 32 , 2022, Pages 
+206-210, https://doi.org/10.1016/j.ifacol.2022.11.140   
+[4]  A. Stoyanova-Doycheva, V. Ivanova, E. Doychev, K. S passova, 
+“Development of an ontology in plant genetic resour ces,” 2020 IEEE 
+10th International Conference on Intelligent System s, IS 2020 - 
+Proceedings, 2020, pp. 246–251, ISBN: 978-172815456 -5, DOI: 
+10.1109/IS48319.2020.9199935, 
+https://ieeexplore.ieee.org/document/9199935    
+[5]  Union of Soil Sciences (IUSS), https://www.iuss.org/   
+[6]  World Soil Information (ISRIC), https://www.isric.org/   
+381Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 16:30:45 UTC from IEEE Xplore.  Restrictions apply. 
+[7]  European Soil Data Centre (ESDAC), https://esdac.jrc.ec.europa.eu/   
+[8]  H. Du, et al. “An ontology of soil properties and p rocesses,” In: The 
+Semantic Web – ISWC 2016. ISWC 2016. Lecture Notes in Computer 
+Science(), vol 9982. Springer, Cham. https://doi.org/10.1007/978-3-
+319-46547-0_4   
+[9]  C. K. Deb, S. Marwaha, P. K. Malhotra, S. D. Wahi, R. N. Pandey, 
+“Strengthening soil taxonomy ontology software for description and 
+classification of USDA soil taxonomy up to soil ser ies,” 2015 2nd 
+International Conference on Computing for Sustainab le Global 
+Development (INDIACom), New Delhi, India, 2015, pp.  1180-1184. 
+[10]  M. Elumalai, S. M. Anouncia, “Development of soil m ineral 
+classification using ontology mining,” Arab J Geosc i 14, 1371 (2021). 
+https://doi.org/10.1007/s12517-021-07651-w   
+[11]  M.A. Musen, “The Protégé project: a look back and a  look forward,” 
+AI Matters. Association of Computing Machinery Spec ific Interest Group in Artificial Intelligence, 1(4), June 2015. DOI: 
+10.1145/2557001.25757003. 
+[12]  N. Ninov, “Taxonomic list of Bulgarian soils accord ing to the FAO 
+world soil system,” http://www.prokarstterra.bas.bg/geo21/2005/5-
+05/pp4-20.html  http://www.prokarstterra.bas.bg/geo21/2005/5-
+05/pp4-20-tabl1.htm   
+[13]  National Soil Survey, http://www.nationalsoils.com  
+http://nationalsoils.com/wp-
+content/uploads/2018/11/AEZ_pshen_1do22.png  
+[14]  Protégé HermiT, https://protegewiki.stanford.edu/wiki/HermiT   
+[15]  R. Shearer, B. Motik, I. Horrocks, “HermiT: A Highl y-Efficient OWL 
+Reasoner,” OWL: Experiences and Directions, 2008. 
+http://www.cs.ox.ac.uk/boris.motik/pubs/smh08HermiT .pdf   
+ 
+ 
+382Authorized licensed use limited to: Centro Federal de Educacao Tec do Rio de Janeiro. Downloaded on July 19,2025 at 16:30:45 UTC from IEEE Xplore.  Restrictions apply. 

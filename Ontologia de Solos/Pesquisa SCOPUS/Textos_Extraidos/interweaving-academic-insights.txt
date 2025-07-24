@@ -1,0 +1,755 @@
+Interweaving academic insights:
+advancing university knowledge
+management through a strategic data
+fabric framework
+Lan Nguyen Thi Kim
+Faculty of Library and Information Science, VNU University of Social Sciences
+and Humanities, Hanoi, Vietnam
+Son Nguyen Hoang
+VNU Library and Digital Knowledge Center, Hanoi, Vietnam, and
+Hoa N. Nguyen
+Department of Information Systems, VNU University of Engineering and
+Technology, Hanoi, Vietnam
+Abstract
+Purpose –Effective knowledge management in large academic institutions is crucial for fostering innovation
+and improving educational practices. However, these institutions often face challenges, such as datafragmentation, siloed information systems and the complexity of integrating different data sources fromvarious departments with complex hierarchical structures. To address these problems, the authors proposed a
+data fabric strategic framework that improves and enhances knowledge management by leveraging ontologies
+and knowledge graphs. This study aims to investigate the potential of knowledge graphs, ontologicalknowledge modelling and knowledge representation to improve knowledge management in large academicinstitutions. It also describes how technology can enhance knowledge accessibility and exchanges and
+improve decision-making processes based on insights from complex educational systems.
+Design/methodology/approach –This study uses coordination theory as a foundational framework to
+analyse intricate data systems in preparation for constructing, the Wizard of Oz method to facilitate thesystematic organisation and management of information and the execution of an ontology-based data fabricframework and knowledge graphs. The authors propose a data fabric strategic framework aimed at improving
+knowledge management by leveraging ontologies and knowledge graphs.
+Findings –Theﬁnal evaluation demonstrates that this approach effectively breaks down data silos, promotes
+research collaboration and improves decision-making processes in large academic settings, offering solution-oriented data fabric technologies applicable to universities and university federations globally.
+Practical implications –The proposed system provides a more ef ﬁcient way of managing and connecting
+fragmented academic resources, improving accessibility for both learners and educators. By interconnecting
+and streaming knowledge management process, the system can reduce not only operational costs but also
+expenses on doing scienti ﬁc research.
+Originality/value –Academic institutions prioritise time ef ﬁciency when acquiring vital data for improved
+scienti ﬁc results. This emphasis extends beyond data governance to focus on how collective intelligence might
+improve organisational performance. The academic community has enhanced data utilisation through the
+implementation of data fabric technologies to improve data accessibility and data line tracking.
+Keywords Data fabric, University federations, Knowledge management, Knowledge integration,
+Knowledge graph, Active metadata, Ontologies
+Paper type Research paperDigital Library
+Perspectives
+21
+Received 14 March 2024
+Revised 4 July 2024
+21 October 2024
+11 December 2024
+Accepted 22 December 2024
+Digital Library Perspectives
+Vol. 41 No. 1, 2025
+pp. 21-44
+© Emerald Publishing Limited
+2059-5816
+DOI 10.1108/DLP-03-2024-0044The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/2059-5816.htm
+1. Introduction
+Data and information management are undergoing a rapid transformation as a result of
+advanced technologies. Srivastava (2023) highlighted the shift from big data to generative
+artiﬁcial intelligence (AI), emphasising that digital transformation involves 80% people and
+20% technology. Institutions are leveraging new technologies and human expertise to extractinsights from diverse data sources, revealing their technical infrastructure and businessecosystems. Klaus Schwab ’s, (2017) “Fourth Industrial Revolution ”describes the
+convergence of virtual and physical domains; this has fostered collective intelligence andtransformed knowledge management (KM) in academia. Strategic data management anddata fabric concepts are essential for harnessing this growing trend, driving breakthroughs ineducational practices and paradigms. Many large academic institutions that encompassvarious universities, research institutes and departments operating under a single structureface unique challenges in KM. Vietnam National University at Hanoi (VNU), one such
+institution, is therefore considered a federation of universities. Consequently, each member
+university/institute formally operates with single and sometimes isolated autonomy, resultingin disparate information systems and siloed data management repositories across the VNU.This data fragmentation hinders ef ﬁcient information and knowledge exchanges as well as
+collaboration opportunities, hampering the federation ’s ability to support research
+capabilities, foster innovation and enhance overall academic performance.
+Ontologies provide a framework to identify and display concepts, entities, nodes and
+interactions within knowledge domains ( Luo, 2023 ;Rakhra et al. , 2022 ). Knowledge graphs
+(KGs) have the potential to transform KM in academic institutions by enabling the capture,understanding, inter-relationship, categorisation, utilisation and strati ﬁcation of massive
+amounts of data. They facilitate the integration of semi-structured and unstructured dataacross hierarchical structures, making the disseminated knowledge within large businessesmore accessible and searchable.
+Characterised as the “new oil ”in the World Economic Forum study and accompanying
+the AI leadership report, data calls for actionable and insightful information ( Forum ,2022,
+2019 ). In the context of managing knowledge in complex academic settings, ontology is a
+key tool for encoding descriptions of semantic relationships between entities and nodes(DeBellis and Dutta, 2022 ;Lokala et al., 2022 ;Malik et al., 2021 ). By leveraging ontologies
+and KGs, together with a data strategic framework, university federations can overcome thechallenges posed by autonomous operations and siloed systems, thereby enhancingknowledge sharing, collaborations and decision-making processes across the federation.
+Research challenges: The integration of such structures into higher institutions presents
+several challenges:
+Modelling knowledge from member units ’unprocessed information systems is not
+consistent. Different systems exhibit contextual operational knowledge. Researchmodelling differs from university knowledge modelling. First, huge enterprises/state-owned entities must address KM research.
+Data exchange is cumbersome and unneeded because university federation memberscontrol business data domestically. For instance, training management systemsrequire learner tuition expenditures, not ﬁnancial data. Business system data must be
+aggregated and provided proactively.
+Knowledge exploitation and sharing culture require both technical solutions and
+organisational tactics to stimulate not only big organisations but also university
+federations.DLP
+41,1
+22
+Contribution highlights : In response to the challenges, this study aims to enhance KM by
+taking a structured data architecture approach and modelling knowledge using ontologiesand KGs. The comprehensive discussion on the strategic data framework VNU data fabric-
+based knowledge management platform (vDFKM), which we proposed in our preliminary
+work and presented at the International Conference on Computational CollectiveIntelligence conference (
+Lan and Nguyen, 2023 ), is a crucial contribution. In this study, we
+propose an in-depth extension to include not only technological solutions but also
+organisational strategies to overcome knowledge exchange barriers, emphasising humanelements, technological procedures and the maximisation of academic knowledge
+applications. Our key contributions are summarised below.
+Proposing a method of modelling knowledge using KG-powered active metadata
+combined with ontologies methodologies. Addressing the issue of knowledge
+diversity in representing and modelling is crucial to develop a uni ﬁed knowledge
+ontology that serves as a prevalent language across different departments, schoolsand disciplines. To put it another way, this ontological structure should be ﬂexible
+enough to accommodate the majors and speci ﬁcities of diverse domains while
+maintaining interoperability and coherence in modelling knowledge.
+Proposing an advanced data sharing and synthesis approach: Sharing data within
+organisations is always challenging and requires an intelligent data governance
+framework that not only regulates access but also supports smart synthesis of relevant
+data for information end users and related stakeholders. This process involves, ﬁrstly,
+the development of a smart data ﬁlter and synthesis algorithm to decisively determine
+the relativity and necessity of a data sharing scheme within a given school ’ss y s t e m .T o
+be more speci ﬁc, this process leverages machine learning to train and learn from past
+data sharing processes and establish a new synthesis pattern, enhancing the decision-
+making process regarding what data needs to be shared in which format, particularly inrelation to data privacy and ethical considerations.
+Promoting knowledge sharing culture: Enhancing the extent to which knowledge is
+used and shared among various units within a university federation is possible
+through the promotion of a collaborative culture and the application oftechnological advancements that enable seamless knowledge transfer. In addition to
+technological solutions, this calls for adopting organisational tactics that promote
+information sharing and implementing a centralised knowledge hub that facilitatesthe accessibility of knowledge objects from all units through aggregation,
+categorisation and indexing. Furthermore, incorporating incentive mechanisms to
+promote active participation and effective utilisation of the information hub is time-
+and resource-intensive.
+Using a Strategic Data Fabric Framework, speci ﬁcally vDFKM, for management
+purposes: In addition to addressing the technological facets of data fusion and KM,the strategic data fabric framework should also include the organisational obstacles
+that impede the ef ﬁcient exchange of knowledge regarding technological,
+procedural and human elements.
+The remainder of this paper is organised as follows. Section 2 introduces some fundamentaltheory and related works in knowledge integration and management. Section 3 covers the
+methodology and research design. Section 4 presents our proposed method. Section 5
+discusses and evaluates our proposed work. Finally, Section 6 summarises our contributionsand outlines potential future endeavours.Digital Library
+Perspectives
+23
+2. Background and related works
+The optimal realisation of the vision and mission objectives relies on the implementation of a
+strategic plan that successfully manages and leverages the huge information resources of the
+business and knowledge management system (KMS), given its unique set of features ( Murali
+and Anouncia, 2022 ;Osman et al.,2 0 2 2 ;Sohrabi et al., 2019 ;Tudorache, 2020 ;Wang et al.,
+2023 ).
+The construction of ontological structures represents a pivotal element in managing the
+deluge of information prevalent in modern educational settings ( Mora et al. , 2022 ;Rezaei
+et al. ,2 0 2 1 ). Ontologies serve as semantic networks, providing structured and orientated
+graphs that represent classes, concepts and the relationships between them. This structurebecomes crucial in an environment characterised by information overload and thedisconnection of vast, varied data ( Zhuet al. , 2018 ). Gruber ’sd eﬁnition of ontology as “an
+explicit speci ﬁcation of a conceptualization ”(Gruber, 1993 ) underscores ontology ’s role in
+forming, connecting and formalising knowledge across various disciplines ( Ferilli et al. ,
+2022 ;Louet al., 2020 ).
+Data fabric, together with ontologies, offers a uni ﬁed data management environment that
+enables real-time, secure access to data from multiple sources ( IBM, 2023a ). Gartner, a
+leading research and advisory company, emphasises the importance of enriching the data
+fabric with administrative and management data, transforming it into a comprehensive KM
+tool ( Mark and Ehtisham, 2020 ). The integration of data fabric with ontological structures
+and KGs effectively captures and organises knowledge, simplifying stakeholder accessibilityand utilisation ( Chen et al., 2018 a;Jawad et al., 2023 ).
+Our prior work has explored the conceptual model of university KM via a data fabric
+approach, highlighting its ef ﬁcacy in information creation and presentation ( Lan and
+Nguyen, 2023 ). This model addresses the fragmented nature of data in large educational
+institutions, offering a pathway to cohesive and interconnected KM.
+KGs, as introduced by Google in 2012, further enhance this landscape ( Daiet al. , 2022 ;
+Liet al. ,2 0 2 1 ). KGs structure data into entities and relationships, creating networks that
+render knowledge accessible and comprehensible to both humans and machines. The utility
+of KGs extends to diverse applications, including knowledge retrieval, question-answeringand content recommendation ( Jiet al. ,2 0 2 2 ;Peng et al. , 2023 ;Pietrasik and Reformat,
+2023 ). Numerous academic disciplines have extensively investigated and implemented KGs,
+signiﬁcantly enhancing KM, data integration and educational environments. In the context of
+educational data management, Chen created KnowEdu, an automated system for creating
+educational KGs ( Chen et al. , 2018 b). This system enhanced the precision and ef ﬁcacy
+of educational content delivery and personalised learning experiences by using data frompedagogical and educational assessments. Wang et al. (2023) proposed a framework for the
+application of knowledge mapping and data visualisation techniques to genealogical data.The framework uses KGs to organise and illustrate complex information. Chughtai et al.
+(2020) introduced an ontology-based article recommendation model that signi ﬁcantly
+enhances the process of identifying suitable reviewers for academic papers, with an emphasison enhancing academic research through KGs. This model applies KGs to improve academicworkﬂows by matching articles with reviewers and by using latent semantic analysis and
+entropy measures. The quality and predictive capabilities of data-driven models in research
+are enhanced using KGs to forecast absent uncertainties in experimental data in other
+instances. In addition, KGs are used to facilitate institutional KM and interdisciplinarystudies. The integration of KGs into a variety of sources was emphasised by Zeng et al.
+(2023) andSenthil Kumaran and Latha (2023) to enhance the safety and improve their
+accuracy and ef ﬁciency.DLP
+41,1
+24
+In various industries, the ontological approach has been instrumental. Amazon Neptune ’s
+support for Resource Description Framework (RDF) exempli ﬁes this utility in managing
+ontological data ( Amazon, 2023 ). Thomson Reuters ’Open Calais initiative, which leverages
+natural language processing and machine learning, uses ontologies for organising semanticmetadata ( Reuter, 2007 ). These applications highlight the versatility of ontologies in
+organising, analysing and retrieving domain-speci ﬁc information.
+Despite these advancements, KM in higher education and its scienti ﬁc application
+continue to face challenges, particularly in the management of data silos. Effective KMsystems require a uni ﬁed structure where data fabric and other applications bolster data
+strategies and dissemination (
+Dawande et al. , 2023 ). This approach has demonstrated
+potential in various sectors, from software testing in the military ( Gao et al. , 2022 )t o
+ontology-based frameworks in agriculture ( Murali and Anouncia, 2022 ). The Industry 4.0
+revolution further emphasises the need for data-driven, interoperable solutions, as seen ininitiatives like InPro ( Yang et al. , 2023 ) and Web Ontology Language (OWL)-based
+ontologies in the aerospace sector ( Daiet al., 2022 ).
+Ontology has been extensively explored across many disciplines and interdisciplines, as
+seen in Table 1 andFigure 1 . This strategy has helped develop data distillation, linkage and
+structure, enhanced geographic information systems and health-care decision-making andadvanced political science. The merging of natural language processing and large language
+models has strengthened this method. Ontological frameworks render implicit knowledge
+machine-readable, improving data processing ef ﬁciency. Data discovery is better understood
+and contextualised when metadata is supplemented and integrated with ontologies, entitiesand nodes.
+In conclusion, the integration of data fabrics, ontologies and KGs can improve academic
+data management and presentation, aiding decision-making and KM system optimisation.
+The proliferation of ontology-based frameworks across several areas signi ﬁes progress
+towards more sophisticated, context-sensitive systems. Such systems help organise anddistribute specialised knowledge and inspire innovative decision support and predictive
+analytics methods.
+3. Methodology and research design
+3.1 Methodology
+The research uses ontological structures, coordination theory (
+Crowston, 1997 ) and the
+Wizard of Oz (WOZ) to facilitate the systematic organisation and management of
+information within the University of Social Sciences and Humanities, VNU, Hanoi.Coordination theory helps ﬁgure out who is responsible for what in data management ( Ding
+et al. , 2023 ;Kazantsev et al. ,2 0 2 3 ) and how they depend on each other. Ontological
+structures add a semantic layer to how data are shown.
+Coordination theory application: This theory guides the organisation ofcommunication channels and work ﬂows within the university, ensuring ef ﬁcient task
+management and information sharing.
+Ontological structure: This de ﬁnes key academic concepts and relationships,
+enhancing understanding and functionality of the overall university ’s information
+systems. This structure enhances data integration and accessibility across various
+schools and departments, supporting better KM and decision-making.
+WOZ is used to simulate the functionality and interactions of the proposedontological structure and for testing and re ﬁning how data are managed and accessed
+within the tested system ( Schlögl et al. , 2015 ).Digital Library
+Perspectives
+25
+Table 1. Summary of literature reviews
+Author Focus area Key findings Relevance to research
+(Yaoet al. , 2019 ) Educational data management Jointly considers structural and literal information for embeddings Improves data representation in
+educational KGs
+(Chen et al. , 2018 a) Educational KGs Automated system for constructing educational KGs Automates KG construction for
+digital libraries
+(Senthil Kumaran
+and Latha, 2023 )Digital libraries Ontology-supported CF recommendation system Enhances personalised learning
+resource recommendations
+(Chughtai et al. ,
+2020 )Academic research Ontology-based article recommendation model Enhances academic work ﬂows
+and peer review
+(Wang et al. , 2023 ) Genealogical data Framework for knowledge mapping in genealogy Applies knowledge mapping and
+visualisation in academics
+(Ramalli and
+Pernici, 2023 )Experimental data management KG embeddings to forecast missing uncertainties Ensures data quality in
+experimental research
+(Malczewski and
+Jelokhani-Niaraki,
+2012 )Addressing the challenges in
+multicriteria spatial decision
+support systemsOntology-based MC-SDSS using OWL Integrates ontology and GIS in
+decision-making
+(Lambrix, 2023 ) Ontology engineering Focuses on ontology repairing using abductive reasoning Develops and maintains high-
+quality ontologies
+(Antonini et al. ,
+2023 )Cultural heritage Ontology design pattern for modelling experiences Manages cultural heritage
+knowledge
+(Roldán-Molina
+et al. , 2022 )Ontology improvement Ontology-matching process using OntologyFixer Improves automatically generated
+ontologies
+(Zheng et al. , 2021 ) Hazardous chemicals management KG for managing hazardous chemicals with BERT-CRF model Integrates KM in institutional
+settings
+(Cuiet al. , 2023 ) Recipe ontologies and KGs General recipe ontology model and KG for edible ﬂowers Develops versatile and user-
+focused KGs
+(Zhang et al. , 2019 ) Dangerous goods KM KG for MDG to simplify retrieval and promote intelligent
+transportationManages complex, domain-
+speciﬁc knowledge
+(Leeet al. , 2021 ) Large KGs Decomposing large ontology graphs for rating predictions Improves ef ﬁciency and accuracy
+of large-scale KGs
+(Kurbatova and
+Swiers, 2021 )Biomedical data integration KG using cross-references between disease ontologies Integrates and manages complex
+biomedical data
+(continued )DLP
+41,1
+26
+Table 1. Continued
+Author Focus area Key findings Relevance to research
+(Aryani et al. , 2020 ) Open science graphs (OSGs) Enhances FAIR principles by proving access to metadata,
+proposed interoperability framework with APIsSupport data exchange, academic
+data management
+(Rahdari et al. ,
+2020 )Personalising information
+explorationAn information system with an open and controllable user model The importance of user modelling
+for personalised information
+retrieval
+(Gardasevic and
+Gazan, 2023 )KG for interdisciplinary PhD
+studentsDeveloped a community-grounded, extensible KGs to capture and
+visualise relationships between people and information resourcesThe use of KGs to support
+information discovery anddecision making
+(Salatino et al. ,
+2021 )Research topic detection and
+prediction using scienti ﬁc graphsDeveloped a framework for detecting, analysing and forecasting
+research topics using a large-scale KG based on computer scienceontologyApplications of KGs for research
+trend analysis and prediction
+Source: Authors ’own workDigital Library
+Perspectives
+27
+3.2 Research design
+This study proposes a general methodology that integrates a strategic data fabric KM
+approach with existing digital repository systems to address the challenges of knowledge
+modelling, fragmentation and user accessibility within large academic institutions and
+university federations. The approach includes aligning the ontologies of the data fabricframework with the current data formats of the systems, such as DSpace, to ensurecomprehensive knowledge representation and data integration. The development and testingphrases include mapping and aligning the ontological structures with the metadata schemes
+of digital repositories, followed by pilot testing to assess the effectiveness and ef ﬁciency of
+the integration.
+To validate the proposed method, a case study is chosen by applying this approach to the
+academic and scienti ﬁc data of a university federation. We chose the University of Social
+Sciences and Humanities, a division of VNU, for this case study to pinpoint the challenges
+and advantages associated with the integration of the new system, while also providing
+contextual and semantic suggestions for alternative knowledge management systems. Theinsights gained from this proposed framework and its validation will help in re ﬁning the
+methodology and demonstrating its practical applicability to other institutions seeking toenhance their KM practices.
+The practical implementation steps are the following:
+Task identi ﬁcation and division: Identifying key tasks and dividing them among
+involved stakeholders.
+Figure 1. Taxonomy of ontologiesDLP
+41,1
+28
+Ontology development: Creating ontologies and integrating them into Neo4j, which
+deﬁnes academic concepts and relationships.
+Work ﬂow design: Designing work ﬂows to optimise data management processes.
+Pilot implementation: Testing the integrated system.
+Monitoring and feedback.
+Systematic re ﬁnement based on feedback and performance metrics.
+4. Knowledge management approaches and proposed method
+4.1 Ontological reasoning in data fabric and knowledge graph-enhanced knowledge
+management architecture
+To effectively implement the ontological reasoning in the Data Fabric and KG-Enhanced
+KM architecture described in this section, it is essential to engage all stakeholders, including
+lecturers, students and administrators within our institution. By aligning with speci ﬁc
+informational demands and institutional needs, stakeholders ensure that ontological
+knowledge models are comprehensive and applicable. Therefore, our ontology includes both
+academic and administrative domain knowledge. This architecture not only addressesinstitutional knowledge needs but also bolsters stakeholder engagement in KM.
+Adopting common ontology standards: Ontology, in this context, is more than a
+methodology, it is a transformative tool for interpreting and representing data in a machine-readable format. Within academic settings, such as VNU for instance, ontologies are
+constructed by de ﬁning terms and concepts and enriching them semantically. This ontology
+could encompass core entities and enhance nodes and edge development in academic
+settings, such as courses, research projects, publications, faculty, students and administrative
+processes, each with de ﬁned properties and relationships. The integration of business
+semantics using ontology escalates to standardise descriptions across data architecture
+components. For example, subject-predicate-object format are used to describe relationshipsin its academic and administrative data, enhancing consistency in data presentation and
+improves interoperability among different departments.
+This enrichment adds depth and contextual precision: Understanding research impact,
+citation networks, student performance trends or course relevancy across different programs;
+deﬁning entities, properties and relationships; and enabling the extraction of meaningful
+conclusions from explicit data within the Data Fabric framework and KG structures. This
+context awareness building can assist in strategic decision-making in areas such as
+curriculum development, research collaboration or even research funding allocation. As
+illustrated in Figure 2
+, the integration of ontology and KG representations allows for the
+emergence of new academic insights and the discovery of implicit knowledge. The ontologycurrently in use incorporates a shared vocabulary and a set of governing rules. In this context,
+ontologies help ensure data quality by making implicit knowledge explicit. An academic
+institution can use ontologies to establish relationships and constraints that ensure high
+quality in not only student records but also research outputs and administrative databases;
+this approach facilitates the standardisation of data input formats and minimises the
+occurrence of errors.
+Typically, we specify these rules using RDF Schema and OWL. This study integrates
+Neo4j into the vDFKM framework. While this technology does not explicitly support certain
+logical rules layers such as Semantic Web Rule Language, Rule Interchange Format and
+SPARQL Protocol and RDF Query Language Inferencing Notation and even though it doesprovide some interference capabilities, its interference capabilities are implemented throughDigital Library
+Perspectives
+29
+custom Cypher queries and Awesome Procedures on Cypher procedures, deriving
+meaningful relationships and insights from data. We selected Neo4j as the underlyingtechnology for our KG implementation in this study for four key reasons, each offeringseveral practical advantages, as outlined below:
+(1) The nature of academic se ttings and databases comes from diverse sources
+across several departments, disciplines and majors. Unlike traditional relationaldatabases, Neo4j can manage, query about and represent complex relationshipswithin data. It allows for more direct querying and visualisation regardingcomplex data structures, resulting in more ef ﬁcient relationship management.
+(2) Performance and scalability: Neo4j ef ﬁciently manages large-scale graph data,
+delivering high performance in read and extraction operations. This makes Neo4j
+Figure 2. General architecture of vDFKM –data fabric-based knowledge management platformDLP
+41,1
+30
+particularly suitable for applications that require real or near-real time data access
+and updates, which are essential for managing the growing academic databases atthe institution.
+(3) Contextual richness: Neo4j can bring out and connect the data set ’s rich context and
+relationships. This makes it relatively good at ﬁnding and managing connections
+between different academic resources, improving the KG ’s overall understanding,
+usefulness and accessibility.
+(4) Extensibility and ﬂexibility: Neo4j ’s schema-free nature allows for ﬂexible and
+dynamic data/knowledge modelling, crucial for integrating diverse data sourceswithout necessitating signi ﬁcant restructuring. In subsection 4.3, we will delve
+deeper into this concept by presenting a case study that uses metadata from the
+university ’s digital library databases to represent a KG, illustrated in
+Figure 3 as a
+sample.
+Academic institutions can create a structured knowledge base using ontologies to not onlycapture academic knowledge but also to help the institution in retaining it. This ability toreason and draw conclusions makes KGs more useful by making them better at givingcontextually relevant suggestions and performing complicated data analyses whereunderstanding the context and semantic relationships is important.
+Figure 3. A sample of metadata descriptionDigital Library
+Perspectives
+31
+4.2 Why knowledge graphs? Tracking data lineage at academic institution
+IBM (2023b) deﬁned data lineage as “the methodology that elucidates the journey of data
+through its lifecycle, illuminating its origins, modi ﬁcations and ultimate disposition within a
+data pipeline ”. This concept is particularly pertinent within the realms of academia, where
+data proliferation ( Sikos and Philp, 2020 ;Soedarmadji et al. , 2019 ) is common due to the
+multitudes of originating sources. A complex academic institution, such as VNU, whichconsists of 9 schools, more than 35 departments and many connected organisations,
+contributes to a rich tapestry of data through various transformations and channels.
+Understanding VNU ’s complicated data linkages helps with data management and lineage.
+From collection and analysis to integration, the university ’s hierarchy complicates data
+mosaic management. This complexity necessitates the updating and contextualisation of data
+to maintain relevance. This strategy increases data lineage modelling and understandingwhile maintaining semantic integrity.
+Gartner (2023) highlighted the advancement of KGs, particularly their capacity to
+elucidate knowledge in synergy with generative AI, machine learning and large languagemodels. Within this framework, KGs serve as a sophisticated mechanism to organise,
+interlink and exhibit knowledge in a structured format, comprising nodes and relational
+edges. This graphical representation not only makes it easier to understand complex andunstructured data but also makes it much easier to see how data came to be, thus aiding in the
+complicated process of data interpretation and analysis.
+Figure 4 displays a screenshot of a current metadata record from our university
+library, speci ﬁcally describing the materials titled “Vietnam: A Country Study ”.T h i s
+record serves as an example of how we plan to deconstruct and extract key information,such as the author, title, publication data and subject headings. We will then use this
+extracted metadata to construct a Knowledge Group (KG) within Neo4J, thereby
+demonstrating the transformation of traditional metadata into a more dynamic andinterconnected data structure.
+Deconstructing metadata: This process involves identifying key entities such as author,
+title, year of publication and other related content descriptions, including LCCN, onlineformats and subject headings.
+Creating nodes and relationships: Although the current metadata is based on library
+standards such as Dublin Core, it remains static and lacks interconnectedness. In
+Neo4j, we elevate this metadata by representing each entity as a node andestablishing relationships between them, such as linking the titles, authors andpublishers. This transforms the metadata from isolated entries into a dynamic,
+interconnected network, providing richer context and uncovering hidden
+relationships. This enhancement signi ﬁcantly improves the user ’s ability to explore
+and interpret the material within a broader, interconnected information framework.
+For example, the “book ”node is linked to the “author ”node with an “Author_by ”
+relationship and to the “publisher ”node with a “published_by ”relationship.
+Using Cypher queries in Neo4j.
+Enhancing visualisation: Figure 4 involves adding more nodes and relationships to
+present other relevant described elements as well as documents and theirconnections. We could illustrate this by transforming the static image into a dynamic
+graph that displays the correlations.
+Visualising the KG: As an example, the result in Figure 4 shows the structure of
+relationships between various entities.DLP
+41,1
+32
+At some point, the complexity of a graph can indeed become overwhelming as the number of
+nodes increases. For example, a graph with 12 nodes ( Figure 5 ) and the speci ﬁcations
+initially presented in Figure 5 offers a clear and manageable visual that allows for a detailed
+exploration of relationships and connections. However, as the graph expands to 39 nodes or
+more, the visualisation gets increasingly complex and challenging to interpret. To mitigatethis, we can implement strategies such as ﬁltering redundant nodes, aggregating similar
+Figure 4. Vietnam war: a context-driven knowledge graphDigital Library
+Perspectives
+33
+nodes and relationships and using metadata to reduce visual clusters while preserving
+essential contextual information. This approach ensures that, even as the data set grows, theKGs continue to serve as valuable tools for understanding the complexity of data structures.Moreover, the VNU Library and Digital Knowledge Centre is now using Dublin Core –based
+metadata to describe our materials and transferring from Dublin Core to a KG format
+signiﬁcantly enhances our ability to explore context-speci ﬁc data. Unlike the static nature of
+Dublin Core, KGs provide a dynamic, frequently updated and interconnected representationof data, allowing for the discovery of hidden relationships and deeper contextual insights.
+This transition is crucial for organising, managing and understanding the rich, multifaceted
+data within academic environments such as VNU.
+Breaking data silos with this KG lets organisations share information more effectively.
+Context creates knowledge, according to Linet al. (2023) ;Peng et al. (2023) ;Wuet al.
+(2023) ; and Zhong et al. (2023) . This dynamic visualisation offers a wide variety of
+perspectives to satisfy users ’goals and job-speci ﬁc information demands. The KG is vital for
+preserving the Vietnam War ’s legacy and understanding its repercussions on society and
+beyond.
+4.3 Trustworthy with data strategic framework
+The creation and deployment of ontologies are key to our data management strategy
+(illustrated in Figure 6 ), facilitating the effective organisation of academic library
+data for stakeholders. This approach enhances the library data lake, streaming of data
+collection and user engagement at VNU. We prioritise relevant, well-organised metadatato capture semantic richness.
+Figure 6 illustrates the data journey and simpli ﬁes
+metadata maintenance. In this case, KGs aid in data pattern recognition and lineageanalysis. The system integrates structured and unstructured data, offering machine- and
+human-friendly formats.
+The proposed vDFKM framework consists of eight key components, each playing a
+crucial role in managing and enriching academic data, as detailed below:
+Data acquisition : Capturing physical or digital materials and extracting essential
+metadata, including titles, authors and publication information.
+Figure 5. Detailed cyphers and graph in the context of Vietnam as a countryDLP
+41,1
+34
+Metadata generation : Producing descriptive, administrative and technical metadata,
+ensuring comprehensive cataloguing and standardisation.
+Data transformation and enrichment : Enhancing and standardising data to conform
+to library standards (in this case, Dublin Core) while adding value through additionalcontextual information.
+Ontology development and data lineage documentation : Ensuring ontology-based
+data structuring, tracking transformations and implementing version control to
+maintain data accuracy and historical integrity.
+Data integration into data lake : Organising and structuring data in a centralised
+repository for ef ﬁcient access and governance, harnessing a semantic or ontology-
+based layer.
+Data utilisation and accessibility : Facilitating access to the integrated data through
+user-friendly interfaces and search tools, providing analytics and discoveryfunctions.
+Maintenance and monitoring : Continuously monitoring data quality, incorporating
+feedback loops to improve accuracy and updating archival policies.
+Compliance and security : Ensuring data privacy, security and compliance with legal
+standards, protecting data from unauthorised access.
+These components are interlinked within the vDFKM framework, supporting data integrity
+and enrichment, thus ensuring that the entire data ﬂow from acquisition to utilisation is not
+only ef ﬁcient but also secure and accurate.
+Figure 6. Data strategic frameworkDigital Library
+Perspectives
+35
+5. Experiments and evaluation
+To validate the effectiveness and capability of our proposed method, the project is now
+deployed currently at our VNU Library and Digital Knowledge Centre (VNU-LDKC) toaddress the following research questions:
+RQ1. How does the ontological structure accommodate and represent the diversity of
+knowledge domains across various academic disciplines/inter-disciplines at acomplex academic institution such as VNU?
+RQ2. Is the KG-based method of modelling data from the business systems of member
+units adequate and effective for enhancing the performance of knowledgemodelling in large-scale organisations?
+RQ3. How does the vDFKM platform, with its data fabric design, enhance the ef ﬁcacy
+of knowledge aggregation, sharing and mining operations based on activemetadata from business systems in various organisational units?
+RQ4. What ethical and legal factors must an academic institution consider when using
+data fabric for data and KM and how can these be addressed?
+5.1 Deployment model of vDFKM
+To answer RQ3, a prototype of the vDFKM platform was implemented at VNU. With the KM
+requirements described in Section 4, vDFKM was piloted with VNU-LDKC as the managementfocal point. Figure 7
+depicts the vDFKM deployment architecture at VNU. Based on the vDFKM
+Figure 7. vDFKM-based knowledge management for VNUDLP
+41,1
+36
+platform, operational systems at each member university can integrate and share data and
+knowledge. In the data lakehouse of vDFKM, all aggregated data from business systems of VNU
+member units will be centrally handled. The vDFKM platform handles data gathering, integration,knowledge modelling, sharing, coordination and administration for all active metadata.
+For deployment of vDFKM, we experimentally installed this open-source platform;
+speciﬁcally, the complete Runtime and Data Infrastructure component is deployed via
+Kubernetes (runtime - https://kubernetes.io/ ) and Delta Lakehouse ( https://delta.io ). The
+coordination of KM operations is based on the expansion of functions from the open-source
+framework Kamu-Data ( https://github.com/kamu-data ).
+For deployment of vDFKM, we have experimentally installed this open-source platform.
+Speci ﬁcally, the complete Runtime&Data Infrastructure component is deployed via
+Kubernetes (runtime –https://kubernetes.io/ ) and Delta Lakehouse ( https://delta.io ). The
+coordination of KM operations is based on the expansion of functions from the open-source
+framework Kamu-Data ( https://github.com/kamu-data ).
+All vDFKM functions are delivered as microservices through Rest APIs. Moreover, we offer
+these functions as a FaaS (Function as a Service) service via the open-source platform Serverless(
+https://github.com/serverless/serverless ). Primary tools of vDFKM are illustrated in Figure 8 .
+5.2 DSpace integration with data fabric framework
+Figure 9 depicts the two stages of data integration into a KG. The following is a list of some
+of the frequent events and scenarios that foster interdisciplinary research and knowledgetransfer between departments and schools:
+Teachers and students can collaborate on projects and share annotated resource lists
+via this pipeline at VNU. Teachers and students can also incorporate email and social
+media for updates and recommendations. Students researched the vDFKM platformand used Neo4J KGs in DSpace for intuitive learning maps (
+Figure 4 ).
+Figure 8. Open-source tools used in vDFKM platformDigital Library
+Perspectives
+37
+Doing a literature review or systematic literature review: Finding updated resources
+for highly cited papers relevant to one ’s research conserves time for postgraduates
+and improves their scienti ﬁc work by suggesting direct matches and connecting
+ontological structures, subjects and writers.
+Interdisciplinary research and lifelong learning: Subscribers receive alerts onresources and advancements related to their interests and keywords, facilitated bydata fabric technologies that connect decentralised systems such as user pro ﬁles and
+homepages.
+5.3 Evaluation and discussion
+VNU ’s system can customise ontological data fabric frameworks to accommodate the
+requirements of lecturers, students and administrators. This approach leverages data fabrictechnologies (KGs for real-time insights), overcoming traditional database limitations, thus
+Figure 9. Dataﬂow: from fragmented data to connected knowledge graphDLP
+41,1
+38
+answering RQ1. Tracking data generation and use ensures data integrity. The semantic layer
+helps stakeholders navigate and understand diverse data sets, optimising KM across theinstitution ( Figure 8
+). VNU uses a strategic data framework to analyse and integrate library
+items, research data and curriculum, thereby bridging information gaps in higher education.This framework maximises data value, emphasises user trust, uses agile processes andensures careful data management for effective data tracking. However, we have wellacknowledged that the current implementation has primarily been tested on bibliographicmetadata, which is a speci ﬁc subset of the university ’s overall data landscape. The research ’s
+initial initiative focus has allowed the team to develop and validate the foundational elementsof KG and data fabric technologies. As the study progresses, we recognise the importance ofextending this system to encompass a wider range of data sets (all belonging to schools anddepartments), including administrative, curricular and research data, to address the broaderneeds of all stakeholders at VNU. Future work will involve integrating additional ontologicalframeworks and enhancing the system ’s semantic capabilities to fully capture and realise its
+potential in addressing the complex and diverse requirements of the university environment.In addition, the development of upgraded features, including the integration of localVietnamese academic databases and the use of Linked Data technologies, will be thoroughlyexplored to further enhance the system ’s functionality and interoperability.
+The VNU-LDKC is just starting to implement and share expertise at universities. This
+shows that the current mechanism for sharing knowledge among colleges is continuallyevolving. The fact that it is still in its early stages indicates that work needs to be done toimprove and expand the system. Thus, academic exchange of information, ideas andresearch discoveries remains nascent and may not be optimal. The communication andapplication of information at the collegiate level can be further improved.
+Regarding RQ2 andRQ3, leveraging KGs to represent and model knowledge could be
+promising for large, hierarchical organisations such as VNU, and the ability to capturecomplex relationships using nodes and relationships has improved research collaboration,facilitated data-driven insights and fostered in-depth discussions to overcome the oldersystem ’s limitations. Implementing vDFKM is a novel technique to update the KMS. It
+reveals operational ef ﬁciencies acquired through time-consuming research and helps the
+VNU make actionable decisions.
+Ethical and legal considerations ( RQ4) are important in KMS implementation. Barriers to
+data privacy, AI algorithmic bias and intellectual property infringement are the majorconcerns. The frameworks cover data strategies, lineage and monitoring, but VNU uses datafabric technologies to comply with local and international data protection laws. Throughoutthe deployment, the ethical and legal perspectives of students, faculty and administratorswere carefully considered.
+6. Conclusions
+Theﬁndings of this research have laid a strong foundation for KM not only in university
+federations, where embracing and implementing data fabric transformation is crucial andsigniﬁcant. In the future, the outlined directions could strengthen the empirical grounding
+framework to broaden the contextual applicability. By addressing these challenges, thisresearch aiming at improving knowledge sharing and management not only revolutioniseshow organisations manage and share but also expands the possibilities for using and reusingthe knowledge. Future plans include expanding research collaboration among academicinstitutions, integrating diverse data sources with a focus on interoperability and enhancingthe semantic capabilities of knowledge sharing and management systems. By embracingDigital Library
+Perspectives
+39
+these technologies, universities can strengthen interconnected ecosystems that support
+lifelong learning and interdisciplinary and transdisciplinary research.
+This strategic vision leverages technological advancement, signifying a paradigm shift in
+academia ’s roles in societies. By using data fabric technologies, institutions can set up
+effective KM systems and foster a lifelong learning community, thereby enriching the
+educational landscape.
+References
+Amazon (2023), “Security graphs on AWS - Build a security graph with Amazon Neptune to ef ﬁciently
+manage the security of your IT infrastructure ”.
+Antonini, A., Adamou, A., Suárez-Figueroa, M.C. and Benatti, F. (2023), “Experiential observations: an
+ontology pattern-based study on capturing the potential content within evidences of experiences
+16”, doi: 10.1145/3586078
+Aryani, A., Fenner, M., Manghi, P., Mannocci, A. and Stocker, M. (2020), “Open science graphs must
+interoperate ”, in Bellatreche, L., Bieliková, M., Boussaïd, O., Catania, B., Darmont, J.,
+Demidova, E., Duchateau, F., Hall, M., Mer čun, T., Novikov, B., Papatheodorou, C., Risse, T.,
+Romero, O., Sautot, L., Talens, G., Wrembel, R. and Žumer, M. (Eds), ADBIS, TPDL and EDA
+2020 Common Workshops and Doctoral Consortium , Springer International Publishing, Cham,
+pp. 195-206, doi: 10.1007/978-3-030-55814-7_16 .
+Chen, P., Lu, Y., Zheng, V.W., Chen, X. and Yang, B. (2018), “KnowEdu: a system to construct
+knowledge graph for education ”,IEEE Access , Vol. 6, pp. 31553-31563, doi: 10.1109/
+ACCESS.2018.2839607 .
+Chughtai, G.R., Lee, J., Shahzadi, M., Kabir, A. and Hassan, M.A.S. (2020), “An ef ﬁcient ontology-
+based topic-speci ﬁc article recommendation model for best- ﬁt reviewers ”,Scientometrics ,
+V ol. 122 No. 1, pp. 249-265, doi: 10.1007/s11192-019-03261-2 .
+Crowston, K. (1997), “A coordination theory approach to organizational process design ”,Organization
+Science , Vol. 8 No. 2, pp. 157-175.
+Cui, J., Zhang, X. and Zheng, D. (2023), “Construction of recipe knowledge graph based on user
+knowledge demands ”,Journal of Information Science , V ol. 1655515221151139.
+Dai, G., Wang, X., Zou, X., Liu, C. and Cen, S. (2022), “MRGAT: multi-relational graph attention
+network for knowledge graph completion ”,Neural Networks , Vol. 154, pp. 234-245, doi:
+10.1016/j.neunet.2022.07.014 .
+Dawande, H., Das, S.K. and Gadge, P.A. (2023), “An ontology-based knowledge framework for
+selection of joining process in plastic assembly ”,Materials Today: Proceedings , V ol. 115, doi:
+10.1016/j.matpr.2023.08.136 .
+DeBellis, M. and Dutta, B. (2022), “From ontology to knowledge graph with agile methods: the case of
+COVID-19 CODO knowledge graph ”,International Journal of Web Information Systems ,
+V ol. 18 Nos 5/6, pp. 432-452, doi: 10.1108/IJWIS-03-2022-0047 .
+Ding, J., Tang, T., Zhang, Y . and Chi, W. (2023), “Using intelligent ontology technology to extract
+knowledge from successful project in IoTenterprise systems ”,Enterprise Information Systems ,
+V ol. 16 No. 7, pp. 1-27, doi: 10.1080/17517575.2021.1913240 .
+Ferilli, S., Redavid, D. and Di Pierro, D. (2022), “Holistic graph-based document representation and
+management for open science ”,International Journal on Digital Libraries , doi: 10.1007/s00799-
+022-00328-z .
+Forum, W.E. (2019), Data Science in the New Economy-A New Race for Talent in the Fourth Industrial
+Revolution , World Economic Forum ’s Centre.
+Forum, W.E. (2022), Empowering AI Leadership: AI C-Suite Toolkit , World Economic Forum ’s
+Centre.DLP
+41,1
+40
+Gao, C., Luo, W. and Xie, F. (2022), “An ontology-based knowledge base system for military software
+testing ”,9th International Conference on Dependable Systems and Their Applications (DSA) ,
+pp. 254-261, doi: 10.1109/DSA56465.2022.00043
+Gardasevic, S. and Gazan, R. (2023), “Community design of a knowledge graph to support
+interdisciplinary PhD students ”, in Sserwanga, I., Goulding, A., Moulaison-Sandy, H., Du, J.T.,
+Soares, A.L., Hessami, V. and Frank, R.D. (Eds), Information for a Better World: Normality,
+Virtuality, Physicality, Inclusivity , Springer Nature Switzerland, Cham, pp. 473-490, doi:
+10.1007/978-3-031-28032-0_36 .
+Gartner (2023), What is Customer Lifetime Value (CLV), and How to Calculate It , Gartner.
+Gruber, T.R. (1993), “A translation approach to portable ontology speci ﬁcations ”,Knowledge
+Acquisition , V ol. 5 No. 2, pp. 199-220, doi: 10.1006/knac.1993.1008 .
+IBM (2023a), “Introduction to data fabric 2023 ”.
+IBM (2023b), “What is data lineage?\textbar IBM ”.
+Jawad, M.S., Dhawale, C., Ramli, A.A.B. and Mahdin, H. (2023), “Adoption of knowledge-graph best
+development practices for scalable and optimized manufacturing processes ”,MethodsX , V ol. 10,
+doi:10.1016/j.mex.2023.102124 .
+Ji, S., Pan, S., Cambria, E., Marttinen, P. and Yu, P.S. (2022), “A survey on knowledge graphs:
+representation, acquisition, and applications ”,IEEE Transactions on Neural Networks and
+Learning Systems , V ol. 33 No. 2, pp. 494-514, doi: 10.1109/TNNLS.2021.3070843 .
+Kazantsev, N., DeBellis, M., Quboa, Q., Sampaio, P., Mehandjiev, N. and Stalker, I.D. (2023), “An
+ontology-guided approach to process formation and coordination of demand-driven
+collaborations ”,International Journal of Production Research , V ol. 62 No. 9, pp. 1-17, doi:
+10.1080/00207543.2023.2242508 .
+Kurbatova, N. and Swiers, R. (2021), “Disease ontologies for knowledge graphs ”,BMC Bioinformatics ,
+V ol. 22 No. 1, pp. 1-7.
+Lambrix, P. (2023), “Completing and debugging ontologies: state-of-the-art and challenges in repairing
+ontologies 15 ”, doi: 10.1145/3597304 .
+Lan, T.K. and Nguyen, S.H. (2023), “From fragmented data to collective intelligence: a data fabric
+approach for university knowledge management ”, in Nguyen, N.T., Botzheim, J., Gulyás, L.,
+Núñez, M., Treur, J., Vossen, G. and Kozierkiewicz, A. (Eds), Computational Collective
+Intelligence, Lecture Notes in Computer Science , Springer Nature Switzerland, Cham, pp. 16-28,
+doi:10.1007/978-3-031-41456-5_2 .
+Lee, K., Jung, H., Hong, J.S. and Kim, W. (2021), “Learning knowledge using frequent subgraph
+mining from ontology graph data ”,Applied Sciences , Vol. 11 No. 3, p. 932.
+Li, C., Peng, X., Niu, Y ., Zhang, S., Peng, H., Zhou, C. and Li, J. (2021), “Learning graph attention-
+aware knowledge graph embedding ”,Neurocomputing , Vol. 461, pp. 516-529, doi: 10.1016/j.
+neucom.2021.01.139 .
+Lin, Q., Mao, R., Liu, J., Xu, F. and Cambria, E. (2023), “Fusing topology contexts and logical rules in
+language models for knowledge graph completion ”,Information Fusion , Vol. 90, pp. 253-264.
+Lokala, U., Lamy, F., Daniulaityte, R., Gaur, M., Gyrard, A., Thirunarayan, K., Kursuncu, U. and Sheth,
+A. (2022), “Drug abuse ontology to harness web-based data for substance use epidemiology
+research: ontology development study ”,JMIR Public Health and Surveillance , Vol. 8 No. 12,
+doi:10.2196/24938 .
+Lou, W., Pi, R., Wang, H. and Ju, Y. (2020), “Low-cost similarity calculation on ontology fusion in
+knowledge bases ”,Journal of Information Science , Vol. 46 No. 6, pp. 823-836, doi: 10.1177/
+0165551519870456 .
+Luo, J. (2023), “Data-Driven innovation: What is it? ”,IEEE Transactions on Engineering
+Management , Vol. 70 No. 2, pp. 784-790, doi: 10.1109/TEM.2022.3145231 .Digital Library
+Perspectives
+41
+Malczewski, J. and Jelokhani-Niaraki, M. (2012), “An ontology-based multicriteria spatial decision
+support system: a case study of house selection ”,Geo-Spatial Information Science , Vol. 15 No. 3,
+pp. 177-185, doi: 10.1080/10095020.2012.715900 .
+Malik, N., Hijam, D. and Sharan, A. (2021), “Ontology based knowledge representation: case study
+from agriculture domain ”,International Journal of Knowledge-Based and Intelligent
+Engineering Systems , Vol. 25 No. 1, pp. 97-108, doi: 10.3233/KES-210055 .
+Mark, B. and Ehtisham, Z. (2020), “How to activate metadata to enable a composable data fabric ”.
+Mora, M., Wang, F., Gómez, J.M. and Phillips-Wren, G. (2022), “Development methodologies for
+ontology-based knowledge management systems: a review ”,Expert Systems , Vol. 39 No. 2,
+p. e12851.
+Murali, E. and Anouncia, S.M. (2022), “An ontology-based knowledge mining model for effective
+exploitation of agro information ”,IETE Journal of Research , Vol. 69 No. 11, pp. 1-18.
+Osman, M.A., Noah, S.A.M. and Saad, S. (2022), “Ontology-based knowledge management tools for
+knowledge sharing in Organization-A review ”,IEEE Access , Vol. 10, pp. 43267-43283, doi:
+10.1109/ACCESS.2022.3163758 .
+Peng, C., Xia, F., Naseriparsa, M. and Osborne, F. (2023), “Knowledge graphs: opportunities and
+challenges ”,Artiﬁcial Intelligence Review , V ol. 56 No. 11, doi: 10.1007/s10462-023-10465-9 .
+Pietrasik, M. and Reformat, M.Z.Z. (2023), “Probabilistic coarsening for knowledge graph
+embeddings ”,Axioms , Vol. 12 No. 3, doi: 10.3390/axioms12030275 .
+Rahdari, B., Brusilovsky, P. and Babichenko, D. (2020), “Personalizing information exploration with an
+open user model ”,Proceedings of the 31st ACM Conference on Hypertext and Social Media, HT
+’20. Association For computing machinery, New York, NY ”, pp. 167-176, doi: 10.1145/
+3372923.3404797.
+Rakhra, M., Wadhawan, A., Singh, A., Mittal, U., Singh, D. and Gupta, D. (2022), “An analysis of the
+impact of business analytics on progress ”,2022 10th International Conference on Reliability,
+Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO) , pp. 1-6,
+doi:10.1109/ICRITO56286.2022.9964820 .
+Ramalli, E. and Pernici, B. (2023), “Knowledge graph embedding for experimental uncertainty
+estimation ”,Information Discovery and Delivery , V ol. 51 No. 4, doi: 10.1108/IDD-06-2022-
+0060 .
+Reuter, T. (2007), “Open calais –home ”.
+Rezaei, F., Khalilzadeh, M. and Soleimani, P. (2021), “Factors affecting knowledge management and its
+effect on organizational performance: mediating the role of human capital ”,Advances in Human-
+Computer Interaction , Vol. 2021, pp. 8857572:1-8857572:16.
+Roldán-Molina, G.D.R., Yevseyeva, I., Gómez-Meire, S., Basto-Fernandes, V . and Méndez, J.R.
+(2022), “Automatic knowledge exchange between ontologies and semantic graphs ”,Journal of
+Information Science , V ol. 1655515221137874.
+Salatino, A.A., Mannocci, A. and Osborne, F. (2021), “Detection, analysis, and prediction of research
+topics with scienti ﬁc knowledge graphs ”, in Manolopoulos, Y . and Vergoulis, T. (Eds),
+Predicting the Dynamics of Research Impact , Springer International Publishing, Cham,
+pp. 225-252, doi: 10.1007/978-3-030-86668-6_11 .
+Schlögl, S., Doherty, G. and Luz, S. (2015), “Wizard of Oz experimentation for language technology
+applications: challenges and tools ”,Interacting with Computers , Vol. 27 No. 6, pp. 592-615, doi:
+10.1093/iwc/iwu016 .
+Schwab, K. (2017), “The fourth industrial revolution ”,Portfolio.
+Senthil Kumaran, V. and Latha, R. (2023), “Towards personal learning environment by enhancing
+adaptive access to digital library using ontology-supported collaborative ﬁltering ”,Library Hi
+Tech, V ol. 41 No. 6, doi: 10.1108/LHT-12-2021-0433 .DLP
+41,1
+42
+Sikos, L.F. and Philp, D. (2020), “Provenance-aware knowledge representation: a survey of data models
+and contextualized knowledge graphs ”,Data Science and Engineering , Vol. 5 No. 3,
+pp. 293-316.
+Soedarmadji, E., Stein, H.S., Suram, S.K., Guevarra, D. and Gregoire, J.M. (2019), “Tracking materials
+science data lineage to manage millions of materials experiments and analyses ”,Npj
+Computational Materials , V ol. 5 No. 1, p. 79.
+Sohrabi, B., Vanani, I.R., Jalali, S.M.J. and Abedin, E. (2019), “Evaluation of research trends in
+knowledge management: a hybrid analysis through burst detection and text clustering ”,Journal
+of Information and Knowledge Management , V ol. 18 No. 4, p. 1950043, doi: 10.1142/
+S0219649219500436 .
+Srivastava, S. (2023), Data and AI Will Rede ﬁne Businesses In 2023 , Forbes.
+Tudorache, T. (2020), “Ontology engineering: current state, challenges, and future directions ”,Semantic
+Web, V ol. 11 No. 1, pp. 125-138.
+Wang, R., Deng, J., Guan, X. and He, Y. (2023), “A framework of genealogy knowledge reasoning and
+visualization based on a knowledge graph ”,Library Hi Tech, Ahead-of-Print , doi: 10.1108/LHT-
+05-2022-0265 .
+Wu, C., Li, X., Jiang, R., Guo, Y ., Wang, J. and Yang, Z. (2023), “Graph-based deep learning model for
+knowledge base completion in constraint management of construction projects ”,Computer-
+Aided Civil and Infrastructure Engineering , V ol. 38 No. 6, pp. 702-719.
+Yang, C., Zheng, Y., Tu, X., Ala-Laurinaho, R., Autiosalo, J., Seppänen, O. and Tammi, K. (2023),
+“Ontology-based knowledge representation of industrial production work ﬂow”,Advanced
+Engineering Informatics , Vol. 58, p. 102185, doi: 10.1016/j.aei.2023.102185 .
+Yao, S., Wang, R., Sun, S., Bu, D. and Liu, J. (2019), Joint Embedding Learning of Educational
+Knowledge Graphs , doi: 10.48550/arXiv.1911.08776 .
+Zeng, Y., Zhao, D., Zhao, F., Shen, G., Dong, Y., Lu, E., Zhang, Q., Sun, Y ., Liang, Q. and Zhao, Y.
+(2023), “BrainCog: a spiking neural network based, brain-inspired cognitive intelligence engine
+for brain-inspired AI and brain simulation ”,Patterns , V ol. 4 No. 8.
+Zhang, Q., Wen, Y., Zhou, C., Long, H., Han, D., Zhang, F. and Xiao, C. (2019), “Construction of
+knowledge graphs for Maritime dangerous goods ”,Sustainability , Vol. 11 No. 10, p. 2849.
+Zheng, X., Wang, B., Zhao, Y., Mao, S. and Tang, Y . (2021), “A knowledge graph method for hazardous
+chemical management: ontology design and entity identi ﬁcation ”,Neurocomputing , Vol. 430,
+pp. 104-111.
+Zhong, Q., Ding, L., Liu, J., Du, B., Jin, H. and Tao, D. (2023), “Knowledge graph augmented network
+towards multiview representation learning for aspect-based sentiment analysis ”,IEEE
+Transactions on Knowledge and Data Engineering , Vol. 35 No. 10.
+Zhu, H., Tian, F., Wu, K., Shah, N., Chen, Y., Ni, Y., Zhang, X., Chao, K.-M. and Zheng, Q. (2018), “A
+multi-constraint learning path recommendation algorithm based on knowledge map ”,
+Knowledge-Based Systems , V ol. 143, pp. 102-114, doi: 10.1016/j.knosys.2017.12.011 .
+Further reading
+Fung, K.W. and Bodenreider, O. (2023), Knowledge Representation and Ontologies , Clinical Research
+Informatics. Springer, pp. 367-388.
+Rodríguez-Revello, J., Barba-González, C., Rybinski, M. and Navas-Delgado, I. (2023), “KNIT:
+ontology reusability through knowledge graph exploration ”,Expert Systems with Applications ,
+V ol. 228, p. 120239.Digital Library
+Perspectives
+43
+About the authors
+Lan Nguyen Thi Kim is an esteemed lecturer with a decade of experience in library and
+information management. Currently, she is advancing her expertise as a PhD candidate at
+the Computing Department of Atlantic Technological University in Donegal, Ireland.
+Specialising in Digital Library Learning, her research now delves into knowledgemanagement, focusing on optimising knowledge systems to augment organisational and
+individual performance. Lan is passionate about fostering knowledge sharing and
+exchange to drive innovation and growth within the academic community.
+Dr. Son Nguyen Hoang, currently serves as the Director of the Library and DigitalKnowledge Centre at Vietnam National University, Hanoi. With an extensive
+background in information science and digital knowledge management, Dr. Son has
+played a pivotal role in the advancement of digital libraries and the integration of
+digital resources for academic and research excellence. Under Dr Son ’s leadership,
+the Library and Digital Knowledge Centre has seen signi ﬁcant growth in its digital
+collections and has become a cornerstone for research and learning at Vietnam
+National University. Dr. Son is committed to enhancing the accessibility and utilisation of digital
+knowledge resources, fostering an environment of continuous learning and innovation.
+Dr Hoa N. Nguyen is currently an Associate Professor of the Department ofInformation Systems at the VNU University of Engineering and Technology, Hanoi,
+Vietnam. He received the engineer ’s degree in computer science from Hanoi
+University of Science and Technology in 1999, and the PhD degree in computer
+science from Joseph Fourier University, France in 2005. Before joining the VNU
+University of Engineering and Technology, he joined the University of Tours,
+France, as an assistant professor in the computer department of Blois. He is invited as
+a professor of the Paris-Sud University in 2009. He has been appointed as the Head of the Departmentof Information Systems in 2010 and an Associate Professor in 2015. His research interests focus on
+AI-powered Systems, Big Data Management, Cyber Security and Biometric Security. Hoa N. Nguyen
+is the corresponding author and can be contacted at:
+hoa.nguyen@vnu.edu.vn
+For instructions on how to order reprints of this article, please visit our website:www.emeraldgrouppublishing.com/licensing/reprints.htmOr contact us for further details: permissions@emeraldinsight.comDLP
+41,1
+44

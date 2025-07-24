@@ -1,0 +1,1432 @@
+Smart Agricultural Technology 9 (2024) 100659
+Available online 21 November 2024
+2772-3755/© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-
+nc-nd/4.0/ ).
+Contentslistsavailableat ScienceDirect
+Smart  Agricultural  Technology
+journal  homepage:  www.journals.elsevier.com/smart-agricultural-technology
+An ontology-based  agriculture  decision-support  system  with  an 
+evidence-based  explanation  model
+AmaniFalahAlharbia,∗, MuhammadAhtishamAslamb, KhalidAliAsiryc, NaifRadiAljohania, 
+YuryGlikmanb
+aDepartment  of Information  Systems,  King Abdulaziz  University,  Jeddah,  23443, Saudi Arabia
+bFraunhofer  FOKUS,  Kaiserin-Augusta-Allee  31, Berlin, 10589, Germany
+cDepartment  of Agriculture,  King Abdulaziz  University,  Jeddah,  23443, Saudi Arabia
+A R T I C L E I N F O A B S T R A C T
+Keywords:
+Ontology  modeling
+Decision  support  systems
+Machine  reasoning
+Smart agriculture
+Semantic-webEﬀective  management  of plant diseases  and pests requires  knowledge  that covers multiple  domains.  At the same 
+time, retrieving  the relevant  information  in a timely manner  is always  challenging,  due to the unstructured  
+nature of agricultural  data. Over the years, eﬀorts have been made to develop  an ontology-based  Decision-
+Support  System  (DSS) to facilitate  the diagnosis  and control  of plant diseases.  Some major issues with these 
+systems  are that: (1) they do not adopt the full extent of the ontological  constructs  to represent  domain  entities,  
+which,  in turn, reduces  reasoning  capabilities  and prevents  systems  from being more intelligent,  (2) they do not 
+adequately  provide  the desired  level of knowledge  to support  complex  decisions,  which requires  many factors  to 
+be considered,  (3) they do not adequately  explain  or provide  evidence  to demonstrate  the validity  of the system’s  
+outputs.  To address  these limitations,  we present  a novel system  termed  Agriculture  Ontology  Based Decision  
+Support  System  (AgrODSS),  which aims to assist in plant disease  and pest identiﬁcation  and control.  AgrODSS  
+architecture  consists  of two semantic-based  models.  First, we developed  Plant Diseases  and Pests Ontology  (PDP-
+O) to capture,  model,  and represent  diseases  and pest knowledge  in a machine-understandable  format.  Second,  
+we designed  and developed  an Evidence-Based  Explanation  Model (EBEM)  that points to related  evidence  from 
+the literature  to demonstrate  the validity  of the system  outputs.  We demonstrate  the eﬀectiveness  of AgrODSS  
+by executing  various  queries  via AgrODSS  SPARQL  Endpoint  and obtaining  valuable  information  to support  
+decision-making.  Finally,  we evaluated  AgrODSS  practically  with domain  experts  (including  entomologists  and 
+pathologists)  and it produced  similar  answers  to those given by the experts,  with an overall  accuracy  of 80.66%.  
+These results demonstrate  AgrODSS’s  ability to assist agricultural  stakeholders  in making  proper  disease  or pest 
+diagnoses  and choosing  the appropriate  control  methods.
+1. Introduction
+Agricultural  production  is constantly  threatened  by various  diseases  
+and pests that aﬀect crops,  leading  to signiﬁcant  economic  losses and 
+raising  concerns  about food security  [1–4]. In 2021, it was estimated  
+that up to 40% of global  crop yield is lost annually  due to pests [5]. Pro-
+tecting  crops is challenging,  as a wide range of pests, including  insects,  
+plant pathogens,  and weeds,  can cause damage  [6]. Additionally,  agri-
+cultural  operations  rely on interconnected  knowledge  from various  do-
+mains,  requiring  the consideration  of multiple  factors  to make informed  
+decisions  [7]. However,  knowledge  about plant diseases  and pests is of-
+ten published  in heterogeneous,  human-oriented  formats,  making  the 
+* Corresponding  author.
+E-mail address:amalharbi0002@stu.kau.edu.sa (A.F.Alharbi).retrieval  of relevant  information  diﬃcult  and time-consuming.  In this 
+context,  transforming  such knowledge  into semantically  computable  re-
+sources  has become  a pressing  need, as it ensures  seamless  accessibility  
+for decision-makers  and facilitates  eﬃcient  processing  by computers.
+Ontology-based  knowledge  representation  emerged  as an outstand-
+ing approach  that can revolutionize  agriculture,  allowing  the integration  
+and coordination  of large amounts  of agricultural  information  from var-
+ious sources  and enabling  semantic  interoperability  between  diﬀerent  
+information  systems  [8,9]. Many ontology-based  systems  and applica-
+tions have been developed  in agriculture  to manage  and control  plant 
+pests and diseases  eﬀectively  [10–13]. Ontologies  are the pillars  of Se-
+mantic  Web Technologies  (SWTs).  They provide  an explicit  speciﬁcation  
+https://doi.org/10.1016/j.atech.2024.100659
+Received  14 October  2024; Received  in revised  form 16 November  2024; Accepted  16 November  2024
+Smart Agricultural Technology 9 (2024) 100659
+2A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+of concepts  within  a given domain  [14]. An ontology  is an approach  for 
+representing  real-world  objects  or concepts  as symbols  within  a struc-
+tured semantic  model.  In SWTs,  concepts  are referred  to as classes,  
+while relationships  between  these concepts  are deﬁned  as properties.  
+The logical  formalisms  behind  the ontological  models  give machines  a 
+human-like  commonsense  in problem-solving  and allow the inference  
+of new knowledge  from existing  knowledge.  The ﬂexibility  and rea-
+soning  capabilities  make ontologies  a powerful  alternative  to relational  
+databases,  which  demand  manual  creation  of every link, making  them 
+more diﬃcult  to manage  as knowledge  expands.
+This article  delves  into how ontology-based  decision  support  systems  
+can assist in plant disease  and pest identiﬁcation  and control.  However,  
+the identiﬁcation  of plant diseases  and pests is a complex  decision  and 
+knowledge-handling  problem.  Multiple  factors  aﬀect this decision,  rang-
+ing from environmental  conditions  to biological  causes  [6]. The sheer 
+volume  of information  available  on these factors  is overwhelming  and is 
+usually  scattered  among  several  heterogeneous  data sources  [15]. This 
+is where  an ontology-based  system  comes  into play due to its ability  
+to integrate  and coordinate  large amounts  of agricultural  information  
+emerging  from various  sources  and in diﬀerent  formats.  However,  for 
+those systems  to function  eﬀectively,  they need to provide  the desired  
+level of knowledge  to support  complex  decisions.  In addition,  decision-
+makers  need to trust and understand  the rationale  behind  a system’s  
+outputs  so that they can use them in a particular  situation  [16]. This can 
+be achieved  by providing  an explanation  or evidence  to demonstrate  the 
+validity  of system  outputs.  Evidence  is any information  item or data re-
+lated to some matter  that must be proven  or refuted,  it is data used to 
+support  statements  [17]. This article  presents  an Agriculture  Ontology-
+Based Decision  Support  System  (AgrODSS)  to assist in plant disease  and 
+pest identiﬁcation  and control.  It works  to extract,  process,  and pro-
+duce machine-understandable  information  to enable  knowledge-driven  
+decision-making  in agriculture.  The main contributions  of this work can 
+be summarized  as follows:
+•D e s i g n  and develop  a novel system  called  the Agriculture  Ontology-
+Based Decision  Support  System  (AgrODSS)  to support  agricultural  
+decision-making,  particularly  in plant disease  and pest identiﬁca-
+tion and control.  (The novelty  of this system  lies in its architecture,  
+which consists  of two semantic-based  models  that support  the genera-
+tion of inferences  and recommendations.)
+•D e s i g n  and development  of Plant Disease  and Pest Ontology  (PDP-
+O) that captures  key concepts  and relationships  within  the domain  
+of plant pests and diseases.  (In contrast  to other ontologies,  the PDP-
+O adapts  a range of ontological  constructs  to represent  domain  entities,  
+which,  in turn, increases  the quality  of its structured  measures  and max-
+imizes reasoning  capabilities.)
+•D e s i g n  and development  of the Evidence-Based  Explanation  Model  
+(EBEM)  to demonstrate  the validity  of the outputs  of AgrODSS  by 
+pointing  to related  evidence  from the literature.  (This addresses  the 
+dearth  of evidence  to demonstrate  the validity  of system  outputs  and 
+makes  scientiﬁc  knowledge  easily accessible.)
+• Establishing  the SPARQL  endpoint  as a web-based  interface  of 
+AgrODSS  and executing  various  queries.  The results  of these queries  
+were analyzed  and reported  to demonstrate  the system’s  eﬀective-
+ness as a use case in identifying  diseases  and pests and recommend-
+ing appropriate  control  methods.
+•T h e results  of applying  AgrODSS  to the domain  of date palm pests 
+and diseases  were evaluated  by domain  experts,  including  entomol-
+ogists and pathologists.
+2. Related  work
+SWTs and ontologies  have much potential  for data modeling  and ma-
+chine reasoning  in various  domains,  including  agriculture.  Several  well-
+known  ontologies  and controlled  vocabularies  have been developed  by 
+international  organizations  and working  groups  to represent  agriculture  knowledge.  AGROVOC1is the most comprehensive  controlled  vocabu-
+lary in this domain  [18]. It contains  more than 40,600  concepts  and 
+963,000  terms in 41 languages.  Similarly,  the National  Agricultural  
+Library  Thesaurus  (NALT)2was developed  to improve  agricultural  in-
+formation  indexing  and retrieval  and contains  more than 135,000  terms 
+divided  into 17 subject  categories,  such as food science,  animal  care, 
+genetics,  enzymes,  chemistry,  plant diseases,  environmental  sciences,  
+and biological  sciences  [19]. However,  AGROVOC  and NALT lack a 
+precise  classiﬁcation  for plant diseases  and pests. For instance,  hierar-
+chical  relationships  are informally  expressed  with two properties  (i.e., 
+skos:broader  and skos:narrower)  which,  unlike  rdfs:SubClassOf,  lack ex-
+plicit semantic  inference  rules. This informal  structure  causes  confusion  
+in semantic  interpretation  and reduces  the computational  power  of rea-
+soning  engines.  Plant Ontology  (PO)3is the most popular  controlled  
+vocabulary  to describe  plant anatomy  and development  stages  [20]. 
+However,  it lacks vocabulary  for diseases  and pests.
+Considerable  research  eﬀorts  have been made to develop  ontology-
+based systems  to identify  and control  plant diseases  and pests. For exam-
+ple, in [21,22]the authors  present  CropPestO,4an ontology  developed  
+as the cornerstone  of an expert  system  to support  farmers’  identiﬁcation  
+of pests and to recommend  the appropriate  control  measures,  with a fo-
+cus on organic  agriculture  practices.  However,  some pests are associated  
+with a sole symptom,  which  is insuﬃcient  to identify  diseases  accu-
+rately.  The Plant Disease  Ontology  (PDO)5classiﬁes  plant disease  based 
+on the causal  agents  and host plant, focusing  on three plants:  maize,  
+wheat,  and rice [23]. However,  this work does not consider  the rela-
+tionship  between  plant disease  and its symptoms  or host plants,  and this 
+is essential  to disease  identiﬁcation.  Similarly,  Plant-Pathogen  Interac-
+tions Ontology  (PPIO)6was created  to describe  the interaction  between  
+a host plant and pathogens  [24,25]. PPIO focused  on modeling  relation-
+ships between  plants  and their pathogens;  however,  it did not consider  
+other aspects  related  to plant diseases,  such as control  methods.  In [26]
+the authors  present  a Crop-Pest  Ontology  developed  to facilitate  image  
+retrieval  in the domain  of crops and their pests to address  the limita-
+tion of the keyword-based  image  retrieval  approach.  This ontology  lacks 
+crucial  relationships  between  key concepts,  which  are essential  for ef-
+fectively  identifying  plant diseases  or pests. In [27]a Plant Protection  
+Ontology  (PPOntology)  was developed  to capture  and model  agricul-
+tural knowledge  related  to cereal  plant protection,  especially  barley  
+disorders.  Although  this work presents  a useful  modeling  approach  to 
+represent  domain  knowledge,  it lacks suﬃcient  information  about con-
+trol methods,  which  are limited  to a single category,  ‘pesticide’,  and 
+there is no clear link between  this category  and the plant disorder  or or-
+ganism.  In [28]an ontology  was created  to model  knowledge  related  to 
+the domain  of plant-pathology,  focusing  on diseases  of short-cycle  and 
+perennial  crops.  For disease  identiﬁcation  this ontology  relies on a set 
+of Semantic  Web Rule Language  (SWRL)  rules to describe  plant diseases  
+by their associated  symptoms;  however,  these rules specify  the inferred  
+disease  only when the provided  symptoms  match  the set of symptoms  
+that describe  that disease.
+In [29]t h e authors  present  RiceMan,  an expert  system  developed  
+based on Rice Disease  Ontology  (RiceDO)  and Treatment  Ontology  
+(TreatO)  [30,31]. These ontologies  model  knowledge  of plant diseases,  
+focusing  on rice diseases  in Thailand.  In this work each rice disease  is 
+described  on the basis of a class expression  using the rdfs:SubClassOf  
+relationship  (in other words,  the class has no individuals  or instances).  
+Although  this modeling  approach  can represent  domain  knowledge  
+successfully,  it limits the inference  process  to subsumption  reasoning  
+1https://agrovoc  .fao .org /browse  /agrovoc  /en/.
+2https://agclass  .nal .usda .gov.
+3https://ontobee  .org /ontology  /PO.
+4http://agrisemantics  .inf .um .es /ontologies  /CropPestOv2  .owl.
+5https://github  .com /Planteome  /plant -disease  -ontology.
+6https://code  .google  .com /archive  /p /plant -pathogen  -interacions  -ontology/.
+Smart Agricultural Technology 9 (2024) 100659
+3A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+and reduces  the usability  of SPARQL  queries.  Similarly,  in [2]t h e au-
+thors present  a knowledge-based  decision  support  system  that relies on 
+AgriEnt-Ontology  to represent  agricultural  entomology  knowledge  to 
+support  farmers  in identifying  and managing  insect pests. This system  
+relies on ontology  and rule-based  inference  to diagnose  insect pests. 
+However,  the dependency  on the predeﬁned  rules to identify  a given 
+pest makes  it necessary  to provide  all the symptoms  involved  in these 
+rules for the system  to correctly  diagnose  this insect pest. This reduces  
+the matching  process  between  entered  and stored  data, since maybe  not 
+every single symptom  is noticed  and provided  by users. In [32]the au-
+thors present  PCT-O  ontology  that is leveraged  to build a recommenda-
+tion system  to facilitate  plant pests’ identiﬁcation  and recommendations  
+of suitable  treatments.  However,  symptoms  produced  by pests are de-
+scribed  textually,  which  causes  diﬃculties  in reasoning  over this data. In 
+addition,  no relationships  were considered  between  the symptoms  and 
+the aﬀected  parts, or between  pests and the most susceptible  varieties.
+In summary,  most of the works  discussed  above  use ontologies  
+to capture  and represent  agricultural  knowledge  to support  decision-
+making.  However,  they do not model  all important  aspects  of the do-
+main (e.g., disease  and pest identiﬁcation  and control),  resulting  in 
+insuﬃcient  knowledge  models  for intelligent  decision-support  systems.  
+Although  they implemented  ontologies  in OWL, they did not fully uti-
+lize its expressiveness  to adequately  represent  domain  entities,  which,  
+in turn, impacts  the quality  of structural  measures  and limits the reason-
+ing capabilities.  Furthermore,  the lack of explainability  or evidence  to 
+demonstrate  the validity  of system  outputs  ultimately  negatively  aﬀects  
+stakeholders’  acceptance  and trust of system  recommendations.  Tables1
+and 2summarize  and compare  existing  ontologies  and vocabularies  in 
+agriculture.  Table1compares  existing  ontologies  with respect  to the 
+structural  measures  used to represent  domain  knowledge.  It shows  that 
+most of the developed  ontologies  have not fully utilized  the range of on-
+tological  constructs  (such as achieving  an adequate  level of granularity  
+to represent  key classes,  using owl:restrictions  to describe  key classes,  
+deﬁning  domains  and ranges  for properties,  specifying  property  char-
+acteristics,  deﬁning  an adequate  number  of object  or data properties  to 
+model  complex  relationships  between  concepts,  and populating  classes  
+with suﬃcient  instances)  to eﬀectively  describe  domain  entities.  These 
+constructs  represent  the most signiﬁcant  advantage  of semantic-based  
+modeling,  playing  a crucial  role in enhancing  the semantic  reasoning  
+capabilities  of ontological  models.  Table2compares  existing  ontologies  
+with respect  to the knowledge  aspects  covered  by the developed  on-
+tologies  and the extent  to which  they represent  important  aspects  and 
+relationships  between  domain  concepts.
+3. AgrODSS:  agriculture  ontology-based  decision  support  system
+AgrODSS  is an ontology-based  DSS system  that aims to support  
+decision-making  in identifying  and controlling  plant diseases  and pests. 
+The decision-support  aspects  of this system  are to assist stakeholders  
+(e.g., farmers,  policymakers,  and advisors)  in properly  diagnosing  dis-
+eases and pests, and helping  them make informed  decisions  on appropri-
+ate control  methods.  In addition,  it provides  explanations  and evidence  
+to increase  users’ knowledge  and trust of the system  recommendations.  
+The architecture  of AgrODSS  and the workﬂow  of system  development  
+are described  in the following  subsections.
+3.1. AgrODSS:  architecture
+It is recognized  that, to eﬀectively  manage  and analyze  information  
+for decision-making,  decision  support  systems  should  include  at least 
+three core components:  (1) a database,  (2) a model  processing  compo-
+nent, and (3) a user interface  [33]. From this perspective,  AgrODSS  is 
+built on a layered  functional  architecture  with three layers  (see Fig.1): 
+(1) the semantic  layer, (2) the processing  layer, and (3) the web inter-
+face layer. The layers  and components  of AgrODSS  are described  below.
+Fig. 1.GeneralarchitectureofAgrODSS.
+3.1.1. Semantic  layer
+The semantic  layer of AgrODSS  consists  of two semantic-based  mod-
+els: PDP-O  and EBEM.  On the one hand, the role of PDP-O  is to capture  
+key concepts,  terms,  and relationships  related  to plant diseases  and 
+pests, representing  them in a machine-understandable  format.  On the 
+other hand, the role of the EBEM  is to semantically  annotate  knowledge  
+sources  related  to plant diseases  and pests to demonstrate  the validity  
+of AgrODSS  recommendations  by pointing  to related  evidence  from the 
+literature.  Both PDP-O  and EBEM  form the knowledge  base of our sys-
+tem; they consist  of a T-Box (or ontology  schema)  and an A-Box,  which  
+contains  RDF data (or instances)  of classes  deﬁned  by the T-Box.  De-
+tailed descriptions  of the design  and development  of PDP-O  and EBEM  
+are presented  in Sections3.2.3and 3.2.4, respectively.
+3.1.2. Processing  layer
+This layer comprises  three core components  responsible  for man-
+aging,  analyzing,  and inferring  information  for the decision-making  
+process:  a graph database  (for storing  RDF data in the form of a knowl-
+edge graph),  a query engine  (to access  the graph database  and retrieve  
+information  based on structured  queries),  and a reasoner  engine  (for 
+computing  inference  rules embedded  in the semantic  layer and generat-
+ing inferred  RDF triples).  We implemented  AgrODSS  using GraphDB,7a 
+semantic  repository  that supports  storing,  manipulating,  reasoning,  re-
+trieving,  and visualizing  RDF data.
+This layer serves  as an intermediary  between  the semantic  layer and 
+the web interface  layer. The query engine  processes  SPARQL  queries  
+involving  input data (such as symptoms,  environmental  conditions,  
+and crop type) and searches  the system  knowledge  base for potential  
+matches  related  to this input.  Meanwhile,  the reasoning  engine  com-
+putes implicit  relationships  among  data elements  deﬁned  in the seman-
+tic layer, inferring  possible  matches  (e.g., diseases  or pests) relevant  to 
+user queries.
+3.1.3. Web services  layer
+Currently,  the web-based  SPARQL  endpoint  serves  as a means  of ac-
+cessing  AgrODSS  (Access  to this SPARQL  endpoint  can be provided  
+on demand).8A SPARQL  endpoint  is a front-end  interface  that allows  
+users (humans  or applications)  to access,  browse,  and query the system’s  
+7https://graphdb  .ontotext  .com.
+8https://agrodss  .fokus .fraunhofer  .de /graphdb/.
+Smart Agricultural Technology 9 (2024) 100659
+4A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Table 1
+Comparative  analysis  of existing  agricultural  ontologies  (with respect  to the quality  of structural  measures).
+OntologyName Ontology’sLanguage StructuralMeasures
+Key classes*are 
+described  using 
+OWL:RestrictionsAdequate  level of granularity  to 
+represent  key classes using 
+rdfs:subClassOfProperties  
+domain  and 
+range deﬁnedProperty  
+characteris-
+tics deﬁnedObject 
+property  
+countData property  
+countIndividual  
+count
+AGROVOC[ 18]S K O S / R D F / X M L No No No No 0 0 0
+NationalAgriculturalLibraryThesaurus(NALT)[ 19]S K O S / R D F - X M L No No No No 0 0 0
+PlantDiseaseOntology(PDO)[ 23]O W L Partial Partial No No 4 0 0
+CropPestO[ 21]O W L No No Yes No 8 0 11754
+Crop-PestOntology[ 26]O W L No Partial Yes No 36 4 14
+PPOntology[ 27]O W L Yes Partial Yes Partial 15 8 548
+RiceDOandTreatO[ 30,31]O W L Yes Partial Yes No 23 0 0
+PPIO[24,25]O W L Partial Partial No No 13 1 26
+AgriEnt-Ontology[ 2]O W L No Partial Yes Partial 8†0†19†
+PCT-O[32]O W L No Partial No No 7†14†49,773†
+ProposedPDP-O OWL Yes Yes Yes Yes 88 32 555
+*Key classes  (i.e., plant diseases  or pest damage,  causal agents,  symptoms,  control  methods)  because  these classes  play an essential  role in disease  or pest identiﬁcation  and control.
+†An estimated  count is derived  from an excerpt  of the ontology,  as the complete  ontology  ﬁle is unavailable.  A selection  of representative  classes  and properties  has been provided  to illustrate  the ontology’s  style and 
+coverage  aspects.
+Smart Agricultural Technology 9 (2024) 100659
+5A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Table 2
+Comparative  analysis  of existing  agricultural  ontologies  (with respect  to the knowledge  aspects  covered  by the ontology).
+Ontology  Name Domain  of interest Relation  
+between  
+disease or 
+damage  and 
+causal agentsRelation  
+between  
+disease or 
+pest and 
+symptomsRelation  
+between  
+symptom  and 
+aﬀected  plant 
+partsRelation  
+between  
+disease or 
+pest and 
+susceptible  
+varietiesRelation  
+between  
+disease or 
+pest and 
+outbreak  timeRelation  
+between  
+disease or 
+pest and 
+control 
+methodsRelation  
+between  
+disease or 
+pest and host 
+plantProvide  
+evidence  or 
+link to 
+knowledge  
+source
+AGROVOC  [18] Areas of interest  to FAO such as animals,  plant, 
+ﬁsheries,  food, nutrition,  forestry,  
+environment...stc.✓ ✓ ✗ ✗ ✗ ✓ ✓
+National  Agricultural  Library 
+Thesaurus  (NALT)  [19]Food science,  animal care, genetics,  enzymes,  
+chemistry,  plant diseases,  environmental  sciences,  
+and biological  sciences.✗ ✗ ✗ ✗ ✗ ✗ ✗ ❍
+Plant Disease  Ontology  (PDO)[23]Describing  plant diseases  based on the causal agents 
+and host plant, mainly:  maize, wheat and rice.✓ ✗ ✗ ✗ ✗ ✗ ✗ ✗
+CropPestO  [21] Plant pests and diseases  identiﬁcation  and control 
+methods  focusing  on organic  farming.✗ ✓ ✗ ✗ ✗ ✓ ✓ ✗
+Crop-Pest  Ontology  [26] Modeling  of concepts  in crops and related pests 
+domain  to facilitate  image retrieval.✗ ✗ ✓ ✗ ✗ ✗ ✓ ✗
+PPOntology  [27] Plant protection,  in particular  provide  diagnosis  and 
+treatment  of barley disorders.✓ ✓ ✓ ✗ ✗ ✗ ✗ ✗
+RiceDO  and TreatO [30,31] Plant diseases  identiﬁcation  and control with a focus 
+on rice diseases.✓ ✓ ✓ ✗ ✗ ✓ ✗ ✗
+PPIO [24,25] Modeling  the host-pathogen  interaction  and the 
+resulting  phenotype.✗ ✓ ✗ ✓ ✗ ✗ ✓ ✗
+AgriEnt-Ontology  [2] Modeling  entomology  knowledge  to facilitate  
+identifying  and managing  insect pests.✓ ✓ ✗ ✗ ✗ ✓ ✓ ✓
+PCT-O [32] Modeling  of the interactions  between  pests, crops, 
+and treatments  to facilitate  pests identiﬁcation  and 
+the selection  of appropriate  treatments.✗ ✓ ✗ ✗ ✓ ✓ ❍ ✓
+Proposed  PDP-O Modeling  of agriculture  knowledge  to assist in 
+decision  making  regarding  plant disease 
+identiﬁcation  and control,  emphasizing  of date palm 
+disease and insect pests.✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+‘✓’=meanscoverage;  ‘❍’=meanspartialcoverage;  ‘✗’=meansnocoverage.
+Smart Agricultural Technology 9 (2024) 100659
+6A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 2.WorkﬂowwithintheAgrODSSSystem.
+knowledge  base to retrieve  speciﬁc  information.  The results  of seman-
+tic query analysis  and reasoning  are displayed  in this layer in either 
+tabular  format  or as a knowledge  graph.  We present  use cases for exe-
+cuting  various  SPARQL  queries  via the AgrODSS  SPARQL  endpoint  in 
+Section3.2.4.
+3.2. The workﬂow  of AgrODSS  development
+To develop  AgrODSS,  we designed  a research  roadmap  consisting  of 
+ﬁve phases  (see Fig.2): (1) requirements  speciﬁcation,  (2) knowledge  
+acquisition,  (3) ontology  design  and development,  (4) evidence-based  
+explanation  model  design  and development,  and (5) establishment  of 
+the AgrODSS  web-based  SPARQL  endpoint.  The following  subsections  
+provide  a detailed  description  of each phase.
+3.2.1. Requirements  speciﬁcation
+This phase aims to assess the feasibility  of developing  AgrODSS  as a 
+practical  solution  for supporting  decision-making  in the agricultural  do-
+main. Additionally,  it focuses  on gathering  information  about user needs 
+to identify  system  requirements.  Our approach  to specifying  AgrODSS  
+requirements  incorporates  three requirements  elicitation  techniques:
+1.Literature  review  and analysis: This involved  reading  and analyzing  
+related  work, browsing  oﬃcial  institutions’  websites,  and reviewing  
+publications  from authoritative  sources  (e.g., statistical  reports,9
+guidelines,10and expert  opinions).
+9https://ncpd  .gov .sa /statistics.
+10https://ncpd  .gov .sa /services  /page /farm1  /palm -care -guide.2.Consultations  with domain  experts: We conducted  this task by holding  
+regular  online  meetings  with two domain  experts  (one entomolo-
+gist and one pathologist),  each with over 10 years of experience  
+in plant diseases  and pests, particularly  those aﬀecting  date palm 
+crops.  They provided  us with essential  knowledge  that our ontology  
+should  cover to perform  proper  diagnosis  and recommend  suitable  
+control  methods.  For example,  they emphasized  focusing  on the 
+major diseases  and economically  signiﬁcant  insect pests impacting  
+date palms.  In addition,  they shared  an Excel datasheet  containing  
+names  of diseases  and insect pests, associated  symptoms,  aﬀected  
+plant parts, favorable  environmental  conditions,  and suggested  con-
+trol methods.  Furthermore,  they recommended  including  images  
+that illustrate  the symptoms  associated  with each disease  or pest. 
+Finally,  they provided  us with knowledge  sources  for further  infor-
+mation  extraction  to expand  the system’s  knowledge  base.
+3.Cross-sectional  survey: A cross-sectional  survey  was shared  with 217 
+people  in the agricultural  sector  (farmers,  researchers,  advisors,  
+guidance  oﬃces,  government  agencies,  professionals,  and scien-
+tists) in Saudi Arabia  to identify:  (1) the need for information  tech-
+nologies  in supporting  agricultural  decisions,  (2) the diﬃculties  in 
+the management  of diseases  and pests of date palms,  and (3) stake-
+holders’  attitudes  towards  the use of technology  to facilitate  making  
+their decisions.  An example  of the important  ﬁndings  revealed  by 
+the survey  is that current  practice  is traditional,  as 33.6%  of stake-
+holders  rely on previous  experience  to manage  disease  and pests. In 
+addition,  there is a lack of technological  solutions,  as only 8.3% of 
+stakeholders  use technology  to support  their decisions  (More infor-
+mation  about the survey  and its ﬁndings  can be found in Supplementary  
+data A).
+Smart Agricultural Technology 9 (2024) 100659
+7A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Table 3
+AgrODSS  main functional  requirements  and corresponding  CQs.
+Requirements  Category Functional  Requirements Competency  Questions  (CQ)
+DiagnosisofdiseasesandpestsFR1: System shall correctly  identify  the nature or 
+identity  of a problem  present in a plant based on 
+external  symptoms  expressed  by a plant or a 
+particular  part.CQ1:What are the abnormal  symptoms  observed  on a plant, or its 
+parts, indicate?
+CQ2:What kind of problem  do these symptoms  indicate?
+CQ3:What are plant parts aﬀected  by this disease or pest?
+CQ4:What are the factors that contribute  to the emergence  of this 
+disease or damage?
+CQ5:What is the nature of these factors that caused this disease or 
+damage?
+CQ6:What are the varieties  or cultivar  susceptible  to this 
+disease/pest?
+FR2: System shall display all possible  symptoms  
+associated  with a particular  disease or pest.CQ7:What are all possible  symptoms  associated  with a particular  
+disease?
+FR3: System shall provide  information  to describe  
+characteristics  associated  with symptoms  exhibited  by a 
+plant (i.e., the progression  and distribution  of 
+symptoms).CQ8:How symptoms  associated  with a particular  disease or damage  
+look like?
+CQ9:Are there symptoms  on the roots, leaves, stems, ﬂowers,  or fruit?
+CQ10:Is the entire plant involved  or side of a plant involved?
+IdentifycausalagentsFR4: System shall identify  all possible  (abiotic  or biotic) 
+factors that contribute  to the emergence  of a particular  
+disease/past.CQ11:What are the environmental  factors that contribute  to the 
+emergence  of a particular  disease/past?
+CQ12:What are the cultural  practices  that contribute  to the 
+emergence  of a particular  disease/past?
+CQ13:What are the biotic factors that contribute  to the emergence  of 
+a particular  disease/past?
+Recommend  the appropriate  
+control methodFR5: System shall provide  users with the 
+recommendations  to control a particular  disease/past  
+based on observed  symptoms  and plant aﬀected  part.CQ15:What is the suitable  chemical  control of a particular  
+disease/past?
+CQ16:What is the suitable  culture control of a particular  
+disease/past?
+CQ17:What is the suitable  biological  control of a particular  
+disease/past?
+FR6: System shall provide  users with instruction  on how 
+to apply the recommended  control method.CQ18:How is the recommended  control method  can be applied?
+Provide  evidence  to support  
+recommendationsFR6: System shall provide  users with evidence  to show 
+the validity  of its recommendations.CQ19:What evidence  supports  the recommended  control method?
+Therefore,  based on the results  obtained  by carrying  out the three 
+elicitation  tasks, we speciﬁed  the AgrODSS  requirements,  including  its 
+purpose,  scope and limitations,  intended  end-users,  and functional  re-
+quirements,  as follows:
+•AgrODSS  purpose: is to provide  various  stakeholders  in the agri-
+culture  ﬁeld with computerized-based  decision  support  to assist in 
+plant diseases  and pest identiﬁcation  and control.
+•AgrODSS  scope and limitations: AgrODSS’  scope is plant disease  and 
+pest identiﬁcation  and control.  The identiﬁcation  of diseases  and 
+pests is based on external  symptoms  visible  to the human  eye, such 
+as leaf spots, mildew,  wilting,  discoloration,  and similar,  therefore  
+internal  symptoms  are not included.  For the use case purposes,  we 
+populated  the knowledge  base with data related  to date palm dis-
+eases and pests. This is because  the date palm is an important  food 
+crop and plays a signiﬁcant  role in the economy  of countries.  It is 
+prone to attack  by many pests and diseases,  causing  roughly  a 30% 
+loss in yield [34]. Furthermore,  like other knowledge  areas in agri-
+culture,  retrieving  the information  relevant  to date palms  poses a 
+challenge  as most of the domain  knowledge  is in a human-oriented  
+format  and there is a deﬁciency  of semantic-based  representation.  
+Considering  the abovementioned  importance  and deﬁciencies,  the 
+rationale  for our choice  is justiﬁed.
+•AgrODSS  target audience: the targeted  end users of AgrODSS  are: 
+(1) Farmerswho are looking  to identify  diseases  and pests early to 
+prevent  their spread  and to obtain  suitable  treatments  to reduce  
+the impact  of pests and diseases  on their crops,  (2) Advisorswho 
+need support  to recognize  the relationship  between  symptoms  and 
+diseases,  and between  diseases  and their causes.  Without  intelli-
+gent systems,  they rely on experience  and need to memorize  all the 
+complex  relationships  to make proper  diagnoses  or suggest  the ap-
+propriate  control  measures,  (3) Researchers  and Studentswho can 
+use AgrODSS  to investigate  the relationships  between  entities  (e.g., 
+symptoms  and pathogens)  and simulate  speciﬁc  scenarios  for their research,  and (4) Government  Agencies, AgrODSS  provides  a stan-
+dard data model  that can facilitate  data integration  from various  
+data sources  in these organizations  to assist managers  in making  
+decisions  based on data and evidence  rather  than pure intuition.
+•AgrODSS  functional  requirements : Table3illustrates  AgrODSS’  main 
+functional  requirements,  classiﬁed  into four categories  with corre-
+sponding  Competency  Questions  (CQs).  CQs are user-oriented  ques-
+tions; in other words,  questions  that users would  like to answer  
+by exploring  and querying  AgrODSS.  Furthermore,  CQs outline  the 
+scope of the ontology  and play an essential  role in its development  
+and evaluation,  ensuring  it meets user requirements.
+3.2.2. Knowledge  acquisition
+Based on the requirements  identiﬁed  in the previous  phase (i.e., Sec-
+tion3.2.1), we conducted  knowledge  acquisition  activities.  Knowledge  
+acquisition  is a continuous  and independent  activity  throughout  the 
+ontology  development  process,  aiming  to capture  the most important  
+concepts  and relationships  within  the domain  of interest.  In this work, 
+we relied on several  knowledge  sources  for knowledge  acquisition,  cat-
+egorizing  them as structured  (e.g., ontologies)  and unstructured  sources  
+(e.g., research  articles,  books,  guideline  documents,  and Excel spread-
+sheets).
+•Knowledge  acquisition  from analyzing  structured  sources: this activity  
+aimed  to extract  the relevant  concepts  and relationships  from ex-
+isting ontologies  for reuse in our ontology,  and helped  to speed up 
+the ontology  construction  process.  Our survey  of available  ontolo-
+gies included  searching  in search  engines  and ontology  repositories  
+such as AgroPortal  [35](which  can be navigated  online11) and Crop 
+Ontology  [36], which  provides  an open-source  web interface  known  
+11https://agroportal  .lirmm  .fr.
+Smart Agricultural Technology 9 (2024) 100659
+8A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 3.Knowledgeacquisitionbyanalyzingofthreeofexistingontologies.
+as (Crop Ontology  Curation  Tool)12for ontology  sharing.  We inves-
+tigated  and analyzed  a set of ontologies  in the agriculture  domain,  
+particularly  concerning  pests and plant diseases.  The most relevant  
+ontologies  are the Plant Disease  Ontology  (PDO),  Plant Protection  
+Ontology  (PPOntology),  Crop-Pest  Ontology,  Plant-Pathogen  Inter-
+actions  Ontology  (PPIO),  RiceDO  and TreatO,  and CropPestO.  Alist 
+of classes  and properties  extracted  from each of these ontologies  
+to construct  our ontology  can be found in Supplementary  data A). 
+By comparing  these ontologies,  we found similar  concepts  to rep-
+resent  plant diseases  and pests. These concepts  may overlap,  and 
+some may have the same meaning,  but our goal is to speed up the 
+construction  of PDP-O  by reusing  terms or concepts  from existing  
+well-deﬁned  ontologies.  Fig.3illustrates  the process  of analyzing  
+and comparing  three existing  ontologies,  PPOntology,  PDO, and 
+Crop-Pest  Ontology,  showing  some class hierarchies  of these on-
+tologies  and the similarity  between  classes.
+•Knowledge  acquisition  by analyzing  unstructured  sources: this activity  
+aimed  to expand  the knowledge  base by analyzing  non-ontological  
+knowledge  sources  and adding  further  terms that were not included  
+in previous  ontologies,  in addition  extracting  axioms  and individ-
+uals for ontology  population  and enrichment.  This activity  was 
+carried  out manually  to extract  information  from text documents.  
+The rationale  behind  the manual  approach  is that the complexity  
+of domain  knowledge  and overlapping  between  terms make adapt-
+ing fully automatic  text analysis  techniques  ineﬀective.  Besides,  
+accurately  extracting  ontology  entities  and mapping  them to the 
+corresponding  class with appropriate  relations  requires  designat-
+ing complex  natural  language  processing  (NLP) algorithms,  which  
+have been proven  inaccurate  [37]or not encouraging  [32]. Our cor-
+pus is knowledge  resources  related  to plant disease  in general,  but 
+we gave special  attention  to sources  related  to the cultivation  of the 
+12https://cropontology  .org.date palm. These knowledge  sources  provide  reliable  information  
+on date palm pests and diseases,  and describe  the signs and symp-
+toms of each disease  and the causal  agent (such as fungus  and insect 
+pests).  The ﬁrst step in the extraction  process  was to parse the tex-
+tual content  to extract  related  entities  and available  images  from 
+the source  ﬁles. Then, the textual  content  was transformed  into in-
+stances  according  to the PDP-O  model  and used to ﬁll the various  
+properties  to describe  ontology  instances,  while images  of pests and 
+symptoms  are stored  as a graphical  description  of related  instances.  
+After that, each item of textual  content  was stored  with the corre-
+sponding  knowledge  source  to identify  the scientiﬁc  evidence  of the 
+facts stored  in the ontology.  The main issue of these data sources  
+is their heterogeneity  since none is completely  structured  and uni-
+form. Some provide  the information  in tables,  but most information  
+is described  in plain text. Fig.4illustrates  the knowledge  acquisi-
+tion process  by analyzing  the textual  content  of one such knowledge  
+source.  Acquisition  of extensive  knowledge  about date palm pests 
+and diseases  allowed  us to achieve  good coverage  of the axioms  
+required  to model  various  relationships  between  ontology  entities,  
+to represent  them as OWL axioms,  and thus increase  the computa-
+tional power  of our ontology.
+3.2.3. Plant Diseases  and Pests Ontology  (PDP-O)  design and development
+This phase is one of the most important  in the development  of the 
+AgrODSS.  It focuses  on knowledge  modeling  by adding  semantics  to 
+the processed  data from the previous  phase (i.e., Section3.2.2) to cre-
+ate PDP-O.  PDP-O  was implemented  using the Web Ontology  Language  
+(OWL),13allowing  us to describe  domain  concepts  and express  far more 
+complex  relationships  that are bound  to exist between  these concepts.  
+As a suitable  ontology  development  environment,  we chose Java-based  
+Protégé  [38]. Protégé  is an open-sourced  ontology  editor  designed  to 
+13http://www  .w3 .org /TR /2012 /REC -owl2 -overview  -20121211/ .
+Smart Agricultural Technology 9 (2024) 100659
+9A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 4.A representative  view of the conversion  process  for knowledge  published  in traditional  PDF format  as non-machine-understandable  data (on the left) into 
+machine-understandable  data in RDF format  (on the right).
+facilitate  the creation  of OWL ontologies,  and it is supported  by a set 
+of plugins  such as Pellet Reasoner,  to verify automatically  the ontology  
+consistency.
+Ontology  development  is an iterative  engineering  process  of several  
+fundamental  steps to ensure  the correct  achievement  of deliverables.  In 
+this work, three popular  ontology  engineering  methodologies  [39–41]
+were considered  as the baseline  for building  PDP-O.  Each methodol-
+ogy has its unique  features,  but in general,  the overall  approach  in-
+volves  ontology  development  steps that do not vary widely.  While these 
+methodologies  deﬁne  the necessary  steps or workﬂows  for develop-
+ing the ontology,  we continuously  collaborated  with domain  experts  
+through  online  workshops  to establish  a commonly  agreed  knowledge  
+framework.  They veriﬁed  that each class was relevant  to our domain  
+of interest,  that all classes  were arranged  within  the correct  taxonomy  
+and suitable  level of granularity,  and that all classes,  properties,  and 
+their deﬁnitions  (both formal  and informal)  communicate  the intended  
+meaning  and accurately  represented  the characteristics  of the domain.
+The implementation  of PDP-O  started  with the automatic  import  of 
+relevant  classes  and properties  from existing  ontologies  (as mentioned  in 
+Section3.2.2). This import  was achieved  through  soft reuse [42], which  
+involves  directly  copying  selected  ontology  classes  and properties  from 
+the source  ontology  into our ontology  using the ‘Refactor’  tab in Pro-
+tégé. Original  axioms  deﬁning  entities  were removed  to maintain  consis-
+tency of our ontology.  For instance,  classes  such as Microorganism,  Pest, 
+Pest_Insect,  Pest_Mite,  Cultural_Practice , as well as properties  like has_cul-
+tural_practice  and scientiﬁc_name , were imported  from PPOntology.  Once 
+entities  are imported,  the next task was to extend  the ontology  by 
+adding  additional  classes,  properties,  and axioms,  organizing  them, and 
+creating  semantic  links between  various  ontology  entities.  Currently,  
+PDP-O  consists  of eleven  top-level  classes  (i.e., Plant_Disease , Pest_Dam-age, Symptom, Causal_Agent , Host_Plant, Plant_Part, Plant_Variety , Symp-
+tom_Characteristic , Time, Control_Method , and Causal_Agent_Trait ), which  
+are the root of their own sub-trees.  These classes  and their own sub-
+classes  represent  basic concepts  within  the subject  of plant diseases  and 
+pests. An excerpt  from the PDP-O  is illustrated  in Fig.5.
+We aimed  to address  the limitations  of previous  works  by develop-
+ing a domain  ontology  with far stronger  reasoning  ability  and providing  
+suﬃcient  knowledge  to support  complex  decisions.  Our approach  to 
+achieve  these goals consists  of ﬁve main strategies:  (1) building  PDP-
+O class hierarchy  with a ﬁner level of granularity,  (2) enhancing  PDP-O  
+classes  description  using OWL axioms,  (3) relationship  modeling  for en-
+hanced  reasoning,  (4) enriching  the meaning  of PDP-O  properties  by 
+attaching  property  characteristics,  (5) populating  PDP-O  classes  with 
+suﬃcient  instances  (or individuals).  The following  points  provide  a de-
+tailed description  of each one of these strategies.
+•Building  PDP-O  class hierarchy  with a ﬁner level of granularity
+Class hierarchies  deﬁne  a speciﬁc  type of binary  relation  that cap-
+tures inheritance  between  classes.  In OWL ontologies,  the standard  
+construct  for representing  this relationship  is rdfs:subClassOf.  We 
+paid special  attention  to classify  each key class in PDP-O  to a ﬁner 
+level of granularity.  For instance,  the Causal_Agent class tree pro-
+vides an extended  taxonomy  that semantically  describes  disease-
+causing  agents,  including  both biotic and abiotic  agents  (see Fig.5). 
+To represent  biotic agents  we started  with the Microorganism class 
+and listed its subclasses  (that include  Fungi, Bacteria,  Nematodes,  
+Viruses,  Phytoplasmas,  Protozoa,and Viroid). However,  after care-
+fully studying  domain  knowledge,  we concluded  that other organ-
+isms aﬀect plant health  but are not considered  to be pathogens,  such 
+as insects  and mites,  so we created  a class called  𝑃𝑒𝑠𝑡to represent  
+Smart Agricultural Technology 9 (2024) 100659
+10A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 5.AnexcerptfromthePDP-O.
+those organisms.  Then, to organize  these classes  into a hierarchal  
+relationship,  we created  a more general  class that includes  all pre-
+vious classes  called  Organism, which  is a subset  of the more general  
+class called  Biotic_Casual_Agent . The same approach  was taken to 
+other superclasses  (e.g., Symptom,  Plant_Disease,  Pest_Damege , and 
+Plant_Part). When we built the class hierarchy  with a ﬁner level 
+of granularity  using rdfs:subClassOf,  we enhanced  the subsumption  
+reasoning  to infer automatically  that members  of the subclass  are 
+included  as members  of the superclass.  This simple  inference  mech-
+anism  in knowledge  representation  gives ontology  its advantage  
+over traditional  databases.
+•Enhancing  PDP-O  classes  description  using OWL axioms
+An axiom  in OWL ontologies  is a statement  that represents  a basic 
+piece of information,  and may involve  a class, property,  and in-
+dividuals.  These axioms  constitute  explicit  knowledge  about plant 
+pests and diseases,  and are available  in our system’s  knowledge  
+base. Logic (i.e., Description  Logic)  provides  the means  to deter-
+mine precisely  the logical  consequences  from a set of axioms,  while 
+the reasoning  engine  (e.g., Pallet)  allows  the system  to derive  im-
+plicit knowledge  from a set of explicitly  asserted  axioms.  Therefore,  
+by describing  classes  using OWL axiom  we empowered  our system  
+to be more intelligent  and infer new facts about explicit  knowl-
+edge, thus we expanded  the system  knowledge  base (further  details  
+about explicit  knowledge  extraction  are discussed  in Section3.2.2). 
+For instance,  we deﬁned  𝐼𝑛𝑓𝑒𝑐𝑡𝑖𝑜𝑢𝑠_𝑃𝑙𝑎𝑛𝑡_𝐷𝑖𝑠𝑒𝑎𝑠𝑒class using the 
+following  logical  rule:
+𝐼𝑛𝑓𝑒𝑐𝑡𝑖𝑜𝑢𝑠_𝑃𝑙𝑎𝑛𝑡_𝐷𝑖𝑠𝑒𝑎𝑠𝑒 ≡𝑃𝑙𝑎𝑛𝑡_𝐷𝑖𝑠𝑒𝑎𝑠𝑒⊓ ∃𝑖𝑠_𝐶𝑎𝑢𝑠𝑒𝑑_𝐵𝑦.
+(𝐵𝑎𝑐𝑡𝑒𝑟𝑖𝑎⊔𝐹𝑢𝑛𝑔𝑖⊔𝑁𝑒𝑚𝑎𝑡𝑜𝑑𝑒⊔𝑃ℎ𝑦𝑡𝑜𝑝𝑙𝑎𝑠𝑚𝑎⊔𝑉𝑖𝑟𝑜𝑖𝑑⊔𝑉𝑖𝑟𝑢𝑠 )
+(1)
+The rule (1)states  that an infectious  plant disease  is a plant disease  
+caused  by infectious  organisms  (i.e., bacteria,  fungi, nematode,  phy-
+toplasma,  viroid,  and virus).In addition,  we deﬁned  the Plant_Fungi_Disease class using the fol-
+lowing  logical  rule:
+𝑃𝑙𝑎𝑛𝑡_𝐹𝑢𝑛𝑔𝑖_𝐷𝑖𝑠𝑒𝑎𝑠𝑒 ≡𝐼𝑛𝑓𝑒𝑐𝑡𝑖𝑜𝑢𝑠_𝑃𝑙𝑎𝑛𝑡_𝐷𝑖𝑠𝑒𝑎𝑠𝑒
+⊓∀𝑖𝑠_𝐶𝑎𝑢𝑠𝑒𝑑_𝐵𝑦.𝐹𝑢𝑛𝑔𝑖 (2)
+The rule (2) states  that plant fungi disease  is an infectious  plant 
+disease  caused  by fungus.  Consequently,  the reasoning  engine  au-
+tomatically  infers that if an individual  has a causal  agent that is 
+fungi, it is a fungal  plant disease  based on rule (2), thus an infec-
+tious disease  based on rule (1).
+•Relationship  modeling  for enhanced  reasoning
+The hierarchical  structure  alone can not provide  a full description  
+of any class. To achieve  a complete  description,  the properties  must 
+also be assigned  to classes.  PDP-O  deﬁnes  a set of properties  that en-
+ables the system  to identify  plant pests and diseases  and recommend  
+suitable  control  methods.  For example,  has_Symptom describes  the 
+relation  between  a disease  and symptoms  expressed  by a host plant. 
+Because  several  diseases  share multiple  symptoms,  making  it chal-
+lenging  to make a proper  diagnosis,  to deal with this issue we 
+deﬁned  the 𝑖𝑠_𝐴𝑝𝑝𝑒𝑎𝑟_𝑂𝑛property  to describe  the plant part where  
+the symptom  is observed,  thus allowing  us to distinguish  diseases  
+that share multiple  symptoms.  Furthermore,  because  knowledge  re-
+lated to environmental  contexts  such as temperature,  humidity,  and 
+rainfall  can enhance  the accuracy  of disease  identiﬁcation  beyond  
+considering  only those symptoms  visible  to the human  eye, we de-
+ﬁned the ℎ𝑎𝑠_𝐸𝑛𝑣𝑖𝑟𝑜𝑛𝑚𝑒𝑛𝑡𝑎𝑙 _𝐹𝑎𝑐𝑡𝑜𝑟as super property  of three ob-
+ject properties:  ℎ𝑎𝑠_𝐻𝑢𝑚𝑖𝑑𝑖𝑡𝑦_𝐹𝑎𝑐𝑡𝑜𝑟, ℎ𝑎𝑠_𝑅𝑎𝑖𝑛𝑓𝑎𝑙𝑙_𝐹𝑎𝑐𝑡𝑜𝑟, and 
+ℎ𝑎𝑠_𝑇𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒 _𝐹𝑎𝑐𝑡𝑜𝑟. Similarly,  because  a signiﬁcant  variation  
+in susceptibility  to a speciﬁc  disease  may occur within  cultivars  of a 
+plant species,  we deﬁned  the 𝑖𝑠_𝑆𝑢𝑠𝑐𝑒𝑝𝑡𝑖𝑏𝑙𝑒 _𝑇𝑜property  to describe  
+the relation  between  a plant disease  and the most susceptible  vari-
+eties. Table4describes  PDP-O’s  important  properties,  their domain,  
+range,  characteristics,  and meaning.
+Smart Agricultural Technology 9 (2024) 100659
+11A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Table 4
+Domain,  range, and meaning  of PDP-O  important  properties.
+ObjectProperty Domain Range Characteristic InverseProperty Meaning
+has_Symptom Pest or Plant_Disease Symptom Asymmetric  and 
+Irreﬂexiveindicates Describes  the relation  between  a disease or pest 
+X presents  abnormal  change (Symptom)  Y in a 
+host plant
+can_Be_Caused_By Plant_Disease Organism Asymmetric  and 
+Irreﬂexivecauses A disease Y occurred  because  of an organism  X
+is_Disease_Of Plant_Disease Host_Plant Asymmetric  and 
+Irreﬂexivehas_Disease A plant disease that has inﬂuence  on host plant
+is_Pest_Of Past Host_Plant Asymmetric  and 
+Irreﬂexiveis_Host_For An organism  Y is past of host plant X
+is_Appear_On Symptom Plant_Part Asymmetric  and 
+Irreﬂexivehas_Abnormal _Appearance Describes  the relation  between  a symptom  and 
+associated  plant parts
+has_Environmental_ Factor Pest or Plant_Disease Environmental_ Factor Asymmetric  and 
+Irreﬂexiveis_Environmental_ Factor_Of A disease or pest Y occurredbecause  of 
+environmental  factor X such as Humidity,  
+Rainfall,  Temperature  and Soil_Factors
+has_Part Plant_Part Plant_Part Transitive  and 
+Reﬂexiveis_Part_Of A plant part Y that can be identiﬁed  as being 
+composed  of one or more parts
+is_Control_By Plant_Disease or Pest Control_ Method Asymmetric  and 
+Irreﬂexiveis_Control_Of A treatment  or action X that might prevent  or 
+reduce the eﬀect of a disease or damage  Y
+is_susceptible_To Plant_Variety Plant_Disease Asymmetric  and 
+Irreﬂexiveis_Harmful_For A plant variety that is susceptible  to plant 
+disease
+IF has_Part rdf:type owl:TransitiveProperty
+AND IF
+Date_Palm has_Part Inflorescence.
+AND IF
+Inflorescence has_Part Spathe,
+Inflorescence has_Part Spadix.
+AND IF
+Spadix has_Part Spikelet,
+Spadix has_Part Flowers,
+Spadix has_Part Inflorescence_Axis.
+THEN
+Inflorescence has_Part Spathe,
+Inflorescence has_Part Spadix,
+Inflorescence has_Part Spikelet,
+Inflorescence has_Part Flowers,
+Inflorescence has_Part Inflorescence_Axis,
+Date_Palm has_Part Inflorescenc
+Date_Palm has_Part Spathe,
+Date_Palm has_Part Spadix,
+Date_Palm has_Part Spikelet,
+Date_Palm has_Part Flowers,
+Date_Palm has_Part Inflorescence_Axis.
+Listing  1: Semantic  rule and inferences  of the transitive  property  
+ℎ𝑎𝑠_𝑃𝑎𝑟𝑡.
+•Enriching  the meaning  of PDP-O  properties  by attaching  property  
+characteristics
+OWL allows  the attachment  of characteristics  to object  and data 
+properties,  making  relationships  between  entities  explicit  and de-
+scribing  their meanings  more precisely.  Therefore,  we speciﬁed  the 
+inverse  property  of each object  property  in PDP-O,  regardless  of 
+its subPropertyOf  level, and attached  other characteristics  such as 
+Symmetric,  Asymmetric,  Functional,  Inverse  Functional,  Transitive,  Re-
+ﬂexive,  and Irreﬂexive(see Table4). For instance,  the transitive  
+property  was used to represent  the transferable  relationship  be-
+tween  entities.  This states that if ‘x’ relates  to ‘y’ via the property  ‘P’ 
+and ‘y’ relates  to ‘z’ via the same property,  it implies  that ‘x’ relates  
+to ‘z’ via ‘P’. In PDP-O,  we deﬁne  the property  has_Partand its in-
+verse property  is_Part_Ofas owl:TransitiveProperty because  a plant is 
+composed  of main parts, which  in turn are composed  of sub-parts,  
+and we want to represent  each plant part independently.  The se-
+mantic  rule and inferences  of the transitive  property  has_Partare 
+explained  by Listing1.
+This type of modeling  is important  for two reasons.  First, it 
+enables  the representation  of plant morphology  in a machine-understandable  way. Second,  it allows  the modeler  to determine  
+whether  a speciﬁc  plant part displays  abnormal  symptoms,  which  
+is crucial  for accurately  diagnosing  plant diseases.
+•Populating  PDP-O  classes  with suﬃcient  instances  (or individu-
+als)
+Instances  are the most speciﬁc  elements  in the domain  of discourse.  
+In Protégé  the term ‘instances’  and ‘individuals’  are used inter-
+changeably.  We enriched  PDP-O  with suﬃcient  instances,  most of 
+which  were captured  by analyzing  text-based  content  during  the 
+knowledge  acquisition  phase.  Currently,  PDP-O  contains  555 indi-
+vidual  instances  added  to the main classes  that address  most compe-
+tency questions.  We emphasized  Plant_Fungi_Disease , Insect_Damage , 
+Organism, Plant_Part, Control_Method and Symptom, as these are di-
+rectly involved  in disease  identiﬁcation  and control,  to give answers  
+with suﬃcient  information  for decision  support.  Our focus included  
+describing  18 fungal  diseases  and 14 insect pests with signiﬁcant  
+economic  impact.  Additionally,  the ontology  covers  146 symptoms  
+associated  with these diseases  and pests. It is worth  noting  that, 
+to overcome  the overlap  between  the symptoms  associated  with 
+plant diseases  and pests, we associated  each disease  or insect pest 
+with at least three distinct  symptoms.  This enabled  the system  to 
+achieve  a more accurate  diagnosis.  For example,  the description  of 
+the inﬂorescence  rot disease  of date palms  is presented  as a knowl-
+edge graph in Fig.6. The graph contains  six classes  (i.e., Fungi, 
+Symptom,  Chemical_Control,  Agricultural_Practice,  Environmental_Fac-
+tor, and Time) involved  in the description  of this disease  (which  is 
+deﬁned  as an instance  of Fungi_Disease_Of_Date_Palm ). Each of the 
+classes  contains  some instances  related  to inﬂorescence  rot disease  
+associated  with it through  object  properties.  For example,  consider-
+ing that “infected  inﬂorescences  covered  with white powdery”  and 
+“rot of ﬂowers  and spikelets”  are distinct  symptoms  of inﬂorescence  
+rot disease,  we used has_Symptom to associate  this disease  with its 
+symptoms.
+3.2.4. Evidence-Based  Explanation  Model (EBEM)  design and development
+This phase presents  our approach  to designing  and developing  the 
+Evidence-Based  Explanation  Model  (EBEM).  As previously  mentioned,  
+while the role of PDP-O  is to model  knowledge  about plant diseases  and 
+pests, the role of EBEM  is to provide  evidence  supporting  the validity  of 
+AgrODSS  outputs,  such as diagnoses  and recommendations.  Several  cat-
+egories  of explanation  approaches  are discussed  in the literature,  such as 
+contextual-based,  trace-based,  and case-based  [17,43,44]. In this work, 
+our focus is on scientiﬁc  evidence-based  explanation,  concerned  with 
+Smart Agricultural Technology 9 (2024) 100659
+12A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 6.Aknowledgegraphdescribestheinﬂorescencerootdiseaseofdatepalm.
+Fig. 7.IllustrationofmodelingprocesswhereeachRDFtripleinPDP-Oassertedbasedon“Evidence”thatsupportsit.
+answering  questions  such as: “Is there evidence  from the scientiﬁc  work 
+supporting  ontology  assertion  (i.e., RDF statement)?”.
+•EBEM  design
+Two design  criteria  have been considered:  (1) to identify  the evi-
+dence (i.e., a piece of text from scientiﬁc  work)  that supports  an 
+RDF statement  asserted  in our ontology  (i.e., PDP-O),  and (2) to 
+provide  metadata  about the knowledge  sources  from which  the ev-
+idence  was extracted.  To this end, we classiﬁed  the information  ex-
+tracted  from knowledge  sources  (see Section3.2.2) into two types: 
+(1) reasoning  information,  which  is facts (or RDF statements)  used 
+to develop  PDP-O  (e.g., the disease  name,  symptoms,  causal  agents,  
+and control  methods);  and (2) supporting  information  used to de-
+velop EBEM  to provide  evidence  for the facts asserted  in the PDP-O  
+(e.g., text from guideline  documents  or research  articles).  To illus-
+trate the design  process,  suppose  a paper is published  to describe  a 
+particular  type of disease  and its proper  control  method  (e.g., dis-
+ease D has chemical  control  C as backed  by evidence  Z). The ﬁrst 
+part of this information  is captured  and modeled  in the PDP-O  as an 
+RDF triple.  However,  we want to annotate  this RDF triple to state 
+that evidence  Z supports  it. Fig.7provides  an illustration  of this 
+idea.
+•EBEM  implementation
+As in PDP-O,  EBEM  was implemented  using OWL in Protégé.  OWL 
+enables  the representation  of the intended  explanations  in this work 
+in a machine-readable  format,  allowing  modelers  to model  state-
+ments  about other statements,  a process  known  as reiﬁcation  [45]. 
+Since EBEM  is a semantic-based  representation,  we created  the nec-essary  classes,  properties,  and instances  to represent  explanations.  
+EBEM  developed  around  two central  classes:  Explanation and Knowl-
+edge. The Explanation class was created  as a superclass,  where  each 
+explanation  type is a subclass  of this class. Since our focus is on 
+evidence-based  explanation,  this class has been specialized  into a 
+more speciﬁc  class called  Scientiﬁc_Explanation , which  in turn has 
+the Evidence_Based_Explanation class as a subclass.  Instances  of the 
+last class represent  evidence  that supports  RDF facts asserted  in 
+PDP-O.  The Knowledgeclass was created  as a sibling  of the Explana-
+tionclass. It has been specialized  into one class, Scientiﬁc_Knowledge , 
+which  was created  to semantically  represent  various  types of knowl-
+edge sources  as instances  of this class, such as academic  articles,  
+books,  thesis,  proceedings,  etc.
+To achieve  more expressive  semantic  modeling,  we deﬁne  a set 
+of object  and datatype  properties  to establish  relationships  be-
+tween  classes  or instances.  The properties  of Scientiﬁc_Knowledge
+class have been reused  from Dublin  Core14(DC) namespace,  which  
+provides  a standard  vocabulary  to represent  scientiﬁc  publica-
+tions. Examples  of such properties  include  dc:title,  dc:date,  dc:lan-
+guage,  dc:source,  dc:publisher,  dcterms:identiﬁer, and dcterms:hasVer-
+sion. One of the important  properties  of Evidence_Based_Explanation
+is the object  property  EBEM:is_Derived_From , which  associates  the 
+Evidence_Based_Explanation class with the Scientiﬁc_Knowledge class 
+to establish  the relation  “scientiﬁc  evidence  X is derived  from knowl-
+edge source  Y”.
+14https://www  .dublincore  .org /speciﬁcations  /dublin  -core /dcmi -terms/.
+Smart Agricultural Technology 9 (2024) 100659
+13A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 8.An example  of a SPARQL  query to add OWL axiom annotations  to the RDF statement:  “Inﬂorescence_Rot_Disease  has_Fungicide_Chemical_Control  Thiram”which 
+is supported  by Scientiﬁc_Evidence_49 .
+•PDP-O  and EBEM  linking  process
+Our goal here is to link the RDF statements  asserted  in PDP-O  to 
+the scientiﬁc  evidence  in EBEM  that supports  their assertion.  To 
+this end, the object  property  has_Scientiﬁc_evidence was deﬁned  in 
+PDP-O,  and its inverse  property  is_Scientiﬁc_evidence_Of was deﬁned  
+in the EBEM  to link entities  in the two models.  Then, OWL axiom  
+annotations  are used to link each RDF statement  in PDP-O  with 
+corresponding  scientiﬁc  evidence  in EBEM.  The following  formula  
+represents  the general  syntax  of axiom  annotations.
+[x rdf:type  owl:Axiom;
+x owl:annotatedSource  s;
+x owl:annotatedProperty  p;
+x owl:annotatedTarget  o;
+x PDP-O:has_Scientiﬁc_evidence  SE;]
+Where  ‘x’refers to the RDF statement  which  consists  of ‘s’, which  
+refers to the subject  of ‘x’, ‘p’which  refers to the predicate  of ‘x’, 
+and ‘o’which  refers to the object  of ‘x’. The last triple refers to 
+the scientiﬁc  evidence  that supports  ‘x’, associated  by the property  
+hasScientiﬁcEvidence and its value ‘SE’. We added  these annotations  
+using a SPARQL  query in GraphDB  (see Fig.8). As shown  in the ﬁg-
+ure, we used the INSERT  DATA  operation  in the SPARQL  query to 
+add OWL axiom  annotations  to the RDF statements  asserted  in PDP-
+O and link them with the supporting  evidence  asserted  in EBEM.  
+The GRAPH  clause  speciﬁes  the URI of a particular  graph to which  
+one or more OWL axiom  annotations  are added;  in our case, we 
+provide  the URI of PDP-O  to this clause.  A single INSERT  DATA  
+request  can be used to add multiple  OWL axiom  annotations  to a 
+given graph.  Fig.9presents  a conceptual  overview  to illustrate  the 
+linking  process  between  PDP-O  and EBEM  and describes  the asso-
+ciations  necessary  to understand  its idea.
+3.2.5. Establishing  AgrODSS  web-based  SPARQL  endpoint
+After developing  PDP-O  and the EBEM,  we imported  both into 
+GraphDB.  Our goal here was to establish  a SPARQL  endpoint  as an in-
+terface  for users to access  AgrODSS  from the front-end.  In this section,  
+also we demonstrate  the eﬀectiveness  of AgrODSS  by executing  SPARQL  
+queries  through  the SPARQL  endpoint  to obtain  directly  complex  in-
+formation  to support  agriculture  decisions  regarding  disease  and pest 
+management.  For this purpose,  we formulated  19 CQs to be answered  
+by the knowledge  base, some of which  are shown  in Table5. These ques-
+tions were created  in accordance  with the CQs that deﬁne  the system  
+requirements  (as outlined  in Section3.2.1, Table3). By answering  these 
+questions  we identiﬁed  diseases  or pests practically,  recommended  ap-
+propriate  control  methods,  and gave scientiﬁc  evidence  to supports  the 
+recommendation.  To illustrate  how AgrODSS  utilizes  semantic  technolo-
+gies and ontological  reasoning  to answer  CQs questions  in Table5, we present  and discuss  the following  exemplary  scenario:
+Usage  scenario:
+“Suppose  dark brown  or black hard lesions  appear  on the leaf rachis and 
+the palm’s  new leaves become  twisted  and malformed,  along with round to 
+oblong  dark brown  spots on the external  surface  of unopened  spathes:  what 
+do these symptoms  indicate?  Furthermore,  what type of problem  do these 
+symptoms  suggest?”
+This scenario  represents  the situation  in which  the user provides  the 
+system  with more than one symptom  observed  on a date palm tree. 
+Fig.10shows  the SPARQL  query executed  to identify  the problem  pre-
+sented  in the above  scenario,  which  is related  to CQ1 in Table5. This 
+query searches  for a disease  or pest that inﬂuences  a plant that has 
+the scientiﬁc  name “Phoenix  Dactylifera”  and produces  three diﬀerent  
+symptoms:  (1) “dark brown  or black hard lesions”  that appear  on a plant 
+part “leaf rachis”,  (2) “malformation”  that appears  on a plant part “new 
+leaf”, and (3) “round  to oblong  dark brown  spots”  that appears  on a 
+plant part described  as “external  surface  of unopened  spathe”.  It ﬁnds 
+what these symptoms  indicate  and also what type of disease/pest  these 
+symptoms  refer to.
+The results  retrieved  from the previous  query are shown  in Fig.11. 
+From the result set, we can note that there is a single deﬁned  problem  
+associated  with the three symptoms  provided,  which  is Black_Scorch_Dis-
+ease. Since the query contains  more speciﬁc  information,  this helps 
+to narrow  down the number  of results  to a single disease.  Moreover,  
+the results  in Fig.11show additional  information,  we can see that 
+Black_Scorch_Disease is a kind of Plant_Disease , Infectious_Plant_Disease , 
+Plant_Fungi_Disease , and Fungi_Disease_Of_Date_Palm . The interpretation  
+of this conclusion  is as follows:  because  we classiﬁed  the Plant_Dis-
+easeclass based on the infection  process  into Infectious_Plant_Disease
+and Noninfectious_Plant_Disease , then Infectious_Plant_Disease class has 
+been classiﬁed  based on the major causes,  such as Bacterial,  Fun-
+gal, Viral, Phytoplasma, and so on. In addition,  each of these classes  
+(i.e., Plant_Fungi_Disease ) has been classiﬁed  based on the host plant 
+(i.e., Fungi_Disease_Of_Date_Palm ). Therefore,  based on class taxonomy  
+and the logical  rules deﬁning  these classes  (as discussed  in Sec-
+tion3.2.3), the reasoner  automatically  inferred  that Black_Scorch_Disease
+is of the type Infectious_Plant_Disease , Plant_Fungi_Disease and Fungi_Dis-
+ease_Of_Date_Palm . These results  answer  the question  CQ1 in Table5
+(What  do the abnormal  symptoms  observed  on a plant, or its parts, in-
+dicate?).
+After the problem  is diagnosed,  the next step is to suggest  the appro-
+priate control  or treatment.  The queries  shown  in Fig.12were executed  
+to provide  users with recommendations  on the appropriate  methods  to 
+control  Black_Scorch_Disease .
+The query in Fig.12a is related  to CQ2 in Table5, namely  to 
+recommend  the appropriate  chemical  control  of a particular  pest or 
+disease.  Similarly,  the query in Fig.12b corresponds  to CQ3 (What  
+Smart Agricultural Technology 9 (2024) 100659
+14A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 9.AconceptualoverviewofPDP-OandEBEMLinkingProcess.
+Table 5
+Sample  of CQs formulated  to query AgrODSS  knowledge  base.
+Number CompetencyQuestions
+CQ1 Whatdotheabnormalsymptomsobservedonaplant,oritspartsindicate?
+CQ2 Whatarethesuitablechemicalcontrolsofaparticulardisease/past?
+CQ3 Whatarethesuitableculturecontrolsofaparticulardisease/past?
+CQ4 Howcantherecommendedcontrolmethodbeapplied?
+CQ5 Whatevidencesupportstherecommendedcontrolmethod?
+CQ6 Whatarethevarietiesorcultivarsusceptibletothisdisease/pest?
+CQ7 Howsymptomsassociatedwithaparticulardiseaseorpestlooklike?
+CQ8 Whataretheenvironmentalfactorsthatcontributetotheemergenceofaparticulardisease/past?
+Fig. 10.SPARQLqueryforansweringCQ1inTable 5.
+Smart Agricultural Technology 9 (2024) 100659
+15A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 11.ResultsofSPARQLqueryshowninFig. 10.
+Fig. 12.Sampleofqueriestogeneraterecommendationsontheappropriatecontrolmethods.
+are the suitable  culture  control  of a particular  disease/past?).  The re-
+sults retrieved  from the previous  queries  are shown  in Fig.13. The 
+query in Fig.13a returned  four control  methods  (Thiophanate_Methyl , 
+Copper_Oxychloride , Mancozeb, and Metalaxyl-M ) recommended  to con-
+trol Black_Scorch_Disease . These control  methods  are from the class 
+Fungicide. The query in Fig.13b returned  six control  methods  rec-
+ommended  to control  Black_Scorch_Disease , which  are from the class 
+Cultural_Control . In addition,  the results  of the previous  queries  show 
+usage for the recommended  control  methods,  answering  the question  
+CQ4 in Table5(How can the recommended  control  method  be ap-
+plied?).  It is worth  mentioning  that AgrODSS  oﬀers another  type of 
+control  method  (i.e., biological  control);  however,  for demonstration  
+purposes,  we show only two types of control  methods  (chemical  and 
+cultural).
+In the second  step above,  AgrODSS  provides  recommendations  to 
+control  the problem  diagnosed  in the ﬁrst step. As we aimed  to demon-
+strate the validity  of these recommendations  and increase  users’ knowl-
+edge, AgrODSS  performs  an additional  step, which  is to provide  sci-
+entiﬁc  evidence  that supports  these recommendations.  For example,  in 
+Fig.13a AgrODSS  recommends  the chemical  substance  Mancozebto con-
+trol Black_Scorch_Disease , so what is the scientiﬁc  evidence  that supports  
+this recommendation?  The query in Fig.14was performed  to answer  
+this question.  Fig.15shows  the results  of the previous  query.
+We can see from the results  in Fig.15the piece of text from which  the 
+RDF statement  was formulated,  the title of the knowledge  source  (i.e., 
+book) from which  the text was extracted,  the authors  of the scientiﬁc  
+work, and the location  (title of the chapter)  of the text in the knowledge  
+source.  These results  answer  question  CQ5 in Table5. By presenting  the 
+supporting  evidence,  AgrODSS  helps increase  user trust and validate  the 
+generated  recommendations,  as users can easily compare  the SPARQL  
+query results  with answers  from domain-speciﬁc  documents.  Moreover,  
+it increases  users’ knowledge  of disease  and pest management  and makes  scientiﬁc  works  accessible  to target stakeholders.  For more information  
+they can easily refer to the domain-speciﬁc  documents  obtained  by the 
+SPARQL  query.  Additionally,  presenting  supporting  evidence  not only 
+makes  recommendations  valid from user standpoints,  but also serves  a 
+crucial  role in assisting  developers  with ontology  debugging.  Domain  
+ontologies  contain  information  about entities  extracted  from multiple  
+knowledge  sources.  In this context,  knowing  the scientiﬁc  basis of each 
+assertion  is vital if errors are detected  or the knowledge  sources  change,  
+making  it easy to update  ontology  content  as knowledge  of the domain  
+evolves.
+For non-technical  users, GraphDB  hides the complexity  of the tech-
+nology  and enables  full-text  searching  for any resource  in the AgrODSS  
+knowledge  base to explore  it without  writing  SPARQL  queries.  For ex-
+ample,  if the user searches  for Black_Scorch_Disease they can view the 
+results  as a knowledge  graph (see Fig.16). We can see from the vi-
+sual graph on the left side of the ﬁgure further  information  about 
+Black_Scorch_Disease , such as the most susceptible  varieties  which  an-
+swers question  CQ6 in Table5, and also shows  other symptoms  as-
+sociated  with the disease.  In addition,  each node of the graph can 
+be expanded  for more information.  For instance,  if the user selects  
+Dark_Brown_Or_Black_Hard_Lesions_On_Leaf as the symptom  that matches  
+their observation,  then they can see information  such as the plant parts 
+aﬀected  by this symptom  and symptom  characteristics.  The right panel 
+of the graph displays  symptoms  with their textual  description  and im-
+ages. Textual  descriptions  and images  could assist in the diagnostic  
+process  to narrow  down the possible  diseases  into those to be consid-
+ered and those that can be eliminated.  In addition,  it becomes  eﬀortless  
+to use, especially  for farmers.  These results  answer  question  CQ7 in 
+Table5. Finally,  the graph shows  that causal  agents  of Black_Scorch_Dis-
+easeinclude  environmental  factors  (i.e., high humidity,  silty soil, and 
+moderate  temperature)  and biotic factors  (i.e., Chalara_Paradoxa and 
+Ceratocystis_Paradoxa ).
+Smart Agricultural Technology 9 (2024) 100659
+16A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 13.ResultsofSPARQLqueryshowninFig. 12.
+Fig. 14.Example  of SPARQL  query corresponding  to CQ5 in Table5(What scientiﬁc  evidence  supports  the recommendation  “black scorch disease  has chemical  control  
+Mancozeb”?).
+Fig. 15.ResultsofSPARQLqueryshowninFig. 14.
+Smart Agricultural Technology 9 (2024) 100659
+17A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+Fig. 16.Knowledgegraphof Black_Scorch_Disease generatedwhentheuserstartexplorationusingGraphDB.
+Table 6
+Results  of AgrODSS  evaluation  by domain  experts.
+Category NumberofvalidatedCQs Results
+Mean SD Relativeweight(%) Degree# Rank
+Disease/Pest 25 5.68 0.79 81.09 Agree 3
+ControlMethods 20 4.88 2.01 69.71 Somewhatagree 5
+Symptom 15 5.87 0.84 83.84 Agree 2
+CausalAgents 20 6.13 0.55 87.53 Stronglyagree 1
+Others 10 5.67 0.64 81.04 Agree 4
+Total 90 5.65 0.97 80.66 Agree
+4. AgrODSS:  ontology  and system  evaluation
+This section  presents  our evaluation  approach  to assess key aspects  
+of AgrODSS.  In this work, the Pellet reasoner  2.2.0 and OntoDebug  
+0.2.2 (Protégé  plugins)  were consistently  used to verify the ontology’s  
+coherence  and consistency.  However,  human  evaluation  is essential  to 
+assess the accuracy  and eﬀectiveness  of AgrODSS  in supporting  user de-
+cisions.  This evaluation  was conducted  by answering  the CQs executed  
+in SPARQL  query forms.  A satisfactory  result for CQs is a way to assess 
+the achievement  of objectives  of an ontology-based  project  [46]. A to-
+tal of 90 CQs were validated  for this test, divided  into ﬁve categories  
+related  to the knowledge  aspect  covered  by PDP-O,  mainly  disease  or 
+pest, symptoms,  causal  agents,  control  methods,  and others  (i.e., the 
+most aﬀected  plant parts by a given disease  or pest, most susceptible  va-
+rieties  to a given disease  or pest, and the active  times of an insect pest). 
+Then, the results  obtained  by executing  SPARQL  queries  were submitted  
+to the domain  experts  for validation  using a structured  questionnaire.  
+The questionnaire  included  90 closed-ended  questions  (corresponding  
+to the number  of CQs) and relied on a 7-point  Likert Scale range from 
+(1= Strongly  disagree)  to (7= Strongly  agree),  which  allowed  domain  
+experts  to express  how much they disagree  or agree on each answer.  
+We asked domain  experts  to rate the results  generated  by the system  in 
+terms of “Accuracy”.  Accuracy  means  “the degree  to which an ontology  
+provides  the correct  results  with the needed  degree  of precision,  and can be 
+measured  by the number  of CQs that received  the correct  answers”[47]. The 
+AgrODSS  passes  the competency  validation  test if all CQs have answers  
+and are graded  at least as ‘Somewhat  agree’.
+A total of 11 domain  experts  were involved  in this evaluation,  includ-
+ing 7 entomologists  and 4 pathologists  (detailed  information  about domain  
+experts  involved  in this evaluation,  CQs with corresponding  SPARQL  queries,  results  obtained  by the AgrODSS  system,  and the results  of domain  experts’  
+evaluation  of each category  can be found in Supplementary  data A). To 
+ensure  expert  engagement  in the evaluation  process,  online  workshops  
+were held to explain  the overall  goals of the system  and the require-
+ments  for the evaluation  process.  These workshops  also included  initial  
+evaluations,  where  we presented  the ontology  structure,  demonstrated  
+inferences  made by the reasoner,  and showcased  the results  of selected  
+SPARQL  queries.
+Table6gives the summary  results  of evaluation  by domain  experts.  
+The evaluation  results  demonstrate  that AgrODSS  had promising  re-
+sults. The overall  accuracy  is 80.66%,  achieving  87.53%  accuracy  for 
+causal  agent recognition,  81.09%  accuracy  for disease  and pest iden-
+tiﬁcation,  83.84%  accuracy  for symptoms  that have been correctly  
+associated  with the corresponding  disease  and pest, and 69.71%  ac-
+curacy  for recommending  the appropriate  control  methods.  Also, re-
+sults in Table6show that recognizing  the causes  (abiotic  or biotic)  
+that contribute  to the emergence  of disease  achieved  the highest  accu-
+racy. Meanwhile,  recommending  the appropriate  control  methods  for 
+a given disease  or pest achieved  the lowest  accuracy.  Although  the 
+recommended  control  method  is suitable  (i.e., chemical),  it needs a 
+more professional  answer  as so many aspects  govern  the eﬀective  use of 
+chemicals.  For example,  the application  rates vary according  to the ap-
+plication  method;  the concentration  in the immersion  method  is often 
+higher  than for direct spraying.  Also, the application  rate and method  
+depend  on the stage of the insect’s  life cycle; for example,  some insec-
+ticides  are eﬀective  when the insect is in the larva stage yet ineﬀective  
+against  the adult insect,  or they diﬀer in the application  method  or con-
+centration  rate. Besides,  pests may have developed  resistance  against  
+some pesticides  over time. To address  this issue, we needed  to inter-
+view a group of domain  experts  to establish  a set of rules to be more 
+Smart Agricultural Technology 9 (2024) 100659
+18A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+precise  regarding  chemical  substances  and restrict  their use for each 
+case.
+Finally,  Table6shows  that the remaining  categories  (disease/pest,  
+symptoms,  and others)  achieved  similar  accuracy  (Agree).  The reason  
+behind  not reaching  the greatest  accuracy  (i.e., Strongly  agree)  is the 
+similarity  and overlap  of symptoms  produced  by the various  types of 
+casual  agent (i.e., fungi, bacteria,  and insects),  which  leads to confu-
+sion and poses a diﬃculty  in correctly  diagnosing  a disease.  For ex-
+ample,  CQ: What does a dark brown  stripe that appears  on the dorsal  
+side of the rachis  from the base to the top indicate?  (in Disease/Pest
+Category)  returns  a total of three possible  problems:  Bayoud_Disease ; 
+Fusarium_Wilt_Disease ; and Reddish_Brown_Parallel_Spot_Disease . These re-
+sults were rated by domain  experts  as “two Agrees”,  with one “Strongly  
+agree”  by three pathologists,  and was rated as “Disagree”  by one ento-
+mologist,  due to the overlap  between  symptoms  produced  by various  
+types of casual  agents.
+5. Conclusion  and future  work
+Agricultural  production  is constantly  threatened  by various  diseases  
+and pests that aﬀect crops,  leading  to signiﬁcant  economic  losses and 
+rising concerns  about food security.  The identiﬁcation  and control  of 
+plant pests and diseases  is a complex  decision  and knowledge-handling  
+problem.  Multiple  factors  aﬀect this decision,  ranging  from environ-
+mental  conditions  to biological  causes.  Consequently,  in this work, 
+we present  an Agriculture  Ontology-Based  Decision  Support  System  
+(AgrODSS),  which  aims to assist decision-making  regarding  plant dis-
+ease and pest identiﬁcation  and control.  AgrODSS  architecture  consists  
+of two semantic-based  models.  First, we designed  and developed  Plant 
+Diseases  and Pests Ontology  (PDP-O),  which  captures  key concepts,  
+terms,  and relationships  related  to plant diseases  and pests and repre-
+sents them in a machine-understandable  format.  Additionally,  PDP-O  
+provides  an in-depth  computational  schema  enriched  with suﬃcient  
+RDF data for intelligent  decision-making.  Second,  we designed  and de-
+veloped  an Evidence-Based  Explanation  Model  (EBEM)  that points  to 
+evidence  from related  literature  to demonstrate  the validity  of the sys-
+tem outputs.  Furthermore,  a use case is presented  with real-life  data 
+regarding  date palm pests and diseases  to demonstrate  the eﬀectiveness  
+of AgrODSS.
+AgrODSS  was evaluated  practically  with 11 domain  experts,  includ-
+ing entomologists  and pathologists.  It obtained  encouraging  results  with 
+an overall  accuracy  of 80.66%  in identifying  of disease  and insect pests 
+that aﬀect date palms.  Although  the current  version  of AgrODSS  ob-
+tained  encouraging  results,  several  issues must be addressed  to provide  
+better decision  support.  For instance,  the current  version  is centered  on 
+a speciﬁc  crop (date palm),  which  left our system  unable  to deal with 
+diseases  and pests aﬀecting  other crops.  This is due to manually  instanti-
+ating the ontology  that led to the insuﬃciency  of data and rules covered  
+by the PDP-O.  However,  the PDP-O  can be easily extended  to deal with 
+other crops,  diseases,  and insect pests. In this sense,  we seek to build 
+a Natural  Language  Processing  (NLP) tool to extract  relevant  data from 
+available  unstructured  knowledge  sources  for automatically  enriching  
+the ontology  by adding  new instances,  relations,  and rules. This tool 
+will also assist in keeping  the PDP-O  up to date and make it easy to 
+update  the ontology  content  as the knowledge  in the domain  evolves.
+There are several  research  directions  for future  work. First, the cur-
+rent version  of AgrODSS  is available  only as a SPARQL  endpoint.  We 
+plan to make it more human-friendly  by designing  and developing  a 
+mobile  application  that allows  various  stakeholders  to beneﬁt  from it to 
+make informed  decisions.  Second,  once the mobile  application  is com-
+plete, the next step is to evaluate  the system’s  usability  and determine  
+user satisfaction  through  ﬁeld trials (i.e., farmers  who use AgrODSS  in a 
+real environment  to perform  observations  and identify  a disease).  Third,  
+PDP-O  can be improved  by linking  it to the Global  Agricultural  Open 
+Data Cloud (GAODC)  to make local data interoperable  with global  ef-
+forts and maximize  the data available  to decision-makers.  For example,  it could integrate  PDP-O  with chemical  databases  such as PubChem  [48]
+and ChEBI  [49]to include  more details  on chemical  substances.  Finally,  
+we need to consider  that agricultural  information  has strong  local char-
+acteristics  related  to local climate,  soil, culture,  and local species.  There-
+fore, we plan to integrate  AgrODSS  with web services  such as location  
+and weather  services  to provide  timely  information  and location-based  
+decision  support.
+CRediT  authorship  contribution  statement
+Amani Falah  Alharbi:Writing  – original  draft, Methodology,  For-
+mal analysis,  Conceptualization. Muhammad Ahtisham  Aslam:Writ-
+ing – review  & editing,  Validation,  Supervision. Khalid Ali  Asiry:Writ-
+ing – review  & editing,  Supervision,  Resources. Naif Radi  Aljohani:
+Writing  – review  & editing,  Visualization,  Supervision. Yury Glikman:
+Writing  – review  & editing,  Resources.
+Declaration  of competing  interest
+The authors  declare  that they have no known  competing  ﬁnancial  
+interests  or personal  relationships  that could have appeared  to inﬂuence  
+the work reported  in this paper.
+Appendix A.  Supplementary  material
+Supplementary  material  related  to this article  can be found on-
+line at https://doi  .org /10 .1016 /j .atech  .2024 .100659. It is composed  of: 
+(1) a Word  ﬁle including  information  about the cross-sectional  survey  
+conducted  for system  requirements  elicitation,  including  survey  design  
+and ﬁndings,  (2) a Word ﬁle including  a Glossary  of Terms  (GT), or a list 
+of domain  concepts  and relationships  extracted  from existing  ontologies  
+and reuse by our ontology,  (3) a Word ﬁle including  information  about 
+domain  experts  involved  in the ontology  and system  evaluation,  CQs 
+with corresponding  SPARQL  queries,  results  obtained  by the AgrODSS  
+system  and the results  of domain  experts’  evaluation.
+Data availability
+I have shared  a link to the ontology  ﬁle in the manuscript  ﬁle.
+References
+[1]N.M. Hashem,  E.M. Hassanein,  J.-F. Hocquette,  A. Gonzalez-Bulnes,  F.A. Ahmed,  
+Y.A. Attia, K.A. Asiry, Agro-livestock  farming  system sustainability  during the covid-
+19 era: a cross-sectional  study on the role of information  and communication  tech-
+nologies,  Sustainability  13(12)  (2021),  https://doi  .org /10 .3390 /su13126521.
+[2]K. Lagos-Ortiz,  M.d.P. Salas-Zárate,  M.A. Paredes-Valverde,  J.A. García-Díaz,  R. 
+Valencia-García,  Agrient:  a knowledge-based  web platform  for managing  insect pests 
+of ﬁeld crops, Appl. Sci. 10(3) (2020),  https://doi  .org /10 .3390 /app10031040.
+[3]D.R. Paini, A.W. Sheppard,  D.C. Cook, P.J.D. Barro, S.P. Worner,  M.B. Thomas,  
+Global threat to agriculture  from invasive  species,  Proc. Natl. Acad. Sci. 113 (27)  
+(2016) 7575–7579,  https://doi  .org /10 .1073 /pnas .1602205113.
+[4]E.-C. Oerke, Crop losses to pests, J. Agric. Sci. 144 (1)  (2006) 31–43, https://doi  .
+org /10 .1017 /S0021859605005708.
+[5]M. Gullino,  R. Albajes,  I. Al-Jboory,  F. Angelotti,  S. Chakraborty,  K. Garrett,  B. Hur-
+ley, P. Juroszek,  K. Makkouk,  X. Pan, et al., Scientiﬁc  Review of the Impact of Climate  
+Change  on Plant Pests: A Global Challenge  to Prevent  and Mitigate  Plant-Pest  Risks 
+in Agriculture  Forestry  and Ecosystems,  2021.
+[6]M.C.R. Alavanja,  Introduction:  pesticides  use and exposure,  extensive  worldwide,  
+Rev. Environ.  Health 24(4) (2009) 303–310,  https://doi  .org /10 .1515 /REVEH  .2009 .
+24 .4 .303.
+[7]B. Drury, R. Fernandes,  M.-F. Moura, A. de Andrade  Lopes, A survey of semantic  
+web technology  for agriculture,  Inf. Process.  Agric. 6(4) (2019) 487–501,  https://
+doi .org /10 .1016 /j .inpa .2019 .02 .001.
+[8]I. Ahmed,  P.K. Yadav, Ontology-based  classiﬁcation  method  using statistical  and 
+symbolic  approaches  for plant diseases  detection  in agriculture,  Int. J. Comput.  Digit. 
+Syst. 14(1) (2023) 10287–10297.
+[9]E. Murali, S.M. Anouncia,  An ontology-based  knowledge  mining model for eﬀective  
+exploitation  of agro information,  IETE J. Res. 69 (11)  (2023) 7856–7873,  https://
+doi .org /10 .1080 /03772063  .2022 .2058629.
+Smart Agricultural Technology 9 (2024) 100659
+19A.F. Alharbi, M.A. Aslam, K.A. Asiry et al.
+[10]K. Lagos-Ortiz,  J. Medina-Moreira,  C. Morán-Castro,  C. Campuzano,  R. Valencia-
+García, An ontology-based  decision  support  system for insect pest control in crops, 
+in: Technologies  and Innovation,  Springer  International  Publishing,  Cham, 2018, 
+pp.3–14.
+[11]K. Lagos-Ortiz,  J. Medina-Moreira,  M.A. Paredes-Valverde,  W. Espinoza-Morán,  R. 
+Valencia-García,  An ontology-based  decision  support  system for the diagnosis  of 
+plant diseases,  J. Inf. Technol.  Res.(JITR)  10(4) (2017) 42–55, https://doi  .org /10 .
+4018 /JITR .2017100103.
+[12]I. Kessler,  A. Perzylo,  M. Rickert,  Ontology-based  decision  support  system for the 
+nitrogen  fertilization  of winter wheat, in: E. Garoufallou,  M.-A. Ovalle-Perandones  
+(Eds.), Metadata  and Semantic  Research,  Springer  International  Publishing,  Cham, 
+2021, pp.245–256.
+[13]T. Ginige, D. Richards,  M. Hitchens,  Cultivation  planning  application  to enhance  
+decision  making  among Sri Lankan farmers,  in: Y.S. Kim, B.H. Kang, D. Richards  
+(Eds.), Knowledge  Management  and Acquisition  for Smart Systems  and Services,  
+Springer  International  Publishing,  Cham, 2014, pp.180–194.
+[14]T. Guber, A translational  approach  to portable  ontologies,  Knowl. Acquis. 5( 2 ) 
+(1993) 199–229.
+[15]J. Garcerán-Sáez,  F. García-Sánchez,  Sepere: semantically-enhanced  system for pest 
+recognition,  in: R. Valencia-García,  G. Alcaraz-Mármol,  J.d. Cioppo-Morstadt,  N. 
+Vera-Lucio,  M. Bucaram-Leverone  (Eds.), ICT for Agriculture  and Environment,  
+Springer  International  Publishing,  Cham, 2019, pp.3–11.
+[16]J.E. Greer, S. Falk, K.J. Greer, M.J. Bentham,  Explaining  and justifying  recommen-
+dations in an agriculture  decision  support  system,  Comput.  Electron.  Agric. 11 (2) 
+(1994) 195–214,  https://doi  .org /10 .1016 /0168 -1699(94  )90008 -6.
+[17]J.J. Ferreira,  M. de Souza Monteiro,  Evidence-based  explanation  to promote  fair-
+ness in AI systems,  CoRR, arXiv :2003 .01525[abs],  2020, https://doi  .org /10 .48550 /
+arXiv .2003 .0152.
+[18]FAO, AGROVOC  – Semantic  Data Interoperability  on Food and Agriculture,  FAO, 
+Rome, Italy, 2021.
+[19]U.N.A. Library,  Nal agricultural  thesaurus  and glossary  (2018) [cited October  10, 
+https://data  .nal .usda .gov /dataset  /nal -agricultural  -thesaurus  -and -glossary,  2023.
+[20]T.P.O. Consortium,  The plant ontology™  consortium  and plant ontologies,  Comp. 
+Funct. Genomics  3(2) (2002) 137–142,  https://doi  .org /10 .1002 /cfg .154.
+[21]M.Á. Rodríguez-García,  F. García-Sánchez,  Croppesto:  an ontology  model for iden-
+tifying and managing  plant pests and diseases,  in: Technologies  and Innovation,  
+Springer  International  Publishing,  Cham, 2020, pp.18–29.
+[22]M.Á. Rodríguez-García,  F. García-Sánchez,  R. Valencia-García,  Knowledge-based  sys-
+tem for crop pests and diseases  recognition,  Electronics  10(8) (2021),  https://doi  .
+org /10 .3390 /electronics10080905,  https://www  .mdpi .com /2079 -9292 /10 /8 /905.
+[23]Planteome.org,  Repository  for the plant disease ontology  (2016) [cited October  25, 
+https://github  .com /Planteome  /plant -disease  -ontology,  2022.
+[24]A.R. Iglesiasa,  M.E. Arangurena,  A.R. Gonzáleza,  M.D. Wilkinsona,  Bringing  phy-
+topathology  onto the reasoned  semantic  web: the plant-pathogen  interactions  ontol-
+ogy (ppio), https://www  .semantic  -web -journal  .net /system  /ﬁles /swj628  .pdf.
+[25]A.R. Iglesias,  M.E. Aranguren,  A.R. González,  M.D. Wilkinson,  Plant pathogen  in-
+teractions  ontology  (ppio), in: IWBBIO,  2013, pp. 695–702,  https://mikel  -egana -
+aranguren  .github .io /publications  /iwbbio2013  _submission  _27 .pdf.
+[26]S. Kim, Y. Jung, H.W. Beck, Using a crop-pest  ontology  to facilitate  image retrieval,  
+Ph.D. thesis, 2006.
+[27]A. Halabi, Ontology  for plant protection  (2009),  [cited August 10, 2023], https://
+sites .google .com /site /ppontology  /home.
+[28]K. Lagos-Ortiz,  J. Medina-Moreira,  J.O. Salavarria-Melo,  M.A.-d.  Paredes-Valverde,  
+R. Valencia-García,  Disease  diagnosis  on short-cycle  and perennial  crops: an ap-
+proach guided by ontologies,  in: Distributed  Computing  and Artiﬁcial  Intelligence,  
+14th International  Conference,  Springer  International  Publishing,  Cham, 2018, 
+pp.197–205.
+[29]W. Jearanaiwongkul,  C. Anutariya,  T. Racharak,  F. Andres,  An ontology-based  expert 
+system for rice disease identiﬁcation  and control recommendation,  Appl. Sci. 11(21) 
+(2021),  https://doi  .org /10 .3390 /app112110450.
+[30]W. Jearanaiwongkul,  C. Anutariya,  F. Andres,  A semantic-based  framework  for 
+rice plant disease management:  identiﬁcation,  early warning,  and treatment  recom-
+mendation  using multiple  observations,  New Gener. Comput.  37 (2019) 499–523,  
+https://doi  .org /10 .1007 /s00354  -019 -00072 -0.[31]W. Jearanaiwongkul,  C. Anutariya,  F. Andres,  An ontology-based  approach  to plant 
+disease identiﬁcation  system,  in: Proceedings  of the 10th International  Conference  
+on Advances  in Information  Technology,  IAIT 2018, Association  for Computing  Ma-
+chinery,  New York, NY, USA, 2018.
+[32]J. Lacasta,  F.J. Lopez-Pellicer,  B. Espejo-García,  J. Nogueras-Iso,  F.J. Zarazaga-Soria,  
+Agricultural  recommendation  system for crop protection,  Comput.  Electron.  Agric. 
+152 (2018) 82–89, https://doi  .org /10 .1016 /j .compag  .2018 .06 .049.
+[33]R.H. Sprague  Jr., A framework  for the development  of decision  support  systems,  MIS 
+Q. (1980) 1–26.
+[34]H.A.F. El-Shaﬁe,  B.M.A. Abdel-Banat,  M.R. Al-Hajhoj,  Arthropod  pests of date palm 
+and their management,  CABI Rev. 2017 (2017) 1–18, https://doi  .org /10 .1079 /
+PAVSNNR201712049.
+[35]C. Jonquet,  A. Toulet, E. Arnaud,  S. Aubin, E. Dzalé Yeumo,  V. Emonet,  J. Graybeal,  
+M.-A. Laporte,  M.A. Musen, V. Pesce, P. Larmande,  Agroportal:  a vocabulary  and 
+ontology  repository  for agronomy,  Comput.  Electron.  Agric. 144 (2018) 126–143,  
+https://doi  .org /10 .1016 /j .compag  .2017 .10 .012.
+[36]L. Matteis,  P. Chibon,  H. Espinosa,  M. Skoﬁc, H. Finkers,  R. Bruskiewich,  J. Hyman,  
+E. Arnoud,  Crop ontology:  vocabulary  for crop-related  concepts,  2013, the ﬁrst in-
+ternational  workshop  on semantics  for biodiversity;  conference  date: 27-05-2013,  
+http://ceur  -ws .org /Vol -979 /WS _s4biodiv2013  _paper _4 .pdf.
+[37]B. Fawei, J.Z. Pan, M. Kollingbaum,  A.Z. Wyner, A semi-automated  ontology  con-
+struction  for legal question  answering,  New Gener. Comput.  37 (2019) 453–478,  
+https://doi  .org /10 .1007 /s00354  -019 -00070 -2.
+[38]M.A. Musen, The protégé  project:  a look back and a look forward,  AI Matt. 1( 4 ) 
+(2015) 4–12, https://doi  .org /10 .1145 /2757001  .2757003.
+[39]M. Fernández-López,  A. Gómez-Pérez,  N. Juristo,  Methontology:  from ontological  
+art towards  ontological  engineering,  in: Proceedings  of the Ontological  Engineering  
+AAAI-97  Spring Symposium  Series, American  Associationfor  Artiﬁcial  Intelligence,  
+Ontology  Engineering  Group -OEG, 1997, https://oa  .upm .es /5484/.
+[40]M. Gruninger,  Methodology  for the design and evaluation  of ontologies,  in: Proc. IJ-
+CAI’95,  Workshop  on Basic Ontological  Issues in Knowledge  Sharing,  1995, https://
+cir .nii .ac .jp /crid /1571135650978573440.
+[41]N.F. Noy, D.L. McGuinness,  et al., Ontology  development  101: a guide to creating  
+your ﬁrst ontology,  https://cir  .nii .ac .jp /crid /1574231875080226304,  2001.
+[42]M. Fernández-López,  M. Poveda-Villalón,  M.C. Suárez-Figueroa,  A. Gómez-Pérez,  
+Why are ontologies  not reused across the same domain?,  J. Web Semant.  
+57 (2019) 100492,  https://doi  .org /10 .1016 /j .websem  .2018 .12 .010, https://www  .
+sciencedirect  .com /science  /article  /pii /S1570826818300726.
+[43]S. Chari, O. Seneviratne,  D.M. Gruen, M.A. Foreman,  A.K. Das, D.L. McGuinness,  
+Explanation  ontology:  a model of explanations  for user-centered  ai, in: J.Z. Pan, V. 
+Tamma,  C. d’Amato,  K. Janowicz,  B. Fu, A. Polleres,  O. Seneviratne,  L. Kagal (Eds.), 
+The Semantic  Web – ISWC 2020, Springer  International  Publishing,  Cham, 2020, 
+pp.228–243.
+[44]R.D. Shankar,  S.B. Martins,  S.W. Tu, M.K. Goldstein,  M.A. Musen, Building  an expla-
+nation function  for a hypertension  decision-support  system,  Stud. Health Technol.  
+Inform.  1 (2001) 538–542.
+[45]G. Fakih, P. Serrano-Alvarado,  A survey on sparql query relaxation  under the lens of 
+rdf reiﬁcation,  Semant.  Web (2023).
+[46]M.H. Mughal,  Z.A. Shaikh,  A.I. Wagan,  Z.H. Khand, S. Hassan,  Orﬀm: an ontology-
+based semantic  model of river ﬂow and ﬂood mitigation,  IEEE Access 9 (2021) 
+44003–44031,  https://doi  .org /10 .1109 /ACCESS  .2021 .3066255.
+[47]S.I. Wilson,  J.S. Goonetillake,  A. Ginige, A.I. Walisadeera,  Towards  a usable on-
+tology: the identiﬁcation  of quality characteristics  for an ontology-driven  decision  
+support  system,  IEEE Access 10 (2022) 12889–12912,  https://doi  .org /10 .1109 /
+ACCESS  .2022 .3146331.
+[48]G. Fu, C. Batchelor,  M. Dumontier,  J. Hastings,  E. Willighagen,  E. Bolton, Pub-
+chemrdf:  towards  the semantic  annotation  of pubchem  compound  and substance  
+databases,  J. Cheminform.  7 (2015) 1–15.
+[49]K. Degtyarenko,  P. De Matos, M. Ennis, J. Hastings,  M. Zbinden,  A. McNaught,  R. 
+Alcántara,  M. Darsow,  M. Guedj, M. Ashburner,  Chebi: a database  and ontology  
+for chemical  entities of biological  interest,  Nucleic  Acids Res. 36 (suppl_1)  (2007) 
+D344–D350.
