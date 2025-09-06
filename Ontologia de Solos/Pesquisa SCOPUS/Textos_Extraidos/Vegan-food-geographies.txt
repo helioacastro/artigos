@@ -1,0 +1,1495 @@
+Article
+Progress in Human Geography
+2022, Vol. 46(2) 605 –628
+© The Author(s) 2022
+Article reuse guidelines:
+sagepub.com/journals-permissionsDOI: 10.1177/03091325211051021
+journals.sagepub.com/home/phgVegan food geographies and the rise
+of Big Veganism
+Alexandra E Sexton 
+Department of Geography, University of Shef ﬁeld, Shef ﬁeld, UK
+Tara Garnett
+TABLE, School of Geography and the Environment, University of Oxford, Oxford, UK
+Jamie Lorimer 
+School of Geography and Environment, University of Oxford, Oxford, UK
+Abstract
+Veganism is the subject of an increasingly diverse body of social scienti ﬁc research, yet it remains relatively
+understudied in geography. Meanwhile, contemporary cultural commentaries note how veganism has gone
+mainstream, with critics warning of veganism ’s corporate nature –expressed in the rise of what we term ‘Big
+Veganism ’. We argue that food geographers are well placed to examine these trends. We ﬁrst review vegan
+studies work beyond geography that examines and critiques the mainstreaming of veganism. We focus onliterature that explores multiple contested modes of veganism, veganism as praxis in place and the rise of
+corporate veganism as useful foundations for geographers to build on, particularly in light of currently unfolding
+developments in vegan cultures and practice. Taking this work forward, we identify four conceptual traditionsfrom research in food geographies –following foodways ,alternative food networks and the cultural and material
+politics of eating –to develop a ‘vegan food geographies ’programme that aims to advance critical geographic
+work on veganism and the emerging implications of its contemporary mainstreaming.
+Keywords
+Vegan, food geography, alternative food networks, plant-based, mainstream
+I The rise of Big Veganism
+In a preview of global market trends, The Economist
+declared that ‘2019 will be the year veganism goes
+mainstream ’(Parker, 2018 ). This prophesy of the
+‘year of the vegan ’was echoed across international
+business and cultural commentary, with articles of-fering tips on how to launch vegan start-ups and how
+to‘veganise ’existing companies ( Fox, 2017 ;Cook,
+2019 ). The previous 12 months had seen unprece-
+dented growth in sales of vegan products in NorthAmerica and Europe. In 2018, the US retail market
+for plant-based foods grew by 20% to total $3.3billion in sales ( PBFA, 2018 ). In the UK, approxi-
+mately 600,000 people identi ﬁed as ‘vegan ’and a
+record number of people (250,000) reportedly took
+Corresponding author:
+Alexandra E Sexton, Department of Geography, University ofShefﬁeld, Winter Street, Shef ﬁeld S3 7ND, UK.
+Email: a.sexton@shef ﬁeld.ac.uk
+
+the Veganuary pledge to go vegan throughout Jan-
+uary in 2019 ( Smithers, 2019 ). UK high street re-
+tailers from Waitrose to Greggs launched their ownvegan product ranges ( Calnan, 2019 ;Monaghan,
+2019 ) and vegan brands were some of the biggest
+acquisitions by global livestock product companies(e.g. The Vegetarian Butcher by Unilever ( Michail,
+2018 ; see also Good Food Institute, 2019 ). Online,
+#vegan and #plantbased have become leading foodhashtags on Instagram (used in 115 million and 36.3million posts, respectively, at time of writing). Vegancelebrities (Lewis Hamilton, Arianna Grande) andvegan in ﬂuencers (Deliciously Ella, BOSH!) are
+becoming a lucrative element of the cultural econ-omy of food ( Goodman and Jaworska, 2020 ).
+While it is important to keep these economic
+trends in perspective with the continued dominanceof global animal food systems, they re ﬂect a dis-
+cernible shift in the historical position of veganism atthe margins of Western culture. Veganism andvegetarianism are some of the oldest ‘alternative ’
+practices in meat-centred or ‘carnist ’(Joy, 2011 ) food
+cultures ( Spencer, 1996 ;Iaccobo and Iaccobo, 2004 ),
+with well-documented connections to Victorian
+programmes of religious reform and women ’s suf-
+frage ( Leneman, 1999 ;Maurer, 2002 ), and more
+recent countercultural, anarchist, Rastafarian and alt-right movements ( Forchtner and Tominc, 2017 ;
+Waldstein, 2016 ;Werkheiser, 2013 ;White, 2017 ).
+While vegans have often faced ridicule and exclusion(Cole and Morgan, 2011 ;Doyle, 2016 ), recent stories
+portray veganism as exciting and hopeful ( Pendergrast,
+2016 ). Veganism has become cool: an aspirational
+lifestyle for younger, urban and wealthier demo-graphics ( Nguyen, 2017 ). Veganism is also in-
+creasingly presented by scientists and in mainstreammedia as the sensible antidote to the health impacts ofmeat consumption, and to the ecological impacts ofconventional livestock production ( Godfray et al.,
+2018 ;Poore and Nemecek, 2018 ).
+Enthusiasts suggest that this mainstreaming of
+veganism has the potential to enact signi ﬁcant eth-
+ical, ecological and health changes to an agri-foodsystem increasingly understood as broken ( Friedrich,
+2020 ;Dutkiewicz and Dickstein, 2021 ). Meanwhile
+critics caution that this mainstreaming risks dilutingthe radical ethics of veganism, and argue that it ischaracterised by notable continuities and consoli-
+dations of who is developing, producing and prof-iting from new vegan products ( White, 2018 ;Clay
+et al., 2020 ). These debates centre on the emergence
+of what we term ‘Big Veganism ’: the recent turn by
+‘Big Food ’and ‘Big Agriculture ’(Stuckler and
+Nestle, 2012 ) to veganise their offerings and bring
+vegan products into mainstream spaces of food
+production and consumption. This model of veg-anism ’s mainstreaming is evidenced by the kinds of
+developments described at the opening of this paperthat have seen the biggest names in food and agri-culture over recent years increasingly incorporatevegan options into their operations through directinvestment, acquisitions and even corporate re-
+branding.
+1Regular headlines attest to global net-
+works of commodity plant-based (e.g. soya, wheat,pea) and biotechnological ingredients ( Stephens
+et al., 2018 ) being mobilised by agri-businesses to
+meet the growing demand for high-tech, ersatz,‘ultra-processed ’foods, like the ﬂagship Impossible
+Burger and plant-based milks ( Mylan et al., 2019 ;
+Sexton, 2018 ;Clay et al., 2020 ;Tziva et al., 2020 ).
+This model is grounded in the prevalent neo-
+liberal politics of individual food choice ( White,
+2018 ) and carnist food cultures ( Joy, 2011 ), in
+which fetishized, often expensive products aremarketed primarily to privileged audiences thatcelebrate white ‘shredded ’bodies and the welfare of
+charismatic animals ( Harper, 2012 ;Wright, 2015 ;
+Doyle, 2016 ). Alternative versions of lower-tech,
+minimally-processed and socially embedded vegan
+foodways are noticeably absent from the Big Veganmodel. While examples of these alternative veganofferings can be found in more niche food andhealth retailers (e.g. Hodmedod ’sP u l s e sa n d
+Grains, and Riverford Organic in the UK), BigVeganism has arguably emerged as the signi ﬁcant
+driving force of the current mainstreaming of vegan
+identity, practice and products in Europe and North
+America. The considerable cultural and ﬁnancial
+power it continues to amass at pace is de ﬁning the
+politics of possibility ( Guthman, 2008 )o fw h a t
+contemporary veganism is, who it is for, the ge-ographies and scales it encompasses, and whatkinds of alterity to conventional food systems it candeliver ( White, 2018 ).606 Progress in Human Geography 46(2)
+These trends in vegan mainstreaming and its
+possible futures raise important questions for foodgeographers. Geography ought to be well placed toexplore such developments given the longstandinghistory of work on alternative food networks andtheir mainstreaming ( Guthman, 2003 ;Watts et al.,
+2005 ;Harris, 2009 ;Goodman et al., 2012 ;Slocum
+and Cadieux, 2015 ). But veganism is largely absent
+from geographic enquiry, with a few notable ex-ceptions in work on animal geographies ( Twine,
+2014a ), radical geographies ( V´eron, 2016 ;White,
+2017 ) and alternative food economies ( Hahn and
+Bruner, 2012 ), including a nascent programme for
+a new ﬁeld of ‘vegan geographies ’(Hodge et al.,
+forthcoming ). A recent collaborative paper by Morris
+et al. (2021) outlines a timely and comprehensive
+social science and humanities research agenda forstudying the ‘challenges of moving beyond animal-
+based food systems ’. The authors note the disparate
+nature of existing research on the cultures, practices,politics and ethics of eating animals, and within thiscorpus highlight that work on vegetarianism andveganism has been largely consumption-oriented
+(ibid, 2). We observed a similar orientation in our
+search of literatures on vegan mainstreaming. Wefound most of this work largely concentrated in theinterdisciplinary ﬁeld of vegan studies ( Wright
+2015 ), which has remained mostly separate from
+core food geography debates. In this article, weidentify avenues for how geography can both engagewith and extend this existing work –particularly by
+drawing on conceptual traditions in food geography
+that view production and consumption as mutuallyco-constitutive ( Lockie and Kitto, 2000 ;Goodman
+D., 2004 ;Kneafsey et al., 2021 ). We build directly on
+Morris et al. (2021) andHodge et al. ’s (forthcoming)
+agenda-setting work by exploring what geography,andfood geography more speci ﬁcally, can offer re-
+search on how transitions away from animal-based
+food systems are currently being framed and mate-
+rialised. We refer to this complementary researchprogramme as vegan food geographies .
+We begin by reviewing the extensive scholarship
+on veganism beyond the admittedly porous disci-plinary boundaries of geography, focussing on workthat explores and critiques the mainstreaming ofveganism in Western Europe and North America.This literature identi ﬁes multiple contested modes of
+veganism, explores veganism as praxis in place andcautions against the rise of corporate veganism. Thiswork provides useful foundations for geographers tobuild on, particularly in light of currently unfoldingdevelopments in vegan cultures and practice. Theunprecedented speed and scale of vegan main-
+streaming in recent years calls for more critical en-
+gagement with the current shifts in politicaleconomic, material, cultural and moral structures ofvegan foodways. As we and others identify (e.g.Morris et al., 2021 ), a key component of this requires
+a broadening of the consumption-oriented nature ofmuch previous vegan studies work. The followingsections explore how vegan scholarship might be
+extended in these ways through engagement with the
+conceptual and empirical concerns of food geogra-phies, focussing on work that: follows and placesfoods; critically examines the alterity of food net-works, and explores the cultural and material politicsof eating. We draw these literatures together inconclusion to outline future pathways of vegan foodgeographies research that further engages geographic
+work on food with vegan scholarship and practice.
+Within this broader agenda, we highlight the emer-gence of Big Veganism as a particularly timelysubject for geographers to critically engage withgiven its growing prominence in contemporaryfoodways, and its implications for the spatial, po-litical economic and cultural (re)ordering of globalfood networks.
+II Vegan studies and the politics
+of mainstreaming
+Veganism as ethics and social practice has been the
+subject of an increasingly formalised and diversebody of social science research. History ( Spencer,
+1996 ;Leneman, 1999 ;Iacobbo and Iacobbo, 2004 ),
+critical race and gender studies ( Harper, 2010 ;Polish,
+2016 ;Brueck and McNeil, 2020 ), cultural theory
+(Adams, 1990 ;Giraud, 2021 ;Wright, 2015 ), soci-
+ology ( Cherry, 2006 ;Greenebaum, 2012 ;Wrenn,
+2017 ), media and communication studies ( Cole
+and Morgan, 2011 ;Doyle, 2016 ), philosophy
+(Francione, 2012 ), market studies ( Fuentes andSexton et al. 607
+Fuentes, 2017 ) and psychology ( Sneider and Te
+Molder, 2004 ) are just some of the multi-
+disciplinary strands that make up an emerging
+ﬁeld of ‘vegan studies ’(Wright, 2015 ). While a more
+exhaustive review is beyond the scope of this paper(see Giraud, 2021 for an in-depth history of vegan
+academic-activist traditions), we focus here on threekey strands of this work as a useful starting point for
+understanding the contemporary vegan moment.
+1 Multiple veganisms
+Recent work in vegan studies has sought to map and
+critique the diversity of claims and practices that get
+subsumed by the label veganism. The UK VeganSociety de ﬁnes veganism as:
+A philosophy and way of living which seeks to exclude
+–as far as is possible and practicable –all forms of
+exploitation of, and cruelty to, animals for food,clothing or any other purpose; and by extension, pro-
+motes the development and use of animal-free alter-
+natives for the bene ﬁt of animals, humans and the
+environment. In dietary terms it denotes the practice ofdispensing with all products derived wholly or partlyfrom animals.
+While this de ﬁnition may seem familiar and un-
+controversial to readers of this journal, it emergesfrom, and seeks to bridge, longstanding philosoph-
+ical and political deliberations within vegan schol-
+arship and activism over what constitutes authenticvegan praxis ( Greenebaum, 2012 ). There are a broad
+range of de ﬁnitions, motivations and everyday
+practices amongst vegan communities in the UK andUS (Cherry, 2006 ) and this diversity leads to debate.
+For example, as Greenebaum notes, the identitymarkers of ‘health ’,‘environmental ’and ‘ethical ’
+vegan –and more recent labels like ‘vegan curious ’,
+‘ﬂexitarian ’and ‘plant-based ’– are‘not merely
+descriptive differences; they are value-laden withinthe vegan community ’(2012 , 130).
+Health veganism has historically proven more
+effective at achieving widespread public acceptancein the US ( Maurer, 2002 ). Moreover, recent market
+data shows that concerns for personal health and theenvironment rather than animal welfare are driving
+recent vegan adoption in the UK and US ( Shoup,
+2019 ;Pendergrast, 2016 ). While some scholars and
+activists welcome any reductions in animal-basedconsumption regardless of motivation, ﬁnding hope
+i nt h ep r o s p e c to fm o r eq u i c k l yr e d u c i n gt h es y s t e m i charms of factory farming through veganism ’sp a r t -
+nerships with agri-food corporates and high-tech start-
+ups (Friedrich, 2020 ;Dutkiewicz and Dickstein, 2021 ),
+others argue that veganism should not be divorced fromanimal rights. They strongly advocate for a universalvegan ethic of total animal liberation ( Regan, 1983 ;
+Francione, 2012 ). For vegan writer Gary Francione
+(2016 ,n p ) ,v e g a n i s mi s ‘ﬁrst and foremost about
+nonviolence to other sentient beings ’. As an advocate
+for a universal abolitionist a pproach, he sees veganism
+as a choice that all persons ‘can make today –right now
+–if we believe that animals matter morally ’(ibid). He
+expresses the shared concern of vegan abolitionists thatthe mainstreaming of veganism is leading to the di-lution and splintering of authentic vegan praxis.
+Yet the quest for an authentic vegan ethics based
+on the single issue of animal rights or animal welfare
+has been questioned in recent work in vegan studies.Drawing on ecofeminist and anarchist theories,critical vegan scholars have challenged the privilegebound up in universal abolitionist perspectives. Forexample, Warkentin (2012 , 500) denounces the
+universal prescription of a ‘pure’vegan lifestyle,
+arguing that a democratic vegan ideology andscholarship should allow ‘for rigorously considered
+grays rather than demanding all-encompassing black
+or white positions ’. Similarly, Twine notes that ‘there
+is much diversity within veganism ’in terms of
+motivations and practice, and suggests that ‘it should
+not be assumed simply that [veganism] is always achoice for non-violence ’(Twine, 2014b , 192). His
+argument builds directly on the in ﬂuential work of
+Adams (1990) ;Harper (2010 ,2011 ,2012) and others
+who spotlight the power relations within main-
+streamed vegan praxis that intersect class, race andgender, with concerns for ecologies and differentspecies ( Hamilton, 2016 ;Polish, 2016 ;Gaard, 2017 ).
+The intellectual activism in this work has been
+instrumental in pushing the storying of veganismbackwards in time to challenge the primacy oftenafforded to the founding of the UK Vegan Society in608 Progress in Human Geography 46(2)
+1944 ( Brueck and McNeil, 2020 ). It also aims to look
+outwards to encompass a broader diversity of cul-tural, socioeconomic and gendered practices ofveganism. For example, critics of the white aestheticsand politics of mainstream veganism advocate for‘race consciousness ’(Harper, 2012 ) and more in-
+tersectional approaches to vegan scholarship to re-
+dress the erasure of underrepresented voices –
+particularly people of colour –from the intellectual
+traditions of veganism ( Harper 2010 ). They aim to
+push at the boundaries of what authentic veganpractice looks like in order to legitimise more plu-ralistic models of vegan eating.
+2 Veganisms as praxis in place
+Vegan activists and vegan studies scholars have longexplored veganisms as praxis in place ( White and
+Cudworth, 2014 ;Doyle, 2016 ;V´eron, 2016 ;Martin,
+2019 ). A recurring methodological approach is to
+offer ﬁrst-hand researcher testimonies of the affec-
+tive, physical places of farm animal life, includinglivestock auction rooms ( Gillespie, 2018 ), slaugh-
+terhouses ( Lockwood, 2018 ) and farm animal
+sanctuaries ( Tulloch, 2018 ). These accounts inten-
+tionally pay attention to the emotional responses ofthe witness (the researcher) and the witnessed (theanimals), with particular emphasis on grief, fear andanger ( Oliver 2020 ).Gillespie (2018) notes that
+witnessing has been a longstanding format of animalactivism –for example, through vigils and under-
+cover videos. As an academic method, witnessing is
+similarly political in making visible and translatingthe suffering embedded within modern foodways.These accounts accentuate emotion and the ‘sensing
+body ’(Longhurst et al., 2008 ), and build on earlier
+work that mobilised ethnographic testimony tohighlight the central role of place and space in theordering, obscuring and making kill-able of animals
+in different food systems (e.g. Vialles, 1994 ;Taylor
+and Fraser, 2017 ).
+This work on witnessing-in-place also extends to
+research on the social injustices and broader eco-logical harms experienced by certain human bodieswithin the spaces of animal-free food systems(Harper, 2011 ;White, 2018 ). Commentators from
+beyond vegan studies note how many forms ofviolence and injustice continue in food supply chains
+even when animals are removed. Examples includestudies of the marginalisation of small-scale avocadofarmers in Colombia ( Serrano and Brooks, 2019 ), the
+ecological and social injustices associated with ar-able monocultures ( Shiva, 1993 ;Green and Foster,
+2005 ) and the labour and sexual exploitation expe-
+rienced by migrant workers in horticultural sectors in
+Europe and the US ( Holmes, 2013 ;Palumbo and
+Sciurba, 2015 ). Recognising the spectrum of sys-
+temic exploitation within both animal and plant-based foodways has formed a core strand ofvegan-anarchist critiques against the ‘vegan-as-
+consumption ’approach (explored below) to vegan
+mainstreaming ( White, 2018 ). It also speaks to on-
+going efforts to reconcile the focus of animal rights
+on the welfare of individual animals with environ-mental ethics which considers the well-being of non-human animals, including livestock, as part of alarger ecosystem of soils, waters and plants. Wheresome have seen promise in building a moremultispecies-focused ethics ( Warkentin, 2010 ),
+others ﬁnd their normative positions to be ultimately
+irreconcilable ( Faria and Paez, 2019 ).
+3 Corporate veganism
+These intersectional and place-based approaches aim
+to make space for multiple veganisms. But it hasbeen highlighted in discussions on vegetarianism thatthe inclusivity achieved through an expanded
+‘cognitive praxis ’(Morris and Kirwan, 2006 ) pres-
+ents a dilemma for those who wish to take a politicalposition on how, and by whom, such movementsshould be mainstreamed. For example, critics cautionagainst the increasing adoption of health veganism asthe commercial pathway through which agri-foodcorporates market vegan offerings, often as morecostly products targeted at wealthier health-
+conscious consumers. They suggest such trends
+risk advancing what ( White, 2018 ), 2 terms ‘cor-
+porate veganism ’that neutralises the movement ’s
+anti-establishment aim ‘to usher in a more ethical,
+peaceable, and non-violent world ’. These neutralis-
+ing efforts are apparent in the agri-food industry ’s
+recent uptake of ‘plant-based ’over ‘vegan ’as their
+favoured product descriptor due to the former beingSexton et al. 609
+seen as more palatable to a broader consumer base
+(Sexton, 2018 ;Clay et al., 2020 ).Giraud (2021) is
+similarly critical of this emergent ‘plant-based cap-
+italism ’that has seen individuals and corporate
+brands exploiting the now fashionable vegan identitywithout any deeper commitment to systemic ethicalliving (see also Reed, 2020 ). These commentators
+speak for a wider movement in vegan studies calling
+for urgent critical re ﬂection on this corporatized
+direction of travel.
+These tensions are about who veganism is for, but
+they also raise questions about who is deemed to be alegitimate agent of change on behalf of the vegancause, and at what scale. For example, Wrenn cham-pions the power of vegan consumption as a site of
+individual political resista nce, yet cautions against
+vegan movements operating solely through consumer-based action. She notes the risk of ‘capitalist co-
+option and moral disillusionment ’(2011 , 22) that
+such approaches can engender, and notes the po-tential for systemic oppressions to remain unchal-lenged if consumer action is not complemented byother forms of advocacy, such as policy change and
+public education. Wrenn also raises a recurring debate
+about the ‘efﬁcacy and ethical consistency ’(2011 ,1 8 )
+of purchasing vegan products from mainstream brandswho derive the majority of their pro ﬁts from the
+exploitation of non-human animals, and the potentialfor veganism to act as a kind of greenwashing thatabsolves such brands from addressing the intersec-tional harms that uphold their competitive advantage
+(Singer, 2017 ). The work of vegan-anarchist scholars
+has done much to bring critical focus to the speci ﬁ-
+cally social institutions and political economies thatsustain these harms, and to caution against prioritisingindividual consumptive acts as the only effectivemeans by which to bring about more peaceable living(Dominick, 2015 ;White, 2015 ;Milburn, 2016 ).
+Taken together these three strands of vegan studies
+offer a valuable foundation for critically exploring
+vegan mainstreaming. However, the critical foci onthe spaces of vegan production and veganism as in-dividual practice has tended to cleave to a production-consumption binary. The majority of studies focusprimarily on vegan praxis at the individual rather thansystem level, and of those examining vegan foodpractices few consider broader agri-food debates onthe spatial, political economic and material politics
+associated with animal-free eating and productionnetworks. A similar production-consumption binaryhas historically characterised agri-food scholarship,but it has since been challenged by work in foodgeographies ( Lockie and Kitto, 2000 ;Goodman D.,
+2004 ;Kneafsey et al., 2021 ). This literature helps
+identify the ‘double-edged sword ’(Smart, 2004 )
+that characterises the ‘vegan-as-consumption ’trend
+(White, 2018 ) as one commonly experienced when
+alternative food networks encounter the market-based, individualistic paradigm of the mainstream(Goodman et al., 2012 ). Food scholars have begun
+to highlight the need for greater consideration ofthese tensions, speci ﬁcally concerning the potential
+impacts of transitioning to plant-based operations at
+the farm and processing levels ( Burton, 2019 ;
+Lonkila and Kaljonen, 2021 ;
+Tziva et al., 2020 ), and
+via different production methods ( Green and Foster,
+2005 ). We see considerable scope for extending the
+analytical foundations offered by vegan studiesthrough further engagement with work in foodgeographies, building on recent interdisciplinary
+(Morris et al., 2021 ) and vegan geographies ( Hodge
+et al., forthcoming ) research programmes to explore
+transitions beyond animal-based food systems.
+III Engaging food geographies:
+Following, alterity and the culturaland material politics of eating
+Although veganism remains a marginal concern in
+food geography, there is copious relevant scholar-ship within this sub ﬁeld of geography that explores
+the potential and pitfall s of mainstreaming what
+were once alternative ways of farming and eating.Here we identify four key strands from literature infood geographies that extend the foundational in-
+terests of vegan studies. These include the con-
+ceptual traditions of following food through
+networks and places of its production and con-sumption, critiquing the alterity of alternative food
+networks, and unpacking the cultural andmaterial
+politics of how things become food. We focus
+primarily on avenues that support further criticalwork on the speci ﬁc issue of Big Veganism, but it is610 Progress in Human Geography 46(2)
+hoped the themes we identify can be taken beyond
+this topic by food geographers to consider con-temporary vegan praxis more broadly.
+1 Following and placing vegan foods
+In their manifesto for vegan geographies, Hodge
+et al. (forthcoming) argue for viewing veganism as
+an inherently spatial praxis. They make a compellingcase for how geographers can extend vegan studiesscholarship by attending to the geographies, scalesand situatedness of veganism within political, cul-tural and economic networks, and by tracing unequalspatial patterns in its bene ﬁts and impacts. Two
+tactics stand out for delivering this promise. The ﬁrst
+is to engage the conceptual and methodological
+tradition in geography of ‘following ’food ( Cook,
+2006 ) that traces the networks of spaces, people and
+things connected by production, processing, distri-bution and consumption. This approach has providedrich accounts of the hidden spaces, practices andpolitical economies that bring foodstuffs from distantgeographies to the shelves and menus of mainstream
+Western retailers. Exempla ry work has followed sugar
+(Mintz, 1986 ), papayas ( Cook, 2004 ), wine ( Kleine,
+2008 ), hot pepper sauce ( Cook and Harrison, 2007 ),
+coffee ( Coles, 2016 ), wheat ( Head and Atchison, 2016 )
+and Fair Trade bananas ( Wilson and Jackson, 2016 ).
+This approach works in a complementary vein to theautoethnographies of l ivestock production ( Gillespie,
+2018 ;Lockwood, 2018 ), witnessing the distances
+travelled by everyday foodstuffs and the lives and
+experiences of people behind their production anddistribution. Following food products works in simi-larly intimate and political ways to expose the eco-logical and human exploitation within the commoditychains that underpin modern food systems. Suggestedavenues for further geographic work include un-covering the geographies of Big Veganism beyond our
+focus in this paper on trends in the Global North. For
+example, by whom and where are supply chains andout-of-sight labour forces being mobilised in order to
+sustain and grow Big Veganism in the Global North?What impacts are these new and/or existing networkshaving on local ecologies and communities? To whatextent are consumption trends in the Global Southpursuing a similar trajectory to those in the North?
+2A second tactic is to attend to how an inability to
+witness and follow such commodity chains high-lights the purposefully hidden injustices that upholdthem ( Hulme, 2017 ), for example in work on the
+heavily guarded interiors of slaughterhouses andfactory farms ( Taylor and Fraser, 2017 ). This focus
+includes the places of food production that have been
+made invisible due to both their physical location and
+the political economies of their institutionalisedknowledge practices. For example, recent geographicwork on soils reveals the knowledge politics that haverendered soil ecosystems as a passive surface to bemapped, owned and worked upon ,r a t h e rt h a n with
+(Krzywoszynska and Marchesi, 2020 ). Advocating
+instead for a relational approach to soils, this work
+offers valuable avenues for vegan-focussed scholar-
+ship to literally go deeper into the subterranean placesthat support Big Veganism. By ‘embedding atten-
+tiveness ’(ibid, 199), this conceptual and methodo-
+logical approach extends critical enquiry into non-human labour and care to the hard-to-access, lesssense-able and ‘uncharismatic ’non-human lifeforms
+within Big Vegan foodways ( Puig De la Bellacasa,
+2015 ;Beacham, 2018 ;Krzywoszynska, 2020 ).
+An attention to place also paradoxically helps to
+reveal the ‘placelessness ’of some of the world ’s
+most ubiquitous food ingredients ( Atchison et al.,
+2010 ), including the unspeci ﬁed starches, gums and
+preservatives that are now increasingly appearing inmainstream vegan products ( Wilson, 2019 ). This
+methodological approach brings a critical focus to
+the broader political economies of vegan main-
+streaming that risk locking-in (non)human harms. Italso examines the growing ‘displacement ’(Cook and
+Crang, 1996 ) of vegan food through its reduction into
+anonymous industrial ingredients, such as the so-called ‘superfoods ’(Loyer and Knight, 2018 ) and
+‘charismatic nutrients ’(Kimura, 2013 ) promoted by
+those making plant-based eating both pro ﬁtable and
+palatable.
+Following mainstream vegan food also reveals the
+distinctive split in the recent activities of conven-
+tional agribusinesses. While the giants of global food
+processing and ingredient production (like TysonFoods and Cargill) have hedged their bets on plant-based trends ( Piper, 2019a ), resistance has been
+voiced by both small-scale farmers and the powerfulSexton et al. 611
+lobby groups that speak for ruminant meat and dairy
+farming in both the UK and US. The relationshipsbetween place and food have become a key battle-ground within these debates, in which claimed linksbetween livestock, landscapes and producers justifydeeply held values about what constitutes ‘real’,
+‘simple ’and ‘good ’food ( Sexton et al., 2019 ).
+Notions of terroir and embeddedness abound in these
+narratives, re ﬂecting the centrality of place in shaping
+popular perceptions of the q uality and physical makeup
+of foodstuffs ( Mans ﬁeld, 2003 ;Winter, 2003 ;Morris
+and Kirwan, 2006 ;Sexton, 2020 ). While we note that
+the care-full embeddedness of conventional livestockproduction evoked in these narratives does not alwaysreﬂect realities on the ground, t heir centrality to a recent
+backlash against veganism amongst certain farming
+communities invites further critical exploration.
+Some attribute this backlash to a simple resistance
+to change and an adherence to out-dated values(Hannan, 2020 ). Without dismissing these factors
+outright, we suggest a more fruitful avenue is tounderstand why farmers farm and why some self-identi ﬁed‘conscious consumers ’are starting to
+question the redemptive promises of mainstream
+vegan products ( Piper, 2019b ). Work across rural and
+food geographies has documented the diverse rangeof personal motivations behind UK farming, espe-cially in the face of the sustained economic lossesexperienced by many in the sector over recent de-cades ( Food Ethics Council, 2017 ). For example,
+Garforth et al. (2006) found that while economic
+drivers were ranked as important amongst the UK
+farmers surveyed, a strong sense of stewardship,connection to place and familial heritage wereequally, if not more important. There is great scope,we contend, for vegan studies to engage with suchwork to further understand the place-based hopes,fears and values that are seen to be at stake amongstfarming communities with the rise of veganism –
+both in its ‘Big’and alternative forms –particularly
+regarding the physical, economic and cultural shiftsin land use and community identity it could catalyse.
+Future work following and placing plant-based
+foods might build on the approaches to witnessing-in-place from vegan studies we reviewed above toexplore the experiences of farmers, pickers and otherlabourers involved in the production networks of BigVeganism. A focus on the grief, fear and anxiety of
+those working within modern food systems, bothanimal and ‘post-animal ’, would help understand the
+structural violence that perpetuates modes and scalesof farming that are often in con ﬂict with the values of
+producers. For example, recent reports of the sys-temic mental health crisis in conventional UK
+farming ( Tasker, 2020 ), and the emotive stories of
+livestock-turned-vegan farmers ( Sharman, 2019 ),
+attest to the uncomfortable and often unwanted lock-ins associated with modern livestock farming(Rebanks, 2020 ), and necessarily complicate the
+growing vili ﬁcation of individual farmers by some
+within vegan communities for what are system-levelfailures ( Brown, 2019 ). Moreover, there is little
+empirical enquiry to date on the experience of those
+working in the new spaces of post-animal foodproduction, from the supply chains of the latest plant-based analogues to the current laboratories andimagined ‘
+meat breweries ’of the emerging cellular
+agriculture sector ( Mammoser, 2016 ;Stephens et al.,
+2018 ).
+2 The alterity of vegan mainstreaming
+Ad e ﬁning feature of recent vegan mainstreaming
+and the high-tech alternative protein products drivingthese trends has been their framing in media, cor-porate and advocacy narratives as the ‘better ’al-
+ternative for multiple bene ﬁciaries: from animals and
+ecologies, to individual and societal health ( Morris
+et al., 2018 ;Sexton et al., 2019 ). There is a rich
+literature in food geographies that critically examinescomparable claims for the alterity of certain foods,and which can help develop the concerns of inter-sectional vegan studies with the promises and risks ofmultiplying veganisms. Work on alternative foodnetworks (AFNs) provides valuable empiricalcomparisons of the processes inherent to main-
+streaming niche food networks and the tensions and
+contradictions that often arise. Examples of the latterinclude common tendencies towards ‘unreﬂexive ’
+(DuPuis and Goodman, 2005 ),‘defensive ’(Winter,
+2003 ) and exclusionary outcomes ( Hayes-Conroy
+and Martin, 2010 ;Goodman, 2004 ;Lockie, 2013 ),
+and an ultimate failure to meaningfully reimagine,reform or disrupt the models of agri-food capitalism612 Progress in Human Geography 46(2)
+they once stood against ( Goodman et al., 2012 ;
+Guthman, 2008 ). This critical work also draws at-
+tention to the fascist and elitist heritage of someAFNs, such as the organic movement ( Reed, 2001 ).
+ForMaye et al. (2007) , the label alternative has
+become empty; a catch-all term for generalisedpromises of (non)human bene ﬁts. In response, at-
+tempts have been made to more precisely qualify
+alterity through discernible metrics and analyticalframeworks. For example, Watts et al. (2005)
+characterise AFNs along a spectrum from ‘weaker ’
+to‘stronger ’, distinguishing between systems that
+place emphasis on reimagining either the foodproduct (weaker) or the networks of its production,distribution and broader socioecological services
+(stronger) (see also Maye et al., 2007 ;Harris, 2009 ;Si
+et al., 2015 ). Such critiques view AFNs based on
+individual products as the weaker model for achievingradical change due to their susceptibility to corporateappropriation. According to this analysis, recenttrends in vegan mainstreaming have largely followeda weaker model of alterity given their neoliberal,market-based characteristics ( White, 2018 ).
+Others have sought to move beyond categorising
+alterity according to any simpli ﬁed binary with
+‘conventional ’agriculture ( Whatmore et al., 2003 )
+and instead aim to acknowledge the heterogeneity,power dynamics and situatedness of different AFNs(Sonnino and Marsden, 2006 ;Holloway et al., 2007 ;
+Wilson, 2013 ). In different ways this work enables
+critical yet hopeful appraisals of AFNs based on a
+‘reading for difference rather than dominance ’
+(Gibson-Graham, 2006 , xxxi). Such an approach
+does not seek to dismiss existing criticisms ofmainstreamed AFNs and their tendency to reproducerather than challenge conventional power structures(Guthman, 2008 ;Lockie, 2013 ;Slocum and
+Cadieux, 2015 ). But neither does it take this fail-
+ure as the grounds for outright dismissal of the po-
+tential for alternative models (like the rise of
+veganism) to simultaneously enable other politicaltrajectories ( Harris, 2009 ).
+Collectively this work on alterity in food geog-
+raphies offers a re ﬂexive approach for critical re-
+search that encourages consideration of what BigVeganism and its associated alternative proteinproducts are claiming to be alternative to. BigVeganism has to date been characterised by explicit
+alliances with ‘conventional ’agri-food industry, yet
+it simultaneously claims to be alternative or at leastdisruptive. The recent acquisitions of vegan start-upsby multinational livestock companies such as TysonFoods are a case in point. Most of these takeovershave been actively sought by vegan food companies
+in the name of creating an ‘alternative ’food system
+that can quickly reach mainstream scales and spaces.Incumbent livestock companies have receivedwidespread praise from many (though not all) veganscholars and activists who have long opposed con-ventional animal agri-business ( Chiorando, 2020 ;
+Friedrich, 2020 ;Dutkiewicz and Dickstein, 2021 ).
+Such evolutions in the way alterity is being oper-
+ationalised through Big Vega nism, and the new ethical,
+spatial and political economic openings being created
+offer timely foci for critical food geography (cf.Goodman and Sage, 2014 ). This research would build
+on recent geographic work that examines the onto-logical battlegrounds that h ave seen the alterity of al-
+ternative proteins challenge d in legal as well as cultural
+domains ( J¨onsson, 2016 ;Stephens et al., 2019 ). It also
+speaks to related studies on the economic geographies
+of vegan food tech start-ups in Silicon Valley, which areremaking veganism according to the logics and spacesof the high-tech industry (e.g. M o u a te ta l . ,2 0 1 9 ;
+Guthman and Biltekoff, 2020 ;J¨onsson, 2020 ;Sexton,
+2020 ).
+3 The cultural politics of vegan eating
+The question of how alterity is being mobilised in the
+mainstreaming of veganism is linked to the questionof who bears the responsibility for materialising thistransition. White ’s (2018) characterisation of veg-
+anism-as-consumption identi ﬁes how individual
+consumers and market competition are upheld as thecentral protagonists in Big Vegan models of food
+system transition. Food geographers have long
+questioned this model of political change, in whichsocietal ills are made the responsibility of individualsto solve through their everyday consumption deci-sions ( Guthman, 2003 ;Goodman, 2004 ;Johnston,
+2008 ). While not dismissing the collective in ﬂuence
+and personal empowerment individual food choicecan achieve, many food geographers haveSexton et al. 613
+highlighted how particularly people of colour,
+women and lower-income groups disproportionatelybear the responsibility and blame for making ‘good ’
+or‘bad’choices ( Slocum, 201 1;Mans ﬁeld, 2012 ).
+As such, attention is de ﬂected from system-level
+issues and the burden of responsibility is shiftedaway from state and corporate actors ( Welch et al.,
+2018 ). The governmentalities associated with this
+model of ‘responsibilising ’the citizen-consumer
+(Johnston, 2008 ) have been shown in multiple ca-
+ses to cultivate problematic and disempoweringimaginaries of ‘good ’eaters and ‘good ’eating
+(Guthman, 2003 ;Minkoff-Zern, 2014 ;Gibson and
+Dempsey, 2013 ;Sexton, 2018 ).
+In response, Roe (2006a) and others have en-
+couraged relational approaches that challenge the
+claimed ef ﬁcacy of individual consumers as agents of
+systemic change. Undermining the prevalent modelof food choice as a set of discrete, free and rationalacts, these approaches draw attention to whatGoodman (2016) terms the ‘extra-ordinariness ’of
+food in the repertoire of daily consumptive practices.This work highlights how food is embedded within
+habituated regimes that shape the pre-cognitive,
+emotional and multi-sensory dimensions of eating(cf. Hayes-Conroy and Hayes-Conroy, 2008 ;
+Jackson et al., 2020 ). Such work complicates the
+assertion made by vegan scholars such as Francione
+(2016 , np) that veganism is a choice all persons ‘can
+make today –right now ’. It develops the concerns of
+intersectional vegan studies scholars to sketch rela-
+tional ethics that are attuned to the embodied politics
+of food ( Carolan, 2011 ) and to reveal how networks
+of spaces, things, visceral experiences and politicaleconomic structures shape the capacity for any givenindividual to enact a care-full ethics in their dailyfood decisions.
+Meanwhile, geographic studies on the cultural
+politics of food, race, class and gender ( Slocum and
+Saldanha, 2016 ;Ram´ırez, 2015 ;Jones, 2019 ;Reese,
+2019
+) offer valuable means for deepening the
+analysis of authenticity and intersectionality in ex-isting vegan studies. For example, reports suggest anotable rise in meat reduction and abstentionamongst non-white communities in the US overrecent years ( McCarthy and Dekoster, 2020 ). A
+growing range of non-pro ﬁt and for-pro ﬁt ventures,digital movements (#blackvegan) and cultural events
+(e.g. Black VegFest) have emerged to support andcelebrate veganism within black communities in boththe UK and US that champions affordable, accessibleand nutritionally-rich plant-based foods. Men arealso increasingly showing interest in veganism(BUPA, 2018 ;Henderson, 2018 ). While research
+shows many men still feel they need social per-
+mission from peers to reduce their meat consumption(Roe, 2018 ), there has been a discernible shift to-
+wards a masculine aesthetic of veganism –achieving
+its own moniker of ‘heganism ’–that purports to
+challenge the historic social stigma of plant-baseddiets as being overtly feminine and nutritionallydeﬁcient (cf. Adams, 1990 ;Asher and Cherry, 2015 ;
+Greenebaum and Dexter, 2018 ). The radical potential
+of heganism has, however, been criticised for furtherreinforcing rather than dismantling the problematicidentities associated with male veganism ( Randall,
+2018 ). The hegan aesthetic has also meant that men
+increasingly occupy the cultural spaces of main-stream veganism that have predominantly been heldby (white) women, and in many of its forms it ad-
+vances elitist versions of veganism as an often ex-
+pensive consumptive lifestyle that risks excludingthose without the means to buy into costly productsand experiences (cf. Giraud, 2021 ).
+Approaches from food geography help critique
+the political openings and closings enabled by thesetrends in the cultural politics of food, including thoseperpetuating problematic racial, class and gendered
+stereotypes (see Priestley et al., 2016 on the Thug
+Kitchen cookbook). The concurrence of the rise of
+Big Veganism with the #MeToo movement and
+worldwide Black Lives Matter protests offers atimely moment for exploring the potential shifts inthe cultural politics and geographies of vegan rep-resentation. Drawing on geographic studies of socialmovements (e.g. Arenas, 2014 ;Nicholls, 2007 ;
+Pickerill and Chatterton, 2006 ) and feminist and
+black food geographies ( Garth and Reese, 2020 ;
+Hamilton, 2020 ;Hayes-Conroy and Hayes-Conroy,
+2008 ;Jones, 2019 ;Reese, 2019 ), there are also
+critical questions to ask about how issues of gender,class and racial (in)justice are manifesting within theboardrooms, supply chains and other spaces of BigVeganism.614 Progress in Human Geography 46(2)
+Finally, food geography is well placed to un-
+derstand the central place of different media in thecultural politics of vegan mainstreaming. For ex-ample, the rise of digital food and lifestyle in ﬂu-
+encers have enabled the ‘celebritisation ’(Johnston
+and Goodman, 2015 ) of vegan activism and pro-
+motion, opening up veganism as a new frontier of
+exposure, controversy and commodi ﬁcation across
+physical and digital spaces. The proliferation ofvegan ﬁlms and the rise of vegan ‘shock docs ’–such
+asCowspiracy, 2014 ;Forks over knives, 2011 ;The
+Game Changers, 2019 –also appears to have played
+a signi ﬁcant role in recent years in shaping repre-
+sentations of veganism and the planetary issues itaims to solve ( Christopher et al., 2018 ). Further
+exploration of these vegan media trends could draw
+on geographic work on the relationship betweencelebrities, media, food and social activism ( Barnes
+2017 ;Phillipov and Goodman, 2017 ), and the
+emerging ﬁeld of digital (food) geographies
+(Schneider et al., 2017 ;Ash et al., 2018 ).
+4 Materialising veganism: things becoming
+‘vegan ’food
+The materialist turn ( Whatmore, 2006 ) has led to a
+renewed focus within food geographies on the
+physical as well as the cultural and discursive net-
+works that shape everyday food-eater relations. A
+nascent sub ﬁeld of this literature has emerged,
+concerned with ‘the geographies of edibility ’(House,
+2018 ), examining the material processes of how
+‘things become food ’(Roe, 2006a ); that is, how food
+is made asmatter and made tomatter through claims
+of betterness and alterity ( Evans and Miele, 2012 ).
+Many recent studies within this sub ﬁeld are con-
+cerned with foods that promise some form of societal
+and planetary salvation, such as genetically-modi ﬁed
+foods ( Roe, 2006b ), or the latest generations of al-
+ternative proteins including edible insects, cell-cultured meat and plant-based products ( House,
+2018 ;Sexton, 2018 ;Stephens, 2021 ). This re-
+search builds directly on research of historic foodtrends and the ways animals have been made ediblein diverse times and places ( Douglas, 1966 ;Vialles,
+1994 ). It reveals how edibility is contingent,changeable and ‘co-produced by a diverse range of
+actors ’(House, 2018 , 83).
+Geographic work on edibility offers valuable
+conceptual and empirical insights for exploring howan increasingly diverse range of things, from stemcells, to pea protein, to ‘thin air ’(Chowdhury, 2019 ),
+are being remade as vegan food. These developments
+demonstrate the ‘transgressive ’and‘boundary-cross-
+ing’nature of food ( Goodman and Sage, 2014 ). They
+invite enquiries into the stra tegies of edibility formation
+and how these are reorganising the physical, politicaleconomic and ontological dimensions of the foodsystem. This invitation has been taken up by anemerging ﬁeld of research spanning food geography
+(J¨onsson, 2016 ;Sexton, 2018 ;Mouat and Prince,
+2018 ), media studies ( Johnson, 2019 ) and the social
+studies of science ( Stephens, 2013 ;J¨onsson et al.,
+2019 ). This work unpacks how alternative proteins
+transgress the established bi ological, legal and cultural
+categories of animal foodstuffs like meat and milk. Itreveals how challenging these seemingly stable cate-gories enables broader reimaginings of the spatial andpolitical order of the food syst em, catalysing collabo-
+rations between previously distinct industries (e.g. Big
+Tech and Big Food) ( Guthman and Biltekoff, 2020 ;
+Sexton, 2020 ) and historically opposed ideological
+positions (e.g. vegan activis m and the global livestock
+industry) ( Sexton et al., 2019 ;Broad, 2019 ).
+Studies of edibility also reveal the distinct visceral
+politics ( Hayes-Conroy and Hayes-Conroy, 2008 )
+that are emerging around these novel foodstuffs.
+Hedonistic notions of pleasure and good taste are
+being mobilised through Big Vegan narratives toconstruct new foodstuffs as the responsible anddelicious alternatives to conventional animal-sourced products. Similar trends have been ob-served in other AFNs like the Slow Food movement(Hayes-Conroy and Martin, 2010 ), where an appeal
+to good taste is seen to offer potential for everyday
+political action against agri-industry. In contrast,
+Clay et al. (2020) argue that recent efforts to turn
+plants into milk (or mylk) represent a form of‘palatable disruption ’. Their analysis explores how
+making vegan food palatable for mainstream tastesinvolves transforming plants so that they simulate thematerial properties of meat and dairy: making mylkthat pours, creams and froths, and burgers that bleed,Sexton et al. 615
+sizzle and deliver a chewable ‘mouth feel ’. In this
+way, both the ethical discomfort of desiring animalfoods and the sensory discomfort (i.e. texture, bittertastes) many people associate with plant and fungi-based alternatives are backgrounded. However, theauthors caution that consumers are ‘encouraged to
+care about the environment, health, and animal
+welfare enough to adopt mylks but to ultimately
+remain consumers of a commodity food ’(ibid, 2; see
+also Mylan et al., 2019 ). Mainstream plant milks as
+such ﬁt the mould of ‘non-disruptive disruptions ’
+(Goldstein, 2018 )–that is, claiming solutions to
+systemic problems that merely serve to repair andmaintain the capitalist status quo. This analysis raisesimportant questions about who stands to bene ﬁt from
+mass-produced, ersatz commodity vegan foodstuffs.
+We see geographic work on visceral politics as a
+natural complement to the critical feminist turnwithin vegan studies reviewed above as it drawsfurther attention to how bodies are categorised,represented and made responsible through main-stream vegan discourses. Attention to the visceralpolitics of Big Veganism invites us to follow these
+discourses into and through the body, to explore the
+‘ways that bodies deal with discourses ’(Hayes-
+Conroy and Hayes-Conroy 2008 , 469) and how
+sensory experiences are entangled in the corporateand political agendas of Big Veganism (cf. Carolan,
+2011 ). Yet it also offers a conceptual and method-
+ological lens for exploring the hopeful ways in whichbodies can resist such co-option. Accounts of dieting
+and weight loss ( Heyes, 2006 ) and autoethnographic
+encounters with recent vegan foodstuffs ( Sexton,
+2016 ) document the ways in which sensory expe-
+riences and expectations can act as a powerful barrierto agri-food industry ’s‘battle for mouths, minds and
+markets ’(Lang and Heasman, 2015 ). Mobilising a
+visceral approach to read for difference over domi-nance (cf. Gibson-Graham, 2006 ) helps identify
+openings to counter some of the problematic material
+and political economic directions of Big Veganism –
+for example, using a visceral approach to ask howand by whom the ‘good ’taste of recent vegan
+foodstuffs is experienced, why some people are re-sisting them, who is able to resist them in favour of
+‘real’animal products or wholefood plant-based
+ingredients, and who bene ﬁts from the particularcultivation of tastes through Big Veganism? More
+speciﬁcally on this latter point, who bene ﬁts from
+mainstream vegan eating remaining largely de ﬁned
+by processed burgers, nuggets and ready meals inplace of wholefood plant-based diets?
+Understanding edibility and taste as networked
+beyond the individual also helps extend work in vegan
+studies on consumer behaviour. For example, Jackson
+et al. ’s (2020)
+study of taste as something that is
+publicly shared further highlights the role of supportiveenvironments and peer groups in sustaining commit-ment to vegan praxis. Moreover, a prominent char-acteristic of Big Veganism has been the performance ofedibility through high-pro ﬁle and purposefully public
+tasting events and marketing materials ( Stephens and
+Ruivenkamp, 2016 ). Collectively these events have
+worked to position a new generation of vegan foodsnot only as eatable but also enjoyable ( Sexton, 2018 ),
+speciﬁcally using the public presentation of celebrities,
+business moguls and food industry ﬁgures tasting these
+novel foods on our behalf ( Stephens, 2021 ). We might
+think of these highly mediated events as a kind ofvisceral witnessing that works to encourage subjects,
+through notable conduits, to accept and desire these
+vegan foodstuffs.
+A focus on social context also helps understand the
+salience of the rise of veganism as a barometer ofbroader social anxieties. Food geographers have oftentaken crises as a generative analytic for understandingsocial norms and practices, in work spanning concernsover global food shortages ( Belasco, 2006 ), con-
+tamination and disease ( Law and Mol, 2008 ), to the
+disconnection of modern food systems ( Jackson,
+2015 ).Sexton (2018) argues that the burgeoning
+demand for alternative proteins represents a materi-alisation of broader anxieties about the contemporaryenvironmental crisis captured under the zeitgeist labelof the Anthropocene. Here vegan foods are normal-ised as therapeutic edible solutions that ensure plan-
+etary salvation, while simultaneously remaining kind
+to capitalist systems and carnist food cultures.
+IV Vegan food geographies
+At the time of writing, the fast-food companyKentucky Fried Chicken (KFC) is in the headlines asthe latest global meat behemoth to pin its future to616 Progress in Human Geography 46(2)
+high-tech cell-cultured and plant-based meat alter-
+natives ( Young, 2020 ). The company joins a growing
+list of livestock, food processing and retail giantswho are hedging their bets on animal-free food trends(Piper, 2019a ). For some within vegan communities,
+this latest expression of Big Veganism is to be ap-plauded for offering rapidly scalable transitions away
+from industrial animal agriculture ( Friedrich, 2020 ).
+For others, such developments represent uneasypartnerships that neglect the radical ethics and tenetsof vegan praxis ( White, 2018 ;Davis, 2019 ;Giraud,
+2021 ). While these debates continue, what seems
+increasingly clear is that many agri-food incumbentsdo not see veganism as a passing consumer fad; asone analyst reported, ‘it’s time has come ’(Hooker,
+2018 ). The cultural, material and political economic
+effects of its rising popularity are already being feltacross the global food system.
+Vegan mainstreaming raises a set of timely
+questions for scholars concerned with the social,animal and environmental consequences of the foodsystem. In this paper we have demonstrated that foodgeographers are particularly well placed to answer
+these questions and to interrogate the different vegan
+food futures that are on the table. We propose thecomplementary sub ﬁeld of vegan food geographies
+as a key component of recent agenda-setting researchprogrammes ( Morris et al., 2021 ;Hodge et al.,
+forthcoming ) that can critically interrogate contem-
+porary transitions away from animal-based foodsystems. In this paper we have outlined some pre-
+liminary avenues for vegan food geographies re-
+search that draw together and develop the commoninterests and concepts of vegan studies and foodgeographies. For example, we suggest that concep-tual concerns with embeddedness and terroir (Winter2003) and the methodological tools of following(Cook, 2004 ) offer potential for further emplacing
+Big Veganism. These avenues prompt questions of
+how places feature in the practices and rhetoric of Big
+Veganism, and where and by whom the promisedbeneﬁts are being realised. A particular theme we
+highlight for further critical research is the vision ofplacelessness in the narratives of some recentproducts that promise the liberation of animalfoodstuffs from the land (and its associated con-straints) through the use of stem cell and planttechnologies ( Sexton et al., 2019 ;Guthman and
+Biltekoff, 2020 ). Geographers need to ask what
+this imagined liberation means for the future of ruralspaces ( Burton, 2019 ) and the people and ecologies
+they support. Conversely, should we think of BigVeganism as not entirely a vision of placelessness butrather one built around different places, such as the
+synthetic biology lab, the urban farm and the Silicon
+Valley start-up?
+Critical work on race, gender, class and alterity
+across vegan studies and food geographies ( Hayes-
+Conroy and Hayes-Conroy, 2008 ;Harper, 2010 ;
+Goodman et al., 2012 ;Reese, 2019 ) also raises
+timely questions about the emerging cultural politicsof Big Veganism. What has the rise of Big Veganism
+and its associated ‘alternative ’products done to
+understandings of alterity and the mainstream? Is itcreating new political openings and challenges fordoing ‘good ’food ( Johnston et al., 2011 )? Whose
+labour and cultural identities support Big Veganism?Who remains visible or hidden in its representations,and who is able or unable to access its bene ﬁts and
+opportunities?
+Furthermore, we suggest that new materialist
+approaches can help develop longstanding concernswith vegan food and eating in cultural studies, whileraising a new set of questions. How might taste andedibility be used to understand resistance to veg-anism by certain producer and consumer groups?What do the processes by which things are beingmade ‘vegan food ’
+reveal about the anxieties, cul-
+tural politics and political economies of conventional
+animal foodstuffs? What are the long-term conse-quences of cultivating vegan tastes through fast-foodproducts and upscaling vegan foodways through thespaces and networks of agri-food incumbents?
+We have focussed primarily on themes that are
+relevant to contemporary trends of vegan main-streaming, yet there is much scope for vegan food
+geographies to look beyond these speci ﬁc develop-
+ments to other temporalities and contexts of veganpraxis. Likewise, we encourage future work to ex-pand the geographical scope of our analysis beyondEurope and North America. Big Veganism is ma-terialising across global geographies and we areconscious that alternative versions of vegan andvegetarian diets are widespread in other parts of theSexton et al. 617
+world, that these diets are changing sometimes as
+consequences of Northern trends, and that meat andplant consumption is driven by a wider and morediverse set of cultural and political tensions than wecan review here. For example, vegetarianism andmeat abstinence have been heralded and contested asnational virtues in both India and China for very
+different reasons ( Jha, 2004 ;Staples, 2020 ). There
+are diverse vegan food geographies emerging bothrelated to and beyond Big Veganism that are worthyof wider examination.
+While by no means exhaustive, our review es-
+tablishes foundational avenues for a sub ﬁeld of vegan
+food geographies that we hope will extend recentcritical geographic and social science work on veg-
+anism broadly and on the speci ﬁc issue of its main-
+streaming. Zooming out from these suggestedresearch questions, we end the paper with threeoverarching aims for future vegan food geographiesresearch. First, that future work on Big Veganismattends to the relations between vegan food productionand consumption. Our spotlighting of geographicdebates on place, moral economies and cultural and
+material politics offers starting points for considering
+Big Veganism as more than a product of linear dy-namics; it is neither the outcome of a mechanisticchain of production from ﬁeld to fork, nor the result of
+consumer-driven trends working backwards down thesupply chain. Rather, we encourage work in veganfood geographies to view Big Veganism as embeddedwithin networks of co-constitutive and often contested
+political, cultural, ethical and material relations. Such
+a relational approach can, we argue, help to overcomethe production-consumption binary that veganthinking (like agri-food studies before it) has at timesperpetuated, and instead encourage a more holisticcritique of the implications of veganism ’sc u r r e n t
+mainstreaming. In doing so, vegan food geographiesencourages bi-directional lessons between these re-
+search ﬁelds as a platform to consider how a broader
+range of bodies, places, privileges and identities arebeing (re)made through Big Veganism, and to ex-amine the consequences of these dynamics for thepower geometries of food and the possibilities for ajust and sustainable plant-based food system.
+The consequent second aim for vegan food ge-
+ographies research is to understand Big Veganism asone possible version of mainstreamed veganism. By
+this we mean to challenge the perceived inevitabilityof any AFN, including veganism, needing to adoptthe scales of operation and political economies of BigFood and Agriculture as the only means of ‘going ’
+mainstream. Here we look to speci ﬁc work on al-
+ternative food economies and responsible innovation
+(Rose and Chilvers, 2018 ;Stilgoe, 2019 ) that has
+explored different production systems and scales formaximising accessibility without compromising onoriginal principles and outcomes. For example, theidea of scaling up food production by number (i.e. alarge collective of smaller producers) rather than size(a small number of large producers) is one methodthat has been proposed ( Smaje, 2020 ). Growing
+movements of intersectional community veganisms
+and‘veganic ’(vegan organic) agriculture advance a
+vision for veganism that is attentive to its spaces andnetworks of production, land and social reform, andthe possibilities of alternative economic models(Harper, 2016 ;White, 2018 ; Vegan Organic Net-
+work
+3).Broad (2019) andDutkiewicz (2019) also
+offer alternative visions for how to support inno-
+vation in high-tech vegan food products while em-
+bedding principles of food justice and publicownership to mitigate corporate capture and mo-nopolisation. Future work on vegan food geogra-phies is well placed to further explore the potentialand limitations of these approaches in the context ofveganism and its mainstreaming.
+Of course, a core commitment of work in food
+geography as we have shown has been to make
+visible the contradictions and harms that can still beperpetuated by even the most care-full ‘alternative ’
+food networks, many of which become heightenedduring encounters with the mainstream ( Goodman
+et al., 2012 ;Reese, 2019 ). This body of work en-
+courages a critical view of all AFNs as they come tobe shaped by the dominant structures and logics of
+the mainstream. It highlights the distinct ‘politics of
+the possible ’(Guthman, 2008 ) that shape the extent
+to which any AFN, including veganism, can achieveits radical potential as it encounters and becomesshaped by the mainstream –a politics that we
+highlight here as a necessarily central concern forvegan food geographies research. Yet channellingGibson-Graham, we should temper a view of the618 Progress in Human Geography 46(2)
+mainstream as homogenous, everywhere and ines-
+capable by ‘reading for difference rather than
+dominance ’(2006 , xxxi). A vegan food geographies
+approach should remain cautiously open to the po-litical possibilities that Big Veganism is creating.Analysis starts from where we are, treating the ex-isting situation ‘as a (problematic) resource for
+projects of becoming; a place from which to build
+something more desirable in the future ’(Gibson-
+Graham, 2006 , xxxii). Taken together, an attention
+to both the politics of the possible and a reading fordifference informs a vegan food geographies ap-proach that considers the surprising and hopefulpolitical openings generated by the trajectories of BigVeganism, while remaining critical of what is
+overlooked and what might be achieved from other
+versions of vegan mainstreaming.
+Finally, a productive avenue for future work in
+vegan food geographies would be to further unpack the‘big’in Big Veganism. As highlighted in our Intro-
+duction, there has been considerable hype in culturaland business commentaries concerning the rise ofveganism in mainstream spaces of production and
+consumption. While the rate of growth in much of these
+trends has been rapid, the overall picture of veganism ineveryday practices remains relatively small in com-parison with the continued dominance of global animalfood systems. Empirical inves tigation and interrogation
+of the ‘big’in Big Veganism would help to better
+understand the geographies, temporalities and pro-cesses by which recent vegan mainstreaming is oc-
+curring, which in turn has important implications for
+assessing the present and fu ture impacts of transitions
+away from animal-based food systems.
+Declaration of con ﬂicting interests
+The author(s) declared no potential con ﬂicts of interest
+with respect to the research, authorship, and/or publicationof this article.
+Funding
+The author(s) disclosed receipt of the following ﬁnancial
+support for the research, authorship, and/or publication ofthis article: This research was funded by Wellcome Trust ’s
+‘Our Planet Our Health ’Programme, and conducted
+through the University of Oxford ’s Livestock,Environment and People (LEAP) project. Award number:
+205212/Z/16/Z. Sexton was supported by a LeverhulmeTrust Early Career Research Fellowship (ECF-2020-105)during the ﬁnal review stages of the paper.
+Acknowledgements
+We would like to thank the anonymous reviewers for their
+constructive comments and engagement with this paper.
+The work bene ﬁted greatly from discussions with fellow
+participants at the ‘New Veg*nism ’workshop that was held
+at the University of Oxford in 2019 and supported by theWellcome Trust-funded ‘Livestock, Environment and
+People ’(LEAP) project. Many thanks also go to Mike
+Goodman, Nathan Clay and George Cusworth for readingearlier drafts. We ﬁnally wish to give a special note of
+gratitude to Clive Barnett for his invaluable guidance,
+generosity and editorial expertise throughout the reviewprocess. It was such a pleasure to have worked with himeven in this small capacity. He will be very much missed.
+Notes
+1. For example in 2018, the CEO of global meat company
+Tyson Foods announced plans to shift the company ’s
+operations from meat production and processing tobecome a broader ‘producer of proteins ’(Little, 2018 ).
+The company has since described itself as ‘The Protein
+Company
+TM’in several channels of its corporate
+branding (cf. White, 2020 ).
+2. Speci ﬁc thanks to one of our reviewers for helping to
+develop this set of questions as a critical part of future
+research on vegan food geographies.
+3. See www.veganorganic.net
+References
+Adams CJ (1990) The Sexual Politics of Meat: A Vege-
+tarian Critical Theory . New York, NY: Continuum.
+Arenas I (2014) Assembling the multitude: Material ge-
+ographies of social movements from Oaxaca to Oc-cupy. Environment and Planning D: Society and
+Space 32(3): 433 –449.
+Ash J, Kitchin R and Leszczynski A (2018) Digital turn,
+digital geographies? Progress in Human Geography
+42(1): 25 –43.
+Asher K and Cherry E (2015) Home is where the food is:
+Barriers to vegetarianism and veganism in theSexton et al. 619
+domestic sphere. Journal for Critical Animal Studies
+13(1): 66 –91.
+Atchison J, Head L and Gates A (2010) Wheat as food,
+wheat as industrial substance: Comparative geogra-
+phies of transformation and mobility. Geoforum
+41(2): 236 –246.
+Barnes C (2017) Mediating good food and moments of
+possibility with Jamie Oliver: Problematising celeb-rity chefs as talking labels. Geoforum 84: 169 –178.
+Beacham J (2018) Organising food differently: Towards a
+more-than-human ethics of care for the Anthro-
+pocene. Organization 25(4): 533 –549.
+Belasco W (2006) Meals to Come: A History of the Future
+of Food . Berkeley, CA: University of California Press.
+Broad GM (2019) Plant-based and cell-based animal
+product alternatives: An assessment and agenda for
+food tech justice. Geoforum 107: 223 –226.
+Brown J (2019) Online abuse and farm protests: the vegans
+impacting on farmers ’mental health. Sustainable
+Food Trust. Available at: https://sustainablefoodtrust.
+org/articles/online-abuse-and-farm-protests-the-vegans-impacting-on-farme rs-mental-health/ (accessed 25 Jan-
+uary 2021).
+Brueck JF and McNeill ZZ (2020) Queer and Trans Voices:
+Achieving Liberation through Consistent Anti-op-
+pression . London: Sanctuary Publishers.
+BUPA (2018) New research reveals turning 30, 40 or 50
+pushes millions of Britons into a lifestyle overhaul.Bupa. Available at: https://www.bupa.com/newsroom/
+news/zero-effect (accessed 25 January 2021).
+Burton R (2019) The potential impact of synthetic animal
+protein on livestock production: The new “war against
+agriculture ”.Journal of Rural Studies 68: 33 –45.
+Calnan M (2019) Waitrose Launches Vegan Barbeque Lines .
+The Grocer. Available at: https://www.thegrocer.co.uk/
+own-label/-waitrose-launches-vegan-barbecue-lines/
+593029.article (accessed 22 January 2021).
+Carolan MS (2011) Embodied Food Politics . Farnham:
+Ashgate Publishing Ltd.
+Cherry E (2006) Veganism as a cultural movement: A
+relational approach. Social Movement Studies 5(2):
+155–170.
+Chiorando M (2020) KFC Wins Major Award for its Vegan
+Burger amid Plant-Based Boom. Plantbased News.
+Available at: https://plantbasednews.org/lifestyle/food/
+vegan-kfc-wins-award/ (accessed 22 January 2021).Chowdury H (2019) Meat ’Made from Thin Air? Finland
+Develops Protein Powder for Human Food Made from
+Captured CO
+2. The Telegraph. Available at: https://
+www.telegraph.co.uk/technology/2019/07/08/meat-
+made-thin-air- ﬁnland-develops-protein-powder-human-
+food/ (accessed 25 January 2021).
+Christopher A, Bartkowski JP and Haverda T (2018) Por-
+traits of veganism: A comparative discourse analysis of
+a second-order subculture. Societies 8(3): 55.
+Clay N, Sexton AE, Garnett T, et al (2020) Palatable
+disruption: The politics of plant milk. Agriculture and
+Human Values 37: 1 –18.
+Cole M and Morgan K (2011) Vegaphobia: Discourses of
+veganism and the reproduction of speciesism in UK
+national newspapers. The British Journal of Sociology
+62(1): 134 –153.
+Coles B (2016). Ingesting places: Embodied geographies
+of coffee. In: Abbots EJ and Lavis A (eds). London:
+Routledge, pp. 255 –271. Why we eat, how we eat:
+Contemporary encounters between food and bodies
+Cook I (2004) Follow the thing: Papaya. Antipode 36(4):
+642–664.
+Cook I and Crang P (1996) The world on a plate: Culinary
+culture, displacement and geographical knowledges.
+Journal of Material Culture 1(2): 131 –153.
+Cook I and Harrison M (2007) Follow the Thing: “West
+Indian Hot Pepper Sauce ”.Space and Culture 10(1):
+40–63.
+Cook I, et al. (2006) Geographies of food: following.
+Progress in Human Geography 30(5): 655 –666.
+Cook S (2019) Business Ideas for 2019: Plant-Based
+Foods .Startups.co.uk . Available at: https://startups.
+co.uk/business-ideas/plant-based-foods/ (accessed 22
+January 2021).
+Cowspiracy (2014). dir USA: Kip Andersen and Keegan
+Kuhn, Appian Way Productions. [Film].
+Davis C (2019) Big Meat heats up the plant-based protein
+market. Medium , 29 June 2019. Available at: https://
+chanapdavis.medium.com/big-meat-heats-up-the-plant-
+based-protein-market-541553e263c4 . (accessed 25 Jan-
+uary 2021)
+Dominick B (2015) Anarcho-veganism revisited. In:
+NocellaII AJ, White RJ and Cudworth E (eds).
+Jefferson, NC: McFarland, pp. 23 –39.Anarchism
+and Animal Liberation: Essays on complementaryelements of total liberation620 Progress in Human Geography 46(2)
+Douglas M (1966) Purity and Danger: An Analysis of
+Concepts of Pollution and Taboo . London: Routledge
+& Kegan Paul.
+Doyle J (2016) Celebrity vegans and the lifestyling of
+ethical consumption. Environmental Communication
+10(6): 777 –790.
+DuPuis EM and Goodman D (2005) Should we go “home ”
+to eat?: Toward a re ﬂexive politics of localism.
+Journal of Rural Studies 21(3): 359 –371.
+Dutkiewicz J (2019). Socialize lab meat. Jacobin. Available
+at:https://jacobinmag.com/2019/08/lab-meat-socialism-
+green-new-deal (accessed 8 June 2021).
+Dutkiewicz J and Dickstein J (2021) The Ism in Veganism:
+The Case for a Minimal Practice-based De ﬁnition.
+Food Ethics 6(1): 1 –19.
+Evans AB and Miele M (2012) Between food and ﬂesh:
+How animals are made to matter (and not matter)within food consumption practices. Environment and
+Planning D: Society and Space 30(2): 298 –314.
+Faria C and Paez E (2019) It ’s Splitsville: Why Animal
+Ethics and Environmental Ethics Are Incompatible.
+American Behavioral Scientist 63(8): 1047 –1060.
+Food Ethics Council (2017) For Whom? Questioning the
+Food and Farming Research Agenda . London: Food
+Ethics Council.
+Forchtner B and Tominc A (2017) Kalashnikov and
+cooking-spoon: Neo-Nazism, veganism and a life-
+style cooking show on YouTube. Food, Culture &
+Society 20(3): 415 –441.
+Forks over knives (2011) dir USA: Lee Fulkerson . Film:
+Monica Beach Media.
+Fox K (2017) Here ’s Why You Should Turn Your Business
+Vegan in 2018. Forbes. Available at: https://www.
+forbes.com/sites/katrinafox/2017/12/27/heres-why-
+you-should-turn-your-business-vegan-in-2018/ (ac-
+cessed 22 January 2021).
+Francione GL (2012) Animal welfare, happy meat, and
+veganism as the moral baseline. In: Kaplan DM(ed). Berkeley: University of California Press, pp.
+169–189. The philosophy of food
+Francione GL (2016) The meaning of “The world is
+VEGAN! If you want it ”. The Abolitionist Approach.
+Available at: https://www.abolitionistapproach.com/
+14044-2/ (accessed 25 January 2021).
+Friedrich C (2020) I’ve Not Eaten KFC since the 80s. Its
+Plant-Based Chicken Nuggets Will Change that . The
+Guardian. Available at: https://www.theguardian.com/commentisfree/2020/sep/22/ive-not-eaten-kfc-
+since-the-80s-its-plant-based-chicken-nuggets-will-
+change-that . (accessed 22 January 2021).
+Fuentes C and Fuentes M (2017) Making a market for
+alternatives: marketing devices and the quali ﬁcation
+of a vegan milk substitute. Journal of Marketing
+Management 33(7–8): 529 –555.
+Gaard G (2017) Critical Ecofeminism . Lanham, MD:
+Lexington Books.
+Gibson-Graham JK (2006) A Postcapitalist Politics .
+Minneapolis, MN: University of Minnesota Press.
+Garforth C, Rehman T, McKemey K, Yates C, Rana RB,
+Green K, Wilkinson M, Beechener S, Hollis K andMcIntosh L (2006) Research to understand and modelthe behaviour and motivations of farmers in re-
+sponding to policy changes (England)). Final report
+of project EPES0405-17 commissioned by DEFRA.School of Agriculture, Policy and Development,University of Reading, Reading .
+Garth H and Reese AM (2020) Black food matters: Racial
+justice in the wake of food justice . Minneapolis, MN:
+University of Minnesota Press.
+Gibson KE and Dempsey SE (2013) Make good choices,
+kid: Biopolitics of children ’s bodies and school lunch
+reform in Jamie Oliver ’sFood Revolution .Children ’s
+Geographies 13(1): 44 –58.
+Gillespie K (2018) The Loneliness and Madness of Wit-
+nessing: Re ﬂections from a Vegan Feminist Killjoy.
+In: Probyn-Rapsey F and Gruen L (eds). New York,NY: Bloomsbury, pp. 76 –85.Animaladies: Gender,
+Animals, and Madness
+Giraud E (2021) Veganism: Politics, Practice and Theory .
+London: Bloomsbury.
+Godfray HCJ, Aveyard P, Garnett T, et al (2018) Meat
+consumption, health, and the environment. Science
+361: eaam5324.
+Goldstein J (2018) Planetary Improvement: Cleantech
+Entrepreneurship and the Contradictions of Green
+Capitalism . Cambridge, MA: MIT Press.
+Good Food Institute (2019) State of the Industry Report:
+Plant-Based Meat, Eggs, and Dairy . Washington DC:
+Good Food Institute.
+Goodman D (2004) Rural Europe redux? Re ﬂections on
+alternative agro-food networks and paradigm change.Sociologia Ruralis 44(1): 3 –16.Sexton et al. 621
+Goodman D, DuPuis EM and Goodman MK (2012) Al-
+ternative Food Networks: Knowledge, Practice andPolitics . London: Routledge.
+Goodman MK (2004) Reading fair trade: Political eco-
+logical imaginary and the moral economy of fair tradefoods. Political Geography 23(7): 891 –915.
+Goodman MK (2016) Food geographies I: Relational
+foodscapes and the busy-ness of being more-than-food. Progress in Human Geography 40(2): 257 –266.
+Goodman MK and Jaworska S (2020) Mapping digital
+foodscapes: Digital food in ﬂuencers and the gram-
+mars of good food. Geoforum 117: 183 –193.
+Goodman MK and Sage C (2014) Food transgressions:
+Ethics, governance and geographies. In: GoodmanMK and Sage C (eds). London: Routledge, pp. 1 –15.
+Food Transgressions: Making Sense of ContemporaryFood Politics
+Green K and Foster C (2005) Give peas a chance:
+Transformations in food consumption and production
+systems. Technological Forecasting & Social Change
+72: 663 –679.
+Greenebaum J (2012) Veganism, identity and the quest for
+authenticity. Food, Culture & Society 15(1): 129 –144.
+Greenebaum J and Dexter B (2018) Vegan men and
+hybrid masculinity. Journal of Gender Studies 27(6):
+637–648.
+Guthman J (2003) Fast food/organic food: Re ﬂexive tastes
+and the making of ’yuppie chow. Social & Cultural
+Geography 4(1): 45 –58.
+Guthman J (2008) Neoliberalism and the making of food
+politics in California. Geoforum 39(3): 1171 –1183.
+Guthman J and Biltekoff C (2020) Magical Disruption?
+Alternative Protein and the Promise of De-materiali-
+zation. Environment And Planning E: Nature and Space.
+Hahn LK and Bruner MS (2012) Politics on your plate:
+Building and burning bridges across organic, vege-tarian, and vegan discourse. In: Frye J and Bruner M(eds). London: Routledge, pp. 55 –70.The rhetoric of
+food: Discourse, materiality and power
+Hamilton AR (2020) The white unseen: On white su-
+premacy and dangerous entanglements in geography.
+Dialogues in Human Geography 10(3): 299 –303.
+Hamilton C (2016) Sex, work, meat: The feminist politics
+of veganism. Feminist Review 114(1): 112 –129.
+Hannan J (2020) Meatsplaining: The Animal Agriculture
+Industry and the Rhetoric of Denial . Sydney: Sydney
+University Press.Harper AB (2010) Sistah Vegan: Black Female Vegans
+Speak on Food, Identity, Health, and Society . New
+York, NY: Lantern Books.
+Harper AB (2011) Vegans of color, racialized embodiment,
+and problematics of the “exotic ”. In: Alkon AH and
+Agyeman J (eds). Cambridge, MA: MIT Press, pp.
+221–238. Cultivating food justice: Race, class, and
+sustainability
+Harper AB (2012) Going beyond the normative white
+“post-racial ”vegan epistemology. In: Forson PW and
+Counihan C (eds). New York, NY: Routledge, pp.
+155–174. Taking food public: Rede ﬁning foodways in
+a changing world
+Harper A. B. (2016) Doing veganism differently: Ra-
+cialized trauma and the personal journey towards
+vegan healing. In: Hayes-Conroy A and Hayes-
+Conroy J (eds). Abingdon: Routledge, pp. 133 –148.
+Doing Nutrition Differently: Critical Approaches to
+Diet and Dietary Intervention
+Harris E (2009) Neoliberal subjectivities or a politics of the
+possible? Reading for difference in alternative food
+networks. Area 41(1): 55 –63.
+Hayes-Conroy A and Hayes-Conroy J (2008) Taking back
+taste: Feminism, food and visceral politics. Gender,
+Place and Culture 15(5Hayes-Conroy A and Martin
+DG (2010) Mobilising bodies: visceral identi ﬁcation in
+the Slow Food movement. Transactions of the Institute
+of British Geographers 35(2): 461269 –473281.
+Head L and Atchison J (2016) Ingrained: A Human Bio-
+Geography of Wheat . London: Routledge.
+Henderson S (2018) Chris Hemsworth ’s new vegan diet is
+saving the world. Men ’s Health . Available at: https://
+www.menshealth.com.au/chris-hemsworth-vegan-diet
+(accessed 25 January 2021).
+Heyes CJ (2006) Foucault goes to weight watchers. Hy-
+patia 21(2): 126 –149.
+Hodge P, McGregor A, Narayan Y, et al (2021) Vegan
+Geographies: Spaces beyond Violence, Ethics beyond
+Speciesism .
+Holloway L, Kneafsey M, Venn L, et al (2007) Possible
+food economies: a methodological framework for
+exploring food production –consumption relation-
+ships. Sociologia Ruralis 47(1): 1 –19.
+Holmes SM (2013) Fresh Fruit, Broken Bodies: Migrant
+Farmworkers in the United States . Berkeley, CA:
+University of California Press.622 Progress in Human Geography 46(2)
+Hooker L (2018) Tesco Aims to Make Dough Out of
+Fashion for Veganism, BBC, 10 January 2018.Available at: https://www.bbc.co.uk/news/business-
+42619887 (accessed 25 January 2021).
+House J (2018) Insects as food in the Netherlands: Pro-
+duction networks and the geographies of edibility.Geoforum 94: 82 –93.
+Hulme A (2017) Following the (unfollowable) thing:
+methodological considerations in the era of highglobalisation. cultural Geographies 24(1): 157 –160.
+Iacobbo K and Iacobbo M (2004) Vegetarian America: A
+History . Westport, CT: Greenwood Publishing Group.
+Jackson P (2015) Anxious appetites: Food and consumer
+culture, Vol. 2 . London: Bloomsbury Publishing.
+Jackson P, Evans D, Truninger M, et al (2020) Tasting as a
+social practice: A methodological experiment in makingtaste public. Social & Cultural Geography 25: 1 –18.
+Jha DN (2004) The Myth of the Holy Cow . New York, NY:
+Verso Books.
+Johnson H (2019) From ’meat culture ’to’cultured meat ’:
+Critically evaluating the contested ontologies andtransformative potential of biofabricated animal ma-terial on culture and law. M/C Journal 22(2): 1 –5.
+Johnston J (2008) The citizen-consumer hybrid: Ideolog-
+ical tensions and the case of Whole Foods Market.Theory and Society 37(3): 229 –270.
+Johnston J and Goodman MK (2015) Spectacular food-
+scapes: Food celebrities and the politics of lifestylemediation in an age of inequality. Food, Culture &
+Society 18(2): 205 –222.
+Johnston J, Szabo M and Rodney A (2011) Good food,
+good people: Understanding the cultural repertoire ofethical eating. Journal of Consumer Culture 11(3):
+293–318.
+Jones N (2019) Dying to Eat? Black Food Geographies of
+Slow Violence and Resilience. ACME: An International
+Journal for Critical Geographies 18(5): 1076 –1099.
+J¨onsson E (2016) Benevolent technotopias and hitherto
+unimaginable meats: Tracing the promises of in vitromeat. Social Studies of Science 46(5): 725 –748.
+J¨onsson E, Linn ´e T and McCrow-Young A (2019) Many
+meats and many milks? The ontological politics of aproposed post-animal revolution. Science As Culture
+28(1): 70 –97.
+J¨onsson E (2020) On breweries and bioreactors: Probing the
+“present futures ”of cellular agriculture. Transactions
+of the Institute of British Geographers
+45(4): 921 –936.Joy M (2011) Why We Love Dogs, Eat Pigs, and Wear
+Cows: An Introduction to Carnism . Newburyport,
+MA: Red Wheel/Weiser.
+Kimura AH (2013) Hidden Hunger: Gender and the
+Politics of Smarter Foods . Ithaca, NY: Cornell Uni-
+versity Press.
+Kleine D (2008) Negotiating partnerships, understanding
+power: doing action research on Chilean Fairtrade winevalue chains. Geographical Journal 174(2): 109 –123.
+Kneafsey M, Maye D, Holloway L, et al (2021) Geogra-
+phies of Food: An Introduction . London: Bloomsbury.
+Krzywoszynska A (2020) Nonhuman labor and the making
+of resources: Making soils a resource through mi-crobial labor. Environmental Humanities 12(1):
+227–249.
+Krzywoszynska A and Marchesi G (2020) Towards a re-
+lational materiality of soils. Introduction to the specialissue “Conceiving soils and humans in the Anthro-
+pocene ”.Environmental Humanities 12(1): 190 –204.
+Lang T and Heasman M (2015) Food Wars: The Global
+Battle for Mouths, Minds and Markets . London:
+Routledge.
+Law J and Mol A (2008) Globalisation in practice: On the
+politics of boiling pigswill. Geoforum 39(1): 133 –143.
+Leneman L (1999) No animal food: the road to veganism in
+Britain, 1909-1944. Society & Animals 7(3): 219 –228.
+Little A (2018) Tyson Isn ’t Chicken. Bloomberg Busi-
+nessweek. Available at: https://www.bloomberg.com/
+news/features/2018-08-15/tyson-s-quest-to-be-your-
+one-stop-protein-shop . (accessed 21 June 2021)
+Lockie S and Kitto S (2000) Beyond the farm gate: pro-
+duction-consumption networks and agri-food re-search. Sociologia Ruralis 40(1): 3 –19.
+Lockie S (2013) Bastions of white privilege? Re ﬂections
+on the racialization of alternative food networks. The
+International Journal of Sociology of Agriculture andFood 20(3): 409 –418.
+Lockwood A (2018) Bodily Encounter, Bearing Witness
+and the Engaged Activism of the Global SaveMovement. Animal Studies Journal 7(1): 104 –126.
+Longhurst R, Ho E and Johnston L (2008) Using ‘the body ’
+as an ‘instrument of research ’: Kimch ’i and pavlova.
+Area 40(2): 208 –
+217.
+Lonkila A and Kaljonen M (2021) Promises of Meat and
+Milk Alternatives: An Integrative Literature Reviewon Emergent Research themes. Agriculture and Hu-
+man Values 38: 625 –639.Sexton et al. 623
+Loyer J and Knight C (2018) Selling the “Inca superfood ”:
+Nutritional primitivism in superfoods books and macamarketing. Food, Culture & Society 21(4): 449 –467.
+Mammoser G (2016) Why the meat factories of the future
+will look like breweries. Vice. Available at: https://www.
+vice.com/en/article/nzk43b/why-the-meat-factories-of-the-future-will-look-like-breweries (accessed 25 Janu-
+ary 2021).
+Mans ﬁeld B (2003) Spatializing globalization: A “geog-
+raphy of quality ”in the seafood industry. Economic
+Geography 79(1): 1 –16.
+Mans ﬁeld B (2012) Environmental health as biosecurity:
+“Seafood choices, ”risk, and the pregnant woman as
+threshold. Annals of the Association of American
+Geographers 102(5): 969 –976.
+Martin E (2019) Veganism, Race, and Soul Food: Eval-
+uating Reproductions of Race in Vegan Spaces .
+Wellesley College, US: Thesis.
+Maurer D (2002) Vegetarianism: Movement or Moment?
+Philadelphia, PA: Temple University Press.
+Maye D, Kneafsey M and Holloway L (2007) Introducing
+alternative food geographi es. In: Maye D, Holloway L
+and Kneafsey M (eds). Oxford: Elsevier, pp. 1 –20.Al-
+ternative food geographies: representation and practice
+McCarthy J and Dekoster S (2020) Nearly one in four in
+U.S. have cut back on eating meat. Gallup. Available at:https://news.gallup.com/poll/282779/nearly-one-four-cut-back-eating-meat.aspx (accessed 25 January 2021).
+Michail N (2018) Unilever Accelerates its ‘plant-Based
+Journey ’with Vegetarian Butcher Buyout. FoodNa-
+vigator.Com. Available at: https://www.foodnavigator.
+com/Article/2018/12/20/Unilever-accelerates-its-plant-
+based-journey-with-Vegetarian-Butcher-buyout (ac-
+cessed 22 January 2021).
+Milburn J (2016) Animal rights and food: Beyond Regan,
+beyond vegan. In: Rawlinson M and Ward C (eds).London: Routledge, pp. 284 –294. The Routledge
+Handbook of Food Ethics
+Minkoff-Zern LA (2014) Knowing “good food ”: Immi-
+grant knowledge and the racial politics of farmworker
+food insecurity. Antipode 46(5): 1190 –1204.
+Mintz SW (1986) Sweetness and Power: The Place of
+Sugar in Modern History . New York, NY: Penguin
+Books.
+Monaghan A (2019) Greggs ’Vegan Sausage Rolls Fuel
+Proﬁt Boom . The Guardian. Available at: https://www.
+theguardian.com/business/2019/may/14/greggs-vegan-sausage-rolls-fuel-pro ﬁt-boom (accessed 22 January
+2021).
+Morris C and Kirwan J (2006) Vegetarians: uninvited,
+uncomfortable or special guests at the table of thealternative food economy? Sociologia Ruralis 46(3):
+192–213.
+Morris C, Mylan J and Beech E (2018) Substitution and
+food system de-animalisation: the case of non-dairy
+milk. International Journal of Sociology of Agricul-
+ture and Food 25(1): 490 –506.
+Morris C, Kaljonen M, Aavik K, et al (2021) Priorities for
+social science and humanities research on the chal-lenges of moving beyond animal-based food systems.Humanities and Social Sciences Communications
+8(1): 1 –12.
+Mouat MJ and Prince R (2018) Cultured meat and cowless
+milk: On making markets for animal-free food.Journal of Cultural Economy 11(4): 315 –329.
+Mouat MJ, Prince R and Roche MM (2019) Making value
+out of ethics: the emerging economic geography oflab-grown meat and other animal-free food products.
+Economic Geography 95(2): 136 –158.
+Mylan J, Morris C, Beech E, et al (2019) Rage against the
+regime: niche-regime interactions in the societalembedding of plant-based milk. Environmental In-
+novation and Societal Transitions 31: 233 –247.
+Nicholls WJ (2007) The geographies of social movements.
+Geography Compass 1(3): 607 –622.
+Nguyen S (2017) The Rise of Vegan Culture . Harvard
+Magazine. Available at: https://harvardmagazine.com/
+2017/07/the-rise-of-vegan-culture (accessed 22 Jan-
+uary 2021).
+Oliver C (2020) Beyond-human research: Negotiating
+silence, anger & failure in multispecies worlds.
+Emotion, Space and Society 35: 100686.
+Palumbo L and Sciurba A (2015) Vulnerability to forced
+labour and traf ﬁcking: The case of Romanian women
+in the agricultural sector in Sicily. Anti-Traf ﬁcking
+Review 5: 89 –108.
+Parker J (2018) The Year of the Vegan. The World in 2019 .
+The Economist.
+PBFA (2018) Retail Sales Data 2018. Plant Based Foods
+Association . Available at: https://www.plantbased
+foods.org/marketplace/retail-sales-data-2018/ (accessed
+17 August 2021).
+Pendergrast N (2016) Environmental concerns and the
+mainstreaming of veganism. In: Raphaely T and624 Progress in Human Geography 46(2)
+Marinova D (eds). Hershey, PA: IGI Global, pp.
+106–122. Impact of Meat Consumption on Health and
+Environmental Sustainability
+Phillipov M and Goodman MK (2017) The celebri ﬁcation
+of farmers: celebrity and the new politics of farming.
+Celebrity Studies 8(2): 346 –350.
+Pickerill J and Chatterton P (2006) Notes towards au-
+tonomous geographies: creation, resistance and self-management as survival tactics. Progress in human
+geography 30(6): 730 –746.
+Piper K (2019a) The unlikely partnership that might decide
+the future of meat. Vox. Available at: https://www.
+vox.com/future-perfect/2019/3/22/18273892/tyson-
+vegan-vegetarian-lab-meat-climate-change-animals
+(accessed 25 January 2021).
+Piper K (2019b) Meatless meat is becoming mainstream —
+and it ’s sparking backlash. Vox. Available at: https://
+www.vox.com/future-perfect/2019/10/7/20880318/
+meatless-meat-mainstream-backlash-impossible-burger
+(accessed 25 January 2021).
+Polish J (2016) Decolonizing veganism: On resisting vegan
+whiteness and racism. In: Castricano J and Simonsen R
+(eds). Cham: Palgrave Macmillan, pp. 373 –391.
+Critical Perspectives on Veganism. The Palgrave
+Macmillan Animal Ethics Series
+Poore J and Nemecek T (2018) Reducing food ’s envi-
+ronmental impacts through producers and consumers.Science 360(6392): 987 –992.
+Priestley A, Lingo SK and Royal P (2016) “The worst
+offense here is the misrepresentation ”:Thug Kitchen
+and contemporary vegan discourse. In: Castricano J
+and Simonsen R (eds). Cham: Palgrave Macmillan,
+pp. 349 –371. Critical Perspectives on Veganism. The
+Palgrave Macmillan Animal Ethics Series
+Puig de la Bellacasa M (2015) Making time for soil:
+Technoscienti ﬁc futurity and the pace of care. Social
+Studies of Science 45(5): 691 –716.
+Ram´ırez MM (2015) The elusive inclusive: Black food
+geographies and racialized food spaces. Antipode
+47(3): 748 –769.
+Randall TE (2018) Heganism. Between the Species 22(1):
+214–235.
+Rebanks J (2020) English Pastoral: An Inheritance .
+London: Penguin Books.
+Reed M (2001) Fight the future! How the contemporary
+campaigns of the UK organic movement have arisenfrom their composting of the past. Sociologia Ruralis
+41(1): 131 –145.
+Reed S (2020) “
+Part-time ”Vegans Are on the Rise –And
+“Real”Vegans Are Mad about it. InStyle . 3 March 2020.
+Available at: https://www.instyle .com/beauty/health-
+ﬁtness/vegans-mad-p art-time-vegans (accessed 22 Jan-
+uary 2021).
+Reese AM (2019) Black Food Geographies: Race, Self-
+Reliance, and Food Access . Washington, DC: Chapel
+HillUNC Press Books.
+Regan T (1983) The Case for Animal Rights . Berkeley, CA:
+The University of California Press.
+Roe EJ (2006a) Things becoming food and the embodied,
+material practices of an organic food consumer. So-
+ciologia Ruralis 46(2): 104 –121.
+Roe EJ (2006b) Material connectivity, the immaterial and
+the aesthetic of eating practices: an argument for howgenetically modi ﬁed foodstuff becomes inedible.
+Environment and Planning A 38(3): 465 –481.
+Roe EJ (2018) Sun ’s Out, Buns Out: Exploring the alfresco
+ritual of meat, ﬁre, man ’s work, and sustainability.
+Global Food Security. Available at: https://www.
+foodsecurity.ac.uk/blog/suns-out-buns-out-exploring-the-alfresco-ritual-of-meat- ﬁre-mans-work-and-
+sustainability/ (accessed 25 January 2021).
+Rose DC and Chilvers J (2018) Agriculture 4.0: Broad-
+ening responsible innovation in an era of smart
+farming. Frontiers in Sustainable Food Systems
+2(87): 1 –7.
+Schneider T, Eli K, Dolan C, et al (eds) (2017). London:
+Routledge. Digital food activism
+Serrano A and Brooks A (2019) Who is left behind in
+global food systems? Local farmers failed by Co-lombia ’s avocado boom. Environment and Planning
+E: Nature and Space 2(2): 348 –367.
+Sexton A (2016) Alternative proteins and the (non) stuff of
+“meat ”.Gastronomica: The Journal of Critical Food
+Studies 16(3): 66 –78.
+Sexton AE (2018) Eating for the post-Anthropocene:
+Alternative proteins and the biopolitics of edibility.
+Transactions of the Institute of British Geographers
+43(4): 586 –600.
+Sexton AE (2020) Food as Software: Place, Protein, and
+Feeding the World Silicon Valley-style . Economic
+Geography.
+Sexton AE, Garnett T and Lorimer J (2019) Framing the
+future of food: The contested promises of alternativeSexton et al. 625
+proteins. Environment and Planning E: Nature and
+Space 2(1): 47 –72.
+Sharman J (2019) Sheep Farmer Felt So Guilty on Way to
+Slaughterhouse He Drove Lambs to Sanctuary andBecame Vegetarian. Independent. Available at:
+https://www.independent.co.uk/news/uk/home-news/
+sheep-farmer-vegetarian-lambs-sanctuary-slaughter-
+meat-industry-dairy-devon-a8754056.html (accessed
+25 January 2021).
+Shiva V (1993) Monocultures of the Mind: Perspectives on
+Biodiversity and Biotechnology . London: Zed Books.
+Shoup ME (2019) Euromonitor: What ’s the driving force
+behind plant-based eating? Foodnavigator.com .A v a i l -
+able at: https://www.foodnavigator-usa.com/Article/
+2019/05/17/Euromonitor-What-s-the-driving-force-
+behind-plant-based-eating (accessed 22 January 2021).
+Si Z, Schumilas T and Scott S (2015) Characterizing al-
+ternative food networks in China. Agriculture and
+Human Values 32(2): 299 –313.
+Singer R (2017) Neoliberal backgrounding, the Meatless
+Monday Campaign, and the rhetorical intersections of
+food, nature, and cultural identity. Communication,
+Culture and Critique 10(2): 344 –364.
+Slocum R (2011) Race in the study of food. Progress in
+Human Geography 35(3): 303 –327.
+Slocum R and Cadieux KV (2015) Notes on the practice of
+food justice in the US: understanding and confronting
+trauma and inequity. Journal of Political Ecology
+22(27): 27 –52.
+Slocum R and Saldanha A (eds) (2016). London: Rout-
+ledge. Geographies of race and food: Fields, bodies,
+markets
+Smaje C (2020) A small farm future: Making the case for a
+society built around local economies, self-provi-
+sioning, agricultural diversity and a shared earth .
+London: Chelsea Green Publishing.
+Smart A (2004) Adrift in the mainstream: Challenges
+facing the UK vegetarian movement. British Food
+Journal 106(2): 79 –92.
+Smithers R (2019) Veganuary Ends on Record High with
+250,000 Participants. The Guardian. Available at:
+https://www.theguardian.com/lifeandstyle/2019/jan/
+31/veganuary-record-high-participants-plant-based(accessed 22 January 2021).
+Sneijder P and Te Molder HF (2004) ‘Health should not
+have to be a problem ’: Talking health andaccountability in an internet forum on veganism.
+Journal of Health Psychology 9(4): 599 –616.
+Sonnino R and Marsden T (2006) Beyond the divide:
+rethinking relationships between alternative andconventional food networks in Europe. Journal of
+Economic Geography 6(2): 181 –199.
+Spencer C (1996) The Heretic ’s Feast: A History of Veg-
+etarianism . Lebanon, NH: UPNE.
+Staples J (2020) Sacred Cows and Chicken Manchurian:
+The Everyday Politics of Eating Meat in India . Se-
+attle, WA: University of Washington Press.
+Stephens N (2013) Growing meat in laboratories: The
+promise, ontology, and ethical boundary-work of
+using muscle cells to make food. Conﬁgurations
+21(2): 159 –181.
+Stephens N and Ruivenkamp M (2016) Promise and on-
+tological ambiguity in the in vitro meat imagescape:
+From laboratory myotubes to the cultured burger.
+Science As Culture 25(3): 327 –355.
+Stephens N, Di Silvio L, Dunsford I, et al (2018) Bringing
+cultured meat to market: Technical, socio-political,
+and regulatory challenges in cellular agriculture.
+Trends in Food Science and Technology 78: 155 –166.
+Stephens N, Sexton AE and Driessen C (2019) Making
+sense of making meat: Key moments in the ﬁrst 20
+years of tissue engineering muscle to make food.
+Frontiers in Sustainable Food Systems 3(45): 1 –16.
+Stephens N (2021) Join our team, change the world: Ed-
+ibility, producibility and food futures in cultured meat
+company recruitment videos. Food, Culture & Society
+11: 1 –17.
+Stilgoe J (2019) Who ’s driving innovation? New tech-
+nologies and the collaborative state . Cham, Swit-
+zerland: Springer Nature Switzerland.
+Stuckler D and Nestle M (2012) Big Food, Food Systems,
+and Global Health. PLoS Med 9(6): e1001242.
+Tasker J (2020) Farming faces mental health crisis, warns
+charity. Farmers Weekly . Available at: https://www.
+fwi.co.uk/business/business-management/health-and-
+safety/farming-faces-mental- health-crisis-warns-charity
+(accessed 25 January 2021).
+Taylor N and Fraser H (2017) Slaughterhouses: The
+Language of Life, the Discourse of Death. In: Maher
+J, Pierpoint H and Beirne P (eds). London: Palgrave
+Macmillan. The Palgrave International Handbook of
+Animal Abuse Studies626 Progress in Human Geography 46(2)
+The Game Changers (2019) Louie Psihoyos. Dir . USA:
+OPS Productions and ReFuel Productions. [Film].
+Tulloch LK (2018) An Auto-ethnography of Anti-dairy
+Vegan Activism in New Zealand. Animal Studies
+Journal 7(2): 180 –214.
+Twine R (2014a) Vegan killjoys at the table: Contesting
+happiness and negotiating relationships with food
+practices. Societies 4(4): 623 –639.
+Twine R (2014b) Ecofeminism and veganism: Revisiting the
+question of universalism. In: Adams CJ and Gruen L(eds). Ecofeminism: Feminist intersections with other
+animals and the earth . New York: Bloomsbury, 191 –209.
+Tziva M, Negro SO, Kalfagianni A, et al (2020) Under-
+standing the protein transition: The rise of plant-based
+meat substitutes. Environmental Innovation and So-
+cietal Transitions 35: 217 –231.
+V´eron O (2016) From Seitan Bourguignon to Tofu Blanquette:
+Popularizing veganism in France with food blogs. In:Castricano J and Simonsen R (eds). Cham: PalgraveMacmillan, pp. 287 –305. Critical Perspectives on Veg-
+anism. The Palgrave Macmillan Animal Ethics Series
+Vialles N (1994) Animal to Edible . Cambridge: Cambridge
+University Press.
+Waldstein A (2016) Studying the body in Rastafari rituals:
+Spirituality, embodiment and ethnographic knowledge.
+Journal for the Study of Religious Experience 2(1): 71 –86.
+Warkentin T (2010) Interspecies etiquette: An ethics of
+paying attention to animals. Ethics & the Environment
+15(1): 101 –121.
+Warkentin T (2012) Must every animal studies scholar be
+vegan? Special Issue: Animal Others, Invited Sym-posium: Feminists Encountering Animals. Hypatia:
+Journal of Feminist Philosophy 27(3): 499 –504.
+Watts DCH, Ilbery B and Maye D (2005) Making re-
+connections in agro-food geography: Alternativesystems of food provision. Progress in Human Ge-
+ography 29(1): 22 –40.
+Welch D, Swaf ﬁeld J and Evans D (2018) Who ’s re-
+sponsible for food waste? Consumers, retailers andthe food waste discourse coalition in the United
+Kingdom. Journal of Consumer Culture : 13: 1 –21.
+Werkheiser I (2013) Domination and consumption: An
+examination of veganism, anarchism, and ecofemi-nism. PhaenEx 8(2): 161 –184.
+Whatmore S (2006) Materialist returns: practising cultural
+geography in and for a more-than-human world.Cultural Geographies 13(4): 600 –609.Whatmore S, Stassart P and Renting H (2003) What ’s
+alternative about alternative food networks? Envi-
+ronment and Planning A 35: 389
+–391.
+White N (2020) The Protein CompanyTM: Meeting the
+world ’s appetite. Tyson Foods: The Feed Blog.
+Available at: https://thefeed.blog/2020/02/26/tyson-
+foods-protein-company-feeding-the-world/ (accessed
+21 June 2021).
+White R (2015) Animal geographies, anarchist praxis, and
+critical animal studies. In: Gillespie K and CollardR-C (eds). London: Routledge, pp. 31 –47.Critical
+animal geographies: Politics, intersections, and hi-
+erarchies in a multispecies world
+White R and Cudworth E (2014) Taking It to the Streets:
+Challenging Systems of Domination from Below.Counterpoints 448: 202 –219.
+White RJ (2017) Rising to the challenge of capitalism and
+the commodi ﬁcation of animals: Post-capitalism,
+anarchist economies and vegan praxis. In: Nibert D(ed), Westport, CT: Praeger. Animal Oppression and
+Capitalism
+White RJ (2018) Looking backward/moving forward.
+Articulating a “Yes, BUT! ”response to lifestyle
+veganism, and outlining post-capitalist futures incritical veganic agriculture. EuropeNow 20: 1 –13.
+Wilson AD (2013) Beyond alternative: Exploring the
+potential for autonomous food spaces. Antipode
+45(3): 719 –737.
+Wilson B (2019) The trouble with fake meat. The Guardian .
+Available at: https://www.theguardian.com/food/2019/
+jan/27/the-trouble-with-fake-meat-beetroot-burgers-food-substitutes (accessed 25 January 2021).
+Wilson M and Jackson P (2016) Fairtrade bananas in the
+Caribbean: Towards a moral economy of recognition.Geoforum 70: 11 –21.
+Winter M (2003) Embeddedness, the new food economy
+and defensive localism. Journal of Rural Studies
+19(1): 23 –32.
+Wrenn CL (2011) Resisting the globalization of species-
+ism: Vegan abolitionism as a site for consumer-based
+social change. Journal for Critical Animal Studies
+9(3): 9 –27.
+Wrenn CL (2017) Trump veganism: A political survey of
+American vegans in the era of identity politics. So-
+cieties 7(4): 32 –45.Sexton et al. 627
+Wright L (2015) The Vegan Studies Project: Food, Ani-
+mals, and Gender in the Age of Terror . Athens, GA:
+University of Georgia Press.
+Young S (2020) ‘Meat of the Future ’: KFC Is Developing
+the World ’s First Lab-Grown Chicken Nuggets .I n -
+dependent. Available at: https://www.independent.
+co.uk/life-style/food-and-drink/kfc-lab-grown-chicken-
+nuggets-biomeat-3d-bioprinting-russia-a9629671.html
+(accessed 25 January 2021).
+Author biographies
+Alex E Sexton is a Leverhulme Trust Early Career
+Research Fellow in Geography at the University ofShefﬁeld. Her research examines the geographies,
+politics and histories of food innovation, with a focuson cell-cultured and plant-based alternatives to an-imal-derived products. She is a Council Member of
+the Food Ethics Council and a co-founder of Cul-
+tivate, a multi-voiced forum that supports informeddiscussion of cellular agriculture and its implications
+for food and society in the UK.
+Tara Garnett is director of TABLE, a collaboration
+between the University of Oxford, the SwedishUniversity of Agricultural Sciences and WageningenUniversity and Research. TABLE explores the evi-dence, assumptions, and values underpinning dif-ferent viewpoints on food systems controversiesthrough processes of dialogue, stakeholder engage-ment and analysis, its goal being to understand how
+and why people disagree and where possible, to
+identify areas of commonality.
+Jamie Lorimer is Professor of Environmental Ge-
+ography at the University of Oxford. His research
+examines popular and scienti ﬁc understandings of
+nature and the politics of managing biological life.Past projects have crossed scales from elephants tomicrobes, including relations of conservation, healthand agriculture.628 Progress in Human Geography 46(2)

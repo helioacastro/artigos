@@ -1,0 +1,1493 @@
+Vol.:(0123456789)Sustainability Science (2025) 20:597–611 
+https://doi.org/10.1007/s11625-024-01609-z
+REVIEW ARTICLE
+Contestations in the emerging soil‑based carbon economy: 
+towards a research agenda
+Julie Ingram1  · Damian Maye1 · Mark Reed1,2
+Received: 1 April 2024 / Accepted: 17 November 2024 / Published online: 4 January 2025 
+© The Author(s) 2025
+Abstract
+This paper highlights the need to consider the processes and relations in the political, knowledge, technical and socio-material 
+complex that underpins the emergence of a soil-based carbon economy. This economy, characterised by the proliferation of 
+voluntary soil-based carbon markets, carbon farming policies, supply chain and other initiatives, operates through private 
+mechanisms (offsetting, insetting) and public policy instruments. This emerging economy entails a number of inherent 
+political and knowledge contestations associated with claims around the mitigation potential of soil carbon sequestration 
+and carbon farming. We adapt a social ecological systems (SES) framework to understand these contestations and draw on 
+a corpus of agricultural, ecological, political and social science literatures to identify and pose critical questions for future 
+research. We conceptualise the emerging soil-based carbon economy as interactions and outcomes among actors embed -
+ded within a defined SES (governance, resource systems, resource units, actors). Five themes are identified: Marketisation, 
+abstraction and technogovernance; Power relations and expert knowledge; Disputing the meaning and value of soil carbon; 
+Disruptions: new interfaces, configurations and actor relations; Uncertainties and capabilities. These underpin a research 
+agenda proposal. We argue that an integrative conceptualisation is essential to equitably account for the broad mix of social, 
+technical, economic, political, and ecological contexts in which soil carbon is embedded and present options for operation-
+alising the conceptualisation.
+Keywords Soil-based carbon economy · Social Ecological Systems · Soil carbon markets · Carbon farming · Governance · 
+Power
+Introduction
+Green finance has become an essential element in helping 
+governments to meet their commitments to climate change 
+mitigation and net zero, and biodiveristy (Benton et al. 
+2021), and in driving new bioeconomy and green business 
+models (CBI Economics 2024; Davies et al. 2021). These 
+private sector sources of finance are increasingly looked 
+on to fill government funding gaps. For example, the gov -
+ernment in England has set a target for private finance into nature recovery to reach over £1 billion a year by 2030 
+(Defra 2023), with the green finance strategy (HM Gov -
+ernment 2023) outlining how they intend to achieve the 
+step change needed. This green finance is envisaged to 
+help quickly upscale a farming transition towards net zero 
+(Green Finance Institute 2023). Private sector finance can 
+be mobilised for this transition through banks, retailers and 
+the supply chain, and as buyers of and investors in ecosystem 
+services. Globally, there are now an increasing number of 
+opportunities to access new funding streams through private 
+nature markets for enacting nature-based solutions (and land-
+based natural climate solutions), including funding for car -
+bon sequestration, improving water quality, and enhancing 
+biodiversity (Reed et al. 2022; Buck and Palumbo-Compton 
+2022; UNEP 2021). The COP28 UAE partners agreed to 
+scale up and enhance access to all forms of finance to trans-
+form agriculture in response to climate change (COP28, 
+2023). The European Commission’s EU Carbon Farming 
+Handled by Leslie Mabon, The Open University, United Kingdom.
+ * Julie Ingram 
+ jingram@glos.ac.uk
+1 Countryside and Community Research Institute, University 
+of Gloucestershire, Cheltenham GL50 4AZ, UK
+2 Natural Capital Challenge Centre, Scotland’s Rural College 
+(SRUC), Edinburgh EH9 3JG, UK
+598 Sustainability Science (2025) 20:597–611
+initiative1 is based on a green business model that rewards 
+land managers through private and public mechanisms 
+(European Commission 2021) (Bogojević 2024). With this 
+increase in interest, however, are growing concerns about the 
+potential environmental and social impacts and the influence 
+of private sector actors to define what and how to govern, 
+which is an inherently ‘political act’ (Hirons 2021; Chausson 
+et al. 2023; Battersby et al. 2022).
+Soils provide a natural capital that is essential for our 
+well-being, and which is reflected in global initiatives to 
+protect soils for climate change mitigation, food production, 
+and biodiversity conservation (Bardgett and Van Wensem 
+2020; Lal 2016). Promoting soil as an enhanced carbon sink 
+that absorbs anthropogenic greenhouse gas emissions while 
+provdiing co-benefits has become an increasingly prominent 
+narrative (Bossio et al. 2020), underpinning international 
+scientific and political interests in carbon sequestration, the 
+“4 per 1000” proposal endorsed by the COP 21 Steering 
+Committee in 2015 (OECD 2015) and given formal recog-
+nition in the UNFCCC process in 2017 (COP23 decision 4/
+CP.23) (Rumpel et al. 2018; Vermeulen et al. 2019; Minasny 
+et al. 2017). In particular, there is high expectation as 
+regards transformative potential of agricultural practices to 
+store soil carbon. As such, soil carbon is emerging as a key 
+agricultural resource. As Keenor et al. (2021, p1) observe 
+“[t]he establishment of a soil-based carbon economy has 
+the potential to deliver a paradigm shift that will accelerate 
+climate change mitigation, and concurrently realise net gains 
+for soil health and the delivery of soil ecosystem services”. 
+Furthermore, scholars argue for a rapid scaling up of carbon 
+removal through carbon farming and a range of land-based 
+approaches to compensate for the large food system GHG 
+emissions (Crippa et al. 2021).
+This soil-based carbon economy operates through pri-
+vate mechanisms and public policy instruments that reward 
+farmers for carbon farming practices that store soil carbon, 
+recarbonise soil, and/or reduce GHG emissions (Keenor 
+et al. 2021; FAO 2019). Such practices can be incentiv -
+ised through private sector voluntary markets where car -
+bon farming credits become an additional product that land 
+managers can sell; supply chain standards for land manage-
+ment (insetting to meet Scope 3 net zero targets)2 as well as 
+public sector policy measures such as EU CAP instruments 
+(Bossio et al. 2020; Battersby et al. 2022; Baumber et al. 
+2020; European Commission 2021); direct financial rewards from governments (Fleming et al. 2019) and potentially gov -
+ernment subsidies and taxes (Frank et al. 2024). Of these, 
+voluntary soil carbon markets (VCM) have attracted most 
+attention, increasingly viewed as mechanisms to enable and 
+scale the adoption of carbon farming practices in the UK and 
+internationally with a growing global marketplace (Buck and 
+Palumbo-Compton 2022; Black et al. 2022; Paul et al. 2023; 
+Cevallos et al. 2019). This carbon offsetting approach is an 
+appealing instrument for markets to generate new revenue 
+streams for a range of supply chain actors, financial institu-
+tions, and farmers (Reed et al. 2022; Buck and Palumbo-
+Compton 2022). However, the increase in agri-food compa-
+nies setting net zero targets for Scope 3 emissions by 2050 
+such as major food retailers (e.g. in the UK Tesco, 2021; 
+Sainsbury's 2023), processors, and international corpora -
+tions (e.g. Nestle) represents another dimension of the soil-
+based carbon economy. As part of this, farm businesses may 
+need to demonstrate reduced emission or increased seques-
+tration to access existing supply chain markets.
+The last few years have witnessed a proliferation of vol-
+untary markets, new investors, traders and brokers, project 
+developers, and public and private sector carbon farming 
+initiatives, networks, and projects with soil carbon becoming 
+part of the lexicon of supply chain actors and policy makers, 
+both internationally (Saifuddin et al. 2024) and in the UK 
+(Reed et al. 2024).
+However, the expectations for soil carbon sequestration 
+(Buck and Palumbo-Compton 2022), the urgency to address 
+climate change (Bradford et al. 2019), and the expansion 
+of unregulated soil carbon markets (Reed et al. 2022) into 
+the so-called ‘wild west’ territory of offset markets, along 
+with public and private sector attempts to scale up carbon 
+farming, creates multiple cultural and scientific challenges 
+which coalesce to make this a highly contested and dynamic 
+arena. In particular, this emerging soil-based carbon econ-
+omy entails a number of inherent political and knowledge 
+contestations associated with claims around the mitigation 
+potential of soil carbon sequestration and carbon farming 
+(Henderson et al. 2022; Sykes et al. 2020). Described as a 
+‘speculative and promissory climatic regime’ (King et al. 
+2018), and as ‘overly optimistic and inherently flawed’ 
+(Amundson and Biardeau 2018), scholars argue that the 
+existing knowledge base does not justify the current trend 
+to set global agendas focusing on soil carbon sequestration 
+(Moinet et al. 2023 ). Critics argue that, not only are there 
+fundamental flaws in the logic of these markets to reach 
+climate neutrality, but also environmental justice concerns 
+(Saifuddin et al. 2024). Furthermore, VCM are controver -
+sial, and are criticised and championed by various groups in 
+equal measure (Miltenberger et al. 2021). VCM thus present 
+significant governance challenges (Black et al. 2022) and 
+potentially risk marginalising soil’s wider value and mean-
+ing. Additionally, the social, economic, and political barriers 2 For companies to gain the benefits of shared value, they need to 
+engage in carbon insetting, in which the carbon credits generated by 
+farmers are marketed directly to buyers within the same supply chain.1 Carbon farming practices refer to those agricultural activities that 
+can sequester carbon and/or reduce GHG emissions for example 
+cover crops, reduced tillage, manure and fertiliser management.
+599 Sustainability Science (2025) 20:597–611 
+to the implementation of soil carbon sequestration and car -
+bon farming are only just becoming apparent (Amelung et al. 
+2020; Amundson and Biardeau 2018), as evidenced in the 
+relatively small scale and slow progress in investment and 
+action in this area (Vermeulen et al. 2019).
+Against this backdrop, this paper highlights the need to 
+consider the processes and relations in the political, knowl-
+edge, technical, and socio-material complex that characterise 
+the emergence of a soil-based carbon economy. We adapt a 
+social ecological systems (SES) framework to understand 
+contestations in this emerging economy and draw on a cor -
+pus of agricultural, ecological, political, and social science 
+literatures to identify and pose critical questions for future 
+research.
+These studies reveal persistent and related themes which 
+to date were not always connected or applied to soil carbon 
+(Table  1). Drawing on these insights, we identify a number 
+of intersecting contestations relevant to the emerging soil-
+based carbon economy. We argue that an integrative concep-
+tualisation (i.e. pluralist ontology that combines disciplinary 
+perspectives) is essential to equitably account for the broad 
+mix of social, technical, economic, political, and ecological 
+contexts in which soil carbon is embedded.
+Social ecological systems framework
+A framework for analysing a soil-based carbon economy 
+needs to draw on sociotechnical systems, where social ele-
+ments (such as regulations, trading mechanisms, and stake-
+holder interests, goals, and values) and technical elements 
+(such as carbon accounting methods, verification technolo-
+gies, and IT platforms for trading) come together, and it 
+needs to incorporate agroecological perspectives of soil 
+systems and the multiple variables and processes acting 
+within and between the ecological, political, economic, and 
+social components. The social ecological systems (hereaf-
+ter ‘SES’) framework provides a means to do this, bringing 
+together ecological and social systems by focusing on four 
+high tier components: the governance system (formal and 
+informal rules), the resource system (particular ecosystem 
+types and biophysical processes), resource units (part of 
+and interact with the resource system), actors (public and 
+private actors within a governance system). Interactions  
+between the above components take place and are medi-
+ated by broader system relations within which the SES is 
+embedded and produce outcomes. SES can be employed 
+to organise arguments and analyses from the distinct per -
+spectives relevant to a soil-based carbon economy (Ben-
+nett and Gosnell 2015; Amin et al. 2020). We conceptu-
+alise the emerging soil-based carbon economy (Fig.  1) as 
+a set of interactions and outcomes among actors operating 
+in an action situation embedded within a defined SES in which market and policy intermediaries negotiate, manage 
+and trade in resource units with the intent of enhancing or 
+maintaining carbon sequestration within the resource soil 
+system; and actors such as land managers and farmers, and 
+those who influence and support them, navigate changes, 
+implement new practices, and deliver soil carbon within a 
+governance system that legitimises, enforces, and monitors 
+agreements among these actors. Employing the SES framing 
+shows how the soil-based carbon economy is a highly con-
+tested set of interactions and outcomes. First, we synthesise 
+literature concerning the four components of the SES, and 
+in the following section we identify the five key interactions 
+and outcomes which underpin our research agenda proposal. 
+We acknowledge that there are many different frameworks 
+for social–ecological systems and conceptual and methodo-
+logical ambiguities (Binder et al. 2013; De Vos et al. 2019; 
+Schlüter et al. 2019), but for this high level conceptualisa-
+tion we take the key dimensions where there is agreement 
+(Partelow 2018).
+SES components and relevance to soil‑based carbon 
+economy
+Governance
+Governing the many dimensions of sustainable soil manage-
+ment brings new demands (Helming et al. 2018). These are 
+especially acute with soil carbon governance where a lack 
+of monitoring, problems in ensuring additionality, perma-
+nence, and safeguarding against leakage effects, and poor 
+accountability are prominent (Battersby et al. 2022; Paul 
+et al. 2023).
+Soil carbon trading, supply chain governance, and policy 
+implementation all require consensus on certification instru-
+ments used for long-term soil carbon storage, and the devel-
+opment of robust institutional agreements and processes 
+(Rodrigo-Comino et al. 2020; Keenor et al. 2021; Amin 
+et al. 2023) and an agreed method for valuation (Baveye 
+2023). International soil carbon codes are in operation, but 
+exhibit differences in governance, scope, rules, methods, and 
+marketplace and as such are not easily transferable (Black 
+et al. 2022). Whilst more developed in Australia and USA, 
+voluntary markets for soil carbon in Europe and the UK, 
+for example, are currently unregulated. With the absence of 
+regulation, significant controversy remains over the claims 
+that are made with respect to gains or losses in soil carbon 
+sequestered, and there are accusations of corporate "green-
+washing”. Central to this is the lack of transparency, environ-
+mental integrity, and standardisation in the methodologies 
+and rules for monitoring, reporting, and verifying (MRV) 
+and the use of different methods, benchmarks, technologies, 
+and rules to deliver and generate carbon credits (Elliott et al. 
+2020; Smith et al. 2020). Currently, there are many models 
+600 Sustainability Science (2025) 20:597–611
+Table 1  Summary of previously disconnected bodies of research in soil science, climate science, ecosystem services, and social and political studies
+Soil carbon: scientific debates Social, economic and political barriers to the implementation of soil carbon sequestration
+Ecosystem services, soil carbon sequestration and mitigation Carbon farming and markets: farmer adoption, governance Carbon (non-soil) offsetting and markets
+Soil ecosystem services, 
+natural capital (NC), nature-
+based solutions (NBS)Soil carbon sequestration and 
+mitigation potentialCarbon farming (CF), soil 
+carbon (SC) markets, farmer 
+perspectives, capability Governance Commodification, marketisa-
+tionPolitical ecology, ecosystem 
+services
+Soil ecosystem services 
+(Bardgett and van Wensum 
+2020 (soil as NC); Baggaley 
+et al. 2022 (NBS, UK); 
+Baveye 2023)
+Natural capital (Robinson 
+et al. 2014)
+Soil politics and human 
+dimensions (Krzywoszyn-
+ska and Marchesi 2020, 
+Gosnell 2022;Granjou and 
+Meulemans 2023)
+NBS (Hirons 2021; Chausson 
+et al. 2023)Role of soil carbon in miti-
+gation (Smith et al. 2012; 
+Banwart et al. 2014 (SC, 
+global); Bossio et al. 2020; 
+Paul et al. 2023; Minasny 
+et al. 2017; Smith et al. 
+2020; Yumashev et al. 2022 
+(UK))
+High expectation—SOC 
+sequestration ‘win-win’, 
+co-benefits, few trade-offs 
+(Rumpel et al. 2018; Ame-
+lung et al. 2020; Rodrigo-
+Comino et al. 2020; IPCC 
+WG1, 2021; Miltenberger 
+et al. 2021; McGlade and 
+Morris 2023; Frank et al. 
+2024)
+Contested role (Bradford 
+et al. 2019; King et al. 2018; 
+Keenor et al. 2021; Moinet 
+et al. 2023)
+Mitigation potential of land 
+management practices and 
+knowledge gaps
+(Smith et al. 2012; Powlson 
+et al. 2011; Paustian et al. 
+2016, 2017; Oldfield et al. 
+2022)Co-benefits and trade offs 
+(Tang et al. 2016 (review 
+GHG incentives, USA); 
+Fleming et al. 2019 (CF, 
+Aus); Keenor et al. 2021, 
+McGuire et al. 2022; Buck 
+and Palumbo-Compton 2022 
+(review SC, USA))
+Carbon certificates (Paul 
+et al. 2023)
+Adoption barriers and 
+incentives for farmers 
+(Kragt et al 2017 (CF, 
+AUS); Sykes et al. 2020 
+(SC); Amundson and 
+Biardeau 2016 Dumbrell 
+et al. 2016 (CF, Aus); Fre-
+lih-Larsen et al. 2020 (CF, 
+EU); Gosnell 2022; Baum-
+ber et al. 2020; Barbato and 
+Strong 2023 (CM, USA); 
+Amin et al. 2023; Phelan 
+et al. 2022 (SCM, UK)
+Knowledge and capacity 
+(Ingram et al. 2016; Kragt 
+et al. 2017 (Aus); Aslam 
+et al. 2017; Ingram and 
+Mills 2019 (EU); Guan et al. 
+2021 (GHG, China); Mac-
+donald 2022 (EU); Mattila 
+et al. 2022)Soil carbon governance 
+and MRV (Elliott et al. 
+2020 (UK); Kragt et al. 
+2017 (Aus); Battersby et al. 
+2022; Jackson Hammond 
+et al. 2021 (USA); Black 
+et al. 2022 (UK); Reed et al. 
+2022; in press; Paul et al. 
+2023)
+Techno-politics/Techno-
+governance (standards and 
+metrics) (Freidberg 2014; 
+Rosin et al. 2017; Konefal 
+et al. 2022)Green finance, climate 
+capitalism, NBS (Chausson 
+et al. 2023)
+Neoliberal processes, 
+marketisation, calculative 
+and performative work, 
+materiality, subsumption 
+of nature (Mackenzie 2009; 
+Callon 2009, Bumpus 2011; 
+Twyman et al. 2015; Blok 
+2016 Ferreira 2017; Nel 
+2017; Cavanagh et al. 2021)
+Fantasy of carbon offset-
+ting, integrity, governance 
+of traded credits (McAfee 
+2016; Watt 2021)
+Abstraction. Datafication. 
+politics (Scheidel 2019; 
+Gabrys et al. 2022)
+Carbon storytelling and 
+new actors (Kröger 2016; 
+Chartier and Demaze 2020)Carbon colonialism and 
+injustice (Lawhon and Mur -
+phy 2012; Bennett and Gos-
+nell 2015; Berbés-Blázquez 
+et al. 2016)
+Political ecology north-south 
+REDD+ (Leach et al. 2014 
+Lyons and Westoby 2014; 
+Schumacher 2023
+Power asymmetries (Giller 
+et al. 2009; Kosoy and 
+Corbera 2010; Leach et al. 
+2014 (biochar and markets); 
+Newell and Taylor 2018; 
+Carton 2020)
+Private sector, corporates 
+and offsetting (Vermeulen 
+et al. 2019; Battersby et al. 
+2022)
+Carbon farming licence to 
+operate (Baumber et al. 
+2020)
+601 Sustainability Science (2025) 20:597–611 
+for carbon farming payments and mechansims in Europe 
+and the UK, linked to different levels of MRV with associ-
+ated risks and adminsitrative costs to farmers, and levels of 
+certainty of mitigation (Macdonald 2022).
+Furthermore, the implementation of insetting measures 
+by supply chain companies is currently only rudimentarily 
+established with no precise rules on how insetting should be 
+accounted for. The lack of uniform accounting rules, clear 
+definitions and methodologies to account for carbon and 
+emissions, questions the integrity of companies’ emission 
+reduction and net zero targets (Ebersold et al. 2023 ; Stoll 
+et al. 2019). The low investment in sustainable supply chains 
+is in contrast to the number of ‘hazy’ voluntary business 
+commitments made (UNEP 2021). To compound this, there 
+is a high level of divergence in the farm carbon calcula-
+tors on the market to support monitoring, as evidenced in a 
+recent report for the UK (RSK ADAS Ltd 2023).
+This leads to concerns that in the long term, mitigation 
+will not be achieved and soil carbon certificates are likely 
+to fall short of providing the certified emission offsets (Paul 
+et al. 2023; Oldfield et al. 2022). In addition, markets might 
+expose farmers and investors to unnecessary financial risks, 
+leading to hesitancy and low confidence amongst farmers 
+and other agri-food actors (Kragt et al. 2017; Buck and 
+Palumbo-Compton 2022). Only when delivered with high 
+integrity can carbon offsetting have an important (but small) 
+role to play in achieving net zero (Committee on Climate 
+Change 2022). However, in response to these critiques, 
+some argue that ‘the perfect can be the enemy of the good’ 
+and given the urgency of the situation they assert that such 
+issues are resolvable and that VCM for example are a first, 
+but urgent step in the transition (Miltenberger et al. 2021; 
+Bernstein 2023).Governance arrangements are forming to respond to the 
+above, with a European framework for carbon removals in 
+development (European Commission 2021) (Günther et al. 
+2024), and in UK principles for a Farm Soil Carbon Code 
+(UKFSCC) recently identified (Black et al. 2022) as well as 
+developing a range of nature investment standards which 
+provide clear rules for how farmers can access payments 
+from nature markets (BSI 2024 ). These are independent 
+of standards already applied globally (Jackson Hammond 
+et al. 2021). The lack of integration and potential conflict in 
+the UK between public funding and voluntary markets for 
+natural capital, and limited analysis about how they might 
+be blended, has also been highlighted (Reed et al. 2024). 
+To address this, each of the UK governments are working 
+towards integrating public payments to complement nature 
+markets (e.g. Defra 2023).
+Resource systems
+Soils are critical to agroecological systems, providing multi -
+ple interlinked ecosystem services and operating at the inter -
+face of agriculture, climate science, and natural capital (Bag-
+galey et al. 2022). Soil organic carbon (SOC) in the form of 
+organic matter is a key component of soil ecosystems. Envis-
+aged as stocks and flows, SOC dynamics are particularly 
+complex with many feedback loops. Soils have the capacity 
+to both release and sequester carbon and other greenhouse 
+gases and, as King et al. (2018) argue, a rather restrictive 
+vision of soil as a global stock of carbon that we could 
+monitor, model, manage, and enhance largely downplays 
+this complex dynamic. Net soil carbon sequestration occurs 
+when the difference between  CO2 removals and emissions 
+is positive and contributes to mitigation when sequestration Fig. 1  SES framework for soil-
+based carbon economy (adapted 
+from McGinnis and Ostrom 
+2014)
+
+602 Sustainability Science (2025) 20:597–611
+results from a net gain of carbon from the atmosphere. There 
+are a range of approaches for achieving this (Sykes et al. 
+2020). However, debates over the role of SOC in mitigation 
+are long-standing and have been described as adversarial 
+(Bradford et al. 2019; Saifuddin et al. 2024). Equally, the 
+impact of carbon farming practices such as conservation 
+tillage, cover cropping, and residue management in arable 
+systems is questioned (Buck and Palumbo-Compton 2022; 
+Oldfield et al. 2022; King et al. 2018; Sykes et al. 2020; 
+Powlson et al. 2011). For the UK, there are multiple contex-
+tual considerations (Yumashev et al. 2022). Furthermore, 
+SOC responds slowly to changes in agricultural manage-
+ment, and in ecosystem terms it is called a ‘slow’ variable 
+(Smith et al. 2012). Claims that carbon sequestration pro-
+vides a win–win solution for mitigation and food security are 
+also contested (Saifuddin et al. 2024; Moinet et al. 2023). 
+However, others argue that despite the difficulty of ensuring 
+long-term storage and sequestration of carbon, to overlook 
+this potential opportunity does not make sense, pointing 
+to evidence of some practices succeeding (McGlade and 
+Morris 2023). Calls from the scientific community for a 
+global-scale soil climate mitigation strategy and an agenda 
+for collective action demonstrate the growing momentum 
+in support of this view (Amelung et al. 2020; Vermeulen 
+et al. 2019).
+Resource units
+There is a large body of work looking at how complex 
+socioecological realities concerned with farm soils are 
+made legible and governable by translating scientific 
+knowledge into tools that markets and policymakers can 
+use (Granjou and Meulemans 2023). This stems from soil 
+systems having multiple properties and functions that have 
+been disaggregated, measured and monitored by scientists. 
+A soil-based carbon economy necessitates both quantify -
+ing soil carbon changes and determining a trading value. 
+Soil organic matter (SOM) and soil organic carbon (SOC) 
+are the most commonly measured variables; however, 
+some argue that they provide little insight into carbon 
+sequestration (Moinet et al. 2023). This is because meas-
+uring SOC reliably is challenging with high spatial and 
+temporal variability of stocks and multiple management 
+and context variables (Smith et al. 2012). A range of tools, 
+technologies, and methods (measurement based, model 
+based and remote sensing based) are used by markets and 
+policy instruments to measure and predict soil carbon 
+change, while farmers are rewarded according to actions, 
+outcomes, or both (Macdonald 2022). Different methods 
+are critiqued, for example a sociology of modelling per -
+spective argues that modelling practices construct an inev -
+itably selective reading of and gaze upon the world (Leach 
+et al. 2014 ). Carbon payment is often in the form of “offset credits” that equate to a removal or reduction of 1t  CO2e. 
+As such, as Carton (2020, p. 1355) observes that for car -
+bon offsetting, a ‘technocratic toolbox’ is required which 
+is “an assemblage of carbon dioxide equivalents, carbon 
+credits, baselines, carbon measurement methods, monitor -
+ing, report and verification (MRV) methodologies”.
+Actors
+Soil systems are socio-natural systems. In agriculture, 
+they are managed systems that hold together farmer and 
+soil material relations, and consequently have important 
+human and cultural value (Granjou and Meulemans 2023; 
+Baveye 2023; Gosnell 2022; Krzywoszynska and Marchesi 
+2020). Soil system management and governance is enacted 
+by a multiplicity of traditional actors in the agri-food sys-
+tem (farmers, land managers, advisers, researchers across 
+public and private sectors) (Ingram and Mills 2019; Bum-
+pus 2011; Chartier and Demaze 2020). Most interest has 
+been directed at farmers, and evidence from Australian 
+(Kragt et al. 2012; Fleming et al. 2019; Dumbrell et al. 
+2016), international (Buck and Palumbo-Compton 2022), 
+and US (Barbato and Strong 2023) studies show that co-
+benefits are more important drivers of farmer adoption 
+of soil carbon sequestration practices and participation in 
+carbon markets or programmes than receiving offset cred -
+its. Synergies may arise if participating farmers start to 
+rethink soil management and increase soil organic matter, 
+which can lead to improved soil health, fertility and resil-
+ience (Paul et al. 2023). However, some question the addi-
+tionality that such markets can bring for farmers already 
+implementing soil health practices, while a UK study 
+suggested that such farmers may even be excluded due to 
+regulations (Phelan et al. 2022). Furthermore, there is a 
+risk that selling credits will harm farmers’ own decarboni-
+sation efforts and penalise them when supply chains start 
+to require net zero farm status (Elliott et al. 2020). Overall, 
+there is low confidence amongst farmers and agri-food 
+actors in the governance of carbon farming due to policy 
+and market complexity and uncertainty (Elliott et al. 2020; 
+Kragt et al. 2017), which Baumber et al. (2020) argued 
+was threatening the social licence of carbon farming in 
+Australia. Information shortcomings across the Agricul-
+tural Knowledge and Innovation Systems (a framework for 
+understanding supporting organisations, actors, and link -
+ing mechanisms) limit effective advisory support. Oppor -
+tunity costs (including transaction and measurement costs) 
+(Kragt et al. 2012 ; Tang et al. 2016 ) may lead to overes -
+timates of income. Cultural, agronomic, and knowledge 
+deficits are further barriers as well as concerns related to 
+credibility, relevance, and legitimacy (Mills et al. 2019; 
+Ingram et al. 2016).
+603 Sustainability Science (2025) 20:597–611 
+Contested interactions in the SES: 
+towards a research agenda
+The emerging soil-based carbon economy is conceptualised 
+as a set of interactions and outcomes among actors embed-
+ded within this SES as defined above by the high tier compo-
+nents. We identify five interconnected key themes in this SES 
+framework which provide the basis for a research agenda 
+and research questions (Fig.  2). Drawing on commonalities 
+across different perspectives and literatures, the themes were 
+identified iteratively by the authors as foci of contestation.
+Marketisation, abstraction, and technogovernance
+This theme centres on marketisation processes and the 
+abstraction and governance activities that accompany them. 
+A large body of literature, examining the politics of offset-
+ting and its character as a market instrument, can inform our 
+analysis. This critiques the assumptions, values, and expert 
+knowledges that underpin carbon as a tradable commodity 
+(Watt 2021), explored along themes of climate capitalism, 
+commodification of nature, the integrity and governance 
+of traded credits, ‘the fantasy of carbon offsetting’, and 
+fetishisation of carbon (Watt 2021; Carton 2020; McAfee 
+2016). Kosoy and Corbera (2010) identify three ‘inherent 
+invisibilities’ relevant to the commodification of soil car -
+bon: simplifying the complexity of natural ecosystems; pri -
+oritising a single exchange value; and masking the social 
+relations embedded in the process of ‘producing’ and ‘sell-
+ing’ ecosystem services. With commodification, new mean-
+ings are conferred on carbon by the neoliberal processes of marketisation (Twyman et al. 2015; Callon 2009) which 
+express a global technocratic order of enviromental gov -
+ernance (Blok 2016). Such marketisation brings multiple 
+controversies which relate to abstraction, measurement, and 
+governance (Callon 2009). The processes of abstraction 
+and datafication (Gabrys et al. 2022; McKenzie et al. 2013; 
+Nel 2017), and the constructed nature of ecosystem mar -
+kets, obscure crucial social and ecological differences that 
+have been the focus for carbon offset research (e.g. Bumpus 
+2011). The new imaginaries around soil carbon as a tradable 
+commodity turn it into an abstracted ‘value of equivalence’, 
+which counters the common understanding of a more holis-
+tic soil system and risks reinforcing the disconnect between 
+people and nature. As Leach et al. (2014, p. 49) observe with 
+respect to the new carbon economy in Africa “soil carbon 
+is ‘chopped out’ of its ecosystem and social contexts and 
+revalued as exchangeable pieces of carbon nature. Farmers 
+are hailed as green actors and market winners, provided they 
+discipline their practices according to these new technical 
+and market logics”. This singular focus on carbon has been 
+criticised as marginalising the many other benefits managing 
+soil health can deliver (McGuire et al. 2022).
+Sciences and technology studies scholarship takes a mar -
+ketisation perspective on the creation and performance of 
+carbon markets (Callon 2009; Bumpus 2011; Ferreira 2017). 
+Carbon markets are regarded as ongoing collective experi-
+ments that are assembled as carbon is ‘brought into being’ 
+as a commodity (Callon 2009). As such, the emerging soil-
+based carbon economy may be conceptualised as a ‘market-
+in-the-making’ (Callon 2021), by which we mean a com-
+bination of farm-level mangement practices and emerging 
+Fig. 2  SES interactions in the soil-based carbon economy
+604 Sustainability Science (2025) 20:597–611
+government and private forms of investment, regulation, and 
+codification that collectively, but by no means in unison, 
+‘frame’ what is ‘valued’ to form a ‘soil-based carbon econ-
+omy’. The essential point therefore is the need to pay close 
+attention to the social and material relations that ‘make’ 
+markets over and above the markets themselves.
+Through this marketisation perspective, then, both off -
+setting and insetting necessitate a form of ‘techno-political 
+governance’ (Freidberg 2014) where new practices of soil 
+carbon metric governance are authorised and enacted. Argu-
+ably like food footprinting, soil carbon metrics ‘do technopo-
+litical work’, in that they serve as a tool for achieving certain 
+political ends, which markets and supply chain actors use 
+to govern and legitimate their ideas (Konefal et al. 2022; 
+Freidberg 2014; Rosin et al. 2017). This raises the following 
+research questions:
+What are the implications of soil carbon commodifica-
+tion and abstraction processes for farmer and practi-
+tioner communities? How does the apparent ‘simplifi-
+cation’ of soil carbon dynamics impact soil health and 
+ecosystem services management more widely? What 
+and how are private forms of governance emerging and 
+which stakeholders are involved?
+Power relations and expert knowledge
+Both offsetting and payment for ecosystem services litera-
+tures foreground political ecology and political economy 
+perspectives, highlighting issues of injustice, carbon colo-
+nialism, corporate control, and power asymmetries (Berbés-
+Blázquez et al. 2016; Bennett and Gosnell 2015; Battersby 
+et al. 2022; Newell and Taylor 2018; Kosoy and Corbera 
+2010; MacKenzie 2009). Political ecology theory can show 
+how power relations manifest themselves, how governance 
+practices emerge, and how knowledge is built, negotiated, 
+and authorised (Van der Horst and Evans 2010). It explicitly 
+questions the expert-led framings and challenges theorists to 
+more carefully and widely consider who is knowledgeable 
+about particular environmental issues (Lawhon and Murphy 
+2012).
+Marketisation and expanding carbon farming policies 
+involve mobilising knowledge claims and discourses that 
+construe offsetting as scientifically valid and legitimate. This 
+can lead to reliance on expert knowledge which authorises 
+the technocratic toolbox and acts to maintain the “hegem-
+onic position that carbon markets enjoy in climate policy, 
+in that knowledge claims inevitably come imbued with val-
+ues, interests, and power relations” (Carton 2020, p. 1355). 
+Power asymmetries have been observed in North–South 
+relations in past programmes such as REDD+ (reduc-
+ing emissions from deforestation and forest degradation 
+in developing countries framework), and in contemporary carbon finance initiatives (Cavanagh et al. 2021; Schu-
+macher 2023; Lyons and Westoby 2014), where political 
+framings and commercial interests steer the promotion of 
+practices such as conservation agriculture and climate smart 
+farming despite weak evidence of beneficial impact (Giller 
+et al. 2009). This is positioned within the increasing cor -
+porate influence over the governance of food systems and 
+their role in nature-based solutions which is seen as a threat 
+(Chandrasekaran et al. 2021), for example, the Bayer Carbon 
+Initiative. Farmers have inherently had weak political capa-
+bilities in such contexts where policy, corporate pressure, 
+and markets act to reinforce existing inequalities (Cavanagh 
+et al. 2021). Political capabilities analysis highlights the 
+significance of underlying relationships and processes to 
+an individual’s ability to achieve outcomes, including those 
+that are personal (for example, skills, experience, health), 
+social (power, social norms, gender roles), and environmen-
+tal (institutions, public goods) (Ensor et al. 2021). There are 
+also warnings that emergent technopolitics around measure-
+ment and simplification can provide new powers of legiti-
+misation for corporate or state-planned land uses (Scheidel 
+2019). Narratives of anticipated or imagined carbon benefits 
+or ‘carbon storytelling’ can be fundamental to achieving 
+political support (Kröger 2016), whilst crisis narratives can 
+be equally powerful in steering governance (Hirons 2021). 
+Further balance between the benefits and costs, and their 
+distribution across different stakeholders, are critical factors 
+in determining whether carbon farming is able to obtain a 
+‘social licence to operate’ from the communities affected by 
+them (Baumber et al. 2020).
+It is important therefore with respect to a soil-based car -
+bon economy to show how power relations manifest them-
+selves in the particular institutional spaces where climate 
+change and agriculture overlap (Newell and Taylor 2018 ; 
+Saifuddin et al. 2024 ), to avoid further entrenching power 
+asymmetries (Chausson et al. 2023), and to use inclusiv -
+ity and legitimacy approaches to give farmers a voice 
+(Ingram et al 2016; Hirons 2021). Already, it is recognised 
+that farmer and community capacity to deal with markets 
+is mismatched with the growth of natural capital investors 
+and project developers, with calls for a fairer, more just, 
+and responsible investment in natural capital (Scottish Land 
+Commission 2023). Market value will depend on several 
+factors, including carbon prices and demand for the credits, 
+but based also on current value this is not high in the UK 
+at present (Elliott et al. 2020). The complexity and uncer -
+tainty, high MRV costs of carbon markets, and open market 
+structure lower the cost for buyers and other market actors, 
+but raise costs for participating farmers (Elliott et al. 2020). 
+Farmers also have different levels of control about selling 
+certificates, and the type of certificate or credit created 
+can affect claims farmers are able to make about their own 
+impact. Furthermore, tenant farmers and smaller farmers 
+605 Sustainability Science (2025) 20:597–611 
+cannot take full advantage of new natural capital (Benton 
+et al. 2021). Assumptions that ‘market-forces’ will gener -
+ate shared prosperity overlook the challenges of ensuring 
+distributional and procedural equity (Moinet et al. 2023). 
+However, opportunities for creating shared value with inset-
+ting are highlighted by some (Banerjee et al. 2013). This 
+raises the following research questions:
+Who implements and authorises the technocratic tool-
+box for soil-based carbon and who governs the politi-
+cal and markets arena? Whose agendas are represented 
+and advanced, and which activities and methods are 
+deemed to count? What assumptions, values, and 
+expert knowledges underpin soil-based carbon mar -
+kets? How can transformational change come about 
+when power asymmetries exist? How can farmer polit-
+ical capabilities be strengthened?
+Disputing the meaning and value of soil carbon
+This theme is characterised by the contestations associated 
+with different values attributed to soil carbon and is closely 
+linked to marketisation, abstraction, and technogovernance. 
+Soil scientists have struggled to quantify or provide mon-
+etary valuation of soil services/functions (Baveye 2023; 
+Robinson et al. 2014) and some question the “appropria-
+tion of soils as natural capital” (Bardgett and Van Wensem 
+2020). From the perspective of farmers and practitioners, 
+their situated meanings of soil carbon are unlikely to match 
+the abstracted, globalised knowledges of soil carbon as a 
+marketable, tradable commodity (Twyman et al. 2015). Soil, 
+not carbon, will have a tangible history and socio-material 
+relation for farmers; their experiential knowledge, care 
+practices, and values they hold about the wider benefits of 
+soil health are potentially threatened (Fleming et al. 2019; 
+Tang et al. 2016). Defining practices in terms of soil carbon 
+risks marginalising and negating the many other benefits 
+managing soil health can deliver and the non-monetary 
+value of soil (Keenor et al. 2021; McGuire et al. 2022) and 
+distracts from ongoing material relations, knowledges, and 
+care practices that farmers have with their soil. A stronger 
+interest in co-benefits (soil health, fertility, resilience) of 
+markets or carbon farming demonstrates this (Buck and 
+Palumbo-Compton 2022; Fleming et al. 2019; Sykes et al. 
+2020; Baumber et al. 2020). This resonates with calls for a 
+shift from a myopic lens on carbon towards a more holistic 
+approach (Harrison et al. 2021), and for a deep cultural and 
+systemic shift, resetting human–soil relations (Chausson 
+et al. 2023). As Moinet et al. ( 2023) observe, when nature 
+becomes a provider of monetisable services, this can crowd 
+out values and intrinsic social motivations driving steward-
+ship. However, arguably market mechanisms can enable and 
+scale up the adoption of carbon farming practices, bringing wider ecosystem benefits. How carbon is understood and 
+valued by farmers and practitioners, and how standards and 
+metrics are transcribed onto the material realities of daily 
+lives need further investigation, as does the opposing needs 
+of farmers and investors around permanence, and the con-
+straints on future management that this may impose. This 
+raises the following research questions:
+How do different actors make sense of value and give 
+meaning to soil carbon? How is carbon understood and 
+valued by farmers and practitioners, and how are soil 
+carbon metrics transcribed onto the material realities 
+of daily lives of the farming community? What is the 
+burden of work associated with MRV or interacting 
+with market intermediaries who do the MRV? How 
+does the abstract nature of soil carbon affect assess-
+ment of risk in decision-making around participating?
+Disruptions: new interfaces, configurations, and actor 
+relations
+In this theme, the focus is on the reconfiguration of actors 
+and the implications for knowledge and discourse. The 
+emerging soil-based carbon economy is already heralding 
+new actors, interfaces, configurations, and social and mate-
+rial relations. Its ‘market-making’ is enacted by a constella-
+tion of new actors such as developers of projects generating 
+carbon credits, credit retailers, wholesalers and/or invest-
+ment funds, certification bodies, brokers, entrepreneurs, 
+and customers (Demaze and Moïse 2021; Bumpus 2011), 
+who have their own roles, expectations, conceptions, pro-
+jects, and interests (Callon 2009). New intermediaries are 
+deployed to discipline and frame the individual subjectivities 
+of all actors and act to distribute accountabilities (Freidberg 
+2014). They potentially disrupt existing actors and services, 
+markets, institutions, and practices. Traditional roles and 
+analytical categories (farmer, adviser, supply chain actor, 
+researcher) of those in the agri-food system can be chal-
+lenged and redefined and social and professional relations 
+reconfigured. Such reconfigurations can disrupt and destabi-
+lise ‘meso-scale’ actors' (e.g. advisers) routines and practices 
+that are critical for supporting farmer learning as observed 
+for digital agriculture (Eastwood et al. 2019).
+Networks of actors (socio-natural and technical config-
+urations) can be assembled in the soil carbon context, as 
+observed for offsetting (Bumpus 2011). How these networks 
+encounter and negotiiate practices, knowledges, and technol -
+ogies, create discourses, and assemble capabilities (knowl-
+edge and political capabilties) should be key questions for 
+research. The intersections of politics and knowledge with 
+definitional and governance struggles create different visions 
+or storylines of how soil carbon can be measured, governed, 
+and managed. Carbon has its own language that circulates 
+606 Sustainability Science (2025) 20:597–611
+between sciences, markets, the public, and governments; the 
+term ‘carbon’ carries a plurality of meanings with associ-
+ated values (Twyman et al. 2015). Storylines cohere around 
+groups of actors or networks that exist at a given point in 
+time indicating the relative strengths of social, technical, 
+economic, and political interest groups. Market actors con-
+strue offsetting and the commodification of soil carbon as 
+scientifically valid and legitimate; traditional agri-system 
+actors perceive high risks due to the unregulated nature of 
+markets and question market credibility (Elliott et al. 2020; 
+European Commission 2021), while policy makers position 
+soil carbon markets as part of a broader geopolitical dis-
+course associated with neoliberal environmental governance. 
+This raises the following research questions:
+What are the new interfaces and cross sector linkages 
+that facilitate the expansion of these markets? To what 
+extent do carbon market actors and new relations dis-
+rupt or invigorate established roles and relations? How 
+do different groups of actors create storylines around 
+soil-based carbon economies to make sense of and give 
+meaning to them? And how do they legitimise particu-
+lar knowledge claims and practices?
+Uncertainties and capabilities
+This theme draws together notions of credibility, capabili -
+ties, and situated literacy linking them to empowerment. 
+Land managers (farmers, advisers, and support services) 
+face burdens and new demands in engaging in carbon 
+accounting, voluntary soil carbon markets, and carbon farm-
+ing (Buck and Palumbo-Compton 2022; Kragt et al. 2017; 
+Green Finance Institute 2023). They struggle to assess the 
+inherent uncertainties and credibility of different knowledge 
+claims about soil carbon (Ingram et al. 2016). They have to 
+navigate market, policy and supply chain mechanisms, nego-
+tiate different narratives, and understand complex concepts, 
+terms, and metrics. Limited farmer knowledge and advisory 
+capacity with respect to soil carbon management practices 
+has been previously revealed (Kragt et al. 2017; Aslam et al. 
+2017; Ingram and Mills 2019), specifically their understand-
+ing of soil carbon dynamics and the relationship between 
+soil carbon stocks and flows, and between fast and slow vari-
+ables (Mattila et al. 2022; Frelih-Larsen et al. 2020). It has 
+also been found that those who are more knowledgeable can 
+be the most sceptical about carbon sequestration (Ma and 
+Coppock 2012).
+Baumber et al. (2020) found that shared values, world-
+views, and land use norms strongly affected community 
+acceptance of carbon farming. Hence, the importance of 
+building soil capabilities and facilitating farmer learning 
+networks and communities for soil management and social 
+capital (Ingram 2010; Guan et al. 2021; Skaalsveen et al. 2020) takes on a new significance in the context of this 
+emerging soil-based carbon economy. Furthermore, carbon 
+farming options need to be designed for specific soil, politi-
+cal, economic, and ecological contexts (Moinot et al. 2023; 
+Chausson et al. 2023) and take into account the farmers’ 
+behavioural control capability (Guan et al. 2021). This is 
+recognised by the government in the UK who acknowledge 
+that accessing nature markets can be complicated and may 
+be a new experience for most farmers. They have commis-
+sioned an online toolkit to help farmers identify and access 
+private payments for environmental benefits building on pre-
+vious work (GFI 2023). Using toolkits like these, it is pos-
+sible that a move to a soil-based carbon economy could help 
+to build knowledge about soil and carbon markets, offering 
+net gains for soil health and the delivery of soil ecosystem 
+services.
+Although previous studies have developed carbon capa-
+bility frameworks for the public (Whitmarsh et al. 2011; Wei 
+et al. 2016) and for farmers (Guan et al. 2021), these ignore 
+the wider ecosystem services from soil and existing rela-
+tionships with soil. There is a strong argument for building 
+knowledge capabilities as part of a wider soil carbon literacy . 
+Literacies are seen as ‘socio-technical’; this is particularly 
+the case with soil carbon as skills are implicated in wider 
+socio-political (regulation and governance) and corporate 
+(business models and monetisation) aspects. They can also 
+be sites of struggle, built around the contextual knowledge 
+and diverse experiences that shape relationships (McCosker 
+et al. 2022). By connecting the notion of ‘situated literacies’ 
+(Barton et al. 2000) to soil carbon, we can emphasise the 
+need to understand transformations in the communicative, 
+social, and relational contexts through which soil carbon 
+knowledge and data are produced and traded. This literacy 
+needs to develop across all actors in the AKIS. This raises 
+the following research questions:
+To what extent do actors have knowledge capabilities 
+to understand soil carbon dynamics, metrics, methods, 
+and markets? How is this understanding of soil car -
+bon as situated literacy distributed across actors in the 
+AKIS? How do individuals develop knowledge and 
+political capabilities, and how do these actions inter -
+play with how carbon is known and valued? Can cross 
+sector interaction strengthen capabilities?
+Conclusion
+This paper highlights the need to consider the processes and 
+relations in the political, knowledge, technical, and socio-
+material complex that characterise the emergence of a soil-
+based carbon economy. Conceptualising this emerging econ-
+omy as a set of interactions and outcomes among the SES 
+607 Sustainability Science (2025) 20:597–611 
+tier components of governance, resource systems, resource 
+units, and actors provides a novel means for identifying five 
+research agenda themes, as shown in Fig.  2.
+The multiplicity of issues identified shows that relevant 
+research hitherto has been dispersed and addressed from a 
+number of disciplines and perspectives. The interconnection 
+between the themes calls for integration in future research 
+approaches and for combining disciplinary perspectives 
+through trans- and inter-disciplinarity. However, the meth-
+odological pluralism that characterises SES and other sys-
+tems approaches creates challenges in understanding this 
+system complexity (De Vos et al. 2019).
+SES is intended here as a high-level conceptual frame-
+work to identify research themes through the diagnosis of 
+contestations in interactions and outcomes. With respect 
+to operationalising this concept to address the themes and 
+research questions identified here, it can help scholars 
+deconstruct the system complexity, identify at what con -
+ceptual level their research is located, and suggest a logi -
+cal entry point to analysis that suits their specific research 
+questions of interest (Ostrom 2009). Specifically, the SES 
+framework provides variables (for the four main tiers and 
+the tiers nested below them) which can be used to create 
+theoretically grounded indicators. Although these variables 
+are derived empirically for collective action and sustainable 
+common pool resource use (Partelow 2018; Schlüter et al. 
+2019), some are relevant to the contestations discussed here. 
+The interactions and outcomes (the action situation) can also 
+be taken as the focal unit of analysis, although decisions 
+about the activities to include, which processes to represent, 
+and where to set system boundaries in an analysis depend 
+on the question or phenomenon of interest (Schlüter et al. 
+2019 ). Most SES empirical work is typically more place 
+based (e.g. de Vos et al. 2019 ), whereas soil-based carbon 
+economy contestations may extend across spatial and institu-
+tional scales with important feedbacks between the multiple 
+levels of its constituent scales (Glaser and Glaeser 2014).
+Although there are limitations, the framework never -
+theless offers a valuable heuristic for operationalising this 
+research agenda to investigate contestations associated 
+with the soil-based carbon economy. Selected variables 
+for the main tiers could include: government, NGO, and 
+supply chain organisations (governance); agricultural/
+land-based sectors (resource system); economic value and 
+beneficiaries of carbon credits (resource unit); and buyers 
+and sellers of carbon credits (actors). Interaction variables 
+can include deliberative processes and monitoring activi-
+ties and conflicts, while outcome variables can include 
+some measure of social benefit (empowerment, revenue) 
+and soil carbon sequestration performance. With respect 
+to scale (dimension of analysis) and level (the unit of 
+analysis) (after Cash et al. 2006), higher levels of spatial  
+(global, country), jurisdictional (national and regional), and institutional (laws and regulations) scales can capture 
+the scope and the heterogeneity in meanings, actors, and 
+strategies in this developing economy, while landscape 
+and more local level spatial scales, alongside local and 
+regional levels of jurisdictions and rules (e.g. MRV) in 
+institutions, provide insights at a finer resolution. Network  
+scale (levels of family, group, and society) and knowledge  
+scale (levels of universal–context and general–expert) are 
+particularly important to reveal the constellation of actors 
+and the power and knowledge processes in this emerg-
+ing economy. Regarding approaches and methods, given 
+the nascent form of the economy, research methodologies 
+that track ‘market-in-the-making’ processes and prac-
+tices are important, as assemblages are formed (Konefal 
+et al. 2022), alongside social research methods to better 
+understand how metrics order and structure behaviours 
+and practices (Rosin et al. 2017 ). Case study approaches 
+(sector and initiative based) using methods such as social 
+network analysis, Netmap analysis, and discourse analysis 
+can reveal knowledge contestations. Critically, such stud-
+ies can help foreground analysis of power relations that 
+can attend to the human actors and their relations with 
+soils, institutional settings, and broader narratives and dis-
+courses, as well as identify how political and knowledge 
+capabilities can be built. Table  2 illustrates how research 
+might be designed for the theme marketisation, abstrac-
+tion, and technogovernance.
+Although this paper has focused on the emerging soil-
+based carbon economy in the UK, drawing on the interna -
+tional literature and experiences ensures that the analysis 
+has wider resonance and can inform conceptualisations 
+and research agendas in other contexts. Given the sig-
+nificant role of green finance and private sector actors, 
+researchers need to engage with frameworks for antici-
+patory governance and responsible innovation to envis-
+age and steer future developments (Battersby et al. 2022). 
+This is particularly urgent with the increasing emphasis 
+on green business models in soil carbon sequestration ini-
+tiatives for mitigation. Looking towards the future, some 
+scholars envisage that by 2050, the “current discrete mar -
+ket-based solutions in climate action will become inter -
+nalised aspects of our economies rather than separate 
+remediations” (Miltenberger et al. 2021 , p1) and should 
+be given leeway to improve and fulfil this. Robust research 
+has a clear role in such a transition, to inform both the pub-
+lic and private forms of governance, both instrumentally 
+by strengthening the evidence base, and conceptually by 
+prompting new thinking and debates about soil carbon mit-
+igation trajectories with respect to sustainability, equity, 
+integrity, and accountability. Equally, those scholars with 
+fundamental concerns about offset markets and environ-
+mental justice will need to marshal their research plans to 
+support further advocacy.
+608 Sustainability Science (2025) 20:597–611
+Open Access This article is licensed under a Creative Commons Attri-
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, 
+provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in 
+the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a 
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+References
+Amelung W, Bossio D, de Vries W, Kögel-Knabner I, Lehmann 
+J, Amundson R, Bol R, Collins C, Lal R, Leifeld J (2020) 
+Towards a global-scale soil climate mitigation strategy. Nat 
+Commun 11:5427
+Amin MN, Hossain MS, de Bruyn LL, Wilson B (2020) A systematic 
+review of soil carbon management in Australia and the need 
+for a social-ecological systems framework. Sci Total Environ 
+719:135182
+Amin MN, Lobry De Bruyn L, Hossain MS, Lawson A, Wilson 
+B (2023) The social-ecological system of farmers’ current 
+soil carbon management in australian grazing lands. Environ 
+Manag 72(2):294–308
+Amundson R, Biardeau L (2018) Soil carbon sequestration is 
+an elusive climate mitigation tool. Proc Natl Acad Sci 
+115:11652–11656
+Aslam U, Termansen M, Fleskens L (2017) Investigating farmers’ 
+preferences for alternative PES schemes for carbon sequestra-
+tion in UK agroecosystems. Ecosyst Serv 27:103–112
+Baggaley N, Britton A, Sandison F, Lilly A, Stutter M, Rees R, Reed 
+M, Buckingham S (2022) Understanding carbon sequestration 
+from nature-based solutions. The James Hutton Institute
+Banerjee A, Rahn E, Läderach P, Hoek RVD (2013) Shared value: 
+agricultural carbon insetting for sustainable, climate-smart 
+supply chains and better rural livelihoods. CIAT Policy Brief
+Barbato CT, Strong AL (2023) Farmer perspectives on carbon mar -
+kets incentivizing agricultural soil carbon sequestration. Npj 
+Clim Action 2:26
+Bardgett R, Van Wensem J (2020) Soil as natural capital. KVAB 
+Thinkers’ Programme
+Barton D, Hamilton M, Ivaniúc R (2000) Situated literacies. Rout-
+ledge, London
+Battersby F, Heap RJ, Gray AC, Workman M, Strivens F (2022) The 
+role of corporates in governing carbon dioxide removal: outlin-
+ing a research agenda. Front Clim 4:686762
+Baumber A, Waters C, Cross R, Metternicht G, Simpson M (2020) 
+Carbon farming for resilient rangelands: people, paddocks and 
+policy. Rangel J 42:293–307
+Baveye PC (2023) Ecosystem-scale modelling of soil carbon dynam-
+ics: time for a radical shift of perspective? Soil Biol Biochem 
+184:109112
+Bennett DE, Gosnell H (2015) Integrating multiple perspectives on 
+payments for ecosystem services through a social–ecological 
+systems framework. Ecol Econ 116:172–181
+Benton D, Plumpton H, Elliott J, Kleczka J (2021) Natural capital: 
+the battle for control. Green Alliance, London
+Berbés-Blázquez M, González JA, Pascual U (2016) Towards an 
+ecosystem services approach that addresses social power rela-
+tions. Curr Opin Environ Sustain 19:134–143Table 2  Research design considerations for the theme: marketisation, abstraction, and technogovernance
+a Scale is defined as ‘the spatial, temporal, quantitative or analytical dimensions used to measure and study any phenomenon’ and levels as ‘the units of analysis that are located at different 
+positions on a scale’ (Glaser and Glaeser 2014). The critical system scales for understanding and responding to human environment interactions, each with their appropriate level (in brackets), 
+include: spatial (areas), temporal (rates, etc.), jurisdictional (administration), institutional (rules), management (plans), networks (links), knowledge (truths), and ecosystems (outputs) (Cash 
+et al. 2006)Example theme and research 
+questionMain tier—selected variables Interactions—selected vari-
+ablesOutcomes—selected variables Scale—dimension of inves-
+tigation and level—units of 
+ analysisaApproaches and methods
+Marketisation, abstraction 
+and technogovernance
+What are the implications of 
+soil carbon commodification 
+and abstraction processes 
+for farmer and practitioner 
+communities?Govt., NGO, supply chain, 
+and sector organisations
+Resource system—sector
+Resource unit—economic 
+value (distribution of 
+benefit)
+Actors—buyers and sellers, 
+-type, power and normsDeliberative processes
+Monitoring activities
+Conflicts
+Investment activities
+Supply chain activities
+Standardisation activitiesSocial performance measures 
+(empowerment, just carbon 
+credit payments)
+Soil carbon sequestration 
+performance measuresSpatial and temporal 
+(national, regional, local)Map actors, organisational 
+structures and processes
+Track ‘market-in-the-making’ 
+practices and processes as 
+assemblages are formed
+Case study approach (sec-
+tors)—using e.g. metrology to 
+understand how metrics order 
+and/or structure behaviours & 
+practicesJurisdictional (international, 
+national, regional, local)
+Institutional (regulations, 
+MRV)
+Networks (individual farmers, 
+intermediaries—constella-
+tions of actors)
+Knowledge (general-expert; 
+scientific-contextual)
+609 Sustainability Science (2025) 20:597–611 
+Bernstein AA (2023) The perfect is the enemy of the good: carbon 
+credits and funding for decarbonization in developing coun -
+tries. N Engl J Public Policy 35:4
+Binder CR, Hinkel J, Bots PW, Pahl-Wostl C (2013) Comparison of 
+frameworks for analyzing social-ecological systems. Ecol Soc 18
+Black HI, Reed MS, Kendall H, Parkhurst R, Cannon N, Chapman 
+PJ, Orman M, Phelps J, Rudman H, Whaley S (2022) What 
+makes an operational farm soil carbon code? Insights from a 
+global comparison of existing soil carbon codes using a struc-
+tured analytical framework. Carbon Manag 13:554–580
+Blok A (2016) Configuring homo carbonomicus: carbon markets, 
+calculative techniques, and the green neoliberal. Neoliberalism 
+and Technoscience, Routledge
+Bogojević S (2024) Carbon removals, ecosystems and the European 
+Green Deal. Eur Law Open 3(1):199–208
+Bossio D, Cook-Patton S, Ellis P, Fargione J, Sanderman J, Smith P, 
+Wood S, Zomer R, von Unger M, Emmer I (2020) The role of 
+soil carbon in natural climate solutions. Nat Sustain 3:391–398
+Bradford MA, Carey CJ, Atwood L, Bossio D, Fenichel EP, Gennet 
+S, Fargione J, Fisher JR, Fuller E, Kane DA (2019) Soil carbon 
+science for policy and practice. Nat Sustain 2:1070–1072
+BSI (2024) High-integrity standards framework for UK nature markets
+Buck HJ, Palumbo-Compton A (2022) Soil carbon sequestration as 
+a climate strategy: what do farmers think? Biogeochemistry 
+161:59–70
+Bumpus AG (2011) The matter of carbon: understanding the material-
+ity of tCO2e in carbon offsets. Antipode 43:612–638
+Callon M (2009) Civilizing markets: carbon trading between in vitro 
+and in vivo experiments. Acc Organ Soc 34:535–548
+Callon M (2021) Markets in the making: rethinking competition, 
+goods, and innovation. Princeton University Press, Princeton
+Carton W (2020) Rendering local: the politics of differential knowl -
+edge in carbon offset governance. Ann Am Assoc Geogr 
+110:1353–1368
+Cash DW, Adger WN, Berkes F, Garden P, Lebel L, Olsson P, Pritchard 
+L, Young O (2006) Scale and cross-scale dynamics: governance 
+and information in a multilevel world. Ecol Soc 11
+Cavanagh CJ, Vedeld PO, Petursson JG, Chemarum AK (2021) 
+Agency, inequality, and additionality: contested assemblages 
+of agricultural carbon finance in western Kenya. J Peasant Stud 
+48:1207–1227
+CBI Economics (2024) The UK’S net zero economy. In: Energy and 
+climate intelligence unit (ed)
+Cevallos G, Grimault J, Bellassen V (2019) Domestic carbon standards 
+in Europe-Overview and perspectives. Inconnu
+Chandrasekaran C, Guttal S, Kumar M, Langner L, Manahan MA 
+(2021) Exposing corporate capture of the NFSS through multi-
+stakeholderism. In: Summit, L. G. O. T. P. S. A. R. T. T. U. F. 
+S. (ed)
+Chartier A, Demaze MT (2020) Africa in the international agenda for 
+reducing greenhouse gas emissions: which energy transition for 
+which kind of development? The case of Madagascar. Mondes 
+En Developpement 192:71–88
+Chausson A, Welden E, Melanidis MS, Gray E, Hirons M, Seddon 
+N (2023) Going beyond market-based mechanisms to finance 
+nature-based solutions and foster sustainable futures. PLOS Clim 
+2:e0000169
+Committee on Climate Change (2022) Voluntary carbon markets and 
+offsetting
+COP28 (2023) COP28 UAE Declaration on Sustainable Agriculture, 
+Resilient Food Systems, and Climate Action [Online]. Accessed 
+12 Feb 2024
+Crippa M, Solazzo E, Guizzardi D, Monforti-Ferrario F, Tubiello FN, 
+Leip A (2021) Food systems are responsible for a third of global 
+anthropogenic GHG emissions. Nat Food 2:198–209Davies C, Chen WY, Sanesi G, Lafortezza R (2021) The European 
+Union roadmap for implementing nature-based solutions: a 
+review. Environ Sci Policy 121:49–67
+de Vos A, Biggs R, Preiser R (2019) Methods for understanding social-
+ecological systems: a review of place-based studies. Ecol Soc 
+24:16
+DEFRA (2023) Strategy; the nature markets framework in England
+Demaze T, Moïse C (2021) La compensation carbone volontaire: Struc -
+turation et reconfigurations d'un éco-business. In: La compensa-
+tion carbone volontaire, pp 1–174
+Dumbrell NP, Kragt ME, Gibson FL (2016) What carbon farming 
+activities are farmers likely to adopt? A best–worst scaling sur -
+vey. Land Use Policy 54:29–37
+Eastwood C, Ayre M, Nettle R, Rue BD (2019) Making sense in the 
+cloud: farm advisory services in a smart farming future. NJAS-
+Wagening J Life Sci 90:100298
+Ebersold F, Hechelmann R-H, Holzapfel P, Meschede H (2023) 
+Carbon insetting as a measure to raise supply chain energy 
+efficiency potentials: opportunities and challenges. Energy 
+Convers Manag X 100504
+Elliott J, Ritson J, Reed M, Kennedy-Blundell O (2020) The oppor -
+tunities of agri-carbon markets: policy and practice. Green 
+Alliance and WWF.
+Ensor J, Tuhkanen H, Boyland M, Salamanca A, Johnson K, 
+Thomalla F, Mangada LL (2021) Redistributing resilience? 
+Deliberate transformation and political capabilities in post-
+Haiyan Tacloban. World Dev 140:105360
+European Commission (2021) Sustainable Carbon Cycles. Commu-
+nication from the Commission to the European Parliament and 
+the Council
+FAO (2019) Recarbonization of global soils—a dynamic response 
+to offset global emissions. FAO
+Ferreira C (2017) The contested instruments of a new governance 
+regime: accounting for nature and building markets for biodi-
+versity offsets. Account Audit Account J 30:1568–1590
+Fleming A, Stitzlein C, Jakku E, Fielke S (2019) Missed opportu-
+nity? Framing actions around co-benefits for carbon mitigation 
+in Australian agriculture. Land Use Policy 85:230–238
+Frank S, Lessa Derci Augustynczik A, Havlík P, Boere E, Ermolieva 
+T, Fricko O, Di Fulvio F, Gusti M, Krisztin T, Lauri P (2024) 
+Enhanced agricultural carbon sinks provide benefits for farm-
+ers and the climate. Nat Food 5:742–753
+Freidberg S (2014) Footprint technopolitics. Geoforum 55:178–189
+Frelih-Larsen A, Ittner S, Tarpey J, Olesen JE, Graversgaard M, 
+Claessens L, Emoke Madari B, Razafimbelo TM, Konto-
+boytseva A, Nciizah A (2020) CIRCASA Project-Deliverable 
+D2. 3.: synthesis report on knowledge demands and needs of 
+stakeholders
+Gabrys J, Westerlaken M, Urzedo D, Ritts M, Simlai T (2022) Rework -
+ing the political in digital forests: the cosmopolitics of socio-
+technical worlds. Prog Environ Geogr 1:58–83
+Giller KE, Witter E, Corbeels M, Tittonell P (2009) Conservation agri-
+culture and smallholder farming in Africa: the heretics’ view. 
+Field Crop Res 114:23–34
+Glaser M, Glaeser B (2014) Towards a framework for cross-scale and 
+multi-level analysis of coastal and marine social-ecological sys-
+tems dynamics. Reg Environ Change 14:2039–2052
+Gosnell H (2022) Regenerating soil, regenerating soul: an integral 
+approach to understanding agricultural transformation. Sustain 
+Sci 17:603–620
+Granjou C, Meulemans G (2023) Bringing soils to life in the human 
+and social sciences. Soil Secur 10:100082
+Green Finance Institute (2023) https://  www. green finan  ceins  titute. com/  
+gfihi ve/. Accessed 15 Mar 2024
+610 Sustainability Science (2025) 20:597–611
+Guan X, Ma W, Zhang J, Feng X (2021) Understanding the extent to 
+which farmers are capable of mitigating climate change: a carbon 
+capability perspective. J Clean Prod 325:129351
+Günther P, Garske B, Heyl K et al (2024) Carbon farming, overesti-
+mated negative emissions and the limits to emissions trading in 
+land-use governance: the EU carbon removal certification pro-
+posal. Environ Sci Eur 36:72
+Harrison MT, Cullen BR, Mayberry DE, Cowie AL, Bilotto F, Badgery 
+WB, Liu K, Davison T, Christie KM, Muleke A (2021) Carbon 
+myopia: The urgent need for integrated social, economic and 
+environmental action in the livestock sector. Glob Change Biol 
+27:5726–5761
+Helming K, Daedlow K, Hansjürgens B, Koellner T (2018) Assessment 
+and governance of sustainable soil management. MDPI
+Henderson B, Lankoski J, Flynn E, Sykes A, Payen F, Macleod M 
+(2022) Soil carbon sequestration by agriculture: policy options. 
+OECD Food, Agriculture and Fisheries Papers, No. 174, OECD 
+Publishing, Paris
+Hirons M (2021) Governing natural climate solutions: prospects and 
+pitfalls. Curr Opin Environ Sustain 52:36–44
+Ingram J (2010) Technical and social dimensions of farmer learn-
+ing: an analysis of the emergence of reduced tillage systems in 
+England. J Sustain Agric 34:183–201
+Ingram J, Mills J (2019) Are advisory services “fit for purpose” to 
+support sustainable soil management? An assessment of advice 
+in Europe. Soil Use Manag 35:21–31
+Ingram J, Mills J, Dibari C, Ferrise R, Ghaley BB, Hansen JG, Igle -
+sias A, Karaczun Z, McVittie A, Merante P (2016) Communi-
+cating soil carbon science to farmers: incorporating credibility, 
+salience and legitimacy. J Rural Stud 48:115–128
+Jackson Hammond AA, Motew M, Brummitt CD, Dubuisson ML, 
+Pinjuv G, Harburg DV, Campbell EE, Kumar AA (2021) 
+Implementing the soil enrichment protocol at scale: Opportu-
+nities for an agricultural carbon market. Front Clim 64
+Keenor SG, Rodrigues AF, Mao L, Latawiec AE, Harwood AR, Reid 
+BJ (2021) Capturing a soil carbon economy. R Soc Open Sci 
+8:202305
+King JKK, Granjou C, Fournil J, Cecillon L (2018) Soil sciences and 
+the French 4 per 1000 initiative—the promises of underground 
+carbon. Energy Res Soc Sci 45:144–152
+Konefal J, Hatanaka M, Strube J, Glenna L, Conner D (2022) Sus-
+tainability assemblages: from metrics development to metrics 
+implementation in United States agriculture. J Rural Stud 
+92:502–509
+Kosoy N, Corbera E (2010) Payments for ecosystem services as com-
+modity fetishism. Ecol Econ 69:1228–1236
+Kragt ME, Pannell DJ, Robertson MJ, Thamo T (2012) Assessing 
+costs of soil carbon sequestration by crop-livestock farmers in 
+Western Australia. Agric Syst 112:27–37
+Kragt ME, Dumbrell NP, Blackmore L (2017) Motivations and barri-
+ers for Western Australian broad-acre farmers to adopt carbon 
+farming. Environ Sci Policy 73:115–123
+Krzywoszynska A, Marchesi G (2020) Toward a relational material -
+ity of soils: introduction. Environ Humanit 12:190–204
+Lal R (2016) Soil health and carbon management. Food Energy 
+Secur 5:212–222
+Lawhon M, Murphy JT (2012) Socio-technical regimes and sustain -
+ability transitions: insights from political ecology. Prog Hum 
+Geogr 36:354–378
+Leach M, Fairhead J, Fraser J (2014) Green grabs and biochar: reval-
+uing African soils and farming in the new carbon economy. 
+In: Green grabbing: a new appropriation of nature. Routledge
+Lyons K, Westoby P (2014) Carbon colonialism and the new land 
+grab: plantation forestry in Uganda and its livelihood impacts. 
+J Rural Stud 36:13–21Ma Z, Coppock DL (2012) Perceptions of Utah ranchers toward car -
+bon sequestration: policy implications for US rangelands. J 
+Environ Manag 111:78–86
+Macdonald (2022) Carbon farming making agriculture fit for 2030
+Mackenzie D (2009) Making things the same: gases, emission rights 
+and the politics of carbon markets. Acc Organ Soc 34:440–455
+Mattila TJ, Hagelberg E, Söderlund S, Joona J (2022) How farmers 
+approach soil carbon sequestration? Lessons learned from 105 
+carbon-farming plans. Soil Tillage Res 215:105204
+Mcafee K (2016) Green economy and carbon markets for conserva-
+tion and development: a critical view. Int Environ Agreem Polit 
+Law Econ 16:333–353
+McCosker A, Yao X, Albury K, Maddox A, Farmer J, Stoy -
+anovich J (2022) Developing data capability with non-profit 
+organisations using participatory methods. Big Data Soc 
+9:20539517221099880
+Mcginnis MD, Ostrom E (2014) Social-ecological system frame-
+work: initial changes and continuing challenges. Ecol Soc 19
+Mcglade J, Morris KF (2023) Soil carbon farming has the potential 
+to bridge the global emissions gap. UCL Open: Environment 
+Preprint
+McGuire R, Williams PN, Smith P, McGrath SP, Curry D, Donnison I, 
+Emmet B, Scollan N (2022) Potential co-benefits and trade-offs 
+between improved soil management, climate change mitigation 
+and agri-food productivity. Food Energy Secur 11:e352
+McKenzie AJ, Emery SB, Franks JR, Whittingham MJ (2013) 
+Landscape-scale conservation: collaborative agri-environment 
+schemes could benefit both biodiversity and ecosystem ser -
+vices, but will farmers be willing to participate? J Appl Ecol 
+50:1274–1280
+Mills J, Ingram J, Dibari C, Merante P, Karaczun Z, Molnar A, Sánchez 
+B, Iglesias A, Ghaley BB (2019) Barriers to and opportunities 
+for the uptake of soil carbon management practices in European 
+sustainable agricultural production. Agroecol Sustain Food Syst 
+44:1185–1211
+Miltenberger O, Jospe C, Pittman J (2021) The good is never perfect: 
+why the current flaws of voluntary carbon markets are services, 
+not barriers to successful climate change action. Front Clim 
+3:130
+Minasny B, Malone BP, McBratney AB, Angers DA, Arrouays D, 
+Chambers A, Chaplot V, Chen Z-S, Cheng K, Das BS (2017) 
+Soil carbon 4 per mille. Geoderma 292:59–86
+Moinet GY, Hijbeek R, van Vuuren DP, Giller KE (2023) Carbon for 
+soils, not soils for carbon. Glob Change Biol 29:2384–2398
+Nel A (2017) Contested carbon: carbon forestry as a speculatively 
+virtual, falteringly material and disputed territorial assemblage. 
+Geoforum 81:144–152
+Newell P, Taylor O (2018) Contested landscapes: the global politi-
+cal economy of climate-smart agriculture. J Peasant Stud 
+45:108–129
+Oldfield EE, Eagle AJ, Rubin RL, Rudek J, Sanderman J, Gordon DR 
+(2022) Crediting agricultural soil carbon sequestration. Science 
+375:1222–1225
+Ostrom E (2009) A general framework for analyzing sustainability of 
+social-ecological systems. Science 325:419–422
+Partelow S (2018) A review of the social-ecological systems frame-
+work. Ecol Soc 23
+Paul C, Bartkowski B, Dönmez C, Don A, Mayer S, Steffens M, Weigl 
+S, Wiesmeier M, Wolf A, Helming K (2023) Carbon farming: are 
+soil carbon certificates a suitable tool for climate change mitiga-
+tion? J Environ Manag 330:117142
+Phelan L, Chapman PJ, Ziv G (2022) Reconciling farmers’ expecta -
+tions with the demands of the emerging UK agricultural soil 
+carbon market
+611 Sustainability Science (2025) 20:597–611 
+Powlson DS, Gregory PJ, Whalley WR, Quinton JN, Hopkins DW, 
+Whitmore AP, Hirsch PR, Goulding KWT (2011) Soil manage-
+ment in relation to sustainable agriculture and ecosystem ser -
+vices. Food Policy 36:S72–S87
+Reed MS, Curtis T, Gosal A, Kendall H, Andersen SP, Ziv G, Attlee 
+A, Fitton RG, Hay M, Gibson AC (2022) Integrating ecosys-
+tem markets to co-ordinate landscape-scale public benefits from 
+nature. PLoS ONE 17:e0258334
+Reed MS, Mccarthy JM, Jensen EA, Rudman H (2024) Governing 
+high-integrity markets for ecosystem services. Eartharxiv.
+Robinson D, Fraser I, Dominati E, Davíðsdóttir B, Jónsson J, Jones 
+L, Jones S, Tuller M, Lebron I, Bristow K (2014) On the value 
+of soil resources in the context of natural capital and ecosystem 
+service delivery. Soil Sci Soc Am J 78:685–700
+Rodrigo-Comino J, López-Vicente M, Kumar V, Rodríguez-Seijo A, 
+Valkó O, Rojas C, Pourghasemi HR, Salvati L, Bakr N, Vau-
+dour E (2020) Soil science challenges in a new era: a trans-
+disciplinary overview of relevant topics. Air Soil Water Res 
+13:1178622120977491
+Rosin C, Campbell H, Reid J (2017) Metrology and sustainability: 
+Using sustainability audits in New Zealand to elaborate the com-
+plex politics of measuring. J Rural Stud 52:90–99
+RSK ADAS LTD (2023) Harmonisation of carbon accounting tools for 
+agriculture. In: Report for Defra U (ed)
+Rumpel C, Amiraslani F, Koutika L-S, Smith P, Whitehead D, Wol-
+lenberg E (2018) Put more carbon in soils to meet Paris climate 
+pledges. Nature Publishing Group, London
+Saifuddin M, Abramoff RZ, Foster EJ, McClelland SC (2024) Soil 
+carbon offset markets are not a just climate solution. Front Ecol 
+Environ 22:e2781
+Scheidel A (2019) Carbon stock indicators: reductionist assessments 
+and contentious policies on land use. J Peasant Stud 46:913–934
+Schlüter M, Haider LJ, Lade SJ, Lindkvist E, Martin R, Orach K, 
+Wijermans N, Folke C (2019) Capturing emergent phenomena 
+in social-ecological systems. Ecol Soc 24
+Schumacher JM (2023) Framing REDD+: political ecology, actor–net-
+work theory (ANT), and the making of forest carbon markets. 
+Geogr Helv 78:255–265
+Scottish Land Commission (2023) Natural capital and land reform- 
+next steps for a just transition. Scottish Land Comission, Scottish 
+Government
+Skaalsveen K, Ingram J, Urquhart J (2020) The role of farmers’ social 
+networks in the implementation of no-till farming practices. 
+Agric Syst 181:102824
+Smith P, Davies CA, Ogle S, Zanchi G, Bellarby J, Bird N, Boddey 
+RM, McNamara NP, Powlson D, Cowie A (2012) Towards an integrated global framework to assess the impacts of land use 
+and management change on soil carbon: current capability and 
+future vision. Glob Change Biol 18:2089–2101
+Smith P, Soussana JF, Angers D, Schipper L, Chenu C, Rasse DP, 
+Batjes NH, van Egmond F, McNeill S, Kuhnert M (2020) How 
+to measure, report and verify soil carbon change to realize the 
+potential of soil carbon sequestration for atmospheric greenhouse 
+gas removal. Glob Change Biol 26:219–241
+Stoll C, Klaaßen L, Gallersdörfer U (2019) The carbon footprint of 
+bitcoin. Joule 3:1647–1661
+Sykes AJ, Macleod M, Eory V, Rees RM, Payen F, Myrgiotis V, Wil-
+liams M, Sohi S, Hillier J, Moran D (2020) Characterising the 
+biophysical, economic and social impacts of soil carbon seques -
+tration as a greenhouse gas removal technology. Glob Change 
+Biol 26:1085–1108
+Tang K, Kragt ME, Hailu A, Ma C (2016) Carbon farming economics: 
+what have we learned? J Environ Manag 172:49–57
+Twyman C, Smith TA, Arnall A (2015) What is carbon? Conceptualis-
+ing carbon and capabilities in the context of community seques-
+tration projects in the global South. Wiley Interdiscip Rev Clim 
+Change 6:627–641
+UNEP (2021) State of finance for nature report
+van der Horst D, Evans J (2010) Carbon claims and energy land-
+scapes: exploring the political ecology of biomass. Landsc Res 
+35:173–193
+Vermeulen S, Bossio D, Lehmann J, Luu P, Paustian K, Webb C, Augé 
+F, Bacudo I, Baedeker T, Havemann T (2019) A global agenda 
+for collective action on soil carbon. Nat Sustain 2:2–4
+Watt R (2021) The fantasy of carbon offsetting. Environ Polit 
+30:1069–1088
+Wei J, Chen H, Cui X, Long R (2016) Carbon capability of urban 
+residents and its structure: evidence from a survey of Jiangsu 
+Province in China. Appl Energy 173:635–649
+Whitmarsh L, Seyfang G, O’Neill S (2011) Public engagement with 
+carbon and climate change: to what extent is the public ‘carbon 
+capable’? Glob Environ Chang 21:56–65
+Yumashev D, Janes-Bassett V, Redhead JW, Rowe EC, Davies J (2022) 
+Terrestrial carbon sequestration under future climate, nutrient 
+and land use change and management scenarios: a national-scale 
+UK case study. Environ Res Lett 17:114054
+Publisher's Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.

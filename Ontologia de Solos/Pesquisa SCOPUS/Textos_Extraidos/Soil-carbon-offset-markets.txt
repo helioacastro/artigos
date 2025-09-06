@@ -1,0 +1,726 @@
+© 2024 The Author(s). Frontiers in Ecology and the Environment published by Wiley Periodicals LLC on behalf of The Ecological Society of America.Soil carbon offset markets are not a just climate 
+solution
+Mustafa Saifuddin1,2*, Rose Z Abramoff3, Erika J Foster4, and Shelby C McClelland1,5
+There is growing interest in enhancing soil carbon sequestration (SCS) as a climate mitigation strategy, including neutralizing 
+atmospheric emissions from fossil-  fuel combustion through the development of soil carbon offset markets. Several studies have 
+focused on refining estimates of the magnitude of potential SCS or on developing methods for soil carbon quantification in mar -
+kets. We call on scientists and policy makers to resist assimilating soils into carbon offset markets due to not only fundamental 
+flaws in the logic of these markets to reach climate neutrality but also environmental justice concerns. Here, we first highlight how 
+carbon offset markets rely on an inappropriate substitution of inert fossil carbon with dynamic stocks of soil carbon. We then note 
+the failure of these markets to account for intersecting anthropogenic perturbations to the carbon cycle, including the soil carbon 
+debt and ongoing agricultural emissions. Next, we invite scientists to consider soil functions beyond productivity and profitabil -
+ity. Finally, we describe and support historical opposition to offset markets by environmental justice advocates. We encourage 
+scientists to consider how their research and communications can promote diverse soil functions and just climate-  change 
+ mitigation.
+Front Ecol Environ 2024; 22(7): e2781, doi:10.1002/fee.2781
+Soil carbon is for sale. Shifts in land use can increase soil 
+organic carbon stocks relative to current levels, and these 
+potentials have been commodified in markets (Paustian 
+et al. 2016; Fargione et al . 2018; Bradford et al . 2019; Vermeulen 
+et al . 2019; Bossio et al . 2020). As global markets adapt to (i) 
+climate change, (ii) potential regulatory pressures, and (iii) 
+consumers’ environmental concerns, payments for soil carbon 
+sequestration (SCS) have been proposed by corporations, 
+organizations, and governmental agencies as a strategy to 
+deliver climate- change mitigation. Among a variety of pro-
+posed market- based solutions to climate change, soil carbon 
+on agricultural lands can now be purchased as an offset to 
+“neutralize” activities responsible for direct greenhouse- gas 
+(GHG) emissions (Trouwloon et al . 2023). These offsets are 
+sometimes used to support net- zero targets in GHG budgets for facilities, supply chains, and regional inventories (Keenor 
+et al . 2021; Zelikova et al . 2021; Oldfield et al . 2022; Gelardi 
+et al . 2023; Paul et al . 2023; USDA 2023). Here, we posit that 
+this approach is fundamentally flawed and incongruous with 
+environmental justice principles.
+Soil carbon offsets are one strategy among several market- 
+based approaches to climate mitigation. There are currently 
+four compliance- based carbon offset markets in the US (USDA 
+2023). These markets allow regulated facilities to comply with 
+their legal requirements to reduce GHG emissions by purchas-
+ing carbon offsets. In the US, these offset markets have gener -
+ated credits for more than 200 million metric tons of carbon 
+dioxide equivalents (t CO2e) between 2013 and 2022, primar- 
+ily issued in the context of compliance- based markets 
+(USDA  2023). In addition, there are more than a dozen volun-
+tary carbon offset markets in the US, which allow users to 
+trade carbon credits outside of regulatory emission reductions 
+requirements, often for the purpose of making climate- related 
+claims in marketing. More broadly, in an analysis of climate 
+neutrality commitments made by 482 large companies across 
+sectors and across countries, nearly half of those companies 
+explicitly intend to rely on offsets to achieve these commit-
+ments, with most of the remaining half unclear about the 
+degree to which offsets will be relied upon (Kreibich and 
+Hermwille 2021).
+Several recent studies have provided evidence to temper 
+enthusiasm about the climate mitigation potential of SCS. 
+Initial proposals for developing soil carbon offset markets 
+have been critiqued for inflated estimates of SCS potential 
+due to their failure to consider the limited capacity for min-
+eral soils to sorb additional inputs (Abramoff et al . 2021),  
+the increasing vulnerability of soil carbon stocks to 1New York University, New York, NY *(mustafa.s@nyu.edu); 
+2Earthjustice, Sustainable Food and Farming Program, New York, 
+NY; 3Ronin Institute, Montclair, NJ; 4Point Blue Conservation Science, 
+Petaluma, CA; 5Cornell University, Ithaca, NYIn a nutshell:
+• Soil carbon offset markets attempt to substitute inert fossil 
+carbon stocks with dynamic soil carbon stocks
+• The soil carbon debt must be restored in addition to, 
+rather than instead of, reducing direct emissions
+• Soil carbon offset markets account poorly for soil functions 
+beyond carbon storage
+• Offset markets can perpetuate environmental injustice, 
+including by exacerbating disparitiesCONCEPTS AND QUESTIONS   1 of 7
+
+Front Ecol Environ  doi:10.1002/fee.2781
+M Saifuddin et al .decomposition under climate change (Riggers et al . 2021), 
+the impracticability of increasing inputs to the magnitude 
+required to achieve proposed soil carbon targets (Berthelin 
+et al . 2022; Bruni et al . 2022; Janzen et al . 2022; Moinet 
+et al . 2023), and other processes regulating carbon storage 
+(Davidson  2022; Schlesinger  2022). Concerns related to soil 
+carbon offset markets extend beyond the need to refine esti-
+mates for the magnitude of potential SCS or mere improve-
+ments to methods for measuring, monitoring, and verifying 
+changes to soil carbon stocks. While we recognize the 
+importance of improved quantification, we invite scientists 
+to consider fundamental flaws to the logic of climate- change 
+neutralization via soil carbon offset markets and broadly 
+interrogate how their work supports or resists ongoing 
+fossil-  fuel extraction, shapes political possibilities, and 
+intersects with climate justice.
+Navigating carbon offset markets may be relatively new to 
+soil scientists; however, we can learn from the expertise of 
+environmental justice advocates who have organized around 
+issues of environmental degradation and developed positions 
+on offset market- based mitigation strategies for decades. Many 
+environmental justice advocates and frontline communities 
+have a long history of opposition to market- based solutions to 
+climate change (Cushing et al . 2018; CJA  2020; CorpWatch  2002; 
+IEN  2023). We propose that scientists and policy makers learn 
+from these lessons and join us to advocate for keeping offset 
+markets out of soil.
+Here, we outline four reasons to be wary of soil carbon 
+offset markets for climate neutrality, ranging from biophysi-
+cal limitations to environmental justice concerns. We focus 
+our discussion on offset markets, which are a subset of 
+market- based strategies to incentivize SCS, specifically relat-
+ing to trading enhancements in SCS in one location to neu-
+tralize emissions elsewhere. This commentary is not a critique 
+of soil stewardship, restoration, conservation, or preservation 
+efforts. Rather, we invite scientists and policy makers to 
+reframe the role of soils in climate- change mitigation beyond 
+the commodification of soil as GHG offsets, especially where 
+regulatory or otherwise mandatory direct emissions reduc-
+tions are possible, and to critically consider environmental 
+justice in the development of climate solutions.
+Dynamic soil organic carbon is not a substitute for 
+fossil carbon
+Soil organic matter is part of the dynamic carbon cycle. 
+Carbon in soil can accumulate, saturate, disperse, and 
+decompose through a diversity of biogeochemical inter-
+actions, including inputs from leaf litter, plant roots, and 
+microbial necromass, and outputs from decomposition by 
+bacteria, archaea, and fungi (Jackson et al.  2017; Berhe 
+et al.  2018). Microbial community dynamics, mineral 
+interactions, climate, and other factors impact whether 
+soil organic carbon persists for days, decades, or centuries 
+(Sierra et al.  2018; Bailey et al.  2019; Cotrufo et al.  2019; Wiesmeier et al.  2019; Shi et al.  2020). However, even 
+the oldest soil organic carbon is hundreds of millions of 
+years younger than fossil carbon stored deep underground 
+(and a greater disparity would exist in the absence of 
+anthropogenic fossil- fuel emissions; Sierra et al.  2018). 
+Due to rapid mineralization by soil microorganisms, less 
+than 10% of organic matter inputs are likely to remain 
+in soil a decade after their addition (Berthelin et al.  2022). 
+In contrast, in the absence of industrial extraction, fossil 
+carbon is largely inert and is not closely linked with sea-
+sonal to decadal biological fluxes of carbon. Thus, inert 
+stocks of fossil carbon inherently differ from even the 
+most persistent stocks of soil organic carbon in terms of 
+the timescales at which this carbon is likely to cycle through 
+the atmosphere.
+Soil carbon offset markets often obfuscate these distinc-
+tions. Actors within offset markets may frame the dynamic 
+nature of soil carbon as a limitation circumventable through 
+advancements in technology and land- use management. For 
+example, many offset market participants claiming neutrality 
+treat these fundamental differences in permanence as uncer -
+tainties that may be refined through improvements in biogeo-
+chemical and economic modeling or by framing permanence 
+as an issue primarily shaped by land management decisions 
+potentially addressed through contractual language and buff-
+ers (Demenois et al . 2022). Certainly, it will be critical to 
+develop a better understanding of factors impacting persis-
+tence, including the ways in which sociopolitical drivers shape 
+land- use practices (Gosnell et al . 2019, 2020; Silva  2022). 
+However, efforts to characterize the effects of soil management 
+will not change the fact that fundamental differences exist 
+between inert fossil carbon stocks and dynamic, biogenic soil 
+carbon stocks.
+The impermanence, volatility, and transitory nature of some 
+forms of soil carbon are not necessarily flaws in need of correc-
+tion. The dynamism of soil organic matter is a critical ecosys-
+tem function, as decomposition makes nutrients available for 
+re- uptake by organisms, enabling plant and microbial growth 
+(for further discussion, see the section “Soils are more than 
+carbon sinks” below). For example, direct releases of carbon 
+from soils through microbial respiration are a function of 
+decomposer activities, and this biological activity is even 
+included in assessments of soil health (Allen et al . 2011). In 
+this way, active cycling of carbon can be a critical component 
+of soil function that is overlooked by offset markets that exclu-
+sively seek to increase belowground stores of carbon to make 
+carbon neutrality claims.
+Restoring prior losses of soil carbon cannot neutralize 
+ongoing direct emissions, including those from land- 
+based sectors
+Anthropogenic activities have multiple, intersecting 
+impacts on the carbon cycle and climate. First, fossil- fuel 
+combustion has removed 445 ± 20 petagrams of carbon 2 of 7   CONCEPTS AND QUESTIONS
+ 15409309, 2024, 7, Downloaded from https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2781 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Front Ecol Environ  doi:10.1002/fee.2781
+Keeping offset markets out of soil(Pg C) from belowground fossil carbon stocks, transferring 
+previously inert carbon into the biosphere (Friedlingstein 
+et al.  2020). Second, agricultural activities and other land-  
+use conversions can lead to removals of organic carbon 
+from surface soils. The cumulative loss of 116 Pg C from 
+the upper 2 m of soil globally over the past 12,000 years 
+of land use has been termed the soil carbon debt 
+(Sanderman et al.  2017). Third, agricultural land use 
+incurs a carbon opportunity cost, or a reduction in seques-
+tration relative to that which would occur over time in 
+the absence of agriculture (Hayek et al.  2021). As a spe-
+cific example, the cumulative carbon opportunity cost of 
+land use for livestock production globally is comparable 
+in order of magnitude to the past decade of fossil- fuel 
+emissions, in the hundreds of petagrams of carbon (Hayek 
+et al.  2021). Fourth, agricultural activities result in addi-
+tional direct emissions, including carbon dioxide (CO2) 
+emissions from farm equipment, methane from livestock 
+and manure, and nitrous oxide from fertilizer use. Offset 
+markets fail to account for these overlapping impacts to 
+the carbon cycle and climate, or in some cases, obscure 
+ongoing emissions and prior losses from within the agri-
+cultural sector (Paul et al.  2023). While increases in soil 
+carbon may most directly address the soil carbon debt, 
+offset markets propose that instead we credit efforts to 
+restore soil carbon as an excuse for ongoing direct 
+emissions.
+Estimates of prior losses of soil organic carbon, like the 
+soil carbon debt, have been used to calculate the potential 
+for restoring soil carbon stocks on agricultural lands relative 
+to current levels. These studies have formed the basis for a 
+wide range of global and regional targets for increasing soil 
+carbon, as well as revisions to previous estimates (Fargione 
+et al . 2018; Amelung et al . 2020; Bossio et al . 2020; Berthelin 
+et al . 2022; Bruni et al . 2022; Moinet et al . 2023). Rather than 
+viewing the potential for SCS as an opportunity to neutralize 
+fossil- fuel emissions via offset markets, these quantifications 
+of prior soil carbon losses should be understood as their own 
+distinct debt to be restored through shifts in soil 
+management.
+Distinguishing between the soil carbon debt, fossil carbon 
+emissions, and changes in carbon sequestration is particu-
+larly important in the development of counterfactuals used 
+to determine additionality  within carbon offset markets. 
+Additionality is the point at which increased carbon storage 
+in one location is attributed to have occurred as a result of a 
+given market intervention and therefore used to excuse 
+emissions elsewhere. To determine which gains in soil car -
+bon are deemed additional and eligible for compensation, 
+offset markets compare soil carbon quantities under alterna-
+tive scenarios or timepoints. The development of these 
+counterfactuals is not simply a scientific question, but rather 
+one representing sociopolitical and market visions of what 
+concentrations should and can exist in a certain location 
+under alternative land- use choices.For instance, one may arrive at different determinations 
+of additionality depending on the following counterfactuals: 
+(i) soil carbon concentration prior to major historical land-  
+use changes (eg before deforestation for croplands), (ii) soil 
+carbon concentration prior to the market intervention (eg 
+before payments for adoption of cover crops), or (iii) soil 
+carbon concentration accounting for carbon opportunity 
+costs (eg predicted concentration with ecosystem restora-
+tion). Offset markets often accept additionality to mean an 
+increase in soil carbon using counterfactual (ii). Although 
+this type of counterfactual has informed many global and 
+regional targets (Berthelin et al . 2022; Bruni et al . 2022), it 
+fails to account for the major impact of prior agricultural 
+land- use conversion or to treat alternative land- use scenar -
+ios outside of current modes of agricultural production as 
+serious possibilities.
+Continued agricultural production on existing acres, even 
+when practiced with building soil carbon in mind, cannot 
+pay back the soil carbon debt alone. Although shifts in land-  
+use strategies can increase soil carbon stocks relative to cur -
+rent levels (Lal  2001; Smith et al . 2005, 2008; Paustian 
+et al . 2016; Bossio et al . 2020), estimates generated by 
+Sanderman et al .  (2017) suggested that adoption of these 
+management practices could at most only repay up to 30% of 
+the soil carbon debt. Furthermore, the agricultural sector is 
+not merely a sink for emissions but is also a source. In the 
+US, agricultural activities are responsible for 36% of meth-
+ane emissions and 75% of nitrous oxide emissions 
+(EPA  2023). Recent analyses indicate that offsetting the 
+warming effect of methane and nitrous oxide emissions 
+from the ruminant sector worldwide would require nearly 
+doubling the current global carbon stock stored in managed 
+grasslands (Wang et al . 2023). While shifts toward practices 
+that build soil carbon and reduce losses may help restore a 
+portion of the soil carbon debt and offer other ecological co-  
+benefits, these transitions should not be considered addi-
+tional until the soil carbon debt has been repaid and 
+agricultural direct emissions have been properly accounted 
+for. Given the limited size of the soil carbon sink and consid-
+erable ongoing and hard- to- abate agricultural emissions, it 
+is unlikely that SCS can support both net- zero emissions 
+targets within and beyond this land- based sector.
+Scientists and policy makers may also heed the warnings 
+imparted by several concerning projects focused on natural 
+climate mitigation aboveground, in which biogenic stocks of 
+carbon were offered as offsets to excuse fossil- fuel emissions 
+without meaningfully increasing carbon sequestration 
+(Anderegg et al . 2020; Haya et al . 2020; Coffield et al . 2022; 
+Jones and Lewis  2023; West et al. 2023). For example, studies of 
+aboveground forest carbon offset markets have repeatedly 
+found that additionality has been exaggerated through mis-
+leading counterfactual constructions and the reversibility of 
+sequestered carbon. Badgley et al .  (2022) found evidence for 
+systematic over- crediting of 30.0 million t CO2e in California’s 
+forest carbon offsets program alone. In an analysis of voluntary CONCEPTS AND QUESTIONS   3 of 7
+ 15409309, 2024, 7, Downloaded from https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2781 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Front Ecol Environ  doi:10.1002/fee.2781
+M Saifuddin et al .carbon offset market projects in six countries, West et al . (2023) 
+reported that most projects failed to reduce deforestation sub-
+stantially, and a subset of analyzed projects were used to offset 
+nearly three times the amount of carbon emissions relative to 
+their actual contribution to climate- change mitigation. Often 
+such land- based projects may even incur additional emissions 
+rather than remove atmospheric carbon (Paul et al . 2023). 
+These cautionary signs are especially concerning as markets 
+shift belowground, where assessment and verification of car -
+bon stocks are even harder to confirm and as climate change 
+makes soil carbon stocks increasingly vulnerable to decompo-
+sition (Crowther et al. 2016; Soong et al . 2021; Wang et al . 2022).
+Soils are more than carbon sinks
+Offset markets narrowly focus on soils as sinks for carbon, 
+which can often come at the exclusion of considering 
+impacts on nutrients, water cycling, nitrous oxide and 
+methane emissions, and other ecosystem processes. Soil 
+organic carbon exists in a heterogenous matrix of organic 
+matter with different stoichiometric ratios of carbon, nitro-
+gen, phosphorus, and other nutrients. Thus, changes to 
+soil carbon storage both rely on and impact soil nutrient 
+availability, which in turn impacts plant productivity and 
+microbial activity. Critically, interventions focused solely 
+on building soil carbon can even result in increases of 
+other soil- based GHG emissions (Lugato et al.  2018; 
+Quemada et al.  2020).
+Failing to account for these interconnections results in 
+gross overestimations of SCS potential and unrealistic tar -
+gets (Berthelin et al . 2022; Bruni et al . 2022; Schlesinger  2022). 
+For example, on farm soils with crop biomass removed, the 
+amount of nitrogen required to achieve a previously pro-
+posed soil carbon concentration target of “4 per 1000” (0.4% 
+per year) is greater than global natural and anthropogenic 
+nitrogen fixation combined, and the amount of phosphorus 
+required is a substantial proportion of global phosphate rock 
+mined each year (Abramoff et al . 2021). Accounting for fac-
+tors such as soil carbon saturation (Moinet et al . 2023), the 
+priming effect of new soil carbon inputs on soil microbial 
+activities (Guenet et al . 2018), the dependency of soil carbon 
+stocks on photosynthetic inputs and nutrient uptake (Janzen 
+et al . 2022), or the net GHG balance of soils (Lugato 
+et al . 2018; Quemada et al . 2020) also dampens estimates of 
+SCS potential. Wider systematic thinking needs to be imple-
+mented when discussing the potential of rebuilding soil 
+organic carbon, including trade- offs of soil and plant carbon 
+sequestration with elevated CO2 (Terrer et al . 2021). Given 
+the multifunctionality of soil carbon in organic matter, there 
+are many reasons to both build soil carbon and reduce addi-
+tional losses (Minasny et al . 2023) while bearing ecosystem-  
+specific aspects in mind.
+Soil organic carbon stocks also impact soil biodiversity, as 
+microbes, plants, and other organisms are adapted to particular 
+soil conditions (He et al . 2012; Yu and Chen  2019). Thus, changes to soil organic carbon may affect soil microbial com-
+munity composition, with poorly understood impacts. 
+Especially in low organic matter soils that support specialized 
+species and high beta- diversity across regional scales 
+(Fernandez- Going et al . 2013), adding organic carbon could 
+change belowground and aboveground communities, resulting 
+in biodiversity loss. Exclusively focusing on potential carbon 
+storage has unknown consequences for the diversity of inter -
+connected organisms living in and with soil. The dangerous 
+consequences to biodiversity resulting from a singular focus 
+on carbon have been obvious in the context of offset programs 
+centered on aboveground stocks. For example, some existing 
+afforestation programs have targeted large swaths of savanna 
+for tree planting based on their designation as “deforested” or 
+“degraded” , thereby undermining grassland biodiversity 
+(Veldman et al . 2015; Bond et al . 2019).
+Furthermore, the exclusive focus on carbon storage 
+reflects a narrow and new teleology of soil health and func-
+tion, in which low carbon storage is equated with poor soil 
+health. This perspective can at times conflict with a prior 
+focus on maximizing the availability of soil nutrients for 
+crop production or, more broadly, alternative relations to 
+soil and soil health beyond maximizing capital 
+(Krzywoszynska  2020). Historically, many scientific devel-
+opments in the understanding of soil function have shaped 
+and been shaped by their implications for agricultural pro-
+ductivity and profitability (Foster and Magdoff  1998; 
+Mauro  2014; Puig de la Bellacasa  2015). For example, equa-
+tions and models describing the kinetics of soil nutrient 
+limitation for crop productivity drive particular modes of 
+land management and mold conceptions of optimal soil 
+function, which can also influence future research foci, pri-
+orities, and related policies (Foster and Magdoff  1998; 
+Mauro  2014; Puig de la Bellacasa  2015; Krzywoszynska and 
+Marchesi  2020; Lyons  2020; Nightingale et al . 2019). 
+Recognizing the ways in which these factors have influ-
+enced the history and framing of soil science is critical as 
+scientists are increasingly called upon to inform climate 
+mitigation policies in agriculture. How might our work sup-
+port a diversity of soil functions, soil organisms, and 
+human–soil relations beyond those deemed economically 
+profitable?
+Offset markets perpetuate environmental injustice
+Coalitions of environmental justice advocates and frontline 
+communities have a history of opposing carbon offset mar-
+kets, which can allow industries to evade accountability or 
+delay reductions in direct emissions based on promised 
+benefits elsewhere (ActionAid  2011; CJA and IEN  2017; 
+NAACP  2021). For example, the Bali Principles of Climate 
+Justice, which was endorsed by a broad coalition of organ-
+izations during the 2002 Johannesburg Earth Summit, identify 
+“market- based mechanisms” as “false solutions” 
+(CorpWatch  2002), and the Indigenous Environmental 4 of 7   CONCEPTS AND QUESTIONS
+ 15409309, 2024, 7, Downloaded from https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2781 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Front Ecol Environ  doi:10.1002/fee.2781
+Keeping offset markets out of soilNetwork’s Principles of Just Transition specifically call for 
+the rejection of carbon offset markets (IEN  2023). These 
+objections are grounded in part by the experiences of com-
+munities located in proximity to polluting facilities. Offset 
+sales within compliance markets have led to distributive 
+injustices by enabling emissions—including both GHG emis-
+sions and harmful air pollutants—to persist or increase 
+around vulnerable communities, based on presumed seques-
+tration or reductions in emissions elsewhere (Cushing 
+et al.  2018; Lejano et al.  2020; Declet- Barreto and 
+Rosenberg  2022).
+Historically, communities that are most burdened by envi-
+ronmental pollution have not benefited from offset market-  
+based policies. For instance, in an analysis of the first 2 years of 
+California’s Cap and Trade program, Cushing et al .  (2018) 
+found that (i) regulated facilities were disproportionately sited 
+in economically disadvantaged neighborhoods with higher 
+proportions of residents of color; (ii) most of the regulated 
+facilities increased emissions of both GHGs and co- pollutants, 
+such as nitrous oxide, particulate matter, and sulfur dioxide, 
+while participating in the program; and (iii) neighborhoods 
+that experienced increases in both annual average GHGs and 
+co- pollutants had higher proportions of people of color or 
+other demographic factors indicating environmental justice 
+concerns. Thus, the use of carbon offsets can allow regulated 
+facilities to keep polluting and degrading local air quality by 
+funding projects located far away from the source of direct 
+emissions without directly benefiting frontline communities.
+Enlisting agricultural soils as distant and opaque carbon 
+sinks within carbon offset schemes has the potential to exac-
+erbate environmental concerns for historically marginalized 
+communities impacted directly by sites of extraction and 
+emissions. Many social considerations exist around partici-
+pation in aggregated offset markets (Barbato and 
+Strong  2023), including issues of self- determination, proce-
+dural justice, and land rights. Prescribing particular land-  
+use strategies based on global budgets and estimates of 
+biogeochemical potential has direct implications to 
+Indigenous and rural land rights (Bond et al . 2019; 
+Nightingale et al. 2019; Newell  2022). These concerns extend 
+across both compliance- based and voluntary markets. For 
+example, tree- planting programs have targeted land in the 
+Global South for afforestation efforts with poor consultation 
+of local communities and harmful consequences to 
+Indigenous land rights, food security, rural livelihoods, and 
+biodiversity (Bond et al . 2019; Fleischman et al . 2020, 2022; 
+Fischer et al . 2023). Regardless of improvements in method-
+ologies for measuring soil carbon or reductions in uncer -
+tainty around the magnitude of potential sequestration in 
+soils, scientists and policy makers must seriously consider 
+concerns raised by environmental justice advocates and 
+frontline communities and recognize that nearly all policies 
+related to soil carbon management have implications for 
+land rights.Conclusions
+Soil scientists are increasingly invited to engage in climate 
+policy and market spaces. Often, these engagements are 
+focused on providing quantitative estimates for the climate 
+mitigation potential of SCS or developing methods to 
+quantify carbon stocks for use within offset markets. We 
+must recognize that these efforts are deeply intertwined 
+with a wide range of issues, including biodiversity, land 
+rights, food production, and environmental justice. Scientific 
+findings operationalize particular framings of soil health 
+and function, build the underlying protocols shaping carbon 
+market structures, and are used to inform land- use policies. 
+As soil scientists continue their critical research, we invite 
+them to oppose the inclusion of soil carbon in offset mar-
+kets and to further explore how the use of their work 
+upholds or resists systems of fossil- fuel extraction and 
+intersects with climate justice.
+Strategies to restore the soil carbon debt must not be used 
+as an opportunity to greenwash direct emissions. To shape 
+climate policy, we urge soil scientists to ensure that any 
+efforts to restore soil organic carbon are placed in appropri-
+ate context to distinguish between fossil carbon and soil 
+organic carbon, and to distinguish between sources of often 
+overlapping anthropogenic perturbations to the carbon 
+cycle. Soil carbon simply cannot offset fossil- fuel emissions 
+due to differences in permanence, existing agricultural cli-
+mate impacts, and the interconnectedness of soil with multi-
+ple ecosystem functions.
+Critically, offset markets raise several environmental justice 
+concerns and have been opposed for several decades by front-
+line communities. Rather than developing methods to include 
+SCS in climate neutrality claims, we invite scientists to draw 
+from a long history of advocacy in opposition to offset markets 
+to explore opportunities for climate mitigation that seriously 
+consider environmental justice. Corporations, organizations, 
+and governments must be held accountable to realize absolute 
+emissions reductions, and this accountability is not the work of 
+environmental justice advocates alone. Soil scientists can 
+advocate for shifting efforts from developing offset markets 
+toward promoting action on direct emissions reductions, 
+including those from land- based sectors. Finally, soil scientists 
+can support transitions to systems that support a broader 
+diversity of soil functions and honor soil relations beyond 
+commodification.
+Data Availability Statement
+No data were collected for this study.
+References
+Abramoff RZ, Georgiou K, Guenet B, et al . 2021. How much carbon 
+can be added to soil by sorption? Biogeochemistry 152: 127–42.CONCEPTS AND QUESTIONS   5 of 7
+ 15409309, 2024, 7, Downloaded from https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2781 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Front Ecol Environ  doi:10.1002/fee.2781
+M Saifuddin et al .ActionAid. 2011. Say no to soil carbon markets! Six reasons why soil 
+carbon markets won’t work for smallholders. Johannesburg, South 
+Africa: ActionAid.
+Allen DE, Singh BP , and Dalal RC. 2011. Soil health indicators under 
+climate change: a review of current knowledge. In: Singh B, Cowie 
+A, and Chan K (Eds). Soil health and climate change . Berlin, 
+Germany: Springer.
+Amelung W , Bossio D, de Vries W , et al . 2020. Towards a global- scale 
+soil climate mitigation strategy. Nat Commun  11: 5427.
+Anderegg WRL, Trugman AT, Badgley G, et al . 2020. Climate- driven 
+risks to the climate mitigation potential of forests. Science  368: 1327.
+Badgley G, Freeman J, Hamman JJ, et al . 2022. Systematic over-  
+crediting in California’s forest carbon offsets program. Global 
+Change Biol 28: 1433–45.
+Bailey VL, Pries CH, and Lajtha K. 2019. What do we know about soil 
+carbon destabilization? Environ Res Lett 14: 083004.
+Barbato CT and Strong AL. 2023. Farmer perspectives on carbon mar -
+kets incentivizing agricultural soil carbon sequestration. npj Climate 
+Action  2: 26.
+Berhe AA, Barnes RT, Six J, and Marín- Spiotta E. 2018. Role of soil 
+erosion in biogeochemical cycling of essential elements: carbon, 
+nitrogen, and phosphorus. Annu Rev Earth Pl Sc 46: 521–48.
+Berthelin J, Laba M, Lemaire G, et al . 2022. Soil carbon sequestration 
+for climate change mitigation: mineralization kinetics of organic 
+inputs as an overlooked limitation. Eur J Soil Sci 73: e13221.
+Bond WJ, Stevens N, Midgley GF, and Lehmann CER. 2019. The trou-
+ble with trees: afforestation plans for Africa. Trends Ecol Evol 34: 
+963–65.
+Bossio DA, Cook- Patton SC, Ellis PW , et al . 2020. The role of soil car -
+bon in natural climate solutions. Nat Sustain  3: 391–98.
+Bradford MA, Carey CJ, Atwood L, et al . 2019. Soil carbon science for 
+policy and practice. Nat Sustain  2: 1070–72.
+Bruni E, Chenu C, Abramoff RZ, et al . 2022. Multi- modelling predic-
+tions show high uncertainty of required carbon input changes to 
+reach a 4‰ target. Eur J Soil Sci 73: e13330.
+CJA (Climate Justice Alliance). 2020. Carbon capture and storage: a 
+clear and present danger . Berkeley, CA: CJA.
+CJA and IEN (Climate Justice Alliance and Indigenous Environmental 
+Network). 2017. Carbon pricing: a critical perspective for commu-
+nity resistance . Bemidji, MN: IEN.
+Coffield SR, Vo CD, Wang JA, et al . 2022. Using remote sensing to 
+quantify the additional climate benefits of California forest carbon 
+offset projects. Global Change Biol 28: 6789–806.
+CorpWatch. 2002. Bali principles of climate justice . Berkeley, CA: 
+CorpWatch.
+Cotrufo MF, Ranalli MG, Haddix ML, et al . 2019. Soil carbon storage 
+informed by particulate and mineral- associated organic matter. Nat 
+Geosci  12: 989–94.
+Crowther TW , Todd- Brown KEO, Rowe CW , et al . 2016. Quantifying 
+global soil carbon losses in response to warming. Nature  540: 
+104–8.
+Cushing L, Blaustein- Rejto D, Wander M, et al . 2018. Carbon trading, 
+co- pollutants, and environmental equity: evidence from California’s 
+cap- and- trade program (2011–2015). PLoS Med 15: e1002604.
+Davidson EA. 2022. Is the transactional carbon credit tail wagging the 
+virtuous soil organic matter dog? Biogeochemistry 161: 1–8.Declet- Barreto J and Rosenberg AA. 2022. Environmental justice and 
+power plant emissions in the Regional Greenhouse Gas Initiative 
+states. PLoS ONE 17: e0271026.
+Demenois J, Dayet A, and Karsenty A. 2022. Surviving the jungle of 
+soil organic carbon certification standards: an analytic and critical 
+review. Mitig Adapt Strat Gl 27: 1.
+EPA (US Environmental Protection Agency). 2023. Inventory of US 
+greenhouse gas emissions and sinks: 1990–2021. Washington, DC: 
+EPA.
+Fargione JE, Bassett S, Boucher T, et al. 2018. Natural climate solutions 
+for the United States. Sci Adv 4: eaat1869.
+Fernandez- Going BM, Harrison SP , Anacker BL, and Safford HD. 
+2013. Climate interacts with soil to produce beta diversity in 
+Californian plant communities. Ecology 94: 2007–18.
+Fischer HW , Chhatre A, Duddu A, et al. 2023. Community forest gov-
+ernance and synergies among carbon, biodiversity and livelihoods. 
+Nat Clim Change 13: 1340–47.
+Fleischman F, Basant S, Chhatre A, et al . 2020. Pitfalls of tree planting 
+show why we need people- centered natural climate solutions. 
+BioScience 70: 947–50.
+Fleischman F, Coleman E, Fischer H, et al . 2022. Restoration prioritiza-
+tion must be informed by marginalized people. Nature  607: E5–6.
+Foster JB and Magdoff F. 1998. Liebig, Marx and the depletion of soil 
+fertility: relevance for today’s agriculture. Mon Rev  50: 32.
+Friedlingstein P , O’Sullivan M, Jones MW , et al . 2020. Global carbon 
+budget 2020. Earth Syst Sci Data 12: 3269–340.
+Gelardi DL, Rath D, and Kruger CE. 2023. Grounding United States 
+policies and programs in soil carbon science: strengths, limitations, 
+and opportunities. Front Sustain Food Syst  7: 1188133.
+Gosnell H, Gill N, and Voyer M. 2019. Transformational adaptation on 
+the farm: processes of change and persistence in transitions to 
+“climate- smart” regenerative agriculture. Global Environ Chang  59: 
+101965.
+Gosnell H, Grimm K, and Goldstein BE. 2020. A half century of holis-
+tic management: what does the evidence reveal? Agric Human 
+Values  37: 849–67.
+Guenet B, Camino- Serrano M, Ciais P , et al . 2018. Impact of priming 
+on global soil carbon stocks. Global Change Biol 24: 1873–83.
+Haya B, Cullenward D, Strong AL, et al . 2020. Managing uncertainty in 
+carbon offsets: insights from California’s standardized approach. 
+Clim Policy  20: 1112–26.
+Hayek MN, Harwatt H, Ripple WJ, and Mueller ND. 2021. The carbon 
+opportunity cost of animal- sourced food production on land. Nat 
+Sustain  4: 21–24.
+He Z, Piceno Y , Deng Y , et al . 2012. The phylogenetic composition and 
+structure of soil microbial communities shifts in response to ele-
+vated carbon dioxide. ISME J 6: 259–72.
+IEN (Indigenous Environmental Network). 2023. Indigenous princi-
+ples of just transition. Bemidji, MN: IEN.
+Jackson RB, Lajtha K, Crow SE, et al. 2017. The ecology of soil carbon: 
+pools, vulnerabilities, and biotic and abiotic controls. Annu Rev Ecol 
+Evol S  48: 419–45.
+Janzen HH, van Groenigen KJ, Powlson DS, et al . 2022. Photosynthetic 
+limits on carbon sequestration in croplands. Geoderma  416: 115810.
+Jones JPG and Lewis SL. 2023. Forest carbon offsets are failing. Science  
+381: 830–31.6 of 7   CONCEPTS AND QUESTIONS
+ 15409309, 2024, 7, Downloaded from https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2781 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Front Ecol Environ  doi:10.1002/fee.2781
+Keeping offset markets out of soilKeenor SG, Rodrigues AF, Mao L, et al . 2021. Capturing a soil carbon 
+economy. Roy Soc Open Sci 8: 202305.
+Kreibich N and Hermwille L. 2021. Caught in between: credibility and 
+feasibility of the voluntary carbon market post- 2020. Clim Policy  
+21: 939–57.
+Krzywoszynska A. 2020. Nonhuman labor and the making of 
+resources. Environ Hum  12: 227–49.
+Krzywoszynska A and Marchesi G. 2020. Toward a relational material-
+ity of soils. Environ Hum  12: 190–204.
+Lal R. 2001. World cropland soils as a source or sink for atmospheric 
+carbon. Ad Agron  71: 145–91.
+Lejano RP , Kan WS, and Chau CC. 2020. The hidden disequities of 
+carbon trading: carbon emissions, air toxics, and environmental 
+justice. Front Environ Sci 8: 593014.
+Lugato E, Leip A, and Jones A. 2018. Mitigation potential of soil carbon 
+management overestimated by neglecting N2O emissions. Nat Clim 
+Change 8: 219–23.
+Lyons KM. 2020. Vital decomposition: soil practitioners and life poli-
+tics. Durham, NC: Duke University Press.
+Mauro SED. 2014. Ecology, soils, and the Left. New Y ork, NY: Palgrave 
+Macmillan.
+Minasny B, McBratney AB, Arrouays D, et al . 2023. Soil carbon  
+sequestration: much more than a climate solution. Environ Sci  
+Technol  57: 19094–98.
+Moinet GYK, Hijbeek R, van Vuuren DP , and Giller KE. 2023.  
+Carbon for soils, not soils for carbon. Global Change Biol 29: 
+2384–98.
+NAACP (National Association for the Advancement of Colored 
+People). 2021. Nuts, bolts, and pitfalls of carbon pricing: an equity 
+based primer on paying to pollute . Baltimore, MD: NAACP .
+Newell P . 2022. Climate justice. J  Peasant Stud 49: 915–23.
+Nightingale AJ, Eriksen S, Taylor M, et al . 2019. Beyond technical 
+fixes: climate solutions and the great derangement. Clim Dev  12: 
+343–52.
+Oldfield EE, Eagle AJ, Rubin RL, et al . 2022. Crediting agricultural soil 
+carbon sequestration. Science  375: 1222–25.
+Paul C, Bartkowski B, Dönmez C, et al . 2023. Carbon farming: are soil 
+carbon certificates a suitable tool for climate change mitigation?  
+J Environ Manage  330: 117142.
+Paustian K, Lehmann J, Ogle S, et al . 2016. Climate- smart soils. Nature  
+532: 49–57.
+Puig de la Bellacasa M. 2015. Making time for soil: technoscientific 
+futurity and the pace of care. Soc Stud Sci 45: 691–716.
+Quemada M, Lassaletta L, Leip A, et al . 2020. Integrated management 
+for sustainable cropping systems: looking beyond the greenhouse 
+balance at the field scale. Global Change Biol 26: 2584–98.
+Riggers C, Poeplau C, Don A, et al . 2021. How much carbon input is 
+required to preserve or increase projected soil organic carbon 
+stocks in German croplands under climate change? Plant Soil  460: 
+417–33.
+Sanderman J, Hengl T, and Fiske GJ. 2017. Soil carbon debt of 12,000 
+years of human land use. P Natl Acad Sci USA 114: 9575–80.Schlesinger WH. 2022. Biogeochemical constraints on climate change 
+mitigation through regenerative farming. Biogeochemistry 161: 9–17.
+Shi Z, Allison SD, He Y , et al . 2020. The age distribution of global soil 
+carbon inferred from radiocarbon measurements. Nat Geosci  13: 
+555–59.
+Sierra CA, Hoyt AM, He Y , and Trumbore SE. 2018. Soil organic mat-
+ter persistence as a stochastic process: age and transit time distribu-
+tions of carbon in soils. Global Biogeochem Cy 32: 1574–88.
+Silva LCR. 2022. Expanding the scope of biogeochemical research to 
+accelerate atmospheric carbon capture. Biogeochemistry 161: 19–40.
+Smith P , Andrén O, Karlsson T, et al . 2005. Carbon sequestration 
+potential in European croplands has been overestimated. Global 
+Change Biol 11: 2153–63.
+Smith P , Martino D, Cai Z, et al . 2008. Greenhouse gas mitigation in 
+agriculture. Philos T Roy Soc B 363: 789–813.
+Soong JL, Castanha C, Hicks Pries CE, et al . 2021. Five years of whole-  
+soil warming led to loss of subsoil carbon stocks and increased CO2 
+efflux. Sci Adv 7: eabd1343.
+Terrer C, Phillips RP , Hungate BA, et al . 2021. A trade- off between plant 
+and soil carbon storage under elevated CO2. Nature  591: 599–603.
+Trouwloon D, Streck C, Chagas T, and Martinus G. 2023. Understanding 
+the use of carbon credits by companies: a review of the defining ele-
+ments of corporate climate claims. Global Challenges 7: 2200158.
+USDA (US Department of Agriculture). 2023. Report to Congress: a 
+general assessment of the role of agriculture and forestry in US car -
+bon markets. Washington, DC: USDA.
+Veldman JW , Overbeck GE, Negreiros D, et al . 2015. Where tree plant-
+ing and forest expansion are bad for biodiversity and ecosystem 
+services. BioScience 65: 1011–18.
+Vermeulen S, Bossio D, Lehmann J, et al . 2019. A global agenda for 
+collective action on soil carbon. Nat Sustain  2: 2–4.
+Wang M, Guo X, Zhang S, et al . 2022. Global soil profiles indicate 
+depth- dependent soil carbon losses under a warmer climate. Nat 
+Commun  13: 5514.
+Wang Y , de Boer IJM, Persson UM, et al . 2023. Risk to rely on soil car -
+bon sequestration to offset global ruminant emissions. Nat 
+Commun  14: 7625.
+West TAP , Wunder S, Sills EO, et al . 2023. Action needed to make car -
+bon offsets from forest conservation work for climate change miti-
+gation. Science  381: 873–77.
+Wiesmeier M, Urbanski L, Hobley E, et al . 2019. Soil organic carbon 
+storage as a key function of soils – a review of drivers and indicators 
+at various scales. Geoderma  333: 149–62.
+Yu T and Chen Y . 2019. Effects of elevated carbon dioxide on environ-
+mental microbes and its mechanisms: a review. Sci Total Environ 
+655: 865–79.
+Zelikova J, Chay F, Freeman J, and Cullenward D. 2021. A buyer’s guide 
+to soil carbon offsets. CarbonPlan. https:// carbo  nplan. org/ resea  
+rch/ soil- proto  cols- expla  iner. Viewed 24 Jan 2024.
+This is an open access article under the terms of the Creative Commons Attribution 
+License, which permits use, distribution and reproduction in any medium, 
+provided the original work is properly cited.CONCEPTS AND QUESTIONS   7 of 7
+ 15409309, 2024, 7, Downloaded from https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2781 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

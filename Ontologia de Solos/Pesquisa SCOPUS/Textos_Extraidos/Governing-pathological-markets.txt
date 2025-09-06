@@ -1,0 +1,673 @@
+Governing pathological markets:
+Microbes, banana export
+markets, and speculativefarming practices
+Chi-Mao Wang
+National Taiwan University, T aiwan
+Ker-Hsuan Chien
+Institute of T echnology Management, National Tsing Hua University, T aiwan
+Abstract
+This paper examines the making and remaking of Taiwan ’s banana export market in response to
+the devastation caused by an outbreak of a novel infectious plant disease, Fusarium wilt disease
+Tropical Race 4 (TR4, Fusarium oxysporum f. sp. Cubense ).Taiwan was the world ’s fourth-largest
+exporter of bananas in the 1960s before the collapse of the market in the early 1970s. While scho-
+lars have drawn on actor-network theory-inspired performativity approach to understand the role
+of non-human actants in market-making, insuf ﬁcient attention has been given to the distinct
+impacts of microbes on cases such as that of Taiwan ’s banana export market. Microbes ’creative
+and ever-evolving qualities constantly present challenges related to the control and containment of
+such non-human entities, for which no pre-existing or universally applicable solutions exist.Consequently, there is a lack of research that provides useful frameworks to understand such dis-
+ease-plagued markets. T o bridge this gap in the literature, we examine the remaking of Taiwan ’s
+banana export market in the aftermath of the TR4 crisis using a case study approach and developthe notion of pathological markets . Inspired by recent scholarship on biosecurity and related care
+practices, we outline two characteristics that shape pathological markets: (a) speculative and pro-
+biotic care practices and (b) the rescaling of market organisations . The results of the ﬁeldwork con-
+ducted as part of the present study in laboratories, government of ﬁces and on banana farms lead
+us to contend that the growth and development of particular microbes in multispecies environ-
+ments such as Taiwan ’s banana farms constantly pose signi ﬁcant challenges for market farming.
+Moreover, to co-exist with the threats posed by the growth and development of microbes such
+as those which cause Fusarium wilt disease TR4, growers in Taiwan ’s banana export market
+rely heavily on probiotic and speculative care practices.
+Corresponding author:
+Ker-Hsuan Chien, Institute of T echnology Management, National Tsing Hua University, No 101 Section 2 Kuang-Fu Road,
+Hsinchu 300044, TaiwanEmail: chienkh@mx.nthu.edu.twArticle
+EPE: Nature and Space
+2024, Vol. 7(2) 609 –626
+© The Author(s) 2023
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/25148486231199334
+journals.sagepub.com/home/ene
+
+Keywords
+Actor-network theory, assemblage, plant diseases, bananas, performativity
+Introduction
+Yes, we have no bananas .
+When bananas started to be widely exported in the 1870s, they were an exotic treat. But by the 1950s,
+the fruit (botanically, a herb, but never mind) was a favourite of millions far from the tropics. Then
+Panama disease struck. The soil fungus swept through Central and South America, killing banana
+plants in its path. By the 1960s Gros Michel (Big Mike), the variety accounting for virtually allexports, was close to extinction. The export industry approached collapse. (The Economist, 2014)
+In the 1950s, global commercial banana production was severely affected when the Gros Michel
+variety was all but wiped out by a disease known as Fusarium wilt —a soil-borne disease caused by
+a fungal pathogen ( Fusarium oxysporum f. sp. Cubense ), causing industry losses during that period
+amounted to be equivalent to USD 2.3 billion in today ’s currency (Altendorf, 2019). A new banana
+cultivar, Cavendish , was developed to replace Gros Michel , as the latter is highly vulnerable to
+Fusarium wilt. However, in 1967 a novel pathogen, Tropical Race 4 (TR4), was discovered in
+Cavendish banana plantations in Taiwan (Hwang and Ko, 2004) (Figure 1). During the 1960s,
+Taiwan was the world ’s fourth-largest exporter of bananas with its growers making use of
+50,000 ha of land; however, its export market began to collapse in the early 1970s due to the dev-
+astating impact of TR4 and this fell to just 5000 ha (Hwang and Ko, 2004). The ﬂuctuations in the
+global banana market highlight that it is dif ﬁcult to fully appreciate this sector without taking into
+account the signi ﬁcant impacts that non-human actants, such as the microbes which cause TR4, can
+have.
+Recent social studies on marketisation and economisation have placed an ever-increasing focus
+on the roles of non-human actants in shaping markets. Informed by actor-network theory (ANT)
+and performativity frameworks, many scholars maintain that a market is not a pre-existing
+reality; rather, it is perpetually in a state of becoming and represents a space where human and non-
+human actants are brought together to form ephemeral heterogeneous assemblages or socio-
+technical agencements (STAs) (Çal ıs ̧kan and Callon, 2009, 2010; Callon, 2021; Callon and
+Muniesa, 2005; Palo et al., 2020). Building on Callon ’s seminal work, a growing body of work
+has been paid to how markets are shaped, made, and enacted by non-human actants, such as scal-
+lops (Callon, 1986), economic knowledges (Çal ıs ̧kan and Callon, 2010; Callon, 2007), ﬁnancial
+models, myths (Palo et al., 2020), and material objects (Beunza and Ferraro, 2019; MacKenzie,2006). In line with ANT, the performativity approach rejects a priori distinction between different
+forms of agencies because agencements are de ﬁned as ‘arrangements endowed with the capacity to
+act in different ways, depending on their con ﬁguration ’(Çal ıs ̧kan and Callon, 2010: 9). From this
+perspective, Callon ’s analysis is committed to ontological symmetry, arguing that agencies exist as
+distributed entities rather than as capacities held by discrete individuals, whether human or non-
+human. Here, a person, a virus, or technical and scienti ﬁc knowledge can be considered an
+‘actor’in constructing economic reality.
+Performative research has made signi ﬁcant contributions to our understanding of the market by
+emphasising the heterogeneous composition of market-related activities. The operation of marketSTAs relies on market ‘framings ’to render the behaviour of entities predictable and controllable
+(Çal ıs ̧kan and Callon, 2010; Callon, 1998, 2021). However, according to Callon (2021: 133),610 EPE: Nature and Space 7(2)
+‘Among nonhumans it is …no doubt living beings that raise the most dif ﬁcult problems …’.I n
+contrast to so-called inert entities, Callon emphasises that living beings possess a signi ﬁcant advan-
+tage due to their innate ability to be creative, adaptive, and constantly evolving (ibid). Biosecurity,
+for example, has been commonly employed by agribusiness to prevent microbes from expressingunexpected capacities. However, mutable microorganisms often transcend these market framings,
+as demonstrated by recent critical investigations of biosecurity (Guthman, 2019; Hinchliffe et al.,
+2013, 2017). From this perspective, framing markets plagued with diseases remained an under-theorised area of research. In other words, with no ready-made solutions on how market-driven
+organisations could (or should) be recon ﬁgured after an economic shock such as that described
+above or how farming practices are (or should be) altered and transformed in the face of suchdisease pandemics requires more scholarly attention.
+To bridge this theoretical gap, we draw on recent work on biosecurity (Farbotko et al., 2016;
+Guthman, 2019; Hinchliffe et al., 2013, 2017) and care practices (Krzywoszynska, 2019;Lorimer, 2020; Puig de la Bellacasa, 2017) to develop the notion of pathological markets .W e
+outline two characteristics that shape such markets: speculative andprobiotic care practices and
+the rescaling of market organisations. Indeed, recent work on markets has gradually highlighted
+the role ‘biomateriality ’plays in organising markets (e.g., Callon, 2021; Le Velly and Moraine,
+2020; Moser et al., 2021). In the current paper, we contend that more attention must be paid to
+Figure 1. A banana tree infected with TR4. Source: Authors.Wang and Chien 611
+the commodi ﬁcation of living beings, which constantly poses a plethora of new challenges that
+have no easy solutions. We maintain that market framing becomes more precarious in the
+context of the management of microorganisms such as microbes like TR4. Focusing on these invis-
+ible yet living ‘beings ’provides a better understating of how ‘biomateriality ’shapes market orga-
+nisations. The case of the Taiwanese banana market in the post-TR4 era provides an excellent
+opportunity to explore the agential role of microbes in market-making via a case study of the
+TR4 epidemic in Taiwan. This work seeks to deepen our understanding of market organisationin terms of how global agricultural markets are persistently troubled by various diseases that are
+produced by distinct market framing practices themselves.
+The remainder of this paper is structured as follows. The next section brie ﬂy discusses the
+performativity programme, or social studies of economisation and marketisation, as Callon
+and his colleagues elaborated. It mainly focuses on ontological commitments and understand-
+ing biological markets. Further, in the third section we draw on recent work on biosecurity andcare practices to develop the notion of pathological markets , which critically explore the ways
+microbes shape market organisations. We rev eal that while market agents seek to frame the
+market and contain the over ﬂows through biosecurity and agrochemicals, they ultimately
+undermine the conditions of banana production and recon ﬁgure market organisation. The
+fourth section focuses on the methodological pr actices of assemblage thinking, which is
+inspired by the work of Deleuze and Guattari. In the ﬁfth and sixth sections, we draw on the
+case study of the Taiwanese banana export mar ket to highlight the impacts of microbes on
+market organisation, arguing for the importanc e of probiotic and speculative care practices
+in re-framing such banana markets.
+The performativity approach to market: agencement , distributed
+agency and living beings
+Inspired by ANT, the performativity approach proposes a pragmatic approach to the market,
+suggesting that there are multiple ways of organising the markets (Çal ıs ̧kan and Callon,
+2009, 2010; Callon, 2021). By emphasising material ities and technicalities, this framework
+draws attention to the diverse processes of marketisation where heterogeneous actants are
+brought together to form a provisional network. Moreover, not only material-technical
+objects but also what Callon (2007: 330) called ‘economics at large ’, which refers to the
+variety of economic knowledges employed by market agents, are involved in shaping market
+organisation and design. According to Callon (2007: 318), ‘scienti ﬁc theories, models, and
+statements …are performative ’, since they contribute ‘to the construction of the reality that
+it describes ’(Callon, 2007: 316). From this perspective , markets are conceptually different
+from those de ﬁned by social constructivists, for whom markets can simply understood as a col-
+lection of norms, social networks, institutions and/or legal arrangements (Çal ıs ̧kan and Callon,
+2010; Callon, 2021). Focusing on material objects and scienti ﬁc knowledge led Callon and col-
+leagues to de ﬁn em a r k e t sa sS T A s .
+Drawing inspiration from the work of Deleuze and Guattari, Callon embraces the use of the
+French term agencement rather than the Foucauldian concept of dispositif or the English term,
+assemblage. The notion of dispositif , as Foucault put it, is a ‘heterogeneous ensemble consisting
+of discourses, institutions …scienti ﬁc statements …its major function at a given historical
+moment that of responding to an urgent need ’(Foucault, 1980: 195, emphasis original). While
+Foucault ’sd eﬁnition of dispositif involves a heterogeneous set of entities, Callon (2021) suggests
+that the concept is necessarily linked to the distinction between the dispositif and living beings.
+Furthermore, the Foucauldian analysis is also limited in that non-human technoscience is
+reduced to resources that can be exploited and mobilised by human beings. In fact, according to612 EPE: Nature and Space 7(2)
+Callon (2021: 359), ‘the relation between the human and nonhuman elements of the dispositif ’are
+‘reciprocally constitutive relations ’.
+Building upon these critiques, Callon ’s understanding of ontology is in line with ANT; he argues
+that we must take into account the dynamism and productivity of non-human actants in shaping
+market organisation and design. Inspired by the work of Deleuze and Guattari, Callon suggests
+that the term agencement refers to ‘arrangements endowed with the capacity of acting in different
+ways depending on their con ﬁguration ’(Callon, 2007: 320). Under this view, performativity argues
+for the idea of distributed agency, putting the accent on collective actions and undermining the
+ontological distinction between human and non-human (Callon, 2021).
+Market framings and over ﬂowing: the problems of biological markets
+To account for market-making, performativity scholars critically engage with the work of social
+scientists from different ﬁelds, such as anthropology, sociology, and economics. Building on
+Annette Weiner ’s analysis of ‘inalienable possessions ’, the scholars contend that goods, things
+and objects are always entangled or stay attached to the person who possesses them (Çal ıs ̧kan
+and Callon, 2009; Callon, 2021). Whether a particular entity will enter more or less easily into cir-culation or mobility depends on its social density . Here, it is worth noting that the idea of social
+density is not restricted to ‘human society ’but also includes any sort of ties —all properties and
+materialities that could in ﬂuence its mobility. Callon and colleagues thus introduce the notion of
+‘framing ’to capture the process through which things are detached from their owner and put
+into circulation (Çal ıs ̧kan and Callon, 2010; Callon, 2007, 2021), or what Callon (2021: pp. 75 –
+77) called this process disentanglement and reentanglement . Before things are set into motion,
+their behaviours have to be rendered passive, ‘reducing them from wild unknowns to things with
+ﬁxed qualities ’(Çal ıs ̧kan and Callon, 2010: p. 6). However, total framing is impossible since all
+goods require an associated milieu in which to function appropriately. In markets, entitiesalways retain a certain degree of autonomy, making maladjustment or ‘overﬂowings ’ubiquitous.
+Callon (2021) in his detailed analysis of biotechnology controversies suggests that total framing
+is an impossible task in market-making as the unpredictable impacts of non-human entities such asplants, microorganisms and animals always disrupt any rigid attempt at framing. As he further put
+it, living beings are ‘creative, good at multitasking, adaptive, evolving …[and] the frightening
+drawback of being more dif ﬁcult to maintain within a framework ’(ibid: 134). For example, in dis-
+cussing the marketisation of genetically modi ﬁed organisms, Callon suggests that the commodi ﬁ-
+cation of such entities is impossible without being able to control or manage their inherent
+capacities. For example, living organisms, such as genetically modi ﬁed seeds, have the advantage
+of being able to reproduce themselves, are adaptive, and rapidly evolving; these qualities (or cap-
+acities) mean that such entities are unpredictable and therefore the commodi ﬁcation of such organ-
+isms is highly problematic. Considerable effort has gone into ensuring that living entities cannot
+express such unpredictable characteristics; for example, numerous biosecurity experiments, regula-
+tions, and surveillance mechanisms have been used to achieve this, with varying levels of success.
+The advances in genetic engineering techniques further intervene in the genome to ensure the sta-bility of new varieties. However, these advances also mean that genetically modi ﬁed seeds have
+become regarded with suspicion, thus generating problems with the control of genetically engi-
+neered organisms. Living beings, again, are always full of surprises.
+Driven by ANT perspectives, recent biosecurity studies (e.g., Enticott, 2012, 2017; Farbotko
+et al., 2016; Guthman, 2019; Hinchliffe and Bingham, 2008; Hinchliffe et al., 2013, 2017) have
+critically examined the challenges of managing animal health in the meat industry. These studieshighlight often overlooked and invisible species, namely microorganisms, which have received
+insufﬁcient attention within the framework of marketisation theory. For example, in theirWang and Chien 613
+seminal study of managing infectious animal diseases in the British poultry industry, Hinchliffe
+et al. (2017) problematise the ‘germ theory ’which underpins current biosecurity measures.
+According to germ theory, infectious disease is understood as an outcome of microbes infecting
+a host; disease control is then implemented to prevent the incursion of speci ﬁc pathogens. A
+focus on the absence and exclusion of microorganisms underlies the importance of biosecurity mea-
+sures in animal health management, such as sanitation, surveillance and monitoring (Hinchliffe
+et al., 2013, 2017).
+While biosecurity seeks to establish borderlines between the ‘health inside ’and‘diseased
+outside ’, it often fails to deal with threats embedded within the intensive agriculture system. The
+sporadic outbreak of Campylobacterosis , a food-poisoning disease, indicates how the just-in-time
+poultry production system creates an ideal environment where microbes are more prone to mutating
+or jumping species. Factory farms, where large numbers of chickens are raised in con ﬁned spaces
+and antibiotics are often overused, continually pose risks for spreading and amplifying infectiousdiseases across different geographical sites. Building on the work of ANT (Law, 2009; Mol,
+2002), Hinchliffe et al. (2017) propose the notion of pathogenicity, suggesting that disease is
+less an incursion of pathogens than an outcome of diverse social-material relations .
+Consequently, attention has shifted away from the ‘invasion of pathogens ’perspective; it now
+looks towards ‘disease situations ’which are meeting places that bring heterogeneous actors
+together. An emphasis on the multiplicity of diseases (Law and Lien, 2013; Law and Mol, 2011)highlights the challenges of framing biological markets. Living organisms, such as bacteria,
+plants and animals, are what Ingold called ‘skilled practitioners ’(Ingold, 2011: 94), who can
+develop, grow and respond to their surroundings.
+While critics of biosecurity have drawn attention to the diverse social-material relations that pro-
+duced diseases, questions of how markets are re-reframed, reassembled and re-organised in
+response to the infectious diseases for which there are no ready-made solutions available, havereceived far less attention. In other words, more attention must be paid to how market actors
+co-evolve, and cope with diseases that are dif ﬁcult to eradicate.
+Pathological markets: speculative and probiotic care practices and the
+rescaling or market organisations
+Building on the above-mentioned works, in the present study, we adopt a case study of the
+Taiwanese banana market in the aftermath of the TR4 crisis to develop an explanation of how
+such pathological markets can be organised. We outline two characteristics that shape pathologicalmarkets: (a) speculative care practices and (b) the rescaling of market organisations , both of which
+are further analysed below in turn.
+The TR4 soil-borne fungus spreads rapidly in a Cavendish banana monoculture (Altendorf,
+2019; Deltour et al., 2017). TR4 infects the roots of susceptible banana cultivars, and vascular dis-
+colouration generally progresses to the rhizome (Ploetz, 2006, 2015). As with animal disease dis-
+cussed earlier, the pathogenicity of TR4 is embedded within industrial agricultural systems. Theintroduction of fertilisers reduces soil fertility to a combination of chemical elements, thus under-
+mining the fact that soil fertility depends on diverse interactions between microorganisms, plants,
+animals, soils and human labour (Krzywoszynska, 2019). Critics from different disciplines recentlysuggested that the overuse of fertilisers and biosecurity measures (e.g., fumigation) disrupts the soil
+biodiversity and increases the selection pressure, thus creating a potential for the development of
+disease-supporting conditions that allow more aggressive species of bacteria and microbes tothrive (Guthman, 2019). The banana wilt epidemic was exacerbated by soil acidity, which is pro-
+duced by the long-term excessive use of chemical fertilisers (Bubici et al., 2019; Li et al., 2022;614 EPE: Nature and Space 7(2)
+Segura-Mena et al., 2021). Compounding the issue is the fact that the TR4 pathogen can survive for
+more than 20 years in soil without the presence of its banana host, posing challenges to the effective
+management of the disease (Dita et al., 2018; Ploetz, 2006). Experts generally agree that long-term
+physical and chemical treatments against the disease remain unavailable and unviable, thus severelylimiting management options.
+While efforts have been made to develop TR4-resistant cultivars, phytopathologists have indi-
+cated that newly bred hybrids often cannot meet post-harvest or organoleptic standards (Ploetz,2015). However, the banana market would no longer exist at all if such pathogens were vibrant,
+wild and unruly (Çal ıs ̧kan and Callon, 2010; Callon, 2021). A market goods ’behaviour, as
+Callon put it, ‘has to be (reasonably) predictable and controllable so as to avoid unexpected and
+unmanageable disarray ’. Markets need to disentangle from the pathogen; to put it differently,
+markets should be re-framed . To deal with what markets frame as crises, we maintain that
+growers heavily rely on speculative and probiotic care methods which are developed throughtheir attentiveness to the needs of soil biota (Krzywoszynska, 2019; Krzywoszynska and
+Marchesi, 2020; Puig De La Bellacasa, 2015, 2017).
+Having recognised the negative impacts of agrochemicals on soil, a growing body of work has
+contended that soil is a living system rather than a resource that is simply exploited to underpin
+capitalist food production (Banerjee and van der Heijden, 2022; Krzywoszynska and Marchesi,
+2020; Puig De La Bellacasa, 2015; Salazar et al., 2020). As a living system, the qualities ofsoils are emergent outcomes of interactions between diverse human and non-human entities.
+Thus, attempts to repair or care for the damaged soil require carers to know and appreciate soil
+life through an embodied and speculative involvement or ‘thinking-with soil ’(Krzywoszynska,
+2019; Puig De La Bellacasa, 2015; Salazar et al., 2020). These care methods are speculative in
+that the objects of such care practices do not necessarily fall within the sense-related capacities
+of individual human beings (Krzywoszynska, 2019).
+These forms of soil care are also probiotic (Lorimer, 2020); farmers ’focus has shifted from chem-
+ical sources of soil fertility to the management of the soil microbiome (Segura-Mena et al., 2021;
+Teixeira et al., 2022; Xue et al., 2015). Before the TR4 outbreak, framing the banana marketrelied on fungicides, pesticides and insecticides as speci ﬁc pathogens have long been associated
+with particular plant diseases. The wide use of agrochemicals ultimately led to the TR4 crisis in
+the banana industry as the use of such chemicals led to the creation of such new strains of fungus.Being aware of the impossibility of wholly eradicating the TR4 fungus, market agents have gradually
+become involved in developing probiotic soil management practices to maintain the soil microbiome
+by seeking ways to co-exist with microbes such as TR4. Farmers and traders are trained to be atten-tive to non-human entities through embodied encounters with soils in their farms (Krzywoszynska,
+2019; Puig De La Bellacasa, 2015). These attentiveness practices required them to develop ‘a feeling
+for the soil ’(Puig De La Bellacasa, 2015: 704), such as knowing the acidity and porosity of soils.
+Speculative and probiotic care practices are labour-intensive and time-consuming, making them
+economically unsustainable for large industrial plantations. For example, while the work of soil
+scientists and botanists indicates that biological soil management has the potential to suppressFusarium wilt in banana trees (Segura-Mena et al., 2021; Shen et al., 2019; Xue et al., 2015),
+the success rates of biocontrol measures to control Fusarium wilt is unfeasible for industrial planta-
+tions that can experience annual losses of 10% –20% (Ploetz, 2015); the annual loss rate might be
+even less well tolerated in perennial crops than in short-term crops. The epidemiology of TR4 com-
+bined with limited effective management measures tends to disadvantage large industrial planta-
+tions, which may cause the complete abandonment of infected ﬁelds and efforts made to ﬁnd
+other TR4-free locations (de la Cruz and Jansen, 2018). Hamrick et al. (2018) report that ﬁve
+leading banana ﬁrms (e.g., Chiquita, Dole and Del Monte) accounted for 39% of the trade in
+bananas, compared to 80% in the 1980s. While in the 1980s, the banana industry was characterisedWang and Chien 615
+by vertically integrated corporations, today ’s market organisations are more fragmented; the emer-
+gence of TR4 contributes to organisational rescaling (Hamrick et al., 2018). With reference to the
+Taiwanese banana market-making, we attempt to extend the discussion further. We suggest that the
+TR4 disease lays a foundation for new market-making, namely, medium-sized corporations that arecapable of organising the pathological markets through speculative care practices. Before moving
+our discussion forward, the following section provides a detailed account of the methodology used
+in this study.
+Tracing sites and embodied encounters
+ANT-inspired approach has become a useful conceptual framework for tracing market-makingefforts (Alcadipani and Hassard, 2010; Le Velly and Moraine, 2020; MacKenzie et al., 2007;
+Palo et al., 2020). However, critics have pointed out that ANT shares similarities with the
+concept of agencement elaborated by Deleuze and Guattari (Müller and Schurr, 2016).
+Following the work of Müller and Schurr (2016) and Callon (2021), we suggest that marketisation
+studies can bene ﬁt from cross-fertilisations between two approaches. Two aspects lie at the heart of
+our discussions, all of which guided our methodological practices. First, both ideas propose a rela-tional view of the word, but Callon ’s conceptualisation of agencement provides empirical tools to
+trace the impacts of human and non-human associations. Since the work of Deleuze and Guattari is
+concerned with metaphysics, the idea of assemblage, as Callon (2021: 360) warned, has often beenused to celebrate ‘the constitutive complexity of assemblages ’. Being used in purely descriptive
+ways, assemblage-led thinking risks becoming a ‘thin description ’. By bearing this in mind,
+inspired by Callon ’s work, we follow the efforts made by ‘economics at large ’to explore how
+markets are framed and performed by carrying out a case study of the making and remaking of
+the Taiwanese banana market in response to the devastation caused by TR4. To achieve this, we
+conducted semi-structured interviews with market agents, including two phytologists and six pol-icymakers, and six entrepreneurs. Interviews lasted from 1 –2 h and were recorded and transcribed.
+Second, although ANT-inspired approaches to conducting research on markets help unveil the
+labour involved in assembling, these approaches tend to overlook the corporeal capacities ofhumans and fail to accommodate unexpected events (Müller and Schurr, 2016). In light of this,
+ANT is incapable of addressing the following crucial questions related to market framings: how
+do farmers develop more sustainable practices through attentiveness towards soil biota? How dotheir care practices arise? From December 2021 to December 2022, we conducted four in-situ ﬁeld-
+works in Pingtung, the biggest banana production site in Taiwan; we visited banana farms and had
+free-ﬂowing conversations with 10 growers and three managers to understand how they cope with
+the TR4 fungus in the ﬁelds. We visited two mid-size farms (over 50 ha) and six small-size farms
+(less than 10 ha), where farm managers and farmers explained how they deal with TR4, climate
+change and logistics. Each visit lasted 2 to 3 days, enabling us to participate in farming activities,engage in post-harvest practices, and observe logistics operations. In Pingtung, we also had the
+opportunity to visit the Taiwan Banana Research Institutes where we had conversations with phy-
+tologists specialising in plant diseases, culturing and breeding. Pseudonyms are used to protect theanonymity and privacy of all participants.
+Assembling the banana export markets: an association between human
+and non-human actants
+As a former Japanese tropical colony, Taiwan was a vital banana producer during the colonial
+period (1895 –1945). From 1965 to 1970, Taiwan became a major global banana exporter,616 EPE: Nature and Space 7(2)
+thanks to Japan ’s rapid economic growth after the Second World War. Taiwan had dominated the
+Japanese banana market in the absence of competitors. The framing of the Taiwanese export market
+post-World War II would not have come into being without the assistance of socio-material agen-
+cements, which are further analysed below. First, work on the performativity programme suggeststhat market agencements comprise various marketing agencies involved in valuing and de ﬁning
+particular goods. Such agencies include ﬁrms, trade unions, banks, consumer unions and NGOs
+(Çal ıs ̧kan and Callon, 2010). In the initial stages of colonial rule, Taiwan gradually became the
+Japanese Empire ’s main banana production site. According to Luo (1953), from 1934 to 1944,
+Taiwan fully monopolised Japan ’s banana market. Although disrupted by the war, the banana
+trade between Taiwan and Japan resumed rapidly with the assistance of social groups, such asbanana traders ’associations and farmer cooperatives who received education during the colonial
+period and developed working relationships with Japanese entrepreneurs, although the two
+groups competed for market share.
+Second, STAs are not only comprised of human beings; they are also made up of material,
+textual technical devices and biological entities. Indeed, technical and material devices contributed
+to the thriving banana business before 1970. Without the aid of cooling technologies and coldstorage, the shelf life of bananas was less than a week. To deal with these high waste rates, in
+1965, the Taiwanese government built a cold storage facility in Kaohsiung, the country ’s largest
+banana exporting port. This facility overcame the biological limitations imposed by the ‘biomateri-
+ality’of bananas (c.f. Moser et al., 2021) and demonstrates the co-evolving nature of market STAs.
+However, the making of the biological market, as Callon (2021) noted, rests heavily on living
+beings ’creativity. The development of new plants as market goods has provided an excellent
+example of examining the agentive role of living organisms, which is developed through immersion
+in the physical environment. In Taiwan, the Cavendish cultivar became the dominant commercial
+variety of banana in the colonial era, but it was more susceptible to the banana bunchy top virus(BBVT). The spread of BBVT restricted the expansion of commercial banana plantations as
+Taiwanese banana plantation is characterised by smallholder farming and mountainous terrain.
+The selection of resistant cultivars is considered to be the most effective means of managing the
+Fusarium wilt problem. However, as Callon ’s work on genetically modi ﬁed broccoli indicates, the
+development of disease-resistant varieties demands ‘human work and the work of nature ’(Callon,
+2021: 95). In 1919, a banana grower found a BBVT-resistant variety of Cavendish growing wild,known as Hsien Jen Chiao (AAA, Musa cultivars). Translated literally, Hsien Jen Chiao means the
+‘gift of God ’; it has been the main commercial variety of bananas in Taiwan since then. Described
+by growers as ‘coming out of nowhere ’, the virus-resistant cultivar has been widely planted by
+smallholders in mountainous areas, thus facilitating the making of Taiwan ’s successful export
+market (AgriHarvest, 2022; Koseki, 2008). This new variety also demonstrates that living organ-
+isms can develop, grow and evolve in natural environments (Callon, 2021; Ingold, 2011). Whilethere are a variety of arti ﬁcial breeding technologies, such as Giant Cavendish Tissue Culture
+Variants (Hwang and Ko, 2004) and genetic transformation of bananas (Ploetz, 2015), banana
+market framings, as Callon (2021) noted, must still cooperate with Mother Nature.
+The over ﬂowing banana export markets and the role of microbes
+The success of the Taiwanese banana export market indicates the creative role of living organ-
+isms in making the market; however, the commerci alisation of living entities raises the most
+challenging problems for market framing. As di scussed, the survival of market STAs hinges
+on the predictability of a particular market good ’s behaviour and its ‘social density ’in terms
+of becoming a commodity. The properties, whethe r perishable, heavy, light or fragile, deter-
+mine the degree to which the product is put into circulation (Çal ıs ̧kan and Callon, 2010;Wang and Chien 617
+Callon, 2021). While the marketisation of such goods depends on framing to rede ﬁne them as
+untamed entities to ones with ﬁxed qualities, Callon maintains that living organisms are cre-
+ative, adaptive and evolving, making the framing of biological markets more susceptible to
+overﬂowing. The decline of the Taiwanese banana empire is a perfect demonstration of the
+a g e n t i cr o l eo fl i v i n go r g a n i s m s , upon which we elaborate below.
+Before 1967, Taiwan was the world ’s fourth-largest banana exporter; Cavendish cultivars
+were the dominant commercial variety, with more than 90% of banana-growing areas produ-cing Cavendish cultivars (Hwang and Ko, 2004). The ﬁrst con ﬁrmed case of Fusarium wilt on
+the Cavendish cultivar was reported in southern Taiwan ’s main commercial banana production
+region. The pathogen was found to be a new vari ant, different from those races commonly
+discovered in hosts within the Musaceae family, and was later designated as race 4 of F.
+oxysporum f. sp. Cubense ,t h ew o r l d ’sﬁrst con ﬁrmed case of TR4 (Hwang and Ko, 2004).
+Existing Cavendish cultivars are extremel y vulnerable to the disease. The extensive
+use of chemical fertilisers and the monoculture of bananas, both of which are de ﬁning
+characteristics of industrial farming, facilitate the spread of TR4 pathogens (Bubici et al.,
+2019; Huang et al., 2019).
+Chemical fertilisers and monoculture are strategies employed to control the behaviours of goods
+such as bananas, ensuring the predictability of their ‘conduct ’and preventing market STAs from
+overﬂowing. However, the life of microbes, like other forms of life, ‘carries on in the unfolding
+of the relational matrices ’(Ingold, 2011: 9); they develop and grow in a co-evolving environment
+or a multispecies world (Tsing, 2015). Recent evidence suggests that the occurrence of the TR4
+disease is tied to soil health, which was disrupted by the wide use of agrochemicals and the prolif-eration of monoculture systems (Hong et al., 2020; Jamil et al., 2023). A healthy soil with a good
+standard of microbiome diversity can suppress the TR4 fungus by emitting natural chemicals,
+making the pathogens less virulent. In short, the pathogenicity of TR4 is intimately associatedwith modern monoculture agriculture, which disrupts soil microbial diversity. According to
+Hwang and Ko (2004), the number of infected banana plants dramatically increased to 5536
+from 1967 to 1970. Attempts to control the spread of TR4 were in vain as infected areas spread.Nowadays, TR4 has become an epidemic in Taiwan.
+TR4 devastated the organisation of the Taiwanese banana export market in terms of cutting
+supply. However, on the demand side, the export market organisation faced mounting pressurefrom new entrants. Following the liberalis ation of the Japanese banana markets in 1963,
+Japanese banana traders diversi ﬁed their supply chains and sought lower costs outside Taiwan
+to meet their growing domestic needs. In 1962, the United Fruit Company, allied withJapanese traders, such as Itochu, Mitsui and Marubeni, operated large industrial plantations in
+the Philippines. Although faced with growing challenges, Taiwanese banana growers remained
+in a dominant position in the Japanese market before 1972. However, the damage caused bythe TR4 pandemic gradually accumulated and jeopardised the market. According to Hwang
+(1987), the losses of banana-growing areas due to the incursion of TR4 increased from 0.27 ha
+in 1967 to 1200 ha in 1976. The TR4 fungus would eventually render the affected area unproduct-ive long-term, forcing smallholders to exit the industry. Following the rapid spread of the TR4
+pathogen, the total loss of productive growing areas in Taiwan had climbed to approximately
+5000 ha by 1988 (Xiao, 1988). Taking advantag e of this opportunity, the Philippines ’banana
+production overtook that of the Japanese market. From 1970 to 1971, Philippine banana
+exports increased from 106,792 tonnes to 267,242 tonnes, making the Philippines the world ’s
+ﬁfth-largest banana exporter (Figure 2) (FA O, 2022). In Taiwan, in contrast, the export
+volume of bananas plummeted to 1872 tonnes in 2018, and only a small number of farmers
+were engaged in banana production.618 EPE: Nature and Space 7(2)
+Governing pathological markets: the speculative care practices and the
+rescaling of market organisations
+The over ﬂowing of the Taiwanese banana export market caused banana plantations to become
+simply unpro ﬁtable for smallholders; ironically, this rendered the Taiwanese domestic banana
+market attractive to the country ’s former competitors. In 2005, Dole Food Company, a globalised
+corporation operating large-scale tropical food plantations in the Philippines since 1963 (Vellema,
+1999), arrived in Taiwan, where it became involved in banana trade and production. Due to importquotas, the company initially collaborated with local traders and producers in an attempt to replicate
+the successful Philippine business model. With plenty of ﬁnancial and technological resources, the
+company rapidly became Taiwan ’s dominant banana distributor and trader. The export market was
+also reframed as Dole resumed the export of bananas to Japan. However, the TR4 epidemic, com-
+bined with other natural forces, disrupted the market again and signi ﬁcantly impacted market orga-
+nisations, with Dole announcing the closure of its Taiwanese of ﬁce in 2019 (Lin, 2020). The
+reassembling of the banana market after the TR4 pandemic ––what we called the pathological
+market ––provides an ideal way to explore the unexpected, agential role microbes such as TR4
+played in making markets. Two characteristics shape how such a pathological market was gov-erned: (a) speculative care practices and (b) rescaling market organisations.
+Speculative care practices and market organisations
+To cope with the TR4 epidemic, farmers have developed a range of strategies to attend to the needs
+of soil biota. These methods are speculative and probiotic in that the object of care may not be
+Figure 2. Taiwan/ Philippines banana export quantity 1967 –1973 unit: tonnes. Source: FAO (2022).Wang and Chien 619
+directly ‘sense-able ’to human bodies. The ﬁrst common strategy used by growers is crop rotation in
+relation to paddy-grown rice. The successful framing of Taiwan ’s banana export market, as dis-
+cussed, is associated with using fertilisers and agrochemicals, which increase soil acidity and
+create a more favourable environment for the TR4 fungus to thrive (c.f. Huang et al., 2019;Segura-Mena et al., 2021). Farmers we spoke with in the ﬁelds stated that soil fertility is the
+most critical factor in the management of TR4. For example, as one participant said in an interview,
+‘soil pH affected banana crop development and disease ’. Asked how farmers maintain soil health
+and improve soil pH level, a supplier of Dole Food Company said,
+My central concern is soil fertility …, after several years of experimentation, I think the Fusarium wilt of
+banana favours acid soils. …There is no standard method. To reduce the impacts of Fusarium wilt of
+banana is to attend to the needs of soils and live with the pathogens.
+‘I have tried different methods ’, he added, ‘but I found that the disease can be reduced by rota-
+tion with paddy rice, Sesbania cannabiana , and legumes in the ﬁeld. These crops would lower soil
+acidity. ’Another quality of the soil that banana growers also care about is soil porosity. Crop rota-
+tion with legumes and paddy ﬁelds, as many banana growers we encountered in the ﬁeld noted,
+would cause an increase in soil porosity, providing an ideal environment in which bananas can
+grow.
+Instead of understanding soils and microbes as inert entities, the narratives of farmers, though
+they appear to be instrumental, indicate that soils and microbes are living beings which cannot
+be apprehended directly by anthropocentric perception. The interview results also mark a shift inunderstanding soil from a ‘resource ’to a living organism, the properties of which emerge from
+the ongoing interactions between diverse actants. This understanding of soil health required
+farmers to immerse themselves in or feel the soil (Puig De La Bellacasa, 2015, 2017), as farmersfrequently emphasised when interviewed. In other words, embodied encounters with the soil and
+attentiveness to the needs of soil biota are of great importance in managing the TR4 fungus in
+the current post-pandemic era, replacing agronomic knowledge that located soil fertility in the pres-ence of speci ﬁc chemicals accessible to plants with a more wholesome approach. In short, the best
+way to cope with the impacts of TR4 is to work with the soils and microbes in speculative ways
+(Krzywoszynska, 2019; Puig De La Bellacasa, 2015).
+Furthermore, growers have become more aware of the impacts that fertilisers and agrochemicals
+have on soil-borne diseases such as TR4; this has shifted concern away from adopting fertilisers and
+agrochemicals to maintaining the soil microbiome and organic matter. Maintaining soil microbialdiversity effectively contains the pathogenicity of TR4 and improves crop yields (Fu et al., 2016;
+Shen et al., 2019; Xue et al., 2015). The extensive use of fertilisers and agrochemicals can poten-
+tially damage soil microbial biomass, providing more opportunities for the emergence of newaggressive microbe species such as TR4. The growers we interviewed maintained that the patho-
+genicity of TR4 could not be understood as the incursion of a pathogen; rather, it should be under-
+stood as a relational process. Pathogenicity, as Hinchliffe et al. (2017) noted, ‘is in this
+understanding borne out of the kinds of relations that hosts have with bacteria and viruses, their
+vectors and so on ’. In short, the capacity for diseases to amplify is a contingent outcome of the pre-
+vailing socio-material relations. From this perspective, managing TR4 requires probiotic and specu-lative soil care practices. For example, using bio-fertilisers and managing banana rhizosphere
+microbiome are considered effective organic controls to combat TR4. Recognition of the intercon-
+nectedness of beings arises not simply through embodied encounters with non-humans, but alsothrough practices of attentiveness that do not solely depend on the ‘sense-ability of the nonhuman ’
+(Krzywoszynska, 2019: 664).620 EPE: Nature and Space 7(2)
+These care practices are speculative because they are developed through attentiveness towards
+soil biota that is not directly sense-able to humans. To put it another way, these care practices
+require ‘efforts located fertility in situated interactions between plants, grazing animals, soils,
+and human labour …’(Krzywoszynska, 2019: 667). These probiotic care practices also indicate
+that biological living organisms, such as microbes, are skilled practitioners who can grow and
+develop in the unfolding of the relational matrices (Ingold, 2011). Attempts to disentangle entities
+such as microbes from the multispecies worlds always create what Callon (2010) called misﬁreor
+overﬂow.
+The rescaling of market organisations
+The wild behaviours of microorganisms continue to shape the organisation of production in
+crop-related agricultural sectors, indicating the impossibility of achieving total framing in such
+markets. The behaviour of microbes remains unpredictable and uncontrollable; they are capableof producing unmanageable disturbances to price-setting and the circulation of crops as goods
+and jeopardising the positions of stakeholders in such markets who are involved in valuing such
+goods (Çal ıs ̧kan and Callon, 2010; Callon, 2021). With reference to the withdrawal of Dole
+from the Taiwanese banana market, we suggest that these unexpected disruptions to market
+framing pave the way for the rescaling of market organisations in terms of an analysis of two
+aspects, as detailed below.
+First, as scholars of the performativity programme have noted, the calculation skills endowed to
+market agents are not essentially cognitive, as elaborated by economists (Callon, 2021). Instead,
+some agents are heavily equipped with specialised technological material devices, without whichthey cannot perform calculations in the marketplace. Beginning in 2005, Dole, which is
+endowed with considerable ﬁnancial resources, quickly rose to dominate the Taiwanese domestic
+banana production market. On the one hand, Dole sought to collaborate with local growers throughcontractual arrangements. On the other, it controlled the distribution channel of Taiwanese bananas
+under a partnership agreement with retailers such as 7-Eleven and Costco. However, the market had
+remained unpro ﬁtable for Dole since it ventured into Taiwan. Asked why Dole withdrew from the
+Taiwanese market, one of Dole ’s suppliers explained that ‘the company overlooked the importance
+of nature ’. For the supplier, the idea of nature refers to the dif ﬁculties of managing the TR4 epi-
+demic in the ﬁeld. In the face of the TR4 epidemic, speculative care practices comprise efforts
+to reframe the market; these efforts involve considerable work and time, challenging the model
+of large-scale commercial banana plantations. According to Hamrick et al. (2018), although the
+declining market share of the ﬁve leading companies in the banana sector can be attributed to a
+range of factors, diseases such as TR4 make it dif ﬁcult to produce large quantities of bananas.
+Second, the management of a pathological market such as the Taiwanese banana-growing sector
+is labour-intensive and time-consuming, placing mounting pressure on large-scale plantations. Thebiomaterialities of bananas combined with unpredictable natural forces further exacerbate the
+problem. Depending on the variety of bananas and environmental conditions, 9 –12 months are
+required between planting and harvest. Climate change, accompanied by unexpected droughts,ﬂoods, storms and high temperatures, causes plant damage and, in turn, ﬂuctuations in prices.
+Banana plants are grown in tropical and subtropical regions where typhoons and cyclones occur
+most often. During the typhoon season, Taiwanese banana growers often face heavy rains andstrong winds, as the impacts of Typhoon Nepartake on banana plantations in 2016 highlighted.
+The tropical storm devastated banana production, with over 1300 ha affected. The capabilities of
+calculative agencies are further obscured by uncertain climate change, making price-setting prob-lematic. One of the interviewees, Mr Huang, a banana farm manager, expressed that ﬂuctuations in
+banana prices disrupt industrial agribusiness, for whom price stabilisation is the priority. To preventWang and Chien 621
+farmers from selling their produce to other competitors, traders must pay banana growers higher
+prices than the industry average in times of soaring demand. Such price volatility means the
+banana market is overly active and unpredictable, thus leading to an over ﬂow of the market
+framing set by giant agribusiness. In this vein, medium-size retailers gradually replaced large plan-tations as the market framing of large plantations became unpro ﬁtable. In a nutshell, nature and
+climate are not static backgrounds in which living organisms grow and develop; rather, nature
+and climate actively participate in making biological markets (Çal ıs ̧kan and Callon, 2010;
+Callon, 2021; Le Velly and Moraine, 2020).
+Faced with the TR4 epidemic, medium-size retailers have become more ﬂexible and resilient
+than large plantations. As Mr Wang, another supplier of bananas to Dole said in an interview, ‘I
+devoted much time to the management of soil. …It is costly …As such, I owned a ﬁfty hectares
+banana farm and integrated farmers into the planned production programme via contractual
+arrangements ’. Unlike conventional contract arrangements, farmers are not pre- ﬁnanced; instead,
+they are paid at prices above the industry average when the bananas are harvested. ‘Higher
+prices prevent farmers from side-selling their products ’, he added. Furthermore, self-owned
+farms can also ensure that the supply of bananas is not disrupted in the face of TR4 outbreaksand uncertain environmental risks. Wang took over some of Dole ’s business after the multinational
+corporation left Taiwan. The Dole ’s decision to pull out of Taiwan vividly demonstrates the rescal-
+ing that can occur in market reorganisations sparked by unpredictable factors such as TR4.
+Conclusion
+Building on ANT, the performativity approach provides useful ways to examine agri-food market-making by committing to the idea of distributed agency. For example, a market can be conceptua-
+lised as an arrangement of heterogeneous constituents; such a framework is insightful in that
+marketisation is always involved with the commodi ﬁcation of (living) things. By highlighting
+the importance of non-human entities, studies on marketisation can focus on what Callon (1998:
+260) calls ‘hot situations ’in which the disentanglement of (living) things repeatedly causes contro-
+versies and provokes resistance (Çal ıs ̧kan and Callon, 2010; Callon, 1998, 2021). While we broadly
+acknowledge the perspective provided by ANT on market organisations, this paper advances the
+discussion by considering the impacts of microbes, speci ﬁcally those responsible for TR4, on
+the Taiwanese banana market in terms of market-making and remaking. With reference to organis-ing the Taiwanese banana export market during the TR4 pandemic, it makes two novel contribu-
+tions to the literature.
+First, as Callon and colleagues showed, due to the unpredictable nature of non-human entities
+such as microbes, marketisation involving crops such as bananas is especially prone to controversy
+and debate (Çal ıs ̧kan and Callon, 2010; Callon, 2021). While recent work on the management of
+plant and animal health has further revealed the challenges of framing such biologic-dependantmarkets, we suggest that more attention must be paid to how such markets evolved and are recon-
+ﬁgured to co-exist with diseases such as TR4. Our notion of pathological markets developed here
+ﬁlls this theoretical gap, with particular attention to microbial organisms which can develop, grow
+and have wide-ranging impacts on our entangled, multispecies world. Large-scale banana planta-
+tions, as Tsing (2015) pointed out, re ﬂect the history of the human accumulation of wealth in
+terms of the various aspects of alienation such accumulation causes. For example, due to thequest for ever-increasing pro ﬁts, both human and non-human entities such as soil become disen-
+tangled from their natural ways of existing. However, due to their capabilities of growth,
+animate living organisms such as microbes can ‘make ecological living places, altering earth,
+air, and water ’(Tsing, 2015: 22). Such world-making projects often complicate the process of
+marketisation and the anthropocentric will to control nature. The reassembling of the Taiwanese622 EPE: Nature and Space 7(2)
+export market provides an excellent example of the agential impacts of microbes in market orga-
+nisations; namely, as speculative and probiotic organising efforts have been made to live with
+the TR4 diseases. Although soil care and bio-care practices remain bound to capitalist agricultural
+will, they require ‘embodied immersion in ecological cycles ’and‘making time for soil time ’(Puig
+De La Bellacasa, 2015: 705). The recon ﬁguration of the banana export market provides an oppor-
+tunity for market agents to rethink human –soil relations, marking a shift from treating soil as a
+resource towards considering its true role as a living organism that must be both well understoodand respected.
+Second, the impossibility of disentangling the TR4 pathogens in the ﬁeld has had a profound
+impact on the market organising. Large-scale banana plantations have been shrinking due to thedifﬁculties posed by banana diseases such as Fusarium wilt. The emergence of medium-sized pro-
+ducers has implications for understanding biological market-making since we have witnessed the
+growing marketisation of living entities such as bananas. More attention needs to be paid to themaking and remaking of biological markets because market stakeholders face a wide range of
+natural disasters such as infectious diseases, biological extinction and climate change.
+Highlights
+1. This paper examines the making and remaking of the banana export market in Taiwan.
+2. We draw on a case study of assembling banana export markets in Taiwan after the TR4 crisis to
+develop the idea of pathological markets .
+3. Inspired by recent scholarship on biosecurity and care practices, we outline two characteristics
+shaping the pathological market: speculative and probiotic care practices andthe rescaling of
+market organisations.
+Declaration of con ﬂicting interests
+The author(s) declared no potential con ﬂicts of interest with respect to the research, authorship, and/or publi-
+cation of this article.
+Funding
+The author(s) disclosed receipt of the following ﬁnancial support for the research, authorship, and/or publica-
+tion of this article: This work was supported by the National Science and Technology Council, Taiwan (grant
+number MOST 111-2423-H-002-005-MY4, MOST 111-2628-H-007-003-MY3).
+ORCID iD
+Chi-Mao Wang https://orcid.org/0000-0002-5125-230X
+References
+AgriHarvest (2022) Taiwanese banana. Available at: https://www.agriharvest.tw/archives/76756
+Alcadipani R and Hassard J (2010) Actor-network theory, organizations and critique: Towards a politics of
+organizing. Organization 17: 419 –435.
+Altendorf S (2019) Banana Fusarium wilt tropical race 4: A mounting threat to global banana markets? In:
+Food Outlook: Biannual Report on Global Food Markets . Rome: FAO, pp.12 –20.
+Banerjee S and van der Heijden MG (2022) Soil microbiomes and one health. Nature Reviews Microbiology
+21: 6–20.Wang and Chien 623
+Beunza D and Ferraro F (2019) Performative work: Bridging performativity and institutional theory in the
+responsible investment ﬁeld.Organization Studies 40: 515 –543.
+Bubici G, Kaushal M, Prigigallo MI, et al. (2019) Biological control agents against Fusarium Wilt of banana.
+Frontiers in Microbiology 10: 616.
+Çal ıs ̧kan K and Callon M (2009) Economization, part 1: Shifting attention from the economy towards pro-
+cesses of economization. Economy and Society 38: 369 –398.
+Çal ıs ̧kan K and Callon M (2010) Economization, part 2: A research programme for the study of markets.
+Economy and Society 39: 1–32.
+Callon M (1986) Some elements of a sociology of translation: Domestication of the scallops and the ﬁshermen
+of St Brieuc Bay. In: Law J (ed) Power, Action, and Belief: A new Sociology of Knowledge? London:
+Routledge & Kegan Paul, pp.196 –233.
+Callon M (2010) Performativity, mis ﬁres and politics. Journal of Cultural Economy 3: 163 –169.
+Callon M (2021) Markets in the Making: Rethinking Competition, Goods, and Innovation (translated by
+Custer, Olivia and edited by Poon, Martha) . New York: Zone Books.
+Callon M (2007) What does it mean to say that economics is performative? In: MacKenzie DA, Muniesa F and
+Siu L (eds) Do Economists Make Markets?: On the Performativity of Economics . Princeton: Princeton
+University Press, pp.311 –357.
+Callon M (1998) An essay on framing and over ﬂowing: Economic externalities revisited by sociology. The
+Sociological Review 46: 244 –269.
+Callon M and Muniesa F (2005) Peripheral vision. Organization Studies 26: 1229 –1250.
+de la Cruz J and Jansen K (2018) Panama disease and contract farming in the Philippines: Towards a political
+ecology of risk. Journal of Agrarian Change 18: 249 –266.
+Deltour P, França SC, Pereira OL, et al. (2017) Disease suppressiveness to Fusarium wilt of banana in an agro-
+forestry system: In ﬂuence of soil characteristics and plant community. Agriculture, Ecosystems &
+Environment 239: 173 –181.
+Dita M, Barquero M, Heck D, et al. (2018) Fusarium wilt of banana: Current knowledge on epidemiology and
+research needs toward sustainable disease management. Frontiers in Plant Science 9: 1468.
+Enticott G (2012) The local universality of veterinary expertise and the geography of animal disease.
+Transactions of the Institute of British Geographers 37: 75 –88.
+Enticott G (2017) Navigating veterinary borderlands: ‘heiferlumps ’, epidemiological boundaries and the
+control of animal disease in New Zealand. Transactions of the Institute of British Geographers 42: 153 –
+165. Available at: <Go to ISI>://WOS:000400701000001
+FAO (2022) FAOSTAT. Available at: http://www.fao.org/faostat/en/#rankings/countries_by_commodity_
+exports
+Farbotko C, Maclean K and Robinson C (2016) Performing a plant biosecurity emergency: The generation of
+disease absence and presence in Northern Australia banana plantations. Environment and Planning
+a-Economy and Space 48: 771 –788.
+Foucault M (1980) Power/Knowledge: Selected Interviews and Other Writings, 1972-1977 . New York:
+Pantheon Books.
+Fu L, Ruan Y, Tao C, et al. (2016) Continous application of bioorganic fertilizer induced resilient culturable
+bacteria community associated with banana Fusarium wilt suppression. Scienti ﬁc Reports 6: 1–11.
+Guthman J (2019) Wilted: Pathogens, Chemicals, and the Fragile Future of the Strawberry Industry . Oakland:
+University of California Press.
+Hamrick D, Couto V and Fernandez-Stark K (2018) Saint Lucia in the Banana Global Value Chain . Durham,
+NC: Duke Global Value Chains Center, Duke University.
+Hinchliffe S, Allen J, Lavau S, et al. (2013) Biosecurity and the topologies of infected life: From borderlines to
+borderlands. Transactions of the Institute of British Geographers 38: 531 –543.
+Hinchliffe S and Bingham N (2008) Securing life: The emerging practices of biosecurity. Environment and
+Planning a-Economy and Space 40: 1534 –1551.
+Hinchliffe S, Bingham N, Allen J, et al. (2017) Pathological Lives: Disease, Space and Biopolitics . Chichester:
+Wiley Blackwell.624 EPE: Nature and Space 7(2)
+Hong S, Jv HL, Lu M, et al. (2020) Signi ﬁcant decline in banana Fusarium wilt disease is associated with soil
+microbiome reconstruction under chilli pepper-banana rotation. European Journal of Soil Biology 97:
+103154.
+Huang J, Pang Y, Zhang F, et al. (2019) Suppression of Fusarium wilt of banana by combining acid soil ameliorant
+with biofertilizer made from Bacillus velezensis H-6. European Journal of Plant Pathology 154: 585 –596.
+Hwang SC (1987) Progress in the selection of TR4 disease-resistant varieties. Available at: http://www.banana.
+org.tw/Default.aspx
+Hwang SC and Ko WH (2004) Cavendish banana cultivars resistant to Fusarium wilt acquired through soma-
+clonal variation in Taiwan. Plant Disease 88: 580 –588.
+Ingold T (2011) Being Alive: Essays on Movement, Knowledge and Description . London: Routledge.
+Jamil FN, Hashim AM, Yusof MT, et al. (2023) Association of soil fungal community composition with inci-
+dence of Fusarium wilt of banana in Malaysia. Mycologia 115: 178 –186.
+Koseki Y (2008) The development of Taiwanese banana industry and its relaionship with Japanese market.
+Taiwan historica 59: 235 –262.
+Krzywoszynska A (2019) Caring for soil life in the anthropocene: The role of attentiveness in
+more-than-human ethics. Transactions of the Institute of British Geographers 44: 661 –675.
+Krzywoszynska A and Marchesi G (2020) Toward a relational materiality of soils: Introduction.
+Environmental Humanities 12: 190 –204.
+Law J (2009) Actor network theory and material semiotics. In: Turner BS (ed) The New Blackwell Companion
+to Social Theory . Malden: Wiley-Blackwell, pp.141 –158.
+Law J and Lien ME (2013) Slippery: Fie ld notes in empirical ontology. Social Studies of Science 43:
+363–378.
+Law J and Mol A (2011) Veterinary realities: What is foot and mouth disease? Sociologia Ruralis 51: 1–16.
+Le Velly R and Moraine M (2020) Agencing an innovative territorial trade scheme between crop and livestock
+farming: The contributions of the sociology of market agencements to alternative agri-food network ana-
+lysis. Agriculture and Human Values 37: 999 –1012.
+Li Y, Jiang S, Jiang J, et al. (2022) Synchronized ef ﬁcacy and mechanism of alkaline fertilizer and biocontrol
+fungi for Fusarium oxysporum f. sp. cubense tropical race 4. Journal of Fungi 8: 261. Available at: https://
+mdpi-res.com/d_attachment/jof/jof-08-00261/article_deploy/jof-08-00261-v2.pdf?version =1646389498
+Lin TS (2020) The takeover of Dole ’s business by Yi-Lung Agricultural Company Banana Industry Review .
+Available at: https://www.atri.org.tw/assets/ ﬁles/20200810182006.pdf
+Lorimer J (2020) The Probiotic Planet: Using Life to Manage Life . Minneapolis: University of Minnesota
+Press.
+Luo C (1953) Taiwanese Banana Production and Distribution . Taipei: Qiming Press.
+MacKenzie DA (2006) An Engine, Not a Camera: How Financial Models Shape Markets . Cambridge: MIT
+Press.
+MacKenzie DA, Muniesa F and Siu L (2007) Do Economists Make Markets?: On the Performativity of
+Economics . Princeton: Princeton University Press.
+Mol A (2002) The Body Multiple: Ontology in Medical Practice . Durham: Duke University Press.
+Moser C, Reinecke J, den Hond F, et al. (2021) Biomateriality and organizing: Towards an organizational per-
+spective on food. Organization Studies 42: 175 –193.
+Müller M and Schurr C (2016) Assemblage thinking and actor-network theory: Conjunctions, disjunctions,
+cross-fertilisations. Transactions of the Institute of British Geographers 41: 217 –229.
+Palo T, Mason K and Roscoe P (2020) Performing a myth to make a market: The construction of the ‘magical
+world’of Santa. Organization Studies 41: 53 –75.
+Ploetz RC (2006) Fusarium wilt of banana is caused by several pathogens referred to as Fusarium oxysporum
+f. sp cubense. Phytopathology 96: 653 –656.
+Ploetz RC (2015) Management of Fusarium wilt of banana: A review with special reference to tropical race 4.
+Crop Protection 73: 7–15.
+Puig De La Bellacasa M (2015) Making time for soil: Technoscienti ﬁc futurity and the pace of care. Social
+Studies of Science 45: 691 –716.Wang and Chien 625
+Puig de la Bellacasa M (2017) Matters of Care: Speculative Ethics in More than Human Worlds . Minneapolis:
+University of Minnesota Press.
+Salazar JF, Granjou C, Krzywoszynska A, et al. (2020) Thinking-with soils: An introduction. In: Salazar JF,
+Granjou C, Kearnes M, Krzywoszynska A and Tironi M (eds) Thinking with Soils : Material Politics and
+Social Theory . London: Bloomsbury Academic, pp.1 –13.
+Segura-Mena RA, Stoorvogel JJ, Garcia-Bastidas F, et al. (2021) Evaluating the potential of soil management
+to reduce the effect of Fusarium oxysporum f. sp. cubense in banana (Musa AAA). European Journal of
+Plant Pathology 160: 441 –455.
+Shen Z, Xue C, Penton R, et al. (2019) Suppression of banana Panama disease induced by soil microbiome
+reconstruction through an integrated agricultural strategy. Soil Biology & Biochemistry 128: 164 –174.
+Teixeira L, Nomura E, Damatto E, et al. (2022) Effectiveness of soil management practices on Fusarium wilt of
+banana in the Ribeira Valley, Brazil. Tropical Plant Pathology 47: 411 –420.
+The Economist (2014) Yes, we have no bananas, 410, 65.
+Tsing AL (2015) The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins .
+Princeton: Princeton University Press.
+Vellema S (1999) Agribusiness control in Philippine contract farming: From formality to intervention. The
+International Journal of Sociology of Agriculture and Food 8: 95–110.
+Xiao TY (1988) Prevention of Fusarium wilt of banana by breeding disease-resistant varieties. Available at:
+http://www.banana.org.tw/Default.aspx
+Xue C, Penton RC, Shen O, et al. (2015) Manipulating the banana rhizosphere microbiome for biological
+control of Panama disease. Scienti ﬁc Reports 5: 11154.626 EPE: Nature and Space 7(2)

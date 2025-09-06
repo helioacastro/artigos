@@ -1,0 +1,670 @@
+Geogr J. 2024;190:e12558.     | 1 of 15
+https://doi.org/10.1111/geoj.12558
+wileyonlinelibrary.com/journal/geojReceived: 18 January 2023 | Revised: 16 October 2023 | Accepted: 23 October 2023
+DOI: 10.1111/geoj.12558  
+ARTICLE
+Farming for the patchy Anthropocene: The spatial 
+imaginaries of regenerative agriculture
+George Cusworth1 |   Jamie Lorimer2 |   E. A. Welden3
+1Oxford Martin Programme on the 
+Future of Food, c/o Oxford Martin 
+School, University of Oxford, Oxford, 
+UK
+2Hertford College, University of Oxford, 
+Oxford, UK
+3Keble College, University of Oxford, 
+Oxford, UK
+Correspondence
+George Cusworth, University of Oxford, 
+Oxford, UK.
+Email: george.cusworth@biology.ox.ac.uk
+Funding Information
+This research was funded by the 
+Wellcome Trust, Our Planet Our Health 
+(Livestock, Environment and People – 
+LEAP), award number 205212/Z/16/Z. 
+For the purpose of open access, the 
+author has applied a CC BY public 
+copyright licence to any Author 
+Accepted Manuscript version arising 
+from this submission. The funding 
+body played no part in the study 
+design; in the collection, analysis, and 
+interpretation of data; in the writing of 
+the report; nor in the decision to submit 
+the article for publication.Abstract
+With its focus on the species level of the Anthropos, there is growing concern that 
+the Anthropocene analytic lacks the conceptual nuance needed to grapple with 
+the unevenly distributed harms and responsibilities tied up with issues of biodi-
+versity loss, global warming, and land use change. Conceptual variants like the 
+patchy Anthropocene have been proposed to better capture the justice implica-
+tions of these socio-ecological crises, directing attention to their spatially ubiqui-
+tous yet context-specific character. The figure of the plantation has come to play 
+an important role in this scholarship due to the contribution intensive agriculture 
+had made to these interlinking crises. Through empirical study of the regenera-
+tive agricultural movement, this paper reflects on how regenerative farmers use 
+different sites (fields, soils, livestock stomachs) to apprehend their agro-ethical 
+responsibilities to more-than-human actors both near to and far from the land-
+scapes they manage. Our aims here are two-fold. First, we provide a more affirm-
+ative account of agricultural management than is currently offered by plantation 
+farming: a model of food production that is not just ‘in’ the Anthropocene, but 
+‘for’ it. Second, we contribute to ongoing discussions unfolding in the social sci-
+ences around the tools needed to conceptualise the interlinking spatial and jus-
+tice aspects of the Anthropocene transition. By bringing the patchy analytic into 
+conversation with more established geographic writing on scale, volume, and 
+horizontal connections, we show the merit of juxtaposing multiple models of 
+spatial relation as a way of gaining ethical and conceptual traction on complex 
+socio-ecological issues. We argue that the ‘polymorphic’ spatial imaginaries of re-
+generative agriculturalists can offer some guidance on the tools needed to attend 
+to the specificity of local Anthropocene outcomes in relation to socio-ecological 
+forces actuating the world at much greater spatio-temporal scales.
+KEYWORDS
+Anthropocene, patchy Anthropocene, regenerative agriculture, scale, spatial imaginaries, 
+United Kingdom
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided 
+the original work is properly cited.
+The information, practices and views in this article are those of the author(s) and do not necessarily reflect the opinion of the Royal Geographical Society (with IBG). 
+© 2023 The Authors. The Geographical Journal published by John Wiley & Sons Ltd on behalf of Royal Geographical Society (with the Institute of British Geographers).
+
+2 of 15 |   
+CUSWORTH et al.
+1 | INTRODUCTION
+We are moving fast into the Anthropocene and conventional, intensive agriculture is one of its main drivers (Willett 
+et al.,  2019, p. 244). While this model has led to vast increases in food production, there are growing concerns about its en-
+vironmental, social, and political ills. These include the ecological simplification caused by deforestation and monocul-
+ture, climate change, zoonotic diseases, and the erasure of smallholder land ownership and indigenous and vernacular 
+knowledge systems. Although the Anthropocene framing has assisted in the analysis of these problems, there is concern 
+about the concept's explanatory power and critical potential (Haraway,  2015). Critics suggest that the focus it places 
+on the species level of the Anthropos makes it ill equipped to map the uneven geographies of responsibility for climate 
+change and biodiversity loss, particularly as their violent outcomes are distributed along axes of socio-economic status, 
+gender, and race (Malm & Hornborg, 2014).
+In light of these criticisms, the anthropologist Anna Tsing and her colleagues offer the concept of the ‘patchy 
+Anthropocene’ (Tsing et al.,  2019) as part of a wider project aiming to spatialise the Anthropocene transition (Tsing 
+et al.,  2021). Their intervention is driven by a recognition of the links between space and multispecies justice. They argue 
+that without analysing the spatially ubiquitous yet context-specific character of the Anthropocene, scholars will remain 
+‘naively beholden to its unitary pretensions’ (Tsing et al.,  2019, p. 190). Scholars have begun to deploy the concept of 
+the patchy Anthropocene, alongside other spatiality sensitive alternatives like the Plantationocene, to critically examine 
+the negative impacts of intensive agricultural systems that rely on the simplification, rationalisation, and exploitation 
+of ecologies and societies (Barua,  2023; Chao,  2021). This literature argues that the plantation is founded on a parochial 
+spatio-temporal logic, and that its pursuit of accumulation has generated harmful socio-ecological outcomes in the form 
+of climate change, social inequality, and biodiversity loss.
+In this paper we develop this move to spatialise the Anthropocene, but offer a more affirmative account of agricul-
+tural production. We focus on the regenerative agriculture movement that is emerging across the UK, the USA, Europe, 
+Australia, and New Zealand. Regenerative agriculture promotes the salutary role of agriculture as a means to sequester 
+carbon, improve soil health and biodiversity, and deliver a renewed contract for peaceable multispecies relations. The 
+promises made in the name of regenerative agriculture figure as a direct response to the problems of the plantation and 
+the diagnosis of the Anthropocene ‘Great Acceleration’. While regenerative agriculturalists emphasise the need to attend 
+to the context-specific ecological behaviours of the landscapes they manage, the principles they follow have been devel-
+oped to attend to global issues of warming, biodiversity loss, and land use change (Gordon et al.,  2022). Owing to this 
+local–global, specific–structural, here–everywhere engagement, we cautiously present these farmers as model citizens 
+for the patchy Anthropocene – those with an approach to food production not just ‘in’ the Anthropocene, but ‘for’ it 
+(Maye et al., 2022).
+To make the case, we focus on three spatial imaginaries that are common elements of the regenerative ‘mindscape’ 
+(Gordon et al.,  2022). These imaginaries configure how our farmers connect local managerial and ethical responsibilities 
+to planetary-scale socio-ecological issues. Our aims in presenting the spatial strategies of these farmers are two-fold. 
+First, we document some of the principles and practices we believe are needed for a model of food production fit for the 
+patchy Anthropocene. Second, we contribute to discussions unfolding in geography and anthropology around the con-
+ceptual tools needed to account for the spatial complexities of the Anthropocene. While we rally behind attempts being 
+made to spatialise the Anthropocene, we believe more work needs to be done to ensure the patchy Anthropocene analytic 
+is up to the task.
+We argue that both of these goals require a more sophisticated conceptual grammar of spatial relations than is currently 
+offered in the writing on the patchy Anthropocene. To this end, we draw on established human geography scholarship 
+on space and scale to describe the manner in which regenerative practitioners invoke (i) vertically nested frameworks, 
+(ii) horizontal systems of networked connection, and (iii) volumetric models of three-dimensional space to guide their 
+practice. We read these spatial imaginaries out of the strategies of regenerative agriculturalists as a way of writing them 
+into the patchy Anthropocene analytic. We focus on three different sites – the field, the stomach, and the soil – to illustrate 
+how these imaginaries work in practice. We explore how regenerative agriculturalists juxtapose these various imaginaries 
+into a ‘polymorphic’ (Jessop et al.,  2008) approach to spatial relations. We show how this allows them to see global issues 
+like climate change and biodiversity loss in the specific farmed landscapes they manage, and to situate the landscapes 
+they manage as part of the solution to those same issues.
+In the next section, we provide an overview of the patchy Anthropocene concept. We then introduce geographical 
+literatures on space and scale and weave them into the patchy analytic. In the two following sections, we present the 
+regenerative agricultural movement, and our methods for data capture and analysis. The subsequent three-part analysis 
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 3 of 15
+CUSWORTH et al.
+traces the spatial imaginaries at work in the regenerative agricultural model, along with the farm management practices 
+and landscapes they are producing. In conclusion, we reflect on the implications of our analysis for conceiving of the 
+geographies of food production and farm management ‘for’ the patchy Anthropocene (Maye et al., 2022).
+1.1 | The patchy Anthropocene and the plantation
+Tsing and colleagues develop the concept of the patchy Anthropocene from analyses of plantation agriculture. They 
+suggest that the plantation model has provided both intellectual inspiration and an economic engine for environmen-
+tal destruction, ecological simplification, and unequal economic development since taking root, most significantly, in 
+the projects of European empire (Davis et al.,  2019). They focus their analysis on the twin processes of what they term 
+‘modular simplification’ and ‘feral proliferation’. In the former, ecologies are simplified, rationalised, accelerated, and 
+then replicated in the globalisation of the plantation model. In the latter, simplification leads to blowback, generating an 
+unexpected and pathological abundance of pests, endowed with an ability to move along the vectors of globalisation with 
+violent outcomes for the lives they entangle (Giraud et al.,  2019). Proliferation is exemplified in a host of plant pathogens, 
+invasive species, and zoonotic diseases that spill over from industrial forests, plantations, and factory farms (Hinchliffe 
+et al., 2016).
+Under the plantation rationale, the lives whose growth is indexed to accumulation (like crops and livestock animals) 
+are nurtured, while those with less easily traced financial benefits are killed or removed (Tsing,  2017). The plantation 
+is indivisible from racialised hierarchies of control, accumulation, and labour (Davis et al.,  2019) and it produces in-
+jurious outcomes for both the other-than-human lives on the plantation and the human communities proximate to it 
+(Chao,  2021). The managerial approach to the plantation has a particular set of spatial characteristics. The spatial ex -
+tent of the plantation is expanded outwards as the complexity of the relations it contains are reduced, while the hikes 
+in output this rationalisation helps generate spatially separate the periphery (where the socio-ecological harms tied up 
+with intensive cultivation are concentrated) from the core (which enjoys the benefits of accumulation and none of the 
+violence of production) (Wolford, 2021).
+Tsing and colleagues argue that the processes of ecological simplification and feral proliferations are tightly coupled 
+within specific landscapes, and that their healthy or harmful outcomes are rooted in place and visited on the more-than-
+humans who dwell there (Tsing et al.,  2019). They call on scholars to pay close attention to the spaces within which sim-
+plifications and proliferations unfold. To do this, Tsing and colleagues draw on the science of landscape ecology and the 
+study of landscape structures and the patches of which they are composed. They define a landscape as a ‘unit of hetero -
+geneity whose components – at any scale – are patches’ (Tsing et al.,  2019, p. s188). Landscape structures are aggregations 
+of patches, which are always coming into being, iteratively produced through more-than-human activity. Agricultural 
+landscapes are a perfect example. Although farmers choreograph ecologies of plants, animals, soils, pollinators, and 
+water to produce desired financial and agronomic outcomes, vegetal and animal life just as often as not compromises 
+their control.
+They suggest that by learning how to ‘read’ (Brown,  2019) the complex socio-ecological histories of landscape struc-
+tures and their constituent patches, along with the harms and benefits they produce, scholars can use individual case 
+study sites as analytical gateways to reflect on their relationships with longer and larger dynamics of change. Such ‘arts 
+of noticing’ (Tsing,  2015) can help scholars see in synthesis structural macro-scale processes and local, specific, and 
+micro-scale events. This is the aspect of the patchy analytic we are most interested in here: the means and ambition to 
+attend to the specificity of Anthropocene outcomes in relation to the socio-ecological forces actuating the world at much 
+greater spatio-temporal scales.
+This ambition is complicated by the very scale of the things being studied. Many of the socio-environmental crises at 
+the heart of the Anthropocene (climate change, biodiversity loss, etc.) are so large and have such a complex set of drivers 
+that they cannot be fully understood in single spatio-temporal contexts. Tsing and colleagues encourage scholars to use 
+models as ‘thought experiments’ to come to know the character of large-scale socio-ecological changes to cultivate more 
+peaceable ways of living on a damaged planet. They also warn of the siren call of models and the way they can supplant 
+affective engagements with the more-than-human worlds they are designed to apprehend (see Swanson, 2019).
+Tsing et al. (2019) are particularly interested in how multiple ‘systems as thought experiments’ can be juxtaposed to 
+produce competing and/or complementary evaluations of landscape dynamics. They suggest that this approach helps 
+gain more observational and analytical traction on landscape structures with multivalent character and multiple tempo -
+ralities. They propose focusing on ecological simplifications, feral proliferations, landscape structure, landscape patches, 
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4 of 15 |   
+CUSWORTH et al.
+and systems as thought experiments to grapple with the ‘spatial and historical unevenness that hides in plain sight in the 
+Anthropocene’ (Tsing et al., 2019, p. s190).
+1.2 | An enhanced spatial grammar: vertical, horizontal, and volumetric models
+The work of Tsing et al. offers us a good start, but we wager that the project to spatialise the Anthropocene would benefit 
+from a deeper engagement with geographic scholarship on space and scale. The first potential stumbling block, we be-
+lieve, relates to the risk of naturalising categories that are, in fact, products of social and political construction (Marston 
+et al.,  2005). When studying ethnicity and nationhood, for example, if scholars use the ‘nation state’ as a given category, 
+they risk legitimating nationalist sentiments that they might otherwise be looking to query (Moore,  2008). How can 
+scholars use spatial categories in patchy Anthropocene-inspired work (particularly the landscape patches and structure 
+Tsing and colleagues provide) without privileging their analytic significance, assuming things about their spatial quali-
+ties, or ‘reifying’ their ontological status (MacKinnon,  2011)?
+Adam Moore suggests that the root of the issue lies in the ‘unreflexive conflation of scale as an everyday category of 
+practice with [the] treatment of scale as a substantial category of analysis’ (Moore,  2008, p. 207). That is, a slippage be -
+tween the usage of spatial units as a set of experience-distant ontological groupings that academics deploy to understand 
+the worlds they are studying (categories of analysis), and their usage as a set of epistemological heuristics that are used by 
+social actors to organise their behaviour and which go on to have material impacts in the world (categories of practice). 
+He argues that confusion with these terms is creating a literature inattentive to the convergence between research design 
+and findings. Using the spatial category of the ‘nation state’ in critical study will, to return to the above example, produce 
+research attuned to the significance of the nation state, even though notions of nationhood are historically, topographi-
+cally, and socially contingent.
+What does this mean for the patchy Anthropocene and its application in social science research? We argue that it ne -
+cessitates a commitment to using inductive rather than pre-determined spatial categories. In our study, we allowed the 
+spatial frames used by our participants to emerge through interviews and over successive rounds of inductive, grounded 
+theory style coding (Moghaddam,  2006). We focused on the intellectual activities involved in the construction of spatial 
+categories and the material outcomes produced through the enactment of those frames. This approach forced us, as 
+scholars, to grapple with the epistemological (categories of practice) not ontological (categories of analysis) character 
+of spatial categories in our efforts to spatialise the Anthropocene. The landscape patches and structures in the patchy 
+Anthropocene might be approached with similar analytic caution. They are not pre-determined spatial units – and schol-
+ars using the patchy concept need to attend to the reasons why actors divide complex landscapes into constituent patches 
+in the way they do every bit as much as they must attend to the biophysical, morphological, and ecological qualities of 
+the places being studied.
+A recognition of the epistemological character of spatial and scalar categories need not entail their wholesale aban-
+donment (cf. Marston et al.,  2005). Indeed, the patchy Anthropocene requires a sophisticated conceptual grammar to 
+properly study the uneven spatial distributions of the harms, benefits, and responsibilities of contemporary socio-ecolog -
+ical crisis. In the empirical analysis that follows, we describe three (epistemological) spatial imaginaries that are used in 
+the regenerative model. They include vertically nested systems, horizontally networked connections, and volumetrically 
+deep approaches to space. The character and consequences of these three spatial imaginaries have been described in the 
+literature.
+The description offered by Taylor (1982) of vertically nested global, national and city scales has been hugely influen-
+tial. Grounded in materialist political economy, work using this spatial imaginary has revealed how uneven economic 
+outcomes emerge from the flows and interactions of capital between groupings at different levels in a vertically arranged 
+hierarchy (Smith, 1990). This work initiated thinking on nested scales, in which ‘different activities are organized at dif-
+ferent scales covering the same places’ (Collinge, 2006, p. 244).
+Geographical interest has shifted to frameworks of networked horizontal connection. These foreground the link -
+ages that conjoin related activities in distant locations (Collinge,  2006). As Leitner argues: ‘whereas the spatiality of 
+a politics of scale is associated with vertical relations among nested territorially defined political entities … networks 
+span space rather than covering it, transgressing the boundaries that separate and define these political entities’ 
+(Leitner,  2004, p. 237). Scholars have been drawn towards such frameworks to account for the connections that have 
+come to define contemporary economic and social life: commodity chains, agricultural supply and demand, labour 
+migration, environmental governance, plastic pollution, governance structures of multinational corporations, and so 
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 5 of 15
+CUSWORTH et al.
+on. These vectors traverse the globe, link distant actors, activities, and outcomes, and make complex rhizomatic webs 
+of causal connection.
+More recently there has also been a ‘volumetric turn’ in geography to address concerns over an excessive focus on 
+two-dimensional surfaces (Billé,  2017). This shift is linked to a more general material turn, focusing on the stuff of life 
+which, by its nature, exists across three rather than two spatial dimensions (Steinberg & Peters,  2015). In our study, we 
+go beyond the technocratic gaze that has been ‘hard to escape’ (Adey,  2013, p. 53) in scholarly accounts of three-dimen-
+sional space by documenting the volumetric imaginaries used by non-hegemonic actors to guide their sustainable farm 
+management strategies.
+We use the term spatial as a catch-all to refer to the manner in which spaces relate to one another, and the way things 
+happen within them. We allow the term to accommodate all of the vertically arranged, horizontally connected, and volu-
+metrically deep framings used in this paper. We append to this the term imaginary to emphasise that we are dealing with 
+epistemological (not ontological) heuristics that our research participants use to structure their subjectivities and guide 
+their actions.
+Rather than seek out a single spatial theory of everything, Jessop et al. (2008) recommend scholars embrace a poly -
+morphic account of relations that ‘emphasizes the importance of contradictions, conflicts, dilemmas, marginalization, 
+exclusion, and volatility, at once within and among each of these sociospatial forms’ (2008, p. 394). We agree that such 
+an approach is needed to apprehend complex socio-ecological phenomenon with multivalent spatial connections and 
+manifold temporalities. Such ‘planetary social thought’ (Clark & Szerszynski,  2020) is needed to situate human activity 
+‘within the story of a planet that is evolving and organizing itself’ across timescales and spatial planes, both big and small 
+(Szerszynski,  2022, p. 194). As we discuss in the final section of the paper, this polymorphic spatial approach also has 
+good fit with the conceptual underpinnings and normative ambitions of the patchy Anthropocene, and is a key part of 
+the strategy that allows regenerative practitioners to grapple with global socio-ecological issues through the management 
+of specific farmed landscapes.
+1.3 | Regenerative agriculture
+Although the notion of agricultural regeneration has been around for some time, its ascent into the food mainstream over 
+the last 10 years has been dizzying. Regenerative agriculture now boasts dedicated agricultural fairs, peer-to-peer learn-
+ing networks, and consumer-facing food labels. A review of the movement's history and recent emergence is outside the 
+scope of this paper, and so we direct readers to Newton et al. (2020) for a more comprehensive account. In this section, 
+we instead focus on the aspects of regenerative agriculture that have a direct bearing on the way its practitioners concep-
+tualise the spatial aspects of farm management.
+The regenerative model is geared towards the revitalisation of the ecosystems on which agricultural production relies, 
+particularly soils (Schreefel et al.,  2020). Its key principles are captured in Figure  1. Farmers use ‘no-till’ techniques (in which 
+seeds are drilled into the topsoil) rather than ploughing, and they keep the soil covered by vegetation with cover or catch 
+crops (plants like vetch and clover that are grown in between arable cash crops that can themselves be grazed by livestock 
+animals). These practices are designed to allow soil structure to develop and complex and functional ecologies to flourish.
+Livestock animals play an important – though not ubiquitous (Newton et al.,  2020) – part in regenerative soil health 
+strategies (Gosnell et al.,  2020). Through their manure and browsing habits, ruminants cycle nutrients around the farm, 
+reduce reliance on synthetic inputs of fertilisers, and create complex, carbon-rich soil ecologies. Livestock integration in 
+Figure  1 refers to the cycling of grazing and cropping land use. The aim being to improve soil health and fertility, and 
+to install diverse agroecosystems of which grazing ruminants are seen to be an important part. The term ‘diversity’ in 
+Figure  1 relates both to the diversity of agricultural land use and the ecological diversity on the farm more generally. Crop 
+diversification strategies move away from common minimally diverse rotations of wheat, barley, and oilseed rape towards 
+longer and more elaborate rotations including peas, beans, oats, grasses, and fodder crops (Cusworth et al.,  2021a, 2021b).
+2 | METHODS
+The paper draws on 42 interviews with English farmers who identified as being, or in the process of becoming, regenera-
+tive. Their farms ranged in size from 80 ha to 10,000 ha. The research sample represents a range of direct to consumer, 
+part-time, and ‘hobby farmer’ business models, all the way up to large, commercial units that employed several full-time 
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+6 of 15 |   
+CUSWORTH et al.
+staff and who sold their produce through agricultural commodity markets. In addition to these interviews, we also at-
+tended four farm events being run by and/or for regenerative farmers, and spoke with experts from various extension 
+services and agricultural research stations. This latter group, who were spoken to late on in the data collection process, 
+added a level of strategic oversight to our findings. We used their expertise to help corroborate the input we had from our 
+farming cohort. Interviews were a mix of 16 telephone and 26 in-person conversations.
+Interviews were sourced initially with pre-existing contacts and, thereafter, through snowball sampling. The world 
+of regenerative agriculture is well networked and practitioners were forthcoming with requests for interviews, farm vis -
+its, and recommendations for other potential interviewees. Initial contact with participants explained the nature of the 
+research. Follow-up emails provided a more detailed information sheet that had been vetted by the University's ethics 
+board. This specified that the interviews would be recorded and that the participants’ words, with permission, might be 
+used in future publications. Virtually all agreed to having their name attached to their words. In response to a small num-
+ber of requests, we changed the name of a few interviewees for anonymisation purposes.
+It is worth noting that the notion of ‘regenerative agriculture’ is going through a period of rapid growth, change, and 
+differentiation. Many large agri-food businesses, along with policy makers from the FAO, the UK, Europe, and the USA, 
+are weaving regenerative principles into their environmental and agricultural strategies. As a result, its origins as an en-
+dogenous farmer-led movement are being complicated by the arrival of powerful political and commercial interests. The 
+version of regenerative agriculture we are documenting here comes from farmers developing and applying regenerative 
+farm practices and advocating for the broader adoption of regenerative principles across the farming community.
+We coded our data inductively, following a grounded theory approach to social science research involving successive 
+rounds of coding and analysis (Moghaddam,  2006). The inductive emergence of the spatial imaginaries we describe are 
+central to the way we navigate the risk of ‘reifying’ spatial and scalar terms that we outlined above. We also use a series 
+of diagrams and photos to represent the regenerative spatial imaginaries we identified. The graphics were developed in 
+collaboration with Vivien Martineau, an artist who works within the world of alternative food networks. The photos 
+were taken by Alexander Turner and permission to use them here was obtained from both the photographer and the 
+individuals captured.
+2.1 | The spatial imaginaries of regenerative agriculture
+Our analysis explores three spatial imaginaries, which we illustrate with reference to three sites. These sites are central 
+to the practice of regenerative agriculture and we feel are most indicative of the imaginaries we want to convey: (1) the 
+vertically nested scaffolding that links the molecular to the field to the farm; (2) the horizontally networked connections FIGURE 1 The five principles of regenerative agriculture, taken from Groundswell, the organisation that runs the largest annual 
+regenerative agriculture conference in the UK.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 7 of 15
+CUSWORTH et al.
+known through the stomachs of livestock animals; and (3) the volumetric considerations manifest in the regenerative 
+valorisation of soil.
+2.2 | Vertically nested scales and agricultural fields
+The real shame of a brown [tilled] field is that it is a chunk of solar energy that is not being harvested by 
+photosynthesis. 
+Tim May, 1,000 ha mixed livestock arable farming
+If you are growing cover crops you might just as well graze it. Then you are starting that nutrient cycling at 
+a time when you want to be cycling nutrients. 
+George Hosier, 650 ha mixed livestock arable farming
+The production of food is, from the perspective of these regenerative farmers, a relatively simple project. There is the 
+energy that the sun provides, and it is either harvested or not via the process of photosynthesis. There are nutrients that 
+are either incorporated during the plant's growth phase or lost to run off or atmospheric breakdown. The agricultural 
+implications of these biophysical systems must be observed to farm well: crops must be in the ground to harness the sun's 
+energy, and the field must be managed in such a way that nutrients and water are available when they are needed.
+Our farmers explained that fields were the smallest modular unit they use to organise their regenerative strategies: 
+‘patches’ in patchy Anthropocene parlance that accommodate one particular agricultural land use at any one time, 
+and that are bounded by field margins like rivers, hedgerows, and ditches. They are the sites at which their under -
+standings of the microscopic dynamics of energy, water, and nutrients are put to work. In some instances, diversity 
+within a field is pursued to create synergistic relations between different plant types. The establishment of mixed 
+grazing swards and arable under-sowing, seen in Figure  2, are good examples. More commonly, though, fields are 
+taken as the compositional units out of which heterogeneous farmed landscape structures are assembled. They oper -
+ate as the focal point in a vertically arranged, nested, spatial imaginary. Standing in a field, farmers can look down the 
+hierarchy to reflect on how the foundational biophysical processes involving energy, water, nutrients, and so on drive 
+FIGURE 2 Field-scale regenerative strategies. Clockwise from top left: mixed sward and sileage bales; soil ecology flourishing under 
+cattle manure; wheat undersown with clover; and legume–grass mixes being measured with a plate metre. Images by Alex Turner.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+8 of 15 |   
+CUSWORTH et al.
+ecological behaviours and agronomic outcomes. From the field, they can also look up to think about the constraints 
+of farm-level regenerative governance: how to run a financially viable unit, how to ensure its agroecological viabil-
+ity in the long term, and how to sustain or improve farm productivity. Per the ecological model of patch dynamics, 
+the level of process (the field) is understood in relation to the level above it (the farm), which provides top-down 
+constraints; while the level below provides the fundamental mechanisms dictating exchanges and outcomes (Wu & 
+Loucks, 1995).
+Although we complicate the two-dimensional implications of this imaginary later on, different land uses are ap -
+plied onto and across fields as a way of generating farm-scale regenerative strategies that encompass the farm's total 
+areal coverage, while field-level strategies are generated from understandings of relevant microscopic processes. In 
+RA, the principle of enterprise stacking functions as a simplified ecological and economic heuristic that can be called 
+on when jumping between the microscopic, field, and farm levels on this vertical hierarchy. The term relates to the 
+way different agricultural ventures can be accommodated in a farm unit and cycled around different fields over time 
+to create a resilient farm business (for discussion on the financial rationale for the adoption of regenerative practices, 
+see Cusworth et al.,  2021a; Jaworski et al.,  2023) and a diverse agroecological system. This approach allows farmers 
+to scale up knowledge about how water drains through the soils, which crop types give and take particular nutri-
+ents from the soil, which suppress or invite specific pests, and which prepare the soil in (dis)advantageous ways for 
+successive crops to produce field-level practice, and from those factors to create a spatio-temporal choreography of 
+farm-scale regenerative management. Figure  3 is the first diagram we developed to capture this vertically arranged 
+microscopic–field–farm imaginary.
+Distinctions can already be traced between this spatial imaginary and those that govern the plantation that we 
+encountered earlier. Rather than expanding a simplified and highly productive agroecology over areas of increas -
+ing spatial extent, those in the regenerative movement use insights about water, nutrients, and energy to develop 
+management practices that can be applied to their fields, and they assemble those land uses to create regenerative 
+strategies that cover the farm's full territory. This allows them to move away from the chemical inputs used in the 
+plantation model to manage fertility and pests and towards the curation of heterogeneous (farmed) landscape struc-
+tures composed of individual (field) patches. Soil fertility, water drainage, soil structure, and pest suppression are 
+emergent features of this regenerative agroecological arrangement, rather than things secured through mechanical 
+and/or chemical intervention.
+2.3 | Horizontal connections and livestock stomachs
+While there are many aspects of the regenerative model that its practitioners conceive of through the above microscopic–
+field–farm vertical imaginary, there are others that cannot be accounted for in this way. For these, our farmers imagine 
+a horizontal web of causal connection as part of their regenerative strategies. These horizontal imaginaries help map the 
+agro-ethical responsibilities that arise from connections that spill out over the farm gate and exceed the confines of the 
+FIGURE 3 Vertically nested regenerative imaginary. By Vivien Martineau.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 9 of 15
+CUSWORTH et al.
+farm (Cusworth,  2023). The stomachs of livestock animals are one important site through which these horizontal link-
+ages are thought through.
+Regenerative practitioners distinguish their grazing strategies (whereby animals consume only grass and locally pro -
+duced fodder) from intensive livestock husbandry practices (in which the animals eat feed products made of soya and 
+other high-protein compounds grown around the world). They are enthusiastic about the positive roles that ruminant 
+animals (like cattle and sheep) can play in a sustainable food system compared to chickens and pigs. This is because 
+ruminants can graze on grass, hay, sileage, cover crops grown in between cash crop rotations (used for arable–livestock 
+integration) and other fodder crops like beets, beans, and peas. Monogastric systems, on the other hand, are overwhelm-
+ingly reliant on high-protein compound feed products. As one farmer put it:
+Pork and chicken is fed from a globalised food system, bringing in artificial maize, soya, grains, with nutri-
+ent-rich, polluting manure coming out at the other end … that's not really going to work in the years to come. 
+The ruminant that's grazing and pooing where they are … that's the system that is going to work. 
+George Hosier, 650 ha mixed livestock arable farming
+Such invocations illustrate how animal rumens are sites through which the farm's horizontal connections to, and responsibil-
+ities for, distant landscapes are made knowable, affecting, and actionable. Crops grown for animal feed are having profound 
+and negative impacts, particularly in the Amazon and Cerrado forests (Barona et al.,  2010) where land is being converted 
+to monocrop soya plantation. Regenerative ‘pasture-based’ livestock systems are being developed to combat these land use 
+change dynamics by renouncing the supply chains underpinning them. This boutique feed supply chain reveals efforts being 
+made in the regenerative movement to think through relationships between husbandry practices in one patch of the world 
+and deforestation and land use change in others. Such global trade connections are classic examples of horizontally net -
+worked spatial connections (Yao et al.,  2018). Their linkages traverse the bounded regional and national units provided in 
+vertically nested scalar frameworks, and instead focus on those vectors linking causes with remote outcomes (Leitner,  2004).
+Overwintering is a good example of how reflections about distant horizontal spatial relations, made corporeal via the 
+digestive activities of livestock animals, are propelling the development of new farm management practices. While most 
+livestock farmers in the UK will graze their animals outdoors over the summer to some extent, virtually all rely on im-
+portant feed products to get them through the winter. As such, particular efforts need to be made to ensure that animals 
+can survive exclusively on locally grown feeds the year round. Figure  4 is an image of a parkland field being prepared for 
+a winter of outdoor grazing. It has been marked out on GIS software into equal cells, each of which has been populated 
+with four hay bales. Over the course of the winter, the cows will be moved between the cells (created through temporary 
+fencing infrastructures), eating the fresh sugary grass first, before moving onto the hay when it runs out.
+The regenerative preference for locally grown feed represents a spatial intervention through which the horizontal 
+connections conjoining the UK livestock sector with the Amazon rainforest are being renegotiated, and even severed 
+entirely. Although these strategies clearly have their own verticality (dividing a large area of parkland into smaller blocs 
+and applying practices onto a field's and farm's areal coverage), the regenerative desire to install them is configured by 
+a horizontal imaginary of spatial relations: one equipped to account for the vectors of globalised supply chains, and the 
+FIGURE 4 Field containing bales of hay to overwinter cattle. Image by Alex Turner.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+10 of 15 |   
+CUSWORTH et al.
+political economic forces driving deleterious land use in distant parts of the world. The rationale for the adoption of such 
+practices is, of course, always part driven by concerns about the financial costliness of expensive feed products (with one 
+dairy farmer interviewee, Dan Burdett, explaining that ‘There are years when yield is king. But a lot of years when costs 
+are very high and you have to keep them down. So, you know, profit is everything’). Nevertheless, across our data and 
+across the literature on the topic, engagement with global environmental issues such as deforestation is a remarkably 
+consistent feature of the regenerative psyche (Jaworski et al., 2023).
+Figure  5 is the second of our spatial diagrams and shows how remote causal connections are folded into regenerative 
+farm management.
+Efforts to act on the injurious socio-ecological implications of participating in animal feed supply chains represent an 
+important departure from the spatiality of the plantation model. In the plantation, it is only those ecological processes 
+(crop growth, animal reproduction, etc.) that produce financial value that are taken into account. Here, farms are being 
+managed with respect to outcomes that do not have implications for the running of the farm business or socio-ecological 
+outcomes that will be experienced in or near to the landscapes being managed.
+2.4 | Volumetric thinking and agricultural soils
+Regenerative practitioners situate their soils as part of a global land use system that could, if properly orchestrated, make 
+a substantial contribution to warming mitigation. As one farmer suggested:
+Of all the different ways that we can avoid catastrophic planet change, by far the easiest and cheapest way is 
+by looking after the soil on a worldwide level. 
+John Cherry, 1,000 ha mixed livestock arable farming and organiser of the Groundswell regenerative 
+ agriculture show
+There is a complex spatial imaginary at work here. Carbon dioxide emissions, wherever they originate, contribute 
+to the global atmospheric stock. They are the ultimate fungible environmental pollutant (Cooper,  2015). As the 
+polluting and offsetting activities of actors on opposite sides of the globe add or subtract to an aggregate stock of 
+greenhouse gas emissions and radiative forcing, climate change can be thought of as being toggled to the topmost 
+level of a vertical hierarchy that links the emissions of individual farms to the regions, to nations, and finally to the 
+whole world. Regenerative farmers, in this way, frame their farms as the compositional units through which climate 
+mitigation efforts can be enacted.
+To deliver on this promise, however, farmers think volumetrically about their soils. They reflect on the ecological 
+interactions that lead to additional organic matter being stored in the soil's three-dimensional coverage, and the process 
+through which soil builds deeper into the earth. As one farmer explained:
+What if we are getting an extra millimetre of soil a year? I know there's a level where we might get stuck 
+at, I don't know, 12% organic matter, but we are seeing another millimetre, two millimetres of soil. So 
+it's soil mass and depth too. This farm is on a gentle slope and that soil was being washed off … we're 
+FIGURE 5 Horizontally networked spatial imaginary. By Vivien Martineau.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 11 of 15
+CUSWORTH et al.
+rebuilding it back up gently and slowly. And let's add that into the tonnage of carbon [for emissions 
+ accounting purposes]. 
+Jonty Brunyee, regenerative agriculture educator and researcher
+Several regenerative practices are used to build soil structure, organic content, and depth. Our participants commonly see the 
+most important step being to minimise or stop tillage. Doing so removes the disturbing effects of soil cultivation and reduces 
+exposure to erosion (which represents the loss of soil depth) and atmospheric interaction (in which the nutrients in the soil 
+are released as gases). No-till is usually done in conjunction with establishment of undersown or cover crops, which ensure 
+the soil is covered at all times, even after an arable crop has been harvested. By keeping soils covered, and by keeping living 
+roots in the ground over the entirety of the agricultural calendar, regenerative farmers are working to build healthy soils, 
+whose nutrient and carbon content is less exposed to breakdown, and whose depth is less subject to the eroding effects of the 
+wind and rain.
+For these same soil-health reasons, regenerative farmers also consider the depth that different plant roots tap. 
+Regenerative farmers collocate plants with longer root systems with plants whose roots tap much shallower, allowing 
+them to access the nutrients stored in different strata of soil depth without competing with one another. This helps the 
+farmers get the most out of the soil's finite supply of nutrients. Deep tapping root systems are illustrated in the chart in 
+Figure  6 (which we found to be ubiquitous in the offices of regenerative farmers). They are valued for how they help the 
+soil system build deeper into the earth. Deep-tapping roots pierce the earth under the soil, and introduce the moisture 
+and biology needed to turn it into humus. This effectively increases the volume into which regenerative farmers can 
+enhance their carbon, nutrient and water reserves: techniques that are central to the carbon farming ambitions of the 
+regenerative model (Schreefel et al., 2020).
+Among our interviewees, there were conflicting perspectives about how this soil carbon sequestration story should (or 
+should not) interface with the running of the farm business. While some were excited at the prospect of monetising their 
+stored carbon in the form of emission offsets, others were more hesitant:
+FIGURE 6 Volumetric soils. Clockwise from top left: deep tapping legume roots with nodules of nitrogen; soil testing in action; graph 
+showing the depth of different root systems. Photos by Alex Turner, graph produced by Cotswold Seeds.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+12 of 15 |   
+CUSWORTH et al.
+I don't trust any of them to be honest. I almost signed up and I started thinking well, if I was the person 
+ buying the carbon credit I would want to know where that carbon is, how much of it there is and I would 
+want proof of it. And I don't think anyone can actually do that yet. 
+Andy Howarth arable farmer managing 300 ha
+What is consistent however, across both our data and the literature, is the regenerative focus on soil health (Jaworski 
+et al.,  2023). Such efforts to increase soil depth and improve its carbon content, ecological complexity, water retention, struc-
+ture, and fertility represent a spatial departure from the plantation model. In intensive conventional farming, soils are seen as 
+little more than a substrate within which crops are grown. Key nutrients are added to ensure crop growth, and pesticides are 
+used to manage disease and weeds. In the regenerative model, by contrast, soil is regarded as lively, complex, and agential. Its 
+good health demands the minimisation of soil disturbance, the reduction of pesticides, and the presence of diverse vegetation. 
+Multispecies entanglements do not just inhabit soil's volume in this understanding, they are  soil's volume (Krzywoszynska 
+& Marchesi,  2020). The differences in these models is not so much a distinction between the spaces identified as areas of 
+concern (both arrive at the soil as a site necessitating active management) but rather the strategies different farmers use with 
+regards to these spaces. Figure  7 is our diagrammatic representation of this volumetric engagement.
+2.5 | Farming for the patchy Anthropocene
+What can these farmers contribute to the ongoing academic efforts to spatialise the Anthropocene? What can they teach 
+us about the benefits of rejecting the plantation model of agricultural land management in favour of productive farmed 
+landscapes that enable multispecies resurgence (Tsing et al.,  2017)?
+Figure  8 is an amalgamation of the three images we have used to illustrate our three spatial imaginaries of nested ver -
+tical scales and fields, horizontal connections and rumens, and depth and soil. It shows how multiple spatial imaginaries 
+are overlaid and juxtaposed in the regenerative mindscape. While not exhaustive, it conveys how the regenerative model 
+enacted by our research participants is premised on a ‘polymorphic’ (Jessop et al., 2008) approach to spatial relations.
+Tsing and colleagues place great value on how the juxtaposition of multiple systems-as-thought-experiments gains 
+analytic traction on the emplaced yet ubiquitous character of the patchy Anthropocene. Although they present their 
+discussion in relation to the overlaying of different models of political economy, non-secular cosmology, and ecology, 
+the above hybrid regenerative spatial imaginary also fits the bill. Take the regenerative engagement with the issue 
+of climate change and warming mitigation. While volumetric concerns (how deep does soil go, how much carbon 
+is stored in its three-dimensional coverage) get to the very heart of regenerative agriculturalists’ climate mitigation 
+agenda (Schreefel et al.,  2020), they are always enacted through and for other spatial considerations. The desire to 
+make use of the soil's carbon offsetting potential is, for example, underpinned by a framing that grapples with a 
+globalised sink of emissions and offsets and an associated set of diffuse climactic outcomes. Regenerative contribu-
+tions to emissions offsetting, although inherently volumetric in their nature, are achieved by applying regenerative 
+FIGURE 7 Volumetrically deep spatial imaginary. By Vivien Martineau.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 13 of 15
+CUSWORTH et al.
+practices onto the areal coverage of the farm and its constituent fields. The practices of no-till, cover cropping, live -
+stock–arable integration, and crop diversification, which are all designed to build soil depth and increase its carbon 
+content, are effectively applied onto the land as if it were a flat two-dimensional cartographic area. As discussed 
+above, these practices are predicated on a conceptualisation of the farm as a set of vertically nested spaces, in which 
+field-level practices, which are informed by understandings of microscopic processes relating to water, nutrients, and 
+energy, are assembled into farm-scale strategies.
+The same proclivity for juxtaposing and overlaying is at work in regenerative efforts to build soil depth and the ecol-
+ogies and fertility contained in its volume. These ambitions are designed to reduce the holding's financial overheads of 
+pesticide and fertiliser inputs, limit the farm's contribution to water pollution (which happens when excess fertiliser is 
+applied to the land such that it runs off into local waterways), and to sever its connections with energy-intensive synthetic 
+fertiliser production systems. These concerns each have their own set of spatial characteristics. Farms are joined (or not) 
+to fertiliser production facilities through international horizontal supply chains, and they are situated in a vertically 
+arranged nested system connecting their farms to landscape and local and regional water-pollution levels. Regenerative 
+farmers seek to act on these concerns through volumetrically engaged strategies: building fertility and ecological com-
+plexity downwards to recast the nature of their relations outwards.
+The soils, stomachs, and fields at the heart of this study are artefacts that allow ‘scholars and their subjects to 
+move simultaneously through deep time and human time, through geological space and political space’ (Hecht,  2018, 
+p. 135). In patchy Anthropocene parlance, through the juxtaposition of multiple systems-as-thought-experiments, 
+regenerative farmers situate the specifics of individual landscape patches in the landscape structures they form, 
+and those in macro-scale dynamics of land use change, biodiversity loss, and global warming. The regenerative 
+spatial imaginaries described in this paper allow managerial and ethical traffic to flow between particular spaces 
+and socio-ecological issues of global consequence (Cusworth,  2023). This, we believe, is an enactment of plane -
+tary social thinking (Clark & Szerszynski,  2020) and an integral part of a model of food production ‘for’ the patchy 
+Anthropocene (Maye et al., 2022).
+ACKNO  WLE DGE MENTS
+This research was funded by the Wellcome Trust, Our Planet Our Health (Livestock, Environment and People - LEAP), 
+award number 205212/Z/16/Z. For the purpose of open access, the author has applied a CC BY public copyright licence 
+to any Author Accepted Manuscript version arising from this submission. The funding body played no part in the study 
+design; in the collection, analysis, and interpretation of data; in the writing of the report; nor in the decision to submit 
+the article for publication. I would also like to thank the editorial team and the anonymous reviewers for their input into 
+the paper.FIGURE 8 The polymorphic regenerative spatial imaginary. By Vivien Martineau.
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+14 of 15 |   
+CUSWORTH et al.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available on request from the corresponding author. The data are not 
+publicly available due to privacy or ethical restrictions.
+ORCID
+George Cusworth   https://orcid.org/0000-0002-7623-938X 
+Jamie Lorimer   https://orcid.org/0000-0003-4369-0884 
+E. A. Welden   https://orcid.org/0000-0002-3655-6268  
+REFERENCES
+Adey, P. (2013) Securing the volume/volumen: Comments on Stuart Elden's plenary paper ‘secure the volume’. Political Geography, 34, 52–54. 
+Available from: https:// doi. org/ 10. 1016/j. polgeo. 2013. 01. 003
+Barona, E., Ramankutty, N., Hyman, G. & Coomes, O.T. (2010) The role of pasture and soybean in deforestation of the Brazilian Amazon. 
+Environmental Research Letters, 5(2), 024002. Available from: https:// doi. org/ 10. 1088/ 1748- 9326/5/ 2/ 024002
+Barua, M. (2023) Plantationocene: A vegetal geography. Annals of the American Association of Geographers, 113(1), 13–29. Available from: 
+https:// doi. org/ 10. 1080/ 24694 452. 2022. 2094326
+Billé, F. (2017) “Introduction: Speaking Volumes.” Theorizing the Contemporary, Fieldsights. Available from: https:// culan th. org/ field sights/ 
+intro ducti on-  speak ing-  volumes
+Brown, K. (2019) Learning to read the great Chernobyl acceleration. Current Anthropology, 60(S20), S198–S208. Available from: https:// doi. 
+org/ 10. 1086/ 702901
+Chao, S. (2021) The beetle or the bug? Multispecies politics in a west Papuan oil palm plantation. American Anthropologist, 123(3), 476–489. 
+Available from: https:// doi. org/ 10. 1111/ aman. 13592 
+Clark, N. & Szerszynski, B. (2020) Planetary social thought: The Anthropocene challenge to the social sciences. Cambridge: Polity.
+Collinge, C. (2006) Flat ontology and the deconstruction of scale: A response to Marston, Jones and Woodward. Transactions of the Institute of 
+British Geographers, 31(2), 244–251. Available from: http:// www. jstor. org/ stable/ 3804385
+Cooper, M.H. (2015) Measure for measure? Commensuration, commodification, and metrology in emissions markets and beyond. Environment 
+and Planning A: Economy and Space, 47(9), 1787–1804. Available from: https:// doi. org/ 10. 1068/ a130275p
+Cusworth, G. (2023) Metabolic agricultural ethics: Violence and care beyond the gate. Progress in Environmental Geography, 2(1-2), 58–76. 
+Available from: https:// doi. org/ 10. 1177/ 27539 68723 1155224
+Cusworth, G., Garnett, T. & Lorimer, J. (2021a) Agroecological break out: Legumes, crop diversification and the regenerative futures of UK 
+agriculture. Journal of Rural Studies, 88, 126–137. Available from: https:// doi. org/ 10. 1016/j. jrurs tud. 2021. 10. 005
+Cusworth, G., Garnett, T. & Lorimer, J. (2021b) Legume dreams: The contested futures of sustainable plant-based food systems in Europe. Glob 
+Environ Change, 69, 102321. Available from: https:// doi. org/ 10. 1016/j. gloen  vcha. 2021. 102321
+Davis, J., Moulton, A.A., Van Sant, L. & Williams, B. (2019) Anthropocene, Capitalocene, … Plantationocene? A manifesto for ecological justice 
+in an age of global crises. Geography Compass, 13(5), e12438. Available from: https:// doi. org/ 10. 1111/ gec3. 12438 
+Giraud, E., Hadley Kershaw, E., Helliwell, R. & Hollin, G. (2019) Abundance in the Anthropocene. The Sociological Review, 67(2), 357–373. 
+Available from: https:// doi. org/ 10. 1177/ 00380 26119 830907
+Gordon, E., Davila, F. & Riedy, C. (2022) Transforming landscapes and mindscapes through regenerative agriculture. Agric Human Values, 
+39(2), 809–826. Available from: https:// doi. org/ 10. 1007/ s1046 0- 021- 10276 - 0
+Gosnell, H., Charnley, S. & Stanley, P. (2020) Climate change mitigation as a co-benefit of regenerative ranching: Insights from Australia and 
+the United States. Interface Focus, 10(5), 20200027. Available from: https:// doi. org/ 10. 1098/ rsfs. 2020. 0027
+Haraway, D. (2015) Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin. Environmental Humanities, 6(1), 159–165. 
+Available from: https:// doi. org/ 10. 1215/ 22011 919- 3615934
+Hecht, G. (2018) Interscalar vehicles for an African Anthropocene: On waste, temporality, and violence. Cultural Anthropology, 33(1), 109–141. 
+Available from: https:// doi. org/ 10. 14506/  ca33.1. 05
+Hinchliffe, S., Bingham, N., Allen, J. & Carter, S. (2016) Pathological lives: Disease, space, and biopolitics. Chichester: Wiley-Blackwell.
+Jaworski, C.C., Krzywoszynska, A., Leake, J.R. & Dicks, L.V. (2023) Sustainable soil management in the United Kingdom: A survey of current 
+practices and how they relate to the principles of regenerative agriculture. Soil Use and Management, 1–20. Available from: https:// doi. 
+org/ 10. 1111/ sum. 12908 
+Jessop, B., Brenner, N. & Jones, M. (2008) Theorizing Sociospatial relations. Environment and Planning D: Society and Space, 26(3), 389–401. 
+Available from: https:// doi. org/ 10. 1068/ d9107 
+Krzywoszynska, A. & Marchesi, G. (2020) Toward a relational materiality of soils. Environmental Humanities, 12(1), 190–204. Available from: 
+https:// doi. org/ 10. 1215/ 22011 919- 8142297
+Leitner, H. (2004) The politics of scale and networks of spatial connectivity: Transnational interurban networks and the rescaling of political 
+governance in Europe. In: Sheppard, E. & McMaster, R. (Eds.) Scale and geographic inquiry. Oxford: Blackwell.
+MacKinnon, D. (2011) Reconstructing scale: Towards a new scalar politics. Progress in Human Geography, 35(1), 21–36. Available from: https:// 
+doi. org/ 10. 1177/ 03091 32510 367841
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 15 of 15
+CUSWORTH et al.
+Malm, A. & Hornborg, A. (2014) The geology of mankind? A critique of the Anthropocene narrative. The Anthropocene Review, 1(1), 62–69. 
+Available from: https:// doi. org/ 10. 1177/ 20530 19613 516291
+Marston, S.A., Jones, J.P. & Woodward, K. (2005) Human geography without scale. Transactions of the Institute of British Geographers, 30(4), 
+416–432. Available from: https:// doi. org/ 10. 1111/j. 1475- 5661. 2005. 00180. x
+Maye, D., Coles, B. & Evans, D. (2022) Food geographies ‘in’, ‘of’ and ‘for’ the Anthropocene: Introducing the issue and main themes. The 
+Geographical Journal, 188(3), 310–317. Available from: https:// doi. org/ 10. 1111/ geoj. 12456 
+Moghaddam, A. (2006) Coding issues in grounded theory. Issues in Educational Research, 16(1), 52–66.
+Moore, A. (2008) Rethinking scale as a geographical category: From analysis to practice. Progress in Human Geography, 32(2), 203–225. 
+Available from: https:// doi. org/ 10. 1177/ 03091 32507 087647
+Newton, P., Civita, N., Frankel-Goldwater, L., Bartel, K. & Johns, C. (2020) What is regenerative agriculture? A review of scholar and practi-
+tioner definitions based on processes and outcomes. Frontiers in Sustainable Food Systems, 4, 1–11. Available from: https:// doi. org/ 10. 
+3389/ fsufs. 2020. 577723
+Schreefel, L., Schulte, R.P.O., de Boer, I.J.M., Schrijver, A.P. & van Zanten, H.H.E. (2020) Regenerative agriculture – The soil is the base. Global 
+Food Security, 26, 1–8. Available from: https:// doi. org/ 10. 1016/j. gfs. 2020. 100404
+Smith, N. (1990) Uneven development: Nature, capital, and the production of space. University of Georgia Press.
+Steinberg, P. & Peters, K. (2015) Wet ontologies, fluid spaces: Giving depth to volume through oceanic thinking. Environment and Planning D: 
+Society and Space, 33(2), 247–264. Available from: https:// doi. org/ 10. 1068/ d14148p
+Swanson, H.A. (2019) An unexpected politics of population. Current Anthropology, 60(S20), S272–S285. Available from: https:// doi. org/ 10. 
+1086/ 703392
+Szerszynski, B. (2022) Infrastructuring as a planetary phenomenon timescale separation and causal closure in more-than-human systems. 
+Historical Social Research/Historische Sozialforschung, 47(4), 193–214 https:// www. jstor. org/ stable/ 27182680
+Taylor, P.J. (1982) A materialist framework for political geography. Transactions of the Institute of British Geographers, 7(1), 15–34. Available 
+from: https:// doi. org/ 10. 2307/ 621909
+Tsing, A. (2015) The mushroom at the end of the world: On the possibility of life in capitalist ruins. Princeton: Princeton University Press.
+Tsing, A. (2017) A threat to Holocene resurgence is a threat to liveability. In: Brightman, M. & Lewis, J. (Eds.) The anthropology of sustainabil-
+ity. London: Palgrave MacMillan.
+Tsing, A., Deger, J., Keleman Saxena, A. & Zhou, F. (2021) Feral atlas: The more-than-human Anthropocene. Redwood City: Stamford University 
+Press.
+Tsing, A., Swanson, H., Gan, E. & Bubandt, N. (2017) Arts of living on a damaged planet: Ghosts and monsters of the Anthropocene. Minneapolis: 
+University of Minnesota Press.
+Tsing, A.L., Mathews, A.S. & Bubandt, N. (2019) Patchy Anthropocene: Landscape structure, multispecies history, and the retooling of anthro -
+pology. Current Anthropology, 60(S20), S186–S197. Available from: https:// doi. org/ 10. 1086/ 703391
+Willett, W., Rockström, J., Loken, B., Springmann, M., Lang, T., Vermeulen, S. et al. (2019) Food in the Anthropocene: The EAT-lancet commis -
+sion on healthy diets from sustainable food systems. Lancet, 393(10170), 447–492. Available from: https:// doi. org/ 10. 1016/ s0140 - 6736(18) 
+31788 - 4
+Wolford, W. (2021) The plantationocene: A lusotropical contribution to the theory. Annals of the American Association of Geographers, 111(6), 
+1622–1639.
+Wu, J. & Loucks, O. (1995) From balance of nature to hierarchical patch dynamics: A paradigm shift in ecology. The Quarterly Review of 
+Biology, 70(4), 439–466. Available from: https:// www. jstor. org/ stable/ 3035824
+Yao, G., Hertel, T.W. & Taheripour, F. (2018) Economic drivers of telecoupling and terrestrial carbon fluxes in the global soybean complex. 
+Global Environmental Change, 50, 190–200. Available from: https:// doi. org/ 10. 1016/j. gloen  vcha. 2018. 04. 005
+How to cite this article: Cusworth, G., Lorimer, J. & Welden, E. A. (2024) Farming for the patchy 
+Anthropocene: The spatial imaginaries of regenerative agriculture. The Geographical Journal, 190, e12558. 
+Available from: https://doi.org/10.1111/geoj.12558
+ 14754959, 2024, 3, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12558 by Capes, Wiley Online Library on [06/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

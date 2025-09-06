@@ -1,0 +1,713 @@
+Landscape Research
+ISSN: 0142-6397 (Print) 1469-9710 (Online) Journal homepage: www.tandfonline.com/journals/clar20
+Soils in motion: the metabolism of New York City’s
+urban grounds
+Luke Harris
+To cite this article: Luke Harris (15 Jul 2025): Soils in motion: the metabolism of New York City’s
+urban grounds, Landscape Research, DOI: 10.1080/01426397.2025.2526498
+To link to this article:  https://doi.org/10.1080/01426397.2025.2526498
+© 2025 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 15 Jul 2025.
+Submit your article to this journal 
+Article views: 307
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=clar20
+Landscape ReseaRch
+Soils in motion: the metabolism of New York City’s urban 
+grounds
+Luke Harris
+Institute for Landscape and Urban s tudies, d epartment of a rchitecture, e Th Zurich, Zurich, s witzerland
+ABSTRACT
+This article examines the socioecological metabolism of soils in New 
+York City, tracing their production, circulation, and transformation within 
+the dynamics of extended urbanisation. It explores how soil, as both a 
+biophysical and socio-political entity, alternates between being treated 
+as lively or inert in response to the demands of capital. The study 
+explores three cases: a soil mixing facility in New Jersey, the regional 
+extraction of sand, and the municipal Clean Soil Bank program. By inte -
+grating scholarship on urban metabolism and the metabolic rift, the 
+article challenges reductionist and technocratic perspectives framing soil 
+as a passive substrate, emphasising instead its dynamic role in urban 
+life and agrarian urbanism. The findings reveal how soils, shaped by 
+socioecological histories, resist simplistic binaries of life and nonlife, 
+offering new possibilities for understanding the interplay between urban -
+isation, ecological relations, and political economy.
+Introduction
+Urbanisation profoundly alters agrarian landscapes and their soils through two interrelated 
+processes: the in-situ transformation of the ground as urban areas expand and the mobilisation 
+of soils and sediments during development. Germain Meulemans ( 2020a ) illustrates the former 
+by describing the emergence of the ‘hard-surfaced city’ in 19th-century Paris, where agrarian 
+soils—once enriched through continuous additions of organic matter and nutrients—were 
+regularised and sanitised to support urban growth. The introduction of new paving technologies 
+enabled draining, compacting, and sealing; creating a predominantly abiotic environment that 
+disrupted traditional soil-forming processes. Yet, novel dynamics emerged, transforming these 
+soils into essential components of urban space. The second process involves the large-scale 
+mobilisation of soil and sediment (Kourmouli & Lesniewska, 2024 ). Soil is excavated for foun -
+dations, dumped as fill, shipped as ballast, and eroded through runoff, meaning that the urban 
+ground is composed of a mosaic of soils sourced from surrounding territories and shaped by 
+histories of circulation and transformation (Kourmouli & Lesniewska, 2024 ; Leguédois et al., 2016 ).
+Although these urban soils differ significantly from their agrarian predecessors, they retain 
+vital connections to the environments that shaped them. Agrarian practices and the 
+more-than-human communities they supported persist in these soils as sources of ongoing, 
+lively potential (Barua, 2023 ), forming a constitutive part of urban life (Gururani, 2023 ). In the 
+© 2025 The a uthor(s). p ublished by Informa UK Limited, trading as Taylor & Francis Group.CONTACT Luke harris  lharris@ethz.ch
+This is an Open a ccess article distributed under the terms of the c reative c ommons a ttribution License ( http://creativecommons.org/licenses/
+by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms 
+on which this article has been published allow the posting of the a ccepted Manuscript in a repository by the author(s) or with their consent.ARTICLE HISTORY
+Received 3 January 2025
+Accepted 28 May 2025
+KEYWORDS
+Landscape architecture; 
+metabolism; soil; 
+planetary urbanisation; 
+circular economy; urban 
+soilhttps://doi.org/10.1080/01426397.2025.2526498
+2 L. HARRIS
+context of planetary urbanisation (Brenner & Schmid, 2015 ), agrarian landscapes are increasingly 
+shaped by urban dynamics (Katsikis, 2023 ), blurring the boundary between rural and urban. 
+One manifestation of this is the displacement of unwanted urban soils to peripheral areas for 
+recycling and disposal (Hale et  al., 2021 ).
+Tracing how soil formation continues through urbanisation (Vialle & Giampieri, 2020 ), this article 
+contributes to an agrarian urbanism that resists grounding itself in the perceived naturalness of 
+certain soils and associated conservative narratives of belonging and loss. It is necessary to carefully 
+articulate the relationship between soil and urbanisation in order to avoid inadvertently reproducing 
+these conservative framings. For example, efforts to protect certain fertile soils from the harms of 
+urbanisation—typically understood in an ahistorical and undifferentiated manner—intersect with 
+a strain of agrarian conservatism animated by concerns for traditional values, private property, and 
+anti-urban sentiment (e.g., Berry, 1977 ; Hanson, 1996 ; see also Conford, 2001 , on links between 
+soil conservation, organic agriculture, and far-right politics). Soil functions as a persistent metaphor 
+for rootedness and belonging—one that has been mobilised by conservative and fascist movements 
+to naturalise racialised relationships between people and place, from the Nazi slogan Blut und 
+Boden  (Blood and Soil) to what Andreas Malm and the Zetkin Collective (2021) describe as ‘green 
+nationalism’ , a conservative fusion of environmentalism and anti-migrant politics.
+In response, as part of the special issue ‘Agrarian Urbanism: Beyond the Urban Rural Divide’ , 
+this article develops a metabolic analysis (Bathla & Lazzarini, 2025 ) of soil production and cir -
+culation in New York City (NYC) to offer more precise understandings of how urbanisation 
+transforms soil. It brings together scholarship on soil as a component of urban metabolism 
+(Hale et  al., 2021 ; Magnusson et  al., 2015 ) with recent debates on the metabolic rift (Moore, 
+2017 ; Saitō, 2022 ) to trace how soil shifts from environment to commodity to waste. This framing 
+allows for a broader engagement with overlooked urban soils and the roles they play in con -
+temporary urban life.
+The article begins by highlighting the unique potential of soil as an analytic, focusing on the 
+regulation of the boundary between life and nonlife as a critical issue in contemporary urbani -
+sation. It then reviews recent literature on the relationship between urbanisation and soil move -
+ment, which reveals a paradox: while the liveliness of soil is often acknowledged, the conceptual 
+framework of urban metabolism tends to reduce it to an inert and apolitical material. Re-engaging 
+with Karl Marx’s analysis of the metabolic rift in light of recent scholarship provides a way to 
+trace how the socioecological formation of urban soils becomes entangled with capitalist urban -
+isation. To this end, the article explores three stages of soil making and movement in and around 
+NYC. First, visits to a soil mixing facility in New Jersey illustrate how surplus soil is transformed 
+into a valuable commodity. Second, the text examines how sand—essential for the predictable 
+performance of designed soils and substrates—is embedded within regional geographies of 
+extraction. Lastly, it presents the Clean Soil Bank, a municipal initiative designed to promote the 
+reuse of excavated sediment. The conclusion reflects on how understanding soil as a dynamic 
+entity shaped by socioecological histories and relations opens new possibilities for agrarian urban -
+ism. As development continues apace, this perspective—grounded in agrarian urbanism—can 
+reveal richer forms of soil-making that move beyond narrowly technical perspectives.
+This article draws on two periods of fieldwork conducted in January and June 2024. The 
+methodologies employed included participant observation, semi-structured interviews, and 
+walking interviews. The author engaged with a diverse group of stakeholders—including soil 
+scientists, contractors, designers, activists, and soil manufacturers—to capture a range of per -
+spectives on soil circulation. This approach complements existing literature, which has predom -
+inantly relied on quantitative methods (Hale et  al., 2021 ; Walsh et  al., 2018 ). While it provides 
+situated insights, this methodology comes with limitations related to access and time constraints. 
+Additional interviews and extended fieldwork would undoubtedly yield further insights and a 
+more nuanced understanding. These qualitative methods were further supported by an analysis 
+of municipal reports, technical specifications, geospatial data, and other relevant documents.
+LANDSCAPe ReSeARCH 3
+Engineering a lively ground
+In recent years, soil has garnered growing scholarly attention, driven in part by its critical role 
+in debates on food production and climate change (Food & Agriculture Organization, 2022 ). 
+Beyond these topical concerns, soil also offers a uniquely generative lens for examining the 
+intricate entanglements of capital and more-than-human nature that characterise the 
+Anthropocene (Salazar et  al., 2020 ). Not only does soil internalise the biotic and abiotic agents 
+of an ecological system, but also anthropogenic elements such as debris and contaminants. 
+Soil is best understood as a process rather than as an object (Meulemans, 2020a ), requiring 
+researchers to dialectically analyse the ‘emergent biophysical agency of soil ecosystems, their 
+sociocultural constitution, and the dynamic interactions between those factors’ (Krzywoszynska 
+& Marchesi, 2020 , p. 194).
+Such an approach is productive for tracking the uneven attribution of soil liveliness in con -
+temporary urbanisation. Retrofitting urban areas with tree planting and green infrastructure is 
+widely recognised as a crucial strategy for mitigating climate change (United Nations environment 
+Programme (UNeP), 2011 ), with soil playing an essential role in this process. The success of 
+such initiatives hinges on the survival of ecological agents. For instance, trees that die shortly 
+after planting—a frequent occurrence in urban environments (Dümpelmann, 2019 )—fail to 
+deliver the ecosystem services and cultural capital they are intended to provide. Consequently, 
+green development imposes new demands on the soils that provide the necessary nutrients 
+and habitats for the more visible flora and fauna. These soils must perform predictably and 
+align with the accelerated timelines of urban development projects. To meet these demands, 
+engineered soils are carefully designed to meet established standards for fertility, texture, and 
+nutrient content (Craul & Craul, 2006 ).
+These constraints foster a perception of soil as a malleable entity, assembled from disparate 
+components that can be independently sourced and combined. In this process of production, soil 
+is alternately treated as lively or inert. e va-Maria Swidler ( 2009 , p. 6) argues that ‘it matters where 
+on the gradient between living thing and mineral that soil is located, whether we see, “soil as a 
+substrate acted upon, rather than soil as alive’ . ’ At times, soil is understood as a living entity, with 
+care taken to limit compaction and desiccation. At other moments, it is treated like dirt—that is, 
+as an inert, abiotic substance. And yet, emphasising the liveliness of soil in order to resist its 
+exploitation reflects the persistent belief that life has greater value than nonlife (Tironi, 2020 ). 
+Kathryn Yusoff ( 2018 ) has drawn attention to how the shifting attribution of qualities associated 
+with life, such as sentience and agency, serve as both the precursor and legitimation of exploita -
+tion. For elizabeth Povinelli ( 2016 ), attending to the distinction between the living (bios) and its 
+constitutive outside, the inert (geos), opens analytical possibilities that a focus on biopower 
+forecloses. Both perspectives can be enlisted into the service of capital. On the one hand, as we 
+will see below, the understanding of soil as passive and abiotic underpinned the development 
+of chemical fertilisers (Marchesi, 2020 ). On the other hand, advances in soil genomics cast soil 
+life as a form of biocapital, making living soils the new frontier of agricultural research (Granjou 
+& Phillips, 2019 ). Thus, rather than investing the soil’s liveliness with redemptive potential, this 
+article identifies the shifting boundary between the mineral and the biotic as soil circulates as a 
+site of investigation. Attending to the differential application of liveliness and its resulting political 
+economic effects offers valuable insights into urban dynamics (Barua, 2023 ).
+Metabolism of soils in motion
+Greenfield urbanisation and its critiques
+Greenfield development—the transformation of relatively undisturbed sites, such as agricultural 
+land or forests—sets in motion a steady supply of fertile soils. Depending on the depth of 
+4 L. HARRIS
+excavation and local conditions, various layers of the soil profile are unearthed, ranging from 
+the biologically active, organic-rich A-horizon near the surface to increasingly abiotic sediments 
+closer to the bedrock. If sufficient nearby construction projects require such material, it can be 
+traded as a commodity for use in earthworks or as horticultural soil (Magnusson et  al., 2015 ). 
+If the market shifts and development stalls, then the soil that could otherwise be reused becomes 
+a solid waste material that must be disposed of in a landfill or used as fill in a context with 
+more permissive regulatory thresholds (Hale et  al., 2021 ). Such market shifts affect whether the 
+donor or receiver of the soil pays, and the price of the material.
+This form of urbanisation has come under increasing scrutiny due to its unsustainability 
+(United Nations environment Programme (UNeP), 2011 ). Soil plays a central role in these cri -
+tiques. Recent policies restricting land take—which is defined by the e uropean environmental 
+Agency as ‘the conversion of land to artificial surfaces’—are justified by emphasising the cultural 
+and ecological importance of healthy soils (e uropean Commission, 2011 ). This is typically sub -
+stantiated by enumerating the ecosystem services such soils provide, such as carbon seques -
+tration, flood mitigation, and the filtration of toxins (e uropean Commission, 2021 , Meulemans, 
+2023 ). These policies frame certain forms of soil, typically marked by their fertility or ‘naturalness’ , 
+as valuable resources in need of protection.
+These critiques of greenfield development often draw on the framework of urban metabolism 
+(UM) to reveal the inefficiency of status-quo soil management. As developed by Abel Wolman 
+(1965 ), UM quantifies the streams of matter and energy flowing into and out of the city, influ -
+encing Material Flow Analysis (Decker et  al., 2000 ) and contemporary concepts like the circular 
+economy. For example, several studies identify the problem of ‘surplus soil’ , that is, excavated 
+material not reused onsite (Cavanagh et  al., 2023 ; Walsh et  al., 2019 ). As agricultural land take 
+is restricted, new construction increasingly occurs in already urbanised areas where the soil is 
+typically heterogenous and potentially contaminated. The fate of these surplus soils depends 
+on the construction market and regulatory environment. In many contexts, removing soil from 
+a site without an immediate use classifies it as waste material (Hale et  al., 2021 ; Kourmouli & 
+Lesniewska, 2024 ). But even if regulations permit reuse, the variability and uncertainty that 
+characterise urban soils often cause landowners and developers to dispose of the surplus soils 
+that cannot be reused onsite to be freed of future liability (Hale et  al., 2021 ).
+These issues lead many authors to call for the increased reuse of the excavated material, 
+but such reforms face challenges. For instance, the stockpiling and sorting of surplus soil requires 
+space, which is typically limited in urban construction projects (Magnusson et  al., 2015 ). Likewise, 
+reuse requires that the temporality of donor and recipients align, which is difficult to synchronise 
+given the complexities of shifting project timelines (Hale et  al., 2021 ). Lastly, if both the cost 
+of newly extracted material and landfilling is low, there is limited incentive for reuse (ibid.). 
+Nevertheless, policy reforms and pilot programs provide indications of alternatives. Direct 
+exchange programs on a national or regional scale match donor and recipient sites (Blanc et  al., 
+2012 ); so-called soil hubs or earthbanks enable the temporary staging and sorting of material 
+that would otherwise be wasted (CL:AIRe , 2024 , Walsh et  al., 2018 ); and soil hospitals remediate 
+lightly contaminated material (Guibert & Tostevin, 2022 ). Not only would reusing surplus soils 
+lead to less material in landfills, but it also reduces emissions associated with transportation 
+and lowers the demand for freshly extracted material (Walsh et  al., 2019 ). Despite these suc -
+cessful interventions, much further innovation is needed.
+Towards a broader metabolism
+Although these reforms are commendable, their scope and focus can be constrained by the UM 
+framework. Two key limitations stand out. First, the emphasis on quantifying material flows creates 
+a ‘conception of the city as a metabolic system which can be examined in isolation from wider 
+LANDSCAPe ReSeARCH 5
+processes of historical change’ (Gandy, 2004 , p. 374). This reductive view often leads to technocratic 
+solutions (Swyngedouw, 2015 ). For instance, Johansson et  al. ( 2013 ) advocate for ‘mining the 
+technosphere’ by exploiting previously extracted materials, as traditional forms of extraction, such 
+as quarrying, become environmentally untenable. This reveals how, by not engaging with the 
+underlying drivers of soil mobilisation, a perspective grounded in UM can reproduce extractive 
+dynamics in new contexts. The second limitation lies in the reduction of soil to a ‘stock’ akin to 
+abiotic materials like gravel, sand, and construction debris (Magnusson et  al., 2015 ). This framing 
+obscures the dynamic alternation between liveliness and inertness that characterises soil circulation. 
+Reflecting this view, many proposed applications for surplus soil treat it as a purely geotechnical 
+material, requiring the exclusion of components conducive to soil’s biological activity, such as clay 
+particles and organic matter (Hale et  al., 2021 ; Magnusson et  al., 2015 ; Walsh et  al., 2019 ).
+These limitations underscore the need for a broader conception of metabolism—one that 
+situates material flows within their socio-political milieu while attending to soil’s ecological 
+specificity. Considering his direct engagement with soil dynamics, revisiting Marx’s concept of 
+the metabolic rift can provide a foundation for this more nuanced approach. Marx argued that 
+capitalist production transformed British 19th-century agriculture and concentrated the popu -
+lation in urban areas, preventing ‘the return to the soil of the constituent elements’ , which 
+disrupted the nutrient cycle and led to a decline in soil fertility (Marx, 1993  [1867], p. 637).
+Drawing on the available science of his time, Marx developed a model for analysing the 
+interplay of social and ecological processes. He was particularly influenced by chemist Justus 
+von Liebig’s theories of soil fertility and robbery agriculture (Saito, 2022 ). Greta Marchesi ( 2020 , 
+p. 213) has shown that Liebig’s explicitly formulated his ‘mineralist’ understanding of soil fertility 
+in opposition to the then-widespread humus theory, which argued that ‘it was the presence of 
+humus and its ‘nutritive juices’ that was the limiting factor in plant growth’ . In contrast to this 
+position, Liebig started from ‘the assumption that there was no meaningful difference between 
+the constitutions of living and nonliving matter’ allowing for him to develop a theory of inter -
+changeable chemical ‘building blocks’ that formed the basis of soil fertility (ibid., p. 212). His 
+theory simplified soil dynamics to chemical processes, influencing the development of chemical 
+fertilisers as well as Marx’s understanding of the metabolic rift.
+The subsequent development of soil science—particularly the growing recognition of the 
+importance of biological activity (Gobat et  al., 2004 )—along with recent historical studies of 
+concrete labour processes in 19th-century e ngland (Schneider & McMichael, 2010 ), raises ques -
+tions about the empirical basis of the original metabolic rift analysis (engel-Di Mauro, 2016 ; 
+Moore, 2017 ). Thus, rather than generalising Marx’s historically specific analysis into a theory 
+of capitalism’s environmental harms (Foster, 1999 ; Saito, 2022), it is more productive to build 
+on his nuanced socio-ecological approach. Here Jason W. Moore’s contribution is generative. 
+Moore ( 2017 , p. 29) argues that ‘capitalist relations move through, not upon, space, which is to 
+say through, and not upon, nature as a whole’ , retaining Marx’s relational understanding of 
+metabolism without reproducing a priori divisions of Nature and Society.
+Moore’s non-dualistic conception of metabolism is valuable for examining urbanised soils, 
+where the metabolic rift’s focus on soil fertility risks obscuring more than it illuminates. In fact, 
+fertile soils are often considered undesirable in urban contexts, highlighting the need for more 
+precise tools to trace how nonhumans are enrolled into capitalist dynamics (Barua, 2021 ). For 
+example, Guibert and Tostevin ( 2022 ) analyse the Queen elizabeth Park soil strategy in the UK, 
+which reused waste materials from sugar beet harvesting and lightly contaminated site soils. 
+Despite its innovative approach, the project adhered to a narrowly technical understanding of 
+soil, erasing the site’s socio-ecological history. The authors document how different understand -
+ings of metabolism and sustainability could have led to other soil strategies, which would have 
+required longer time scales and produced less marketable outcomes.
+To trace the circulation of soil, the following section develops a partial and situated analysis 
+of soil circulation in NYC. This attention to soil’s metabolic relations complements the existing 
+6 L. HARRIS
+literature by linking soil’s site-specific ecological dynamics to larger urbanisation processes. This 
+section can be read alongside the map of NYC’s regional soil geography ( Figure 1 ), which rep -
+resents the distribution of soil mixing facilities and sand mines in relation to desirable loam 
+soils—shown in blue and corresponding to the texture classes represented in Figure 2 —and 
+recent patterns of urbanisation—specifically, agricultural and forest lands developed between 
+2003 and 2023 (shown in red). These soil movements are part of a long history of circulating 
+soils and sediments in the region. This includes the widespread use of fill to create developable 
+land (Walsh, 1991 ), the importation of fertile soils and nutrients for the city’s parks (e.g. Hutton, 
+2019 ), the export of contaminated material to the region’s landfills, as well as the use of dredged 
+sediments to replenish wetlands in Jamaica Bay and elsewhere in the region (Holmes et  al., 
+2024 ; Sanderson et  al., 2016 ).
+New Y ork City’s circulating soils
+Mixing loam
+South-central New Jersey (NJ) hosts numerous soil supply facilities. These operations blend soil, 
+sediments, and materials to meet various site specifications, from baseball infields requiring 
+Figure 1.  Map of regional soil geography. compiled by the author in QGIs using data from the Web soil survey (s oil 
+survey s taff et  al., 2025 ), the national Land c over database (U.s. Geological survey (UsGs), 2024 ), sand and gravel mining 
+datasets (nJdep , U.s. Geological survey (UsGs), 2001 ), and Opens treetMap c ontributors ( 2025 ). note: While this map was 
+developed using the above data sources, this secondary product has not been verified and is not state-authorized.
+LANDSCAPe ReSeARCH 7
+limestone-derived clay soils to horticultural soil for planting beds. A walk through the mixing 
+yard of a soil supplier in June 2024 revealed soil in various states of assembly (see Figure 3 ). 
+Near the entrance were recently delivered raw materials, while further back were smooth and 
+homogenous piles of different colours, mixed and ready to leave the yard. Some of these piles 
+have little in common with what scientists would understand as soil. For example, one is an 
+extra-light substrate for green roofs. It is composed of sand and compost mixed with expanded 
+clay; a light, porous material formed by heating clay particles at high temperatures in rotary 
+kilns, so they increase five times in volume. Mixtures such as these imply that soil can be 
+completely controlled, a known and quantifiable entity that can be engineered with precision.
+Other piles tell a different story. Unlike the smooth, homogeneous surfaces of engineered 
+mixtures (such as those shown in Figure 4 ), one is rough, containing lumps, sticks, and anthro -
+pogenic debris. Recently delivered from a nearby warehouse construction site, this material 
+formed in situ as part of an unbroken soil profile, entangled with roots and home to diverse 
+soil organisms (Gobat et  al., 2004 ). To arrive at the mixing facility, the top 20 to 50 cm of agri -
+cultural soil was stripped and separated from deeper, less fertile layers. The division into separate 
+layers merely reflects the greater value of the uppermost portion, or topsoil, due to the accu -
+mulated organic matter and nutrients such as Nitrogen and Phosphorus, critical for supporting 
+plant growth. The upper material, in this case characterised by a loamy texture (see Figure 4 ), 
+provides a balance of drainage and water retention due to its mix of particle sizes, which include 
+sufficient clay to retain nutrients (Craul, 1992 ). Its structure—made up of aggregates combining 
+minerals and organic matter—creates microhabitats for soil fauna (Orgiazzi, 2016 ). Despite efforts 
+Figure 2.  Usda soil texture triangle showing loam soils mapped in Figure 1  alongside representation of soil particle sizes.
+8 L. HARRIS
+Figure 3.  piles of mixed soils at the new Jersey facility. p hoto by author.
+Figure 4.  detail of a mixed soil specified for planting showing the texture. p hoto by author.
+LANDSCAPe ReSeARCH 9
+to engineer soils for specific uses, the most vital component of these designed substrates 
+remains soil formed over centuries through complex environmental interactions, escaping full 
+human control.
+After testing and research into the construction site’s history, the soil mixing facility approved 
+the delivery of this particular soil. The contractor brought it free of charge because otherwise 
+they would have had to pay for disposal. After arrival, workers removed large rocks, roots, and 
+debris before processing it through a trommel screener, which filters the soil to create a uniform 
+texture. This consistency allows the soil to be easily mixed with other components, such as 
+sand and compost, to meet the desired specifications. However, the homogenisation of the 
+material comes at a cost. The screener breaks up the larger soil aggregates that are hotbeds 
+of biological activity, exposing their interiors to oxygen and reducing the soil biodiversity (Gobat 
+et  al., 2004 ). This process also reflects a crucial paradox: on the one hand, living soil is seen as 
+an essential component of successfully designed landscapes, but on the other hand, soil life 
+must be regularised and regulated to create a consistent material that behaves predictably 
+(Keefer, 2000 ). Such predictability is critical for development projects, which operate on tight 
+timelines and depend on ready-made soil ecologies to support the designed vegetation.
+The facility is strategically located in south-central NJ for two key reasons. First, much of the 
+region around NYC is dominated by sandy soils, remnants of glacial till from the Wisconsin 
+Glacier, which are unsuitable for loam-based mixtures (U.S. Geological Survey (USGS), n.d.). 
+However, central NJ’s Piedmont and Inner Coastal Plain regions have the potential to produce 
+desirable loam soils. Second, the area’s rapid development—including new housing, warehouses, 
+and infrastructure—often occurs on previously undeveloped land (see Figure 1 ). This sets in 
+motion a steady supply of soils formed below farmland or forests. According to the World 
+Reference Base—the international soil classification system—such soils would be classified as 
+Anthrosols, as they have been significantly shaped by agricultural practices like tilling and 
+fertilisation (Food & Agriculture Organization, 2022 ). even seemingly natural soils below forests 
+and wetlands are increasingly affected by human activity (Certini & Scalenghe, 2011 ). Thus, the 
+soils that circulate through the mixing facility bear the marks of previous phases of urbanisation. 
+The location of these facilities at the periphery of NYC responds to the region’s geology as well 
+as to the geography of contemporary development, transforming what would otherwise become 
+surplus soil into a valuable commodity.
+Extracting sand
+The piles of fine and coarse sand at the soil mixing facility provide a window into an intersecting 
+but distinct flow of material circulation. These sands originate from mines located further south 
+in NJ’s Outer Coastal Plain. Sand is a major mined resource in NJ. In 2019, the production of 
+14,400 metric tons of sand and gravel for construction generated more than 110 million dollars 
+in the state (U.S. Geological Survey (USGS), 2022 ). Depending on its source and quality, the sand 
+is used in various industries, such as glass manufacturing, and as an essential component in 
+construction for concrete, mortar, and road subbases. The Coastal Plain, shaped by sedimentary 
+deposition during the Late Cretaceous to early Caenozoic eras, is rich in high-quality quartz sands. 
+Fine sand is widespread, while coarse sand is available locally, depending on geological conditions 
+(Bell et  al., 1991 ). Although of a different geologic origin, the sand deposits in Long Island are 
+another historically important source of sand for NYC region. The thick sand layers left by retreating 
+glaciers yield high-quality, angular sand that is ideal for making concrete. Sand from Long Island 
+supported NYC’s 19th-century building boom (Shodell, 1985 ). Increasing development pressure, 
+along with zoning regulations and environmental concerns, has gradually pushed Long Island’s 
+sand mining eastward, reducing the number of active mines (Howard, 2023 ). In NJ, similar pres -
+sures exist but are less intense due to lower population densities. Despite these constraints and 
+a growing awareness that sand layers host important groundwater aquifers, local and global 
+10 L. HARRIS
+demand for sand continues to rise (United Nations environment Programme (UNeP), 2019 ). This 
+demand has led to an increase in marine sand dredging, which has its own environmental con -
+sequences and supplies lower-quality, rounded sand less suited for construction purposes.
+Soil mixing intersects with these extractive flows, responding to material availability and 
+demand. Sand is a critical component of many designed soils. For example, the specifications 
+for NYC’s Green Infrastructure program dictate that ‘engineered Soil’ should consist of 80-85% 
+sand (New York City Department of Design and Construction (NYC DDC), 2021 ). Similarly, com -
+mon landscape design specifications often feature similar sand percentages in soil mixtures 
+(Craul, 1999 ; Hopper, 2011 ). This is unsurprising, as sand offers many desirable properties. Its 
+larger particle size, relative to clay and silt, enhances drainage and resists compaction—two 
+common issues in urban environments. Angular sand grains, in particular, lock together to form 
+a stable lattice that is resistant to compaction (Sports Turf Research Institute, 2020 ). Additionally, 
+sand’s larger size makes it chemically less reactive than clay particles, which bond to nutrients 
+and retain water. Sand is inert, which helps soils behave predictably. Soil specifications typically 
+call for coarse, angular, or sub-angular particles, aligning with those mined in Long Island or 
+locally occurring coarse sands in southern NJ (Urban, 2015 ). Some recent specifications for 
+designed soils have become more accepting of rounded sand, which may increase the likelihood 
+of compaction but is often cheaper due to the high demand for angular sands in construction 
+(New York City Department of Design and Construction (NYC DDC), 2021 ).
+Specifications explicitly state that sand is not soil. Acceptable material must consist of ‘clean, 
+inert rounded grains of quartz or other durable rock, free of organic material, loam, surface 
+coatings, mica, debris, frozen soil, or other deleterious material’ (NYC DDC, 2021 , p. 56). To 
+achieve this purity, mined or dredged sand is washed and processed. Such a clear definition 
+of sand as a mineral element, unencumbered by links to soil, allows for precise mixtures and 
+control over behaviours like drainage. In fact, it has been argued that soil screening, as described 
+above, necessitates the addition of sand because screening breaks up the soil structure that 
+facilitates drainage, thus requiring sand to compensate for this loss (Urban, 2015 ). However, 
+sand poses challenges in the mixed soil. It has limited ability to retain water and bond with 
+nutrients essential for plant growth. This reveals the tension between the desire to create pre -
+dictable soils, which are inert and geotechnically stable, and the requirements of vegetation 
+for a biologically active habitat.
+Reusing sediments
+The scale and complexity of NYC means that the circulation of construction-related soils spans 
+large distances, leading to costly and unsustainable transport. Soils and sediments must be 
+transported from peripheral extraction sites to centres of development, and surplus materials 
+from construction sites must be moved to distant recycling facilities and landfills. Walsh et  al. 
+(2019 ) found that of the sediment excavated from 113 construction projects in NYC between 
+January 2014 and June 2016, 95%—or 36,900 truckloads—was transported outside the city, 
+primarily to NJ and Pennsylvania. New York State’s strict regulations further limited the reuse 
+of this material within the city (Vera, 2018 ). In response to these financial, environmental, and 
+regulatory issues, NYC’s Office of environmental Remediation (OeR) developed the Clean Soil 
+Bank (CSB) in 2013, a project designed to retain clean, locally excavated material for reuse in 
+both municipal and private projects. By 2018, the CSB had exchanged over 420,000 metric tons 
+of sediment (Walsh et  al., 2018 ). This program challenges status quo soil and sediment man -
+agement practices and creates an alternative material circulation circuit.
+The CSB was created through a 2010 Memorandum of Agreement between the New York State 
+Department of environmental Conservation and the Oe R, giving the latter authority to grant a 
+Beneficial Use Determination to material that would otherwise be classified as solid waste (New 
+LANDSCAPe ReSeARCH 11
+York City Mayor’s Office of environmental Remediation, 2024 ). Construction projects participating 
+in the city’s Voluntary Cleanup Program (VCP) can apply to transfer the material directly to a 
+construction site requiring backfill or the stockpile yard in east New York, Brooklyn. During the 
+CSB editorial review of proposed material, the OeR evaluates geologic borings, analyses the site’s 
+environmental history, and conducts soil tests to determine whether the material meets geotech -
+nical requirements and is free of contamination. If the material is deemed suitable, the landowner 
+or contractor can transfer the material, paying only for testing and transportation (Walsh et  al., 
+2018 ). Most clean material generated by NYC construction sites is glacial outwash left by the 
+retreating glaciers and found at depths of 2-20 metres. Due to these depths, much of this material 
+shows little to no signs of pedogenesis—or soil formation—and is instead classified as a sediment 
+(egendorf et  al., 2018 ).
+The restrictions on the material the CSB can accept prompt the need to identify new ways 
+of making soil. Because the sediment contains little organic matter or nutrients, it must become 
+soil through pedogenesis to support plant growth. This differs from the soil-making practices 
+discussed above, which reproduce ideal, ready-made mixtures. Instead, the material at the CSB 
+requires conceptualising soil as something that develops over time, unsettling conventional 
+approaches to planting design and maintenance. One promising study showed the potential of 
+mixing this sediment with compost to supply local urban agriculture (e gendorf et  al., 2018 ). 
+While there have been attempts to use it in designed landscapes, the material does not align 
+with typical soil specifications, which poses a challenge. Given this, the CSB is currently primarily 
+oriented towards geotechnical uses and thus the stockpile primarily contains coarse sands 
+containing gravel with limited clays, silts, and finer sands. The material is typically used as fill 
+and for green infrastructure projects by various municipal departments (NYC Water Staff, 2021 ).
+As a public entity compensating for inefficiencies and unsustainable practices in the private 
+market, the CSB creates opportunities for more equitable soil distribution. Due to its municipal 
+control, the CSB is more responsive to democratic oversight, which theoretically allows it to 
+direct material flows towards public purposes such as coastal resiliency projects (Walsh et  al., 
+2019 ) or community agriculture initiatives (e gendorf et  al., 2018 ). Thus, this regulatory and 
+spatial infrastructure opens new ways of conceiving and producing soil, with unrealised poten -
+tials for urban space.
+Discussion: soil and agrarian urbanism
+The three examples described above illustrate how soil production in NYC is shaped by the 
+interplay between the territory’s biophysical conditions and the evolving dynamics of capitalist 
+urbanisation. In this context, soil alternates between being treated as a resource or waste, a 
+living ecosystem or inert material. As urbanisation continues and cities confront the challenges 
+of climate change, soil will be produced and mobilised in novel ways. How should agrarian 
+urbanism respond to these shifts? As the editors argue in the introduction (Bathla & Lazzarini, 
+2025 ) agrarian urbanism is inherently projective, opening up ‘possibilities for alternative patterns 
+of human-nature relationships and sustaining other-than-human life’ . To avoid becoming yet 
+another version of green urbanism—with its managerial approach to human and more-than-
+human life (Meulemans, 2023 )—it is crucial to articulate how socially necessary transformations 
+can occur without perpetuating the extractive and alienating dynamics of capitalist urbanisation. 
+This article argues that paying close attention to the socio-ecological metabolism of urban soils 
+can build on the theoretical insights of UM and make a significant contribution to agrarian 
+urbanism for three key reasons.
+First, urban soils productively muddle the division of life and nonlife that underpins 
+extraction. This binary serves as both a measure of value and a mechanism of exploitation 
+(Povinelli, 2016 ). Soil’s status as inert or lively shifts according to the needs of capital: it is 
+12 L. HARRIS
+alternately treated as disposable material, moved and manipulated without care, or as a valu -
+able ecological resource requiring attentive management. These multiple modes can be seen 
+in the soil mixing process described above. To transcend this dynamic and discover alternative 
+relationships between urban and more-than-human natures, it is necessary to develop ways 
+of relating to soil beyond such simplistic categories. Fortunately, close attention to urban soils 
+reveals a broader horizon of possibilities. They fuse abiotic and biotic elements in ways that 
+cannot be reduced to their component parts and are inseparable from the social and ecological 
+histories that shape them. By embracing the complexity of these soils, agrarian urbanism can 
+prefigure alternative relations to urban nature, unsettling the extractive logics that undergird 
+capitalist urbanisation.
+Second, tracing this metabolic relationship reveals an unexpected intermingling of the agrarian 
+and the urban. This interplay has a spatial dimension, where desirable soils and sands from NJ 
+and Long Island are imported into NYC, while unwanted or contaminated materials are displaced 
+to peripheral landfills, abandoned mines, or quarries. In a paradoxical twist, some of these 
+landfills are now being covered with freshly sourced horticultural soils to support their trans -
+formation into public parks, as in the case of Fresh Kills (Fresh Kills Park Alliance, 2020 ). It also 
+involves a temporal dimension: soil, initially shaped by its surroundings, continues to evolve in 
+new contexts, simultaneously responding to and influencing its environment. Through the cir -
+culation described in this article, soil ecologies shaped by agricultural practices become integral 
+parts of urban space. Likewise, urbanised soils continue to evolve after displacement, affecting 
+and transforming agrarian landscapes. As a living archive (Botias, 2023 ), soil retains traces of 
+its history—such as seeds, chemicals, and other markers—that may unexpectedly resurface, 
+altered, in new contexts.
+Third, by demonstrating how soil emerges through processes of circulation and metabolic 
+exchange, this article challenges assumptions of soil’s naturalness and stability—assumptions 
+that underpin conservative associations between land, property, and people (Williams, 1975 ). 
+The framing of planetary urbanisation (Brenner & Schmid, 2015 ) unsettles notions of untouched 
+or rural soils, revealing how even seemingly ‘natural’ soils are shaped by historically and geo -
+graphically differentiated processes of urbanisation. Moreover, a closer examination of soil 
+formation shows that its stability is a fiction. Scientific understandings of pedogenesis centre 
+ongoing processes of erosion and deposition (Jenny, 2011  [1941]). The movements tracked in 
+this article—importing fertile soils from the periphery, displacing unwanted urban soils, and 
+staging sediments at the CSB—also influence pedogenesis. Soil scientist Wolfgang Burghardt 
+(2025 , 381) describes these flows as ‘technic erosion’ , analogous to natural erosive processes. 
+Attending to this circulation reveals soil not as a static ground for belonging, but as a mobile 
+material in constant exchange with its environment.
+These three contributions—destabilizing the notion of soil’s naturalness, highlighting how 
+binary classifications of soil as either lively or inert facilitates extraction and biopolitical control, 
+and revealing how soil indexes the metabolic entanglement of the agrarian and the urban—
+extend and deepen the insights of urban metabolism (UM). They build on UM’s attention to 
+metabolic flows between centre and periphery and its critique of spatially bounded notions of 
+the city. Yet, as this article has shown, UM discourse often treats soil in a technocratic regis -
+ter—as a quantifiable, inert material detached from the socioecological processes of its formation. 
+This framing has real consequences. For instance, policies aimed at restricting land take often 
+rest on the premise that rural soils are natural, and urbanisation is inherently destructive. Such 
+simplifications obscure the fact that urbanisation has long been reshaping agricultural soils and 
+landscapes in uneven and dynamic ways.
+Recognising that urbanisation produces soil—transforming rather than erasing its agrarian 
+and ecological origins—opens up more precise and generative pathways for analysis, policy, 
+and design. This constitutes fertile ground for agrarian urbanism, which need not reduce these 
+‘freak’ soils (Meulemans, 2020b ) to categories defined by naturalness, purity, or instrumental 
+LANDSCAPe ReSeARCH 13
+value. Instead, agrarian urbanism can engage creatively with how soil ‘moves and behaves’ 
+(Barrera-Bassols & Zinck, 2003 ). This could mean studying the unique ecologies of soils formed 
+through particular patterns of urbanisation, exploring the latent potential of the sediments 
+stored at the CSB, or designing in dialogue with existing urban soils rather than replacing them 
+with standardised mixtures reliant on continued extraction. This reconceptualization renders soil 
+not as a passive substrate to manage or preserve, but as an active participant in the ongoing 
+project of agrarian urbanism.
+Acknowledgements
+I am grateful to the many people who generously shared their experiences and knowledge throughout this 
+project. I would like to thank Germain Meulemans and Ursula Münster, who convened a panel at the joint con -
+ference of the e uropean Association for the Study of Science and Technology and the Society for Social Studies 
+of Science where an early draft of this paper was presented, as well as the other panel presenters for their 
+generative feedback. I would also like to thank the editors of this special issue, Nitin Bathla and Luca Lazzarini, 
+for their insightful comments and support. Lastly, I want to acknowledge the role that conversations with Teresa 
+Galí Izard, Cara Turett and Bonnie Kate Walker, among others, played in the development of the article.
+Research ethics and consent
+All participants were informed about the research in advance and granted either verbal or written consent to 
+participate.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+No funding was received.
+Data availability statement
+There is no data available.
+Notes on contributor
+Luke Harris  is a landscape architect and doctoral candidate based at the Institute of Landscape and Urban Studies 
+at the e TH Zurich. He is a founding member of the design research collective Office of Living Things. He currently 
+lectures at the Chair of Being Alive at the e TH Zurich. Previously, he practiced at Michael Van Valkenburgh 
+Associates in New York City.
+References
+Barrera-Bassols, N., & Zinck, A. ( 2003 ). ‘Land moves and behaves’: Indigenous discourse on sustainable land man -
+agement in Pichataro, Patzcuaro Basin, Mexico. Geografiska Annaler: Series A, Physical Geography , 85(3–4), 
+229–245. https://doi.org/10.1111/j.0435-3676.2003.00202.x
+Barua, M. ( 2021 ). Infrastructure and non-human life: A wider ontology. Progress in Human Geography , 45(6), 
+1467–1489. https://doi.org/10.1177/0309132521991220
+Barua, M. ( 2023 ). Lively cities: Reconfiguring urban ecology . University of Minnesota Press.
+Bathla, N., & Lazzarini, L. ( 2025 ). Agrarian urbanism beyond the rural-urban divide. Landscape Research .
+Bell, C., Simmons, R., & Behroozi, C. ( 1991 ). Inventory of active and abandoned sand and gravel mining operations 
+in New Jersey. New Jersey, Department of environmental Protection.
+14 L. HARRIS
+Berry, W. ( 1977 ). The unsettling of America: Culture and agriculture . Sierra Club Books.
+Blanc, C., Darmendrail, D., Rouvreau, L., Scamps, M., & Boissard, G. ( 2012 ). excavated soil reuse tools developed 
+as part of the French soil management framework. Innovative Solutions for Revitalization of Degraded Areas 2012 . 
+https://brgm.hal.science/hal-00794146
+Botias, e. M. ( 2023 ). emergency spaces VI—Community networking spaces for action: The archive. In D. Bertschi, 
+J. L. Carboni, & N. Bathla (e ds.), Unearthing traces: Dismantling imperialist entanglements of archives, landscapes, 
+and the built environment  (pp. 269–280). e PFL Press.
+Brenner, N., & Schmid, C. ( 2015 ). Towards a new epistemology of the urban? City, 19(2–3), 151–182. https://doi.
+org/10.1080/13604813.2015.1014712
+Burghardt, W. ( 2025 ). 25 years of SUITMAs: Urban soils - a new research field in soil science. What makes these 
+soils and the interest in these soils so special? Journal of Soils and Sediments , 25(2), 374–389. https://doi.
+org/10.1007/s11368-024-03826-6
+Cavanagh, J., Simcock, R., Thompson-Morrison, H., & Harmsworth, G. ( 2023 ). Guidance on the sustainable man -
+agement of ‘surplus’ soil and subsoil: Consultation draft. Contaminated Land and Waste Special Interest Group, 
+Land Monitoring Forum.
+Certini, G., & Scalenghe, R. ( 2011 ). Anthropogenic soils are the golden spikes for the anthropocene. The Holocene , 
+21(8), 1269–1274. https://doi.org/10.1177/0959683611408454
+CL:AIRe . (2024 ). Proof-of-Concept research and demonstration of soil management, storage and treatment facili -
+ties. Retrieved October 14, 2024 from https://claire.co.uk/projects-and-initiatives/earthbanks
+Conford, P . ( 2001 ). The origins of the organic movement . Floris Books.
+Craul, P . J. ( 1992 ). Urban soil in landscape design . Wiley.
+Craul, P . J. ( 1999 ). Urban soils: Applications and practices . Wiley.
+Craul, T. A., & Craul, P . J. ( 2006 ). Soil design protocols for landscape architects and contractors . Wiley.
+Decker, e . H., elliott, S., Smith, F. A., Blake, D. R., & Rowland, F. S. ( 2000 ). energy and material flow through the 
+urban ecosystem. Annual Review of Energy and the Environment , 25(1), 685–740. https://doi.org/10.1146/annurev.
+energy.25.1.685
+Dümpelmann, S. ( 2019 ). Seeing trees: A history of street trees in New York City and Berlin . Yale University Press.
+egendorf, S. P ., Cheng, Z., Deeb, M., Flores, V., Paltseva, A., Walsh, D., Groffman, P ., & Mielke, H. W. ( 2018 ). Constructed 
+soils for mitigating Lead (Pb) exposure and promoting urban community gardening: The New York City clean 
+soil bank pilot study. Landscape and Urban Planning , 175(July), 184–194. https://doi.org/10.1016/j.landurb -
+plan.2018.03.012
+engel-Di Mauro, S. ( 2016 ). Ecology, soils, and the left: An ecosocial approach . Palgrave MacMillan.
+european Commission. ( 2011 ). Roadmap to a resource-efficient Europe . COM(2011) 571. http://eur-lex.europa.eu/
+legal-content/eN/TXT/?uri=CeLeX:52011DC0571
+european Commission. ( 2021 ). The new EU soil strategy for 2030 - Reaping the benefits of healthy soils for people, 
+food, nature and climate  (COM/2021/699 final). https://eur-lex.europa.eu/legal-content/eN/
+TXT/?uri=CeLe X%3A52021DC0699
+Food and Agriculture Organization. ( 2022 ). World reference base for soil resources: 4th edition . https://www.fao.org/
+soils-portal/data-hub/soil-classification/world-reference-base/en/
+Foster, J. B. ( 1999 ). Marx’s theory of metabolic rift: Classical foundations for environmental sociology. American 
+Journal of Sociology , 105(2), 366–405. https://doi.org/10.1086/210315
+Fresh Kills Park Alliance. ( 2020 ). The dirt” on soil at north park phase 1 . Freshkills Park. https://freshkillspark.org/
+blog/the-dirt-on-soil-at-north-park-phase-1
+Gandy, M. ( 2004 ). Rethinking urban metabolism: Water, space and the modern city. City, 8(3), 363–379. https://
+doi.org/10.1080/1360481042000313509
+Gobat, J. M., Aragno, M., & Matthey, W. ( 2004 ). The living soil: Fundamentals of soil science and soil biology . Translated 
+by V. A. K. Sarma. Science Publishers.
+Granjou, C., & Phillips, C. ( 2019 ). Living and labouring soils: Metagenomic ecology and a new agricultural revo -
+lution? BioSocieties , 14(3), 393–415. https://doi.org/10.1057/s41292-018-0133-0
+Guibert, e., & Tostevin, A. ( 2022 ). The fictional soils of a ‘sustainable’ anthropocene: A new materialist story of the 
+soils of the Queen elizabeth Olympic Park. Journal of Landscape Architecture , 17(2), 76–89. https://doi.org/10.1
+080/18626033.2022.2156104
+Gururani, S. ( 2023 ). Cities in a world of villages: Agrarian urbanism and the making of India’s urbanizing frontiers. 
+In F. Wu, & R. Keil (e ds.), Changing Asian urban geographies  (pp. 97–115). Routledge.
+Hale, S. e ., Roque, A. J., Okkenhaug, G., Sørmo, e ., Lenoir, T., Carlsson, C., Kupryianchyk, D., Flyhammar, P ., & Žlender, 
+B. (2021 ). The reuse of excavated soils from construction and demolition projects: Limitations and possibilities. 
+Sustainability , 13(11, 11), 6083. https://doi.org/10.3390/su13116083
+Hanson, V. D. ( 1996 ). Fields without dreams: Defending the agrarian idea . Free Press.
+Holmes, R., Milligan, B., & Wirth, G. ( 2024 ). Silt sand slurry: Dredging, sediment, and the worlds we are making . Applied 
+Research & Design.
+Hopper, L. J. ( 2011 ). Graphic standards field guide to softscape . Wiley.
+LANDSCAPe ReSeARCH 15
+Howard, H. ( 2023 ). Sand mining threatens long island’s drinking water. Or does it? The New York Times . https://
+www.nytimes.com/2023/12/07/nyregion/long-island-sand-land-mining-water.html
+Hutton, J. ( 2019 ). Reciprocal landscapes; Stories of material movements. Routledge.
+Jenny, H. ( 2011 ). Factors of soil formation: A system of quantitative pedology. (Original work published 1941) . Dover 
+Publications.
+Johansson, N., Krook, J., eklund, M., & Berglund, B. B. ( 2013 ). An integrated review of concepts and initiatives for 
+mining the technosphere: Towards a new taxonomy. Journal of Cleaner Production, Special Volume: Urban and 
+Landfill Mining , 55(September), 35–44. https://doi.org/10.1016/j.jclepro.2012.04.007
+Katsikis, N. ( 2023 ). The horizontal factory: The operationalisation of the US corn and soy belt. In C. Schmid, & M. 
+Topolavic (e ds.), Extended urbanisation: Tracing planetary struggles  (pp. 121–158). Birkhäuser.
+Keefer, R. F. ( 2000 ). Handbook of soils for landscape architects . Oxford University Press.
+Kourmouli, A., & Lesniewska, F. ( 2024 ). Losing ground: Targeting agricultural land take by enabling a circular 
+economy in construction. Circular Economy and Sustainability , 4(1), 459–473. https://doi.org/10.1007/
+s43615-023-00293-y
+Krzywoszynska, A., & Marchesi, G. ( 2020 ). Toward a relational materiality of soils. Environmental Humanities , 12(1), 
+190–204. https://doi.org/10.1215/22011919-8142297
+Leguédois, S., Séré, G., Auclerc, A., Cortet, J., Huot, H., Ouvrard, S., Watteau, F., Schwartz, C., & Morel, J. L. ( 2016 ). 
+Modelling pedogenesis of technosols. Geoderma , 262(January), 199–212. https://doi.org/10.1016/j.geoder -
+ma.2015.08.008
+Magnusson, S., Lundberg, K., Svedberg, K., & Knutsson, S. ( 2015 ). Sustainable management of excavated soil and 
+rock in urban areas – A literature review. Journal of Cleaner Production , 93(April), 18–25. https://doi.org/10.1016/j.
+jclepro.2015.01.010
+Malm, A., & The Zetkin Collective. (2021). White skin, black fuel: On the danger of fossil fascism . Verso.
+Marchesi, G. ( 2020 ). Justus von Liebig Makes the World. Environmental Humanities , 12(1), 205–226. https://doi.
+org/10.1215/22011919-8142308
+Marx, K. ( 1993 ). Capital: A critique of political economy, Vol. 1 . (D. Fernbach, Trans.; Reprint edition). Penguin Classics. 
+(Original work published 1867).
+Meulemans, G. ( 2020a ). Urban pedogeneses: The making of city soils from hard surfacing to the urban soil sci -
+ences. Environmental Humanities , 12(1), 250–266. https://doi.org/10.1215/22011919-8142330
+Meulemans, G. ( 2020b ). Reclaiming freak soils: From conquering to journeying with urban soils. In J. F. Salazar, 
+C. Granjou, K. Kearnes, A. Krzywoszynska, & M. Tironi (e ds.), Thinking with soils: Material politics and social the -
+ory (pp. 157–174). Bloomsbury Academic.
+Meulemans, G. ( 2023 ). Of planners, workers, and activists: A short history of urban soil cultures (e urope and North 
+America). In N. Patzel, S. Grunwald, e . C. Brevik, & C. Feller (e ds.), Cultural understanding of soils: The importance 
+of cultural diversity and of the inner world  (pp. 283–300). Springer International Publishing. https://doi.
+org/10.1007/978-3-031-13169-1_14
+Moore, J. W. ( 2017 ). Metabolic rift or metabolic shift? Dialectics, nature, and the world-historical method. Theory 
+and Society , 46(4), 285–318. https://doi.org/10.1007/s11186-017-9290-6
+New York City Department of Design and Construction (NYC DDC). ( 2021 ). Standard green infrastructure specifica -
+tions . New York City Department of environmental Protection.
+New York City Mayor’s Office of environmental Remediation. ( 2024 ). Clean soil bank . Retrieved October 1, 2024, 
+from https://www.nyc.gov/site/oer/safe-land/clean-soil-bank.page
+NYC Water Staff. ( 2021 ). The clean soil bank. NYC Water . https://medium.com/nycwater/the-clean-soil-bank-
+da5f7efefdff
+OpenStreetMap Contributors. ( 2025 ). OpenStreetMap geospatial data . Retrieved February 25, 2025, from https://
+www.openstreetmap.org
+Orgiazzi, A. ( 2016 ). Global soil biodiversity atlas . Publications Office of the e uropean Union.
+Povinelli, e . A. ( 2016 ). Geontologies: A requiem to late liberalism . Duke University Press.
+Saitō, K. ( 2022 ). Marx in the Anthropocene: Towards the Idea of Degrowth Communism . Cambridge University Press.
+Salazar, J. F., Granjou, C., Kearnes, K., Krzywoszynska, A., & Tironi, M. ( 2020 ). Thinking with soils: Material politics 
+and social theory  (vol. 15). Bloomsbury Academic.
+Sanderson, e ., Solecki, W., Waldman, J., & Parris, A. ( 2016 ). Prospects for resilience . Island Press.
+Schneider, M., & McMichael, P . ( 2010 ). Deepening, and repairing, the metabolic rift. The Journal of Peasant Studies , 
+37(3), 461–484. https://doi.org/10.1080/03066150.2010.494371
+Shodell, e . (1985 ). Particles of the past: Sand mining on Long Island, 1870s-1980s . Port Washington Public Library.
+Soil Survey Staff, Natural Resources Conservation Service, United States Department of Agriculture. ( 2025 ). Web 
+soil survey. Retrieved February 22, 2025, from https://websoilsurvey.sc.egov.usda.gov
+Sports Turf Research Institute. ( 2020 ). Golf course aggregates: An overview for a sustainable future. R&A 2030 .
+Swidler, e . (2009 ). The social production of soil. Soil Science , 174(1), 2–8. https://doi.org/10.1097/SS.0b013e318194274d
+Swyngedouw, e . (2015 ). Urbanization and environmental futures: Politicizing urban political ecology. In T. Perreault, 
+G. Bridge, & J. McCarthy (e ds.), The Routledge handbook of political ecology  (pp. 446–456). Routledge Handbooks. 
+https://doi.org/10.4324/9781315759289
+16 L. HARRIS
+Tironi, M. ( 2020 ). Soil refusal: Thinking earthly matters as radical alterity. In J. F. Salazar, C. Granjou, K. Kearnes, 
+A. Krzywoszynska, & M. Tironi (e ds.), Thinking with soils: Material politics and social theory  (pp. 175–190). 
+Bloomsbury Academic.
+U.S. Geological Survey (USGS). ( 2001 ). Sand and gravel operations, New York State, 1998 [Vector digital data] . Retrieved 
+February 25, 2025, from https://cugir.library.cornell.edu/catalog/cugir-007333
+U.S. Geological Survey (USGS). ( 2022 ). Mineral industry—New Jersey . https://www.usgs.gov/centers/national-mineral
+s-information-center/mineral-industry-new-jersey
+U.S. Geological Survey (USGS). ( 2024 ). Annual NLCD Collection 1.0 Science Products . [Data release]. https://doi.
+org/10.5066/P94UXNTS
+U.S. Geological Survey (USGS). (n.d.). Geology of the New York region . https://www.usgs.gov/geology-and-ecology-o
+f-national-parks/geology-new-york-region
+United Nations environment Programme (UNeP). ( 2011 ). Cities and climate change: Global report on human settle -
+ments 2011 . UN-Habitat.
+United Nations environment Programme (UNeP). ( 2019 ). Sand and sustainability: Finding new solutions for environ -
+mental governance of global sand resources . United Nations environment Programme.
+Urban, J. ( 2015 ). Search for the "Perfect" soil specification . DeepRoot Blog. https://www.deeproot.com/blog/
+blog-entries/how-to-specify-soil-when-local-sources-do-not-support-standard-products/
+Vera, L. I. ( 2018 ). Making dirty land clean: An analysis of New York City’s voluntary cleanup program . NYU Furman 
+Center.
+Vialle, A., & Giampieri, M. ( 2020 ). Mapping Urbanization as an Anthropedogenetic Process: A Section through the 
+Times of Urban Soils. Urban Planning, 5 (2), 262–279. https://doi.org/10.17645/up.v5i2.2848
+Walsh, D. C. ( 1991 ). The history of waste landfilling in New York City. Ground Water , 29(4), 591–593.
+Walsh, D., Glass, K., Morris, S., Zhang, H., McRae, I., Anderson, N., Alfieri, A., egendorf, S. P ., Holberton, S., Owrang, 
+S., & Cheng, Z. ( 2018 ). Sediment exchange to mitigate pollutant exposure in urban soil. Journal of Environmental 
+Management , 214(May), 354–361. https://doi.org/10.1016/j.jenvman.2018.03.013
+Walsh, D., McRae, I., Zirngibl, R., Chawla, S., Zhang, H., Alfieri, A., Moore, H., Bailey, C., Brooks, A., Ostock, T., Pong, 
+S., Hard, T., Sullivan, C., & Wilding, J. ( 2019 ). Generation rate and fate of surplus soil extracted in New York 
+City. The Science of the Total Environment , 650(Pt 2), 3093–3100. https://doi.org/10.1016/j.scitotenv.2018.09.284
+Williams, R. ( 1975 ). The country and the city . Oxford University Press.
+Wolman, A. ( 1965 ). The metabolism of cities. Scientific American , 213(3), 178–190. https://doi.org/10.1038/
+scientificamerican0965-178
+Yusoff, K. ( 2018 ). A billion black anthropocenes or none . University of Minnesota Press.

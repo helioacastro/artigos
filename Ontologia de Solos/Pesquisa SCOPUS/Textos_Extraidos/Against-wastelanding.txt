@@ -1,0 +1,587 @@
+Landscape Research
+ISSN: 0142-6397 (Print) 1469-9710 (Online) Journal homepage: www.tandfonline.com/journals/clar20
+Against wastelanding: distributed design at the
+pace of soil in the Conca de Barberà
+Luke Harris
+To cite this article: Luke Harris (16 Aug 2024): Against wastelanding: distributed
+design at the pace of soil in the Conca de Barberà, Landscape Research, DOI:
+10.1080/01426397.2024.2371890
+To link to this article:  https://doi.org/10.1080/01426397.2024.2371890
+© 2024 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 16 Aug 2024.
+Submit your article to this journal 
+Article views: 881
+View related articles 
+View Crossmark data
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=clar20
+Landscape ReseaRch
+Against wastelanding: distributed design at the pace of 
+soil in the Conca de Barberà
+Luke Harris 
+department of a rchitecture, e Th Zurich, Zurich, s witzerland
+ABSTRACT
+This paper proposes a methodology for designers to work in the extensive 
+yet marginal landscapes that are produced as part of the process of agri -
+cultural intensification. The distributed design approach, which focuses on 
+enriching the existing bioinfrastructure of the soil, emerged out an ongoing 
+research project in the Conca de Barberà, Spain. The project involves 
+managing an interconnected series of currently unproductive on unmain -
+tained fields through the rotational grazing of horses, with the hypothesis 
+that the systematic grazing regime will catalyse soil biological activity. By 
+attending to the soil infrastructure, the project necessarily developed a 
+unique design approach. Management decisions became design problems 
+and design work took on something of the call and response of manage -
+ment. Though it was shaped by the specific constraints and opportunities 
+of the research project, the methodology is applicable to a wide variety 
+of design projects in extensive landscapes with limited resources.
+Introduction
+Like much of southern Europe, the Conca de Barberà in northeast Spain spent the beginning 
+of 2023 in the midst of severe drought (Morel, 2023 ). The effects were most legible in large 
+agricultural landscapes, where extensive monocultures of crops such as wheat were yellowing 
+in early spring, typically a time of fresh new growth fed by the winter rains. With harvests 
+uncertain, the precarity of these landscapes and the systems that support them came into 
+stark relief.
+Such landscapes are shaped by patterns of uneven development that produce both simplified 
+ecologies of intensive cultivation (Barua, 2022 , p. 2) and their constitutive outsides; the marginal 
+lands which are unproductive under the current agricultural regime. The former are a ‘synthesis 
+of field and factory’ (Mintz, 1986 , 47) that centralise production and create links to global 
+markets. Centralisation is accompanied by a concomitant marginalisation of other landscapes 
+(Schmid, 2012 , p. 57). Traci Brynne Voyles ( 2015 ) describes this as wastelanding ; the process 
+whereby spaces are discursively produced as empty and devoid of relations, enabling practices 
+of waste disposal and extraction that, in turn, serve as markers of their degraded status. Not 
+only does wastelanding enable extraction in the present, but it also anticipates and legitimates 
+future appropriation (Wolford, 2021 , p. 1630). For example, Nitin Bathla ( 2023 ) shows how 
+© 2024 The a uthor(s). p ublished by Informa UK Limited, trading as Taylor & Francis Group.CONTACT Luke harris  harris@arch.ethz.ch
+This is an Open a ccess article distributed under the terms of the c reative c ommons a ttribution License ( http://creativecommons.org/licenses/
+by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on 
+which this article has been published allow the posting of the a ccepted Manuscript in a repository by the author(s) or with their consent.KEYWORDS
+Landscape architecture; 
+management; 
+infrastructure; soil; 
+regenerative agriculture; 
+Spainhttps://doi.org/10.1080/01426397.2024.2371890
+2 L. HARRIS
+certain landscapes in the Aravalli region of India were classified as wasteland, enabling the 
+extraction of value through enclosures and development projects. Such marginalised spaces, 
+characterised by abandonment and legacies of extraction, have spread around the world along -
+side the ‘modular simplifications’ of capitalist agriculture (Tsing, Mathews, & Bubandt, 2019 , 
+p. 189).
+Due to a combination of neglect and intermittent disturbance, these landscapes often host 
+early successional, opportunistic plant communities. In the Conca de Barberà, pine trees and 
+low shrubs proliferate in abandoned fields, and old structures are overgrown with vegetation. 
+Such scenes can elicit hopeful visions of a redemptive Nature reclaiming and repairing anthro -
+pogenic damage (Millington, 2013 , p. 287). Though seductive, this romantic notion establishes 
+an artificial distance between ecological dynamics and human influence (Cronon, 1996 ), sup -
+porting the conclusion that it is best to allow these spaces to regenerate autonomously.
+In contrast, this paper argues that it is precisely this distance that enables the exploitation 
+of marginal landscapes. Instead of abandoning such spaces to ecological self-regulation, it is 
+imperative to develop alternative forms of relation. Accordingly, the paper describes a design 
+approach that was developed as part of a research project located near the town of Senan in 
+Conca de Barberà province in Catalonia, Spain ( Figure 1 ). The 10-year research project, which 
+started in 2020, investigates the effects of the rotational grazing of horses on soil biological 
+activity in a series of marginal sites. This ‘wild experiment’1 was enabled by a close collaboration 
+between landscape architects at the Chair of Being Alive at the ETH Zurich and Marc Sánchez 
+and Henar Gomez of Innova Horse Care, who co-designed the project and continue to care for 
+the horses. As part of this larger transdisciplinary action research project, I conducted a series 
+of semi-structured walk-along interviews with team members, residents, soil scientists, and 
+ecologists over the span of five field visits from 2020 to 2023. Along with my colleagues, I 
+Figure 1.  Territorial map situating the project site in senan in the conca de Barberà. Geodata from Institut cartogràfic i 
+Geològic de c atalunya.
+LANDSCApE  RESEARCH 3
+conducted soil samples and vegetation surveys. Additionally, I reviewed geospatial data, archival 
+documents, and reports, which inform my analysis of the region’s transformations.
+The paper begins by describing how the entwined dynamics of intensification and waste -
+landing transformed the agricultural system in the Conca de Barberà. It then introduces the 
+research project; first articulating the soil infrastructure as the locus of intervention, and then 
+illustrating the rotational grazing strategy at the centre of the project through a case study of 
+one of the fields, p la del Mut. This provides a concrete example of how the project team inte -
+grated management and design practices. This theme is further developed in the next section 
+describing the distributed design approach, which aims to enhance the existing ‘bioinfrastructure’ 
+of the soil (p uig de la Bellacasa, 2014 ) through iterative management. The conclusion argues 
+that new design methodologies and project structures are necessary to affect change in these 
+extensive and overlooked landscapes.
+Tracing intensification and wastelanding in the so-called-forest
+Coming to the region as an outsider for the first time in 2020, the landscape appeared fixed. 
+Located in the north of the Coca de Barberà, the territory contains a series of parallel dry valleys 
+that run perpendicular to the Serra del Tallat ridgeline. The valley floors feature the most fertile 
+soil, and these gently sloping areas are terraced with dry-stone walls that support the cultivation 
+of cereals. The steeper side slopes are also terraced, with the walls running perpendicular to 
+those in the valley bottom. These terraces, narrowing as the slope becomes steeper further up 
+the hillside, support olive trees, almond trees, and vineyards. Further up, the terraces are 
+increasingly uncommon, and pine trees dominate. The relationship between this agricultural 
+logic and the topography is visible in Figure 2 . Organised around the availability of water, this 
+pattern responds to the region’s Hot Summer Mediterranean ( Csa) climate with its three-month 
+summer drought, as well as the geological condition featuring layers of predominantly calcic 
+sedimented material. It was easy to imagine the agricultural logic had persisted unchanged for 
+centuries. In fact, it soon became clear that this was a territory in flux. To attend to these patchy 
+more-than-human dynamics (Tsing et  al., 2019 ), I describe the extent and effects of the region’s 
+transformations through a tour of one of the woodlands that occupy the ridges around Senan.
+What appears to be a homogenous forest from the outside is, upon closer reading, a mosaic 
+of plant communities shaped by divergent histories of management and neglect. It is, perhaps, 
+not even a forest at all.2 Upon entering the woodland, it is possible to determine the dominant 
+species; the Aleppo p ine ( Pinus halepensis ). It soon becomes clear that many of the trees are 
+showing signs of decline. Some are tilting to the side; others are covered with mistletoe ( Viscum 
+album ), a hemi-parasite that weakens its host over time (Lázaro-González et  al., 2021 ). The fact 
+that the trees are all the same age and Pinus halepensis  seeds require full sun to germinate 
+(Ne’eman, Goubitz, & Nathan, 2004 ) suggests that are early successional pioneers which grew 
+together in an open field.
+If one continues walking upslope through the pines, eventually they will pass dry stacked 
+stone walls; the same walls that support the terraced fields below. These walls record the 
+high-water mark of agricultural production in the region. They likely originate from an economic 
+boom in the second half of the nineteenth century, when the arrival of the phylloxera insect 
+decimated French vineyards, causing a spike in grape production in Catalonia and the subse -
+quent cultivation of marginal areas through the construction of new terraces (Badia-Miró, Tello, 
+Valls, & Garrabou, 2010 ). This boom was short-lived. p hylloxera arrived in the Conca de Barberà 
+in 1893, precipitating an economic crisis and the abandonment of many of the newly constructed 
+fields (Llobet i p ortella & Bach i Riu, 1983 , p. 293).
+The late nineteenth century was not the only moment of change. Many fields were aban -
+doned following the industrialisation of agriculture, which in this part of Catalonia proceeded 
+slowly until 1950, and rapidly thereafter (Cartanyà Martí, 2010 , p. 18). Before this transformation, 
+4 L. HARRIS
+the agricultural system relied on animals for both power and nutrients. Raising animals and 
+growing crops were complementary activities, with the waste from one supplying the needs of 
+the other (Cartanyà Martí, 2010 , p. 131). An integrated system of livestock and crop management 
+supported a heterogeneity of land uses with minor changes from the 1860s through the 1950s 
+(Tello, Garrabou, Cussó, & Olarieta, 2008 , p. 116). This reciprocal system disintegrated as the 
+region became increasingly linked to global markets, which supplied fertilisers and absorbed 
+surpluses (Cartanyà Martí, 2010 ). Simultaneously, farm machines replaced draft animals. These 
+machines centralised and intensified production (Tello et al., 2008 , p. 105). Not only were certain 
+Figure 2.  The existing agricultural system responds to the topography, with cereal crops in terraces along the valley 
+bottoms; almonds, olives, and grapes in smaller side terraces; and pine trees along the ridge tops. c redit: shen he, chair 
+of Being a live, e Th Zurich.
+LANDSCApE  RESEARCH 5
+steep or narrow fields no longer accessible, but it also became increasingly efficient to farm 
+larger parcels of flat land, making the marginal land no longer worthwhile to cultivate (Foster, 
+2016 ). The high costs and associated risks of buying the machines incentivised farmers to ensure 
+predictable and productive harvests. This meant sowing new varieties of high-yielding seeds, 
+which in turn demanded new fertilisers and phytosanitary treatments to protect the plants from 
+diseases (Museo de la Vida Rural, 2020 ). Generally, this transformation led to a reduction of 
+spatial complexity and biodiversity (Tello et  al., 2008 , p. 114). The changes can be seen in in 
+Figure 3 , where a comparison of satellite photos from 1946 and 2020 attests to the widespread 
+abandonment of marginal fields and intensification of production in the valley bottoms. These 
+former fields are now forested, corresponding to the uppermost portion of Figure 2 .
+Comparing the two satellite photos also reveals that some areas have been covered with 
+trees for more than three quarters of a century. Although seemingly unchanged from an aerial 
+perspective, these spaces have also undergone a dramatic transformation. Returning to the 
+forest, if one walks long enough, at some point they will find a stand of multi-trunked Holm 
+Oaks ( Quercus ilex ). These are overgrown coppices, once cut every 20–40 years but likely aban -
+doned since the 1950s (Unrau et  al., 2018 , p. 333). They attest to the metabolic relationships 
+that linked the forest to the agricultural system. The harvested wood provided energy for 
+cooking and heating. It was also burned in small structures called formiguers  and the resulting 
+charcoal was spread on the fields as fertiliser (Olarieta et  al., 2011 ). Many of these stands of 
+coppiced oaks were managed as commons (Guadilla-Sáez, p ardo-de-Santayana, & Reyes-García, 
+2020 ). Now privately owned, management patterns have changed. Instead of slow-growing oaks, 
+landowners favour the straight wood and fast growth of the pines, often clearing young oak 
+trees that grow in the pines’ shade (Folch i Guillén, 1986 , p. 99). Hasty logging operations left 
+Figure 3.  Map of fields abandoned between 1946 and 2020. Orthophotos from Institut c artogràfic i Geològic de c atalunya. 
+credit: chair of Being a live, e Th Zurich.
+6 L. HARRIS
+behind slash piles of unwanted wood, exacerbating the existing fire danger (Ne’eman et  al., 
+2004 ). Elsewhere, a patch of forest near Senan was recently cleared for a manure pond sup -
+porting nearby industrial pig farming operations. This analysis of the forest shows how the 
+entwined dynamics of intensification and wastelanding have shaped the landscape around 
+Senan. Former fields are now covered in declining pines, at risk of fire and further exploitation. 
+Rather than a romantic narrative of previously agricultural land returning to so-called nature, 
+the disinvestment in these spaces opens opportunities for new forms of extraction that prolif -
+erate in marginal areas.
+Building a soil infrastructure through rotational grazing
+While the vegetation provides the most visible evidence of the transformation of the region, 
+the relatively ephemeral plant communities express the condition of the soil.3 Formed by the 
+region’s history, the soil is the connective tissue linking the disparate elements, establishing the 
+site’s limitations and potentials (Krzywoszynska & Marchesi, 2020 ). While there is no detailed 
+soil map of the project area, through interpolation, it is possible to define three main soil types: 
+the deep Comapregona soil  located in the valley bottoms; the Emprius soil  running along the 
+mid-slopes; and the Morull soil,  which is the shallowest and is found on the tops of ridges 
+(Mapa de sòls, 2018 ). The three typological soils provide a basic framework within which a wide 
+range of alternatives are possible. The classification defines the key parameters of these soils, 
+such as weak development, a high pH, a texture ranging from loam to silty clay loam, and soil 
+depth decreasing higher up the slope (Mapa de sòls, 2018 ). While it reveals the weak soil 
+development shaped by the climate and the high pH due to the calcareous parent material, 
+the classification provides little information about the biological activity, which is increasingly 
+recognised as a key factor in the soil’s ecological performance (Gobat, Aragno, & Matthey, 2004 ). 
+Biological activity, encompassing the metabolism of soil inhabitants, varies dramatically over 
+relatively short temporal and spatial scales, and it is significantly affected by vegetation cover 
+and management practices (Nannipieri, Greco, & Ceccanti, 1990 ). The role of anthropogenic 
+dynamics in soil formation reveals soil to be a profoundly social entity; shaped by agricultural 
+techniques and production systems, both a product and archive of the region’s history (Engel-Di 
+Mauro, 2016 ).
+Maria p uig de la Bellacasa’s conception of soil as a ‘bioinfrastructure’ helps to define the 
+project’s locus of intervention. She builds on Susan Leigh Star’s description of infrastructure as 
+‘invisible, part of the background for other kinds of work’ ( 1999 , p. 380) to argue that soil 
+functions as the ‘dismissed infrastructure of the bios ’ (puig de la Bellacasa, 2014 , p. 2). Like 
+landscapes, infrastructures are not only composed of things, but also the relations between 
+them (Larkin, 2013 , p. 329; Olwig, 2003 , p. 875). There is much attention to how landscapes 
+can function as infrastructure (Bélanger, 2017 ; Milligan, 2015 ), but this is marked by a focus on 
+‘built things. ’ That is, infrastructure as composed of technical objects (Davis, Holmes, & Milligan, 
+2015 ). By instead emphasising the relational qualities of these landscape infrastructures, it 
+becomes possible to design with the more-than-human relations that ‘generate ambient envi -
+ronments of everyday life’ (Barua, 2021 , p. 1,468).
+To counter the ongoing marginalisation of the abandoned fields in Senan, the research 
+project attempts to enrich this living infrastructure. Since a soil infrastructure is composed of 
+continuously reproduced relationships, it necessarily develops over time. Accordingly, the research 
+project adopted an incremental approach. In 2020, designers from the ETH Zurich partnered 
+with local landowners and landscape managers. Together, the team developed a strategy to 
+manage an interconnected series of marginal fields through the rotational grazing of horses. 
+The majority of the horses arrived from the shelters operated by Asociación Defensa de los 
+Équidos, which supports animals that have been mistreated or abandoned. The parameters of 
+the rotational grazing system became key variables in the design process, allowing the project 
+LANDSCApE  RESEARCH 7
+to incrementally affect the soil condition in an extensive manner. The following section describes 
+this approach using the example of p la del Mut, one of the project sites.
+Rotational grazing at Pla del Mut
+Like the other project sites, p la de Mut is characterised by histories of intensive cultivation. 
+prior to our involvement, the area was hastily logged, leaving behind crooked, unsaleable pines 
+and piles of wood. In November 2023, the project team visited the site, which is one of the 8 
+fields distributed throughout the valley that constitute the research project ( Figure 4 ). At the 
+time of the visit, the project’s fences, which divide the field into 23 paddocks approximately 
+1,000m2 in size, had already been installed. One of the paddocks was occupied by 8 horses4 
+intently grazing the mixture of grasses and low shrubs. The horses remained there for a single 
+day, grazing intensively before moving onto another paddock, which was chosen based on 
+where the plants were in the best condition to receive them ( Figure 5 ).
+As with any rotational grazing strategy, the precise timing and intensity of these simple 
+actions are crucial. Rotational grazing is a system for dividing a given field into smaller paddocks 
+and moving animals between them, allowing the remaining paddocks time to regenerate (Mann 
+& Sherren, 2018 ). The approach used in this project builds on the p astoreo Racional Voisin (pRV) 
+method first developed by Andre Voisin in the 1950s (Voisin, 1959 /2021 ). Typically used in 
+extensive cattle farming, pRV is a method for ‘managing the soil–plant–animal complex through 
+direct grazing and well-planned pasture rotation’ (p inheiro Machado Filho et  al., 2021 , p. 3) that 
+has been modified to the needs of many ruminants, including horses (Undersander, Albert, 
+Cosgrove, Johnson, & p eterson, 2014 ). In comparison to other forms of rotational grazing, such 
+as mob grazing and the Savory system, pRV typically features intensive management, since the 
+Figure 4.  project sites distributed in valley in the region of s enan divided into paddocks. c redit: chair of Being a live, e Th 
+Zurich.
+8 L. HARRIS
+animals move to a new paddock each day, lower stocking densities, and rest periods determined 
+by the regrowth of the vegetation.
+This project deployed pRV as a land management strategy. Two variables are particularly 
+important: the intensity of grazing and the duration of rest between visits.5 The fences that 
+divide the fields into paddocks serve to modulate these two variables. First, the fences define 
+the area that will be grazed each day, thus determining the intensity of grazing. In p RV, the 
+paddock should be small enough that it is grazed uniformly but large enough that plants are 
+not grazed twice, which translates into short occupation times with stocking densities higher 
+than found in continuous grazing (Voisin, 1959 /2021 ). This intensive grazing concentrates the 
+horses’ manure and urine in a small area, which promotes the decomposition of the organic 
+matter and its incorporation into the soil, thus fuelling the plants’ regrowth (p inheiro Machado 
+Figure 5.  horses grazing at p la del Mut. c redit: chair of Being a live, e Th Zurich.
+LANDSCApE  RESEARCH 9
+Filho et  al., 2021 , p. 5). Along with controlling the intensity of grazing, the fence system deter -
+mines the duration of the rest period between visits. In the pRV system, grazing should occur 
+after the plants’ Optimum Recovery p eriod (OR p), which means immediately before the plant 
+redirects its energy from vegetative to reproductive growth (p inheiro Machado Filho et al., 2021 , 
+p. 4). Following the initial grazing, the plants use their energy reserves to grow new aerial 
+shoots. When the plants have accumulated sufficient energy in their root system for vigorous 
+regrowth, but before flowering, the plants have completed their ORp , and the foliage contains 
+maximum nutrients for the grazing animals (Voisin, 1959 /2021 ). Grazing at this moment catalyses 
+a chain of biological reactions that contribute to the mineralisation organic matter and the 
+formation of soil aggregates (Gobat et  al., 2004 , p. 77). By delaying the reproductive phase, 
+carefully timed grazing intensifies these exchanges with the soil ecosystem as the plants work 
+to regrow and replenish reserves. The land manager watches the vegetation, deciding when 
+the target species in each plot have completed their ORp and are ready to be grazed again.
+After closely observing how the plants responded to grazing, Sánchez determined that the 
+grasses at p la del Mut, such as Brachypodium retusum  and Avenula pubescens,  were not regen -
+erating as quickly as anticipated, likely a result of the unseasonable drought. After discussing 
+the options, the team decided to adjust the fence layout so the paddocks could expand, reducing 
+the total number of paddocks in the project, but allowing the horses a larger area to graze 
+each day. This capacity for adaptation was built into the initial design, which combined a robust 
+perimeter fence incorporating salvaged wood with mobile interior fencing. While it reduced the 
+total number of paddocks, increasing the average size provided additional forage for the horses 
+and decreased grazing pressure on the grasses, reducing the chance of overgrazing and allowing 
+the plants to recover fully before the horses return.
+Distributed design approach
+After several years, a specific way of working emerged out of the project’s unique goals and 
+constraints, particularly from the aim of modifying the web of living relations that compose 
+the sites’ soil infrastructure. As a shorthand, this methodology can be called a distributed design 
+approach. The design process is both distributed over time, expanding to include what is nor -
+mally considered the maintenance phase of the project, and also distributed among multiple 
+actors, granting design agency to those who manage the project. It is inspired by adaptive 
+management, a widely accepted but unevenly applied technique in the natural sciences for 
+managing dynamic ecosystems (Allan & Stankey, 2009 ). Adaptive management has been slow 
+to hybridise with design methodologies in landscape architecture (Kato & Ahern, 2008 , p. 543). 
+Instead, landscape projects typically follow the phases of an architectural project (Davis & Oles, 
+2014 ), with limited overlap between design and maintenance phases (Hopper, 2006 , p. 26). This 
+is beginning to change as designers and researchers recognise the limitations of this model 
+(Geffel, 2021 ; Raxworthy, 2018 ). Instead of a sequence of indefinitely repeated actions, mainte -
+nance can become an interdisciplinary locus of ongoing design exploration, providing oppor -
+tunities for participatory decision-making (Chambelland, 2021 ), sharing design agency (Waterman, 
+2017 ; Terremoto, 2023 ), and contesting the division of labour that underlies the reproduction 
+of landscapes (Franco, 2022 ; Jacobs & Wiens, 2023 ).
+The distributed design methodology builds on this work. It relies on (a) a systematic design 
+approach; (b) open-ended and minimal design interventions; and (c) mechanisms for feedback 
+that are built in from the beginning. Initially, the design is articulated as a series of parameters. 
+This process then guides the development of a minimal design proposal, which makes efficient 
+use of resources and allows space for ongoing design engagement. For example, early on, the 
+project team installed low-cost fences. These simple fences have since been modified through 
+an iterative and still-ongoing design process. Certain public-facing fences are evolving into 
+hedgerows with edible fruits and berries that benefit from the enhanced soil infrastructure. 
+10 L. HARRIS
+Other fences are strengthened with branches left over from previous logging operations, shaped 
+into intricate installations by local woodworkers. Leaving the design open-ended and dispersing 
+design resources over a longer period distributes design agency among a wider group. From 
+the beginning, mechanisms for feedback were built into the project. This allowed management 
+insights and design thinking to mutually influence each other. In this project, the mechanisms 
+that supported ongoing feedback were what Teresa Galí-Izard calls dynamic diagrams (Mouritz 
+& Gali-Izard, 2018 ) and collective fieldwork. A description of each will further illustrate 
+this method.
+The project team developed dynamic diagrams using Grasshopper, a parametric plugin for 
+the Rhinoceros 3D modelling program (Galí-Izard, Harris, Turett, & Walker, 2022 ; Ma & Gali-Izard, 
+2022 ). The diagrams represented key project components, in this case the system of fencing 
+and the sequence of grazing. The drawings can be quickly modified to account for new infor -
+mation, such as a change in the number of horses or the paddock layout. Crucially, the diagrams 
+could depict change over time, showing the projected regeneration time of each plot and the 
+anticipated movement of the horses. Figure 6  shows the estimated regeneration time for the 
+paddocks in one of the fields at two different moments in the year. The drought in the summer 
+results in a significantly longer regeneration period than when the same paddock is grazed in 
+April. Though they are not predictive models, these drawings facilitated collaboration between 
+disciplines by enabling team members to visualise and plan for multiple scenarios (Holmes, 
+2020 ). The drawings allowed landowners, managers, and designers to collaborate during the 
+early phases of the project. Thus, the particularities of the rotational grazing method and pref -
+erences of the horses, such as their dislike of tight corners, were incorporated into the diagrams 
+and, in turn, into the design intervention. After observing changes, the diagrams were modified, 
+facilitating communication among team members about key project relationships and assumptions.
+The process of collective fieldwork provided further opportunities to productively entangle 
+design and management practices. At the beginning of the project, the team conducted a series 
+of open-ended walks with botanists, soil scientists, and local inhabitants, building a common 
+store of knowledge about the site and its history. These visits integrated multiple modes of 
+apprehending the landscape, combining mushroom hunting and berry picking with more typical 
+surveys and assessments. For example, the search for the ideal place for a picnic on a hot day 
+revealed much about one site’s soil conditions, sun exposure, and canopy cover; information 
+which later informed the layout of the fencing. These group excursions served to attune par -
+ticipants to a shared sensibility.
+Fieldwork has evolved as the project has taken shape. Regular monitoring to assess how the 
+management regime affects the soil and plant communities now complements the unstructured 
+site visits. This testing provides further mechanisms for attunement to site dynamics (Lutsky & 
+Burkholder, 2017 ). Wherever possible, monitoring is conducted collectively since the conversation 
+and exchange provides important insights. This proved the case even if the participants were 
+not previously familiar with the project or site. For example, in 2022, a group of architecture 
+students from the ETH Zurich visited for a week and provided a fresh perspective on the project, 
+contributing to its development through design workshops and critical engagement. Continuing 
+site visits have become a way to sensitise the designers to the call and response which char -
+acterises landscape management (Argent, 2009 , p. 13). This ongoing fieldwork involves monitoring 
+changes, evaluating observed conditions against expectations, and collectively generating 
+responses.
+Dynamic diagrams and collective fieldwork provided mechanisms to link the iterative design 
+tools of landscape architecture with the work of caring for landscapes. Affecting meaningful 
+change in these dynamic conditions requires a sustained rhythm of incremental interventions 
+calibrated by regular observation and adjustment. By attending to the soil infrastructure, the 
+project necessarily developed a unique design approach. Management decisions became design 
+problems and design work took on something of the call and response of management.
+LANDSCApE  RESEARCH 11
+Discussion: adaptive practices in marginal landscapes
+Recognising that the dynamics of intensification and wastelanding will continue apace, it is 
+important to ask how designers can intervene in the spaces these processes produce. Driven 
+by the pressure to generate increasing profits, intensification leads to the adoption of ever-more 
+intensive farming techniques, even as industrial agriculture embraces the label of ‘regenerative’ 
+(Cronin, 2022 ). Concurrently, wastelanding leads to spaces strategically made empty of relations 
+and marked by a limited access to resources (Voyles, 2015 , p. 7). Yet these marginalised land -
+scapes can provide a site for the emergence of alternatives. One key insight from scholars of 
+plantations is that the relatively infertile, marginal land outside the fields of the plantation 
+proper were ‘provision grounds’ (Wynter, 1971 , p. 99), serving as a means of sustenance (Carney, 
+2021 ), and enabling reproduction and resistance (Mitman & Allewaert, 2019 ). While I am hesitant 
+to romanticise the marginal (Harvey, 1996 , p. 105) and ruderal (Stoetzer, 2022 , p. 10) as 
+Figure 6.  dynamic diagram showing the estimated regeneration times of the same paddock grazed at two different 
+moments. c redit: chair of Being a live, e Th Zurich.
+12 L. HARRIS
+well-springs of nebulously defined resistance, these sites offer opportunities for more open 
+experimentation and collective action.
+The region’s history provides another source of possible alternative configurations. As 
+described above, many of the forests were at one point managed in common. In her study 
+of wastelands in Britain, Vittoria Di palma ( 2014 ) shows how common land came to be under -
+stood as waste. This discursive shift contributed to the widespread enclosure of the commons, 
+which was justified in terms of the improvement it would bring (Di p alma, 2014 , p. 28). Bathla 
+(2023 ) proposes ‘restorative commoning’ to resist both the processes of wastelanding that 
+render certain landscapes disposable and the connected desire to improve such spaces through 
+normative forms of greening, which typically serve elite interests. The latent communal prac -
+tices in the Conca de Barberà can serve as inspiration for alternative ways of managing 
+landscapes.
+If designers have a role to play in these spaces, there is a need for innovative ways of work -
+ing that combine the fresh perspective afforded by distance with local land management 
+practices. These novel methodologies could aim to enrich relational infrastructures, which are 
+shaped by humans and nonhumans (Cho, 2021 ; Jacobs, 2019 ). Such infrastructures, which nec -
+essarily develop slowly over time, frame the potential futures of these marginalised sites. To 
+develop such relational infrastructures, design practice must adapt to the incremental tempo -
+ralities of living systems through observation and response, necessitating new methodologies 
+and project structures. Landscape architects can learn much from the fields of regenerative 
+agriculture (Giller, Hijbeek, Andersson, & Sumberg, 2021 ) and ecosystem management (Allan & 
+Stankey, 2009 ; Allen & Garmestani, 2015 ), to develop approaches which bring the unique capac -
+ities of design thinking to bear on the issues faced by marginal landscapes. But crucially, these 
+novel approaches cannot just be ecologically informed techno-fixes to narrowly defined problems. 
+Instead, they must critically respond to the political dynamics that reproduce uneven landscapes, 
+recognising the unique possibilities and limitations of design projects to affect socioecological 
+change. The results may lack the markers of a typical landscape architectural project, instead 
+fading into the background, discernible only if one is looking for them. And yet they reveal 
+the potential of the discipline to adapt to the ongoing crises of our time.
+Notes
+ 1. Bruce Braun defines wild experiments as ‘ …experiments in procedure in a situation of ecological and 
+political uncertainty, able to incorporate new and unexpected human and nonhuman actors, and making 
+room for different ways of knowing by farmers, hunters, amateur naturalists and local residents’ ( 2015 , p. 
+109). The research project uses a network of test sites and controls to assess soil and vegetation respons -
+es to the new management regime with preliminary results forthcoming.
+ 2. Botanists classify these areas as brolla arbrada , which indicates a shrubland community featuring trees of 
+minor ecological significance (Folch i Guillén, 1986 , p. 25).
+ 3. plants that appear spontaneously in fields can reveal much about soil conditions (p ankhurst, Doube, & 
+Gupta, 1997 ). Farmers can interpret these weeds, otherwise known as bioindicators, as signals of the 
+level of compaction, nutrient availability, and water holding capacity of the soil (Ducerf, 2020 ).
+ 4. The number of horses in a group has varied over the course of the project in response to their social 
+dynamics and the growth rate of the vegetation.
+ 5. These correspond to the first two of the four rules of pRV codified by Voisin ( 1959 /2021 ).
+Acknowledgements
+This article emerges out of a collaborative and ongoing research project. Without the leadership of Teresa Galí-Izard 
+and Marc Sánchez, and the invaluable contributions of Cara Turett, Bonnie-Kate Walker, and Stefan Breit, among 
+many others, the project and article would not be possible. I would also like to thank Tim Waterman, Nitin Bathla, 
+Cara Turett, Stefan Breit, Nathan Atherton, Teresa Galí-Izard, and the anonymous reviewers for their insightful 
+feedback on this article, and for the editors of this special issue for their support.
+LANDSCApE  RESEARCH 13
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+The research project in Senan was supported by the ETH Zurich Start Up Research Grant.
+Research ethics and consent
+All participants consented to participate in the research project. In most cases, consent was written but in some 
+cases it was verbal. Anyone named in the article or otherwise identifiable has given consent to publish and has 
+been shown the article in its current form.
+Notes on contributor
+Luke Harris  is a landscape architect and doctoral candidate based at the Institute of Landscape and Urban Studies 
+at the ETH Zurich. His current research investigates the metabolism of designed urban substrates. He is a founding 
+member of the collective Office of Living Things, a research collective developing community-based design 
+strategies for fostering dynamic living systems. He currently lectures on landscape-related topics as a part of the 
+Chair of Being Alive at the ETH Zurich. p reviously, he practiced at Michael Van Valkenburgh Associates in New 
+York City.
+ORCID
+Luke Harris  http://orcid.org/0009-0005-7119-2809
+References
+Allan, C., & Stankey, G. H. (Eds.). ( 2009 ). Adaptive environmental management: A practitioner’s guide . Springer.
+Allen, C. R., & Garmestani, A. S. (Eds.). ( 2015 ). Adaptive management of social-ecological systems . Springer Netherlands. 
+doi: 10.1007/978-94-017-9682-8
+Argent, R. M. ( 2009 ). Components of adaptive management. In C. Allan & G. H. Stankey (Eds.), Adaptive envi -
+ronmental management: A practitioner’s guide  (pp. 11–36). Springer Netherlands. doi: 10.1007/978-1-4020-9632-
+7_2
+Badia-Miró, M., Tello, E., Valls, F., & Garrabou, R. ( 2010 ). The grape phylloxera plague as a natural experiment: The 
+upkeep of vineyards in catalonia (Spain), 1858–1935. Australian Economic History Review , 50(1), 39–61. doi: 10.1111/
+j.1467-8446.2009.00271.x
+Barua, M. ( 2021 ). Infrastructure and non-human life: A wider ontology. Progress in Human Geography , 45(6), 
+1467–1489. doi: 10.1177/0309132521991220
+Barua, M. ( 2022 ). plantationocene: A vegetal geography. Annals of the American Association of Geographers , 113(1), 
+13–29. doi: 10.1080/24694452.2022.2094326
+Bathla, N. ( 2023 ). Nature and the extended city: Wasteland governmentality, the sacred, and anti-wasteland pol -
+itics in the Aravalli region. Environment and Planning E: Nature and Space , 7(2), 814–833. doi: 10.1177/  
+25148486231187811
+Bélanger, p . (2017 ). Landscape as infrastructure: A base primer . Routledge.
+Braun, B. ( 2015 ). From critique to experiment? Rethinking political ecology for the Anthropocene. In T. p erreault 
+(Ed.), The routledge handbook of political ecology  (pp. 102–114). Routledge Handbooks Online.
+Carney, J. A. ( 2021 ). Subsistence in the p lantationocene: Dooryard gardens, agrobiodiversity, and the subaltern 
+economies of slavery. The Journal of Peasant Studies , 48(5), 1075–1099. doi: 10.1080/03066150.2020.1725488
+Cartanyà Martí, J. ( 2010 ). Agricultura Tradicional a la Conca de Barberà: Vers L ’aprofitament De Pràctiques . Montblanc 
+Centre d’Història Natural de la Conca de Barberà.
+Chambelland, B. ( 2021 ). The “garden approach” to landscape management: Reflexive feedback from the parcLAB 
+experience conducted on the right bank of the Bordeaux metropolis. Journal of Landscape Architecture , 16(2), 
+40–53. doi: 10.1080/18626033.2021.2015204
+14 L. HARRIS
+Cho, L. ( 2021 ). permafrost politics: Toward a relational materiality and design of arctic ground. Landscape Research , 
+46(1), 25–35. doi: 10.1080/01426397.2020.1831461
+Cronin, D. ( 2022 , November 3). Big food companies commit to ‘regenerative agriculture’ but skepticism remains . NpR: 
+Climate. https://www.npr.org/2022/11/03/1131679803/big-food-companies-commit-to-regenerative-agricu
+lture-but-skepticism-remains
+Cronon, W. ( 1996 ). The trouble with wilderness: Or, getting back to the wrong nature. Environmental History , 1(1), 
+7–28. doi: 10.2307/3985059
+Davis, B., Holmes, R., & Milligan, B. ( 2015 ). Isthmus. Places Journal . Advance online publication. doi: 10.22269/151207
+Davis, B., & Oles, T. ( 2014 ). From architecture to landscape. Places Journal . Advance online publication. 
+doi: 10.22269/141013
+Di p alma, V. ( 2014 ). Wasteland: A history . Yale University p ress.
+Ducerf, G. ( 2020 ). Lécyclopédie des Plantes bio-indicatrices  (Vol. 1–3, 7th ed.). Éditions p romonature.
+Engel-Di Mauro, S. ( 2016 ). Ecology, Soils, and the Left: An Ecosocial Approach . palgrave MacMillan.
+Folch i Guillén, R. ( 1986 ). La Vegetació dels Països Catalans . Ketres Editora.
+Foster, J. B. ( 2016 ). Marx as a food theorist. Monthly Review , 68(7), 1. doi: 10.14452/MR-068-07-2016-11_1
+Franco, M. A. ( 2022 ). Invisible labor: p recarity, ethnic division, and transformative representation in landscape 
+architecture work. Landscape Journal , 41(1), 95–111. doi: 10.3368/lj.41.1.95
+Galí-Izard, T., Harris, L., Turett, C., & Walker, B. K. ( 2022 ). A Conversation about Language. In B. Keane & R. Monacella 
+(Eds.), Designing Landscape Architectural Education  (pp. 92–100). Routledge. doi: 10.4324/9781003145905-11
+Geffel, M. ( 2021 ). Landscape design through maintenance: Field case studies in parametric mowing. Landscape 
+Journal , 39(2), 1–16. doi: 10.3368/lj.39.2.1
+Giller, K. E., Hijbeek, R., Andersson, J. A., & Sumberg, J. ( 2021 ). Regenerative agriculture: An agronomic perspective. 
+Outlook on Agriculture , 50(1), 13–25. doi: 10.1177/0030727021998063
+Gobat, J. M., Aragno, M., & Matthey, W. ( 2004 ). The living soil: Fundamentals of soil science and soil biology . Science 
+publishers, U.S.
+Guadilla-Sáez, S., p ardo-de-Santayana, M., & Reyes-García, V. ( 2020 ). Forest commons, traditional community own -
+ership and ecological consequences: Insights from Spain. Forest Policy and Economics , 112, 102107. doi: 10.1016/j.
+forpol.2020.102107
+Harvey, D. ( 1996 ). Justice, nature and the geography of difference . Blackwell.
+Holmes, R. ( 2020 ). The problem with solutions. Places Journal . Advance online publication. doi: 10.22269/200714
+Hopper, L. J. (Ed.). ( 2006 ). Landscape architectural graphic standards . Wiley.
+Jacobs, S. ( 2019 ). From novel to relational: An approach to care for relational landscapes. Journal of Landscape 
+Architecture , 14(3), 24–33. doi: 10.1080/18626033.2019.1705571
+Jacobs, S., & Wiens, T. ( 2023 ). Landscapes of care: p olitics, practices, and possibilities. Landscape Research , 49(3), 
+428–444. doi: 10.1080/01426397.2023.2266394
+Kato, S., & Ahern, J. ( 2008 ). Learning by doing”: Adaptive planning as a strategy to address uncertainty in planning. 
+Journal of Environmental Planning and Management , 51(4), 543–559. doi: 10.1080/09640560802117028
+Krzywoszynska, A., & Marchesi, G. ( 2020 ). Toward a relational materiality of soils. Environmental Humanities , 12(1), 
+190–204. doi: 10.1215/22011919-8142297
+Larkin, B. ( 2013 ). The politics and poetics of infrastructure. Annual Review of Anthropology , 42(1), 327–343. 
+doi: 10.1146/annurev-anthro-092412-155522
+Lázaro-González, A., Gargallo-Garriga, A., Hódar, J. A., Sardans, J., Oravec, M., Urban, O., … Zamora, R. ( 2021 ). 
+Implications of mistletoe parasitism for the host metabolome: A new plant identity in the forest canopy. Plant, 
+Cell & Environment , 44(11), 3655–3666. doi: 10.1111/pce.14179
+Llobet i p ortella, J., & Bach i Riu, A. ( 1983 ). La Segarra, l’Urgell and la Conca de Barberà  (Vol. 9). Enciclopedia 
+Catalana S.A.
+Lutsky, K., & Burkholder, S. ( 2017 ). Curious Methods. Places Journal . Advance online publication. doi: 10.22269/170523
+Ma, Z., & Galí-Izard, T. ( 2022 , October 19). Beingalivelanguage: Visualizing Soil System from a Design Perspective . 
+(SSRN Scholarly p aper 4252958). doi: 10.2139/ssrn.4252881
+Mann, C., & Sherren, K. ( 2018 ). Holistic management and adaptive grazing: A trainers’ view. Sustainability , 10(6), 
+1848. doi: 10.3390/su10061848
+Mapa de sòls: Geotreball IV. Belianes ( 2018 ). (1st ed.). Institut Cartogràfic de Catalunya.
+Milligan, B. ( 2015 ). Landscape migration. Places Journal . Advance online publication. doi: 10.22269/150629
+Millington, N. ( 2013 ). post-industrial imaginaries: Nature, representation and ruin in Detroit, Michigan. International 
+Journal of Urban and Regional Research , 37(1), 279–296. doi: 10.1111/j.1468-2427.2012.01206.x
+Mintz, S. W. ( 1986 ). Sweetness and power: The place of sugar in modern . penguin.
+Mitman, p . F. G., & Allewaert, M. ( 2019 ). The plantationocene and plantation legacies today . Edge Effects.
+Morel, S. ( 2023 , April 23). Catalonia hit by over 30 months of drought . Le Monde. https://www.lemonde.fr/en/europe/
+article/2023/04/23/catalonia-hit-by-over-30-months-of-drought_6023957_143.html
+Mouritz, L., & Galí-Izard, T. ( 2018 ). The language of landscape. Landscape Architecture Australia , 158, 46–51.
+LANDSCApE  RESEARCH 15
+Museo de la Vida Rural. ( 2020 ). Wall text. L’optimització de les collites I les noves técniques de conservació. Museo 
+de la Vida Rural . L'Espluga de Francolí, Spain.
+Nannipieri, p ., Greco, S., & Ceccanti, B. ( 1990 ). Ecological significance of the biological activity in soil. In J.M. Bollag 
+& G. Stotzky (Eds.), Soil Biochemistry  (pp. 293–355). Routledge.
+Ne’eman, G., Goubitz, S., & Nathan, R. ( 2004 ). Reproductive traits of pinus halepensis in the light of fire – A crit -
+ical review. Plant Ecology (Formerly Vegetatio) , 171(1/2), 69–79. doi: 10.1023/B:VEGE.0000029380.04821.99
+Olarieta, J. R., p adrò, R., Masip, G., Rodríguez-Ochoa, R., & Tello, E. ( 2011 ). Formiguers, ” a historical system of soil 
+fertilization (and biochar production?). Agriculture, Ecosystems & Environment , 140(1–2), 27–33. doi: 10.1016/j.
+agee.2010.11.008
+Olwig, K. ( 2003 ). Landscape: The lowenthal legacy. Annals of the Association of American Geographers , 93(4), 
+871–877. doi: 10.1111/j.1467-8306.2003.09304007.x
+pankhurst, C., Doube, B., & Gupta, V. ( 1997 ). Biological indicators of soil health  (1st ed.). CAB International.
+pinheiro Machado Filho, L. C. (2004). Pastoreo Racional Voisin . Hemisferio Sur Editorial.
+pinheiro Machado Filho, L. C., Seó, H. L. S., Daros, R. R., Enriquez-Hidalgo, D., Wendling, A. V., & p inheiro Machado, 
+L. C. ( 2021 ). Voisin rational grazing as a sustainable alternative for livestock production. Animals: An Open Access 
+Journal from MDPI , 11(12), 3494. doi: 10.3390/ani11123494
+puig de la Bellacasa, M. ( 2014 ). Encountering bioinfrastructure: Ecological struggles and the sciences of soil. Social 
+Epistemology , 28(1), 26–40. doi: 10.1080/02691728.2013.862879
+Raxworthy, J. ( 2018 ). Overgrown: Practices between landscape architecture and gardening . MIT p ress.
+Schmid, C. ( 2012 ). Henri Lefebvre, the right to the city and the new metropolitan mainstream. In N. Brenner, p . 
+Marcuse & M. Mayer (Eds.), Cities for people, not for profit: Critical urban theory and the right to the city  (pp. 
+42–62). Routledge.
+Star, S. L. ( 1999 ). The ethnography of infrastructure. American Behavioral Scientist , 43(3), 377–391. doi: 10. 
+1177/00027649921955326
+Stoetzer, B. ( 2022 ). Ruderal city: Ecologies of migration, race, and urban nature in Berlin . Duke University p ress.
+Tello, E., Garrabou, R., Cussó, X., & Olarieta, J. R. ( 2008 ). Una interpretación de los cambios de uso del suelo 
+desde el punto de vista del metabolismo social agrario. La comarca catalana del Vallès, 1853–2004. Revista 
+Iberoamericana de Economía Ecológica , 7(2004), 97–115.
+Terremoto ( 2023 ). One year in landcare: A practice guide//Un Año En El Cuidado de La Tierra: Una Guía de Prácticas . 
+Test p lot.
+Tsing, A. L., Mathews, A. S., & Bubandt, N. ( 2019 ). patchy anthropocene: Landscape structure, multispecies histo -
+ry, and the retooling of anthropology: An introduction to supplement 20. Current Anthropology , 60(S20), 
+S186–S197. doi: 10.1086/703391
+Undersander, D., Albert, B., Cosgrove, D., Johnson, D., & p eterson, p . (2014 ). Pastures for profit: A guide to rotation -
+al grazing . Cooperative Extension p ublishing, University of Wisconsin-Extension.
+Unrau, A., Becker, G., Spinelli, R., Lazdina, D., Magagnotti, N., Nicolescu, V.N., Buckley, G. p ., Bartlett, D., & Kofman, 
+p. D. (Eds.). ( 2018 ). Coppice forests in Europe . Albert-Ludwigs-Universität Freiburg.
+Voisin, A. ( 1959 /2021). Grass productivity: Rational grazing . Midwest Journal p ress.
+Voyles, T. B. ( 2015 ). Wastelanding: Legacies of Uranium mining in Navajo Country . University of Minnesota p ress.
+Waterman, T. ( 2017 ). It’s about time: The genius temporum of Martí Franch’s Girona landscapes. Landscape 
+Architecture Magazine.
+Wolford, W. ( 2021 ). The plantationocene: A lusotropical contribution to the theory. Annals of the American Association 
+of Geographers , 111(6), 1622–1639. doi: 10.1080/24694452.2020.1850231
+Wynter, S. ( 1971 ). Novel and History, p lot and p lantation. Savacou , 5, 95–102

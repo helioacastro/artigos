@@ -1,0 +1,1525 @@
+Environment and Society: Advances in Research 15 (2024): 110–141 © The Author(s)
+doi:10.3167/ares.2024.150106  Amphibious Land Repair
+Restoration, Infrastructure and Accumulation  
+in Southeast Asia’s Wetlands
+Tamar Law and Jenny Goldstein
+ ◾ ABSTRACT:  Amphibious landscapes, wetlands such as coasts, mangroves, peatlands, 
+and deltas, have seen a recent surge in large-scale restoration efforts. This article exam -
+ines this trend in Southeast Asia, reviewing the history and contemporary dynamics of 
+wetland restoration in the region. Drawing from literatures on the political ecology of 
+restoration, infrastructure studies, and the financialization of nature, we understand 
+wetland restoration as a form of repair to highlight it as a socio-political process. We conceptualize restoration as infrastructural land repair , the process of restoring dynamic 
+ecosystems for specific anthropocentric and economic aims, mediated through an amalgam of expertise, technology, and finance. We reveal how restoration can function as a socio-ecological fix, maintaining the same political-economic systems that initially 
+caused wetland degradation. Finally, we identify a need for three areas of scholarship 
+to be expanded on how restoration unfolds in practice within the SEA context, which 
+will be crucial to informing more reparative forms of restoration.
+ ◾ KEYWORDS:  accumulation, infrastructure, repair, restoration, socio-ecological fix, 
+Southeast Asia, value, wetlands
+The year 2021 marked the beginning of the UN’s Decade of Ecosystem Restoration, an initia -
+tive focused on rehabilitating and protected ecosystems across the globe to counteract climate 
+change (Waltham et al. 2020). A crucial focus of restoration efforts centers wetlands, which include marshes, swamps, bogs, coasts, river basins, deltas, and mangrove ecosystems. As an 
+amphibious landscape, they defy typical categorization, not fitting neatly into the category of 
+water or land (Jensen 2017). Following decades of drainage, deforestation, and agribusiness 
+development over the past few decades, Southeast Asia (SEA) has become a hotspot of large-
+scale wetland restoration as part of the global momentum toward restoration. There are over two million square kilometers of wetlands in SEA, including over 60 percent of the world’s 
+tropical peatlands and 42 percent of global mangrove ecosystems. Coastal wetland areas make 
+up the highest proportion of wetlands in SEA, followed by inland wetland areas (Liu et al. 2022). 
+An estimated 54 percent to 87 percent of global wetlands have been lost since 1900, with the 
+highest rate of loss in Asia: over 80 percent of Southeast Asian wetlands are already degraded or threatened by conversion to agricultural development (Davidson 2014; Hughes 2017). Wet -
+lands are sometimes flooded and sometimes dry, with burps of carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O) as rising and falling water levels expose soils to air, emitting 
+This article is available open access under a CC BY 4.0 license as part of Berghahn Open Anthro, 
+a subscribe-to-open model for APC-free open access made possible by the journal’s subscribers.
+Amphibious Land Repair  ◾ 111
+gasses into the atmosphere. Wetlands perform essential ecosystem roles, including water filtra -
+tion and regulation, carbon sequestration, sea-level regulation, and biodiversity. They provide 
+critical habitat to diverse species, such as migratory birds (Hughes 2017; Y ong et al. 2022). They 
+are no less important for the livelihoods and culture of local communities. 
+In SEA, wetlands are drained for oil palm and pulpwood plantations, flooded for rice cul -
+tivation, or converted to shrimp ponds. In manipulated wetlands, the ecosystem’s hydrology 
+is often damaged through canal construction that prevents seasonal water flux (Nugraha et al. 
+2022). A key objective of wetland restoration is thus hydrological rehabilitation, which dams 
+the canals or re-establishes channels to allow water to flow freely, cycling nutrients through 
+the ecosystem and preventing greenhouse gas emissions. Efforts toward more holistic forms of 
+forest restoration, rather than forest reclamation, began in the region around the early 2000s. 
+These recent projects in SEA are part of a global restoration effort centering the transformation 
+of unproductive and degraded landscapes into functional ecosystems. Ecological restoration 
+was originally defined by the Society for Ecological Restoration in 2004 as “the process of assist -
+ing the recovery of an ecosystem that has been degraded, damaged, or destroyed” (Allison and 
+Murphy 2017: 1).
+Ecological restoration as a practice and concept is not new, originating after World War II 
+but gaining prominence in the late 1990s and early 2000s and stemming from the discipline 
+of conservation biology and the fields of landscape and restoration ecology (Higgs et al. 2014; 
+Martin 2022; Palmer et al. 2016). In the last two decades restoration has become a frontier of 
+environmental conservation (Chazdon et al. 2017), the growing ‘restoration agenda’ central to 
+efforts making environmental management economically profitable (Elias et al., 2021) Many 
+restoration programs and projects around the world are focused on restoring forest ecosystems 
+through tree planting and other greening approaches (ibid, 2021), including stream and river 
+ecosystems (Lave 2021; Smith et al. 2014), coral reefs (Braverman 2018), and desert and grass -
+land ecosystems (Chiquoine et al., 2024).
+Recently, as rising temperatures and increased drought wrought by a changing climate have 
+further altered wetlands’ biogeochemistry and function (Salimi et al. 2021), greenhouse gas 
+emissions from many degraded wetland ecosystems have increased. As such, global attention 
+has turned to wetlands’ potential to act as a “nature-based solution” for climate change mit -
+igation through their capacity for rehabilitation and thus reduced greenhouse gas emissions 
+(Kolka et al. 2016; Siman et al. 2021; Thorslund et al. 2017). In SEA, wetland restoration projects 
+include large-scale peat swamp and mangrove restoration in Indonesia, seagrass meadow plant -
+ing in the Philippines, and delta rehabilitation projects across Vietnam, Thailand, and Myanmar 
+(Dohong et al. 2018; Rifai et al. 2023; Sidik et al. 2023; Tinh et al. 2022). In urban areas, this 
+is often under the title of blue or green infrastructures, which consist of natural ecosystems 
+implemented to mitigate climate change impacts, such as flooding and elevated air temperatures 
+(Ghofrani et al. 2017). Moreover, restoration requires considerable amounts of capital. A recent 
+study by Imperial College Business School, for instance, shows that ecosystem restoration across 
+SEA requires at least two hundred billion dollars, necessitating the private sector’s investment 
+to reach this amount (Holtedahl 2023). Following similar trends toward the financialization of 
+forest and biodiversity conservation (Fletcher 2020; Kay 2018), framing wetlands as nature-
+based solutions through their restoration enables the restoration process and outcome to bear 
+economic value, leading to wetlands’ financialization, such as through blue carbon credits gen -
+erated by mangrove restoration.
+This critical review surveys recent literature on wetland restoration in SEA, contributing to 
+a growing body of critical social science scholarship that examines the practices, processes, and 
+politics of restoration (Brock 2023 Clay 2019; Elias et al. 2021). Our review includes literature 
+112 ◾ Tamar Law and Jenny Goldstein
+from the social sciences as well as the natural sciences, engineering, and environmental policy. 
+Given the striking recent finding that ecosystem restoration “did not result in faster or more 
+complete recovery than simply ending the disturbances ecosystems face” (Jones et al. 2018: 1), 
+it is paramount to understand why restoration projects continue to proliferate. Much critical 
+restoration scholarship has emphasized restoration projects in the Global North (Breslow 2014; 
+Brock 2023; Klein et al. 2022); this review expands the geographical scope of this literature, 
+turning toward the Global South to focus on wetland restoration in SEA. Following recent 
+scholarship that has theorized restoration as “repair” to think through its relation to capitalism 
+(Huff and Brock 2023), race relations (Barra 2021), and its potential for alternative forms of 
+environmental relations (Usher 2023), we understand recent wetland restoration projects as 
+forms of repair to unpack restoration’s political dimensions. We extend recent work that has 
+connected nature-based solutions and infrastructure (Lock 2023), arguing that wetland res -
+toration in SEA functions as a form of what we term infrastructural land repair , or the process 
+of restoring dynamic ecosystems for specific anthropocentric and economic aims, mediated 
+through an amalgam of expertise, technology, and finance.
+In what follows, we advance repair as a socio-political process and offer an overview of crit -
+ical work that engages nature as infrastructure to highlight the role of maintenance and repair. 
+In section two, we summarize the history of restoration in SEA, tracking how earlier forms of 
+forest restoration inform recent efforts toward wetland restoration. We then interrogate how 
+wetland restoration efforts in SEA produce wetlands as a form of infrastructure to outline a 
+political ecology of wetland restoration in SEA, drawing on literatures on the political ecology 
+of restoration, infrastructure studies, and the financialization of nature. We find that consider -
+ing restoration as infrastructural repair encourages new ways of thinking about land valuation 
+and revaluation amid rapid environmental change. Moreover, by examining the political lim -
+itations of repair, the increasing financialization of these land repair projects may function as a 
+socio-ecological fix. This trend renders degraded wetlands as sites of re-accumulation from their 
+initial extraction for capital-intensive agribusiness and then through ecosystem repair itself, or 
+what Amber Huff and Andrea Brock (2023) call “accumulation by restoration. ” In reflecting on 
+the possible political and economic implications of the growing financialization of wetland res -
+toration in SEA, we also identify a gap in the literature on how financial instruments, actors, and 
+tools work in SEA wetland restoration. Finally, we suggest that recent scholarship on “reparative 
+climate infrastructures” may provide a justice-centric form of financial engagement in future 
+SEA restoration projects.
+Theorizing Restoration as a Mode of Repair
+Across the critical social sciences, scholars have shown how the concept of repair unsettles and 
+re-configures, intervenes and re-constructs. In science and technology studies (STS), repair is 
+central in drawing attention to maintenance practices that prevent breakdown. Steven Jackson 
+(2014), for instance, identifies repair as the fulcrum between an always almost-falling-apart 
+world and a world of re-invention and new possibilities. Jackson defines repair as how “order 
+and meaning in complex sociotechnical systems are maintained and transformed, human value 
+is preserved and extended, and the complicated work of fitting to the varied circumstances of 
+organizations, systems, and lives is accomplished” (ibid.: 222). In this sense, repair is distinctly 
+temporal or, in the words of Jackson, “an inescapably timely phenomenon, bridging past and 
+future in distinctive and sometimes surprising ways. . . . It accounts for the durability of the 
+old, but also the appearance of the new” (idem: 223). Central to this definition is how repair 
+Amphibious Land Repair  ◾ 113
+offers the means to either reconceptualize and re-configure systems or maintain the status quo. 
+Paying attention to repair means noticing the often-invisible practices that maintain systems 
+but also paying attention to the processes of breakdown and degradation that necessitate repair 
+(Ramakrishnan et al. 2021). Central to work on repair in STS is the understanding that practices 
+of maintenance and repair are embedded in socio-political worlds that hold distinct visions for 
+the future (Denis et al. 2015).
+Political ecologists have invoked the concept of repair to understand the tensions and possi -
+bilities embedded within imaginaries, objectives, and impacts of restoration: in other words, the 
+politics of repair. They see repair as inherently political because it either constructs something 
+new or maintains the present (Usher 2023). For some, repair can perpetuate current systems, 
+preventing new ways of living with nature (Wakefield 2020). Other work has examined the eco -
+nomic dimensions of repair, underscoring what James Fairhead, Melissa Leach, and Ian Scoones 
+(2012) call the “growth economy of repair, ” which enables nature to be valued for both its use 
+and its potential for repair (Huff and Brock 2023). Sarah Knuth (2019) describes new economies 
+of repair in her work on decarbonization through urban retrofitting, showing how retrofitting 
+is a green gentrification scheme cast as a market-based solution that reframes environmental 
+problems as untapped economic frontiers. Knuth reveals how such retrofitting efforts require 
+“not just potentially profitable urban repair today but large-scale urban maintenance into the 
+future” (2019: 490), highlighting the uncertainty associated with repair. Huff and Brock (2023) 
+have conceptualized restoration as repair to develop their concept of “accumulation by resto -
+ration, ” referring to when nature becomes “valued not just for its use but also for its potential for 
+repair or restoration” in the shift from a conservationist “mode of production” toward “a growth 
+economy of repair” (ibid.: 2113). They note that repair is a discourse that advances a vision of 
+ecological improvement, intervening in perceived crises to “neutralize” harm while obscuring 
+the latent power dynamics involved in the practice of repair itself.
+The dominance of natural capital accounting that privileges economic relations over alter -
+native forms of socio-environmental relations is not inevitable (Usher 2023). Recent scholar -
+ship has offered a vision of alternative socio-natural relations formed via differing engagements 
+with ecological repair, moving beyond techno-managerial anthropocentric visions (Barra 2024; 
+Osborne et al. 2021; Webber et al. 2022). As Mark Usher writes, “restoration can therefore 
+encourage humans to recognize that worlds can be arranged differently and composed oth -
+erwise” (2023:1257). Monica Patrice Barra (2024) also adopts an hopeful vision of repair. By 
+engaging Black feminist geographies, Barra develops the concept of restoration through her 
+work on coastal restoration in Louisiana, revealing how Black coastal communities “re-route 
+hegemonic ideologies of ecological crisis away from a zero-sum game that pits acres of wetlands 
+gained or lost against frontline communities, and toward the protection and sustainability of 
+Black life and ecologies” (2023: 3). Webber et al. (2022: 937) cite the Black radical and abolition -
+ist traditions to conceive of repair as the undoing of institutions that have been eroded through 
+colonialism, slavery, and capitalism. Invoking the concept of reparations, the authors link repair 
+and reparative framings of justice. In this way, recent work on repair demonstrates how repair as 
+a practice that can be used in breakdown to generate new possibilities. Such insights are fruitful 
+in attending to ways the financialization of restoration can be reconceived (Lamont et al. 2023), 
+becoming closer to what Tracey Osborne et al. describe as “a culture of equity-based earth 
+stewardship and a radically transformed relationship to the planet based on care and reciproc -
+ity” (Osborne et al. 2021: 6). In their overview of how restoration can become more effective, 
+equitable, and transformative, Osborne and colleagues argue that restoration initiatives should 
+promote regenerative outcomes by treating not just the symptoms but also the root causes of 
+landscape degradation.
+114 ◾ Tamar Law and Jenny Goldstein
+Nature as Infrastructure: Nature-Based Solutions and Ecosystem Services
+The wetland restoration efforts surveyed in the following section repair degraded landscapes to 
+improve ecosystem function like water and carbon cycling, climate regulation, and biodiversity 
+conservation (Tomscha et al. 2021) such as in peatland restoration (Bonn et al. 2016). Recent 
+scientific work has shown that wetland restoration may lead to increased carbon sequestration 
+and reduced methane emissions due to wetlands’ distinctive hydrology (Valach et al. 2021). 
+Many SEA wetland restoration projects thus emphasize the climate mitigating services of resto -
+ration. Increasingly, this co-beneficial process has been framed by policymakers and restoration 
+projects in terms of nature-based solutions or natural-climate solutions (Rifai et al. 2023; Tan 
+et al. 2022). Nature-based solutions (NbS) are defined as “working with and enhancing nature 
+to help address societal challenges” (Seddon et al. 2020: 85) and expanding on efforts towards 
+integrating ecosystem services to adapt to the impacts of climate change (Alexander et al. 2016; 
+Colls et al. 2009; Escobedo et al. 2019).). Ecosystem services, meanwhile, refer to “the aspects 
+of ecosystems utilized (actively or passively) to produce human well-being” (Fisher et al. 2009: 
+645).
+Critical social scientists often argue that nature conceptualized this way is “out there, ” sep -
+arate from society, upholding the age-old and contentious nature-culture bifurcation and its 
+complex and dynamic processes reduced to a specific good or service that can be “put to work” 
+for anthropocentric purposes (Besky and Blanchette 2019; Welden 2023). Such a conception 
+of nature obscures how humans themselves are a part of ecosystems, shaping and influenc -
+ing environmental change. Importantly, this framing of nature as a “service” is evocative of 
+exchange-values and is used to justify nature’s valuation, part of a neoliberal toolkit that centers 
+market relations in environmental management, turning natural processes into discrete finan -
+cial commodities (Bigger et al. 2018; Dempsey 2016; Sullivan 2018). Nature’s “services, ” like car -
+bon sequestration, are measured and made commensurable to financial value through complex 
+accounting so they can be marketed to investors (Huff 2023; Kolinjivadi et al. 2019; McElwee 
+2017). This neat packaging of “services” that can be measured and valued is emblematic of the 
+production of nature, facilitating capital penetration into nature itself (Bryant 2018).
+Scholars have also reflected on how nature’s “work” is harnessed to deliver specific ecosystem 
+services and outcomes for human communities and is used as a natural infrastructure (Besky 
+and Blanchette 2019; Carse and Lewis 2017; Hetherington 2018; Ojani, 2022; Wakefield 2020). 
+In contrast to technical approaches to infrastructure in ecology and conservation science dis -
+cussed later in this section, this scholarship is informed by STS, which embeds infrastructure 
+in social, technological, and material contexts (Larkin 2013; Star 1999). As Ashley Carse (2016) 
+describes, infrastructure is a plastic term that has multiple definitions and meanings. However, 
+for the purpose of this article, we understand infrastructure to mean not just systems or struc -
+tures but also the relationships that constitute those structures, which bring them into existence 
+or maintain their presence. As Lauren Berlant (2016) says, infrastructure is the lifeworld of 
+structure.
+This scholarship on nature as infrastructure understands that nature is formed in relation 
+with humans, modified through human labor for a particular objective or purpose. It is not just 
+an already existing infrastructure (Hawkins and Paxton 2019; Ojani 2022; Wakefield 2020). As 
+Carse describes in his work on the Panama Canal, “as infrastructure, nature is irreducible to a 
+non-human world already ‘out there’ . It must, in its proponents’ terms, be built, invested in, made 
+functional, and managed” (2012: 540). Ultimately, as “out there” nature is expected to provide 
+ecosystem services, capitalist values are inscribed into the landscape, becoming infrastructure 
+for one system of production, rather than other possibilities. Will Lock (2023) describes how 
+Amphibious Land Repair  ◾ 115
+engaging NbS follows the framing of the natural world as a form of infrastructure. While not 
+every wetland restoration project in SEA treats wetland ecosystems as a “nature-based solution, ” 
+we see efforts that harness nature’s processes through the act of restoration as strong examples 
+of Sara Nelson and Patrick Bigger’s infrastructural nature , or “the policy approaches, scientific 
+practices, discourses, and investment strategies that make ecosystems legible, governable, and 
+investable as systems of critical functions that sustain and secure (certain forms of) human life” 
+(2022: 88, see also Dempsey 2016; Li 2014; Sullivan 2018). As Lock describes, “infrastructural 
+nature can be seen as an ideological underpinning of nature-based solutions as they are emerg -
+ing in practice” (2023: 4). Turning the natural world into infrastructural nature imbues it with 
+the same predictability and measurable value that is in the built environment.
+Such is the case for Southeast Asian wetlands. Infrastructural framings of wetlands within 
+the science and policy communities see wetlands as ecosystem services, often framed as pre-  
+existing “blue” or “green” infrastructures (Cardoso da Silva and Wheeler 2017). Like other infra -
+structures, these become visible only when they are not functioning as expected (Larkin 2013; 
+Puig de la Bellacasa 2014). However, envisioning wetlands as infrastructure is also a political 
+process. Understanding wetlands as services for human needs amplifies an anthropocentric 
+relation to ecosystems. Moreover, as critical work on ecosystem services has shown, “infra -
+structuralizing” nature maintains capitalist socio-natural relations, enabling their valuation and 
+commodification (Carse 2012; Dempsey and Robertson 2012; Kull et al. 2015). We follow recent 
+critical scholars (Nelson and Bigger 2022; Wakefield 2020) in contending that wetlands are not 
+simply pre-existing infrastructures but are made into infrastructural nature through the process 
+of repairing both the terrestrial and aquatic features of wetlands to perform specific ecosys -
+tem services. We expand upon scholarship on green and blue infrastructures in Southeast Asia, 
+which has examined the active construction of physical infrastructure in SEA urban wetlands, 
+such as the Jakarta Seawall (Colven 2020). By developing Atsuro Morita’s (2016) argument on 
+infrastructuring amphibious space beyond construction of “aquatic infrastructures, ” we focus 
+on how wetlands themselves are organized into ecosystem services through restoration. Draw -
+ing from the literature on nature as infrastructure, we define infrastructural land repair  as the 
+process of restoring dynamic ecosystems for ecosystem services, mediated through expertise, 
+technology, and finance. In Southeast Asian wetlands, these purposes include climate mitiga -
+tion, such as carbon sequestration in peat swamps and methane reduction in mangrove ecosys -
+tems, as well as climate adaptation, including water cycling for flood prevention in deltas and 
+sea level rise in seagrass ecosystems.
+Since the early 2000s, engaging nature as infrastructure has become ubiquitous in ecology 
+and conservation science, subverting common conceptions of infrastructure such as roads, 
+canals, and electric grids. Natural infrastructure utilizes ecosystems and their components, such 
+as wetlands, forests, rivers, dunes, and reefs, as a metaphor to deliver a diverse array of services 
+typically provided by constructed or engineered materials or structures (Escobedo et al. 2019). 
+This concept has been articulated in the recent proliferation of related scientific terminology 
+such as NbS, green, blue, and ecological infrastructures within environmental management 
+and policy (Cardoso da Silva and Wheeler 2017). Following suit, wetland ecosystems in South -
+east Asian landscapes are often framed as natural, green, or blue infrastructures (Hamel and 
+Tan 2022; Rifai et al. 2023; Uy and Tapnio 2021). Green infrastructure refers to the purposeful 
+design, restoration, enhancement, or strategic implementation of forested and terrestrial urban 
+environments to deliver environmental services, such as managing stormwater, enhancing air 
+and water quality, and mitigating urban heat, among other urban services (Cardoso da Silva and 
+Wheeler 2017). For example, green infrastructures such as rain gardens or roof gardens are now 
+used in urban planning to address stormwater pollution and flood management (Twohig et al. 
+116 ◾ Tamar Law and Jenny Goldstein
+2022). Blue infrastructures function similarly but focus on freshwater and marine ecosystems 
+and are designed to manage and utilize water resources (Cardoso da Silva and Wheeler 2017). 
+Living oyster reef shorelines are used in coastal management to respond to sea-level rise and 
+increasingly powerful storm surges, or wave action that causes coastal erosion (Wakefield 2019). 
+By understanding wetland restoration as a form of infrastructural land repair, we describe in 
+the following sections how the processes of restoration can maintain the political-economic 
+systems that resulted in wetland’s initial degradation.
+Restoration in Southeast Asia
+In this section, we examine the history of restoration throughout SEA. Restoration projects are 
+simultaneously increasing in number and changing geographies, moving from forest ecosys -
+tems to include wetlands. We detail this shift and then provide an overview of recent wetland 
+restoration projects.
+From Reforestation to Landscape Restoration
+The practice of environmental restoration has a longstanding history in SEA, initially with a 
+focus on the region’s highly biodiverse forest ecosystems. Regarded as the oldest remaining 
+tropical ecosystems in the world (MacKinnon et al. 1996), Southeast Asian forests consist of 
+mixed deciduous types, including teak and evergreen dipterocarp forests, and extensive areas 
+of montane, mangrove, and peat swamp forests (Appanah et al. 2015). Since the 1980s, logging 
+for export, state-led agricultural land conversion, plantation development, and forest fires were, 
+and continue to be, significant drivers of forest loss across SEA (Imai et al. 2018; Tsujino et al. 
+2016). As work in political ecology has demonstrated, these drivers of deforestation are rooted 
+in histories of colonialism (Bryant et al. 1993). European scientific forestry practices became 
+ubiquitous across the region’s colonial forestry ministries and remained after independence in 
+nations including Myanmar (Bryant 1993), Malaysia (Peluso and Vandergeest 2001), Indonesia 
+(Peluso 1993), the Philippines (Pagunsan 2023), and even in Thailand, which notably avoided 
+colonization (Lohmann 1993). Under colonial economic logic, timber was extracted from for -
+ests as a source of state revenue, leading to the expansion of state control into upland and for -
+ested areas.
+Restoration in SEA has deep roots in colonial forestry. Early restoration in the region began 
+in the mid-1800s with scientific forestry in colonial state-led efforts toward forest reclamation, 
+or the replanting and reforestation of previously logged or degraded forests (Appanah et al. 
+2016). Ruel Pagunsan (2023) describes how post-WWII reforestation efforts by the Bureau of 
+Forestry in the Philippines were shaped by colonial science. Shaped by extractive economies, 
+early reforestation efforts were predominantly concerned with the ongoing economic potential 
+of forest resources (Bryant et al. 1993). Thus, scientists and states emphasized monocultural 
+replanting of exotic species with clear market value, such as pine, eucalyptus, or acacia (Lamb 
+1994). In Burma for instance, the taungya  system for actively reforesting areas under shifting 
+cultivation with teak was first introduced under the British in 1856 (Wohlers 2019). The system 
+has since been widely used across SEA (Appanah et al. 2016).
+Post-colonial Southeast Asian forest restoration initiatives have taken the form of state, 
+non-governmental organization (NGO), or corporate-led reforestation programs or re-greening 
+initiatives following traditional forest plantation schemes. The focus on replanting instead of 
+full rehabilitation of an original forest ecology (Lamb 1994) was due to the difficulty in quanti -
+Amphibious Land Repair  ◾ 117
+fying the extent of forest degradation in contrast to the relatively easy quantification of defor -
+estation and subsequent tree replanting. These compensatory plantations were also employed 
+across SEA to offset the decline in timber output from natural forests; pulp and timber compa -
+nies financed the seeds and inputs (Buergin 2016). In the 1980s the Thai Royal Forestry Depart -
+ment addressed deforestation in Northern Thailand from logging for woodchips by establishing 
+eucalyptus plantations financed by pulp-and-paper corporations (Puntasen et al. 1992) . This 
+reforestation project led to vocal farmer opposition over land tenure and a thirsty ecology of 
+non-native eucalyptus forests, which drained the water table and soil moisture levels, jeopardiz -
+ing local farming livelihoods (Barney 2004; Lohmann 1993). In Myanmar, the 1991 Wasteland 
+Law led to rapid development of rubber plantations, through which reforestation was used as 
+a form of agricultural expansion and paved the way toward high-input, capital-intensive agri -
+cultural production (Woods 2012). In the 1990s, the Vietnamese government followed suit, 
+launching two forest restoration programs: Program 327 and the Five Million Hectares Refor -
+estation Programme (5MHRP), which tripled the plantation forest area in Vietnam (McElwee 
+2009). In Indonesia, reforestation also has an extensive history. From the 1960s to 2015, 150 
+official forest reforestation projects were implemented across four hundred locations through -
+out the nation (Appanah et al. 2015). However, despite these projects, deforestation continued, 
+and forests did not return to their original ecological composition (Sharma and Y onariza 2021). 
+Across the region, many of these initiatives continue today.
+Landscape restoration projects in SEA began in earnest in the early 2000s. The World Wide 
+Fund for Nature (WWF) and the International Union for Conservation of Nature (IUCN) 
+defined Forest landscape restoration (FLR) as “a planned process that aims to regain ecological 
+integrity and enhance human well-being in deforested or degraded forest landscapes” (Appanah 
+et al. 2016:2). This move toward FLR followed global shifts in forestry management away from 
+plantation models toward social forestry (ibid). While reforestation through tree replanting is 
+still practiced in SEA, FLR programs continue to grow in Thailand (Sapkota et al. 2021), Indone -
+sia (Van Oosten et al. 2014), and the Philippines (Mukul et al. 2016). More recently, restoration 
+projects across SEA have centered wetlands, which we examine in the following section.
+A Survey of Contemporary Wetland Restoration in Southeast Asia
+From the peatlands of Indonesia (Dohong et al. 2018), floodplain systems of the Mekong Delta 
+across Vietnam, Cambodia, and Thailand (Nguyen et al. 2016), high-altitude headwaters of the 
+Ayeyarwady in Myanmar (Gruel and Latrubesse 2021), seagrass ecosystems of the Philippines 
+(Rifai et al. 2023), and Inle Lake’s watershed in Myanmar (Pradhan et al. 2015), wetlands across 
+SEA are now the focus of a variety of restoration efforts, including large-scale, NGO-driven, 
+state-led, and corporately funded initatives. Wetland drainage and degradation in the region 
+is still driven by extractive industries, such as logging (Hughes 2017), hydrodam development 
+(Cho and Qi 2023), the rapid expansion of oil palm plantations (Dohong et al. 2017, oil and 
+gas drilling (de Jong and Nooteboom 2010), agricultural conversion for shrimp aquaculture 
+and rice paddies (Gerona-Daga and Salmo 2022), as well as urban development. Degradation 
+is further exacerbated by climate change and extreme weather events such as drought, sea-level 
+rise, and tropical cyclones (Gopal, 2013). As a result, livelihoods and cultural heritage have 
+been lost, water tables contaminated (Cochard 2017), the biodiversity of the region has taken 
+a hit (Hughes 2017), and there has been a substantial loss of ecosystem services important for 
+climate functions (Gopal 2013). In response, restoration efforts across the region seek to repair, 
+and even enhance, these climate functions, making wetlands into NbS. At the 2016 Ramsar 
+Convention of Wetlands, the Indo-Burma Ramsar Regional Initiative (encompassing Cambo -
+118 ◾ Tamar Law and Jenny Goldstein
+dia, Laos, Myanmar, Thailand, and Vietnam) formulated the first regional approach to wetland 
+governance (IUCN 2022; Liu et al 2022). This initiative is informed by the expansive wetland 
+work across the region. In this section, we offer a survey of these restoration efforts in Southeast 
+Asian wetlands.
+Peatlands
+SEA ’s tropical peatlands, found in low-lying areas of Indonesia and Malaysia, which are home 
+to over 40 percent of the world’s tropical peatlands, are rapidly disappearing (Dohong et al. 
+2017). Peatlands consist of waterlogged, partially decomposed vegetation, extending up to 20 
+meters deep in certain areas. The majority of Indonesia’s peatlands are considered disturbed or 
+degraded, directly or indirectly impacted by canal drainage for large-scale agriculture (Page and 
+Hooijer 2016; Uda et al. 2017; Yuwati et al. 2021). Following drainage, dry peatlands undergo 
+microbial oxidation and become flammable, both processes of which emit enormous amounts 
+of carbon dioxide (Page et al. 2022; Turetsky et al. 2015). The Indonesian state began draining 
+peatlands in the 1990s for large-scale rice estates. Drainage accelerated in the early 2000s as the 
+state gave land concession licenses on peatland to oil palm and pulpwood companies (Gold -
+stein 2016). Some of the most severe peat fires in the country’s history occurred in 2015, as El 
+Niño-fueled drought left peatland across Sumatra and Kalimantan highly flammable (Kiely et 
+al. 2021). In response, then-President Joko Widodo pledged to restore 2.2 million hectares of 
+peatland by 2020 by creating a national-level Peatland Restoration Agency ( Badan Restorasi 
+Gambut ) to spearhead the task (Goldstein et al. 2020). The BRG was limited, however, to imple -
+menting restoration in peatlands that fall within the state’s direct jurisdiction, which excludes 
+many peatlands that are in corporate agribusiness concessions.
+The core objective of peatland rehabilitation is to prevent fire and oxidation—thereby mit -
+igating carbon emissions—through hydrological management by blocking drainage canals, 
+introducing new vegetation, and preventing fire (Monteverde et al. 2022, Yuwati et al. 2021). 
+Successful rehabilitation in peatlands is challenging because of their complex hydrology, the 
+variability of precipitation by season, and the fluid movement of water within swamp layers 
+(Sutikno et al. 2020). Repairing drained peatlands’ hydrology requires heavy machinery to dig 
+and construct canals, ditches, drains and dams, which reduces surface run-off and increases 
+water storage capacity within canals (Ritzema et al. 2014). After rewetting (Dohong et al. 2018, 
+Terzano et al. 2022) there is often the planting of seedlings and transplants (Graham et al. 2017). 
+Peat rehabilitation requires scientific expertise (Tan et al. 2022) and labor to drive machines, 
+plant saplings, and oversee nurseries (Wiesner and Dargusch 2022). It also requires substan -
+tial capital investment (Hannson and Dargusch 2018). Some attempts at peatland restoration 
+have been supported through the Reducing Emissions from Deforestation and Degradation 
+(REDD+) initiative, which was introduced by the United Nations Framework Convention on 
+Climate Change in 2007 (idib). REDD+ encouraged wealthy countries to fund developing coun -
+tries’ forest conservation and restoration projects as carbon offsets (Sayer et al. 2021). Multi-  
+national corporations such as Asia Pulp and Paper (APP) have undertaken peatland restoration 
+efforts in their concession areas while other Indonesian companies, such as PT Rimba Makmur 
+Utara, have obtained concession licenses for peatland restoration in Sumatra and Kalimantan 
+with financing from donors and investors (Barbier and Burgess 2021; Jong 2023; Leo et al. 2024; 
+Miller 2022; Sari et al. 2021).
+Despite substantial financial and time investment in peatland restoration in Indonesia, the 
+government’s ambitious restoration hectare goal has not been met. This failure may be because 
+most peat restoration projects do not fundamentally address the broader drivers of degradation 
+such as drainage and ongoing agribusiness production on peatlands by corporations (Goldstein 
+Amphibious Land Repair  ◾ 119
+2020; Wicaksono and Zainal 2022). Recent evidence from Greenpeace SEA has revealed that 
+corporate restoration concessions such as APP have breached their restoration targets in their 
+concessions, calling into question the efficacy of concession-based peatland restoration (Jong 
+2023). Successful efforts have centered community-led approaches, which Dilva Terzano and 
+colleagues (2022) have termed the “5-r” approach, embedding community participation across 
+all stages of peatland restoration, including rewetting, fire reduction, revegetation, revitalization 
+of local livelihoods, and reporting and monitoring. Such an approach is crucial in moving peat -
+land restoration past the “business as usual” scenario, where restoration fails to address the root 
+cause of degradation (Girkin et al. 2023).
+Deltas
+SEA ’s deltas provide critical ecosystem services, livelihoods, and resources to millions of people 
+particularly in the Mekong Delta (Li et al. 2017). With headwaters in the Tibetan Plateau, the 
+Mekong River winds through Southwest China, Myanmar, Laos, Cambodia, and Thailand, 
+before fanning out in a delta in Southwest Vietnam. Water intensive agricultural practices, like 
+paddy farming and shrimp aquaculture in Thailand and Cambodia (Tromboni et al. 2021), the 
+future development of hydropower dams in the region (Arias et al. 2014, Y oshida et al. 2020), 
+and deforestation across the region (Li et al. 2022) threaten the tributaries of the river basin. 
+This compounds water stress on the floodplains of the Mekong Delta, one of the largest deltas 
+in the world. Conceptualized as a “hydro-agricultural machine” (Biggs et al. 2009: 216), the 
+delta is an agricultural powerhouse due to its rich alluvial soils. For over one thousand years 
+the delta has been modified for transportation, and later for the construction of large-scale 
+canals and drainage systems for agriculture in the mid-nineteenth century by French colo -
+nizers, which the central government expanded after independence (Biggs et al. 2009). Since 
+the mid-1970s, state-led irrigation and land reclamation for rice production has dramatically 
+altered the delta’s hydrological regime. One of the most populated regions of Vietnam due to 
+the success of alluvial rice agriculture, the Mekong’s transformation into a rice bowl has short -
+ened the flooding period of the Mekong from 12 months to 4 to 6 months and caused increas -
+ing salinity levels (Le et al. 2018; Nguyen et al. 2016). By the early 2000s, only 1.5 percent of 
+the Mekong’s wetlands existed in their natural or semi-natural state prior to rice intensification 
+(Nguyen et al. 2016).
+Delta degradation and climate change exacerbate flooding, sea-level rise, and storm surges 
+in the region, causing saltwater intrusion into groundwater systems as well as significant out-  
+migration from the delta, which can lead to geopolitical conflict (Beban and Gorman 2015; Xiao 
+et al. 2021). In turn, restoration efforts seek to restore ecosystem services for climate functions. 
+While most delta projects have been NGO- and state-funded, the large-scale projected future 
+expansion of delta restoration will also be corporately financed (Canning et al. 2021; Correa and 
+Jansen 2021; World Bank 2020). The private equity firm Mekong Capital, for instance, is raising 
+two hundred million dollars for Mekong restoration projects focused on the regeneration of 
+forests (Ngui 2023).
+Like restoration projects in peatlands, delta restoration establishes pre-disturbance hydro -
+logical functions, including constructing dikes and canals to retain monsoon rainwaters, which 
+maintain moisture levels in seedling nurseries (Beilfuss and Barzen 1994). Maintaining hydro -
+logical balance maintenance is a complex technological system, referring to the hydraulic net -
+work of canals, flood embankments, sluice gates, and pumping stations (Staveren et al. 2018). 
+Restoration research projects in the delta have examined the construction of bamboo T-Fences 
+and dikes for breakwaters (Albers and Schmitt 2015) and structural protection measures against 
+erosion used to stimulate hydrodynamics and maintain shoreline integrity, which reduce wave 
+120 ◾ Tamar Law and Jenny Goldstein
+stress and increase sedimentation (ibid.). Delta restoration also includes the revegetation of 
+native plant ecosystems (Tinh et al. 2022), which shape the hydrodynamics and sediment trans -
+port of the Mekong Delta (Fagherazzi et al. 2017). Beyond the Mekong, other smaller deltas 
+in SEA are undergoning vegetative restoration, including in the Red River Delta in Northern 
+Vietnam (Long et al. 2021) and in the Mahakam Delta in Indonesia (Powell and Osbeck, 2010).
+Mangrove Ecosystems
+Over 30 percent of the world’s coastal mangrove ecosystems are in SEA (Friess et al. 2016) with 
+20 percent of the global total in Indonesia (Sasmito et al. 2023). Mangrove ecosystems consist 
+of mangrove trees, their carbon-rich anoxic soils, and the dynamic flows of brackish water that 
+provide nutrients and moisture to a variety of species that inhabit mangroves’ bulbous roots. 
+The rate of mangrove degradation in SEA is among the highest in the world. As with other 
+forms of wetland conversion, mangrove deforestation drivers include land use change for agri -
+cultural development, including rice paddies and oil palm plantations, and aquaculture devel -
+opment, such as shrimp and fish farming, as well as logging and timber production, oil and gas 
+extraction, and urban development (Richards and Friess 2016). Early revegetation efforts in 
+the region included mangrove timber stock replanting in the Philippines in the 1930s (Walters 
+2003) and mangrove seedling planting in 1978 in Agent Orange-impacted areas in Vietnam 
+(Veettil et al. 2019).
+Recently, mangrove restoration is moving from plot-based reforestation (direct planting) 
+towards incorporating hydrological rehabilitation and ecological engineering (Gerona-Daga 
+and Salmo, 2022; Ellison et al. 2020). While direct planting is still the predominant form of 
+mangrove restoration, new mangrove restoration projects are integrating hydrological rehabil -
+itation and coastal engineering methods to re-establish hydrological balance. We see this as 
+connected to the growing new paradigm of mangrove governance (Sidik et al. 2023), which 
+frames Southeast Asian mangrove and seagrass ecosystems as “blue carbon, ” or natural-climate 
+solutions that can store atmospherically significant amounts of carbon (Alongi et al. 2016, Friess 
+et al. 2022; Macreadie et al. 2021). According to Gerona-Daga and Salmo (2022) Indonesia leads 
+in studies on hydrological rehabilitation methods, this can include making physical changes to 
+the ecosystem to encourage tidal inundation or change surface elevation (Oh et al. 2017), while 
+studies in Vietnamand Malaysia, incorporate coastal engineering such as constructing sea dikes 
+and breakwaters or making use of groins, mollusks, and bamboo fences (Albers and Schmitt 
+2015;Nguyen et al. 2022; Phong 2022).
+In many instances, mangrove restoration has encountered challenges due to governance 
+issues, lack of community engagement and inadequate hydrological preparation (Friess et al. 
+2016; Mursyid et al. 2021; Sasmito et al. 2023; Suyadi et al. 2023). In the Philippines, large-
+scale mangrove plantation schemes using only one species of mangrove tree have failed due 
+to the inability to achieve the correct estuarine conditions for the saplings and the lack of 
+post-planting management plans (Barnuevo et al. 2017). In Indonesia, issues in scientific 
+knowledge transfer to local communities has challenged project implementation and results 
+(Dharmawan et al. 2017). Nevertheless, attempts at mangrove restoration continue to expand, 
+including Singapore’s OneMillion Trees initiative in the Sungei Buloh Wetland Reserve and 
+Kranji marshes (Parks 2019). This increase is driven by rising policy interest and scientific evi -
+dence for the potential of blue carbon (Gerona-Daga and Salmo 2023; Sidik et al. 2023; Thor -
+haug et al. 2020). For example, Indonesia’s mega-restoration project, Mangroves for Coastal 
+Resilience, aims to rehabilitate 630,000 hectares of mangroves by 2024 (World Bank 2022). 
+Such restoration efforts are bolstered by the financial promise of blue carbon markets (Friess 
+et al. 2022).
+Amphibious Land Repair  ◾ 121
+Seagrass
+The growing popularity of blue carbon has also drawn attention to seagrass restoration in the 
+region as a potential nature-based solution to mitigate climate change and repair coastal infra -
+structures (Rifai et al. 2023; Stankovic et al. 2021). Seagrass restoration initiatives in SEA are 
+more limited than mangrove restoration even though the region has the highest diversity of sea -
+grass diversity and habitat types in the world (Fortes 2018; Fortes et al. 2018). The seagrass hab -
+itats found in SEA exist within shallow, partially enclosed coastal systems as well as in expansive 
+estuaries (John et al. 2023). These areas experience significant daily and seasonal changes, such 
+as light availability and salinity due to tidal fluctuations (Fortes et al. 2018). The distribution and 
+health of seagrass meadows have suffered across the region due to increasing global tempera -
+tures from anthropogenic climate change, eutrophication from dredging, pollution from sew -
+age, mine tailings, and thermal effluent, and an uptick in coastal development (Sudo et al. 2021).
+Much of the research on seagrass restoration has been in the Philippines, home to the largest 
+extent of seagrass in SEA (Fortes 2018). During the early 1980s, the government of the Phil -
+ippines sought help from the Food and Agriculture Organization to explore the possibility of 
+restoring seagrass in the country (Paling et al. 2009). To achieve this, an international consultant 
+was appointed to facilitate a technology transfer initiative, introducing techniques for seagrass 
+restoration, and conducting a trial transplantation program, which had limited success (ibid). 
+The most effective way to promote seagrass recovery is by addressing the root causes of distur -
+bance (Talbot and Wilkinson, 2001). However, this approach can be challenging, particularly 
+in cases where limited resources hinder comprehensive environmental management changes. 
+As a temporary measure, they suggested that transplanting seagrass and implementing artifi -
+cial seagrass projects could offer short-term solutions (ibid). In the early 2000s, the Philippine 
+National Seagrass Committee (PNSC) was established to overseeall activities related to sea -
+grass and specifically, the UNEP/GEF South China Sea Project’s goal of restoring 80 percent 
+of the region’s seagrass cover to the previous 1995 level (Fortes, 2018). More recently, interest 
+in seagrass restoration as a nature-based solution is also ramping up elsewhere in the region, 
+including in Indonesia (Rifai et al. 2023) and Vietnam (Veettil et al. 2022), due to the framing 
+of seagrass ecosystems as blue carbon. This has opened new opportunities for finance and is 
+growing private investment and financial interest in seagrass restoration projects (Stankovic et 
+al. 2021, Friess et al. 2022, Macreadi et al. 2021).
+The Political Ecology of Southeast Asian Wetland Restoration
+Conceptualizing restoration as infrastructural land repair reveals that it is a social and political 
+process. As wetland’s ecological systems are repaired to a specific baseline (Ureta et al. 2020), 
+this re-orders ecosystems services for precise climate configurations (Ramakrishnan et al. 2021). 
+Such repair efforts aim to rehabilitate ecosystems to a previous environmental condition, as an 
+anticipatory form of environmental governance (Hirsch 2020). However, as the previous section 
+chronicles, such efforts continue to meet significant challenges, both in restoring ecosystems 
+and in preventing the continuation of the original form of degradation. Thus, the process of wet -
+land restoration in SEA often maintains the larger political-economic system that precipitated 
+its degradation. Moreover, new efforts towards wetland restoration in SEA produces wetlands 
+as NbS, turning the restoration of the very degradation that contributed to the climate crisis in 
+the first place into new economic possibility. In this final section, we interrogate infrastructural 
+land repair, first through examining repair’s process and then by unpacking repair’s political 
+implications.
+122 ◾ Tamar Law and Jenny Goldstein
+Infrastructural Land Repair: Experts, Technology and Finance
+Infrastructural land repair involves a range of actors including humans (scientists, farmers, 
+governments, investors) and nonhumans, such as abiotic (water, climate, and soil) and biotic 
+entities (plants and animals). Interactions between them are mediated through experts, tech -
+nology, and finance and restore both the terrestrial and aquatic features of wetlands, producing 
+wetlands as green and/or blue infrastructures to enhance specific ecosystem services. Here, we 
+examine how expertise, technology, and finance maintain the political-economic status quo in 
+the face of ecological crisis.
+Expertise: Who?
+The global governance of wetland restoration involves a range of actors, working across national, 
+international, and intranational scales to facilitate the rehabilitation of wetland ecosystems. 
+Key international actors include the United Nations Environment Programme (UNEP), which 
+recently declared the international Decade of Ecosystem Restoration, Wetland International, 
+IUCN, WWF, Environmental Defense Fund, The Nature Conservancy (TNC), and the World 
+Bank, to name a few prominent examples. Inter- and intra-national efforts toward restoration 
+are shaped by the Ramsar Convention, an intergovernmental treaty established in 1971 signed 
+by 168 nations designating wetlands as crucial sites for biodiversity, conservation, and facilitat -
+ing international cooperation toward sustainable wetland use (Stroud et al. 2022). The Ramsar 
+Convention marks the only multilateral environment agreement on a singular ecosystem type.
+The United States, as a center of restoration ecology (Martin 2022), has been a critical loca -
+tion for the expansion of wetland mitigation banking (Lave and Doyle 2021) overseen both at 
+state levels, and at the federal level by the Environmental Protection Agency (EPA), US Fish 
+and Wildlife Service (USFWS), the National Park Service, and the US Army Corps of Engi -
+neers. The Natural Resources Conservation Service manages the Wetland Mitigation Banking 
+Program. Across Europe, the European Union has contributed over 23 million euros to the 
+expansion of waterLANDs restoration project, funded through the EU Horizon 2020 Green 
+Deal Call 7.1, aimed at enhancing wetland carbon storage and tailoring financial solutions for 
+wetland restoration (WaterLANDS 2024). In China, the National Wetland Conservation Pro -
+gram, which began in 2003, is the largest wetland rehabilitation program in the world. It is 
+largely funded by the Chinese central government and managed by the Office of Wetland Con -
+servation and Management of State Forestry Administration (Liu and Ma 2024). In SEA, central 
+NGO actors include the World Bank, United Nations Development Program (UNDP), TNC, 
+WWF, Wetlands International, the Asia Foundation, The Wildlife Conservation Society, Birdlife 
+International, and Conservation International. Most recently, the World Resources Institute, 
+established the Southeast Asia Climate and NbS (SCeNe) Coalition at COP28. This coalition 
+“aims to democratize access to knowledge, technical assistance, and climate finance so that 
+frontline organizations (FOs) across SEA can engage in NbS projects with full awareness and 
+consent. ” The main output of SCeNe is their NbS Tool, signaling the rising interest in directing 
+carbon investor funds toward FOs in SEA. While Chinese assistance in nature-based solutions 
+play a role in SEA (Zhu et al. 2024), we find a clear gap in the literature chronicling the extent 
+and specifics of Chinese investment in the financing of SEA ’s wetland restoration.
+Wetlands for NbS is influential in international and national policy circles (Hamel and Tan 
+2022; Ureta et al. 2020; Wang et al. 2022), because of the authority of scientific expertise that 
+is facilitated by the capacity of science to “travel” (Shapin 1998). Such expertise is produced by 
+formally trained scientists, engineers, or environmental analysts and refers to the authority that 
+delineates overall restoration plans and procedures, not the physical labor of restoration itself. 
+Amphibious Land Repair  ◾ 123
+Wetlands do not pre-exist as infrastructures. They are actively framed as such through scientific 
+expertise, which is then upheld and circulated in policy circuits (Goldstein 2016). The physi -
+cal act of wetland restoration, however, can require re-engineering the landscape’s hydrology 
+which determines the amount and frequency of water available in a landscape (Nugraha et al. 
+2022; Tien et al. 2021). Hydrological restoration also draws on ecological engineering to ensure 
+wetlands’ capacity to enhance ecosystem services. For example, Noralene Uy and Chris Tapnio 
+(2021) invoke studies from ecological engineering to conceptualize the potential for seagrass 
+and mangrove restoration as blue/green infrastructure in the Philippines. Moreover, the recent 
+interest in seagrass and mangrove ecosystems as NbS (Lima et al. 2023; Rifai et al. 2023; Stan -
+kovic et al. 2021) has focused on their carbon sequestration capacity above other ecosystem and 
+cultural roles, whereby the ecosystems are primarily understood through their capacity to hold 
+atmospheric carbon.
+Investigating how expertise is mobilized in wetland restoration raises questions: one, how are 
+wetlands conceptualized as degraded (who defines restoration?), and two, how are they man -
+aged (restoration by whom?). Ecological restoration is an extension of green environmentalism, 
+the conception that Nature can be returned to its original “baseline” through careful human 
+management if this process is overseen by rational and objective experts (Lorimer 2017). For 
+instance, in Benjamin Thompson’s (2018) work, he describes the structure, specificity, and elab -
+orate degrees of expertise governing mangrove restoration in Thailand. Since 2004, mangrove 
+management has been carried out by the Department of Marine and Coastal Resources, which 
+is divided into over 45 technical “substations, ” each having a Mangrove Management Unit. In 
+the case of the Mekong Delta, Jacob Weger (2019) describes how expertise “draws together 
+networks of actors via shared interests and interpretations” through translation, and how expert 
+knowledge travels across scales of analysis and intervention. Sarah Moser and Emma Avery 
+(2021) demonstrate how expertise is mobilized in the new Forest City eco-city development 
+project in Malaysia, which was built on reclaimed land and is constituted of four artificial 
+islands along the strait of Meleka on top of one of the largest seagrass beds in Malaysian territo -
+rial waters. They show how the eco-rhetoric of Chinese property developers maintains a form of 
+“green” identity that claims to “bring the symbiotic coexistence between city and nature to a new 
+height” (ibid.: 2) despite the questionable ecological impact of constructing a city on such a bio -
+diverse ecological habitat. They also demonstrate how this normative and apolitical discursive 
+framing may mask the multi-scalar politics of Forest City, instrumentalizing urban greening for 
+Chinese economic, territorial, and geopolitical goals.
+Restoration as a NbS render wetlands technical (Li 2007). Ecological engineers, scientists, 
+and technocrats define ecological baselines, creating their metrics of comparison and facilitat -
+ing restoration management. This is a form of “stewardship from above” (Huff and Brock 2023: 
+10), which centers simplification, standardization, and technification. Expert scientists translate 
+the complexity of wetlands into discrete variables that can be measured, modeled, mapped, and 
+managed by transactional units, legible to financial and insurance markets (Goldstein 2020), 
+supposedly securing the future by maintaining the present. This renders complex ecological 
+functions and individuals into standardizable, legible, and quantifiable units (Nelson and Big -
+ger 2022). Benoit Ivars and Jean-Philippe Venot (2019: 1040) describe how expertise can create 
+new imaginaries of wetlands, making Myanmar’s Ayeyarwady Delta into a “global wetland, ” for 
+example, for worldwide relevance that requires generic research and governance approaches.
+Through technical expertise, dynamic wetlands are parceled into their ecosystem services: 
+complex processes of gaseous exchange become reduced to carbon cycling, for instance. Such 
+expertise can privilege scientific knowledge of an ecosystem over other lay, local, or Indigenous 
+conceptions (Braun 1997). Recent critical work is beginning to examine the local knowledge 
+124 ◾ Tamar Law and Jenny Goldstein
+of wetlands (Gorman 2023), but there is a dearth of scholarship on local perceptions of wet -
+land restoration in SEA. Such expertise is also shaped by economic ends. As Goldstein (2016) 
+describes, peatland scientists’ role in restoring degraded peat swamps in Indonesia delegiti -
+mated corporate attempts toward agricultural land development but validated peat restoration 
+in service of carbon sequestration for carbon markets, embodying a carbon-ontology  (Krzywo -
+szynska and Marchesi 2020) of peat swamps. Experts oversee, and influence, the technologies, 
+and the ways that technologies inform wetland restoration.
+Technology: How?
+An array of technologies shapes wetland restoration, reworking wetlands into green/blue infra -
+structure. As infrastructure studies makes clear (Star 1999), infrastructures are never built from 
+scratch but rather are installed on and in existing land and ecosystems. Technologies restore 
+wetland’s ecological base to perform as infrastructure, digging, draining, and dredging to 
+release the wetlands intrinsic ecological functions. These technologies are simultaneously physi -
+cal and nonphysical. Physical technologies range from the cranes, trucks, and excavators used to 
+encourage tidal inundation, alter surface elevation, and dig canals to the sea dikes, break  waters, 
+groins, mollusks, and bamboo fences constructed to encourage tidal inundation or change sur -
+face elevation, used to manage the moisture regime (Nugraha et al. 2022). In Morita’s (2016) 
+examination of how the Chao Phraya Delta in Thailand was made into aquatic infrastructure, 
+he describes irrigation technologies that managed the flow of water in the delta to reduce flood -
+ing. Anja Nygren and Anu Lounela (2023: 297) describe how, through the processes of “dredg -
+ing, draining, drying, sedimentation and salinization, ” these technologies over-emphasize the 
+hydrological components of wetlands. This privileges a water-centric conception of wetland 
+ecosystems that obfuscates issues of land tenure and control, exacerbating local environmental 
+vulnerabilities.
+Nonphysical technologies refer to both the digital technologies and technologies of gover -
+nance to restore wetlands into infrastructures. Restoration scientists and policy experts use a 
+range of digital technologies—GIS, satellite imagery, remote sensing, and component surveys—
+to develop the idea of wetlands as infrastructures, and which can enumerate, monitor, and track 
+the ecological services that wetlands provide, such as carbon. In Indonesia’s peatlands, Gold -
+stein (2020) shows how satellite imagery and remote sensing creates new volumes of governable 
+space. This process is an example of what Tania Li (2014) describes as statistical picturing: using 
+technologies, land can be assembled into a new form and valued. The technologies of gover -
+nance that restore wetlands into infrastructures include institutional arrangements, legal frame -
+works, and political systems that invoke restoration as an NbS solution. These technologies, or 
+what Li (ibid.) calls “inscription devices, ” restructure the social relations of wetlands, expanding 
+its network of actors and the wetlands’ perceived potential for value.
+As Huff and Brock (2023) have noted, restoration necessitates new technologies of inscrip -
+tion, such as satellite imagery and remote sensing, to track and quantify repair and thus enable 
+financial valuation. Rini Astuti (2020: 284) describes how restoration in Indonesia’s peatlands 
+requires new technologies of governance, which produce new spatio-ecological units such as 
+“peatland hydrological unit, peatland ecosystem function and peat dome peak. ” Such units 
+manipulate dynamic ecosystem processes so they can be legible to capital. Such technologies are 
+becoming central to the restoration for mangrove and seagrass ecosystems as well, with the use 
+of aerial drone imagery to quantify the potential carbon stocks of coastal ecosystems (Fakhrur -
+rozi et al. 2023; Kidangoor 2023). However, the use of such digital technologies is often for pro -
+cesses that preclude easy quantification, such as carbon sequestration potentials. As Goldstein 
+(2022) has described in the example of peatland restoration, these scientific uncertainties can 
+Amphibious Land Repair  ◾ 125
+be incompatible with financial uncertainty, creating a feedback loop of data collection that stalls 
+the investment and thus success of these restoration projects.
+Finance: Why?
+In reviewing scientific and critical social science literature on wetland restoration in SEA, we 
+find that framing restoration as a NbS, as blue/green infrastructure, or as a bundle of discrete 
+ecosystem services, is generating new financial engagement with wetland ecosystems. This offers 
+novel ways for wetlands and their ecological processes to be useful to capital. Infrastructural land 
+repair  revalues the land, labor, and capital that has been eroded by monetizing the use-value of 
+each within repair through the expertise, technologies, and finance that underpin restoration. 
+In this way, wetland restoration is undertaken to “to address crises brought about by patterns of 
+capital accumulation and uneven development, such as environmental degradation, changes in 
+labor markets, and an unwillingness by actors to absorb costs of producing negative environ -
+mental externalities” (Cohen and Bakker 2014: 133). Indeed, the growing financialization of 
+wetland restoration in SEA demonstrates this. With the increase vision of peatland restoration 
+as a NbS (Strack et al. 2022; Tan et al. 2022), peatland restoration efforts in Indonesia have been 
+seen as a new possibility for innovative climate finance, in large part due to its climate services 
+(Bonn et al. 2016; Sari et al. 2021). The influence of finance within peatland restoration includes 
+private investment in peatland restoration via restoration concessions (Buergin 2016; Miller 
+2022) as well as REDD+ financing for carbon mitigation (Pham et al. 2021). In mangrove and 
+seagrass ecosystems, the blue carbon framework offers the potential for new carbon market -
+ing in developing the financial frameworks and mechanisms to implement blue carbon finance 
+(Friess et al. 2022; Sidik et al. 2023), with SEA poised to be a global leader in Blue Carbon due to 
+its high mitigation potential (Macreadie et al 2021). In 2023, the World Economic Forum (2023) 
+signed the first partnership on blue carbon with the Indonesian government, to support efforts 
+to scale up blue carbon finance. In the Mekong Delta, efforts toward climate adaptation and 
+resilience are capital-intensive, and development projects rely on donor-driven climate finance 
+to construct green infrastructures (Chandrasekharan Behr et al. 2020; Thomas 2023).
+Such examples of financialization exemplify how restoration in SEA can act as a socio-  
+ecological fix under capitalism (Castree and Christophers 2018; Ekers and Prudham 2017), con -
+sistent with James McCarthy’s (2015: 2495) definition of a socio-ecological fix as “something that 
+directly engages with and resolves, mitigates, or postpones a structural impediment—including 
+any environmental one—to sustained capital accumulation. ” Capitalism creates barriers to its 
+own future, in this case the degradation of wetlands through extractive industries, and thus, 
+market-based solutions enable capital’s own expansion (Buscher and Fletcher 2020). Wetland 
+restoration in SEA can thus be a socio-ecological fix for capital, which requires sinking large-
+scale, long-term investments into landscapes (Ekers and Prudham 2017) and takes considerable 
+time (Bayraktarov et al. 2016). Through the speculative practices (Bodin et al. 2022; Dressler et 
+al. 2018) and possibilities of financing ecosystem repair, wetland restoration in SEA may enable 
+degraded wetlands to become economically viable once again. While a socio-ecological fix is, by 
+definition, capital invested in new locations or industries (Ekers and Prudham 2017), wetland 
+restoration in SEA functions not just as a mechanism for accumulation but might also become 
+a form of re-accumulation, generating second order “value from ruin” in the same landscapes 
+left degraded by first-order capitalist extraction (Dressler et al. 2018; Knuth et al. 2019). Green 
+and climate finance in SEA thus uses wetland restoration projects to provide ecosystem services, 
+invoking an “economy of repair, ” in which “nature becomes valued not just for its use in produc -
+tion or recreation, but also for its repair or restoration” (Huff and Brock 2023: 16). As Huff and 
+Brock (2023) warn, this may lead to “accumulation by restoration, ” whereby nature is rendered 
+126 ◾ Tamar Law and Jenny Goldstein
+re-investable through the financialization of its repair (Canning et al. 2021; Knuth et al. 2019). 
+However, while the literature we reviewed does outline the increasing role of finance in wetland 
+management, there are few empirical examples discussing the specific mechanisms of financial 
+accumulation through which wetlands are restored. While conceptual framings, including Huff 
+and Brock’s (2023), are helpful in offering a theoretical framework for understanding efforts like 
+Blue Carbon as well as other carbon credit schemes engaged in SEA wetland restoration, more 
+case-based, empirical work is needed to delineate how and to what ends, exactly, restoration 
+enables new forms of capital accumulation in SEA.
+The Limits of Repair: Maintaining Disrepair?
+The process of infrastructural land repair is clearly political. As a novel socio-ecological fix, it 
+upholds existing socio-ecological systems and relations, building the social, political, and eco -
+nomic scaffolding for wetland restoration while simultaneously obscuring the political backdrop 
+of repair. Infrastructural land repair offers wetlands as a solution to wetland degradation—and 
+the current climate crisis more generally—in a way that precludes larger systemic analysis or 
+reform. As Erik Swyngedouw (2010: 222) argues, socio-ecological fixes “make sure nothing 
+really changes. Stabilizing the climate seems to be a condition for capitalist life as we know it to 
+continue. ” This form of repair perpetuates the status quo, upholding and expanding the political-  
+economic system that culminated in wetland disrepair in the first place , while  forging new 
+inroads for capital accumulation as outlined in the previous section.
+Thus, restoration in this sense, could be seen as an example of what Julie Guthman calls the  
+limits of repair : maintaining a system amidst continuous change and crisis. She warns this form 
+of repair could cause iatrogenic harm, whereby the solution itself exacerbates the very problems 
+it is meant to resolve, as “problems arise along how the cures actually work” (2019: 23) This 
+raises questions about how this process, through its financial potential, might result in land 
+grabs and dispossession (Barbesgaard 2018) or, as we see in some cases in SEA, undermine the 
+initial goal of ecosystem restoration itself. Despite ambitious wetland restoration efforts in SEA, 
+much restoration still has not yet achieved its goals of either restoring ecosystems or enhancing 
+ecosystem services. Restoration could therefore be emblematic of what Stephanie Wakefield 
+and Bruce Braun term the katechon : “the permanent management of the present to hold back 
+forces of change” (2018: 203). The katechon wards off chaos in a continual loop of crisis and risk 
+management. In the katechon, there is no promise of a different future, possibility, or an end 
+to this loop. The chaos of the climate crisis is created by the same order the katechon upholds.
+However, this does not have to be the case for infrastructural land repair. Noel Castree and 
+Brett Christophers (2018) offer a cautiously optimistic reading of ecological fixes and outline 
+the potential for finance to rebuild alternative, less extractive systems, for instance. Webber 
+et al. (2022) expand on this notion, outlining possible financial contours of reparative climate 
+infrastructures. Ultimately, as wetland restoration efforts in SEA continue to proliferate, it is 
+clear more critical social science research is needed to examine how it unfolds and to elucidate 
+its larger political implications.
+Conclusion
+In this article, we chronicled the recent trend of wetland restoration in SEA in peatlands, del -
+tas, mangrove, and seagrass ecosystems, identifying how restoration is used to ensure specific 
+Amphibious Land Repair  ◾ 127
+ecosystem services for climate mitigation and adaptation. We suggest that restoration takes the 
+form of infrastructural land repair , the process of restoring dynamic ecosystems for specific 
+anthropocentric and economic aims, and parcels ecosystems into discrete ecosystem services 
+through the expertise, technology, and finance that underpin restoration efforts. We underscore 
+that, in general, wetland restoration in SEA maintains the same political-economic systems that 
+resulted in wetland degradation in the first place. We also examined how restoration functions 
+as a socio-ecological fix, highlighting the need for research that examines the growing world of 
+restoration finance to ascertain if restoration by accumulation is already underway within SEA 
+wetlands. As the United Nations recently issued a declaration for a global decade of restoration, 
+wetland restoration worldwide is poised to expand (UN 2024). SEA is thus a valuable context 
+to learn from. While there is much scientific scholarship on wetland restoration in SEA, there is 
+less research from critical social scientists, which is needed to examine the social, political, and 
+economic implications of such projects.
+Following this review, we propose three ways we would like to see this literature move 
+forward in the SEA context. First, while there is an abundance of scholarship that critiques 
+financial tools and mechanisms theoretically, there remains a substantial need for crit -
+ical scholarship that unpacks how financialization unfolds in practice through restoration 
+efforts. Second, there is a lacuna in scholarly literature that examines the infrastructural 
+labor required to enact restoration, including who is doing the physical repair, where they 
+are coming from or located, and their remuneration (Randle 2022; Stokes et al. 2024). This is 
+important, as insights into the labor of restoration is vital to understanding how restoration 
+revalues land. Third, while much of the critical literature on restoration elucidates how repair 
+may perpetuate injustice, we see a space for work on SEA wetlands that theorizes and reviews 
+forms of repair that offer more reparative environmental futures (Webber et al. 2022). Indeed, 
+repair is theoretically rich due to its double-sidedness (Corwin and Gidwani 2021; Jackson 
+2014): in the act of repair there is also the hope for other, more caring socio-natural relations. 
+In the US context, there is a growing literature on reparations and reparative forms of res -
+toration, the possibilities of constructing “restoration otherwise” from the ruins of climate 
+change (Barra 2024; Usher 2023). As wetland restoration continues to scale up across SEA 
+and draws increasing attention of the financial sector, there is a clear need for scholarly work 
+on and from the region that attends to how restoration can be engaged as a truly reparative 
+climate solution.
+ ◾ TAMAR LAW  is a PhD candidate in global development at Cornell University. Her research 
+examines the political ecology of nature-based solutions to climate change in Indonesia, 
+with a focus on blue carbon governance. She co-edited the volume Climate, Science and 
+Society: A Primer  (Routledge, 2024). Email: tl432@cornell.edu
+ ◾ JENNY GOLDSTEIN  is a geographer and assistant professor of global development at Cor -
+nell University. Her research addresses the politics of knowledge and expertise in peatland 
+restoration in Indonesia, and intersections of digital technology and environmental gover -
+nance. She is co-editor of the book Nature of Data: Environments, Infrastructures, Politics  
+(University of Nebraska Press, 2022). Email: goldstein@cornell.edu
+128 ◾ Tamar Law and Jenny Goldstein
+ ◾ REFERENCES
+Albers, T., and K. Schmitt. 2015. “Dyke Design, Floodplain Restoration and Mangrove Co-Management 
+as Parts of an Area Coastal Protection Strategy for the Mud Coasts of the Mekong Delta, Vietnam. ” 
+Wetlands Ecology and Management  23 (6): 991–1004.
+Alexander, Sasha, James Aronson, Oliver Whaley, and David Lamb. 2016. “The Relationship between 
+Ecological Restoration and the Ecosystem Services Concept. ” Ecology and Society  21 (1): 34. https:// 
+www.jstor.org/stable/26270353 .
+Allison, Stuart K., and Stephen D. Murphy. 2017. Routledge Handbook of Ecological and Environmental 
+Restoration . Routledge London.
+Alongi, Daniel M., Daniel Murdiyarso, James W . Fourqurean, John Boone Kauffman, Andreas Huta -
+haean, Stephen Crooks, Catherine E. Lovelock, Jennifer Howard, Dorothee Herr, and Miguel Fortes. 
+2016. “Indonesia’s Blue Carbon: A Globally Significant and Vulnerable Sink for Seagrass and Man -
+grove Carbon. ” Wetlands Ecology and Management  24: 3–13.
+Appanah, S., K. Shono, and B. Durst. 2015. “Restoration of Forests and Degraded Lands in Southeast 
+Asia 1. ” Unasylva  66 (245). Food and Agriculture Organization of the United Nations: 52.
+Appanah, Simmathiri, David Lamb, Patrick Durst, Tint Lwin Thaung, Cesar Sabogal, David Gritten, 
+Bernhard Mohns, Julian Atkinson, and Kenichi Shono. 2016. “Forest Landscape Restoration for 
+Asia-Pacific Forests: A Synthesis. ” Forest Landscape Restoration for Asia-Pacific Forests  1. https:// 
+www.fao.org/3/i5412e/i5412e.pdf#page=11 .
+Arias, Mauricio E., Thomas A. Cochrane, Matti Kummu, Hannu Lauri, Gordon W . Holtgrieve, Jorma 
+Koponen, and Thanapon Piman. 2014. “Impacts of Hydropower and Climate Change on Drivers of 
+Ecological Productivity of Southeast Asia’s Most Important Wetland. ” Ecological Modelling  272 (Jan -
+uary): 252–263. doi:10.1016/j.ecolmodel.2013.10.015 .
+Astuti, Rini. 2020. “Fixing Flammable Forest: The Scalar Politics of Peatland Governance and Restora -
+tion in Indonesia. ” Asia Pacific Viewpoint  61 (2): 283–300. doi:10.1111/apv.12267 .
+Barbesgaard, Mads. 2018. “Blue Growth: Savior or Ocean Grabbing?” The Journal of Peasant Studies   
+45 (1): 130–149. doi:10.1080/03066150.2017.1377186 .
+Barbier, Edward B., and Joanne C. Burgess. 2021. “Economics of Peatlands Conservation, Restoration 
+and Sustainable Management. ” SSRN Scholarly Paper. Rochester, NY . doi:10.2139/ssrn.4695533 .
+Barney, Keith. 2004. “Re‐encountering Resistance: Plantation Activism and Smallholder Production in 
+Thailand and Sarawak, Malaysia. ” Asia Pacific Viewpoint  45 (3): 325–339. doi:10.1111/j.1467-8373 
+.2004.t01-1-00244.x .
+Barnuevo, Abner, Takashi Asaeda, Kelum Sanjaya, Y oshikazu Kanesaka, and Miguel Fortes. 2017. 
+“Drawbacks of Mangrove Rehabilitation Schemes: Lessons Learned from the Large-Scale Mangrove 
+Plantations. ” Estuarine, Coastal and Shelf Science  198. Elsevier: 432–437.
+Barra, Monica Patrice. 2021. “Good Sediment: Race and Restoration in Coastal Louisiana. ” Annals of the 
+American Association of Geographers  111 (1): 266–282. doi:10.1080/24694452.2020.1766411 .
+Barra, Monica Patrice. 2024. “Restoration Otherwise: Towards Alternative Coastal Ecologies. ” Environ -
+ment and Planning D: Society and Space  42 (1): 147–165. doi:10.1177/02637758221146179 .
+Bayraktarov, Elisa, Megan I. Saunders, Sabah Abdullah, Morena Mills, Jutta Beher, Hugh P . Possingham, 
+Peter J. Mumby, and Catherine E. Lovelock. 2016. “The Cost and Feasibility of Marine Coastal Res -
+toration. ” Ecological Applications  26 (4): 1055–1074. doi:10.1890/15-1077 .
+Beban, Alice, and Timothy Gorman. 2015. “Gaining and Maintaining Control: Vietnamese Migrants, 
+Cambodian Elites and Strategies of Land Control along the Cambodian Borderlands. ” Land Grab -
+bing, Conflict and Agrarian-Environmental Transformations: Perspectives from East and Southeast 
+Asia, Chiang Mai University, Chiang Mai, Thailand , 5–6.
+Beilfuss, Richard D., and Jeb A. Barzen. 1994. “Hydrological Wetland Restoration in the Mekong Delta, 
+Vietnam. ” Global Wetlands: Old World and New . Edited by: Mitsch, WJ, Elsevier, Amsterdam, The 
+Netherlands, 453–468.
+Berlant, Lauren. 2016. “The Commons: Infrastructures for Troubling Times*. ” Environment and Plan -
+ning D: Society and Space  34 (3): 393–419. doi:10.1177/0263775816645989 .
+Amphibious Land Repair  ◾ 129
+Besky, Sarah, and Alex Blanchette. 2019. How Nature Works: Rethinking Labor on a Troubled Planet . 
+Albuquerque: University of New Mexico Press.
+Bigger, Patrick, Jessica Dempsey, Adeniyi Asiyanbi, Kelly Kay, Rebecca Lave, Becky Mansfield, Tracey 
+Osborne, Morgan Robertson, and Gregory L. Simon. 2018. “Reflecting on Neoliberal Natures: An 
+Exchange. ” Environment and Planning E: Nature and Space  1 (1–2). SAGE Publications: 25–75.
+Biggs, David, Fiona Miller, Chu Thai Hoanh, and François Molle. 2009. “The Delta Machine: Water 
+Management in the Vietnamese Mekong Delta in Historical and Contemporary Perspectives. ” In 
+Contested Waterscapes in the Mekong Region , 203–225. New Y ork: Routledge.
+Bodin, Blaise, Valentina Garavaglia, Nathanaël Pingault, Helen Ding, Sarah Wilson, Alexandre Meybeck, 
+Vincent Gitz, Sara d’ Andrea, and Christophe Besacier. 2022. “ A Standard Framework for Assessing 
+the Costs and Benefits of Restoration: Introducing The Economics of Ecosystem Restoration. ” Resto -
+ration Ecology  30 (3): e13515. doi:10.1111/rec.13515 .
+Bonn, Aletta, Tim Allott, Martin Evans, Hans Joosten, and Rob Stoneman. 2016. Peatland Restoration 
+and Ecosystem Services: Science, Policy and Practice . Cambridge: Cambridge University Press.
+Braun, Bruce. 1997. “Buried Epistemologies: The Politics of Nature in (Post)Colonial British Columbia. ” 
+Annals of the Association of American Geographers  87 (1): 3–31. doi:10.1111/0004-5608.00039 .
+Braverman, Irus. 2018. Coral Whisperers: Scientists on the Brink . Oakland: University of California Press.
+Breslow, Sara Jo. 2014. “Tribal Science and Farmers’ Resistance: A Political Ecology of Salmon Habitat 
+Restoration in the American Northwest. ” Anthropological Quarterly  87 (3): 727–758.
+Brock, Andrea. 2023. “Securing Accumulation by Restoration: Exploring Spectacular Corporate Conser -
+vation, Coal Mining and Biodiversity Compensation in the German Rhineland. ” Environment and 
+Planning E: Nature and Space  6 (4): 2134–2165. doi:10.1177/2514848620924597 .
+Bryant, Gareth. 2018. “Nature as Accumulation Strategy? Finance, Nature, and Value in Carbon Mar -
+kets. ” Annals of the American Association of Geographers  108 (3): 605–619. doi:10.1080/24694452 
+.2017.1375887 .
+Bryant, Raymond L. 1993. “Forest Problems in Colonial Burma: Historical Variations on Contemporary 
+Themes. ” Global Ecology and Biogeography Letters 3 (4/6): 122–137.
+Bryant, Raymond L., Jonathan Rigg, and Philip Stott. 1993. “Introduction: Forest Transformations and 
+Political Ecology in Southeast Asia. ” Global Ecology and Biogeography Letters 3 (4/6): 101–111.
+Buergin, Reiner. 2016. “Ecosystem Restoration Concessions in Indonesia: Conflicts and Discourses. ” 
+Critical Asian Studies  48 (2): 278–301. doi:10.1080/14672715.2016.1164017 .
+Buscher, Bram, and Robert Fletcher. 2020. The Conservation Revolution: Radical Ideas for Saving Nature 
+beyond the Anthropocene . Brooklyn: Verso Books.
+Canning, Adam D., Diane Jarvis, Robert Costanza, Syezlin Hasan, James CR Smart, John Finisdore, 
+Catherine E. Lovelock, Suzie Greenhalgh, Helen M. Marr, and Michael W . Beck. 2021. “Financial 
+Incentives for Large-Scale Wetland Restoration: Beyond Markets to Common Asset Trusts. ” One 
+Earth  4 (7): 937–950.
+Cardoso Da Silva, José Maria, and Emily Wheeler. 2017. “Ecosystems as Infrastructure. ” Perspectives in 
+Ecology and Conservation  15 (1): 32–35.
+Carse, Ashley. 2012. “Nature as Infrastructure: Making and Managing the Panama Canal Watershed. ” 
+Social Studies of Science  42 (4): 539–563. doi:10.1177/0306312712440166 .
+Carse, Ashley. 2016. “Keyword: Infrastructure: How a Humble French Engineering Term Shaped the 
+Modern World. ” In Infrastructures and Social Complexity , ed. Penelope Harvey, Casper Jensen, and 
+Atsuro Morita, 45–57. New Y ork: Routledge.
+Carse, Ashley, and Joshua A Lewis. 2017. “Toward a Political Ecology of Infrastructure Standards: Or, 
+How to Think about Ships, Waterways, Sediment, and Communities Together. ” Environment and 
+Planning A: Economy and Space  49 (1): 9–28. doi:10.1177/0308518X16663015 .
+Castree, Noel, and Brett Christophers. 2018. “Banking Spatially on the Future: Capital Switching, Infra -
+structure, and the Ecological Fix. ” In Futures: Imagining Socioecological Transformation , ed. Bruce 
+Willems-Braun, 154–162. New Y ork: Routledge.
+Chandrasekharan Behr, Diji, Alwaleed Fareed Alatabani, Ashraf Bakry El-Arini, Farah Imrana Hussain, 
+Shanthi Divakaran, Phuong Hoang Ai Nguyen, Nguyet Thi Thuy Hoang, Pham Duc Cuong, Ketut 
+130 ◾ Tamar Law and Jenny Goldstein
+Kusama, and Tao-SEAE Wang. 2020. “Mobilizing Financing for Climate Smart Investments in the 
+Mekong Delta: An Options Note. ” World Bank Group. https://policycommons.net/artifacts/12527 
+42/mobilizing-financing-for-climate-smart-investments-in-the-mekong-delta/1815301/ .
+Chazdon, Robin L., Pedro H. S. Brancalion, David Lamb, Lars Laestadius, Miguel Calmon, and Chetan 
+Kumar. 2017. “ A Policy‐Driven Knowledge Agenda for Global Forest and Landscape Restoration. ” 
+Conservation Letters  10 (1): 125–132. doi:10.1111/conl.12220 .
+Chiquoine, Lindsay P ., Scott R. Abella, Charles D. Schelz, Michael F. Medrano, and Nicholas A. Fisichelli.  
+2024. “Restoring Historical Grasslands in a Desert National Park: Resilience or Unrecoverable 
+States in an Emerging Climate?” Biological Conservation  289 (110387): 1-11. doi:10.1016/j.bioc 
+on.2023.110387 .
+Cho, Myung Sik, and Jiaguo Qi. 2023. “Characterization of the Impacts of Hydro-Dams on Wetland 
+Inundations in Southeast Asia. ” Science of The Total Environment  864: 160941.
+Clay, Nathan. 2019. “Fixing the Ecosystem: Conservation, Crisis and Capital in Rwanda’s Gishwati  
+Forest. ” Environment and Planning E: Nature and Space  2 (1): 23–46. doi:10.1177/251484861982 
+6576 .
+Cochard, R. 2017. “Coastal Water Pollution and Its Potential Mitigation by Vegetated Wetlands: An 
+Overview of Issues in Southeast Asia. ” In Redefining Diversity & Dynamics of Natural Resources 
+Management in Asia, Volume 1 , ed. Ganesh P . Shivakoti, Ujjwal Pradhan, and Helmi, 189–230. 
+Amsterdam: Elsevier.
+Cohen, Alice, and Karen Bakker. 2014. “The Eco-Scalar Fix: Rescaling Environmental Governance and 
+the Politics of Ecological Boundaries in Alberta, Canada. ” Environment and Planning D: Society and 
+Space  32 (1): 128–146. doi:10.1068/d0813 .
+Colls, A., Neville Ash, and Ninni Ikkala. 2009. Ecosystem-Based Adaptation: A Natural Response to Cli -
+mate Change . Vol. 21. Iucn Gland, Switzerland. https://www.cakex.org/sites/default/files/documents 
+/iucn_eba_brochure_0.pdf .
+Colven, Emma. 2020. “Thinking beyond Success and Failure: Dutch Water Expertise and Friction in 
+Postcolonial Jakarta. ” Environment and Planning C: Politics and Space  38 (6): 961–979. doi:10.1177 
+/2399654420911947 .
+Corwin, Julia E., and Vinay Gidwani. 2021. “Repair Work as Care: On Maintaining the Planet in the 
+Capitalocene. ” Antipode , October, anti.12791. doi:10.1111/anti.12791 .
+Correa, Andrade F. de, and L. J. M. Jansen. 2021. “Responsible Land-Based Investments in the Mekong 
+Region. ” FAO: Food and Agriculture Organization of the United Nations. https://policycommons 
+.net/artifacts/1526615/responsible-land-based-investments-in-the-mekong-region/2214854/ .
+Davidson, Nick C. 2014. “How Much Wetland Has the World Lost? Long-Term and Recent Trends in 
+Global Wetland Area. ” Marine and Freshwater Research  65 (10): 934–941.
+de Jong Edwin, and Gerben Nooteboom. 2010. “ Against ‘Green Development Fantasies’: Resource Deg -
+radation and the Lack of Community Resistance in the Middle Mahakam Wetlands, East Kaliman -
+tan, Indonesia, ” January. Brill. doi:10.1163/156853110X490935 .
+Dempsey, Jessica. 2016. Enterprising Nature: Economics, Markets, and Finance in Global Biodiversity Poli -
+tics. Hoboken, NJ: John Wiley & Sons.
+Dempsey, Jessica, and Morgan M. Robertson. 2012. “Ecosystem Services: Tensions, Impurities, and 
+Points of Engagement within Neoliberalism. ” Progress in Human Geography  36 (6): 758–79. doi:10 
+.1177/0309132512437076 .
+Denis, Jérôme, Alessandro Mongili, and David Pontille. 2015. “Maintenance & Repair in Science and 
+Technology Studies. ” Tecnoscienza – Italian Journal of Science & Technology Studies  6 (2): 5–15. 
+doi:10.6092/issn.2038-3460/17251 .
+Dharmawan, Budi, Michael Böcher, and Max Krott. 2017. “Endangered Mangroves in Segara Anakan, 
+Indonesia: Effective and Failed Problem-Solving Policy Advice. ” Environmental Management  60: 
+409–421.
+Dohong, Alue, Ammar Abdul Aziz, and Paul Dargusch. 2017. “ A Review of the Drivers of Tropical Peat -
+land Degradation in South-East Asia. ” Land Use Policy  69 (December): 349–60. doi:10.1016/j.landu 
+sepol.2017.09.035 .
+Amphibious Land Repair  ◾ 131
+Dohong, Alue, Ammar Abdul Aziz, and Paul Dargusch. 2018. “ A Review of Techniques for Effective 
+Tropical Peatland Restoration. ” Wetlands  38: 275–292.
+Dressler, Wolfram H., Robert Fletcher, and Michael Fabinyi. 2018. “Value from Ruin? Governing Spec -
+ulative Conservation in Ruptured Landscapes. ” TRaNS: Trans-Regional and-National Studies of 
+Southeast Asia  6 (1): 73–99.
+Ekers, Michael, and Scott Prudham. 2017. “The Metabolism of Socioecological Fixes: Capital Switching, 
+Spatial Fixes, and the Production of Nature. ” Annals of the American Association of Geographers   
+107 (6): 1370–1388. doi:10.1080/24694452.2017.1309962 .
+Elias, Marlène, Deepa Joshi, and Ruth Meinzen-Dick. 2021. “Restoration for Whom, by Whom? A Femi -
+nist Political Ecology of Restoration. ” Ecological Restoration  39 (1–2): 3–15.
+Ellison, Aaron M., Alexander J. Felson, and Daniel A. Friess. 2020. “Mangrove Rehabilitation and Resto -
+ration as Experimental Adaptive Management. ” Frontiers in Marine Science  7: 327.
+Escobedo, Francisco J., Vincenzo Giannico, Chi Yung Jim, Giovanni Sanesi, and Raffaele Lafortezza. 
+2019. “Urban Forests, Ecosystem Services, Green Infrastructure and Nature-Based Solutions: Nexus 
+or Evolving Metaphors?” Urban Forestry & Urban Greening  37: 3–12.
+Fagherazzi, Sergio, Karin R. Bryan, and William Nardin. 2017. “Buried Alive or Washed Away: The 
+Challenging Life of Mangroves in the Mekong Delta. ” Oceanography  30 (3): 48–59.
+Fairhead, James, Melissa Leach, and Ian Scoones. 2012. “Green Grabbing: A New Appropriation of 
+Nature?” Journal of Peasant Studies  39 (2): 237–261.
+Fakhrurrozi, Fakhrurrozi, Lambok Laurance, Muhammad Nur Rizki Fauzi, Fitrah Ramadhan, Idris 
+Idris, Safran Yusri, Paryono Paryono, Wiwid Andriyani Lestariningsih, and Ayu Adhita Damayanti. 
+2023. “Estimating Blue Carbon Stock: Mangrove and Seagrass Biomass Assessment in Tunda Island, 
+Serang, Banten, Indonesia. ” In BIO Web of Conferences , 70:01009. EDP Sciences. https://www.bioco 
+nferences.org/articles/bioconf/abs/2023/15/bioconf_macific2023_01009/bioconf_macific2023_010 
+09.html .
+Fisher, Brendan, R. Kerry Turner, and Paul Morling. 2009. “Defining and Classifying Ecosystem Services 
+for Decision Making. ” Ecological Economics  68 (3): 643–653. doi:10.1016/j.ecolecon.2008.09.014 .
+Fletcher, Robert. 2020. “Neoliberal Conservation. ” In Oxford Research Encyclopedia of Anthropology . 
+https://doi.org/10.1093/acrefore/9780190854584.013.300 .
+Fortes, Miguel D., Jillian Lean Sim Ooi, Yi Mei Tan, Anchana Prathep, Japar Sidik Bujang, and Siti Mar -
+yam Y aakub. 2018. “Seagrass in Southeast Asia: A Review of Status and Knowledge Gaps, and a 
+Road Map for Conservation. ” Botanica Marina  61 (3): 269–288. doi:10.1515/bot-2018-0008 .
+Fortes, Miguel D. 2018. “Seagrass Ecosystem Conservation in Southeast Asia Needs to Link Science to 
+Policy and Practice. ” Ocean and Coastal Management  159 (June): 51–56. doi:10.1016/j.ocecoaman 
+.2018.01.028 .
+Friess, Daniel A., Benjamin S. Thompson, Ben Brown, A. Aldrie Amir, Clint Cameron, Heather J. Kold -
+ewey, Sigit D. Sasmito, and Frida Sidik. 2016. “Policy Challenges and Approaches for the Conserva -
+tion of Mangrove Forests in Southeast Asia. ” Conservation Biology  30 (5): 933–49. https://research 
+-ebsco-com.proxy.library.cornell.edu/linkprocessor/plink?id=fdd66aa2-79ba-334c-84b9-39826d7d 
+2c4b .
+Friess, Daniel A., Jen Howard, Mark Huxham, Peter I. Macreadie, and Finnley Ross. 2022. “Capitalizing 
+on the Global Financial Interest in Blue Carbon. ” PLoS Climate  1 (8): e0000061.
+Gerona-Daga, Maria Elisa B., and Severino G. Salmo. 2022. “ A Systematic Review of Mangrove Resto -
+ration Studies in Southeast Asia: Challenges and Opportunities for the United Nation’s Decade on 
+Ecosystem Restoration. ” Frontiers in Marine Science  9 (September). doi:10.3389/fmars.2022.987737 . 
+Ghofrani, Zahra, Victor Sposito, and Robert Faggian. 2017. “ A Comprehensive Review of Blue-Green 
+Infrastructure Concepts. ” International Journal of Environment and Sustainability  6 (March): 15–36. 
+doi:10.24102/ijes.v6i1.728 .
+Girkin, Nicholas T., Paul J. Burgess, Lydia Cole, Hannah V . Cooper, Euridice Honorio Coronado, Scott J. 
+Davidson, Jacqueline Hannam, et al. 2023. “The Three-Peat Challenge: Business as Usual, Respon -
+sible Agriculture, and Conservation and Restoration as Management Trajectories in Global Peat -
+lands. ” Carbon Management  14 (1): 2275578. doi:10.1080/17583004.2023.2275578 .
+132 ◾ Tamar Law and Jenny Goldstein
+Goldstein, Jenny E. 2016. “Knowing the Subterranean: Land Grabbing, Oil Palm, and Divergent Exper -
+tise in Indonesia’s Peat Soil. ” Environment and Planning A: Economy and Space  48 (4): 754–70. 
+doi:10.1177/0308518X15599787 .
+Goldstein, Jenny Elaine. 2020. “The Volumetric Political Forest: Territory, Satellite Fire Mapping, and 
+Indonesia’s Burning Peatland. ” Antipode  52 (4): 1060–1082. doi:10.1111/anti.12576 .
+Goldstein, Jenny E. 2022. “More Data, More Problems? Incompatible Uncertainty in Indonesia’s Climate 
+Change Mitigation Projects. ” Geoforum  132: 195–204.
+Goldstein, Jenny E., Laura Graham, Sofyan Ansori, Y enni Vetrita, Andri Thomas, Grahame Applegate, 
+Andrew Vayda, Bambang H. Saharjo, and Mark A. Cochrane. 2020. “Beyond Slash‐and‐burn: The 
+Roles of Human Activities, Altered Hydrology and Fuels in Peat Fires in Central Kalimantan, Indo -
+nesia. ” Singapore Journal of Tropical Geography  41 (2): 190–208. doi:10.1111/sjtg.12319 .
+Gopal, Brij. 2013. “Future of Wetlands in Tropical and Subtropical Asia, Especially in the Face of Climate 
+Change. ” Aquatic Sciences  75: 39–61.
+Gorman, Timothy. 2023. “The Art of Not Being Freshened: The Everyday Politics of Infrastructure in the 
+Mekong Delta. ” Sustainability  15 (6): 5494.
+Graham, Laura L. B., Wim Giesen, and Susan E. Page. 2017. “ A Common‐Sense Approach to Tropical 
+Peat Swamp Forest Restoration in Southeast Asia. ” Restoration Ecology  25 (2): 312–21. doi:10.1111 
+/rec.12465 .
+Gruel, Charles R., and Edgardo M. Latrubesse. 2021. “ A Monitoring System of Sand Mining in Large 
+Rivers and Its Application to the Ayeyarwady (Irrawaddy) River, Myanmar. ” Water  13 (17): 2331.
+Guthman, Julie. 2019. Wilted: Pathogens, Chemicals, and the Fragile Future of the Strawberry Industry . 
+Vol. 6. Oakland: University of California Press.
+Hamel, Perrine, and Leanne Tan. 2022. “Blue–Green Infrastructure for Flood and Water Quality Man -
+agement in Southeast Asia: Evidence and Knowledge Gaps. ” Environmental Management  69 (4): 
+699–718. doi:10.1007/s00267-021-01467-w .
+Hansson, Amanda, and Paul Dargusch. 2018. “ An Estimate of the Financial Cost of Peatland Restoration 
+in Indonesia. ” Case Studies in the Environment  2 (1): 1–8. doi:10.1525/cse.2017.000695 .
+Hawkins, Gay, and Gillian Paxton. 2019. “Infrastructures of Conservation: Provoking New Natures with 
+Predator Fencing. ” Environment and Planning E: Nature and Space  2 (4): 1009–28. doi:10.1177/2514 
+848619866078 .
+Hetherington, Kregg. 2018. Infrastructure, Environment, and Life in the Anthropocene . Durham, NC: 
+Duke University Press.
+Higgs, Eric, Donald A Falk, Anita Guerrini, Marcus Hall, Jim Harris, Richard J Hobbs, Stephen T Jack -
+son, Jeanine M Rhemtulla, and William Throo 2014. “The Changing Role of History in Restoration 
+Ecology. ” Frontiers in Ecology and the Environment  12 (9): 499–506. doi:10.1890/110267 .
+Hirsch, Shana L. 2020. “ Anticipatory Practices: Shifting Baselines and Environmental Imaginaries of 
+Ecological Restoration in the Columbia River Basin. ” Environment and Planning E: Nature and 
+Space  3 (1): 40–57. doi:10.1177/2514848619857523 .
+Holtedahl, Pernille. 2023. “Nature Investment as a Response to the Climate Crisis: Opportunities in 
+Southeast Asia. ” https://www.singaporegreenfinance.com/wp-content/uploads/2023/10/Nature- 
+Investment-as-a-Response-to-the-Climate-Crisis-Opportunities-in-Southeast-Asia.pdf .
+Huff, Amber. 2023. “Frictitious Commodities: Virtuality, Virtue and Value in the Carbon Economy of 
+Repair. ” Environment and Planning E: Nature and Space  6 (4): 2203–2228. doi:10.1177/25148486211 
+015056 .
+Huff, Amber, and Andrea Brock. 2023. “Introduction: Accumulation by Restoration and Political Ecolo -
+gies of Repair. ” Environment and Planning E: Nature and Space  6 (4): 2113–2133. doi:10.1177/25148 
+486231168393 .
+Hughes, Alice C. 2017. “Understanding the Drivers of Southeast Asian Biodiversity Loss. ” Ecosphere   
+8 (1): e01624. doi:10.1002/ecs2.1624 .
+Imai, Nobuo, Takuya Furukawa, Riyou Tsujino, Shumpei Kitamura, and Takakazu Yumoto. 2018. 
+“Factors Affecting Forest Area Change in Southeast Asia during 1980–2010. ” PLoS One  13 (5): 
+e0197391.
+Amphibious Land Repair  ◾ 133
+Ivars, Benoit, and Jean-Philippe Venot. 2019. “Grounded and Global: Water Infrastructure Develop-  
+ment and Policymaking in the Ayeyarwady Delta, Myanmar. ” Water Alternatives  12 (3): 1038–  
+1063.
+IUCN, 2022. Indo-Burma Ramsar Regional Initiative (IBRRI). https://iucn.org/our-work/region/asia 
+/our-work/water-and-wetlands/indo-burma-ramsar-regional-initiative-ibrri . Accessed June 2023. 
+Jackson, Steven. 2014. “Rethinking Repair. ” In Media Technologies: Essays on Communication, Materi -
+ality, and Society , ed. Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–239. Cam -
+bridge, MA: The MIT Press.
+Jensen, Casper Bruun. 2017. “ Amphibious Worlds: Environments, Infrastructures, Ontologies. ” Engaging 
+Science, Technology, and Society  3: 224–234.
+John, Akbar, Bryan Nelson Raveen, Hassan I. Sheikh, Abu Hena Mustafa Kamal, Balaji Vedharajan, 
+Ragavan Pandisamy, Kannan Sivakumar, Anantharaman, and Chandani Appadoo. 2023. “Seagrass 
+of Southeast Asia: Challenges, Prospects, and Management Strategies. ” In Climate Change and 
+Urban Environment Sustainability , ed. Bhawana Pathak and Rama Shanker Dubey, 279–291. Disas -
+ter Resilience and Green Growth. Singapore: Springer Nature Singapore. doi:10.1007/978-981-19 
+-7618-6_15 .
+Jones, Holly, Peter C. Jones, Edward B. Barbier, Ryan C. Blackburn, Jose M. Rey Benayas, Karen D. Holl, 
+Michelle McCrackin, Paula Meli, Daniel Montoya, and David Moreno Mateos. 2018. “Restoration 
+and Repair of Earth’s Damaged Ecosystems. ” Proceedings of the Royal Society B: Biological Sciences  
+285 (1873): 20172577. doi:10.1098/rspb.2017.2577 .
+Jong, Hans Nicholas. 2023. “Report Alleges APP Continues Deforestation 10 Y ears after Pledge to Sto” 
+Mongabay Environmental News . October 31. https://news.mongabay.com/2023/10/report-alleges 
+-app-continues-deforestation-10-years-after-pledge-to-stop/ .
+Kay, Kelly. 2018. “ A Hostile Takeover of Nature? Placing Value in Conservation Finance. ” Antipode   
+50 (1): 164–183. doi:10.1111/anti.12335 .
+Kidangoor, Abhishyant. 2023. “New Digital Tool Maps Blue Carbon Ecosystems in High Resolution. ” 
+Mongabay Environmental News . June 12. https://news.mongabay.com/2023/06/new-digital-tool 
+-maps-blue-carbon-ecosystems-in-high-resolution/ .
+Kiely, L., D. V . Spracklen, S. R. Arnold, E. Papargyropoulou, L. Conibear, C. Wiedinmyer, Christoph 
+Knote, and H. A. Adrianto. 2021. “ Assessing Costs of Indonesian Fires and the Benefits of Restoring 
+Peatland. ” Nature Communications  12 (1): 7044.
+Klein, Samantha,Hug James Sanghyun Lee, Sofi Courtney, Lisa Morehead-Hillman, Sallie Lau, Bryce 
+Lewis-Smith, Daniel Sarna-Wojcicki, and Cleo Woelfle-Hazard. 2022. “Transforming Restoration 
+Science: Multiple Knowledges and Community Research Cogeneration in the Klamath and Duwa -
+mish Rivers. ” The American Naturalist  200 (1): 156–167. doi:10.1086/720153 .
+Knuth, Sarah. 2019. “Cities and Planetary Repair: The Problem with Climate Retrofitting. ” Environment 
+and Planning A: Economy and Space  51 (2): 487–504. doi:10.1177/0308518X18793973 .
+Knuth, Sarah, Shaina Potts, and Jenny E. Goldstein. 2019. “In Value’s Shadows: Devaluation as Accumu -
+lation Frontier. ” Environment and Planning A: Economy and Space  51 (2): 461–466. doi:10.1177/030 
+8518X18806112 .
+Kolinjivadi, Vijay, Gert Van Hecken, Diana Vela Almeida, Jérôme Dupras, and Nicolás Kosoy. 2019. 
+“Neoliberal Performatives and the ‘Making’ of Payments for Ecosystem Services (PES). ” Progress in 
+Human Geography  43 (1): 3–25. doi:10.1177/0309132517735707 .
+Kolka, R. K., D. Murdiyarso, J. B. Kauffman, and R. A. Birdsey. 2016. “Tropical Wetlands, Climate, and 
+Land-Use Change: Adaptation and Mitigation Opportunities. ” Wetlands Ecology and Management  
+24 (2): 107–112. doi:10.1007/s11273-016-9487-x .
+Krzywoszynska, Anna, and Greta Marchesi. 2020. “Toward a Relational Materiality of Soils: Introduc -
+tion. ” Environmental Humanities  12 (1). Durham, NC: Duke University Press: 190–204.
+Kull, Christian A., Xavier Arnauld de Sartre, and Monica Castro-Larrañaga. 2015. “The Political Ecology 
+of Ecosystem Services. ” Geoforum  61 (May): 122–134. doi:10.1016/j.geoforum.2015.03.004 .
+Lamb, David. 1994. “Reforestation of Degraded Tropical Forest Lands in the Asia-Pacific Region. ” Jour-
+nal of Tropical Forest Science 7 (1): 1–7.
+134 ◾ Tamar Law and Jenny Goldstein
+Lamb, David, John Stanturf, and Palle Madsen. 2012. “What Is Forest Landscape Restoration?” In Forest 
+Landscape Restoration , ed. John Stanturf, David Lamb, and Palle Madsen, 3–23. World Forests. Dor -
+drecht: Springer Netherlands. doi:10.1007/978-94-007-5326-6_1 .
+Lamont, Timothy A. C., Jos Barlow, Jan Bebbington, Thomas Cuckston, Rili Djohani, Rachael Garrett, 
+Holly Jones, Tries B. Razak, and Nicholas A. J. Graham. 2023. “Hold Big Business to Task on Eco -
+system Restoration. ” Science  381 (6662): 1053–1055. doi:10.1126/science.adh2610 .
+Larkin, Brian. 2013. “The Politics and Poetics of Infrastructure. ” Annual Review of Anthropology  42 (1): 
+327–343. doi:10.1146/annurev-anthro-092412-155522 .
+Lave, Rebecca, and Martin Doyle. 2021. Streams of Revenue: The Restoration Economy and the Ecosystems 
+It Creates . Cambridge, MA: MIT Press.
+Le, Thuy Ngan, Arnold K. Bregt, Gerardo E. van Halsema, Petra JGJ Hellegers, and Lam-Dao Nguyen. 
+2018. “Interplay between Land-Use Dynamics and Changes in Hydrological Regime in the Viet -
+namese Mekong Delta. ” Land Use Policy  73: 269–280.
+Leo, Sandy, Muthia F. Hakim, Priyaji A. Pambudi, and Andreas Pramudianto. 2024. “The Role of an 
+Ecosystem Restoration Company in Reducing Carbon Emission in the Perspective of the Carbon 
+Pricing Scheme in Indonesia. ” In AIP Conference Proceedings . Vol. 3001. AIP Publishing. https://pu 
+bs.aiorg/aip/acp/article/3001/1/080033/3266200 .
+Li, Tania. 2007. The Will to Improve: Governmentality, Development, and the Practice of Politics . Duke 
+University Press. 
+Li, Tania Murray. 2014. “What Is Land? Assembling a Resource for Global Investment. ” Transactions of 
+the Institute of British Geographers  39 (4): 589–602. doi:10.1111/tran.12065 .
+Li Xing. 2017. “Recent Evolution of the Mekong Delta and the Impacts of Dams. ” Earth-Science Reviews  
+175 (December): 1–17. doi:10.1016/j.earscirev.2017.10.008 . 
+Li, Yubin, Danica Schaffer-Smith, Soe W . Myint, and Yuanhui Zhu. 2022. “Monitoring Ecological and 
+Environmental Stress Patterns over the Past Two Decades in the Mekong River Basin. ” GIScience & 
+Remote Sensing  59 (1): 1817–1836. doi:10.1080/15481603.2022.2139387 .
+Lima, Do Amaral Camara, Mariana, Thaisa F. Bergamo, Raymond D. Ward, and Chris B. Joyce. 2023. “ A 
+Review of Seagrass Ecosystem Services: Providing Nature-Based Solutions for a Changing World. ” 
+Hydrobiologia  850 (12–13): 2655–2670. doi:10.1007/s10750-023-05244-0 .
+Liu, Ningning, and Zhijun Ma. 2024. “Ecological Restoration of Coastal Wetlands in China: Current Sta -
+tus and Suggestions, ” February. doi:10.1016/j.biocon.2024.110513 .
+Liu, Y ang, Huaiqing Zhang, Zeyu Cui, Yuanqing Zuo, Kexin Lei, Jing Zhang, Tingdong Y ang, and Ping Ji. 
+2022. “Precise Wetland Mapping in Southeast Asia for the Ramsar Strategic Plan 2016–24. ” Remote 
+Sensing  14 (22): 5730. doi:10.3390/rs14225730 .
+Lock, Will. 2023. “Producing Nature-Based Solutions: Infrastructural Nature and Agrarian Change in 
+San Martín, Peru. ” The Journal of Peasant Studies  50 (6): 2361–2380. doi:10.1080/03066150.2023.22 
+09519 .
+Lohmann, Larry. 1993. “Land, Power and Forest Colonization in Thailand. ” Global Ecology and Biogeog -
+raphy Letters  3 (4/6): 180–91. doi:10.2307/2997768 .
+Long, Chuqi, Zhi-jun Dai, Xiaoyan Zhou, Xuefei Mei, and Cong Mai. 2021. “Mapping Mangrove Forests 
+in the Red River Delta, Vietnam. ” Forest Ecology and Management  483 (March): 118910. doi:10.1016 
+/j.foreco.2020.118910 .
+Lorimer, Jamie. 2017. “Probiotic Environmentalities: Rewilding with Wolves and Worms. ” Theory, Cul -
+ture & Society  34 (4): 27–48. doi:10.1177/0263276417695866 .
+MacKinnon, Kathy. 1996. The Ecology of Kalimantan . Periplus Editions.
+Macreadie, Peter I., Micheli D. Costa, Trisha B. Atwood, Daniel A. Friess, Jeffrey J. Kelleway, Hilary Ken -
+nedy, Catherine E. Lovelock, Oscar Serrano, and Carlos M. Duarte. 2021. “Blue Carbon as a Natural 
+Climate Solution. ” Nature Reviews Earth & Environment  2 (12): 826–839. doi:10.1038/s43017-021 
+-00224-1 .
+Martin, Laura J. 2022. Wild by Design: The Rise of Ecological Restoration . Cambridge, MA: Harvard Uni -
+versity Press.
+Amphibious Land Repair  ◾ 135
+McCarthy, James. 2015. “ A Socioecological Fix to Capitalist Crisis and Climate Change? The Possibilities 
+and Limits of Renewable Energy. ” Environment and Planning A: Economy and Space  47 (12): 2485–
+2502. doi:10.1177/0308518X15602491 .
+McElwee, Pamela. 2009. “Reforesting ‘Bare Hills’ in Vietnam: Social and Environmental Consequences 
+of the 5 Million Hectare Reforestation Program. ” AMBIO: A Journal of the Human Environment  38 
+(6): 325–333. doi:10.1579/08-R-520.1 .
+McElwee, Pamela. 2017. “The Metrics of Making Ecosystem Services, ” September. doi:10.3167/ares.2017 
+.080105 .
+Miller, Michelle Ann. 2022. “Market‐Based Commons: Social Agroforestry, Fire Mitigation Strategies, 
+and Green Supply Chains in Indonesia’s Peatlands. ” Transactions of the Institute of British Geogra -
+phers  47 (1): 77–91. doi:10.1111/tran.12472 .
+Miller, Michelle Ann, Prayoto Tonoto, and David Taylor. 2022. “Sustainable Development of Carbon 
+Sinks? Lessons from Three Types of Peatland Partnerships in Indonesia. ” Sustainable Development  
+30 (1): 241–255. doi:10.1002/sd.2241 .
+Monteverde, S., M. G. Healy, D. O’Leary, E. Daly, and O. Callery. 2022. “Management and Rehabilitation 
+of Peatlands: The Role of Water Chemistry, Hydrology, Policy, and Emerging Monitoring Methods 
+to Ensure Informed Decision Making. ” Ecological Informatics  69 (July): 101638. doi:10.1016/j.ecoinf 
+.2022.101638 .
+Morita, Atsuro. 2016. “Infrastructuring Amphibious Space: The Interplay of Aquatic and Terrestrial 
+Infrastructures in the Chao Phraya Delta in Thailand. ” Science as Culture  25 (1): 117–140. doi:10 
+.1080/09505431.2015.1081502 .
+Moser, Sarah, and Emma Avery. 2021. “The Multi-Scalar Politics of Urban Greening in Forest City, 
+Malaysia. ” Urban Forestry & Urban Greening  60 (May): 127068. doi:10.1016/j.ufug.2021.127068 .
+Mukul, Sharif A., John Herbohn, and Jennifer Firn. 2016. “Co‐benefits of Biodiversity and Carbon 
+Sequestration from Regenerating Secondary Forests in the Philippine Uplands: Implications for 
+Forest Landscape Restoration. ” Biotropica  48 (6): 882–889. doi:10.1111/bt12389 .
+Mursyid, Harsanto, Muhammad Haidar Daulay, Andita Aulia Pratama, Dwi Laraswati, Nisa Novita, 
+Anjelita Malik, and Ahmad Maryudi. 2021. “Governance Issues Related to the Management and 
+Conservation of Mangrove Ecosystems to Support Climate Change Mitigation Actions in Indone -
+sia. ” Forest Policy and Economics  133 (December). doi:10.1016/j.forpol.2021.102622 .
+Nelson, Sara H, and Patrick Bigger. 2022. “Infrastructural Nature. ” Progress in Human Geography  46 (1): 
+86–107. doi:10.1177/0309132521993916 .
+Ngui, Y antoultra. 2023. “Vietnam’s Mekong Capital Plans Southeast Asia Climate Fund as Early as 2024 |  
+Reuters. ” Reuters , May 30. https://www.reuters.com/sustainability/vietnams-mekong-capital-plans 
+-southeast-asia-climate-fund-early-2024-2023-05-30/ .
+Nguyen, Hoang, Paul Dargusch, Patrick Moss, and Da Binh Tran. 2016. “ A Review of the Drivers of 200 
+Y ears of Wetland Degradation in the Mekong Delta of Vietnam. ” Regional Environmental Change   
+16 (8). Springer: 2303–2315.
+Nguyen, Nguyet-Minh, Duong Do Van, Duy Tu Le, San Dinh Cong, Nhat Truong Pham, Quyen 
+Nguyen, Bang Tran, David Wright, Ahad Hasan Tanim, and Duong Tran Anh. 2022. “Wave Reduc -
+tion Efficiency for Three Classes of Breakwaters on the Coastal Mekong Delta. ” Applied Ocean 
+Research  129 (December): 103362. doi:10.1016/j.apor.2022.103362 .
+NParks. 2019. “NParks Unveils Forest Restoration Action Plan for Nature Areas. ” National Parks Board . 
+January 25. https://www.nparks.gov.sg/news/2019/1/nparks-unveils-forest-restoration-action-plan 
+-for-nature-areas .
+Nugraha, L. M., B. Putra, B. A. Marpaung, M. Nugraheni, and C. Agus. 2022. “The Role of Moisture 
+Regime and Hydro-Topography on Tropical Wetland Ecosystem Management. ” IOP Conference 
+Series: Earth and Environmental Science  1109 (1). IOP Publishing: 012086. doi:10.1088/1755-1315 
+/1109/1/012086 .
+Nygren, Anja, and Anu Lounela. 2023. “Remaking of Wetlands and Coping with Vulnerabilities in Mex -
+ico and Indonesia. ” Water Alternatives  16 (1): 295–320.
+136 ◾ Tamar Law and Jenny Goldstein
+Oh, R. R. Y ., D. A. Friess, and B. M. Brown. 2017. “The Role of Surface Elevation in the Rehabilitation of 
+Abandoned Aquaculture Ponds to Mangrove Forests, Sulawesi, Indonesia. ” Ecological Engineering  
+100 (March): 325–334. doi:10.1016/j.ecoleng.2016.12.021 .
+Ojani, Chakad. 2023. “Experimenting with Fog: Environmental Infrastructures, Infrastructuring Envi -
+ronments, and the Infrastructure of Infrastructure. ” Environment and Planning E: Nature and Space  
+6 (1): 24–41. doi:10.1177/25148486221101458 .
+Osborne, Tracey, Samara Brock, Robin Chazdon, Susan Chomba, Eva Garen, Victoria Gutierrez, 
+Rebecca Lave, Manon Lefevre, and Juanita Sundberg. 2021. “The Political Ecology Playbook for 
+Ecosystem Restoration: Principles for Effective, Equitable, and Transformative Landscapes. ” Global 
+Environmental Change  70 (September): 102320. doi:10.1016/j.gloenvcha.2021.102320 .
+Page, S. E., and A. Hooijer. 2016. “In the Line of Fire: The Peatlands of Southeast Asia. ” Philosophical Trans -
+actions of the Royal Society B: Biological Sciences  371 (1696): 20150176. doi:10.1098/rstb.2015 .0176 .
+Page, Susan, Shailendra Mishra, Fahmuddin Agus, Gusti Anshari, Greta Dargie, Stephanie Evers, Jyrki 
+Jauhiainen, et al. 2022. “ Anthropogenic Impacts on Lowland Tropical Peatland Biogeochemistry. ” 
+Nature Reviews Earth & Environment  3 (7). Nature Publishing Group: 426–443. doi:10.1038/s43017 
+-022-00289-6 .
+Pagunsan, Ruel V . 2023. “Greening with Exotics: Mount Makiling and Reforestation Discourses in the 
+Twentieth-Century Philippines. ” Philippine Studies  71 (1): 17–36. doi:10.3316/informit.9986656924 
+96402 .
+Paling, Mark Fonseca, Marieke Katwijk, and Mike van Keulen. 2009. “Seagrass Restoration. ” In Coastal 
+Wetlands: An Integrated Ecosystems Approach , ed. Gerardo Perillo, Eric Wolanski, Donald R. 
+Cahoon, and Charles S, Hopkinson, 687–713. Cambridge, MA: Elsevier.
+Palmer, Margaret A., Joy B. Zedler, and Donald A. Falk. 2016. “Ecological Theory and Restoration Ecol -
+ogy. ” In Foundations of Restoration Ecology , ed. Margaret A. Palmer, Joy B. Zedler, and Donald A. 
+Falk, 3–26. Washington, DC: Island Press/Center for Resource Economics. doi:10.5822/978-1-610 
+91-698-1_1 .
+Peluso, Nancy Lee. 1993. “Coercing Conservation?: The Politics of State Resource Control. ” Global Envi -
+ronmental Change  3 (2): 199–217.
+Peluso, Nancy Lee, and Peter Vandergeest. 2001. “Genealogies of the Political Forest and Customary 
+Rights in Indonesia, Malaysia, and Thailand. ” The Journal of Asian Studies  60 (3): 761–812. doi:10.23 
+07/2700109 .
+Pham, Thuy Thu, Moira Moeliono, Jennie Yuwono, Bimo Dwisatrio, and Patrícia Gallo. 2021. 
+“REDD+ Finance in Brazil, Indonesia and Vietnam: Stakeholder Perspectives between 2009-2019. ” 
+Global Environmental Change  70 (September): 102330. doi:10.1016/j.gloenvcha.2021.102330 .
+Phong, Nguyen Tan. 2022. “Offshore Structures, Sea Mud Accumulation and Mangrove Regeneration: 
+Insights from the Vietnamese Mekong Delta, Vietnam. ” Ocean & Coastal Management  225 (June): 
+106243. doi:10.1016/j.ocecoaman.2022.106243 .
+Powell, Neil, and Maria Osbeck. 2010. “ Approaches for Understanding and Embedding Stakeholder 
+Realities in Mangrove Rehabilitation Processes in Southeast Asia: Lessons Learnt from Mahakam 
+Delta, East Kalimantan. ” Sustainable Development  18 (5): 260–70. doi:10.1002/sd.477 . 
+Pradhan, N., H. Habib, M. Venkatappa, T. Ebbers, R. Duboz, and O. Shipin. 2015. “Framework Tool for 
+a Rapid Cumulative Effects Assessment: Case of a Prominent Wetland in Myanmar. ” Environmental 
+Monitoring and Assessment  187 (6): 341. doi:10.1007/s10661-015-4508-4 .
+Puig de la Bellacasa, María. 2014. “Encountering Bioinfrastructure: Ecological Struggles and the 
+Sciences of Soil. ” Social Epistemology  28 (1): 26–40. doi:10.1080/02691728.2013.862879 .
+Puntasen, Apichai, Somboon Siriprachai, and Chaiyuth Punyasavatsut. 1992. “Political Economy of 
+Eucalyptus: Business, Bureaucracy and the Thai Government. ” Journal of Contemporary Asia , Janu -
+ary. doi:10.1080/00472339280000151 .
+Ramakrishnan, Kavita, Kathleen O’Reilly, and Jessica Budds. 2021. “The Temporal Fragility of Infra -
+structure: Theorizing Decay, Maintenance, and Repair. ” Environment and Planning E: Nature and 
+Space  4 (3): 674–695. doi:10.1177/2514848620979712 .
+Amphibious Land Repair  ◾ 137
+Randle, Sayd. 2022. “Ecosystem Duties, Green Infrastructure, and Environmental Injustice in Los  
+Angeles. ” American Anthropologist  124 (1): 77–89. doi:10.1111/aman.13650 .
+Richards, Daniel R., and Daniel A. Friess. 2016. “Rates and Drivers of Mangrove Deforestation in  
+Southeast Asia, 2000–2012. ” Proceedings of the National Academy of Sciences  113 (2): 344–349. 
+doi:10.10 73/pnas.1510272113 .
+Rifai, Husen, Jay Mar D. Quevedo, Kevin Muhamad Lukman, Calyvn F. A. Sondak, Johan Risandi, Udhi 
+Eko Hernawan, Yuta Uchiyama, Rohani Ambo-Rappe, and Ryo Kohsaka. 2023. “Potential of Sea -
+grass Habitat Restorations as Nature-Based Solutions: Practical and Scientific Implications in Indo -
+nesia. ” Ambio  52 (3): 546–555. doi:10.1007/s13280-022-01811-2 .
+Ritzema, Henk, Suwido Limin, Kitso Kusin, Jyrki Jauhiainen, and Henk Wösten. 2014. “Canal Blocking 
+Strategies for Hydrological Restoration of Degraded Tropical Peatlands in Central Kalimantan, 
+Indonesia. ” CATENA  114 (March): 11–20. doi:10.1016/j.catena.2013.10.009 .
+Salimi, Shokoufeh, Suhad A. A. A. N. Almuktar, and Miklas Scholz. 2021. “Impact of Climate Change on 
+Wetland Ecosystems: A Critical Review of Experimental Wetlands. ” Journal of Environmental Man -
+agement  286 (May): 112160. doi:10.1016/j.jenvman.2021.112160 .
+Sapkota, Lok Mani, Lina Jihadah, Mayumi Sato, Martin Greijmans, Kanchana Wiset, Ngamnet Aek -
+tasaeng, Atcharaporn Daisai, and David Gritten. 2021. “Translating Global Commitments into 
+Action for Successful Forest Landscape Restoration: Lessons from Ing Watershed in Northern Thai -
+l a n d .”  Land Use Policy  104 (May): 104063. doi:10.1016/j.landusepol.2019.104063 .
+Sari, Agus, Alue Dohong, and Budi Wardhana. 2021. “Innovative Financing for Peatland Restoration in 
+Indonesia. ” In Climate Change Research, Policy and Actions in Indonesia: Science, Adaptation and 
+Mitigation , edited by Riyanti Djalante, Joni Jupesta, and Edvin Aldrian, 247–264. Cham: Springer 
+International Publishing. doi:10.1007/978-3-030-55536-8_12 .
+Sayer, Jeffrey, Agni Klintuni Boedhihartono, James Douglas Langston, Chris Margules, Rebecca Anne 
+Riggs, and Dwi Amalia Sari. 2021. “Governance Challenges to Landscape Restoration in Indonesia. ” 
+Land Use Policy  104 (May): 104857. doi:10.1016/j.landusepol.2020.104857 .
+Sasmito, Sigit D., Mohammad Basyuni, Age Kridalaksana, Meli F. Saragi-Sasmito, Catherine E. Lovelock, 
+and Daniel Murdiyarso. 2023. “Challenges and Opportunities for Achieving Sustainable Devel -
+opment Goals through Restoration of Indonesia’s Mangroves. ”  Nature Ecology & Evolution  7 (1): 
+62–70. doi:10.1038/s41559-022-01926-5 . 
+Seddon, Nathalie, Alexandre Chausson, Pam Berry, Cécile A. J. Girardin, Alison Smith, and Beth Turner. 
+2020. “Understanding the Value and Limits of Nature-Based Solutions to Climate Change and 
+Other Global Challenges. ” Philosophical Transactions of the Royal Society B: Biological Sciences  375 
+(1794): 20190120. doi:10.1098/rstb.2019.0120 .
+Shapin, Steven. 1998. “Placing the View from Nowhere: Historical and Sociological Problems in the 
+Location of Science. ” Transactions of the Institute of British Geographers  23 (1): 5–12. doi:10.1111 
+/j.0020-2754.1998.00005.x .
+Sharma, Shubhechchha and Y onariza. 2021. “Chapter 7—Evaluating Forest Reforestation Policies in 
+Southeast Asia: A Case Study from Indonesia, Philippines, and Thailand. ” In Natural Resource Gov -
+ernance in Asia , ed. Raza Ullah, Shubhechchha Sharma, Makoto Inoue, Sobia Asghar, and Ganesh 
+Shivakoti, 79–97. Elsevier. doi:10.1016/B978-0-323-85729-1.00004-9 .
+Sidik, Frida, Anissa Lawrence, Tonny Wagey, Franky Zamzani, and Catherine E. Lovelock. 2023. “Blue 
+Carbon: A New Paradigm of Mangrove Conservation and Management in Indonesia. ” Marine Pol -
+icy 147 (January): 105388. doi:10.1016/j.marpol.2022.105388 .
+Siman, Kelly, Daniel A. Friess, Mark Huxham, Suzanne McGowan, Julia Drewer, Lian Pin Koh, Yiwen 
+Zeng, et al. 2021. “Nature-Based Solutions for Climate Change Mitigation: Challenges and Oppor -
+tunities for the ASEAN Region, ” October. https://napier-repository.worktribe.com/output/2814839 .
+Smith, Benjamin, Nicholas J. Clifford, and Jenny Mant. 2014. “The Changing Nature of River Restora -
+tion. ” WIREs Water  1 (3): 249–261. doi:10.1002/wat2.1021 .
+Stankovic, Milica, Rohani Ambo-Rappe, Filipo Carly, Floredel Dangan-Galon, Miguel D. Fortes, 
+Mohammad Shawkat Hossain, Wawan Kiswara, et al. 2021. “Quantification of Blue Carbon in Sea -
+138 ◾ Tamar Law and Jenny Goldstein
+grass Ecosystems of Southeast Asia and Their Potential for Climate Change Mitigation. ” Science of 
+The Total Environment  783 (August): 146858. doi:10.1016/j.scitotenv.2021.146858 .
+Star, Susan Leigh, 1999. “The Ethnography of Infrastructure. ” American Behavioral Scientist  43 (3): 377–
+391. doi:10.1177/00027649921955326 .
+Staveren, Martijn F. van, Jan M. van Tatenhove, and Jeroen F. Warner. 2018. “The Tenth Dragon: Con -
+trolled Seasonal Flooding in Long-Term Policy Plans for the Vietnamese Mekong Delta. ” Journal of 
+Environmental Policy & Planning  20 (3): 267–281. doi:10.1080/1523908X.2017.1348287 .
+Stokes, Kathleen, and Mary Lawhon. 2024. “What Counts as Infrastructural Labour? Community Action 
+as Waste Work in South Africa. ” Area Development and Policy  9 (1): 24–44. doi:10.1080/23792949 
+.2022.2145321 .
+Strack, Maria, Scott J. Davidson, Takashi Hirano, and Christian Dunn. 2022. “The Potential of Peatlands 
+as Nature-Based Climate Solutions. ” Current Climate Change Reports  8 (3): 71–82. doi:10.1007/s406 
+41-022-00183-9 .
+Stroud, David A., Nick C. Davidson, C. Max Finlayson, and Royal C. Gardner. 2022. “Development of 
+the Text of the Ramsar Convention: 1965–1971. ” Marine and Freshwater Research  73 (10). CSIRO 
+PUBLISHING: 1107–1126. doi:10.1071/MF21312 .
+Sudo, Kenji, T. E. Angela L. Quiros, Anchana Prathep, Cao Van Luong, Hsing-Juh Lin, Japar Sidik 
+Bujang, Jillian Lean Sim Ooi, et al. 2021. “Distribution, Temporal Change, and Conservation Status 
+of Tropical Seagrass Beds in Southeast Asia: 2000–2020. ” Frontiers in Marine Science  8 (July). Fron -
+tiers. doi:10.3389/fmars.2021.637722 .
+Sullivan, Sian. 2018. “Making Nature Investable: From Legibility to Leverageability in Fabricating 
+‘Nature’ as ‘Natural-Capital. ’” Science & Technology Studies  31 (3): 47–76. doi:10.23987/sts.58040 .
+Sutikno, S., R. Rinaldi, E. Saputra, M. Kusairi, B. H. Saharjo, and E. I. Putra. 2020. “Water Management 
+for Hydrological Restoration and Fire Prevention in Tropical Peatland. ” IOP Conference Series: 
+Materials Science and Engineering  933 (1). IOP Publishing: 012053. doi:10.1088/1757-899X/933 
+/1/012053 .
+Suyadi, Doni Nurdiansah, Jeverson Renyaan, Betalini Widhi Hapsari, Eka Martha Della Rahayu, Arwan 
+Sugiharto, and Y aya Ihya Ulumuddin. 2023. “Better Approaches Are Required for Successful Man -
+grove Restoration and Rehabilitation Program. ” AIP Conference Proceedings  2606 (1): 050001. 
+doi:10.1063/5.0118836 .
+Swyngedouw, Erik. 2010. “ Apocalypse Forever?” Theory, Culture & Society  27 (2–3): 213–232. doi:10.11 
+77/0263276409358728 .
+Talbot, Frank, and Clive Wilkinson. 2001. Coral Reefs, Mangroves and Seagrasses: A Sourcebook for Man -
+agers . Cape Cleveland: Australian Institute of Marine Science.
+Tan, Z. D., L. R. Carrasco, S. Sutikno, and D. Taylor. 2022. “Peatland Restoration as an Affordable 
+Nature-Based Climate Solution with Fire Reduction and Conservation Co-Benefits in Indonesia. ” 
+Environmental Research Letters  17 (6): 064028. doi:10.1088/1748-9326/ac6f6e .
+Terzano, Dilva, Fabio Attorre, Faizal Parish, Patrick Moss, Fabrizio Bresciani, Roshan Cooke, and Paul 
+Dargusch. 2022. “Community-Led Peatland Restoration in Southeast Asia: 5Rs Approach. ” Restora -
+tion Ecology  30 (8): e13642. doi:10.1111/rec.13642 .
+Thomas, Kimberley Anh. 2023. “Compelled to Compete: Rendering Climate Change Vulnerability 
+Investable. ” Development and Change  54 (2): 223–250. doi:10.1111/dech.12756 .
+Thompson, Benjamin S. 2018. “The Political Ecology of Mangrove Forest Restoration in Thailand:  
+Institutional Arrangements and Power Dynamics. ” Land Use Policy  78 (November): 503–514. 
+doi:10.10 16/j.landusepol.2018.07.016 .
+Thorhaug, A., John Barry Gallagher, W . Kiswara, Anchana Prathep, Xiaoping Huang, Tzuen-Kiat Y ap, 
+Sue Dorward, and Graeme Berlyn. 2020. “Coastal and Estuarine Blue Carbon Stocks in the Greater 
+Southeast Asia Region: Seagrasses and Mangroves per Nation and Sum of Total. ” Marine Pollution 
+Bulletin  160 (November): 111168. doi:10.1016/j.marpolbul.2020.111168 .
+Tien, H.V ., N. Tuan Anh, N. Tan Phong, and M.L. Minh Nhat. 2021. “Ecological Engineering and Res -
+toration of Eroded Muddy Coasts in South East Asia: Knowledge Gaps and Recommendations. ” 
+Sustainability (Switzerland)  13 (3): 1–10. doi:10.3390/su13031248 .
+Amphibious Land Repair  ◾ 139
+Tinh, Pham Hong, Richard A. MacKenzie, Tran Dang Hung, Truong Van Vinh, Hoang Thi Ha, Mai 
+Huong Lam, Nguyen Thi Hong Hanh, Nguyen Xuan Tung, Pham Minh Hai, and Bui Thanh Huyen. 
+2022. “Mangrove Restoration in Vietnamese Mekong Delta during 2015-2020: Achievements and 
+Challenges. ” Frontiers in Marine Science  9 (December). doi:10.3389/fmars.2022.1043943 .
+Thorslund, Josefin, Jerker Jarsjo, Fernando Jaramillo, James W . Jawitz, Stefano Manzoni, Nandita B. Basu, 
+Sergey R. Chalov, et al. 2017. “Wetlands as Large-Scale Nature-Based Solutions: Status and Chal -
+lenges for Research, Engineering and Management. ” Ecological Engineering,  Ecological Engineering 
+of Sustainable Landscapes  108 (November): 489–497. doi:10.1016/j.ecoleng.2017.07.012 .
+Tomscha, Stephanie A, Shannon Bentley, Elsie Platzer, Bethanna Jackson, Mairead de Roiste, Stephen 
+Hartley, Kevin Norton, and Julie R. Deslippe. 2021. “Multiple Methods Confirm Wetland Resto -
+ration Improves Ecosystem Services. ” Ecosystems and People  17 (1): 25–40. doi:10.1080/26395916 
+.2020.1863266.
+Tromboni , Flavia, Thomas E. Dilts, Sarah E. Null, Sapana Lohani, Peng Bun Ngor, Savoeurn Soum, Zeb 
+Hogan, and Sudeep Chandra. 2021. “Changing Land Use and Population Density Are Degrading 
+Water Quality in the Lower Mekong Basin. ” Water  13 (14): 1948. doi:10.3390/w13141948 .
+Tsujino, Riyou, Takakazu Yumoto, Shumpei Kitamura, Ibrahim Djamaluddin, and Dedy Darnaedi. 2016. 
+“History of Forest Loss and Degradation in Indonesia. ” Land Use Policy  57 (November): 335–347. 
+doi:10.1016/j.landusepol.2016.05.034 .
+Turetsky, Merritt R., Brian Benscoter, Susan Page, Guillermo Rein, Guido R. van der Werf, and Adam 
+Watts. 2015. “Global Vulnerability of Peatlands to Fire and Carbon Loss. ” Nature Geoscience  8 (1): 
+11–14. doi:10.1038/ngeo2325 .
+Twohig, Cian, Ylenia Casali, and Nazli Y onca Aydin. 2022. “Can Green Roofs Help with Stormwater 
+Floods? A Geospatial Planning Approach. ” Urban Forestry & Urban Greening  76 (October): 127724. 
+doi:10.1016/j.ufug.2022.127724 .
+Uda, Saritha Kittie, Lars Hein, and Elham Sumarga. 2017. “Towards Sustainable Management of Indone -
+sian Tropical Peatlands. ”  Wetlands Ecology and Management  25 (6 pp. 683–701): 701–683. doi:10.10 
+07/s11273-017-9544-0 . 
+UN. 2024. “ About the UN Decade. ” UN Decade on Restoration . http://www.decadeonrestoration.org 
+/about-un-decade  (accessed 20 June 2023).
+Ureta, Sebastián, Thomas Lekan, and W Graf von Hardenberg. 2020. “Baselining Nature: An Introduc -
+tion. ” Environment and Planning E: Nature and Space  3 (1): 3–19. doi:10.1177/2514848619898092 .
+Usher, Mark. 2023. “Restoration as World-Making and Repair: A Pragmatist Agenda. ” Environment and 
+Planning E: Nature and Space  6 (2): 1252–1277. doi:10.1177/25148486221107221 .
+Uy, Noralene, and Chris Tapnio. 2021. “Turning Blue, Green and Gray: Opportunities for Blue-Green 
+Infrastructure in the Philippines. ” In Ecosystem-Based Disaster and Climate Resilience: Integration 
+of Blue-Green Infrastructure in Sustainable Development , ed. Mahua Mukherjee and Rajib Shaw, 
+161–184. Singapore: Springer. doi:10.1007/978-981-16-4815-1_7 .
+Valach, Alex C., Kuno Kasak, Kyle S. Hemes, Tyler L. Anthony, Iryna Dronova, Sophie Taddeo, 
+Whendee L. Silver, Daphne Szutu, Joseph Verfaillie, and Dennis D. Baldocchi. 2021. “Productive 
+Wetlands Restored for Carbon Sequestration Quickly Become Net CO2 Sinks with Site-Level Fac -
+tors Driving Uptake Variability. ” PLOS ONE  16 (3). Public Library of Science: e0248398. doi:10.1371 
+/journal.pone.0248398 .
+Van Oosten, Cora, Petrus Gunarso, Irene Koesoetjahjo, and Freerk Wiersum. 2014. “Governing Forest 
+Landscape Restoration: Cases from Indonesia. ” Forests  5 (6). Multidisciplinary Digital Publishing 
+Institute: 1143–1162. doi:10.3390/f5061143 .
+Veettil, Bijeesh Kozhikkodan, Raymond D. Ward, Ngo Xuan Quang, Ngo Thi Thu Trang, and Tran Hoai  
+Giang. 2019. “Mangroves of Vietnam: Historical Development, Current State of Research and Future 
+Threats. ” Estuarine, Coastal and Shelf Science  218 (March): 212–236. doi:10.1016/j.ecss.2018 .12.021 .
+Veettil, Bijeesh Kozhikkodan, Raymond D. Ward, Dong Doan Van, Ngo Xuan Quang, and Pham Ngoc 
+Hoai. 2022. “Seagrass Ecosystems along the Vietnamese Coastline: Current State of Research and 
+Future Perspectives. ” Estuarine, Coastal and Shelf Science  277 (October): 108085. doi:10.1016/j.ecss 
+.2022.108085 .
+140 ◾ Tamar Law and Jenny Goldstein
+Wakefield, Stephanie. 2020. “Making Nature into Infrastructure: The Construction of Oysters as a Risk 
+Management Solution in New Y ork City. ” Environment and Planning E: Nature and Space  3 (3): 
+761–785. doi:10.1177/2514848619887461 .
+Wakefield, Stephanie, and Bruce Braun. 2018. “Oystertecture: Infrastructure, Profanation, and the 
+Sacred Figure of the Human. ” In Infrastructure, Environment, and Life in the Anthropocene , ed. 
+Kregg Hetherington, 193–215. Durham, NC: Duke University Press.
+Walters, Bradley B. 2003. “People and Mangroves in the Philippines: Fifty Y ears of Coastal Environmen -
+tal Change. ” Environmental Conservation  30 (3): 293–303. doi:10.1017/S0376892903000298 .
+Waltham, Nathan J., Michael Elliott, Shing Yip Lee, Catherine Lovelock, Carlos M. Duarte, Christina 
+Buelow, Charles Simenstad, et al. 2020. “UN Decade on Ecosystem Restoration 2021–2030: What 
+Chance for Success in Restoring Coastal Ecosystems?” Frontiers in Marine Science  7 (February). 
+Frontiers. doi:10.3389/fmars.2020.00071 .
+Wang, Xiahui, Jinnan Wang, Bo Wang, Benjamin Burkhard, Lulu Che, Chao Dai, and Lijie Zheng. 2022. 
+“The Nature-Based Ecological Engineering Paradigm: Symbiosis, Coupling, and Coordination. ” 
+Engineering  19 (December): 14–21. doi:10.1016/j.eng.2022.07.004 .
+WaterLANDS. 2024. “WaterLANDS: Water-Based Solutions for Carbon Storage, People and Wilder -
+ness. ” https://waterlands.eu/project-overview/  (accessed 24 February 2024).
+Webber, Sophie, Sara Nelson, Nate Millington, Gareth Bryant, and Patrick Bigger. 2022. “Financing 
+Reparative Climate Infrastructures: Capital Switching, Repair, and Decommodification. ” Antipode  
+54 (3): 934–958. doi:10.1111/anti.12806 .
+Weger, Jacob. 2019. “The Vietnamization of Delta Management: The Mekong Delta Plan and Politics of 
+Translation in Vietnam. ” Environmental Science & Policy  100 (October): 183–188. doi:10.1016/j.env 
+sci.2019.07.011 .
+Welden, E. A. 2023. “Conceptualising Multispecies Collaboration: Work, Animal Labour, and Nature-
+Based Solutions. ” Transactions of the Institute of British Geographers  48 (3): 541–555. doi:10.1111 
+/tran.12593 .
+Wicaksono, Agung and Zainal. 2022. “Peatlands Restoration Policies in Indonesia: Success or Failure?” 
+IOP Conference Series: Earth and Environmental Science  995 (1): 012068. doi:10.1088/1755-1315 
+/995/1/012068 .
+Wiesner, Benjamin John, and Paul Dargusch. 2022. “The Social License to Restore—Perspectives on 
+Community Involvement in Indonesian Peatland Restoration. ”  Land  11 (7). doi:10.3390/land110 
+71038 . 
+Wohlers, David C. 2019. “Prome, Burma—How a Village in Colonial Burma Became the Global Epi -
+center of Scientific Forestry and Impacted the Founding of the United States Forest Service. ” Journal 
+of Forestry  117 (5): 515–524. doi:10.1093/jofore/fvz045 .
+Woods, Kevin. 2012. “The Political Ecology of Rubber Production in Myanmar: An Overview. ” Global 
+Witness. http://www.burmalibrary.org/docs20/The_Political_Ecology_of_Rubber_Production_in 
+_Myanmar.pdf .
+World Bank. 2022. “New Project Will Support Large-Scale Mangrove Conservation and Restoration in 
+Indonesia. ” World Bank . https://www.worldbank.org/en/news/press-release/2022/06/07/new-proje 
+ct-will-support-large-scale-mangrove-conservation-and-restoration-in-indonesia  (accessed 7 June 
+2024).
+World Economic Forum. 2023. “World Economic Forum Signs Partnership with Indonesia on Blue Car -
+bon to Support National Climate Goals. ” World Economic Forum . https://www.weforum.org/press 
+/2023/01/world-economic-forum-signs-partnership-with-indonesia-on-blue-carbon-to-support-na 
+tional-climate-goals/  (accessed 19 January 2024).
+Xiao, Han, Yin Tang, Haiming Li, Lu Zhang, Thanh Ngo-Duc, Deliang Chen, and Qiuhong Tang. 2021. 
+“Saltwater Intrusion into Groundwater Systems in the Mekong Delta and Links to Global Change. ” 
+Advances in Climate Change Research  12 (3): 342–352. doi:10.1016/j.accre.2021.04.005 .
+Y ong, Ding Li, Jing Ying Kee, Pyae Phyo Aung, Anuj Jain, Chin Aik Y eap, Nyat Jun Au, Ayuwat Jear -
+wattanakanok, et al. 2022. “Conserving Migratory Waterbirds and the Coastal Zone: The Future of 
+Amphibious Land Repair  ◾ 141
+South-East Asia’s Intertidal Wetlands. ”  Oryx  56 (2 pp.176–183): 183–176. doi:10.1017/S0030605320 
+001374 .
+Y oshida, Yuichiro, Han Soo Lee, Bui Huy Trung, Hoang-Dung Tran, Mahrjan Keshlav Lall, Kifayatullah 
+Kakar, and Tran Dang Xuan. 2020. “Impacts of Mainstream Hydropower Dams on Fisheries and 
+Agriculture in Lower Mekong Basin. ” SUSTAINABILITY  12 (6): 2408. doi:10.3390/su12062408 .
+Yuwati, Tri Wira, Dony Rachmanadi, Pratiwi, Maman Turjaman, Y onky Indrajaya, Hunggul Yudono 
+Setio Hadi Nugroho, Muhammad Abdul Qirom et al. 2021 “Restoration of degraded tropical peat -
+land in Indonesia: A review. ” Land  10 (11). doi:10.3390/land10111170 .
+Zhu, Annah Lake, Niklas Weins, Juliet Lu, Tyler Harlan, Jin Qian, and Fabiana Barbi Seleguim. 2024. 
+“China’s Nature-Based Solutions in the Global South: Evidence from Asia, Africa, and Latin Amer -
+ica. ” Global Environmental Change  86 (May): 102842. doi:10.1016/j.gloenvcha.2024.102842 .
