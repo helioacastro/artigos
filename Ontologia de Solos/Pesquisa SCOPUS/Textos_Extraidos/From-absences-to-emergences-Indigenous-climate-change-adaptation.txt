@@ -1,0 +1,1499 @@
+World Development 176 (2024) 106503
+Available online 26 December 2023
+0305-750X/© 2023 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).Regular Research Article 
+From absences to emergences: Foregrounding traditional and Indigenous 
+climate change adaptation knowledges and practices from Fiji, Vietnam and 
+the Philippines 
+Justin Seea,*, Ginbert Permejo Cuatonb, Pryor Placinoc, Suliasi Vunibolad, Huong Do Thie, 
+Kelly Dombroskif, Katharine McKinnong 
+aSydney Environment Institute and School of Geosciences (The University of Sydney), The Quadrangle, L4.00 A14, Science Rd, Camperdown NSW 2050, Australia 
+bDivision of Environment & Sustainability (The Hong Kong University of Science and Technology), Hong Kong SAR, China 
+cSchool of Global Studies (Thammasat University) and Institute for Culture and Society (Western Sydney University), Australia 
+dMacmillan Brown Centre for Pacific Studies (University of Canterbury), New Zealand 
+eVietnam Institute of Meteorology, Hydrology and Climate Change, Vietnam 
+fSchool of People, Environment, and Planning (Massey University), New Zealand 
+gCentre for Sustainable Communities (University of Canberra), Australia   
+ARTICLE INFO  
+Keywords: 
+Climate change 
+Climate change adaptation 
+Decolonising climate and adaptation 
+scholarship (DCAS) 
+Indigenous and local knowledge 
+Global South ABSTRACT  
+The differential impacts of climate change have highlighted the need to implement fit-for-purpose interventions 
+that are reflective of the needs of vulnerable communities. However, adaptation projects tend to favour tech-
+nocratic, market-driven, and Eurocentric approaches that inadvertently disregard the place-based and contextual 
+adaptation strategies of many communities in the Global South. The paper aims to decolonise climate change 
+adaptation guided by the critical tenets of ‘Decolonising Climate Adaptation Scholarship ’ (DCAS). It presents 
+empirical case studies from Fiji, Vietnam, and the Philippines and reveals the different ways that Indigenous and 
+local knowledge (ILK) and strategies are devalued and suppressed by modernist and developmentalist ap-
+proaches to climate adaptation. The paper then foregrounds some of the adaptive techniques that resist and 
+remain, or have been re-worked in hybrid ways with ILK. Ultimately, this paper combats the delegitimisation of 
+ILK by mainstream climate change adaptation scholarship and highlights the need for awareness and openness to 
+other forms of knowing and being.   
+1.Introduction: The neo-colonial takeover of climate change 
+adaptation in the Global South 
+Since the early 1990s, climate change adaptation has emerged as a 
+dominant theme in development praxis. Governments, aid agencies, and 
+nongovernmental organisations (NGOs) have mobilised a significant 
+number of resources and embarked on several programmes focusing on 
+climate adaptation (Mikulewicz & Taylor, 2020; Sovacool et al., 2017 ). 
+Climate change is seen as an existential threat to humans everywhere 
+and adaptation is consequently viewed as an urgent and almost uni-
+versally recognised imperative across the globe (Atteridge & Remling, 
+2018; Taylor, 2014 ). 
+However, existing body of literature suggests that climate change is 
+dominantly framed as particularly dangerous for communities in the Global South – or countries with relatively low economic and industrial 
+development where the majority of the world ’s population live (Bond, 
+2012; Fisher, 2015; Gaillard et al., 2017 ). Drawing from Said ’s (2003) 
+concept of imaginative geography, critical scholars note that climate 
+discourses manufacture an imaginary border between parts of the world 
+that are supposedly safer (in Western Europe and North America) and 
+those most regularly affected by extreme weather events in the Global 
+South (Bankoff, 2001; Gaillard, 2010; Mikulewicz, 2020 ). Climate 
+change is consequently depicted as a more imminent threat to a certain 
+part of humanity, who therefore needs to be ‘saved ’ by the knowledge 
+and expertise of the other. 
+Critical scholars point out the arrogance of this artificial distinction 
+between the climate vulnerability of richer and poorer regions of the 
+world. Bankoff (2001) refers to the rhetoric of how places in the Global 
+*Corresponding author. 
+E-mail addresses: justin.see@sydney.edu.au (J. See), gcuaton@ust.hk (G.P. Cuaton), pryor.placino@westernsydney.edu.au (P. Placino), vunibolasuliasi@gmail. 
+com (S. Vunibola), huongtvkttv@gmail.com (H.D. Thi), k.dombroski@massey.ac.nz (K. Dombroski), katharine.mckinnon@canberra.edu.au (K. McKinnon).  
+Contents lists available at ScienceDirect 
+World Development 
+u{�~zkw! s{yo|kro>! ÐÐÐ1ow�o �to~1m{y2w{m k�o2Ð{~wnno �!
+https://doi.org/10.1016/j.worlddev.2023.106503 
+Accepted 15 December 2023   
+World Development 176 (2024) 106503
+2South are rendered vulnerable to climate change as a “Western 
+discourse”. He draws upon the ideas of Arturo Escobar (1995, p. 8) who 
+describes development as akin to the process of ‘colonisation’ as it tends 
+to create “ a subjectivity with features of powerlessness, passivity, 
+poverty and ignorance… as if waiting for the Western hand to help 
+subjects along…” Recently, Mikulewicz (2020, p. 1810) takes this 
+further, arguing that “mainstream approaches to adaptation rely on a 
+parallel ontology of vulnerability, which warrants external assistance to 
+those in climate peril” (Mikulewicz, 2020, p. 1810). Bankoff (2019) also 
+claims that concepts such as adaptation and resilience remain culturally 
+specific to Western perspectives. 
+The kind of ‘Western perspectives’ that Bankoff is referring to are 
+evident in constructions that frame climate as outside human experi -
+ence, positing a strict division between people and their environments 
+(Wright & Tofa, 2021). Consequently, dominant climate policy in-
+terventions and discourses conceptualise climate as something that can 
+be controlled and understood rationally. Adaptation strategies thus 
+focus on top-down, technocratic, and command-and-control strategies 
+such as building infrastructures, climate modelling and projections, and 
+technology-based warning systems (Remling, 2018). However, critical 
+scholars argue that there is fragility associated with this imposed line-
+arity and control of climate and they continue to challenge discourses 
+that obscures the diverse and place-based adaptation strategies that are 
+embedded in local practice (Gibson & Hill, 2022; Ireland & McKinnon, 
+2013; Wright et al., 2020). There is growing evidence that approaches to 
+adaptation within the era of what is varyingly known as Anthropocene 
+or Capitalocene are in part responsible for producing people’s vulnera -
+bilities to climate change in the first place (Eriksen et al., 2021). While it 
+is true that mainstream scientific knowledges have important insights to 
+guide adaptation practitioners, an increasing number of scholars have 
+stressed the need to engage with plural ontologies and epistemologies as 
+these have been shown to play an important role in facilitating adap-
+tation and resilience in many communities (Nursey-Bray et al., 2020; 
+Rarai et al., 2022). 
+Drawing on case studies from Fiji, Vietnam, and the Philippines, this 
+paper illustrates the value of diverse knowledge systems and practices in 
+responding to the pressures of climate change. While variously referred 
+to as traditional knowledges, ecological knowledges, and Indigenous 
+knowledges among others, we elect to use the term Indigenous and Local 
+Knowledges (ILK) because of its growing use in the literature and in 
+prominent institutions like the Intergovernmental Panel on Climate 
+Change (IPCC). By ILK, we refer to a place-specific nested knowledge 
+system comprised of people’s information about local environments, 
+their ways of life, as well as their values and worldviews (Rarai et al., 
+2022). We also see ILK as complete knowledge systems alongside other 
+knowledge systems and are inseparable from and interconnected with 
+peoples’ beliefs and practices (McGregor, 2021). In the case studies that 
+follow, we demonstrate the critical role that ILK plays in facilitating 
+people’s adaptive capacities to climate change. 
+In the next section, we situate our work within the Decolonising 
+Climate Adaptation Scholarship (DCAS) (Johnson et al., 2021). In this 
+positionality, we advocate for recognitional justice in climate adaptation 
+scholarship by explicitly diagnosing “how land and relations to land 
+have always been differently understood and enacted” (Tuck & Yang, 
+2012, p. 7). Moreover, beyond the symbolic and metaphorical use of 
+“decolonisation” (Tuck & Yang, 2012), we examine climate vulnera -
+bility as a product of historical and on-going colonial violence and bring 
+front and centre colonised and Indigenous peoples’ capacities and 
+diverse adaptation strategies in our analysis. Drawing on DCAS, we then 
+turn in Section 3 to our case studies. In order to examine the drivers of 
+vulnerabilities in our case study communities and foreground their 
+respective adaptation initiatives, we orient each of the case study dis-
+cussions around two key questions: (1) what types of absences (i.e. 
+silencing and suppression) are produced by Eurocentric approaches to 
+climate adaptation, and (2) what types of emergences (i.e. adaptation 
+initiatives and strategies) challenge the production of such absences? In Section 4, we present our key findings. Finally, we conclude by 
+reflecting on the lessons our case studies offer for the adaptation in-
+dustry – how adaptation approaches heavily cemented in “concrete” 
+understandings and solutions (i.e. Eurocentric and modernist thought as 
+well as built infrastructure) may not effectively address uncertainties 
+associated with the impacts of future climate change. 
+2.Decolonial approaches to climate and adaptation scholarship 
+Climate change compounds many of the issues that communities in 
+the Global South face including food and water insecurities, pressures on 
+health and education, among others (Mbah et al., 2021; Sultana, 2021). 
+We refer to the Global South as regions of Asia, Oceania, Africa, and 
+Latin America that have a colonial history and are mostly low-income 
+and often politically marginalised (Dados & Connell, 2012). It is 
+within these regions that development models framed by Enlightenment 
+ideas about modernity and progress are propagated (Cooper, 1997). 
+Grosfoguel (2009) argues that the lingering effects of colonialism have 
+seeped into the policies, institutions, ontologies, and epistemologies of 
+Global South communities even after the end of colonial administra -
+tions. Quijano (2000) popularised the notion of “coloniality” to signify 
+the continuation of colonialism through the enduring geopolitical su-
+premacy and economic dominance of Global North nations. To over-
+come coloniality, scholars have called for a ‘decolonial option’ – an 
+approach that recognises and values alternative ontologies and episte -
+mologies that exists in the Global South (Escobar, 2018; Mignolo, 2018). 
+Decolonisation is a continuous political project of “individual and 
+collaborative action to root out the weeds of colonisation” (Mercier, 
+2020, p. 43). Central to this is the decolonisation of knowledge to 
+recognise and legitimise all other ontologies, epistemologies, and 
+methodologies that have previously been marginalised, including ILK. 
+To uproot colonial narratives, we draw attention to the physical and 
+epistemic violence brought about by enduring forms of coloniality and 
+highlight ILK and capacities that enable cultures, beings, and becom -
+ings. To us, part of decolonisation therefore entails interrogating how 
+colonialism has contributed to colonised peoples’ vulnerability and 
+marginalisation (Bennett, 2014), as well as centralising their perspec -
+tives and interpretations of reality (Howitt, 2020). It requires learning 
+from below (Spivak, 1993) and looking from within rather than outside 
+communities (Gaillard, 2019). 
+Within the specific context of climate adaptation, we situate our 
+work of decolonisation within the burgeoning literature called 
+“Decolonising Climate and Adaptation Scholarship (DCAS)”. DCAS 
+builds on decades of push-back from scholars based in the Global South 
+and scholars working with ILK. Johnson et al., (2021,p. 3) argue that the 
+fundamental tenets of decolonisation literature run through large tracts 
+of the DCAS scholarship including “examining and transforming 
+oppression, foregrounding Indigenous ontologies, and supporting 
+Indigenous strengths and self-determination”. They also stress that 
+DCAS represents a much-needed departure in climate adaptation 
+scholarship. Many common framings of climate change obscure the 
+massive destruction brought about by colonialism and capitalism 
+(Wright et al., 2020). Critical scholars also observe that climate change 
+discourses tend to be framed in terms of a range of dichotomies, e.g. 
+natural versus human-made, us versus them, good versus bad (Davison, 
+2015; O’Lear, 2016). They also emphasise that climate is framed in a 
+measurable and controllable manner, enrolling adaptation into domi -
+nant develop discourses wedded to biophysical science and colonial 
+logics of modernity (Rarai et al., 2022; Webber, 2016). This leads to a 
+pre-occupation towards a range of interventions that are technocratic 
+and exclude from its frame of reference the broader colonial and 
+political-economic context” (Cameron, 2012, p. 11). Moreover, such 
+over-reliance on technocratic and Eurocentric expertise in relation to 
+climate adaptation is generally unstable, and there are numerous studies 
+showing how some interventions inadvertently exacerbate vulnerability 
+and drive maladaptive outcomes (Eriksen et al., 2021; See & Wilmsen, J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+32022). For example, a case in Fiji illustrates that seawalls built to protect 
+people from sea level rise have merely shifted vulnerability to people 
+elsewhere and threatened the health of the marine ecosystem (Piggott- 
+McKellar et al., 2020). Other research, such as that in the Marshall 
+Islands, emphasises colonial and institutional structures that discourage 
+local participation in adaptation programmes (Bordner et al., 2020). It is 
+becoming increasingly clear that Eurocentric expertise needs to learn 
+from diverse global contexts and that responding to climate change re-
+quires different ways of thinking and responding. 
+There are many strands of scholarship that attend to the neo-colonial 
+injustices implicated in peoples’ climate vulnerabilities as well as that 
+feature their highly localised and place-based responses to climate 
+change. These include the work of a wide range of Indigenous and non- 
+Indigenous scholars, geographers, feminists, climate change activists, 
+humanists, and other academics who have problematised the dominance 
+of technocratic approaches to climate adaptation and have attended to 
+the diverse and culturally imbued ways that humans are co-constituted 
+and co-emergent with their environment (Do & Dombroski, 2022; 
+Eriksen et al., 2021; Gibson-Graham et al., 2013; Puig de la Bellacasa, 
+2017; Wright et al., 2020). With this immense body of work in mind, we 
+identify three dominant Eurocentric assumptions and understandings 
+around climate and the way that such conceptions are being challenged 
+by DCAS. 
+First is a linear conception of singular time. It relates to the idea that 
+history has a linear direction and that “developed countries are ahead of, 
+or more progressive than, underdeveloped countries” (Akıncı et al., 
+2020, p. 183). The perceived linearity of time suggests that whatever 
+represents the opposite of forward is rendered backward and, thus, 
+undesirable. Wright et al. (2020) argue that this strict linear formulation 
+of time has extremely unjust consequences such as the silencing of the 
+massive destruction brought about by colonialism upon the lands and 
+seas of First Nations people across the world. In addition, when time is 
+seen as singular, predictable, and model-able, too much attention is 
+focused on the ability to forecast and predict the future (Natcher et al., 
+2007). Wright et al., (2020,p. 298) contend that when time is seen only 
+as a linear march, fear-based narratives become dominant as “ideas of 
+change rock the foundations… and responses become an effort to impose 
+control through the very structures that led to the problem in the first 
+place”. 
+In contrast, DCAS literature promotes diverse temporalities and 
+suggests that time is non-linear, spiral, and connects across different 
+generations (Chisholm Hatfield et al., 2018; Janca & Bullen, 2003). For 
+example, Wright et al., (2020,p. 297) discusses how the Yolŋu song-
+spiral, Wukun or Gathering of the Clouds, from northern Australia un-
+derstands “time is not something that is distant… with the past receding 
+into the distance and the future inevitably bearing down”. Instead, it 
+emphasises the multiplicity of time, that the past and future co-exist in 
+the present, and the impossibility of predicting or controlling climate in 
+any unidirectional manner. Similarly, in her study of the relationship 
+between soil science and economic productionism, Puig de la Bellacasa 
+(2015, p. 693) decries the “persistence of a modern paradigm that as-
+sociates the future with progress… while the past acts as a discrimina -
+tory signifier of development delay”. She challenges the productionist 
+linear time aimed at increasing soil’s efficiency at the expense of all 
+other relations and asserts that ecological relations require taking a di-
+versity of timescales into account (Puig de la Bellacasa, 2017). Time is 
+lived, embodied, and historically and socially situated, and the pro-
+gressive and productionist mode of time is just one of the many forms of 
+temporality (Adam, 1998; Bastian, 2009). 
+Second, we observe that Eurocentric perspectives continue to 
+dominate the framing of the climate crisis and its potential solutions. 
+Critical scholars argue that climate assessments are mainly based on 
+Eurocentric paradigms that do not value other ways of knowing 
+(Deranger et al., 2022; Overland & Sovacool, 2020). Moreover, Tandon 
+(2021) notes that the existing knowledge around climate change is 
+heavily skewed towards the interests of male authors from the Global North, marginalising the perspectives of women and communities in the 
+Global South. For example, Gaillard (2019) finds that most of the pub-
+lished work on climate change are authored by scholars from the Global 
+North. Furthermore, Eurocentric ways of knowing have long been 
+accused of appropriating Indigenous knowledge for the benefit of non- 
+Indigenous institutions (Smith, 2012). The dominance of Eurocentric 
+perspectives in climate research forecloses on “a wealth of creative, 
+innovative ideas and solutions required to transform human society” 
+(Deranger et al., 2022, p. 57). 
+DCAS’ underlying premise is that the epistemological and ontolog -
+ical diversity of the world is both immense and important. Escobar 
+coined the term ‘pluriverse’ to describe how the world is actually “made 
+up of multiple worlds, multiple ontologies or reals that are far from 
+being exhausted by the Eurocentric experience or reducible to its terms” 
+(Escobar, 2020, p. 69). DCAS understands a pluriversal world of adap-
+tation, where scholars ask how we might “take the potential of multiple 
+climate ontologies and epistemologies seriously, and what the conse -
+quences of this would be for climate adaptation in theory and practice” 
+(Rarai et al., 2022, p. 2243). Thus, it calls for more grounded adaptation 
+actions that are attuned to the perspectives and needs of local people, 
+but not in terms of interpreting them into a single universalist truth or 
+method. Instead, it embraces multiple worldviews and knowledges in 
+climate adaptation (Ensor et al., 2019). 
+Lastly, we notice that the solutions proposed in responding to the 
+climate crisis revolve around ideas of economic growth through market 
+forces at the expense of environmental and social sustainability. For 
+example, the response to the drought experienced by communities 
+across Australia’s Murray-Darling Basin were mainly “market solutions 
+entrenched by intergovernmental agreements, which have seen rich 
+investors buy water rights to create profit” (Howitt, 2020, p. 4). In 
+Zambia, a new green revolution, focused on a private sector-led agri-
+cultural development, is being pushed to the detriment of the poorest 
+smallholders (Westengen et al., 2018). Bruun (2018) similarly contends 
+that development agendas characterised by financial and economic 
+calculation are evident within funding mechanisms such as the Green 
+Climate Fund. Such dominant preoccupations with economic growth 
+and efficiency do not only exclude the more-than-human lifeworlds; 
+they may also result to further marginalisation of vulnerable groups 
+(Eriksen et al., 2021). 
+To counter this overreliance on market remedies and growth, we 
+draw attention to scholarship that highlights a diversity of systems of 
+production and consumption that capitalist understanding of economic 
+activities and relations fail to capture (Gibson-Graham, 2008; Gibson- 
+Graham et al., 2013). More specifically, we draw upon the notion of 
+diverse economy in which what is usually conceived of as the main -
+stream economy – capitalist enterprise, market transactions and wage 
+labour – are joined by all other economic ‘others’ (such as economies of 
+solidarity, barter, and cooperatives, among others) that sustain life and 
+well-being (Gibson-Graham, 2005). In the context of climate adaptation, 
+a number of scholars provide examples of adaptation strategies that are 
+not guided by the market logic of growth, but by criteria of reciprocity 
+and sufficiency (Ireland & McKinnon, 2013; See et al., 2022). Other 
+diverse economy scholars emphasise adaptation actions that go beyond 
+modernist developmentalism and climate infrastructure, such as 
+learning to be bodily affected by climate difference (Hill, 2014) or in-
+ventorying and building on diverse adaptation strategies already present 
+within communities (Lopes et al., 2018). These examples counter 
+grandiose visions of multinational institutions that are deeply impli -
+cated in neoliberal models of economic decision-making. 
+As a preliminary step in decolonising climate adaptation, we un-
+dertake two important actions in this paper. First, we foreground the 
+various forms of absences and suppression that invalidate non- 
+Eurocentric ontologies and epistemologies in the context of climate 
+adaptation. In each of the four empirical case studies presented in the 
+latter part of this paper, we highlight some of the more troubling aspects 
+of climate change adaptation where different initiatives seem to follow J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+4neo-colonial modernisations. Second, we highlight the diverse forms of 
+emergences – the adaptive techniques and strategies that resist and 
+remain, to articulate the diverse knowledges and practices that Global 
+South communities are already engaged in to adapt to climate change. 
+This paper seeks to contribute to the expanding literature of DCAS and 
+heed Johnson et al.’s (2021) call to advance the decolonisation of 
+climate adaptation scholarship and practice. It also builds on recent 
+scholarship that recognises the importance of grounded and localised 
+knowledge, experience and priorities in climate change research and 
+planning (Khadka et al., 2021; Tschakert et al., 2017 ). We turn to our 
+case studies next. 
+3.Drawing Connections: Introducing case studies from Fiji, 
+Vietnam and the Philippines 
+Our authorial collective is led by researchers from Fiji, Vietnam, and 
+the Philippines, with long-term commitments and access to knowledge 
+through both formal research activities and through long-term re-
+lationships. We are also part of the Community Economies Research 
+Network (CERN), an international network of scholars engaging with a 
+‘community economies ’ approach to make more sustainable and equi-
+table forms of development possible. Inspired by the work of (Gibson- 
+Graham, 1996, 2006 ), the community economies approach represents a 
+commitment to identifying, gathering, and amplifying ethical economic 
+practices that already exist and that prefigure the world we want to live 
+in. Community economies research is interested in ‘looking for differ -
+ence ’, i.e. identifying, making visible, and valuing diverse practices that 
+enable communities to survive well together but are rendered invisible by dominant forms of knowing and being. This paper, a product of a 
+series of exchanges and presentations during the 2021 CERN ’Liviana ’ 
+Online Conference, is our collective attempt to challenge Eurocentric- 
+dominated framing of climate change adaptation and open up new 
+ways of seeing adaptation efforts taking place in local communities. It 
+features case studies from Fiji, Vietnam, and the Philippines (Figure 1) – 
+countries which the United Nations (2020) classifies as “at highest risk 
+of negative outcomes from a changing climate due to their high 
+vulnerability and low resilience ”. 
+Fiji is located in the South Pacific, an archipelago comprised of 330 
+islands, of which over 100 are permanently inhabited (Piggott-McKellar 
+et al., 2019 ). It has a population of approximately 900,000, 57 % of 
+which are Indigenous Fijians who live on customary land (Steven & 
+Vunibola, 2022 ). Despite having mountainous terrains and a large land 
+mass, climate change is increasingly affecting low-lying coastal com-
+munities in the country as many are becoming uninhabitable (Nichols, 
+2019 ). Additionally, recent climate-related disasters such as Category 5 
+cyclone Winston in 2016 have triggered the implementation of policies 
+aimed to build Fijian ’s adaptive capacities (Lagi et al., 2022 ). However, 
+Lagi et al.,’s (2023,p. 315) review of climate-related policies in Fiji 
+suggests that “policies … do not offer frames that fully situate sustainable 
+development within a holistic understanding of socio-climate justice, or 
+fully recognise … the important role that Indigenous knowledges and 
+practices …play ”. This is consistent with Rarai et al.’s (2022) observa -
+tion that Pacific adaptation interventions often privilege Eurocentric 
+knowledges and focus on technical solutions promoted by foreign 
+experts. 
+In this paper, we feature the small village of Nawi which is situated 
+Fig. 1.Map of the case studies.  J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+5near the Nasavu river in the district of Dogotuki in Macuata Province. 
+The village comprises only 25 households and is remotely located, with 
+the nearest town (Labasa) being 150 km away. Here, people largely 
+depend on the land and the river for sustenance and income. For 
+example, kava (piper methysticum) and taro (colocasia esculenta) are 
+grown for income and food. Their main diets include crops like yam, 
+wild vegetables, cassava with fish, and clams from the river. Our Fiji 
+case study is led by SV, who has both family and research connections to 
+Nawi. He looked at how ILK helps support climate adaptation for local 
+communities in Nawi. Talanoa, a culturally aligned Pacific research 
+method (Farrelly & Nabobo-Baba, 2014), was used to gather informa -
+tion and community stories. Talanoa sessions were organised with 
+community leaders, youths, women and teachers from the local Dogo -
+tuki District School. 
+Our second case study is located in Vietnam where the country’s long 
+coastlines and low elevation make it geographically prone to flooding 
+and sea level rise (Lindegaard, 2018). Heightened temperature ex-
+tremes, salinity intrusion, and changing rainfall patterns have also been 
+attributed to climate change and have caused tremendous amount of 
+damage and loss of life (Christoplos et al., 2017). Several adaptation 
+measures have been implemented to address these risk, which scholars 
+observe tend to “follow hierarchical mechanisms of planning and are 
+associated with the development programmed intended to promote 
+national level sustainable development” (Dombroski & Thi Do, 2019, p. 
+9). These top-down adaptation strategies have led to adverse effects on 
+marginalised communities. For example, adaptation measures have 
+been reported to disproportionately benefit landowners and penalise the 
+landless in the Mekong Delta (Chapman et al., 2016). Other example 
+include how the Ecopark green village in Hanoi was designed in a way 
+that protected the local elites from climate impacts but evicted the poor 
+(Thomas & Warner, 2019). 
+In this paper, we focus on Thai Binh province, a rural and coastal 
+area known as the ‘hometown of rice farming’ in northern Vietnam. It 
+has a population of 1,873,890, equivalent to 610,777 households (Thai 
+Binh Statistical Office, 2021). According to the Department of Agricul -
+ture and Rural Development (2011), rice farming makes up approxi -
+mately 60 % of the agricultural gross domestic product (GDP) in the 
+province, making it the most important livelihood activity for its resi-
+dents. Climate-related hazards such as salt intrusion, flooding, and 
+drought thus pose a major threat to both rice production and livelihoods 
+of its residents (Do & Dombroski, 2022). Our Vietnam case study is led 
+by HTD, who has both family and research connections to Thai Binh, and 
+supported by KD for over seven years. The research explored the effects 
+of climate adaptation interventions on peoples’ livelihoods, with special 
+attention given to farmers’ accumulated local embodied knowledges for 
+adapting to climate change. Data were collected using a combination of 
+focus group discussions, transect walks, and semi-structured interviews 
+with farmers and local officials. 
+Our final case studies are located in the Philippines, a country in 
+Southeast Asia composed of more than 7,100 islands clustered in three 
+major island groups and has a land area of around 300,000 square kil-
+ometres (Jose & Cruz, 1999). Climate change has been a field of 
+governmental intervention, with several legislations being passed that 
+mandated the country’s national adaptation priorities centre around 
+food and water security, ecological and environmental stability, human 
+security, and climate-smart industries and services (Climate Change 
+Commission of the Philippines, 2011). However, scholars argue that 
+these are highly top-down policies and included marginal consultation 
+with its vulnerable sectors (De Leon & Pittock, 2017). Moreover, 
+empirical evidence suggest that multiple levels of governments have 
+divergent, often contradicting policy interests (Nabong et al., 2021) and 
+that some adaptation projects have been marred by politics and con-
+troversies which lead to maladaptation (See & Wilmsen, 2020, 2022). 
+Moreover, ILK and practices related to climate change adaptation have 
+continued to be sidelined in government programs and services (Cuaton 
+& Su, 2020, 2023). For instance, structural protection measures through the use of modernist building technologies such as concrete and steel are 
+being promoted by the development industry as viable “technologies to 
+support climate change adaptation in developing Asia” (Asian Devel -
+opment Bank, 2014, p. 1). However, scholars claim that these materials 
+are energy intensive and emit high levels of greenhouse gases, whereas 
+locally available, disaster-resilient and cost-efficient bamboo are 
+underutilised (Zea Escamilla et al., 2016). 
+We discuss two case studies from the Philippines. The first comes 
+from the municipality of Basey, in the province of Samar. Comprised of 
+51 barangays (villages) with a population of 55,480, Basey is prone to 
+climate-related hazards such as typhoons and flooding (Cuaton & Su, 
+2020). We specifically consider the experiences of the Mamanwas, a 
+displaced Indigenous cultural community in the municipality 
+(Kahambing, 2018). Key informant interviews were conducted with 
+community members and social workers to explore how the Mamanwas 
+utilise their ILK in adapting to climate change. This study is led by GPC, a 
+non-Indigenous Filipino scholar and resident of Samar who has worked 
+extensively with the Mamanwas since 2013. The second case study in-
+terrogates the predominance of reinforced concrete as housing material 
+used for building post-disaster houses across the country. Data is drawn 
+from interviews conducted with representatives from a local non- 
+government organisation (NGO) called ‘Base Bahay’ that employ alter-
+native building materials in a number of typhoon-hit provinces of the 
+country. The interviews explored the bamboo technology the NGO has 
+developed, and the projects implemented in their partner communities. 
+This study is led by PP, a Southern Tagalog region-born and raised 
+Filipino scholar, who undertook fieldwork and explored the NGO’s op-
+erations in Tacloban and Iloilo as part of his doctoral research project. 
+4.Absences and Adaptations: Detailing the knowledges both 
+overlooked and emerging 
+In this section, we engage in two key analytical ‘moments’: one 
+where we identify instances where institutions and groups have worked 
+to silence, suppress, or render invisible locally based adaptation prac-
+tices, and another where we articulate the diverse knowledges and 
+practices the residents are already engaged in as part of their strategies 
+in adapting to climate change. Drawing upon the DCAS framework 
+discussed in Section 2, we identify at least two ways in which actors or 
+institutions in our study sites have worked to omit ILK as well as the 
+efforts in which communities are already engaged that push back against 
+Eurocentric adaptation logics and approaches. It is important to note 
+that while we discuss only two instances where ILKs are silenced and 
+marginalised for each case study, there were actually many more in 
+evidence. 
+4.1. Absences and adaptation strategies in Nawi Village, Fiji 
+Our first case study looks at how ILK, including climate adaptation 
+practices, are integrated and amplified in the Fijian educational system 
+as well as in the small villages like Nawi. Despite the vast amount of 
+literature documenting the rich local knowledge and practices that Fi-
+jians have in coping with weather extremes (McNamara & Prasad, 2014; 
+Piggott-McKellar et al., 2021), the schools and the national educational 
+system in Fiji are not structured to recognise, support, and nourish these 
+ILKs and adaptation initiatives. Talanoa sessions with the local teachers 
+revealed that there is a privileging of Eurocentric worldviews in Fiji’s 
+education system which puts more emphasis on the teaching of math 
+and science over ILK. This is consistent with the findings of other 
+scholars like Verani-Norton (2021) and Cagivinaka (2016) who contend 
+that traditional Fijian ILK are given little attention in existing higher 
+education curriculum. Puamau (2021, p. 94) traces this to “the intro-
+duction of formal schooling when the church and colonial government 
+saw Indigenous knowledge systems as primitive and unworthy for in-
+clusion” and continue until today. We argue that this has flow-on effects 
+into the way that Nawi residents view traditional adaptation strategies J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+6and therefore find it unsurprising that ILK are rarely part of the school’s 
+learning programmes. One of the teachers we interviewed shared: “we 
+rarely teach traditional Fijian knowledge and practices to our students 
+anymore. Not many schools do it because our focus is oriented to something 
+else: to capacitate students with skills needed for employment in the global 
+economy” (personal interview, 20 November 2020). 
+This lack of consideration in teaching traditional Fijian ILK has 
+adversely affected the understanding and beliefs of the youth. We 
+observe that there is currently a lack of understanding and appreciation 
+of ILK and adaptation strategies among them. For instance, an inter-
+viewee mentioned that “only the elders believe in the traditional indicators 
+for incoming cyclones that our ancestors previously relied upon such as the 
+appearance of sea birds in the highlands or the building of nets by the wasps 
+on lower tree branches.” (personal interview, 27 November 2020). 
+Additionally, the head of the School of Humanities at the University of 
+the South Pacific laments that the undervaluation of Fijian ILK has also 
+resulted to “Pacific islanders being unable to use their own knowledge as 
+a context of thinking… which has perpetuated the thinking that indig -
+enous knowledge systems are not a worthwhile context for intellectual 
+pursuits” (Puamau, 1999, p. 265). No wonder one of the teachers we 
+interviewed remarked: 
+“It is ironic how our youths lack in-depth knowledge and survival skills in 
+cases of climate catastrophes. Their parents and grandparents used to be 
+able to predict when tropical cyclones would come with great accuracy, 
+and they knew where to get food and supplies even if the first help was 
+months away after any disaster” (personal interview, 1 December 
+2020). 
+Aside from favouring Eurocentric worldviews in its education sys-
+tem, we also observe that officials in Nawi tend to promote market- 
+based solutions in responding to climate change. After the village 
+chief passed away, his siblings signed a contract with a logging company 
+to create income and make way for the construction of modern houses in 
+Nawi. These houses were purported to be resilient against strong winds 
+and flooding. This housing modernisation project involved logging (to 
+pay for these houses and for income), clearing of vegetation, and 
+destruction of the mangroves along the riverbank. Moreover, heavy 
+industrial machines were used to level the ground to make way for the 
+construction of the modern houses which had massive impacts to the 
+original landscape. The project emanates from a capitalistic standpoint 
+privileging economic growth. Some of the Nawi villagers thought that 
+getting more money through the exploitation of their tropical rainforest 
+will build their climate resilience and improve overall well-being, 
+moving from economies of direct provision to economies based on sur-
+plus extraction (Vunibola et al., 2022). Little did the residents know that 
+the housing project will subsequently lead to disastrous impacts for them 
+and their environment. Several residents of the modern houses have 
+attested that they have become more vulnerable to climate hazards as 
+the trees have fallen and the mangroves meant to protect them from king 
+tides and floods were no longer around. Additionally, since the topsoil 
+meant to support wild foods have been scraped off, people’s access to 
+climate-resilient crops like wild tropical yams have also dwindled. 
+Worse, other residents have also complained that tropical cyclones have 
+started to destroy some of their totem plants which are of high cultural 
+and spiritual significance. This is a clear example of a privileging of 
+capitalist productivity as some of the village leaders have agreed to 
+extractive industries in the pursuit of short-lived financial benefits while 
+living with the destruction that this caused. 
+Despite the production of absences as shown in the formal education 
+system and the housing modernisation project, some of its residents, 
+especially the elderly and village leaders, have been asserting and 
+passing on their ILK to the younger generation. For example, Fiji’s ILK 
+on coping with climate change are documented and passed on to the 
+next generation through talanoa, stories, chants, myths, games, and 
+performing arts. In addition, a program called ‘E da daravudravua e na del 
+ani vutuniyau’ (We are poor while standing on riches) was implemented by one of the authors in 2017 as an initiative to ‘heal’ the land using the 
+knowledge and skills of the Nawis’ ancestors (Vunibola & Scheyvens, 
+2019). 
+The ‘E da daravudravua e na del ani vutuniyau’ program has three 
+component. First, a public awareness campaign was initiated to high-
+light the role that ILK plays in planning for disasters. Second, the process 
+of ‘healing the land’ was conducted by the village elders to address the 
+devastation brought about by logging (Appendix 1). Indigenous agri-
+cultural knowledge and techniques were used, such as invigorating 
+topsoil by adding composted sea weeds and mangrove leaves, adding 
+wood ash and burnt sea shells, and planting leguminous trees and grass. 
+A food forest was subsequently created, including climate-resilient crops 
+like wild yams, sweet potatoes, and si’au (a tree vegetable). Other 
+domesticated crops, including cassava, yams, bananas, papayas, taro, 
+and leafy vegetables, were also included, thriving within a multi- 
+cropping environment that resembles their natural habitat. Third, 
+mangroves were re-planted throughout the river through a children’s 
+game called veiviri. This refers to the well-known past time of throwing 
+mangrove seed pods onto the mud. The outcome of these games, played 
+by kids and adults alike, aims to protect the river front from erosion, and 
+thereby reduce the impact of flooding and landslide. The residents hope 
+that these initiatives will help revitalise their Indigenous livelihood 
+systems, protect their ecosystems, and build their resilience to climate 
+change. 
+4.2. Absences and adaptation strategies in Thai Binh, Vietnam 
+Our second case study explores the different state and community- 
+led adaptation strategies in the context of farming in Thai Binh, Viet-
+nam. We observe a privileging of modernist development interventions 
+in climate adaptation strategies by the Vietnamese government. One 
+example is the promotion of scientific toolkits and protocols for man-
+aging water irrigation systems that ignore the existing place-based 
+knowledge and traditional, yet proven farming practices of local rice 
+farmers. As climate change is expected to increase flooding, salt intru-
+sion, and storm surges, good water management through proper control 
+of sluice gates (a type of lock used to manage water flow and level, see 
+Appendix 2) is increasingly becoming important for rice farmers 
+growing in irrigated paddies (Mainuddin et al., 2021). In response, the 
+local government has distributed decision-support tools meant to help 
+residents manage the irrigation system (including sluice gates, pitches, 
+pump station, and more). Local irrigation officers have been trained to 
+use test kits or handy equipment to measure the constantly changing salt 
+concentration of the river water before it gets into the local paddy fields 
+and harms the young rice plants (if too saline). However, these toolkits 
+do not have a user-friendly interface compared to the local irrigation 
+practices that have been around for decades. Moreover, the introduced 
+test kits are labour-intensive as they require officers to sink specific 
+equipment for at least one minute in particular water layers (surface, 
+middle, and bottom), then pull them up and record the numbers even at 
+night. Irrigation officers consequently complained that these methods 
+were confusing and difficult, and preferred to operate their sluice gates 
+in traditional ways instead. 
+We also note that some adaptation interventions in Thai Binh are 
+framed around linear and modernist temporality and understandings of 
+progress. For instance, several government interventions have been 
+conducted to ‘accelerate’ and ‘modernise’ the harvest of rice plants so 
+that farmers gain an extra winter cash crop during extreme weather 
+events. As a result, farmers are encouraged to shorten the interval 
+needed to prepare and clean their land so that they can harvest earlier. 
+This entails foregoing their traditional farming practices which involve 
+packing soil for two to three weeks, taking time to observe unwanted 
+changes in the growth of rice plants and in the rice fields, and being 
+attentive to the needs of non-human entities (e.g., insects, river, soil) 
+that affect rice growth. Instead, farmers are now being forced to prepare 
+their land in under two weeks, even if the residues, insects, and pests J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+7have not undergone natural composting. Consequently, this method can 
+create inhabitable and poisonous conditions for the next round of rice 
+plants, which are not vigorous enough to resist diseases. In 2017 this 
+triggered an epidemic of Southern rice black-streaked dwarf virus, 
+making Thai Binh farmers lose 70 % of their rice yield (Do & Dombroski, 
+2022 ). An interviewee complained: 
+“The earthworms, bacteria, and others are like us. They need time and 
+appropriate conditions to do their jobs. The officials tried to blame the 
+weather conditions for the development of this epidemic, but we don’t 
+think so… If our rice plants could grow well, they could perhaps better 
+resist the virus.” (personal interview, 3 November 2017). 
+Amidst efforts to introduce modernist toolkits in managing water 
+irrigation systems, several local farmers in Thai Binh have attempted to 
+assert their local knowledges and adaptation practices in their own 
+ways. A number of farmers have continued with their traditional prac-
+tices that involved constant listening and communicating with the river, 
+other non-human entities, and the sluice gates. For instance, in one of 
+the conversations we had with a sluice controller in the Quoc Tuan 
+commune of Thai Binh, he explained how he has been able to success -
+fully control the sluice gates for over forty years and has no plans of 
+letting go of this practice. By looking at the water ’s ebbs and flows based 
+on the folk tide schedule, he has been able to make a near-accurate es-
+timate of how long it would take for the salt water to reach his sluice 
+gates. Additionally, netting specific varieties of shrimps or fishes at a 
+particular spot in the river allows him to estimate how far away the salt 
+water is from his hamlet. He can then set the time to appropriately open 
+the sluice gate for getting fresh water and close it right before the saline 
+water comes closer. This manual and traditional, yet time-tested 
+method, ensures that there is enough fresh water for the local paddy 
+fields in the dry season. 
+The local farmers also continue to follow decades-old ILK in planting 
+and growing rice despite the local authorities ’ efforts to replace them 
+with modern methods. Their farming processes involve using their or-
+dinary senses and their embodied knowledges accumulated over the 
+years. For instance, they can see changes in soil texture, structure, and 
+fertility through their sense of touch, such as a hard setting soil as an 
+indicator of poor soil quality. They can even assess the acidity of the rice 
+fields by looking at their fingernails after handling the soil (e.g., yellow 
+indicates high acidity). Farmers then respond accordingly by adjusting 
+their actions such as manually increasing soil organic matters to 
+decrease hardsetting in soil and draining out current water then irri-
+gating fresh water to decrease acidity levels. Aside from adapting their 
+actions to the things they observe from around them, farmers also 
+explicitly signify the importance of non-humans through their persis -
+tence in practicing farming rituals such as the ‘Lễ cúng cơm lúa m˘o’i’. 
+This custom involves farmers offering their first and fresh bowl of rice 
+harvest to their ancestors and their gods to show their gratitude and 
+mutual relationship with nature and other entities (Nguyen, 2011 ). By 
+engaging attentively and bodily to the non-human worlds despite being 
+labelled as superstitious, Thai Binh farmers are thus continuing on with 
+their adaptation practices that are existing in their community for 
+decades. 
+4.3. Absences and adaptation strategies in Basey, Philippines 
+Our third case study discusses the ways that the ILKs of the 
+Mamanwas Indigenous peoples of Basey, Philippines have been mar-
+ginalised and how these have nevertheless been retained, practiced, and 
+passed on to the next generations. The Mamanwas as an Indigenous 
+group claim to experience a silencing of their ILK when engaging with 
+the non-Indigenous residents of the town. The Mamanwas consider 
+themselves closely attached to their natural environment and sensitive 
+to changes in their surroundings. They have developed weather moni -
+toring systems that help them predict incoming storms, including 
+Typhoon Haiyan, one of the most powerful typhoons to hit the Philippines in November 2013 which left 8,000 people dead or missing, 
+and displaced at least four million residents (LeComte, 2014 ). One of the 
+Mamanwas interviewed explained that two weeks prior to the arrival of 
+Typhoon Haiyan, “our elders were given an omen by our gods that a 
+dangerous and potentially deadly event will occur ” (personal interview, 10 
+March 2019). This warning prompted them to build their kurob , a 
+traditional hut that serves as protective shelter during typhoons. They 
+also tried to warn other residents in the municipality about the 
+impending typhoon, but they were only made fun of and ridiculed. The 
+non-Indigenous residents claimed that they only believed what they 
+heard it from the daily weather news report. This discriminatory expe-
+rience heightened the Mamanwas ’ sense of distance towards other cul-
+tural groups in the area, and increased their perception that they are 
+discriminated against because of their ILK. According to one of the 
+Mamanwas : 
+“This unpleasant experience has prompted us to just focus on ourselves 
+since sharing our ILK- which we value- is futile because most non- 
+Indigenous residents just think of it as a joke” (personal interview, 10 
+March 2019). 
+While the Mamanwas readily blame the behaviour of non-Indigenous 
+residents of Basey, we argue that these general preference for scientific 
+knowledge over ILK on climate disasters is one of the ways in which 
+coloniality has seeped through and proliferated in the daily lives of 
+many Filipinos. 
+Apart from a privileging of Eurocentric views that sidelines the 
+Mamanwas ’ ILK, we also observe a strict formulation of linear time that 
+associates the past as a discriminatory signifier of development delay 
+within Basey. This is made evident by the rendering of Mamanwas ’ ILK 
+and warning systems as backward and superstitious by the Disaster Risk 
+Reduction and Management (DRRM) ‘experts ’ and ‘scientists ’ in both 
+local (i.e., in Basey) and national government agencies (i.e. in Eastern 
+Visayas). According to a disaster risk reduction officer, there have been 
+multiple failed attempts in lobbying and integrating ILK in various local 
+disaster risk reduction and climate change adaptation dialogues and 
+consultative meetings. He claims that only the ‘researchers ’ and ‘ex-
+perts ’ from the national government are often heard during the quar-
+terly meetings of the Disaster Risk Reduction and Management 
+Interagency Technical Working Group (DRRM IATWG) of Eastern 
+Visayas. He attests that the technical working group privileges ‘evi-
+dence-based ’ and ‘scientific knowledge ’, labelling other forms of 
+knowledge held by Indigenous people as ‘unreliable ’ and ‘old-school ’. 
+He aptly pointed this argument by saying that: 
+“it is as if Indigenous peoples ’ ILK in relation to DRRM and climate 
+change are inferior or useless even though these knowledge systems have 
+kept them safe from hazards for generations ” (personal interview, 27 
+June 2020). 
+However, despite the apparent underappreciation of alternative 
+forms of knowledge, some community-led initiatives are present among 
+the Mamanwas . These were born as reactions and a form of local resis-
+tance to the privileging of Eurocentric and modernist solutions often 
+promoted in climate adaptation policies and programmes in Basey. We 
+will focus on two of these here. 
+First is at the community level which focuses on the deliberate and 
+active co-learning activities among elderly and young Mamanwas . Ac-
+cording to their Chieftain, their Typhoon Haiyan experience and other 
+hazards that followed it are the primary catalysts for prompting their 
+community to share their knowledge actively. One elder said that: “It’s 
+vital that we share our ILK to the young members of our community because 
+hazards are becoming stronger and more frequent ” (personal interview, 10 
+March 2019). The community learning activities are done twice a month 
+in their communal hut (Appendix 3). They gather the youth and children 
+to share their traditional knowledge such as how to read the movements 
+of the wind and interpret the noises of insects and movements of animals 
+which may signal impending hazards. They also share their ILK such as J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+8how to read the movements of the wind and interpret the noises of in-
+sects and movements of animals which may signal impending hazards. 
+They also share their Indigenous practice of hazard-induced evacuation 
+and weather forecasting. As a subsistence farming community, they also 
+have an Indigenous calendar that they follow in terms of planting and 
+harvesting rice and other crops (Cuaton & Su, 2020) which they actively 
+teach to young Mamanwa farmers. 
+In this communal sharing of ILK, they also discuss the importance of 
+their religious belief systems in interpreting catastrophic calamities. 
+Banking on religious beliefs, Mamanwas consider catastrophic hazards 
+as Magbabadja’s (a genderless God that controls the environment and 
+people’s fate) warning and punishment for humanity’s multiple and 
+unbearable sins, such as never-ending human conflicts and increasing 
+environmental degradation, among others. These disastrous events, they 
+believe, serve as reminders to repent for these sins and to live a better 
+life that balances the use of natural resources for human’s daily needs 
+and the protection of the environment for human’s continuous survival 
+in the future. The elders shared that these lessons are integrated into 
+their members’ everyday lives through the “way they live”- for example, 
+their peaceful and strong bonding ties (Cuaton & Su, 2023), and their 
+practice of just taking or consuming enough so that others may also be 
+able to live and survive (Cuaton & Su, 2020). 
+At the national level, social workers from the Department of Social 
+Welfare and Development (DSWD) have devised ways to integrate 
+Mamanwas’ ILK into their programmes. For example, the Family 
+Development Officer of DSWD has shared that their office has made 
+efforts to document some of the Mamanwas’ ILK particularly those 
+involved in predicting local weather patterns. Additionally, following 
+their experience from typhoon Haiyan, Mamanwas have been actively 
+and consciously co-producing learning activities together with the other 
+Indigenous groups of the Eastern Visayas region. These groups are 
+involved in the co-creation of the ‘Community and Family Development 
+Module for Indigenous Peoples (IPs)’ under the Pantawid Pamilyang 
+Pilipino Program (4Ps) of the Philippine government. This module is 
+written in local and Indigenous languages and consists of general and 
+overlapping topics on human rights, Indigenous peoples’ rights, chil-
+dren’s rights and health, and children’s protection in times of emer -
+gencies and hazards. The local social workers in Eastern Visayas have 
+integrated some of the climate change-related traditional knowledges of 
+Indigenous groups in this Learning Module. 
+4.4. Absences and adaptive strategies in Philippine Post-Disaster housing 
+Our fourth case study interrogates to what extent local and tradi-
+tional materials like bamboo have been used in post-disaster housing 
+projects in the Philippines. We observe that there is a widespread 
+privileging of reinforced concrete for building typhoon-resilient houses 
+across the Philippines (Venable et al., 2020). Modern concrete is 
+considered a go-to construction material because it is seen as strong and 
+durable, while plant-based materials are outright thought to be inferior 
+because they are prone to deterioration from moisture and pest attacks 
+(Mehta & Monteiro, 2006). For example, Venable et al. (2020) argue 
+that many Filipino families from typhoon-affected provinces perceive 
+that their shelter is safe from typhoons if they are built with concrete and 
+less secure if they are made with wooden materials and other plant- 
+based inputs like coconut lumber and woven bamboo. Yet evidence is 
+increasingly supporting traditional construction as ideal because it 
+makes the ethical negotiations around them visible and helps make 
+Indigenous building skills and techniques become active and accessible 
+for future generations to cultivate (Gibson-Graham et al., 2016). 
+Aside from privileging concrete, the Philippine post-disaster housing 
+as a sector is marked by linear imperatives of temporality and progress. 
+The Philippines has a long history of building houses with Indigenous 
+plant-based materials (e.g., nipa, cogon, bamboo), but this practice had 
+begun to change during colonial occupation (Lico, 2008). The Spanish 
+colonisers saw plant-based materials as a fire hazard especially in dense urban areas and had to be separated from structures made from stone 
+(Huetz de Lemps, 1998). The Spaniards then introduced the bahay na 
+bato (stone house) architecture. Its lower floor was made with masonry 
+stones to create a strong base against earthquakes and to address the 
+concerns related to the flammability of light materials, while the upper 
+floor enrolled timber and other plant-based inputs (Lico, 2008). These 
+houses were mainly owned by Filipino elites while ordinary families live 
+in traditional bahay kubo (Nipa Hut). During the American colonial 
+years, modern building materials such as steel-reinforced concrete 
+became in fashion. Government buildings, schools, and commercial 
+spaces were built using concrete, materialising a kind of American 
+modernity based on the US benevolent assimilation policy (Lico, 2008). 
+Up until today, Jimenez and Natividad (2019, p. 21) contend that 
+bamboo is only widely used in rural agricultural areas and are 
+commonly considered as a ‘poor man’s timber’. 
+The priority given to concrete over light materials such as bamboo 
+contributes to a host of environmental concerns related to its heavy 
+embodied energy and highly extractive nature of production. Cement 
+production uses as much as 9 % of global industrial energy (Richards & 
+Agranovski, 2015) and emits from about 5 % to 7 % of global carbon 
+emissions (Li et al., 2013). Concrete also requires the mining of other 
+mineral inputs (e.g., silica, iron, alumina, gypsum, and lime for cement 
+manufacturing; aggregate such as sand and gravel to strengthen con-
+crete and provide volume stability; and iron ore and coal for 
+manufacturing steel reinforcement) (Mindess et al., 2003). The unsus -
+tainable intensification and expansion of quarries also contribute to the 
+decline of arable lands and forested areas, losing their potential of 
+functioning as a carbon sink (Akanwa et al., 2017). Concrete is rein-
+forced with steel to make it stronger, but this process does not make it 
+immune to damage. Without proper repair and maintenance, steel 
+reinforcement is prone to corrosion and the build-up of rust and iron 
+oxide in the material can contribute to concrete cracking (Mehta & 
+Monteiro, 2006). The production of concrete is also implicated in pre-
+carious and often illegal artisanal and small-scale mining of construction 
+stones (Placino & Gibson, 2022). We assert that a climate-adaptive 
+building design must not only consider the material inputs and struc-
+ture of a building, but also the broader economic and ecological con-
+nections they make along the upstream and downstream supply chain, 
+thus putting front-and-centre the socio-technical dimensions of climate- 
+adaptive construction designs. 
+To help push back against the domination of concrete in disaster- 
+resilient housing, an NGO called Base Bahay has begun redefining op-
+portunities from bamboo’s material properties and mainstreaming its 
+benefits. Through the Base Innovation Center, local builders, some of 
+which are actual recipients of their housing project, were trained in 
+building with bamboo (i.e., Bambusa Blumeana [kawayang tinik] and 
+Dentrocalamus Asper [botong or giant bamboo]) as structural frames for 
+walls and roof (Ong, 2021). In the process, bamboo’s good quality 
+tensile strength becomes highlighted as comparable to wood and steel 
+(Hebel et al., 2015). In particular, Base Bahay has engineered their 
+bamboo frames to provide flexibility and strength against typhoon 
+winds of about 220 km per hour and 6.4 magnitude earthquake (Base 
+Bahay, n.d.). The bamboo frames are encased in a metallic mesh and 
+covered with thin layer of cement plaster to help protect them from the 
+rain. They are also elevated from the ground using a concrete foundation 
+to prevent flood and soil moisture seeping in. As of 2016, 226 units (52 
+in Metro Manila, 94 in Iloilo, 77 in Tacloban, and 3 test houses in Albay) 
+for at least 147 families had been built by the organisation (Hilti 
+Foundation, n.d.). Base Bahay also ensures that their local partners have 
+been consulted about the design of the cement-bamboo frame housing so 
+that the latter is made capable to undertake repair and maintenance of 
+their houses in the long-term (Base Bahay, n.d.). This socio-technical 
+intervention and other similar building innovations have helped push 
+the building governance in the Philippines to become responsive in 
+accrediting them as an alternative to mainstream house building system 
+and in promoting the viability and adoption of these new technologies J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+9for future low-cost housing projects (National Housing Authority, 2021). 
+Lastly, Base Bahay helps combat the progressivist mode of futurity in 
+Philippine post-disaster housing by making bamboo more relevant to the 
+needs of contemporary Filipino households. They help ensure that the 
+cultivation of bamboo does not only contribute to the building industry 
+but also become responsive to the livelihoods of both humans and Earth 
+others. They emphasise the opportunities for the local economy of 
+bamboo, being abundant and fast growing in tropical countries like the 
+Philippines (Roxas, 2012). The use of bamboo helps in lessening the 
+amount of imported steel to be used in buildings, thus lowering the cost 
+from such an expensive material (Hebel et al., 2015). The bamboo stems 
+(culms) enrolled in building Base Bahay projects are planted by farming 
+communities in Batangas and Negros Occidental. Bamboo cultivation in 
+these areas create additional livelihoods and therefore source of income 
+for workers, such as those who dry and treat/process the bamboo culms 
+to avoid insect infestation and moulding. In addition, bamboo forests 
+serve as a carbon sink, help mitigate soil erosion, and provide a habitat 
+for different species (Yuen et al., 2017). In this example, bamboo in-
+novations, such as the way it was utilised by Base Bahay, act as versatile 
+building material that decentres a singularity of steel-reinforced con-
+crete construction in local Philippines housing industry. Lastly, bamboo 
+also acts as a generator of diverse livelihoods for both humans and Earth 
+others as an approach for building sustainably and equitably in a 
+climate-changing world. 
+5.Discussion and conclusion 
+This paper engages in a reframing of climate change adaptation, 
+drawing on the lived experiences of our case study communities in Fiji, 
+Vietnam, and the Philippines. It seeks to contribute to DCAS, an 
+“ongoing ethical and political project that seeks to analyse and rethink 
+the world from the perspective of Indigenous and other colonised peo-
+ples” (Johnson et al., 2021, p. 4). The paper involves two key analytical 
+‘moments’: one where it identifies instances where institutions and 
+groups have worked to silence, suppress, or render invisible locally 
+based adaptation practices, and another where it articulates diverse 
+knowledges and practices the residents are already engaged in to adapt 
+to climate change. In doing so, we attempt to respond to Tuck and 
+Yang’s (2012) call to move beyond the metaphorical use of the term 
+‘decolonisation’ by foregrounding the many place-based approaches 
+that are often overlooked and downplayed within mainstream climate 
+adaptation scholarship. 
+Our four case studies highlight how ILK and relationships with other 
+species and ecosystems tend to be overlooked and suppressed in adap-
+tation policy and practice. We see three different monocultures or pro-
+cesses that contribute to this omission: (1) privileging mainstream and 
+scientific ways of knowing, (2) linear and progressivist timelines that 
+associate the future with progress, and (3) pursuit of growth and market 
+driven responses to climate change. We provide a summary of the 
+different types of silencing encountered across our case studies that 
+contribute to the marginalisation of ontologies and epistemologies of the Global South (Table 1). 
+We observe a theme running through the four case studies based on 
+concrete, not only as an infrastructure but also as a metaphor for the 
+rigidity and fixity of mainstream approaches to adaptation that depend 
+on Eurocentric knowledge systems alone. We not only see the prolifer -
+ation of concrete-based infrastructure such as those in the modern 
+houses in Fiji or in the post-disaster houses in the Philippines; we also 
+see a preference given to concrete knowing such as the promotion of 
+scientific toolkits for managing irrigation systems in Thai Binh and for 
+making weather predictions for the non-Indigenous neighbours of the 
+Mamanwas in Samar. We argue that adaptation strategies that mainly 
+rely on Eurocentric and modernist rationalities tend to favour concrete 
+infrastructures and concrete forms of knowing, and that these do not 
+work well with the current uncertainties of future climate change 
+impacts. 
+Such pre-occupation with concrete leads to the suppression of ILK 
+and adaptation strategies, which in turn, results to increased vulnera -
+bilities and marginalisation of our case study communities. For instance, 
+the building of modern houses to flood-proof Nawi village in Fiji has 
+resulted to more flooding and the eventual destruction of totem plants 
+that have high cultural and spiritual significance. In Thai Binh, local 
+authorities’ efforts to promote aggressive farming techniques eventually 
+led to an increase in the incidence of plant disease and a decrease in 
+farmers’ yield. In Basey, the Mamanwas are looked down upon and 
+disrespected for their traditional beliefs, resulting to their disenfran -
+chisement, and perception of being left out of the wider community. 
+These lived experiences suggest that some of the adaptation-related and 
+development-oriented interventions meant to assist local communities 
+are, in fact, creating new or exacerbating their pre-existing vulnerabil -
+ities to climate and hazard risks. 
+However, in this research, we go beyond framing our case study 
+communities as helpless victims of climate risks. Our case studies 
+illustrate Indigenous and local people’s agency — that there are diverse 
+ways in which they understand, manage, and respond to climate change. 
+We find that communities are attempting to shape policy and planning 
+responses to climate change. For instance, Thai Binh farmers continue to 
+follow decades-old ILK in planting and growing rice despite attempts of 
+local authorities to introduce modern farming techniques. Similarly, 
+Base Bahay is working to revolutionise housing construction in the 
+Philippines by actively promoting the benefits of using bamboo as a 
+mainstream construction material. Its efforts are starting to bear fruit as 
+bamboo has recently been accredited by the national government as one 
+of the reliable and sustainable building materials in the country. These 
+examples contest existing framings of vulnerability in the literature and 
+instead assert people’s resilience and adaptive capacities that draw upon 
+ILK, practices, and materials (Makondo & Thomas, 2018; Nursey-Bray 
+et al., 2020). 
+In addition, our findings challenge popular discourses that dismiss 
+traditional and Indigenous forms of adaptation as backward and inef-
+fective (Smith, 2007). We stress that people’s ILK are actually assets that 
+assist them in better adapting to climate change. For example, the 
+Table 1 
+Summary of the absences experienced and the adaptation initiatives of local communities across the four case study sites.  
+Case Study Types of Absences Emergences 
+1: Nawi Village, Fiji Undervaluation of ILK and adaptation 
+strategies in the formal education 
+system Prioritisation of growth oriented and 
+market driven solutions Passing on local knowledge through various mediums (talanoa, chants, 
+stories, etc.); ‘Healing the Land’; Re-planting trees and mangroves  
+2: Thai Binh, 
+Vietnam Promotion of scientific toolkits for 
+managing water irrigation systems Regarding traditional farming practices 
+as underdeveloped and backward Asserting traditional water irrigation practices; Being sensitive and 
+attentive to non-humans and other entities; Continuing the practice of 
+cultural rituals 
+3: Basey, 
+Philippines Privileging scientific and evidence- 
+based ways of knowing Rendering ILK as superstitious and 
+unreliable Inter-generational community learning activities; Sharing of 
+traditional ecological knowledges; Integration of Indigenous 
+perspectives into local government programmes 
+4: Post-Disaster 
+Housing, 
+Philippines Preference for concrete in post- 
+disaster housing Seeing traditional housing materials, 
+such as bamboo, as inferior and of lower 
+quality Promotion and incorporation of bamboo in Base Bahay’s housing 
+projects; Advocating for the accreditation of bamboo in government 
+housing projects; Innovating construction applications of bamboo  J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+10traditional weather monitoring system of the Mamanwas in Basey helped 
+them prepare for typhoon Haiyan weeks before it hit their community. 
+Moreover, Indigenous agricultural knowledge and techniques among 
+the residents of Nawi did not only heal their land from the adverse ef-
+fects of logging, but they also helped cultivate and grow climate resilient 
+crops. These empirical examples and lived experiences of our case study 
+communities support the marginal, yet critical and vital body of schol -
+arly works that assert the value of ILK, and ways they help societies 
+adapt and thrive in a wide range of environmental risks and hazards 
+(Ford et al., 2020; McNamara & Prasad, 2014 ). 
+Finally, our empirical findings highlight that there is more to climate 
+change adaptation apart from its technocratic, concrete-oriented, and 
+‘science ’-dominated framings. In this paper, we show that effective 
+adaptation strategies can also emanate from unexpected and peculiar, 
+yet ‘working ’ practices, such as being attentive and responsive to other 
+species and ecological processes (as shown in Thai Binh, Vietnam), or 
+through a children ’s game of throwing mangrove seed pods into the 
+river (as shown in Nawi, Fiji), or by living simply as inculcated by the 
+Mamanwa elders to their children (as shown in Basey, Philippines). We 
+stress that a decolonial approach to climate adaptation moves away 
+from needing concrete(ness) to listening and adapting with awareness 
+and openness to other forms of knowing and being (Cameron et al., 
+2014; Hill, 2014 ). Like Lopes et al. (2018) , we contend that there is a 
+need to focus less on hard infrastructures or modernist devel -
+opmentalism and to hone in more on inventorying and building on the 
+diverse range of adaptation strategies that already exist within 
+communities. 
+In summary, there is much to learn from traditional and Indigenous 
+approaches to climate change adaptation in the Global South particu -
+larly in terms of adaptive practices, materials, and dispositions that 
+resist the concrete – both literally and metaphorically. We identify three 
+lessons that our case studies offer for the adaptation industry. First is the 
+need to recognise that the legacies of imperial violence from colonial 
+eras live on (Sultana, 2022 ) and that promoting recovery and healing 
+from on-going systemic injustices is critical. Second is the need to 
+highlight the important role that ILK play in facilitating peoples ’ adap-
+tive capacities to climate change. More effective adaptation plans and 
+policies can be generated from diverse epistemologies, ontologies, and 
+approaches (Goldman et al., 2018 ). Third is the need to go beyond 
+technical fixes that limit our imagination and narrow potential adap-
+tation responses (Nightingale et al., 2020 ). A greater exploration of 
+diverse pathways to adaptation that create openings for alternative 
+possibilities is urgently needed. Moving forward, we believe that there 
+ought to be a place for learning from such traditional and Indigenous knowledges and practices to guide climate change adaptations, not just 
+in these communities but more broadly. 
+CRediT authorship contribution statement 
+Justin See: Conceptualization, Formal analysis, Investigation, 
+Methodology, Project administration, Supervision, Writing – original 
+draft, Writing – review & editing. Ginbert Permejo Cuaton: Formal 
+analysis, Methodology, Validation, Writing – original draft, Writing – 
+review & editing. Pryor Placino: Formal analysis, Methodology, Vali-
+dation, Writing – original draft, Writing – review & editing. Suliasi 
+Vunibola: Formal analysis, Investigation, Methodology, Validation, 
+Writing – original draft, Writing – review & editing. Huong Do Thi: 
+Formal analysis, Investigation, Validation, Writing – original draft, 
+Writing – review & editing. Kelly Dombroski: Conceptualization, 
+Formal analysis, Writing – original draft, Writing – review & editing. 
+Katharine McKinnon: Conceptualization, Formal analysis, Writing – 
+original draft, Writing – review & editing. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+Acknowledgements 
+The authors would like to thank the organisers and participants of 
+the Liviana II Online Conference for the opportunity to connect and 
+share our current research on climate change adaptation. We are also 
+grateful to the members of Community Economies Research Network 
+(CERN) and CERN-Asia for the valuable comments and feedback. The 
+authors would also like to thank the anonymous reviewers for the 
+helpful feedback on an earlier draft. 
+Funding 
+This research did not receive any specific grant from funding 
+agencies in the public, commercial, or not-for-profit sectors.  
+Appendices 
+ 
+J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+11Appendix 1: A photo taken of ‘Healing the Land ’ programme showing tei veicurumaki (multicropping farming technique) in Nawi, Fiji 
+Source: SV. 
+  
+Appendix 2: Some of the sluice gates in Thai Binh, Vietnam 
+Source: HTD. 
+Appendix 3: A communal hut of the Mamanwas in Basey, Philippines 
+Source: GPC. 
+References 
+Adam, B. (1998). Timescapes of modernity: The environment and invisible hazards . 
+Routledge, 10.4324/9780203981382 . 
+Akanwa, A. O., Okeke, F. I., Nnodu, V. C., & Iortyom, E. T. (2017). Quarrying and its 
+effect on vegetation cover for a sustainable development using high-resolution 
+satellite image and GIS. Environmental earth sciences, 76(14), 1–12. https://doi.org/ 
+10.1007/s12665-017-6844-x 
+Akıncı, Z. S., Bilgen, A., Casellas, A., & Jongerden, J. (2020). Development through 
+design: Knowledge, power, and absences in the making of southeastern Turkey. 
+Geoforum, 114, 181–188. https://doi.org/10.1016/j.geoforum.2020.06.011 
+Asian Development Bank. (2014). Technologies to Support Climate Change Adaptation in 
+Developing Asia. https://www.adb.org/sites/default/files/publication/149400/ 
+technologies-climate-change-adaptation.pdf. 
+Atteridge, A., & Remling, E. (2018). Is adaptation reducing vulnerability or redistributing 
+it? Wiley Interdisciplinary Reviews. Climate Change, 9(1), 1–16. https://doi.org/ 
+10.1002/wcc.500 
+Bankoff, G. (2001). Rendering the world unsafe: ‘Vulnerability ’ as western discourse. 
+Disasters, 25(1), 19–35. https://doi.org/10.1111/1467-7717.00159 
+Bankoff, G. (2019). Remaking the world in our own image: Vulnerability, resilience and 
+adaptation as historical discourses. Disasters, 43(2), 221–239. https://doi.org/ 
+10.1111/disa.12312 
+Base Bahay. (n.d.). Socialized housing made sustainable. [PowerPoint Slides] . 
+Bastian, M. (2009). Inventing nature: re-writing time and agency in a more-than-human 
+world. Australian Humanities Review, 47(47), 99–116. https://doi.org/10.22459/ 
+AHR.47.2009.10 
+Bennett, H. (2014). Health and equity impacts of climate change in Aotearoa-New 
+Zealand, and health gains from climate action. New Zealand Medical Journal, 127 
+(1406), 16–31. Bond, P. (2012). Politics of climate justice: Paralysis above, movement below . University of 
+Kwazulu-Natal Press .  
+Bordner, A. S., Ferguson, C. E., & Ortolano, L. (2020). Colonial dynamics limit climate 
+adaptation in Oceania: Perspectives from the Marshall Islands. Global Environmental 
+Change, 61. https://doi.org/10.1016/j.gloenvcha.2020.102054 , 102054-102010. 
+Bruun, J. A. (2018). Climate changing civil society: the role of value and knowledge in 
+designing the Green Climate Fund. In S. Bracking, A. Fredriksen, S. Sullivan, & 
+P. Woodhouse (Eds.), Valuing Development, Environment and Conservation: Creating 
+Values that Matter . Routledge. https://doi.org/https://doi.org/10.4324/ 
+9781315113463 . 
+Cagivinaka, V. (2016). Reorienting education and indigenous Fijian ecological 
+knowledge: An analysis of indigenous Fijian students ’ traditional ecological 
+knowledge of environmental sustainable practices. International Journal of 
+Educational Research and Development, 5(1), 10–18. 
+Cameron, E. S. (2012). Securing Indigenous politics: A critique of the vulnerability and 
+adaptation approach to the human dimensions of climate change in the Canadian 
+Arctic. Global Environmental Change, 22(1), 103–114. https://doi.org/10.1016/j. 
+gloenvcha.2011.11.004 
+Cameron, J., Gibson, K., & Hill, A. (2014). Cultivating hybrid collectives: Research 
+methods for enacting community food economies in Australia and the Philippines. 
+Local Environment, 19(1), 118–132. https://doi.org/10.1080/ 
+13549839.2013.855892 
+Chapman, A. D., Darby, S. E., Hồng, H. M., Tompkins, E. L., & Van, T. P. D. (2016). 
+Adaptation and development trade-offs: Fluvial sediment deposition and the 
+sustainability of rice-cropping in An Giang Province, Mekong Delta. Climatic Change, 
+137(3–4), 593–608. https://doi.org/10.1007/s10584-016-1684-3 
+Chisholm Hatfield, S., Marino, E., Whyte, K. P., Dello, K. D., & Mote, P. W. (2018). Indian 
+time: Time, seasonality, and culture in Traditional Ecological Knowledge of climate 
+change. Ecological Processes, 7(1), 1–11. https://doi.org/10.1186/s13717-018-0136- 
+6 J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+12Christoplos, I., Ngoan, L. D., Sen, L. T. H., Huong, N. T. T., & Lindegaard, L. S. (2017). 
+The evolving local social contract for managing climate and disaster risk in Vietnam. 
+Disasters, 41(3), 448–467. https://doi.org/10.1111/disa.12215 
+Climate Change Commission of the Philippines. (2011). National Climate Change Action 
+Plan (NCCAP) 2011-2028. https://climate.emb.gov.ph/wp-content/uploads/2016/ 
+06/NCCAP-1.pdf. 
+Cooper, F. (1997). Modernizing bureaucrats, backward Africans, and the development 
+concept. In International development and the social sciences: Essays on the history and 
+politics of knowledge (pp. 64–92). 
+Cuaton, G. P., & Su, Y. (2020). Local-indigenous knowledge on disaster risk reduction: 
+Insights from the Mamanwa indigenous peoples in Basey, Samar after Typhoon 
+Haiyan in the Philippines. International Journal of Disaster Risk Reduction, 48, Article 
+101596. https://doi.org/10.1016/j.ijdrr.2020.101596 
+Cuaton, G. P., & Su, Y. (2023). Potentials and pitfalls of social capital ties to climate 
+change adaptation: An exploratory study of Indigenous Peoples in the Philippines. 
+Third World Quarterly, 44(7), 1565–1585. https://doi.org/10.1080/ 
+01436597.2023.2197204 
+Dados, N., & Connell, R. (2012). The Global South. Contexts, 11(1), 12–13. https://doi. 
+org/10.1177/1536504212436479 
+Davison, A. (2015). Beyond the Mirrored Horizon: Modern Ontology and Amodern 
+Possibilities in the Anthropocene: Beyond the Mirrored Horizon. Geographical 
+Research, 53(3), 298–305. https://doi.org/10.1111/1745-5871.12123 
+De Leon, E. G., & Pittock, J. (2017). Integrating climate change adaptation and climate- 
+related disaster risk-reduction policy in developing countries: A case study in the 
+Philippines. Climate and Development, 9(5), 471–478. https://doi.org/10.1080/ 
+17565529.2016.1174659 
+Department of Agriculture and Rural Development. (2011). The report on operation of the 
+agriculture and rural development sector in 2011, and directions and tasks for 2012 in 
+Thai Binh province. 
+Deranger, E. T., Sinclair, R., Gray, B., McGregor, D., & Gobby, J. (2022). Decolonizing 
+Climate Research and Policy: Making space to tell our own stories, in our own ways. 
+Community Development Journal, 57(1), 52–73. https://doi.org/10.1093/cdj/ 
+bsab050 
+Do, T. H., & Dombroski, K. (2022). Diverse more-than-human approaches to climate 
+change adaptation in Thai Binh, Vietnam. Asia Pacific Viewpoint, 1–15. https://doi. 
+org/10.1111/apv.12329 
+Dombroski, K., & Thi Do, H. (2019). The affect of effect: Affirmative political ecologies in 
+monitoring climate change adaptation interventions. Nordia Geographical 
+Publications, 47(5). 
+Eriksen, S., Schipper, E. L. F., Scoville-Simonds, M., Vincent, K., Adam, H. N., Brooks, N., 
+… West, J. J. (2021). Adaptation interventions and their effect on vulnerability in 
+developing countries: Help, hindrance or irrelevance? World Development, 141, 
+Article 105383. https://doi.org/10.1016/j.worlddev.2020.105383 
+Escobar, A. (1995). Encountering Development: The Making and Unmaking of the Third 
+World. Princeton University Press.  
+Escobar, A. (2018). Designs for the Pluriverse: Radical Interdependence, Autonomy, and the 
+Making of Worlds. Duke University Press.  
+Escobar, A. (2020). Pluriversal Politics: The Real and the Possible. Duke University Press.  
+Farrelly, T., & Nabobo-Baba, U. (2014). Talanoa as empathic apprenticeship. Asia Pacific 
+Viewpoint, 55(3), 319–330. https://doi.org/10.1111/apv.12060 
+Fisher, S. (2015). The emerging geographies of climate justice. Geographical Journal, 181 
+(1), 73–82. https://doi.org/10.1111/geoj.12078 
+Ford, J. D., King, N., Galappaththi, E. K., Pearce, T., McDowell, G., & Harper, S. L. 
+(2020). The resilience of indigenous peoples to environmental change. One Earth 
+(Cambridge, Mass.), 2(6), 532–543. https://doi.org/10.1016/j.oneear.2020.05.014 
+Gaillard, J. C. (2010). Vulnerability, capacity and resilience: Perspectives for climate and 
+development policy. Journal of International Development, 22(2), 218–232. https:// 
+doi.org/10.1002/jid.1675 (Journal of International Development) 
+Gaillard, J. C. (2019). Disaster studies inside out. Disasters, 43(S1), S7–S17. https://doi. 
+org/10.1111/disa.12323 
+Gaillard, J. C., Sanz, K., Balgos, B. C., Dalisay, S. N. M., Gorman-Murray, A., Smith, F., … 
+a.. (2017). Beyond men and women: A critical perspective on gender and disaster. 
+Disasters, 41(3), 429–447. https://doi.org/10.1111/disa.12209 
+Gibson, K., & Hill, A. (2022). Living with flux in the Philippines: Negotiating collective 
+well-being and disaster recovery. Asia Pacific Viewpoint, 63(1), 126–137. https://doi. 
+org/10.1111/apv.12334 
+Gibson-Graham, J. K. (1996). The End of Capitalism (as we knew it): A Feminist Critique of 
+Political Economy. Blackwell Publishers.  
+Gibson-Graham, J. K. (2006). A Postcapitalist Politics. University of Minnesota Press.  
+Gibson-Graham, J. K. (2008). Diverse economies: Performative practices for other 
+worlds. Progress in Human Geography, 32(5), 613–632. https://doi.org/10.1177/ 
+0309132508090821 
+Gibson-Graham, J. K., Cameron, J., & Healy, S. (2013). Take Back the Economy: An 
+Ethical Guide for Transforming Our Communities. University of Minnesota Press. 
+https://doi.org/10.5749/minnesota/9780816676064.001.0001 
+Gibson-Graham, J. K., Hill, A., & Law, L. (2016). Re-embedding economies in ecologies: 
+Resilience building in more than human communities. Building Research and 
+Information : The International Journal Of Research, Development And Demonstration, 
+44(7), 703–716. https://doi.org/10.1080/09613218.2016.1213059 
+Gibson-Graham, J. K. (2005). Surplus Possibilities: Postdevelopment and Community 
+Economies. Singapore Journal of Tropical Geography, 26(1), 4–26. https://doi.org/ 
+10.1111/j.0129-7619.2005.00198.x 
+Goldman, M. J., Turner, M. D., & Daly, M. (2018). A critical political ecology of human 
+dimensions of climate change: Epistemology, ontology, and ethics. Wiley 
+Interdisciplinary Reviews. Climate Change, 9(4), e526-n/a. https://doi.org/10.1002/ 
+wcc.526 Grosfoguel, R. (2009). A decolonial approach to political-economy: Transmodernity, 
+border thinking and global coloniality. Kult, 6(1), 10–38. 
+Hebel, D. E., Heisel, F., Javadian, A., Wielopolski, M., & Schlesier, K. (2015). 
+Constructing bamboo: Introducing an alternative for the construction industry. FCL 
+Magazine Special Issue, 10–21. 
+Hill, A. (2014). Moving from “matters of fact” to “matters of concern” in order to grow 
+economic food futures in the Anthropocene. Agriculture and Human Values, 32(3), 
+551–563. https://doi.org/10.1007/s10460-014-9576-5 
+Hilti Foundation. (n.d.). Social responsibility—for a strong society. . http://www.hilti- 
+companyreport-2015.com/en/social-responsibility. 
+Howitt, R. (2020). Decolonizing People, Place and Country: Nurturing Resilience across 
+Time and Space. Sustainability (Basel, Switzerland), 12(15), 5882. https://doi.org/ 
+10.3390/su12155882 
+Huetz de Lemps, X. (1998). Materiales ligeros vs. materiales fuertes: The conflict 
+between nipa huts and stone buildings in 19th-century Manila. The Philippine 
+revolution and beyond: Papers from the international conference on the centennial of the 
+1896 Philippine Revolution (Vol. 1,, 160–172. 
+Ireland, P., & McKinnon, K. (2013). Strategic localism for an uncertain world: A 
+postdevelopment approach to climate change adaptation. Geoforum, 47, 158–166. 
+https://doi.org/10.1016/j.geoforum.2013.01.005 
+Janca, A., & Bullen, C. (2003). The Aboriginal concept of time and its mental health 
+implications. Australasian Psychiatry : Bulletin of the Royal Australian and New Zealand 
+College of Psychiatrists, 11(s1), S40–S44. https://doi.org/10.1046/j.1038- 
+5282.2003.02009.x 
+Jimenez, J. J. P., & Natividad, R. A. (2019). Development of Arc-Laminated Bamboo 
+Lumber. Philippine Journal of Science, 148(1), 21–31. 
+Johnson, D. E., Parsons, M., & Fisher, K. (2021). Indigenous climate change adaptation: 
+New directions for emerging scholarship. Environment and Planning. E, Nature and 
+Space. https://doi.org/10.1177/25148486211022450, 251484862110224 (Print). 
+Jose, A. M., & Cruz, N. A. (1999). Climate change impacts and responses in the 
+Philippines: Water resources. Climate Research, 12(2–3), 77–84. 
+Kahambing, J. (2018). Diaspora as vanishing mediator: Emancipation of identity for the 
+Mamanuas of Basey, Samar. Philippines and Asian Studies: Expositions, Explorations, 
+and Expectations, 183–200. 
+Khadka, A., Li, C. J., Stanis, S. W., & Morgan, M. (2021). Unpacking the power of place- 
+based education in climate change communication. Applied Environmental Education 
+and Communication, 20(1), 77–91. https://doi.org/10.1080/ 
+1533015X.2020.1719238 
+Lagi, R., Veisa, F., Robaigau, A., Laupepa, S., Raisele, K., & Waqailiti, L. (2022). Climate 
+change in higher education in Fiji: a literature review. Transforming Universities for a 
+Changing Climate, Working Paper Series No. 9., Issue. http://repository.usp.ac.fj/ 
+13952/. 
+Lagi, R., Waqailiti, L., Raisele, K., Tyson, L. S., & Nussey, C. (2023). ‘Curui’: Weaving 
+climate justice and gender equality into Fijian educational policies and practices. 
+Comparative Education, 59(2), 305–324. https://doi.org/10.1080/ 
+03050068.2023.2188370 
+LeComte, D. (2014). International weather highlights 2013: Super typhoon Haiyan, super 
+heat in Australia and China, a long winter in Europe. Weatherwise, 67(3), 20–27. 
+Li, J., Tharakan, P., Macdonald, D., & Liang, X. (2013). Technological, economic and 
+financial prospects of carbon dioxide capture in the cement industry. Energy Policy, 
+61, 1377–1387. https://doi.org/10.1016/j.enpol.2013.05.082 
+Lico, G. (2008). Arkitekturang Filipino: A history of architecture and urbanism in the 
+Philippines. University of the Philippines Press.  
+Lindegaard, L. S. (2018). Adaptation as a political arena: Interrogating sedentarization as 
+climate change adaptation in Central Vietnam. Global Environmental Change, 49, 
+166–174. https://doi.org/10.1016/j.gloenvcha.2018.02.012 
+Lopes, A. M., Healy, S., Power, E., Crabtree, L., & Gibson, K. (2018). Infrastructures of 
+Care: Opening up “Home” as Commons in a Hot City. Human Ecology Review, 24(2), 
+41–60. https://doi.org/10.22459/HER.24.02.2018.03 
+Mainuddin, M., Karim, F., Gaydon, D. S., & Kirby, J. M. (2021). Impact of climate change 
+and management strategies on water and salt balance of the polders and islands in 
+the Ganges delta. Scientific reports, 11(1), 7041. https://doi.org/10.1038/s41598- 
+021-86206-1 
+Makondo, C. C., & Thomas, D. S. G. (2018). Climate change adaptation: Linking 
+indigenous knowledge with western science for effective adaptation. Environmental 
+Science & Policy, 88, 83–91. https://doi.org/10.1016/j.envsci.2018.06.014 
+Mbah, M., Ajaps, S., & Molthan-Hill, P. (2021). A systematic review of the deployment of 
+indigenous knowledge systems towards climate change adaptation in developing 
+world contexts: Implications for climate change education. Sustainability, 13(9). 
+McGregor, D. (2021). Indigenous Knowledge Systems in Environmental Governance in 
+Canada. KULA, 5(1), 1–10. https://doi.org/10.18357/kula.148 
+McNamara, K. E., & Prasad, S. S. (2014). Coping with extreme weather: Communities in 
+Fiji and Vanuatu share their experiences and knowledge. Climatic Change, 123(2), 
+121–132. https://doi.org/10.1007/s10584-013-1047-2 
+Mehta, P. K., & Monteiro, J. M. (2006). Concrete: Microstructure, properties, and materials 
+((3rd edition)). McGraw-Hill.  
+Mercier, O. R. (2020). What is decolonisation? In R. Kiddle, M. Jackson, B. Elkington, 
+O. R. Mercier, M. Ross, J. Smeaton, & A. Thomas (Eds.), Imagining decolonisation (pp. 
+40–82). Bridget Williams Books.  
+Mignolo, W. D. (2018). What does it mean to decolonize? In C. E. Walsh, & 
+W. D. Mignolo (Eds.), On decoloniality: Concepts, analytics, praxis (pp. 105–134). 
+Duke University.  
+Mikulewicz, M. (2020). The discursive politics of adaptation to climate change. Annals of 
+the American Association of Geographers, 110(6), 1807–1830. https://doi.org/ 
+10.1080/24694452.2020.1736981 J. See et al.                                                                                                                                                                                                                                       
+World Development 176 (2024) 106503
+13Mikulewicz, M., & Taylor, M. (2020). Getting the Resilience Right: Climate Change and 
+Development Policy in the ’African Age’. New Political Economy, 25(4), 626–641. 
+https://doi.org/10.1080/13563467.2019.1625317 
+Mindess, S., Young, J. F., & Darwin, D. (2003). Concrete (2nd ed.). Pearson Education .  
+Nabong, E. C., Whiteford, L. M., Arias, M. E., & Mihelcic, J. R. (2021). Climate change 
+adaptation priority strategies in the Philippines: differences between local 
+government decision makers and marginalized coastal communities. Environmental 
+Engineering Science, 38(5), 367–376. https://doi.org/10.1089/ees.2020.0285 
+Natcher, D. C., Huntington, O., Huntington, H., Chapin, F. S., Trainor, S. F., DeWilde, L., 
+& o.. (2007). Notions of Time and Sentience: Methodological Considerations for 
+Arctic Climate Change Research. Arctic anthropology, 44(2), 113–126. https://doi. 
+org/10.1353/arc.2011.0099 
+National Housing Authority. (2021). Manual Manual on Accreditation of Innovative 
+Technologies for Housing (AITECH) . 
+Nguyen, K. X. (2011). Tín ng u’~ong lúa n u’ ˘o’c vùng đkaˇất tổ. Faiths in wet rice farming in the 
+father land. Times Publishing House .  
+Nichols, A. (2019). Climate change, natural hazards, and relocation: Insights from 
+Nabukadra and Navuniivi villages in Fiji. Climatic Change, 156(1), 255–271. https:// 
+doi.org/10.1007/s10584-019-02531-5 
+Nightingale, A., Eriksen, S., Taylor, M., Forsyth, T., Pelling, M., Newsham, A., … 
+Whitfield, S. (2020). Beyond technical fixes: Climate solutions and the great 
+derangement. Climate and Development, 12(4), 343–352. https://doi.org/10.1080/ 
+17565529.2019.1624495 
+Nursey-Bray, M., Palmer, R., Stuart, A., Arbon, V., & Rigney, L.-I. (2020). Scale, 
+colonisation and adapting to climate change: Insights from the Arabana people, 
+South Australia. Geoforum, 114, 138–150. https://doi.org/10.1016/j. 
+geoforum.2020.05.021 
+O’Lear, S. (2016). Climate science and slow violence: A view from political geography 
+and STS on mobilizing technoscientific ontologies of climate change. Political 
+Geography, 52, 4–13. https://doi.org/10.1016/j.polgeo.2015.01.004 
+Ong, C. (2021). Base Bahay Foundation: Building Homes . BluPrint: One Bamboo at a Time. 
+https://bluprint.onemega.com/base-bahay-foundation-building-homes-one- 
+bamboo-at-a-time/ . 
+Overland, I., & Sovacool, B. K. (2020). The misallocation of climate research funding. 
+Energy Research & Social Science, 62, Article 101349. https://doi.org/10.1016/j. 
+erss.2019.101349 
+Piggott-McKellar, A., McMichael, C., & Powell, T. (2021). Generational retreat: Locally 
+driven adaption to coastal hazard risk in two Indigenous communities in Fiji. 
+Regional Environmental Change, 21(2), 1–14. 
+Piggott-McKellar, A. E., McNamara, K. E., Nunn, P. D., & Sekinini, S. T. (2019). Moving 
+People in a Changing Climate: Lessons from Two Case Studies in Fiji. Social Sciences, 
+8(5). https://doi.org/10.3390/socsci8050133 
+Piggott-McKellar, A. E., Nunn, P. D., McNamara, K. E., & Sekinini, S. T. (2020). Dam(n) 
+Seawalls: A Case of Climate Change Maladaptation in Fiji. In W. Leal Filho (Ed.), 
+Managing Climate Change Adaptation in the Pacific Region (pp. 69–84). Springer 
+International Publishing. https://doi.org/10.1007/978-3-030-40552-6_4 .  
+Placino, P., & Gibson, K. (2022). Making a living in the diverse economy of concrete: 
+Commoning in a contested quarry. Asia Pacific Viewpoint . 
+Puamau, P. (1999). Affirmative Action and Racial Inequalities in Education: The Case of Fiji. 
+Brisbane: University of Queensland] .  
+Puamau, P. (2021). Rethinking education in Fiji: issues and solutions in the 21st century. 
+In F. Pene, A. M. Taufe‘ulungaki, & C. Benson (Eds.), Tree of Opportunity: Re-thinking 
+Pacific Education (pp. 86–103). the Institute of Education (IOE), The University of the 
+South Pacific .  
+Puig de la Bellacasa, M. (2015). Making time for soil: Technoscientific futurity pace of 
+care. Social studies of science, 45(5), 691–716. https://doi.org/10.1177/ 
+0306312715599851 
+Puig de la Bellacasa, M. (2017). Matters of care : Speculative ethics in more than human 
+worlds . University of Minnesota Press .  
+Quijano, A. (2000). Coloniality of Power and Eurocentrism in Latin America. 
+International sociology, 15(2), 215–232. https://doi.org/10.1177/ 
+0268580900015002005 
+Rarai, A., Parsons, M., Nursey-Bray, M., & Crease, R. (2022). Situating climate change 
+adaptation within plural worlds: The role of Indigenous and local knowledge in 
+Pentecost Island, Vanuatu. Environment and Planning E: Nature and Space, 5(4), 
+2240 –2282. https://doi.org/10.1177/25148486211047739 
+Remling, E. (2018). Depoliticizing adaptation: A critical analysis of EU climate 
+adaptation policy. Environmental Politics, 27(3), 477–497. https://doi.org/10.1080/ 
+09644016.2018.1429207 
+Richards, G., & Agranovski, I. E. (2015). Air emission from the co-combustion of 
+alternative derived fuels within cement plants: Gaseous pollutants. J Air Waste 
+Manag Assoc, 65(2), 186–196. https://doi.org/10.1080/10962247.2014.984084 
+Roxas, C. A. (2012). Handbook on erect bamboo species found in the Philippines . 
+Said, E. W. (2003). Orientalism . Penguin .  
+See, J., McKinnon, K., & Wilmsen, B. (2022). Diverse pathways to climate change 
+adaptation through a postdevelopment lens: The case of Tambaliza Island, 
+Philippines. Climate and Development , 1–12. https://doi.org/10.1080/ 
+17565529.2022.2029340 See, J., & Wilmsen, B. (2020). Just adaptation? Generating new vulnerabilities and 
+shaping adaptive capacities through the politics of climate-related resettlement in a 
+Philippine coastal city. Global Environmental Change, 65, Article 102188. https://doi. 
+org/10.1016/j.gloenvcha.2020.102188 
+See, J., & Wilmsen, B. (2022). A multidimensional framework for assessing adaptative 
+justice: A case study of a small island community in the Philippines. Climatic Change, 
+170(1), 16. https://doi.org/10.1007/s10584-021-03266-y 
+Smith, H. A. (2007). Disrupting the Global Discourse of Climate Change: The Case of 
+Indigenous Voices. In M. E. Pettenger (Ed.), The social construction of climate change: 
+Power, knowledge, norms, discourses (pp. 197–215). Routledge .  
+Smith, L. T. (2012). Decolonising Methodologies: Research and Indigenous Peoples ((2nd rev. 
+edn).). Zed Books .  
+Sovacool, B. K., Linn˘er, B.-O., & Klein, R. J. T. (2017). Climate change adaptation and the 
+Least Developed Countries Fund (LDCF): Qualitative insights from policy 
+implementation in the Asia-Pacific. Climatic Change, 140(2), 209–226. https://doi. 
+org/10.1007/s10584-016-1839-2 
+Spivak, G. C. (1993). Interview with Gayatri Chakravorty Spivak. In N. Srivastava, & 
+B. Bhattacharya (Eds.), The Postcolonial Gramsci (pp. 233–244). Routledge .  
+Steven, H., & Vunibola, S. (2022). The resiliency of Indigenous entrepreneurial settings 
+in the South Pacific: Notions of solesolevaki and wanbel in the case of Fiji and Papua 
+New Guinea. In H. N. Weaver (Ed.), The Routledge International Handbook of 
+Indigenous Resilience (pp. 362–378). Routledge .  
+Sultana, F. (2021). Climate change, COVID-19, and the co-production of injustices: A 
+feminist reading of overlapping crises. Social & Cultural Geography, 22(4), 447–460. 
+https://doi.org/10.1080/14649365.2021.1910994 
+Sultana, F. (2022). The unbearable heaviness of climate coloniality. Political Geography, 
+99, Article 102638. https://doi.org/10.1016/j.polgeo.2022.102638 
+Tandon, A. (2021). Analysis: The Lack of Diversity in Climate-Science Research (Carbon 
+Brief, Issue. https://www.carbonbrief.org/analysis-the-lack-of-diversity-in-climate- 
+science-research. 
+Taylor, M. (2014). The Political Ecology of Climate Change Adaptation Livelihoods, agrarian 
+change and the conflicts of development . Taylor and Francis .  
+Thai Binh Statistical Office. (2021). Dkan số tỉnh Th˘ai Bình n˚am 2021 chia theo huyện vˇa 
+thˇanh phố [The 2021 population of Thai Binh province and its districts and town] . 
+Thomas, K. A., & Warner, B. P. (2019). Weaponizing vulnerability to climate change. 
+Global Environmental Change, 57, Article 101928. https://doi.org/10.1016/j. 
+gloenvcha.2019.101928 
+Tschakert, P., Barnett, J., Ellis, N., Lawrence, C., Tuana, N., New, M., … Pannell, D. 
+(2017). Climate change and loss, as if people mattered: Values, places, and 
+experiences. Wiley interdisciplinary reviews. Climate Change, 8(5), e476-n/a. https:// 
+doi.org/10.1002/wcc.476 
+Tuck, E., & Yang, K. W. (2012). Decolonization is not a metaphor. Decolonization: 
+Indigeneity Education & Society, 1(1), 1–40. 
+United Nations. (2020). About the UN Climate Partnerships for the Global South . Retrieved 
+30 December from https://www.un.org/sustainabledevelopment/scpibackground/. 
+Venable, C., Javernick-Will, A., & Liel, A. B. (2020). Perceptions of post-disaster housing 
+safety in future typhoons and earthquakes. Sustainability (Basel, Switzerland), 12(9), 
+3837. https://doi.org/10.3390/su12093837 
+Verani-Norton, E. E. (2021). Fiji at the crossroad: Is the Indigenous community ready for 
+school, family, community partnerships. The International Education Journal: 
+Comparative Perspectives, 20(3), 45–60. 
+Vunibola, S., & Scheyvens, R. (2019). Revitalising rural development in the Pacific: An 
+iTaukei (indigenous Fijian) approach . https://crawford.anu.edu.au/rmap/devnet/dev- 
+bulletin.php. 
+Vunibola, S., Steven, H., & Scobie, M. (2022). Indigenous enterprise on customary lands: 
+Diverse economies of surplus. Asia Pacific Viewpoint, 63(1), 40–52. https://doi.org/ 
+10.1111/apv.12326 
+Webber, S. (2016). Climate Change Adaptation as a Growing Development Priority: 
+Towards Critical Adaptation Scholarship. Geography Compass, 10(10), 401–413. 
+https://doi.org/10.1111/gec3.12278 
+Westengen, O. T., Nyanga, P., Chibamba, D., Guillen-Royo, M., & Banik, D. (2018). 
+A climate for commerce: The political agronomy of conservation agriculture in 
+Zambia. Agriculture and human values, 35(1), 255–268. https://doi.org/10.1007/ 
+s10460-017-9820-x 
+Wright, S., Suchet-Pearson, S., Lloyd, K., Burarrwanga, L., Ganambarr, R., Ganambarr- 
+Stubbs, M., … Maymuru, D. (2020). Gathering of the Clouds: Attending to 
+Indigenous understandings of time and climate through songspirals. Geoforum, 108, 
+295–304. https://doi.org/10.1016/j.geoforum.2019.05.017 
+Wright, S., & Tofa, M. (2021). Weather geographies: Talking about the weather, 
+considering diverse sovereignties. Progress in Human Geography, 45(5), 1126 –1146. 
+https://doi.org/10.1177/0309132520982949 
+Yuen, J. Q., Fung, T., & Ziegler, A. D. (2017). Carbon stocks in bamboo ecosystems 
+worldwide: Estimates and uncertainties. Forest Ecology and Management, 393, 
+113–138. 
+Zea Escamilla, E., Habert, G., & Wohlmuth, E. (2016). When CO2 counts: Sustainability 
+assessment of industrialized bamboo as an alternative for social housing programs in 
+the Philippines. Building and Environment, 103, 44–53. https://doi.org/10.1016/j. 
+buildenv.2016.04.003 J. See et al.                                                                                                                                                                                                                                       

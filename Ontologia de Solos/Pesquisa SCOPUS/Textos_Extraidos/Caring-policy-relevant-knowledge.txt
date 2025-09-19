@@ -1,0 +1,1196 @@
+Caring policy-relevant knowledge? The case of the Brazilian Platform for 
+Biodiversity and Ecosystem Services
+Adriana Ressiore C.a,*,1, Giulia De Fuscoa,2, David Ludwiga,3, Charbel N. El-Hanib,4
+,  
+Esther Turnhoutc,5
+aKnowledge, Technology and Innovation Group (KTI) at Wageningen University, the Netherlands
+bInstitute of Biology, Federal University of Bahia, Brazil
+cSection of Knowledge, Transformation and Society (KiTeS), University of Twente, the Netherlands
+ARTICLE INFO
+Keywords:
+Science-policy interface
+Care
+Linear model
+Decision-makers
+Indigenous and local knowledge
+BrazilABSTRACT
+Science-policy interfaces like the Brazilian Platform for Biodiversity and Ecosystem Services (BPBES) aim to 
+provide policy-relevant knowledge that guides decision-makers in addressing the current biodiversity crisis. At 
+the same time, dominant approaches to policy-relevant knowledge have been widely challenged for relying on a 
+misguided linear model that treats science and policy as separate domains, presenting the former through 
+depoliticized ideals of neutrality and objectivity while prioritizing efficiency, standardization, and measurable 
+outputs over transdisciplinary collaboration, inclusivity, and plurality of knowledge systems. This article focuses 
+on “care” as an embodied, situated, and relational practice that could open pathways to policy-relevant 
+knowledge that is inclusive and responsive to diverse human and non-human needs. Through semi-structured 
+interviews and analysis of Summaries for Decision-Makers (SDMs) in BPBES, we investigate how different 
+forms of care shape the content, creation process, and impact of SDMs. Our findings reveal that care is present 
+across all of these dimensions but also that systemic barriers limit its practices. In particular, we argue that the 
+legacy of the linear model often creates tensions with care perspectives as they can often be seen as too subjective 
+and as threatening the credibility of BPBES. We, therefore, conclude that there remain substantial challenges to 
+articulating a vision and practice of “caring policy-relevant knowledge ” that embraces care as central to shaping 
+relations between science and policy.
+1.Introduction
+Brazil is the most biodiverse country on the planet (Abranches, 2020; 
+Inoue and Mendes, 2024 ), “comprising at least 10–20 % of the world ’s 
+species described to date ” (Brazil, 1999 ). The Brazilian Platform for 
+Biodiversity and Ecosystem Services (BPBES) was created in 2015 to link 
+science and policy for protecting this diversity (Azevedo-Santos et al., 
+2017; Karam-Gemael et al., 2018 ). BPBES follows the model of the 
+Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES), aiming to create science-policy interfaces (Jagannathan et al., 
+2023 ) that produce policy-relevant knowledge and thereby allow for 
+more effective responses to biodiversity loss at national and global 
+scales.
+BPBES and IPBES respond to the urgency of biodiversity crises with a 
+vision of evidence-based environmental policy that has become 
+increasingly contested because of its reliance on a linear understanding 
+of science-policy relations. Framing science and policy as separate do-
+mains, the linear model presents scientific evidence as a neutral and 
+*Correspondence to: Knowledge, Technology and Innovation chair group at Wageningen University. De Leeuwenborch, Hollandseweg 1, Wageningen 6706 KN, 
+the Netherlands
+E-mail addresses: adrianarcampodonio@gmail.com , Adriana.ressiorecampodonio@wur.nl (A. Ressiore C.), defusco.giulia@gmail.com (G.D. Fusco), david. 
+ludwig@wur.nl (D. Ludwig), charbelelhani4@gmail.com (C.N. El-Hani), e.turnhout@utwente.nl (E. Turnhout). 
+1https://orcid.org/0000-0002-2283-815X
+2https://orcid.org/0009-0005-9706-3757
+3https://orcid.org/0000-0002-2010-5120
+4https://orcid.org/0000-0002-2308-3983
+5https://orcid.org/0000-0002-2190-2076
+Contents lists available at ScienceDirect
+Environmental Science and Policy
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow �o�to~1m{y2w{m k�o2oz��mt
+https://doi.org/10.1016/j.envsci.2025.104170
+Received 3 April 2025; Accepted 14 July 2025  Environmental  Science  and Policy  171 (2025)  104170  
+Available  online  28 July 2025  
+1462-9011/©  2025  The Authors.  Published  by Elsevier  Ltd. This is an open access  article  under  the CC BY license  ( http://creativecommons.org/licenses/by/4.0/  ). 
+objective basis for political decision-making (Beck, 2011 ). While such a 
+framing aims to increase the epistemic authority of science by dis-
+associating it from overt political agendas, it has also been extensively 
+criticized for misrepresenting the complex interplay between science 
+and society (Mahony and Hulme, 2018; Gustafsson and Lidskog, 2023 ) 
+and obscuring the role of science as an instrument of modernist control 
+that reduces nature to an object to be exploited, conserved, or managed 
+(Turnhout and Lynch, 2024 ). Framing environmental sciences as neutral 
+and objective also fails to recognize how the field has been shaped by 
+neoliberalism, often reinforcing a narrow focus on values of productivity 
+and efficiency (Santiago et al., 2017; Hartman and Darab, 2012; Lorenz, 
+2012; Temper et al., 2019; Stengers, 2016 ).
+The linear model also creates tensions with growing attempts to 
+embrace epistemic plurality in environmental policy (Pascual et al., 
+2021 ), including Indigenous methodologies (Chilisa, 2017, 2019; 
+Absolon, 2022 ), transdisciplinary approaches (Bammer, 2016; Lang 
+et al., 2012; Ludwig and Boogaard, 2021 ), co-production (Matuk et al., 
+2023; Teng o et al. 2017 ; Turnhout et al., 2020 ) and participatory action 
+research (Enria, 2016 ; Moriggi et al., 2020 ; Kindon et al., 2007 ; Long 
+et al., 2016 ). These approaches highlight that knowledge is always 
+entangled with diverse standpoints and challenge decontextualized ap-
+peals to neutrality and objectivity as obscuring the political dimensions 
+of knowledge production (Longino, 1990; Harding, 1993 ). Therefore, 
+emphasis on epistemic plurality puts questions about the inclusion and 
+exclusion of diverse forms of expertise into the spotlight (Ludwig et al., 
+2024, Turnhout et al., 2019 ) and challenges simplistic understandings 
+that separate alleged non-political science and political decision making.
+These contestations of the linear model point towards a fundamental 
+challenge for science-policy interface (SPI) platforms such as BPBES and 
+IPBES. On the one hand, both organizations increasingly aim to embrace 
+epistemic plurality. For example, “IPBES recognizes and respects the 
+contributions of Indigenous and local knowledge to the conservation 
+and sustainable use of biodiversity ” (IPBES, n.d.), and BPBES highlights 
+the central role of Indigenous peoples ’ knowledge of wild resources and 
+their contribution to environmental preservation (Menezes, 2019 ). On 
+the other hand, both BPBES and IPBES tend to follow institutional leg-
+acies grounded in a linear model of science-policy relations and legiti -
+mize their epistemic authority through the allegedly neutral and 
+objective character of their research (Stålhammar, 2021; Díaz-Reviriego 
+et al., 2019; Lahsen and Turnhout, 2021 ).
+In this article, we address this challenge in BPBES by introducing 
+“care” as a theoretical-methodological lens. We analyze how forms of 
+care emerge in BPBES, and in the production and impact of Summaries 
+for Decision Makers (SDMs). Informed by feminist (Puig De La Bellacasa, 
+2015 ; Tronto, 2013 ; Krzywoszynska, 2019 , among others) and Indige -
+nous and local perspectives on care (Taku ˘a, 2022 ; Losito, 2022 ; Ressiore 
+et al., 2024a ; Ressiore et al., 2024b ; Weitzman et al., 2024 ), we un-
+derstand that SDMs involve forms of care and are more than just neutral 
+and objective summaries of facts. Such an interpretation suggests a 
+vision and practice of “caring policy-relevant knowledge ” that embrace 
+subjectivity and plurality as constructive elements at the interface of 
+science and policy rather than as distorting factors that need to be 
+eliminated in the quest for neutrality and objectivity. Yet, our findings 
+show that prevailing norms of the linear model obscure the forms of care 
+in BPBES. While care - for example, about preserving biodiversity and 
+the policy impact of SDMs - is salient across our results, the expression of 
+care is often seen as problematic and sidelined in attempts to emphasize 
+the epistemic authority of SDMs as factual summaries free of subjective 
+bias. As such, we find that care turns out to be both present and pre-
+carious in BPBES. Caring policy-relevant knowledge can, therefore, not 
+be taken for granted but requires the explicit challenging of the legacy of 
+the linear model in science-policy interfaces.
+2.Theoretical framework
+Care is often both ubiquitous and invisible in the creation of policy- relevant knowledge. As Fisher and Tronto (1990, p.40) argue, care is 
+“everything that we do to maintain, continue, and repair our ‘world ’ so 
+that we can live in it as well as possible. ” Indigenous and local episte -
+mologies frequently focus on care as integral to knowledge production, 
+centering relational understandings that connect humans and 
+non-humans through caring knowledge practices (Taku ˘a, 2022 ; Ressiore 
+et al., 2024b ; Weitzman et al., 2024 ; Losito, 2022 ). Furthermore, femi-
+nist thinkers highlight that care is a matter of public concern and expose 
+“how [the] social and political institutions permit some to bear the 
+burdens (and joys) of care and allow others to escape them ” (Tronto, 
+2013 , p.32 –33). Care can be unfair and unequally distributed along 
+class, gender, and race, making care a political matter (Hankivsky, 2014, 
+Bartos, 2018; Silberzahn, 2024; Raghuram, 2016 ; Barnes, 2012 ).
+Both Indigenous and feminist care debates have emphasized rela-
+tionality, reciprocity, and interdependence across species, communities, 
+and ecosystems (Puig de la Bellacasa, 2017 ; Ca~nada et al., 2022 ; Sil-
+berzahn, 2024 ; Krzywoszynska, 2019 ; Ressiore et al., 2024a and 2024b ). 
+Care has been centered on “transformative thinking, politics, and 
+alternative forms of organizing ” (Puig de la Bellacasa 2017 , p.8) and it 
+can challenge the neoliberal norms of “fast science ” that often bypass 
+careful and reciprocal practices (Staffa et al., 2022; Sellberg et al., 2021; 
+Stengers, 2016; Temper et al., 2019 ). In contrast to dominant neoliberal 
+rationalities that favor autonomy, individuality, and reason, care the-
+ories prioritize well-being and relational practice that embraces emo-
+tions like empathy, responsiveness, and sensitivity (Held, 2006; Manzi 
+et al., 2024 ).
+The ongoing burgeoning literature on care constitutes a promising 
+entry point for rethinking policy-relevant knowledge beyond the legacy 
+of the linear model. Care is neither neutral nor objective but still drives 
+scientists and shapes their engagements with environmental policy. 
+Highlighting the forms of care at the interface of science and policy may 
+help to foreground the subjectivities involved in these forms without 
+undermining the epistemological importance of environmental science 
+for environmental policy. Understanding care as shaping the interface of 
+science and policy requires analysis of its many dimensions, including 
+attentiveness, reciprocity, maintenance, and repair. Attentiveness in-
+volves observing and responding to the needs of others — both human 
+and non-human — while maintaining a reflexive awareness of power 
+relations (Krzywoszynska, 2019; Bartos, 2018 ). Attentiveness, therefore, 
+requires more than attention to the data and metrics that inform 
+biodiversity policy; it also involves the interpersonal relations and the 
+lived realities and values of those impacted by policies.
+Reciprocity emphasizes relational interdependence, acknowledging 
+that care involves giving something back, often spanning asymmetrical 
+power relations (Ojeda et al., 2022 ; Van de Pavert and Ressiore, 2023 ; 
+Ressiore et al., 2024a ). It connects to ideals of empathy and putting 
+oneself in the shoes of others (Ressiore & De La Rosa, in press ). Main -
+tenance and repair are about sustaining and recovering ecosystems, 
+practices, and relations, among others, to allow both humans and 
+non-humans to live well in the world. Within BPBES, these could become 
+evident in the (inter)personal relations that need to be maintained or 
+repaired. Other forms of repair concern the practices of restoring eco-
+systems and bridging knowledge systems, as well as the attempts to 
+address the gaps between science, policy, and society. BPBES itself and 
+the people sustaining the platform could be seen as both aiming towards 
+the maintenance of life on Earth as well as trying to repair our damaged 
+planet through knowledge production and action in the science-policy 
+interface.
+While attentiveness, reciprocity, maintenance and repair are essen -
+tial, they do not exist separate from politics. Care is political and is also 
+permeated by unequal power relations and ethical dilemmas. Care re-
+quires constant negotiation and adaptation. Puig de la Bellacasa (2015, 
+p.707) points out that care, although necessary, is also “messy and dirty, 
+” often involving ethical dilemmas and moral conflicts. These dilemmas 
+arise especially in relation to what knowledge is considered relevant, 
+who decides, what methods are used to decide, and under what A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+2 
+conditions the policy-relevant knowledge is created. The decisions about 
+which perspectives, approaches, and rationality shape what is included 
+or excluded (Giraud, 2019 ) have real consequences on the impact of the 
+assessments. Analyzing BPBES through a care lens, therefore, highlights 
+the complexity of relations between Summaries for Decision-Makers and 
+processes that shape their creation. While summaries are often pre-
+sented as neutral and objective summaries of facts, their creation is 
+shaped by messy relations of care that are permeated by tensions, ef-
+forts, and political ambitions.
+3.BPBES: an overview
+During the IPBES Americas Regional Assessment in Bogot ˘a (July 19 
+to July 23, 2015), a group of Brazilian experts decided to produce a 
+national assessment using IPBES ’s pre-established concepts and struc-
+ture (Padgurschi and Joly, 2017 ). BPBES emerged from this initiative 
+and included around 100 scientists from various Brazilian universities 
+and research centers - currently, the number of scientists involved 
+fluctuates according to the needs for specific assessments. BPBES oper-
+ates as a bottom-up initiative led by scientists and independent of direct 
+government control (Scarano et al., 2019 ). Although 85 % of its funding 
+comes from government sources, BPBES maintains autonomy, relying on 
+partnerships with organizations such as the Brazilian National Council 
+for Scientific and Technological Development (CNPq), the BIO-
+TA/FAPESP Program (Fapesp, n.d.), and the Brazilian Academy of Sci-
+ences (ABC).
+Initially conceived as a working group under the Brazilian Society for 
+the Progress of Science (SBPC), BPBES evolved into a permanent plat-
+form emphasizing a decentralized and collaborative model (Padgurschi 
+and Joly, 2017 ). The organization includes an executive coordination 
+team, a techno-scientific council, and a diverse pool of volunteer re-
+searchers, apart from those receiving grants or employed for text revi-
+sion and communication (BPBES, n.d.). In 2018, BPBES launched its first 
+Brazilian Assessment on Biodiversity and Ecosystem Services, which 
+highlighted the state of national ecosystems. Since then, it has produced special reports on pollination, restoration, water resources, and other 
+critical topics - see Table 1.
+BPBES ’s independence from government and other institutions is 
+central to its credibility and claims of objectivity and neutrality, but it is 
+also a source of several challenges (Scarano et al., 2019 ). For example, 
+fundraising and stakeholder engagement necessitate continuous efforts 
+that can be resource-intensive, time-consuming, and may exceed the 
+skill set of the participants, who work voluntarily and accumulate many 
+other academic functions and responsibilities. While BPBES envisions 
+producing a "living document" that fosters ongoing dialogue and 
+adaptability (Scarano et al., 2019 ), this goal is difficult to sustain given 
+the limited resources and the fact that the authors are overburdened 
+with academic responsibilities. While BPBES executive coordination 
+anticipated issues such as fatigue and disengagement among partici -
+pants in 2019 (ibdi), from our research it seems that it remains a constant 
+challenge. These challenges illustrate both the BPBES ’s objectives to 
+connect science, policy, and civil society, offering valuable insights into 
+science-policy interfaces in Brazil (BPBES, n.d.; Scarano et al., 2019 ), 
+and the need for further reflection on how care practices might address 
+these challenges and sustain its potentially transformative role for 
+biodiversity conservation policies in the country (Scarano et al., 2019 ).
+4.Methodology
+To investigate the forms of care in BPBES ’s Summaries for Decision- 
+Makers (SDMs), we employed qualitative methodologies comprising 
+semi-structured interviews and document analyses. Ten online semi- 
+structured interviews (Roulston and Choi, 2018; Hesse-Biber, 2013 ) 
+were conducted by the first author between May and September 2024. 
+She conducted interviews with four members of the Executive Coordi -
+nation, two members of the Technical Coordination, one researcher who 
+specialized in text revision and communication, and three authors who 
+contributed to specific thematic SDMs. Nine out of ten interviewees were 
+involved in BPBES ’s SDMs as co-authors, reviewers, or in other sup-
+porting roles. The one exception provided support to the main coordi -
+nation team during the platform ’s early development, assisting in 
+scoping its goals, coordinating with the main authors of the first 
+assessment, and drawing from their experience with IPBES SDMs. The 
+participants were invited for the interview via e-mail, and the online 
+interviews lasted from 45 min to 2 h. Interviews were recorded and 
+transcribed using Microsoft Teams ® transcription software.
+During the semi-structured interviews, participants were invited to 
+share their personal understandings of care, their perspectives on the 
+work of the SDM creation processes, their visions regarding the chal-
+lenges and opportunities in working with BPBES and policy-relevant 
+knowledge, among others. Key questions included: What are the grati-
+fying and challenging aspects of working with BPBES? What does care mean 
+to you in the context of BPBES? What practices do you associate with care in 
+creating the SDMs? How do you perceive the role of policy-relevant knowl -
+edge, and how does it differ from scientific knowledge? (see full interview 
+guide in Annex 1). The interview approach aimed to be flexible, 
+allowing participants to discuss these topics, including understandings 
+of care, on their own terms. Therefore, the interviewer provided mini-
+mal theoretical framing until the end of the interview questions.
+In addition to the interviews, a qualitative content analysis (Leavy, 
+2017; Roller and Lavrakas, 2015 ) of seven SDMs published by BPBES - 
+see Table 1- was conducted. This analysis aimed to identify explicit and 
+implicit expressions of care in the content, structure, and language of the 
+documents. For that, we used direct quotations - translated into English - 
+from the SDMs and interviewees. Interviewees were randomly 
+numbered, and after each quote, we placed between parenthesis I and a 
+randomized number (for example, I3 refers to interviewee 3).
+The document analysis involved multiple rounds of reading: an 
+initial review to familiarize ourselves with the documents (also to pre-
+pare for the interviews), followed by a detailed analysis process to 
+extract themes and patterns related to care aspects such as maintenance, Table 1 
+Summary for Decision-Makers Information and Reference Number.
+Ref. n. Assessment original 
+name: Sum ˘ario para 
+Tomadores de Decis ~aoTranslation to English: 
+Summary for Decision- 
+Makers (SDM)Year N. of 
+pages
+1 1•Diagn ˘ostico Brasileiro 
+de Biodiversidade & 
+Serviços Ecossist kemicos1st Brazilian Diagnosis 
+of Biodiversity & 
+Ecosystem Services2018 15
+2 Relat ˘orio Tem˘atico sobre 
+Polinizaç ~ao, 
+Polinizadores e Produç ~ao 
+de Alimentos no BrasilThematic Report on 
+Pollination, Pollinators 
+and Food Production in 
+Brazil2018 11
+3 Relat ˘orio Tem˘atico ˘Agua: 
+Biodiversidade, Serviços 
+Ecossist kemicos e Bem 
+Estar Humano no BrasilThematic Report on 
+Water: Biodiversity, 
+Ecosystem Services and 
+Human Well-being in 
+Brazil2019 11
+4 Relat ˘orio Tem˘atico sobre 
+Restauraç ~ao de Paisagens 
+e EcossistemasThematic Report on 
+Landscape and 
+Ecosystem Restoration2019 20
+5 Potkencia Ambiental da 
+Biodiversidade: um 
+Caminho Inovador para o 
+Brasil *Mudanças 
+Clim˘aticasBiodiversity 
+Environmental Power: 
+an Innovative Path for 
+Brazil 
+*Climate Change2020 20
+6 1•Diagn ˘ostico Brasileiro 
+Marinho-Costeiro sobre 
+Biodiversidade e Serviços 
+Ecossist kemicos1st Brazilian Marine- 
+Coastal Diagnosis on 
+Biodiversity and 
+Ecosystem Services2023 36
+7 Relat ˘orio Tem˘atico Sobre 
+Esp˘ecies Ex˘oticas 
+Invasoras, 
+Biodiversidade e Serviços 
+Ecossist kemicosThematic Report on 
+Invasive Alien Species, 
+Biodiversity and 
+Ecosystem Services2024 24A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+3 
+attentiveness, reciprocity, repair, empathy, responsibility, among 
+others. Special attention was given to the tensions between (a) expres -
+sions and terms such as “neutrality” and “objectivity”; and (b) relational 
+aspects associated with and needed for a caring approach.
+In addition, MSc thesis research was carried out by our second author 
+in 2021 and 2022. This study draws on qualitative research including 
+ten interviews and document analysis of twelve reports (including SDMs 
+1–6), to examine BPBES as a boundary organization and its engagement 
+with Indigenous Peoples and Local Communities (IPLCs) (De Fusco, 
+2022 ). For this article, the secondary data from the MSc research was 
+used, especially in the BPBES contextualization, analysis, and discus -
+sion. These data provided context to understand BPBES’s efforts to 
+integrate diverse knowledge systems and foster inclusivity in its 
+practices.
+Inspired by feminist research methodologies, the authors engaged in 
+continuous dialogue to reflect on how their positionalities influenced 
+the questions, data interpretation, and writing process (Harding, 1993; 
+Hesse-Biber, 2013 ). The first and the second authors are early-career 
+women researchers: the first specializes in more-than-human care and 
+feminist research approaches, while the second brings knowledge about 
+boundary organizations and biodiversity governance. The third and 
+fourth authors are senior men researchers with extensive experience in 
+investigating knowledge diversity and addressing the ontological and 
+epistemological challenges of putting different forms of knowledge into 
+dialogue. Finally, the last author is a senior woman researcher with 
+extensive experience and involvement in IPBES and science-policy 
+interface debates and critiques. Two out of the five researchers are 
+Brazilian, while the others are European. We considered how our 
+standpoints influenced the questions we asked in the interviews, the 
+document analysis, and the processing of the data (Hesse-Biber, 2013 ).
+5.Care in BPBES
+When investigating what forms of care emerge in BPBES’ production 
+of policy-relevant knowledge, we focused on (5.1) the content in Sum-
+maries for Decision-Makers, (5.2) the processes of developing these 
+summaries, and (5.3) their impact on policy.
+5.1. Care in the content of SDMs
+This section presents our key findings about care in the content of the 
+SDMs. We argue that (1) care is present in SDMs through notions of 
+maintenance, repair, and the plurality of perspectives they accommo -
+date, that (2) explicit care terminology is largely absent , and that (3) the 
+emphasis on efficiency and efficacy creates tensions with a more sub-
+stantive care discourse in the SDMs.
+In the SDMs, care most explicitly emerges through the emphasis on 
+ecological restoration associated with notions of maintenance and 
+repair: 
+“The maintenance and restoration of natural areas” (SDM 2, 2018, 
+p.14)
+“Investing in biodiversity conservation and restoration” (SDM 1, 
+2018, p.12)
+“Maintaining the ecosystem service of pollination requires hetero -
+geneous landscapes that are managed in a pollinator-friendly way, 
+providing vital resources for these animals, such as a diversity of food 
+sources and nest-building sites.” (SDM 2, 2018, p.11)
+While the first two sentences express the maintenance and repair 
+aspects of care, the third quote reflects the multifaceted nature of care, 
+involving both human and non-human needs. Multifaceted needs are 
+also highlighted regarding human communities, emphasizing the plu-
+rality of stakeholders in the process of biodiversity conservation. “Good governance also requires objectivity, commitment, trans -
+parency, and comprehensiveness, ensuring inclusion and plurality of 
+ethnicities, genders and generations. The ability to adapt and adjust 
+to the scale of the problem at hand is essential, as is reducing the 
+fragmentation of public policies, with a consequent increase in their 
+efficacy, efficiency, and effectiveness. (SDM 6, 2023, p.8 & 9)
+This quote exemplifies the tensions of an approach to care: on the one 
+hand, it embraces plurality and inclusion as essential for environmental 
+policy; on the other, it relates these efforts to the language of efficiency, 
+efficacy, and effectiveness, which aligns with a technical and more 
+linear approach to complex issues. This tension brings our attention to 
+the broader challenges of integrating care into SDMs and BPBES more 
+broadly - it highlights the challenge to balance relational, subjective, 
+and inclusive aspects of plural care with policy and scientific standards 
+and demands for measurable outcomes.
+Other studies have also pointed to limitations in the ability of BPBES 
+(De Fusco, 2022 ) and SPIs more generally to embrace plurality 
+(Díaz-Reviriego, et al., 2019 ). Here, we highlight four challenges of in-
+clusive co-production involving diverse knowledge holders and systems. 
+First, BPBES does not carry out new research but documents and sum-
+marizes existing knowledge, thereby often reproducing epistemic 
+exclusion and biases of existing research. Second, most researchers 
+working in BPBES are biologists and ecologists who lack methodological 
+training for co-production. Third, financial and other resources often 
+limit co-production. Fourth, researchers struggle to establish and 
+maintain long-term relationships required for substantial co-production 
+with communities (De Fusco, 2022 ).
+Beyond questions of plurality, care also emerges in the SDMs in 
+relation to the well-being of humans and non-humans, including poverty 
+reduction and multiple benefits of ecosystem services. 
+“Ecosystem-based adaptation, while conserving or restoring/repair -
+ing natural resources, sequestering or storing carbon, also has the 
+potential to reduce poverty." (SDM 1, 2018, p.18)
+"The incorporation of the concept of ecosystem services in the 
+implementation of enterprises has great potential to produce solu-
+tions that benefit multiple sectors. Various organizations that guide 
+project financing have already instructed the adoption of the 
+ecosystem services concept in studies that precede their imple -
+mentation.” (SDM 3, 2019, p.14)
+The complexity of navigating between demands for efficiency, care 
+for biodiversity and plurality is not only apparent in the SDMs but is also 
+reflected in the interviews. Some interviewees embraced the possibility 
+of making these care aspects more explicit in the SDMs: 
+“Could it be that if we change our ways and bring affection, care, and 
+reciprocity into our documents, we couldn’t we be able to touch 
+more hearts and bring about broader changes in behavior?” (I10)
+However, other interviewees expressed discomfort with this 
+approach, suggesting that such concepts should remain implicit in their 
+practice rather than explicitly stated in the reports. For example: 
+“I think it would fit, maybe, subliminally, you know? As something 
+to keep in mind, right? Maybe, when it comes to thinking about the 
+theme of choosing partners, thinking about messages. I don’t think 
+it’s possible, as (the document) is more pragmatic, more technical. I 
+don’t know to what extent they can absorb this, but I think sublim -
+inally it might be interesting to have this in the back of the mind.” 
+(I1)
+“I don’t think it would take away credibility, but it would make the 
+conversation more difficult. Yes, because whether you like it or not, 
+you’re inserting degrees of subjectivity and that’s always something 
+that’s very complex. But I think it can be worked on. I, for example, A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+4 
+wouldn ’t have that ability. It’s something I’d have to be trained in, 
+I’d have to learn how to work ” (I2)
+With these mixed perspectives and tensions on the forms of care in 
+the BPBES assessments, we shift our focus to the process.
+5.2. Care in the SDM-making process
+In analyzing care in the process of producing SDMs, we focus on (a) 
+motivations, (b) institutional and epistemic structures, and (c) inter-
+personal dynamics. Considering (a) motivations in creating SDMs, many 
+interviewees emphasized that care is central to the BPBES ’ mission and 
+work of synthesizing trustworthy knowledge on biodiversity for a wider 
+audience: 
+“So I think caring [within BPBES] is to think that there are people 
+who are dedicating part of their lives voluntarily for a greater 
+benefit, for as many people as possible. Because we take what the 
+scientific community is saying, digest it, summarize it, organize it, 
+and deliver it. Even though there are those challenges I told you 
+about, I think that’s care. ” (I7)
+Similar perspectives were shared by all interviewees, who high-
+lighted care for biodiversity, care for producing relevant knowledge, 
+care for ensuring accessibility, among others. Many interviewees 
+expressed personal gratitude for being part of this process, viewing their 
+involvement as an investment in synthesizing knowledge that could 
+influence change. It also became evident that individual and collective 
+communication efforts went beyond the standard structure and pro-
+cedures, showing personal and collective care and attentiveness to the 
+process. To illustrate that, interviewees highlighted the importance of 
+careful communication and empathy when making scientific knowledge 
+accessible to a broader audience: 
+“We care when we make infographics. We care when we make videos 
+explaining, when we make short videos. We care when we hire a 
+communications advisor who is a specialist to help disseminate it on 
+the radio, on TV, everywhere. ” (I3)
+“I understood that the other person always has something important 
+to say. So we need to listen to others in order to incorporate and 
+exchange what is relevant in this process. […] This process of dia-
+logue based on what science produces is an effort of empathy — 
+putting oneself in the other person ’s shoes. ” (I6)
+The (b) institutional and epistemic structures discipline the SDMs 
+into standardized procedures (following IPBES formats) while deem -
+phasizing subjectivity, but care remains expressed through the produc -
+tion, synthesis, and communication of knowledge: 
+“We try to use easy language, try to be assertive, but you can’t be 
+prescriptive, so there ’s a whole pattern we follow ” (I6)
+These patterns are based on scientific platform rules that policy- 
+relevant knowledge should be neutral, ‘policy-relevant, yet not policy- 
+prescriptive ’ (IPCC, n.d.; see also Watson, 2005 ; Beck, 2011 ; Turnhout 
+et al., 2016 ). While this has been extensively criticized as depoliticizing 
+(Turnhout et al., 2013, 2016; Turnhout, 2024; Beck, 2011, Beck et al., 
+2014; Karhunmaa, 2020; Rasanen et al., 2024 ), one interviewee argued 
+that such approach is fundamental for policy-relevant knowledge: 
+“It is a transparent process, and it must truly be independent . The 
+chapter coordinators lead the writing and manage the authors and 
+collaborators. […] It’s approached with a strong sense of neutrality , 
+right? We cannot have any political bias, so it’s based on science — 
+what key information we want to convey, whether it hurts or not, but 
+that’s it. […] It was a transparent, independent, and neutral process .” (I9)
+Although this interviewee appeals to a “strong sense of neutrality, ” 
+this sentiment is not shared among all interviews and documents 
+analyzed. Indeed, the interviewees consistently highlight that policy- relevant knowledge is different from academic knowledge in the 
+format and communication strategies: 
+"I understand that it is a type of knowledge that, first of all, is very 
+synthesizing , right? It brings up the main points. It brings up the main 
+information, right? It has to use colloquial language while still being 
+precise. I believe it also needs to be visually appealing and graphi -
+cally attractive." (I8)
+“I think that when it comes to building the summary, how you 
+communicate your results is much more relevant because the data 
+itself will be a tool. It won ’t be the central thing - I think commu -
+nication is the central thing in the summary. ” (I5)
+"Yes, it is (different). It’s a more translated and simplified language 
+[…]. The full scientific report with data is more robust and has a very 
+scientific language that, in a way, only serves the academic com-
+munity." (I9)
+Although the SMDs look different from academic papers and aim to 
+be more accessible, the authors also highlight that policy-relevant 
+knowledge is always based on scientific knowledge and evidence. The 
+following quotes highlight the usability and the trustworthiness some 
+interviewees believe must be considered for policy-relevant knowledge: 
+“In ecology, there ’s always uncertainty […] We bring a certain 
+amount of information because these are complex systems with very 
+particular dynamics, which is very difficult for the decision maker. 
+They want to know, ’What do I do?’, ’Do I release or not release this 
+species? ’ ’Do I plant or not plant? ’ ’Am I going to get this result in the 
+end or not? ’ […] The effort is about how to operationalize this in-
+formation so that it arrives in a format where the decision maker can 
+make a choice, understanding the risks, opportunities, and possibil -
+ities from there. ” (I4)
+“Scientists have difficulty in making complex and deep things usable . 
+So I think we take great care in the production of the scenario, in the 
+process, in providing information, in writing in a way that is un-
+derstandable and trustworthy. ” (I6)
+A care perspective invites reflexivity about what is considered rele-
+vant for decision makers. Knowledge is deeply tied to who creates it 
+(Harding, 1993 ), and appeals to relevance are mediated by “how sys-
+tems of domination shape or limit research questions, methodological 
+decisions, conceptual frameworks, models, assumptions and in-
+terpretations of data ” (Staffa et al., 2022 , p. 49). Aware of such chal-
+lenges, I10 discusses the difficulties of meeting the needs for what are 
+considered absolute truths that could make decisions easier and more 
+predictable: 
+"Whether we like it or not, science positions itself as an unques -
+tionable truth, which we know it is not. […] And decision makers, 
+especially legislators and executives, want truths . They want you to 
+tell them what the deforestation rate is, and how many species there 
+are […] they want absolute truths. What I think we can contribute is 
+showing that this knowledge is also being constructed, decon -
+structed, and co-constructed throughout history, right?" (I10)
+Four out of the ten interviewees explicitly expressed critical re-
+flections about relevance and authority. However, our content analysis 
+and interviews also indicate that they remain in tension with the prev-
+alence of scientific approaches that tie trustworthiness to neutrality and 
+the elimination of any subjective elements.
+The (c) interpersonal dynamics add further complexity to the 
+knowledge-making and summarizing process. The interviewees noted 
+the challenges of working with diverse stakeholders, diverse disciplines, 
+and difficulties in managing interpersonal dynamics within the Platform 
+work: 
+“You can imagine when you get a group of researchers together — all 
+senior researchers, all experts in their fields — there ’s an instant A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+5 
+clash of egos, which is also quite big and sometimes difficult to 
+manage. We didn’t have any serious problems, but you’re often 
+walking on eggshells. That was the hardest thing for me — to 
+maintain a group where people brought their opinions, and those 
+opinions were considered and evaluated.” (I3)
+“I found it quite challenging, this issue of having many authors, you 
+know? People needed to understand what their role was because a lot 
+of people think their role is to be a text editor, right? […] ‘I need you 
+to send me a paragraph or half a paragraph. You’re the specialist, so 
+write the paragraph on this’.” (I6)
+The care literature emphasizes that tensions and conflicts are an 
+integral part of care (Bartos, 2018; Cox, 2010 ). Puig de la Bellacasa 
+further highlights that it is essential to ensure “accountable knowledge 
+construction that does not negate dissent” (2017, p.79). Maintaining 
+good interpersonal dynamics is a crucial part of the care embedded in 
+BPBES, which, in our analysis, reflects both the rewarding and chal-
+lenging aspects of collaborative work. While there seem to be different 
+positions, perspectives, and opinions, interviewees often expressed the 
+experience as meaningful, learning-full, and gratifying, based on what 
+they described as a caring environment created between authors.
+5.3. Care for policy impact
+BPBES’s mission to “produce syntheses of the best available knowl -
+edge,” (BPBES, n.d.) for biodiversity conservation reflects its care for 
+sustaining diversity of life in Brazil. While the impact on conservation is 
+an essential component of the mission of BPBES, interviewees noted the 
+challenges in tracking the influence of their work: 
+“We map very poorly the impacts of the platform […] We don’t have 
+mechanisms for this.” (I1)
+"I never had time to map that out." (I9) - Referring to the impact of 
+the actions taken based on the summaries.
+Many interviewees recognize a need to spend more time and effort to 
+increase and map impact after the report is published, including 
+advertising and having workshops. In 2022, data retrieved from the 
+platform showed that the majority of document downloads came from: 
+70 % universities, research institutes, and students; 9 % government 
+sector; 7 % civil society; 6 % private sector; 1 % multilateral organiza -
+tions; 1 % press/media; 6 % others (De Fusco, 2022 , source: BPBES). 
+This contributes to the understanding that the impact on decision- and 
+policymakers has been more limited than planned.
+Some interviewees provided concrete examples of how the reports 
+have been used in policy discussions but also highlighted the challenges 
+regarding policy influence. They talked about evidence that the Brazil -
+ian National Ministry of Environment has been using the reports and has 
+been inviting some of the authors more frequently for meetings and 
+consultations. One example is related to SDM 2 that resulted in an 
+actionable policy minutes: 
+“We drew up a draft of a national pollination policy together with the 
+Ministry of Agriculture, but later, with the new changes [in the Na-
+tional Government politics - referring to Bolsonaro’s Mandate], it 
+stopped. So, I really don’t know how much progress has been made.” 
+(I4)
+The quote reveals the challenges in ensuring that the care put into 
+making the reports has long-term results, policy commitments, and real- 
+world impact. External factors such as national politics and institutional 
+limitations often interfere with the reach and effectiveness of the 
+reports: 
+“We were unlucky in that. We were finishing our reports and 
+launching when there was a change of government, so let’s say that 
+the environment wasn’t very high on the previous government’s 
+agenda [referring to the Bolsonaro government mandate].” (I3)These issues connect not only to structural and systemic politics but 
+also to (inter)personal dynamics, as shown in the response below: 
+“I think that one of the platforms’ challenges is the fact that it’s not 
+an institution, let’s say, it doesn’t have a CNPJ [National Register of 
+Legal Entities], it doesn’t have a Secretariat, it doesn’t have that. This 
+makes logistics very difficult for us to ensure that this operational 
+effort that the platform requires can be made possible, for example, 
+with more autonomy […] if someone wants to invest in the platform, 
+we can’t receive that money. There’s no legal mechanism to make it 
+possible.” (I4)
+“The best people, the best data, the best design, I think everything is 
+being done, but we still can’t do the other step, which is to get this 
+material to everyone. […] Maybe we haven’t launched it in the best 
+way, have we? Maybe we haven’t publicized it in the best way, and 
+that’s not because “Oh, people aren’t interested?” No, it’s because 
+the platform has no resources, and the people working on the plat-
+form were volunteers. In addition to supervising X number of stu-
+dents, giving X number of hours, and being involved in the 
+construction of public policies, we also have to coordinate a platform 
+and make sure that the information reaches everyone. There’s no 
+way [we can do all of that].” (I6)
+These reflections show that, despite the interviewees’ and platform’s 
+best efforts, external political and financial constraints, as well as (inter) 
+personal dynamics and procedural issues, significantly limit the ability 
+of care to go beyond permeating the work put into the SDMs and the 
+interpersonal relations. As a result, BPBES struggles to systematically 
+impact and transform decision-making by means of policy-relevant 
+knowledge, which limits, in turn, its impacts on biodiversity 
+conservation.
+6.Discussion: care and the legacy of the linear model
+In environmental policy, linear understandings of science-policy re-
+lations shape organizations like BPBES, incentivizing them to frame 
+policy-relevant knowledge as apolitical, neutral, and objective (Beck, 
+2011; Beck et al., 2014; Compagnon and Cramer, 2016; Mahony and 
+Hulme, 2018; Gustafsson and Lidskog, 2023 ). As such framings sideline 
+knowledge plurality and obscure political agendas deeply ingrained in 
+environmental policy (Turnhout, 2024 ), this article has analyzed 
+policy-relevant knowledge production in BPBES through the lens of care 
+rather than as a neutral summarization of facts.
+Regarding the content of the assessments, SDMs do not directly 
+mention terms like “care,” “reciprocity” and “empathy”. Some in-
+terviewees suggested that introducing more explicit care terminology 
+could ‘touch hearts’, meaning that it could gain the attention of new 
+audiences and even shift practices. Others were concerned about overtly 
+subjective language tainting the credibility or objectivity of the report as 
+a factual synthesis of evidence and knowledge. The question of whether 
+care-related terminology fits into the SDMs directly relates back to the 
+tension of neutrality being simultaneously seen as limiting and as an 
+essential component of conveying epistemic authority along the linear 
+model of science-policy relations.
+This is not to say that care-related terminology is entirely absent in 
+the SDMs. Care is expressed through the use of terms like “repair”, 
+“maintenance”, and “restoration”. These terms reflect the commitment 
+of BPBES members to sustaining socio-ecological systems and show 
+some openness to making care for biodiversity an explicit part of SDMs. 
+At the same time, this language remains tied to technical demands of 
+efficiency in environmental policy, restricting care largely to contexts 
+where it can be translated into standardized and scalable practices with 
+quantifiable impact. Care, in its more substantive complexity, as out-
+lined in our theory section, currently has a very limited place in the 
+structures that shape the content of SDMs.
+Similar tensions emerge regarding the process of producing BPBES A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+6 
+assessments. We noted that experts care deeply about ensuring that the 
+assessments are relevant, accessible, and understandable for decision- 
+makers. Our findings also show that these aspirations often reinforce a 
+linear model in which appeals to the neutrality and objectivity of sci-
+entists become the core strategy for communicating authority to deci-
+sion makers. As such, the process often puts aside overtly affective or 
+political aspects of care while catering to what I10 described as decision 
+makers ’ demand for “absolute truths. ” Yet, these appeals to “absolute 
+truths ” point to unresolved tensions with BPBES ’s ambition of inclu -
+siveness towards plural forms of knowledge and perspectives. For 
+example, it has been widely argued that the extraction of Indigenous 
+knowledge for academic purposes often does more harm than good 
+(Alcoff, 2022; Ludwig and Poliseli, 2018; Kimmerer, 2012 ). If Indige -
+nous knowledge is reduced to supplementary data for mainstream sci-
+ence and governance, it becomes detached from Indigenous and local 
+practices and livelihoods. Recognizing that plural forms of knowledge 
+are always entangled with socially situated standpoints (Harding, 1993; 
+Haraway, 1988 ), however, threatens the linear narrative of 
+policy-relevant knowledge being independent from politicized issues 
+such as Indigenous struggles for self-determination.
+Furthermore, inclusive collaborations do not merely require theo-
+retical challenges of the linear model but also interpersonal care in 
+fostering transdisciplinary knowledge production, including conflict 
+resolution, facilitating collaboration, and ensuring inclusivity (Sellberg 
+et al., 2021; Milberg Mu~niz et al., 2024; De La Rosa et al., 2024 ). 
+Feminist thinkers have argued that more caring forms of research 
+require a commitment to participatory and collective work (Mountz 
+et al., 2015; Staffa et al., 2022 ). They involve slowing down (Stengers, 
+2016 ). The imperative of efficiency, however, makes it difficult to 
+develop such caring practices, threatening to stifle the capabilities to 
+care for ourselves and others (Mountz et al., 2015; Manzi et al., 2024 ). 
+This issue becomes particularly pressing regarding BPBES ’s and other 
+SPI platforms ’ ability to engage meaningfully with Indigenous and local 
+ontologies (Díaz-Reviriego et al., 2019 ). As SDMs are presented as 
+objective scientific summaries, knowledge based on non-modern on-
+tologies often appears incommensurable with dominant framings. 
+Indigenous ontologies, including practices of care, may, therefore, 
+appear too subjective to fit into SDMs. As Staffa et al. (2022) note, 
+modern science often creates a binary that sidelines emotions, associ -
+ating them with the private sphere and deeming them inappropriate for 
+the objective sphere of research. This exclusion and separation become 
+particularly striking regarding what is considered subjective, as well as 
+Indigenous and local practices of care, limiting BPBES ’s ability to realize 
+its ambitions of plurality and inclusivity.
+Finally, we turn to impact , which is where a considerable part of 
+BPBES ’s mission is intended to be realized. As much as interviewees 
+personally and professionally care about impact, the assessments ’ actual 
+impact routes are often undermined by bureaucracies, political contes -
+tation, academic overburden, economic priorities, resource limitations, 
+and epistemic challenges. Furthermore, having an impact through 
+“policy relevance ” often means focusing on utility rather than care 
+(Prattes, 2023 ) and showcasing efficiency rather than subjectivity or 
+reciprocity toward biodiversity. Even if concern about impact was 
+evident across the interviews, the modern and linear model, as well as 
+the wider interpersonal and systemic/institutional challenges into 
+which BPBES is currently inserted, does not provide many openings for 
+care and impact in substantive ways.
+In sum, care is present but also strikingly precarious across all three 
+dimensions - content, process, and impact - investigated in this study. Of 
+course, BPBES members care about biodiversity. It drives their 
+involvement in the platform, is reflected in the content of the assess -
+ment, and is articulated in the desire to have an impact on policy and 
+decision-making. At the same time, the forms of care often remain su-
+perficial and are severely restricted by the neoliberal, economic, sys-
+tematic, institutional, and epistemic set-up of BPBES, striving to provide 
+neutral and objective knowledge in efficient and usable ways. These restrictions risk reproducing a simplistic linear model of science-policy 
+relations while also threatening the ambitions of BPBES to include 
+diverse actors, with plural forms of knowledge and care, in the assess -
+ment production.
+7.Conclusion: caring policy-relevant knowledge?
+The title of this article remains a question as the results indicate 
+substantial challenges to producing and practicing caring policy- 
+relevant knowledge in the content, process, and impact of the SDMs. 
+At the same time, our findings are not exclusively negative. Care is 
+present across each of the investigated aspects of BPBES, highlighting 
+the possibility that “another knowledge is possible ” (Escobar et al., 
+2020; Turnhout, 2024 ) that embraces its affective, subjective, messy, 
+political dimensions and allows for a more caring policy-relevant 
+knowledge. Rather than presenting a sterile dichotomy between 
+policy-relevant objective facts and policy-irrelevant subjective care, 
+such a vision of caring policy-relevant knowledge could guide BPBES 
+and other SPI platforms toward a more nuanced understanding of the 
+complexity of knowledge production while opening research and 
+governance toward diversity and plurality in knowledge and care.
+Articulating such vision and practice of caring policy-relevant 
+knowledge, however, requires more than just mentioning care in the 
+discourse and content of SDMs. Discourse without practice risks repro -
+ducing buzzwords — empty language used to attract attention but 
+disconnected from real-world practices (Cornwall, 2010; Ludwig et al., 
+2024 ). Care is a powerful concept, but its transformative potential lies in 
+its intrinsic relationship with practice. As care terminology gains 
+prominence in academic and political spaces, especially post-COVID-19 
+(Holemans et al., 2021; Lula, 2023; The Care Collective, 2020 ), a sub-
+stantive articulation of caring policy-relevant knowledge would have to 
+provide more than just fashionable care terminology and appeals to care 
+theory. Much like other trending concepts, care can be diluted, co-opted, 
+or even weaponized in ways that replicate colonial harms (Prattes, 
+2023 ).
+One strategy for moving from care discourse to care practice is to 
+build stronger transdisciplinary commitments. Transdisciplinarity, 
+however, requires continuous training to develop transdisciplinary skills 
+and sensitivities (Deutsch et al., 2023 ), resource availability, and 
+collaborative processes that value inclusivity even when it comes to 
+tension with dominant understandings of relevance and efficiency. 
+Plural actors like policymakers, scientists, and local communities bring 
+diverse priorities, expectations, epistemologies, ontologies, and values 
+that do not always form a harmonious whole. Negotiations and di-
+alogues are, therefore, necessary (Puig de la Bellacasa, 2017 ). Conse -
+quently, caring policy-relevant knowledge may require stepping away 
+from comfortable narratives of transdisciplinarity that are based on 
+frictionless notions of knowledge integration (Klenk and Meehan, 2015 ) 
+or on ideals of win-win solutions. Care in transdisciplinary processes 
+demands reflexivity in questioning comfortable assumptions, willing -
+ness to work through conflicts and tensions, and commitment to build -
+ing new relations (Gottschlich and Katz, 2019; Staffa et al., 2022 ). This 
+approach not only benefits policy-relevant knowledge creators but also 
+could offer decision-makers an opportunity to shift perspectives and 
+practices.
+Navigating between policy demands for factual research assessments 
+on one hand and the relational character of care on the other it remains a 
+core challenge. While we recognize that policy-relevant knowledge must 
+remain accessible and credible, creating a space for care will also require 
+addressing the deeply entrenched legacy of the linear model in science- 
+policy interface platforms like BPBES. Specifically, we suggest that 
+policy-relevant knowledge cannot afford to strip away the situated, 
+relational, and embodied aspects of care in the process. After all, the 
+transformative role of care lies in its ability to weave together discourse, 
+practice, and relationality to create knowledge that is not only relevant 
+but also affective and ethical.A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+7 
+CRediT authorship contribution statement
+Esther Turnhout: Conceptualization, Supervision, Validation, 
+Writing – review & editing. Giulia De Fusco: Resources, Investigation, 
+Writing – review & editing, Validation, Methodology. Charbel El-Hani: 
+Supervision, Writing – review & editing. David Ludwig: Funding 
+acquisition, Writing – review & editing, Supervision, Conceptualization. 
+Adriana Ressiore C.: Formal analysis, Writing – original draft, Inves -
+tigation, Conceptualization, Methodology, Project administration, Data 
+curation, Writing – review & editing.
+Funding
+This work was primarily supported by the Dutch Research Council 
+(NWO) through the Vidi Grant V1.Vidi.195.026 (ETHNOONTOLOGIES). 
+Additional support was provided by the European Research Council 
+(ERC) through the Starting Grant No. 851004 (Local Knowledge), which funds the Global Epistemologies and Ontologies research project, of 
+which this study is a part.
+Declaration of Competing Interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgements
+We are grateful to the BPBES members and authors who gave their 
+time and attention to the interviews with Adriana; without each of them, 
+this research would not have been possible. Thank you for caring and 
+doing your best to create assessments and contribute to biodiversity 
+conservation in Brazil.
+ANNEX 1: Full interview guide
+Original questions in portuguese Questions translated to English
+Personal and BPBES
+1 Qual ˘e o seu nome completo? What is your full name?
+2 Qual ˘e a sua formaç ~ao e especializaç ~ao? What did you study and what is your area of expertise?
+3 Desde quando vocke trabalha com o BPBES? Since when do you work/collaborate with BPBES
+4 Qual sua(s) funç~ao(~oes) no BPBES? What is your role(s) within BPBES?
+5 O que te motivou a trabalhar com o BPBES? Porqu ke esta Plataforma? What motivated you to work with BPBES? Why this Platform?
+6 Quais aspectos do trabalho com a Plataforma vocke considera gratificante e quais vocke 
+considera desfiador? 
+(a) [se ainda n~ao respondeu] Quais s~ao os atores/público que o material da BPBES 
+atinge?Which aspects of working with the Platform you find more gratifying and which ones 
+are more challenging? 
+(a) (if not answered yet) which is the main audience that BPBES ’s materials reach?
+7 Vem a mente algum caso concreto em que tomadores de decis ~ao utilizaram/utilizam 
+as publicaç ~oes da BPBES para alguma tomada de decis ~ao ou uma política pública?Do you have in mind any concrete case where decision-makers used/or are using the 
+BPBES assessments for a decision-making process or a policy?
+8 Me corrija se eu estiver errada, mas pra essa pesquisa eu parto do pressuposto de que os 
+sum˘arios para os tomadores de decis ~ao produzem um conhecimento que ˘e relevante 
+para informar os políticas para a biodiversidade. Certo? Considerando isso o que ˘e que 
+vocke entende por conhecimento relevante para os tomadores de decis ~ao? 
+(a) Vocke acha esse conhecimento ˘e diferente do conhecimento cientifico?Correct me if I’m wrong, but for this research I’m assuming that summaries for 
+decision-makers produce knowledge that is relevant to inform biodiversity policy- 
+making. Right? Considering this, what do you understand by relevant knowledge for 
+decision-makers? 
+(a) Do you think this knowledge is different from scientific knowledge?
+9 Vocke poderia me contar um pouco sobre o desenvolvimento dos sum˘arios para os 
+tomadores de decis ~ao. E como foi/˘e a sua participaç ~ao? E mais especificamente, como 
+˘e o processo de decidir o que entra e o que n~ao entra nesse sum˘ario?Could you tell me a little about the development of the summaries for decision- 
+makers? And what was/is your role in this process? More specifically, how is the 
+process of deciding what is included and what is left out of these summaries?
+10 No seu trabalho, escrevendo os sum˘arios para os tomadores de decis ~ao, vocke percebe 
+alguma tens~ao/conflito entre o processo de criar o conhecimento e o processo da 
+pr˘atica (no caso implementar as políticas)?In your work writing summaries for decision-makers, do you notice any tension 
+between the process of creating knowledge and the process of practice (in this case, 
+implementing policies)?
+​ Care & More-than-human care
+11 Em poucas palavras, quando falo cuidar ou cuidado, o que ˘e que lhe vem primeiro ˇa 
+mente? (um sinkonimo, talvez)In a few words, when I say care or caring, what comes to your mind first? (perhaps a 
+synonym)
+12 O que ˘e uma relaç ~ao cuidadosa para vocke? What is a caring relations in your view?
+13 O que vocke diria que ˘e uma forma de cuidar da biodiversidade? 
+(a) Vocke consegue pensar em algum exemplo de relaç ~oes (entre humanos e 
+biodiversidade) que vocke acha cuidadosa?What would you say is a way to care for biodiversity? 
+(a) Can you think of any examples of relationships (between humans and 
+biodiversity) that you consider caring?
+14 Quando pensa em cuidar ou cuidado no kambito da BPBES, o que ˘e que lhe vem ˇa 
+mente?When you think of care or caring within the BPBES, what comes to mind?
+15 O que ˘e que voce diria que ˘e uma forma explicita de cuidado nos sum˘arios para os 
+tomadores de decisao?What would you say is an explicit form of care in the summaries for decision-makers?
+16 O que ˘e que vocke diria que ˘e uma forma implícita de cuidado nos sum˘arios para os 
+tomadores de decisao?What would you say is an implicit form of care in the summaries for decision-makers?
+Care & Policy-relevant Knowledge
+17 Vocke acha que o tipo de conhecimento que vocke produziu/sumarizou para os relat ˘orios 
+influenciou a sua forma de cuidar (nesse caso, mais especificamente dos seres da 
+natureza)? 
+(a) E a sua forma de cuidar (tamb ˘em em relaç ~ao ˇa natureza) influencia o 
+conhecimento produzido?Do you think the type of knowledge you produced/summarized for the reports has 
+influenced your way of caring (in this case, more specifically for beings in nature)? 
+(a) And does your way of caring (also in relation to nature) influence the knowledge 
+produced?
+18 Existe alguma forma em que o tipo de conhecimento relevante para as políticas 
+poderia ser mais cuidadoso? 
+(a) Como? Se n~ao, por quke? Quais s~ao os impedimentos?Is there any way in which the type of knowledge relevant to policies could be more 
+caring? 
+(a) How? If not, why? What are the barriers?
+More informal reflections at the end when with time
+19 Na minha pesquisa, aprendi que o cuidado entre humans e natureza tem a ver com 
+pr˘aticas quotidianas do dia a dia; que ele baseia-se em relaç ~oes de interconex ~ao e 
+interdepend kencia entre humanos e n~ao-humanos e na reciprocidade entre esp˘ecies. 
+Tem tamb ˘em um aspecto autorreflexivo. Tem como objetivo de que muitos (humanos 
+e n~ao humanos) possam florescer juntos. Finalmente tem tamb ˘em o potencial de In my research, I learned that care between humans and nature has to do with 
+everyday practices; that it is based on relationships of interconnectedness and 
+interdependence between humans and non-humans, as well as reciprocity between 
+species. It also has a self-reflective aspect. Its goal is for many (humans and non- 
+(continued on next page)A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+8 
+(continued )
+Original questions in portuguese Questions translated to English
+ampliar o olhar sobre as relaç ~oes de cuidados humanos e n~ao humanos. O que pensa 
+sobre isso?humans) to flourish together. Finally, it also has the potential to broaden perspectives 
+on human and non-human care relationships. What do you think about this?
+20 Trabalhando com as quebradeiras de coco babaçu (MIQCB), aprendi que o conflito 
+muitas vezes acaba coexistindo com o cuidado, permitindo que elas possam cuidar da e 
+com as palmeiras de babaçu. Vocke vke essa coexist kencia de cuidado e conflito como algo 
+tamb ˘em presente no trabalho da BPBES?Working with the babaçu coconut breakers (MIQCB), I learned that conflict often 
+coexists with care, enabling them to care for and with the babaçu palm trees. Do you 
+see this coexistence of care and conflict as something also present in what BPBES 
+does?
+21 Tem alguma pergunta que vocke gostaria de fazer para mim? Alguma sugest ~ao ou 
+reflex ~ao baseada na nossa conversa?Would you like to ask me something? Any suggestion or reflexion from this 
+conversation?
+Data availability
+The authors do not have permission to share data.
+References
+Abranches, S., 2020. Biological megadiversity as a tool of soft power and development 
+for Brazil. Bras. Political Sci. Rev. 14, 1–18.
+Absolon, K.E., 2022. Kaandossiwin: how we come to know: Indigenous re-search 
+methodologies, Second ed. Fernwood Publishing, pp. 1–349.
+Alcoff, L.M., 2022. Extractivist epistemologies. Tapuya Latin Am. Sci. Technol. Soc. 5 (1), 
+2127231 .
+Azevedo-Santos, V.M., Fearnside, P.M., Oliveira, C.S., Padial, A.A., Pelicice, F.M., 
+Lima, D.P., Vitule, J.R., 2017. Removing the abyss between conservation science and 
+policy decisions in Brazil. Biodivers. Conserv. 26, 1745 –1752 .
+Bammer, G., 2016. Tools for transdisciplinary research. Transdisciplinary research and 
+practice for sustainability outcomes. Routledge, pp. 63–78.
+Barnes, M., 2012. Care in everyday life: an ethic of care in practice. Policy Press .
+Bartos, A.E., 2018. The uncomfortable politics of care and conflict: Exploring 
+nontraditional caring agencies. Geoforum 88, 66–73.
+Beck, S., 2011. Moving beyond the linear model of expertise? IPCC and the test of 
+adaptation. Reg. Environ. Change 11, 297–306.
+Beck, S., Borie, M., Chilvers, J., Esguerra, A., Heubach, K., Hulme, M., Gorg, C., 2014. 
+Towards a reflexive turn in the governance of global environmental expertise. cases 
+IPCC Ipbes. GAIAEcol. Perspect. Sci. Soc. 23 (2), 80–87.
+BPBES (n.d.) Quem somos (who are we). BPBES Website. ⊑https://www.bpbes.net. 
+br/quem-somos/⊒.
+Brazil, Secretaria de Biodiversidade e Florestas, 1999) First National Report for the 
+Convention on Biological Diversity, Brazil. Ministry of Environment-MMA, 
+Secretariat for Biodiversity and Forests. Retrieved January 20, 2025, from ⊑https:// 
+www.cbd.int/doc/world/br/br-nr-01-p1-en.pdf ⊒.
+Ca~nada, A.J., Sariola, S., Butcher, A., 2022. In critique of anthropocentrism: a more-than- 
+human ethical framework for antimicrobial resistance. Med. Humanit. 48 (4), e16. 
+-e16. 
+Chilisa, B., 2017. Decolonising transdisciplinary research approaches: an African 
+perspective for enhancing knowledge integration in sustainability science. Sustain. 
+Sci. 12 (5), 813–827. https://doi.org/10.1007/s11625-017-0461-1 .
+Chilisa, B., 2019. Indigenous research methodologies, second ed. SAGE Publications, Inc, 
+p. 392.
+Compagnon, D., Cramer, W., 2016. The IPCC experience and lessons for IPBES. Intergov. 
+Platf. Biodivers. Ecosyst. Serv. 131–146.
+Cornwall, A., 2010. Introductory overview –buzzwords and fuzzwords: deconstructing 
+development discourse. Deconstructing Dev. Discourse 1. Oxfam GB 1-18. 
+Cox, R., 2010. Some problems and possibilities of caring. Ethics Place Environ. 13 (2), 
+113–130.
+De Fusco, G. (2022). Boundary organizations in biodiversity governance: A case study 
+from Brazil [Master Thesis, Wageningen University, Public Administration and 
+Policy]. Wageningen University & Research - Library. ⊑https://edepot.wur.nl 
+/640165⊒.
+De La Rosa, G., Milberg Mu~niz, E., El-Hani, C.N., Ludwig, D., 2024. Navigating between 
+promises and realities of transdisciplinary research for environmental conservation. 
+Hum. Ecol. 52 (3), 697–708.
+Deutsch, S., Keller, R., Krug, C.B., Michel, A.H., 2023. Transdisciplinary transformative 
+change: an analysis of some best practices and barriers, and the potential of critical 
+social science in getting us there. Biodivers. Conserv. 32 (11), 3569 –3594 .
+Díaz-Reviriego, I., Turnhout, E., Beck, S., 2019. Participation and inclusiveness in the 
+intergovernmental science –policy platform on biodiversity and ecosystem services. 
+Nat. Sustain. 2 (6), 457–464.
+Enria, L., 2016. Co-producing knowledge through participatory theatre: reflections on 
+ethnography, empathy and power. Qual. Res. 16 (3), 319–329.
+Escobar, A., de Souza Filho, C.F.M., Nunes, J.A., Coelho, J.P.B., dos, Santos, L.G., de 
+Oliveira Neves, L.J., Ghai, Y., 2020. Another Knowledge Is Possible: Beyond northern 
+epistemologies. Verso Books .
+Fapesp (n.d.) Programa BIOTA/FAPESP. FAPESP: Fomento ˇa pesquisa. ⊑https://fapesp. 
+br/biota/⊒.
+Fisher, B., Tronto, J.C., 1990. “Toward a Feminist Theory of Caring. ”. In: Abel, E.K., 
+Nelson, M. (Eds.), Circles of Care. SUNY Press, Albany . Giraud, E.H., 2019. What comes after entanglement?: Activism, anthropocentrism, and an 
+ethics of exclusion . Duke University Press .
+Gottschlich D., Katz C. (2019) Caring with Nature/s: Zur transforma- tiven Bedeutung 
+von Care in More Than Human Worlds. ⊑https://www.akademie-solidarische-oekon 
+omie.de/wp-content/uploads/ ⊒.
+Gustafsson, K.M., Lidskog, R., 2023. Expertise for policy-relevant knowledge. IPBES ’s 
+epistemic infrastructure and guidance to make environmental assessments. J. Integr. 
+Environ. Sci. 20 (1), 2187844 .
+Hankivsky, O., 2014. Rethinking care ethics: on the promise and potential of an 
+intersectional analysis. Am. Political Sci. Rev. 108 (2), 252–264.
+Haraway, D.J., 1988. Situated knowledges: the science question in feminism and the 
+privilege of partial perspective. Fem. Stud. 14 (3), 575–599. https://doi.org/ 
+10.2307/3178066 .
+Harding, S., 1993. Rethinking Standpoint Epistemology: What is Strong Objectivity. In: 
+Linda Alcoff, Elizabeth Potters (Eds.), Feminist Epistemologies. Routledge, London . 
+Hartman, Y., Darab, S., 2012. A call for slow scholarship: a case study on the 
+intensification of academic life and its implications for policy. Rev. Educ. Pedagog. 
+Cult. Stud. 34 (1-2), 49–60.
+Held, V., 2006. New York. The Ethics of Care: Personal, Political, and Global. Oxford 
+University Press .
+Hesse-Biber, S.N., 2013. Feminist Research Practice: A Primer. Sage Publications .
+Holemans, D., Osman, P., Franssen, M., 2021. Dare to care: Ecofeminism as a source of 
+inspiration. The Green European Foundation (GEF) Publication. ⊑https://gef. 
+eu/publication/dare-to-care/ ⊒.
+Inoue, C.Y., Mendes, V., 2024. Connecting Life on Land (SDG 15) with Planetary Justice 
+in the Amazon. In The Quest for the Sustainable Development Goals: Living 
+experiences in territorializing the 2030 Agenda in Brazil. Springer International 
+Publishing, Cham, pp. 169–179.
+IPBES (n.d.) Indigenous and local knowledge in IPBES. Work Programme: Strengthening 
+the knowledge foundations. ⊑https://www.ipbes.net/indigenous-local-knowledge ⊒.
+IPCC (n.d.) Frequently Asked Questions. IPCC Website. ⊑https://www.ipcc.ch/help/fre 
+quently-asked-questions/ ⊒.
+Jagannathan, K., Emmanuel, G., Arnott, J., Mach, K.J., Bamzai-Dodson, A., Goodrich, K., 
+Klenk, N., 2023. A research agenda for the science of actionable knowledge: Drawing 
+from a review of the most misguided to the most enlightened claims in the science- 
+policy interface literature. Environ. Sci. Policy 144, 174–186.
+Karam-Gemael, M., Loyola, R., Penha, J., Izzo, T., 2018. Poor alignment of priorities 
+between scientists and policymakers highlights the need for evidence-informed 
+conservation in Brazil. Perspect. Ecol. Conserv. 16 (3), 125–132.
+Karhunmaa, K., 2020. Performing a linear model: the professor group on energy policy. 
+Environ. Sci. Policy 114, 587–594.
+Kimmerer, R.W., 2012. Searching for synergy: integrating traditional and scientific 
+ecological knowledge in environmental science education. J. Environ. Stud. Sci. 2, 
+317–323.
+Kindon, S., Pain, R., Kesby, M., 2007. Participatory action research approaches and 
+methods. In: Connecting People, Participation and Place, 260. Routledge, Abingdon . 
+Klenk, N., Meehan, K., 2015. Climate change and transdisciplinary science: 
+Problematizing the integration imperative. Environ. Sci. Policy 54, 160–167.
+Krzywoszynska, A., 2019. Caring for soil life in the Anthropocene: the role of 
+attentiveness in more-than-human ethics. Trans. Inst. Br. Geogr. 44 (4), 661–675.
+Lahsen, M., Turnhout, E., 2021. How norms, needs, and power in science obstruct 
+transformations towards sustainability. Environ. Res. Lett. 16 (2), 025008 .
+Lang, D.J., Wiek, A., Bergmann, M., Stauffacher, M., Martens, P., Moll, P., Thomas, C.J., 
+2012. Transdisciplinary research in sustainability science: practice, principles, and 
+challenges. Sustain. Sci. 7 (1), 25–43. https://doi.org/10.1007/s11625-011-0149-x .
+Leavy, P. (2017). Research Design. New York, The Guilford. Kindle Edition ISBN: 
+9781462530021.
+Long, J.W., Ballard, H.L., Fisher, L.A., Belsky, J.M., 2016. Questions that won ’t go away 
+in participatory research. Soc. Nat. Resour. 29 (2), 250–263.
+Longino, H.E., 1990. Science as Social Knowledge: Values and Objectivity in Scientific 
+Inquiry. Princeton University Press .
+Lorenz, C., 2012. If you’re so smart, why are you under surveillance? Universities, 
+neoliberalism, and new public management. Crit. Inq. 38 (3), 599–629.
+Losito, L., 2022. Mulheres de Terra e ˘Agua. Editora Elefante, S~ao Paulo . 
+Ludwig, D., Boogaard, B.K., 2021. Making transdisciplinarity work: An epistemology of 
+inclusive development and innovation. The politics of knowledge in inclusive 
+development and innovation. Routledge, pp. 19–33.
+Ludwig, D., Poliseli, L., 2018. Relating traditional and academic ecological knowledge: 
+mechanistic and holistic epistemologies across cultures. Biol. Philos. 33, 1–19.A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+9 
+Ludwig, D., El-Hani, C.N., Gatti, F., Kendig, C., Kramm, M., Neco, L., Wilson, R.A., 2024. 
+Transdisciplinary philosophy of science: Meeting the challenge of indigenous 
+expertise. Philosophy Sci.
+Ludwig, D., Milberg, E.M., Gatti, F., 2024. Reclaiming epistemic diversity between 
+community struggles and corporate capture. Sci. People 26 (Nº 2).
+Lula, L.I.S. (2023) Discurso Do Presidente Lula No Parlat ˘orio Do Pal˘acio Do Planalto. 
+Governo Brasileiro. ⊑https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/dis 
+cursos-e-pronunciamentos/2023/discurso-do-presidente-lula-no-parlatorio-do-pala 
+cio-do-planalto⊒.
+Mahony, M., Hulme, M., 2018. Epistemic geographies of climate change: Science, space 
+and politics. Prog. Hum. Geogr. 42 (3), 395–424.
+Manzi, M., Ojeda, D., Hawkins, R., 2024. Creating “wiggle room ”: Spaces of care and 
+possibility within the neoliberal academy. Geoforum 149, 103962 .
+Matuk, F.A., Verschuuren, B., Morseletto, P., Krause, T., dos Reis Carvalho, B.L., 2023. 
+Advancing co-production for transformative change by synthesizing guidance from 
+case studies on the sustainable management and governance of natural resources. 
+Environ. Sci. Policy 149, 103574 .
+Menezes, M. (2019). Geradores da diversidade - BPBES (R. Aguiar, Ed.). BPBES - 
+Plataforma Brasileira De Biodiversidade E Serviços Ecossist kemicos. ⊑https://www. 
+bpbes.net.br/geradores-da-diversidade/ ⊒.
+Milberg Mu~niz, E., Ludwig, D., El-Hani, C.N., 2024. Research as a Mangrove: 
+Emancipatory science and the messy reality of transdisciplinarity. Int. Rev. Qual. 
+Res.
+Moriggi, A., Soini, K., Bock, B.B., Roep, D., 2020a. Caring in, for, and with nature: An 
+integrative framework to understand green care practices. Sustainability 12 (8), 
+3361 .
+Mountz, A., Bonds, A., Mansfield, B., Loyd, J., Hyndman, J., Walton-Roberts, M., 
+Curran, W., 2015. For slow scholarship: a feminist politics of resistance through 
+collective action in the neoliberal university. ACME Int. J. Crit. Geogr. 14 (4), 
+1235 –1259 .
+Ojeda, J., Salomon, A.K., Rowe, J.K., Ban, N.C., 2022. Reciprocal contributions between 
+people and nature: a conceptual intervention. Bioscience 72 (10), 952–962.
+Padgurschi, M.D.C.G., Joly, C.A., 2017. Brief history of the Brazilian platform on 
+biodiversity and ecosystem services/BPBES. Biota Neotrop. 17 (1), e20170101. 
+https://doi.org/10.1590/11676-0611-BN-2017-00010001 .
+Pascual, U., Adams, W.M., Díaz, S., et al., 2021. Biodiversity and the challenge of 
+pluralism. Nat. Sustain. https://doi.org/10.1038/s41893-021-00694-7 .
+Prattes, R., 2023. Colonial care: care in the service of whiteness. Essays Philos. 24 (1/2), 
+41–57.
+Puig de la Bellacasa, M., 2015. Making time for soil: technoscientific futurity and the 
+pace of care. Soc. Stud. Sci. 45 (5), 691–716.
+Puig de La Bellacasa, M, 2017. Matters of Care: Speculative Ethics in More than Human 
+Worlds, 41. U of Minnesota Press .
+Raghuram, P., 2016. Locating care ethics beyond the global north. ACME Int. J. Crit. 
+Geogr. 15 (3), 511–533.
+Rasanen, A., Sarkki, S., Haanp aa, O., Isolahti, M., Kekkonen, H., Kikuchi, K., 
+Heikkinen, H.I., 2024. Bridging the knowledge-action gap: a framework for co- 
+producing actionable knowledge. Environ. Sci. Policy 162, 103929 .
+Ressiore, A.C., & De La Rosa, G. (in press). Transdisciplinary care in practice: Reflections 
+from the Council of Care. Socio-Ecological Practice Research.
+Ressiore C, A., Lima, C.L.S., Turnhout, E., 2024a. Care narratives: Babassu breakers and 
+mother palm trees. Geoforum 156, 104109 .
+Ressiore C, A., Ludwig, D., El-Hani, C., 2024b. The conceptual potential of ‘more-than- 
+human care’: A reflection with an artisanal fishing village in Brazil. Geo Geogr. 
+Environ. 11 (2), e00159 .Roller, M.R., Lavrakas, P.J., 2013. Applied qualitative research design: a total quality 
+framework approach. Arts-based research primer. Guilford Press. Rolling, New York. 
+Roulston, K., Choi, M., 2018. Qualitative interviews. SAGE Handb. Qual. data Collect. 
+233–249.
+Santiago, I.C., Karimi, N., Alicea, Z.R.A., 2017. Neoliberalism and higher education: a 
+collective autoethnography of brown women teaching assistants. Gend. Educ. 29, 
+48–65.
+Scarano, F.R., Padgurschi, M.C., Pires, A.P., Castro, P.F., Farinaci, J.S., Bustamante, M., 
+Joly, C.A., 2019. Increasing effectiveness of the science-policy interface in the 
+socioecological arena in Brazil. Biol. Conserv. 240, 108227 .
+Sellberg, M.M., Cockburn, J., Holden, P.B., Lam, D.P., 2021. Towards a caring 
+transdisciplinary research practice: navigating science, society and self. Ecosyst. 
+People 17 (1), 292–305.
+Silberzahn, L., 2024. Care, ecology, and the crisis of Eco-social reproduction: Politicizing 
+more-than-human care. Hypatia 39 (4), 711–731.
+Staffa, R.K., Riechers, M., Martin-Lopez, B., 2022. A feminist ethos for caring knowledge 
+production in transdisciplinary sustainability science. Sustain. Sci. 17 (1), 45–63.
+Stålhammar, S., 2021. Assessing people ’s values of nature: where is the link to 
+sustainability transformations? Front. Ecol. Evol. 9, 624084 .
+Stengers, I. (2016). “Another science is possible! ”: A plea for slow science. In Demo (s) 
+(pp. 53-70). Brill.
+Taku ˘a, C., 2022. Uma mulher Maxakali em uma aldeia Guarani: o feminismo 
+comunit ˘ario e o bem vivier como política. In: Losito, L. (Ed.), Mulheres de Terra e 
+˘Agua. Editora Elefante, S~ao Paulo . 
+Temper, L., McGarry, D., Weber, L., 2019. From academic to political rigour: Insights 
+from the ‘Tarot ’of transgressive research. Ecol. Econ. 164, 106379 .
+Teng o, M., Hill, R., Malmer, P., Raymond, C.M., Spierenburg, M., Danielsen, F., Folke, C., 
+2017. Weaving knowledge systems in IPBES, CBD and beyond —lessons learned for 
+sustainability. Curr. Opin. Environ. Sustain. 26, 17–25.
+The Care Collective (2020). The Care Manifesto: The Politics of Interdependence. Verso. 
+114 pp., (e-book), ISBN: 978-1-83976-096-9.
+Tronto, J.C., 2013. Caring Democracy: Markets, Equality, and Justice. New York 
+University Press .
+Turnhout, E., 2024. A better knowledge is possible: transforming environmental science 
+for justice and pluralism. Environ. Sci. Policy 155, 103729 .
+Turnhout, E., Lynch, C.R., 2024. Raising the carbonized forest: science and technologies 
+of singularization. Environ. Plan. F.
+Turnhout, E., Waterton, C., Neves, K., Buizer, M., 2013. Rethinking biodiversity: from 
+goods and services to “living with ”. Conserv. Lett. 6 (3), 154–161.
+Turnhout, E., Dewulf, A., Hulme, M., 2016. What does policy-relevant global 
+environmental knowledge do? The cases of climate and biodiversity. Curr. Opin. 
+Environ. Sustain. 18, 65–72.
+Turnhout, E., Tuinstra, W., Halffman, W., 2019. Environmental Expertise. Cambridge 
+University Press .
+Turnhout, E., Metze, T., Wyborn, C., Louder, E., 2020. The politics of co-production: 
+participation, power, and transformation. Curr. Opin. Environ. Sustain. 42, 15–21. 
+https://doi.org/10.1016/j.cosust.2020.02.017 .
+Van de Pavert, M., Ressiore, A.C., 2023. Caring with the non-human: reciprocity in 
+market gardening. Exch. Interdiscip. Res. J. 10 (2), 163–176. https://doi.org/ 
+10.31273/eirj.v10i2.972 .
+Watson, R.T., 2005. Turning science into policy: challenges and experiences from the 
+science –policy interface. Philos. Trans. R. Soc. B 360 (1454), 471–477.
+Weitzman, R., Godoi, E.P.D., Lovo, A.R., 2024. Modos de cuidar e se movimentar: 
+experi kencias etnogr ˘aficas entre indígenas, quilombolas e agricultoras familiares. 
+Rev. De. Antropol. 67, e205162 .A. Ressiore C. et al.                                                                                                                                                                                                                            Environmental  Science  and Policy  171 (2025)  104170  
+10 

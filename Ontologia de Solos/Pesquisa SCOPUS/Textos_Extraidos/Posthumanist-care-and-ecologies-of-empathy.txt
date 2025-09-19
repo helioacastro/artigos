@@ -1,0 +1,1557 @@
+Posthumanist Care and Ecologies of Empathy:
+Investigating Design Potentials for Nature:Culture HCI
+Pedro Galvão-Ferreira∗
+ITI/LARSyS, Instituto Superior Técnico, U. Lisboa
+Lisboa, Portugal
+pedro.galvao.ferreira@tecnico.ulisboa.ptVera K. G. Fearns
+ITI/LARSyS, Instituto Superior Técnico, U. Lisboa
+Lisboa, Portugal
+vera.fearns@tecnico.ulisboa.pt
+Nuno Nunes
+ITI/LARSyS, Instituto Superior Técnico, U. Lisboa
+Lisboa, Portugal
+nunojnunes@tecnico.ulisboa.ptValentina Nisi
+ITI/LARSyS, Instituto Superior Técnico, U. Lisboa
+Lisboa, Portugal
+valentina.nisi@tecnico.ulisboa.pt
+ABSTRACT
+HCI nature:culture dialogues have recently gained traction, high-
+lighting ample opportunities for investigation. In this paper we
+look at the potential of locative games in fostering caring engage-
+ment with natural/cultural heritage. We present the results of a
+contextual study that explores the nature:culture duality of the
+Levada walks on Madeira Island and their intrinsic playfulness as a
+natural landscape. Through a combination of narrative self-reports
+and cultural probes, we conducted an on-site investigation of the
+motivations and embodied experiences of hiking these trails, dis-
+tilling an empirical epistemology of human-nature interactions. By
+unpacking the various realities and tensions on the ground through
+a feminist ethics of care and posthuman lens, we provide insight
+into the design of future locative interactive technologies to support
+and encourage human-nature interaction. Our findings address and
+promote values of engagement and conservation in cultural and
+natural heritage through a nature:culture continuum.
+CCS CONCEPTS
+•Human-centered computing →HCI theory, concepts and
+models .
+KEYWORDS
+Nature; Care; Feminist Ethics; Heritage; Locative games; Qualitative
+Methods; Posthumanism
+ACM Reference Format:
+Pedro Galvão-Ferreira, Vera K. G. Fearns, Nuno Nunes, and Valentina Nisi.
+2024. Posthumanist Care and Ecologies of Empathy: Investigating Design
+Potentials for Nature:Culture HCI. In Proceedings of the 27th International
+Academic Mindtrek Conference (Mindtrek ’24), October 08–11, 2024, Tam-
+pere, Finland. ACM, New York, NY, USA, 14 pages. https://doi.org/10.1145/
+3681716.3681731
+This work is licensed under a Creative Commons Attribution International
+4.0 License.
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+©2024 Copyright held by the owner/author(s).
+ACM ISBN 979-8-4007-1823-6/24/10
+https://doi.org/10.1145/3681716.36817311 INTRODUCTION
+In design research and human-computer interaction (HCI), one
+emerging area of interest is how digital technology intersects with
+the natural environments and nature at large [ 115]. Recently, in
+light of the joint climate and biodiversity crises, cultural heritage
+has been looked at as closely coupled with nature [ 13,40]. The
+study described in this paper situates itself at this crossroads, fo-
+cusing on the potential of location-based interactive technologies,
+such as locative games (LGs), to enhance engagement with and
+social visiting practices at cultural and natural heritage sites within
+a posthumanist paradigm of care [ 32,54,92]. Here we refer to Mon-
+tola’s definition of LGs as games that exert their action across three
+dimensions: temporal, spatial and social [ 2,68,102]. Therefore, we
+explore the potential of LGs to change the experience of the places
+for those present in those locations, be them playing or not [68].
+In this paper, we examine the potential of the UNESCO-protected
+natural sites of the Levadas nature walks of the Madeira Islands,
+an instance of nature:culture heritage [ 40] that symbolizes the
+intricate balance between conservation, culture and tourism as a
+unique setting with the potential for LGs — tools that enable visitors
+to see places ‘with new eyes’, revealing hidden aspects and creating
+new types of interaction [ 67]. Despite the Levadas ’ dual role as vital
+infrastructure — water canals — and a cultural-natural asset, these
+sites still face tensions between conservation needs and tourism
+demands [35, 73].
+1.1 Research questions and design contributions
+This paper is driven by an interrogation of the potential role of
+interactive technologies, and particularly LGs, in enhancing experi-
+ences, conservation efforts and visitor engagement at cultural and
+natural heritage sites. Focusing on nature:culture engagement and
+visitor experiences at such sites, we ask how location-based solu-
+tions foster caring engagement with natural and cultural heritage,
+specifically in the context of the Levadas of Madeira Island, as well
+as what the motivations and embodied experiences of those walking
+theLevadas , and how a nuanced understanding of these experi-
+ences can offer design opportunities for engaging in location-based
+HCI. Our investigation has also been urged by a need to scrutinize
+how LGs may navigate the tensions between conservation needs
+and tourism demands at sites such as the Levadas . Ultimately, the
+current paper looks ahead into the potential implications that our
+81
+
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Galvão-Ferreira, et al.
+findings have for future design and development of LGs within
+natural-cultural heritage sites.
+Our efforts align with the current push towards integrating prin-
+ciples of care [ 54,62] and sustainability [ 29] within the field of
+HCI. Instead of creating technologies to exploit our interactions
+with nature for mere utilitarian purposes, we aim to foster design
+innovations and interactions that encourage us to appreciate and
+nurture the natural environment. Under this lens, the environment
+and its heritage sites are not viewed as resources to be used at
+our convenience and for our mere pleasure but as environments
+of mutual living that deserve our affection and reverence. Conse-
+quently, we reject the notion of technology as a means to exploit
+nature, instead emphasizing its role in facilitating environmentally
+friendly and compassionate interactions between all its inhabitants
+and visitors.
+Our research holds significance for the design research com-
+munity as it provides exploratory insight into the intersection of
+digital technology with cultural and natural conservation, a critical
+issue in an era where technology and the environment increas-
+ingly intersect [ 23]. We hope that the empirical insights gained
+will be pivotal for natural heritage conservation, enhancing visitor
+experiences while contributing to our understanding of how digital
+interventions can sustainably enhance local values and economies.
+Our methodologies include on-site studies with various partic-
+ipant groups at the Levadas . To support this approach, we em-
+ployed qualitative tools — visitors’ narrative self-reports and cul-
+tural probes (sensory maps and visitor postcards) — to capture
+a holistic view of visitor motivations and engagements with na-
+ture:culture.
+The paper is structured to first delve into the theoretical back-
+ground and literature review, followed by a methodology section.
+We then present our findings and discuss their implications for HCI,
+conservation and tourism. Finally, we conclude with reflections on
+potential technological interventions in enhancing people’s experi-
+ences of, and relationships with, nature.
+2 BACKGROUND AND RELATED WORK
+This research was motivated by prior work using technology to
+tackle the disconnect between humans and nature, focusing on LGs
+[4,16,27]. In the following, we summarize the related work and
+give contextual information to this paper’s research program.
+2.1 Matters of care: a posthumanist and
+feminist ethics for nature engagement
+Tourism and conservation can coexist beneficially, with engag-
+ing experiences at natural heritage sites encouraging visitors to
+support conservation efforts [ 117]. Despite growing awareness of
+biodiversity issues, the disconnect from nature remains a complex
+challenge, exacerbated by diminishing direct human interactions
+with natural environments. This trend, noted by ecologists Soga
+and Gaston, has led to decreased public health, well-being, and
+pro-environmental behaviors, underscoring the urgent need for
+re-engagement with nature and a solution for this ‘extinction of
+experience’ [15, 63, 90, 100].
+A major playground for human-nature interactions, outdoor
+activities in natural landscapes partly tackle the disconnect withnature by offering significant health and well-being benefits, en-
+hancing mood, cognitive function, and reducing stress and depres-
+sion [ 5,42,55,94,103,118]. Still, they are also intertwined with
+cultural heritage, reflecting a Western dichotomy that separates
+nature from culture, with the former often seen as a resource for
+human benefit or conservation [ 13,50]. This perspective, honed
+within our Anthropocene era, highlights the profound impact of
+human activity on nature, urging a reevaluation of nature as part
+of our heritage and emphasizing a collective responsibility towards
+its preservation [20, 59, 81].
+Recent work has mindfully investigated the potential of human-
+nature interactions in inspiring “a new wave of joyful forest technol-
+ogy that transcends techno-solutionism and focuses on alternative
+values of joy and care” [ 3], attempting to reconnect urban pop-
+ulations with nature [ 111], support conservation of endangered
+wildlife [ 79] or look into gardeners’ biodiversity relations [ 93].
+While it has been suggested that technology can enhance our re-
+lationship with nature [ 108], the effectiveness of these tools in
+fostering nature connections is debated [ 96]. Such preoccupation
+with caring for — and enjoying the experience of — nature has
+drawn from feminist and posthuman insight into human-nature
+and nature/culture dyads (or, as some would argue, continuum)
+[34,54,71,97,104], “showing how everything is closely connected
+within a complex system and demonstrating the need to converge
+different viewpoints and movements that have similar and coherent
+aims at their base” [51].
+As a meta-ecological framework, posthumanist care extends be-
+yond traditional human-centered approaches to include the agency
+and value of non-human entities, emphasizing ethical and relational
+engagement with the more-than-human world while recognizing
+the interconnectedness of all life forms [ 54]. Caring within this
+context manifests as active practices that honor the intrinsic worth
+of nature and encourage mutual respect and sustainable interac-
+tions across species, enhancing conservation efforts by shifting
+the focus from purely human interests to a more holistic approach
+that values the well-being and agency of the more-than-human
+world [ 49,54,93]. By fostering collaborative stewardship and ethi-
+cal responsibility, a posthumanist care ethics challenges traditional
+human-centered views, emphasizing the interconnected, holistic
+relationship between humans and the broader natural world and
+is attentive to more-than-human perspectives as it recognizes the
+agency and value of non-human entities [ 6,11,24,54,89]. As articu-
+lated in Bellacasa’s Matters of Care [89], for instance, a posthumanist
+ethics of care subsequently emphasizes a relational approach that
+actively engages with the world in ethical and political ways.
+Attitudes to care have, for instance, demonstrated the importance
+of recognizing diverse interdependent temporalities and disrupt-
+ing anthropocentric progress-driven models [ 88] and encouraged
+expanding the moral community of care to include non-human
+persons [ 11]. By emphasizing learning to care for non-humans as
+kin, practices of care make it possible to “embrace diverse kinds of
+more-than-human entanglements” [ 24,107]. Extending these in-
+sights into the generation of locative HCI experiences suggests the
+potential of meaningful, reciprocal interactions with non-human
+entities.
+82
+Posthumanist Care and Ecologies of Empathy Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+Our study highlights how design directions in locative HCI can
+integrate feminist care ethics by prioritizing empathetic and eth-
+ical interactions with both natural and cultural heritage that are
+also equitable, socially just and attentive to diverse experiences.
+By acknowledging the complexities and tensions inherent in the
+landscape, our research opens up possibilities for technologies
+that honor and support the agency of non-human entities, while
+also fostering respectful, collaborative relationships among visitors,
+building on work centering research in HCI and interaction design
+around concerns for care and our successful and fruitful coexistence
+with the more-than-human entities in our planet [ 19,62]. Addition-
+ally, the focus on the playful potential of the Levada walks aligns
+with feminist care ethics’ emphasis on creativity and emotional
+engagement as part of caring practices, opening space to challenge
+traditional conceptions of care [ 49]. Suggesting potentials for the
+design of locative technologies that encourage playful, immersive
+experiences, this study challenges traditional human-centered ap-
+proaches and contributes to a more dynamic, ethical engagement
+with both natural and cultural heritage [ 45,109], while opening
+new avenues that promote a sense of stewardship and connection
+with nature and culture.
+2.2 Locative technologies for nature
+Pyle’s formulated ‘extinction of experience’ — the “ongoing alien-
+ation of humans from nature” [ 90,100] — risks biodiversity conser-
+vation and highlights the need to understand and enhance these
+connections [ 101]. In this paper, we investigate how a deeper explo-
+ration of the dynamics of human-nature relationships may inform
+the design of technologies that enrich these interactions. Recently,
+nature-inspired HCI strengthening human-nature bonds has flour-
+ished, with attempts at linking HCI to posthuman ecologies empha-
+sizing the role of technology in ecological storytelling and nature
+connection [ 18,25,37,54,61,66,75,86,95]. The application of
+augmented, virtual and mixed reality (AR, VR and MR, respectively)
+hold promise for tackling environmental issues, both in promoting
+awareness and action for nature and its ecosystems [ 91]. While rec-
+ognizing that the use of these technologies in nature may represent
+a “double-edged sword whose implementation warrants as much
+attention in HCI as in environmental science” [ 84] or promoting a
+loss of contact with the lived experience of nature at the expense
+of an intense use of technology [ 53], the possibilities afforded by
+the potential immersion in more-than-human realities should be
+investigated for their promotion of involvement with natural spaces
+[1,30], particularly via interactions that do not require players to
+look at their screen while in the wild [57].
+Extending on the liminal interactive space between humans
+and technology [ 112], current HCI research has been proposed as
+undergoing a fourth wave in which humans, more-than-humans
+and digital technologies are appreciated as entangled [39].
+In this entangled space, LGs represent a fusion of virtual and
+physical realms, offering humans potentially immersive and in-
+teractive experiences that overlay digital content onto complex
+ecosystems of real-world and more-than-human environments
+[25,41,121]. Using GPS and other location-based technologies,
+LGs enable players to interact with virtual elements within specific
+physical locations, such as engaging in geocaching, scavenger hunts,and narrative adventures that unfold as they traverse different ar-
+eas [ 31,65,86,121]. LGs also facilitate “placemaking through play,
+enhancing the careful processes that form places out of layered net-
+works of affection, habit, and social bonds” while fostering motiva-
+tion in players who interact with a narrative dispersed across a phys-
+ical geography [ 33,64], allowing participants to “rediscover familiar
+places and see hidden relationships” [ 67]. In particular, heritage LGs
+often incorporate digital guided tours, interactive educational expe-
+riences, and narrative gaming strategies, transforming heritage sites
+into dynamic engagement spaces [ 12,22,76,82,85,114]. Research
+has also highlighted the significant impact of LGs on user engage-
+ment, stimulating cognitive and motor skills, and creating emotional
+bonds between users and the locations they explore [ 14,21,41,119],
+as these technologies merge storytelling with physical exploration,
+making experiences more memorable, and encouraging repeat vis-
+its and positive recommendations [ 44,60]. Furthermore, LGs allow
+for unpredictable play beyond navigation [ 72], enhance social in-
+teraction while promoting group participation, collaboration and a
+sense of community [70, 74, 77, 80, 83, 120].
+LGs are thus particularly promising in addressing the human-
+nature disconnect. By integrating game mechanics with physical
+outdoor activities, LGs can motivate people to explore natural envi-
+ronments, enhancing their connection to these spaces while foster-
+ing a sense of care for them and promoting engagement with nature
+through the liminal space between player and narrative [ 54,58].
+By focusing on the application of LGs, we aim to reverse nature
+disengagement and support conservation efforts through digital
+interventions [ 105,119], providing implications for the design of
+LGs with a clear agenda for “societal impact and cultural values”
+that “spread awareness about [nature preservation]” [56].
+However, the consistent application of LGs in natural heritage
+sites, and the development of effective digital narrative strategies
+for engagement, require further exploration [ 26]. By weaving narra-
+tives and challenges into specific locations, these HCI tools encour-
+age players to experience the more-than-human networks firsthand,
+fostering a sense of oneness with the planet we inhabit [18, 105].
+3 DATA COLLECTION AND ANALYSIS
+The present research methodology was carefully crafted to better
+understand which aspects to consider when designing for engage-
+ment in and with the specific cultural and natural heritage site of
+theLevadas . A qualitative on-site research approach was chosen
+because of its ability to capture individuals’ nuanced and subjec-
+tive realities, allowing for a rich, textured understanding of their
+interactions with the environment, their motivation and embod-
+ied experiences while walking and immersing themselves along
+theLevadas of Madeira. Our engagement with Madeira, as part
+of the LoGaCulture project, occurred over four months from late
+summer throughout autumn 2023, when we collected data from nar-
+rative self-reports and cultural probes and analyzed them through
+a reflective thematic analysis during and after the collection.
+Our research builds on recent work on care and sustainability
+within HCI research [ 29,54,62]. As we strive to develop design
+solutions and technologies that appreciate — and promote sustain-
+able behaviors and engagement with — the natural world of which
+we are an integral part, our use of cultural probes and self-reports
+83
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Galvão-Ferreira, et al.
+allows us to delve into the expectations and variety of experience
+of being in nature:culture. As societies, technology and the myriad
+relationships with the natural world change, it is important to stim-
+ulate tighter connections with more-than-human realities brought
+about by new approaches to technology [51].
+Our study focuses on the Madeira Island Levadas as they rep-
+resent an extraordinary epitome of nature as heritage: man-made
+irrigation channels that have become integral to the island’s tourism
+and heritage landscape [ 35,69,78,99]. These channels, dating back
+to the fifteenth century, serve their primary irrigation function and
+provide unique trekking experiences through Madeira’s diverse
+natural environments, including the UNESCO-recognized Laurel
+Forest (the Laurisilva of Madeira). The Levadas attract a wide range
+of users and have become a focal point for narratives that enhance
+the tourist experience, offering deep immersion in the island’s nat-
+ural beauty [ 36,73,106]. As simultaneously natural and cultural
+sites, the Madeira Levadas are — as we explore in this study — a per-
+fect test case where a community’s engagement with local natural
+and cultural heritage can be investigated, foregrounding spaces for
+location-based solutions crafted through a posthumanist ethics of
+care that curates and salvages human-nature:culture interactions.
+3.1 Narrative self-reports
+At the start of our fieldwork, our data collection was focused on
+getting first-hand insights from people who would walk the Lev-
+adas and share their experiences with us through reflective reports.
+For this purpose, we took over what Cohn calls an “opportunistic
+spontaneity” [ 17], while recognizing “the need to expand [our] de-
+sign practices in ways that respond to the idiosyncratic character of
+nature-related research, with all its messiness and unpredictability”
+[107]. Such opportunism acknowledges tracking the traces within
+the field in a situational openness and productively uses the limits
+of plannability in the research process. We followed a series of op-
+portunities — from engaging with tour operators, leveraging walks
+with friends and family, to organizing Levada trips as part of the Câ-
+mara de Lobos municipality in Madeira — and asked 19 participants,
+with ages ranging roughly from 18 to 60 years of age, to write and
+hand in a self-report about the experiences of their Levada walk.
+These reports were collected from a variety of participants, from
+single individuals to couples, family members and groups of friends
+(typically brought together by the Câmara de Lobos municipality
+as part of wellness programs). Through this practice, we collected
+self-reports from both Madeira locals and tourists, varying in length
+and style of writing (some reports were brief and straightforwardly
+factual, while others stretched in longer detail, providing personal
+reflections and autobiographical stories in more elaborate prose),
+covering walks across eight different Levadas of differing durations
+and difficulty (including Levada dos Balcões), in August 2023.
+3.2 Cultural probes: visitor postcards and
+sensory map
+Following these early-stage explorations, cultural probes were de-
+veloped (under review elsewhere) as a tool for collecting more
+specific information about the experience of visiting a Levada and
+later informing the design of heritage-related digital games. The
+development of these tools built on feminist posthuman approaches,focusing on the relational aspects of nature:culture to elicit sensory,
+speculative, situated, embodied and affective aspects relating to
+nature:culture heritage(s). Our cultural probes built on research
+that highlights such instruments as meaningful research tools for
+eliciting subjective, contextual, and often obscured aspects of every-
+day human experiences for inspiring design processes [ 43,52], and
+argue for the importance of pluralistic and situated interpretations,
+adoptions, and adaptations [ 122]. In the context of our exploration,
+and with an interest in more-than-human aspects at cultural and
+natural heritage sites, these in-the-wild approaches [ 58] seemed
+promising in exploring various aspects that could later inform our
+design.
+The probes here implemented consisted of a set of visitor post-
+cards and a sensory map. The sensory map was designed to provide
+rich descriptive data about the multi-sensory experiences of the
+Levadas , capturing not just what the participants saw but what they
+heard, smelled, touched, and felt emotionally. The map contained
+detailed instructions on how to perform the activity, advising partic-
+ipants to stop for a total of five times across the hike, writing down
+the approximate location of each stop; in each of the five stops, par-
+ticipants were invited to reply to a set of prompts/questions (“What
+can you see? List your 5 favorite things”; “What can you smell?”;
+“What can you hear?”; “What can you touch or feel?”; “How does it
+feel to be there?”; “How is the space around you?”; “If you have to
+remember one thing from this place, what would it be and why?”).
+The ten postcards invited participants through ten questions to
+share their experiences, hopes, thoughts, and expectations (1) If
+theLevadas could talk, what would they tell you?; 2) What would
+you like a future visitor to notice about this place?; 3) What do you
+particularly enjoy about the Levada and what makes it special to
+you?; 4) What is sacred to you?; 5) What challenges did you have
+to overcome to get here?; 6) To some visitors and residents, you
+are a giant. What do you think the smaller ones make of us?; 7)
+How would you like to be remembered?; 8) If you could send a
+message to a visitor in the past, what would you ask or tell them
+about?; 9) If you could visit the Levadas in the distant past or future,
+what would you imagine seeing and hearing?; 10) How can this
+place better serve you and what would you like to see improved?)
+How can this place better serve you, and what would you like to
+see improved?]; K) Back display of one of the visitor postcards).
+Both probes were implemented in late November 2023 during two
+visits to Levada dos Balcões , a short 1.5-kilometer trail. A total of 23
+participants, with ages ranging roughly from 18 to 55 years of age,
+were recruited from the University of Madeira local undergraduate
+population and Erasmus+ international mobility programme, as
+well as by reaching out to Portuguese and international residents
+connected to local friends and family, and invited to interact with
+and fill in these probes. Two researchers accompanied these excur-
+sions and were available to answer any questions about the probes
+but otherwise remained in the background, allowing the probes to
+speak for themselves.
+3.3 Post- Levada online survey
+After the Levada walks, the researchers asked the participants who
+interacted with the cultural probes to fill an online questionnaire —
+responded to by 21 out of 23 participants — containing questions
+84
+Posthumanist Care and Ecologies of Empathy Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+addressing the experience of walking the Levadas (e.g., “How did
+you inform yourself upfront about the Levada?”, “Indicate the main
+reasons why you were interested in this tour [of the Levadas ]?”,
+“How do you prefer to do nature walks/hikes”, or “Did you come to
+this Levada walk with any friends/colleagues/family?”), on phone
+and social media use during the walks (“Did you use your phone
+during the walk and if yes, what for?”, “Did you, or are you planning
+to share your experiences with others?” or “If you created any social
+media posts, which social networks did you post in?”) as well on
+the cultural probes themselves (e.g., “Which new perspectives did
+the sensory map bring to your engagement with the environment?”
+or “Overall, how do you rate the tool [the postcard probes] to foster
+imagination towards more inclusive and ecological futures?”) and
+general demographic information.
+3.4 Data analysis
+The theoretical framework guiding our explorative data collection
+and subsequent analysis was deeply inspired by posthuman and
+new materialist thinking [ 8,9,47,48]. All authors have walked and
+experienced the Levadas themselves. By embracing our position
+as a determining factor and framing our sense-making as situated
+and embodied process within an entangled environment [ 46,110],
+this very personal and involvement allowed us to draw particularly
+deep insights and analytical conclusions about implicit knowledge
+during the analysis.
+Consequently, meaning-making had already started during data
+collection but intensified during the analysis stage, where we used
+reflexive thematic analysis (RTA) [ 10] to examine the data from
+the reports and transcribed annotated probes collectively. Two
+authors performed individual coding and clustering of the data
+from the probes and reports, compared their results, discussed any
+conflicts and merged their results, which were discussed with the
+other two authors. In a second round, the authors looked for de-
+sign potentials that were then discussed and collectively agreed on
+among all authors. Application of RTA to this data output provided
+a nuanced and in-depth understanding of human-nature:culture
+relations. Aside from allowing for flexibility in data interpretation,
+RTA enabled a comprehensive and multi-layered examination of the
+data. By allowing for a diversity of themes, we were able to gain a
+deeper understanding of the complexities of human-nature:culture
+interactions, which, in their own turn, informed the strategies to
+foster more meaningful and sustainable relationships with the en-
+vironment, described below.
+4 FINDINGS: DESIGN DIRECTIONS AND
+POTENTIALS
+4.1 Post-Levada online survey data and
+participant demographics
+Responses to the experiential questions of the survey revealed that
+the vast majority of participants (66.7%) did not inform themselves
+ahead of their Levada walk (leaving the experience to speak on
+this own, with little or no prior knowledge of it; with a little over
+14% of participants having checked social media and another 14%
+having sourced information from friends, family or colleagues), a
+considerable variety of reasons to walk the Levadas (in spite of76.2% of participants pointing our “experiencing nature” as their
+main driver), the near totality — 90.5% of participants — preferring
+to do nature walks accompanied by friends, family or colleagues
+and 76.2% of participants having performed their Levada walks
+accompanied by friends, family or colleagues. On social media, the
+vast majority of participants — 85.7% — signaled that they had taken
+photos during their walk, that they were planning on telling their
+friends and family about their experience (76.2% of participants,
+with 28.6% of them replying that they would be doing so through
+social media) and 68.8% of participants noted Instagram as the
+social media platform in which they would be creating posts (if
+they decided to post content on the walk).
+Regarding the cultural probes, most participants highlighted
+the value of the sensory map in driving focus and attention to
+the experience of the walk (with participants reporting that the
+map had “made [them] think a little more deeply about [their]
+surroundings”, that it made them “stop, think, look and listen”,
+“slow down and absorb [their] surroundings” or “helped [them]
+think more about [their] senses and noticing more details”), with a
+large majority of participants — 61.9% — signaling that the map had
+directed their attention towards a deeper sensuous experience of
+theLevadas ; while on the postcard probes most participants valued
+their artwork and the way that questions made them reflect on
+their experience (with participants highlighting “the pictures”, “the
+artwork” and “the images”, while others wrote that “the questions
+made [them] think about things [they] would normally overlook”,
+“made [them] relate the walk to [their] life outside the walk” or that
+they “liked that [the postcard probes] were stimulating [them] into
+thinking deeper”), with 47.6% of participants rating these probes
+with 4 out of 5, and 28.6% of participants with 5 out of 5, regarding
+the tool’s potential to foster imagination towards more inclusive
+and ecological futures.
+Demographics data quantified 52.4% of participants as aged be-
+tween 18 and 24 years-old, with the next most representative age
+gap — above 54 years-old — representing 23.8% of participants;
+the gender balance of participants as relatively even, with 52.4%
+of participants self-identifying as female and 47.6% as male; and
+the majority — 57.1% of participants — marking that they were a
+permanent/long-term resident or natural od the Madeira Islands,
+with the remaining 42.9% of participants stating that they were
+non-permanent residents of Madeira.
+The following section presents the findings from our RTA [ 10].
+Themes emerging from the self-reports and cultural probes were
+refined and revisited with a special focus on how design and play
+potentials — “experiences that are inherently playful and might
+thus inspire novel and increasingly joyful types of [nature-related]
+tech” [ 3] — might be relevant to inspire inclusive, sustainable and
+more-than-human game design in heritage contexts and make them
+actionable (Fig. 1), data that was complemented with that derived
+from the post-walk surveys. This higher-level clustering allowed
+us to foreground design directions that we present in the following
+subsections as inspirational starting points for designing LGs in
+conflicted natural and cultural heritage sites. These themes were:
+Appreciation of Scenic and Natural Beauty (in which the views
+and landscape of the Levadas , and their role in immersing and
+connecting participants with these natural spaces and their experi-
+ential/pedagogical value, are highlighted); Mindfulness, Relaxation
+85
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Galvão-Ferreira, et al.
+and Mental Well-being (which speaks to the stress relief, men-
+tal health benefits and relaxation experienced during the Levada
+walks); Relationship with Nature and Environmental Awareness
+of Human Impact and Preservation (that represents participants’
+considerable connection with the natural world, including its fauna
+and flora, and the impact that harmful human activity has in the
+environment); Exploration, Adventure and Exercise (under which
+participants signaled their sense of adventure and enthusiasm for
+discovery and exploration of the Levadas , and the role of these
+walks in their exercise activities); Cultural/Historical Appreciation
+and Significance (which focused on the historical and cultural con-
+text of the Levadas , the populations that are connected with them
+and the stories/lessons that may be learned from them); Personal
+and Group Experiences and Social Connection (which signaled par-
+ticipants’ emphasis on the social dimensions of the Levada walks,
+including exchanges and interactions throughout the trails); Per-
+sonal Achievement and Satisfaction (grouping the sense of accom-
+plishment that participants reported and their experience with the
+striking beauty of the Levadas ); Reflection, Introspection and Spir-
+itual/Philosophical Insights (which summed the engagement of
+participants in self-reflection, moments of introspection and in-
+stances of pause and insight); Overcoming Obstacles and Physical
+Challenges (which focused on the occasionally physically demand-
+ing nature of the Levada walks and the physical benefits of the
+associated exercise); Challenges of Navigation, Safety and Accessi-
+bility (which summed participants’ noting of the navigation and
+accessibility challenges represented by some sections of some of
+theLevadas ).
+4.2 Design directions and potentials
+Themes were then grouped into design directions — Cultivating
+Empathetic Connections and Holistic Education; Encouraging Col-
+lective Stewardship and Community Resilience; Reflecting and Re-
+specting Diverse Narratives and Agencies; and Fostering Inclusivity
+and Adaptability in Interconnected Ecosystems — and potentials
+[3], that aim at foregrounding caring aspects in visiting, thus open-
+ing exciting opportunities for design in conservation sites that face
+the challenge of balancing over-tourism and nature experience and
+conservation (Fig. 1). The following subsections present these four
+design directions (DD-1 to DD-4) and articulate the nine resulting
+design potentials (DP-a to DP-i).
+4.2.1 Design Direction 1 (DD-1): Cultivating Empathetic Connec-
+tions and Holistic Education.
+Our first design direction indicated the importance of scaffolding
+the interaction between visitors and the rich Levadas and the Lau-
+risilva forest ecosystem, fostering a deep, empathetic understanding
+of the natural world and its complex interdependencies. Through
+engaging locative technologies, this design direction encourages
+holistic visitor learning, supporting a shift from mere knowledge ac-
+quisition to a profound, experiential understanding and emotional
+connection with the environment.•Design Potential a (DP-a): Enhancing Immersive Expe-
+riences and Empathy through Multi-Sensory Engage-
+ment
+Participants noted the transformative power of immersive
+experiences in creating deep connections with nature: by
+“recognizing [the Levadas ] as an opportunity [for us] to bond
+and immerse ourselves in the beauty of nature”, pointing out
+“the sights, sounds, and smells that immersed [them] in the
+natural environment” or describing the feeling of being “sur-
+rounded by lush vegetation [that] offers a unique feeling of
+being immersed in nature”. Both through our sensory maps
+and postcard probes, they shared moments of awe and won-
+der in the landscapes (seeing the “Levada adventure [...] not
+just a physical exploration but also a metaphorical one — a
+journey of self-discovery, of reconnection with the wonders
+of nature”), with one describing standing atop a cliff overlook-
+ing the forest as a profound experience of aesthetic sublime
+and connectedness (the “view of the high and imposing cliffs
+surrounding a lagoon with crystal clear waters [that was]
+absolutely mesmerizing”, meaning that they “were amazed
+by the beauty of [that] place”), while another reported simi-
+lar connectedness when surrounded by trees in the forest:
+“As I immersed myself in the enchanting surroundings, I
+couldn’t help but feel a sense of gratitude for the gift they
+had bestowed upon us — a remarkable system that not only
+sustains life but also allows us to experience the natural won-
+ders of Madeira in such a unique way”. These experiences led
+to initial design ideas for intentionally creating immersive
+environments that nurture empathy and emotional connec-
+tion with nature. Discussions involved interactive elements
+such as AI-powered dialogues with nature to encourage vis-
+itors to notice the ecosystem and "hear" the forest; an AR
+treasure hunt that could highlight historical and folk stories
+along trails, connecting human perception with wildlife ex-
+periences; and off-site VR journeys that could simulate the
+Laurisilva ecosystem’s life cycle, offering insights into its
+delicate balance and creating a feeling of interconnectedness.
+We noted that VR experiences might also simulate perspec-
+tives of non-human entities within the ecosystem, allowing
+for the scaling of human sizes and temporalities to match
+the species’ perspective for an intimate glimpse into their
+lives.
+•Design Potential b (DP-b): Creating Dynamic Learning
+Environments and Co-Learning with Nature
+Our data revealed participants’ interest in informal educa-
+tional experiences beyond traditional settings (providing
+“moments of sharing, conviviality, deepening and acquir-
+ing knowledge, among others, encouraging, above all, good
+practices and healthy lifestyles for citizens”), emphasizing
+experiential learning and hands-on exploration in nature
+(leaving participants not “want[ing] to stop and just explore
+and experience the beauty of nature”), combined with ex-
+pressions of curiosity and discovery along trails (e.g., as one
+participant approached a man-made tunnel and “a sense of
+curiosity mixed with a tinge of apprehension washed over
+[them]”), while encountering unfamiliar plants and wildlife
+86
+Posthumanist Care and Ecologies of Empathy Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+Figure 1: Diagram representing the relationship between the main themes emerging from the self-reports and cultural probes
+(first column), the four identified overarching design directions (second column) and the resulting nine design potentials (third
+column).
+behavior (listening to “the chorus of birdsong — all of these
+sensations [becoming] a part of us, woven into the fabric of
+our being” or remarking on the “profusion of flowers, ancient
+trees and varied species of plants [that] transformed each
+step into an exciting journey of discovery”). This enthusiasm
+should inspire designs that promote co-learning with nature,
+and which may include interpretive signage and interac-
+tive guided experiences for inquiry-based learning. Projects
+based on locative technologies could weave narratives across
+museums and sites, connecting the Levadas , the forest, and
+the broader Madeira ecosystem. ’Eco-mystery’ games could
+also challenge players to solve puzzles related to Laurisilva
+forest conservation, turning environmental stewardship into
+an engaging adventure. Additionally, an app-based learn-
+ing game could involve visitors in real-time data collection
+about flora and fauna, supporting collaboration with local
+conservation agencies, thus fostering active, participatory
+learning and directly contributing to conservation research.
+4.2.2 Design Direction 2 (DD-2): Encouraging Collective Steward-
+ship and Community Resilience.
+Our second design direction revolves around nurturing a collective
+sense of responsibility and care for the Levadas and the Laurisilva
+forest. This approach is centered on the belief that preserving thesenatural treasures is a shared duty that binds the community and
+its members to a common goal. Through LGs, this direction aims
+to engage people not just as visitors but as active participants and
+caretakers of the environment, fostering a resilient, supportive com-
+munity around the conservation efforts.
+•Design Potential c (DP-c): Promoting Environmental
+Stewardship and Collaborative Caretaking
+Analysis of participants’ data suggested a strong commit-
+ment to environmental stewardship, with individuals ex-
+pressing a desire to actively preserve and conserve the natu-
+ral environment, with one participant pondering on action
+that would “help preserve and protect these natural trea-
+sures, ensuring that they are accessible and enjoyable for
+all”, another highlighting that they “hope to inspire others to
+appreciate and protect the natural world around them” while
+another stressed that the Levada walks had impacted on their
+“relationship with the natural world and influenced [their]
+understanding of environmental conservation”. Instances
+of noticing trash led to spontaneous clean-up activities and
+ideas for restoring disturbed areas along the Levadas (as
+one participant “witnessed the intrusion of plastic into the
+natural environment”) and the need to have more places to
+safely leave waste (with one participant writing that “people
+should not throw their trash in the forest”, while another
+87
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Galvão-Ferreira, et al.
+pleaded for visitors to “please put the trash in the trash can!”),
+reflecting a collective wish and effort to protect the ecosys-
+tem. These acts prompted reflections on the importance of
+collective action and the community’s role in safeguarding
+resources, hinting towards designs that can build on this
+collective responsibility by offering opportunities for collab-
+orative caretaking within the Levadas network. Gamified
+apps could reward eco-friendly behaviors, guiding visitors
+through the Levadas to identify and report invasive species or
+pollution, while digital ’conservation quests’ could integrate
+players’ actions into real-world reforestation or preservation
+efforts in the Laurisilva forest. Community-led conservation
+projects could also engage local and visiting participants
+in habitat restoration, combined with interactive exhibits
+that could track and display the collective impact of visitor
+actions on conservation efforts, providing feedback on the
+positive outcomes of collective stewardship.
+•Design Potential d (DP-d): Fostering Community En-
+gagement and Collaboration, and Kinship with Nature
+Data highlighted the importance of the social dimensions of
+nature experiences, emphasizing camaraderie in fostering
+a sense of belonging and connection with the environment:
+the value of “getting to know nature in a way that estab-
+lished a unique connection individually and collectively [...]
+in addition to developing our social, affective and cogni-
+tive domain”, a sense that the Levadas “formed/strengthened
+bonds of friendship” and facilitate “both [participants] and
+the group of friends [they] went with [to fall] in love with
+the view”. Shared exploration along trails created bonds and
+celebrated the beauty of nature (with one participant writing
+that they had “struck up a conversation with a woman who
+had been walking behind [them]”, with the other walker’s
+“infectious spirit lift[ing] [their] own, as she sang out loud
+and shared amusing jokes” and the fact that they “became
+companions, providing each other with much-needed com-
+pany for the remainder of the walk”), leading to the recurring
+theme of a desire to strengthen connections with the natural
+world, the community and its members (one participant even
+tells of visiting a shop along a Levada and it “offer[ing] a
+selection of local produce and delicacies [provided] an op-
+portunity to savor the flavors of Madeira and support the
+local community that thrived amidst the natural wonders
+of the island”). Game designs could, we suggest, focus on
+social aspects by fostering community engagement during
+walks. For instance, a community-driven game could encour-
+age locals and visitors to share stories and memories linked
+to specific locations, fostering shared narratives and com-
+munity bonds; such collaborative projects could blend local
+folklore with ecological knowledge, creating a layered un-
+derstanding of the Laurisilva forest and its cultural context.
+AR experiences could additionally overlay historical images
+or future scenarios onto the landscape, prompting reflection
+and dialogue about sustainable futures, albeit mindful that
+these interventions should be subtle, allowing the natural
+landscape to dominate technological augmentations.•Design Potential e (DP-e): Creating Shared Moments
+of Wonder that Inspire Collaborative Conservation
+Participants’ walks were filled with moments of wonder and
+surprise (as when dealing with the unpredictability of the
+walks, feeling that “curiosity propelled us forward, eager to
+uncover the hidden wonders that awaited us”), from spec-
+ulating about the future (when the Levadas would become
+“more accessible [and] more touristic, less natural or for-
+gotten”) to imagining ancient wanderers (in a time when
+“everything would grow very wild, very natural, [with] no
+trash”), containing experiences of awe that inspired a sense of
+communal narrative in response to the beauty of the natural
+world (as one participant affirms, “the connections made and
+the memories forged during this Levada adventure would be
+cherished, serving as a reminder of the joy and sense of com-
+munity that can be found in exploring the wonders of nature
+together”), encouraging collaborative conservation efforts.
+Design potentials could include multi-user LGs that allow
+participants to add speculative layers of agents and stories to
+the landscape or multi-participant VR experiences could con-
+nect people through reconstructed Levadas journeys, even
+from different locations.
+4.2.3 Design Direction 3 (DD-3): Honoring Diverse Narratives and
+Agencies.
+Our third design direction is interested in the diverse stories the
+various actors could tell, honoring the multifaceted nature of the
+heritage site. Currently, the most salient stories of the Levadas
+underline the utilitarian purpose of these water channels and the
+grand narrative of the heroic tale of masculine engineering, but
+equally their biodiversity value [ 35,73,78,87,113]. This direction
+intends to provide a platform for the myriad voices of the region,
+from more-than-human to the local human communities that have
+nurtured and been nurtured by the land.
+•Design Potential f (DP-f): Integrating Local Multispecies
+Culture, Wisdom and Knowledge Sharing
+Participants showed deep respect for local indigenous cul-
+ture and traditional wisdom, expressing a desire to learn
+from and honor these systems (either through the “charming
+village[s found along the way,] known for [their] traditional
+crafts and picturesque scenery”, the — found in a nativity
+scene staged in a village along one Levada — “traditional
+representation of the birth of Jesus Christ performed dur-
+ing Christmas” or the “shelves adorned with locally made
+crafts, intricate woodwork, and handmade souvenirs whis-
+pered stories of the island’s rich heritage” found along the
+way), while encounters with local flora, fauna, and tradi-
+tional stories sparked curiosity and reflection about the natu-
+ral world and its cultural heritage (from “the various old and
+abandoned houses that [are] found along the route, which
+made [one participant] reflect on the experiences that had
+already passed there, the stories that these people had to
+tell” to the “many familiar faces [found along the way and
+that] allow[ed one participant] to reconnect and reminisce
+about [their] shared past [as they] embarked on a collective
+88
+Posthumanist Care and Ecologies of Empathy Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+journey down memory lane”, “stories and anecdotes from
+years gone by filled the air, creating a delightful tapestry
+of nostalgia” and they “laughed, shared tales of mischief
+and innocence, and rekindled the bonds that had faded with
+time”), suggesting the need to foster respectful, symbiotic
+relationships between humans and nature through knowl-
+edge sharing while amplifying the voices of diverse species.
+This approach encourages a critical reassessment of tradi-
+tional narratives to uncover biases and promote inclusive
+interpretations, pointing towards interactive media experi-
+ences that can connect human and non-human knowledge,
+incorporating Madeiran folklore, songs, and dances. These
+experiences may highlight conservation efforts and natural
+remedies, offering site-specific or museum-based insights,
+allowing participants to report back on their newly acquired
+knowledge in nature, enriching their understanding.
+•Design Potential g (DP-g): Facilitating Reflective and
+Contemplative Spaces for Co-Existence
+Participants highlighted the importance of spaces for reflec-
+tion and contemplation (the participants that can’t “help
+but reflect on the passage of time and the importance of
+seizing the present moment”, the “peaceful evening [that
+provides] the perfect ambiance to reflect on the experiences,
+grateful for the spontaneity that had made the day so mem-
+orable”, the “reflect[ions] on [their] childhood memories of
+exploring the woods, climbing trees, and discovering hid-
+den streams”, the instances spent “contemplat[ing] the emo-
+tional solace and inspiration [they] derive from spending
+time outdoors” or the space to “contemplate nature, namely
+the fauna and flora that exist[s] there”), with individuals
+seeking quiet, secluded areas for introspection and spiri-
+tual renewal, emphasizing the restorative effects of solitude:
+from the participant who “consider[s] [the Levada walks] to
+be an activity capable of achieving so much alone, enhanc-
+ing a space of self-knowledge, through which we stop to
+reflect and breathe, to be in silence with nature, enjoying
+everything it has for us”, those who point out the “sounds of
+silence” and the experience of hearing “nothing, silence”, to
+those who discover “secluded spots along the walk where
+[they] could sit, relax and tune in to the gentle murmurs of
+nature around [them]”. Designs might create reflective and
+contemplative spaces, such as sanctuaries for quiet medita-
+tion or sound or silent walks through conservation areas,
+with ’listening spots’ additionally attuning visitors to the
+ecosystem’s sounds, fostering a sense of oneness with nature.
+Locative audio experiences might also offer immersive ambi-
+ent sounds based on location, enhancing the Laurisilva forest
+experience, while geo-tagged digital diaries could enable vis-
+itors to share reflections, building a collective narrative of
+personal connections. Additionally, AR layers of informa-
+tion could ultimately be implemented to aid visualization
+of unseen communications like plant signals or water flow,
+deepening visitors’ understanding of natural processes.4.2.4 Design Direction 4 (DD-4): Fostering Inclusivity and Adapt-
+ability in Interconnected Ecosystems.
+Our fourth design direction champions the natural world’s dy-
+namism and its visitors’ diversity. This approach is dedicated to
+crafting experiences accessible to all, resonating with the adaptive
+and ever-evolving nature of ecosystems like the Levadas and the
+Laurisilva forest in times of climate change.
+•Design Potential h (DP-h): Incorporating Co-Adaptive
+and Resilient Designs
+Participant data highlighted the dynamic, ever-changing na-
+ture of the environment, emphasizing weather variability
+(the desire of being “lucky with the weather”, the “recom-
+mend[ation] to check the weather forecast, especially during
+the rainy season, as the terrain can be slippery and less safe”,
+with one participant complaining that “the weather [had
+taken] a sudden turn, enveloping [then] in dense fog and
+rain”), trail erosion and variability (the “steep edges of the
+trail [that] made [one participant] nervous” or the “over-
+grown vegetation [that] obscured the trail,”), and habitat
+disturbances (the seemingly inevitable “environmental is-
+sues that concern [one participant], such as climate change
+[that results in] habitat destruction”), chiefly as participants
+navigated diverse ecosystems and expressed a need for trail
+infrastructure that could withstand natural forces while min-
+imizing impact on the landscape (e.g., by keeping “well-
+maintained trails and flat ground.”). Designing with natu-
+ral heritage sites in the Anthropocene requires adaptive,
+resilient approaches that foster a co-adaptive relationship
+between humans and nature, under which embracing spon-
+taneity and unpredictability may lead to designs that cele-
+brate the unexpected and adapt to real-time data on climate
+patterns. Adaptive LGs might modify scenarios based on
+real-time environmental data, such as fog, wind, or rain, en-
+gaging visitors with the Laurisilva forest’s dynamic nature
+while playing, which, combined with AI technologies, can
+create versatile, responsive experiences aligned with the en-
+vironment’s specificities.
+•Design Potential i (DP-i): Designing for Accessibility
+and Inclusivity While Cultivating Spaces of Belonging
+The diversity of participants, each with unique abilities and
+backgrounds, emphasized the need for inclusive and accessi-
+ble trail experiences (highlighting the trails that are “very
+accessible [...] for most people”, the “higher level of difficulty”
+in other Levadas , for which the “difficulty rating is difficult”,
+theLevadas that “in terms of difficulty, [one participant]
+found [...] to be intermediate”, “the Levada[s that] present
+some difficulties along the way [and] therefore [one other
+participant] would not recommend [...] to everyone”, the
+need to “preserve and protect these natural treasures, en-
+suring that they are accessible and enjoyable for all”), with
+individuals of various ages and physical abilities enjoying
+the Levada walks, often overcoming challenges to access
+natural spaces (while recognizing “[these] experience[s as]
+more challenging and motivating”, the “more challenging
+89
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Galvão-Ferreira, et al.
+sections, with steep climbs and narrow paths” or the Levadas
+that are “a little more challenging in certain sections [yet
+remain] accessible to most people in good physical condition
+and willing to explore nature”). Accordingly, digital designs
+should focus on creating accessible spaces within the Lev-
+adas network, ensuring everyone feels welcome and part of
+nature — e.g., games with accessibility modes could cater to
+a diverse range of abilities, with multi-lingual or nonverbal
+storytelling celebrating the cultural diversity of Madeira’s
+visitors while fostering an inclusive community of nature
+enthusiasts.
+5 DISCUSSION
+As the tourism industry continues to flourish, niche destinations
+are at risk. However, it is important that the growth of the travel
+and tourism sector continues in Madeira, as this industry generates
+robust revenues for this region [ 38], representing about 25 to 30% of
+regional PIB. This growth in tourism investment and development
+should nonetheless take place in an open and sustainable manner
+[28,98]. As has been pointed out by others, ecological applications
+of cross-reality technologies are not yet widely researched or ap-
+plied, leaving potential to be realized [ 91]. As such, the authors
+believe that it is essential to provide inspiration for design direc-
+tions for the further protection and restoration of nature, habitats,
+and biodiversity in such niche and biodiversity-rich destinations.
+In the rest of this section, we articulate four main points of
+discussion that emerged from our findings:
+5.1 Locative game potentials
+Our situated and embodied engagement within nature revealed
+design directions that can enrich heritage experiences and support
+their conservation. They shed light on caring aspects and directed
+our attention towards moments where technology could be imple-
+mented as less utilitarian but positively impact the environment.
+By articulating these felt and observed experiences as design po-
+tentials, we contribute to the discussion on locative media design
+interventions in the wild to care ever more for nature, to connect
+with it, and to become one with nature [93].
+In further developing and implementing our proposed design
+directions and potentials, we must be mindful of their sensory
+limitations in making more-than-human realities “look and feel ‘like
+the real thing’” while keeping in mind “how mediated interactions
+with wildlife may come to shape the future of our planet and our
+connection with it” [ 84]. Inasmuch as work has shown that the very
+experience of e.g., embodying animals within an immersive virtual
+environment potentiates one’s involvement with nature, we should
+not lose track of the value of fully embodied and direct contact
+with nature [ 1]. If not alert to these possibilities, one might end
+up contributing to the ‘environmental generational amnesia’ that
+would inevitably result from subsequent generations fully replacing
+the experience of nature with technology-mediated interactions
+[53].
+The previously identified tensions and design opportunities pre-
+sented by LGs, as players co-author their playful narrative, are
+varied — e.g., the need for, given their implied geographic dynam-
+ics, LG to foster higher motivation in players or a sense of closureand reward within a story that is geographically dispersed [ 33].
+When visiting heritage locations, aside from imparting knowledge
+to visitors, LGs may facilitate the renewal or development of rela-
+tionships with places, but this success is dependent on “the balance
+of attention between the virtual and real (the story and the place)”
+[67]. All these elements present tensions that must be considered
+when implementing LGs for nature engagement. Many of these
+issues may be solved by designing LGs that do not compromise the
+players’ attention and potential immersion in a space by not re-
+quiring the player to look at a screen while walking in the physical
+location with which the LG is contingent [57].
+These early ideas and directions shared here (Fig. 1) are but start-
+ing points for caring technologies and LGs, and highlight the value
+of developing technological solutions in the wild, complementing
+direct contact with nature with added layers of technologically-
+mediated content and meaning.
+5.2 Understanding the role of technology — or
+its absence — in natural environments
+Moreover, these proposals and shared experiences also illuminate
+the space where designs should be careful or should not go, ad-
+dressing the ongoing debate within HCI regarding technology’s
+role in natural environments: balancing the enhancement of out-
+door experiences against the potential for diminished immersion
+[96]. Considering the delicate balance of these ecosystems, we be-
+came aware of creating interventions that not only lead to the visit
+of such places, but also warn about it over exploitation and how
+not visiting, or visiting as indicated, might be an act of care and
+conservation in itself.
+Following the suggestions put forward by Dorward et al. for
+“well-implemented AR games” (building on Pokémon Go’s poten-
+tial to increase engagement with real-world nature), we recognize
+the possibility of reaching numerous and varied publics with AR
+technologies such as LG, yet acknowledge the compromised needed
+between true immersion in nature and the simultaneous utilization
+of technology in nature [ 30]. As the necessity of the application
+of non-anthropocentric approaches to human-centered design is
+recognized, and concerns with care are placed center stage in the
+interaction design space, we will come ever closer to living truly
+collaborative relationships with our more-than-human planetary
+companions [ 19,62]. Along these lines, we are committed to extend-
+ing the reach of stories and lessons through alternative platforms
+such as off-site digital media, museum installations, or educational
+centers.
+This approach not only ensures that a broader audience can
+connect with, but learn and benefit from, Madeira’s natural and
+cultural heritage, yet underscores our commitment to a thoughtful
+and responsible engagement with technology. We thus ensure that
+our interventions are sustainable and mindful of the ecological
+sanctity of the site, nurturing a culture of empathy while cultivating
+a deep, caring relationship between individuals and the natural
+world.
+90
+Posthumanist Care and Ecologies of Empathy Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+5.3 Relational connections and multispecies
+interactions
+The research underscores the significance of fostering multispecies
+interactions and a profound sense of belonging within the Levadas ’
+ecosystem, urging interaction designers to approach their work
+with empathy and a deep respect for all life forms. This aligns with
+the ethos of Anthropocene feminist care and the human biophilic
+drive to connect with nature [ 116], which emphasize relational
+and contextual engagements with the environment, advocating for
+interactions and technologies that bolster our connection to the
+natural world without compromising its sanctity.
+When one posits the human against the posthuman in LG design,
+one must be mindful of questions ranging from the experience to
+the nature of the relationship between player and narrative [ 7].
+This fluidity and the liminal space it opens between player and
+narrative, in the empathy that it may afford, may very well play in
+favor of conservation, providing opportunities for successful nature
+engagement as we propose with our design potentials.
+As Key et al. remind us, “researchers have turned to care ethics
+as a strategy to explicate and challenge dominant anthropocentric
+forces from design. Care as a feminist practice is about attending
+to what, how, and when things get caring attention and come to
+matter and what, how, and when things don’t” [54].
+In summary, our study highlights how, while the essence of the
+Levada experience is rooted in the unique biodiversity and cultural
+narratives of Madeira, the implementation of potential interactive
+experiences is not confined to the geographical boundaries of the
+site. Considering the delicate balance of these ecosystems, we are
+committed to extending the reach of stories and lessons through al-
+ternative platforms. This approach ensures that a broader audience
+can connect with and learn from Madeira’s natural and cultural
+heritage.
+Our study ultimately paints a suggestive future for locative in-
+terventions in natural heritage settings, calling for a shift towards
+design approaches that are empathetic, inclusive, and ecologically
+integrated, celebrating the interconnectedness of humans, technol-
+ogy, and nature. By adopting these principles, designers can craft
+locative HCI narratives that entertain and foster a deeper sense of
+connection, appreciation, and stewardship for the natural world and
+its myriad inhabitants, as exemplified by the Levadas of Madeira
+Island.
+6 CONCLUSION
+In this article the authors report on the findings from a study of the
+potentials for engagement with the natural heritage of the Madeira
+UNESCO heritage sites of the Levada walks, highlighting the role of
+locative gaming and HCI. Delving into the realm of posthumanist
+HCI, this study invites practitioners and scholars to move beyond
+human-centered design paradigms and embrace a more inclusive
+and caring approach to natural heritage that recognizes the complex
+interplay of humans and non-human actors. In line, the playful
+potentials here identified underscore the opportunity to design
+locative technologies that are engaging and imbue players with a
+sense of empathy and responsibility towards conservation, while
+keeping a focus on the challenge of balancing conservation needs
+with the demands of tourism. Results from the study demonstratehow a holistic understanding of visitor experiences can inspire
+the design of interactive technologies that foster meaningful and
+sustainable interactions with the natural world. In doing so, we
+point at potentials through which the HCI community may cultivate
+a more harmonious, beyond utilitarian relationship with nature
+— one that honors our shared history and mutual dependence,
+enriching human-nature interactions while guiding us towards a
+more sustainable and mindful engagement with the world around
+us.
+ACKNOWLEDGMENTS
+Research funded by the LoGaCulture project, funded by the Euro-
+pean Union’s Horizon Europe Framework Programme under grant
+agreement 101094036.
+REFERENCES
+[1]Sun Joo Grace Ahn, Joshua Bostick, Elise Ogle, Kristine L. Nowak, Kara T.
+McGillicuddy, and Jeremy N. Bailenson. 2016. Experiencing Nature: Embodying
+Animals in Immersive Virtual Environments Increases Inclusion of Nature in
+Self and Involvement With Nature: EMBODYING ANIMALS IN IMMERSIVE
+VIRTUAL ENVIRONMENTS. Journal of Computer-Mediated Communication 21,
+6 (Nov. 2016), 399–419. https://doi.org/10.1111/jcc4.12173
+[2]Paula Alavesa, Minna Pakanen, Timo Ojala, Matti Pouke, Hannu Kukka, Alexan-
+der Samodelkin, Alexander Voroshilov, and Mohamed Abdellatif. 2020. Em-
+bedding virtual environments into the physical world: memorability and co-
+presence in the context of pervasive location-based games. Multimedia Tools
+and Applications 79, 5-6 (Feb. 2020), 3285–3309. https://doi.org/10.1007/s11042-
+018-7077-z
+[3]Ferran Altarriba Bertran, Oğuz ’Oz Buruk, Velvet Spors, and Juho Hamari. 2023.
+Playful Inspiration for a New Wave of Joyful Forest Technology. In Proceedings
+of the 2023 ACM Designing Interactive Systems Conference . ACM, Pittsburgh PA
+USA, 1886–1903. https://doi.org/10.1145/3563657.3596015
+[4]Thomas Beery, Anton Stahl Olafsson, Sandra Gentin, Megan Maurer, Sanna
+Stålhammar, Christian Albert, Claudia Bieling, Arjen Buijs, Nora Fagerholm,
+Maria Garcia-Martin, Tobias Plieninger, and Christopher M. Raymond. 2023.
+Disconnection from nature: Expanding our understanding of human–nature
+relations. People and Nature 5, 2 (April 2023), 470–488. https://doi.org/10.1002/
+pan3.10451
+[5]Marc G. Berman, Ethan Kross, Katherine M. Krpan, Mary K. Askren, Aleah
+Burson, Patricia J. Deldin, Stephen Kaplan, Lindsey Sherdell, Ian H. Gotlib, and
+John Jonides. 2012. Interacting with nature improves cognition and affect for
+individuals with depression. Journal of Affective Disorders 140, 3 (Nov. 2012),
+300–305. https://doi.org/10.1016/j.jad.2012.03.012
+[6]Gustavo Blanco-Wells. 2021. Ecologies of Repair: A Post-human Approach to
+Other-Than-Human Natures. Frontiers in Psychology 12 (April 2021), 633737.
+https://doi.org/10.3389/fpsyg.2021.633737
+[7]Jonathan Boulter. 2015. Parables of the posthuman: digital realities, gaming, and
+the player experience . Wayne State University Press, Detroit, Michigan. OCLC:
+ocn907131772.
+[8]Rosi Braidotti. 2013. Posthuman Humanities. European Educational Research
+Journal 12, 1 (March 2013), 1–19. https://doi.org/10.2304/eerj.2013.12.1.1
+[9]Rosi Braidotti and Simone Bignall. 2019. Posthuman ecologies: complexity and
+process after Deleuze . Rowman & Littlefield International, London New York
+(N.Y.).
+[10] Virginia Braun and Victoria Clarke. 2006. Using thematic analysis in psychology.
+Qualitative Research in Psychology 3, 2 (Jan. 2006), 77–101. https://doi.org/10.
+1191/1478088706qp063oa
+[11] Kate Brelje and Philosophy Documentation Center. 2023. More than Humans: A
+Case for Inclusion of Non-human Persons in Care Ethics. Essays in Philosophy
+24, 1 (2023), 86–101. https://doi.org/10.5840/eip202352416
+[12] Ben S. Bunting, Jacob Hughes, and Tim Hetland. 2012. The Player as Author:
+Exploring the Effects of Mobile Gaming and the Location-Aware Interface on
+Storytelling. Future Internet 4, 1 (Feb. 2012), 142–160. https://doi.org/10.3390/
+fi4010142
+[13] Denis Byrne and Gro Birgit Ween. 2015. Bridging Cultural and Natural Heritage.
+InGlobal Heritage: A Reader . 94–111.
+[14] Vanessa Cesário. 2019. Guidelines for Combining Storytelling and Gamification:
+Which Features Would Teenagers Desire to Have a More Enjoyable Museum
+Experience?. In Extended Abstracts of the 2019 CHI Conference on Human Factors
+in Computing Systems . ACM, Glasgow Scotland Uk, 1–6. https://doi.org/10.
+1145/3290607.3308462
+91
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Galvão-Ferreira, et al.
+[15] Susan Clayton, Agathe Colléony, Pauline Conversy, Etienne Maclouf, Léo Mar-
+tin, Ana-Cristina Torres, Minh-Xuan Truong, and Anne-Caroline Prévot. 2017.
+Transformation of Experience: Toward a New Relationship with Nature. Con-
+servation Letters 10, 5 (Sept. 2017), 645–651. https://doi.org/10.1111/conl.12337
+[16] Alexandra Coghlan and Lewis Carter. 2020. Serious games as interpretive
+tools in complex natural tourist attractions. Journal of Hospitality and Tourism
+Management 42 (March 2020), 258–265. https://doi.org/10.1016/j.jhtm.2020.01.
+010
+[17] Carol Cohn. 2006. Motives and methods: using multi-sited ethnography to study
+US national security discourses. In Feminist Methodologies for International Rela-
+tions (1 ed.), Brooke A. Ackerly, Maria Stern, and Jacqui True (Eds.). Cambridge
+University Press, 91–107. https://doi.org/10.1017/CBO9780511617690.007
+[18] Aykut Coskun, Nazli Cila, Iohanna Nicenboim, Christopher Frauenberger, Ron
+Wakkary, Marc Hassenzahl, Clara Mancini, Elisa Giaccardi, and Laura Forlano.
+2022. More-than-human Concepts, Methodologies, and Practices in HCI. In CHI
+Conference on Human Factors in Computing Systems Extended Abstracts . ACM,
+New Orleans LA USA, 1–5. https://doi.org/10.1145/3491101.3516503
+[19] Paul Coulton and Joseph Galen Lindley. 2019. More-Than Human Centred
+Design: Considering Other Things. The Design Journal 22, 4 (July 2019), 463–
+481. https://doi.org/10.1080/14606925.2019.1614320
+[20] Paul J. Crutzen and Eugene F. Stoermer. 2017. “The ‘Anthropocene”’ (2000). In
+The Future of Nature , Libby Robin, Sverker Sörlin, and Paul Warde (Eds.). Yale
+University Press, 479–490. https://doi.org/10.12987/9780300188479-041
+[21] Shaveta Dargan, Shally Bansal, Munish Kumar, Ajay Mittal, and Krishan Kumar.
+2023. Augmented Reality: A Comprehensive Review. Archives of Computational
+Methods in Engineering 30, 2 (March 2023), 1057–1080. https://doi.org/10.1007/
+s11831-022-09831-7
+[22] N. Davies, K. Cheverst, K. Mitchell, and A. Efrat. 2001. Using and determining
+location in a context-sensitive tour guide. Computer 34, 8 (Aug. 2001), 35–41.
+https://doi.org/10.1109/2.940011
+[23] Y.A.W. De Kort, A.L. Meijnders, A.A.G. Sponselee, and W.A. IJsselsteijn. 2006.
+What’s wrong with virtual trees? Restoring from stress in a mediated envi-
+ronment. Journal of Environmental Psychology 26, 4 (Dec. 2006), 309–320.
+https://doi.org/10.1016/j.jenvp.2006.09.001
+[24] Shruti Desai and Harriet Smith. 2018. Kinship across Species: Learning to
+Care for Nonhuman Others. Feminist Review 118, 1 (April 2018), 41–60. https:
+//doi.org/10.1057/s41305-018-0104-0
+[25] Mara Dionisio, Mafalda Mendes, Marc Fernandez, Valentina Nisi, and Nuno
+Nunes. 2022. Aqua: Leveraging Citizen Science to Enhance Whale-Watching
+Activities and Promote Marine-Biodiversity Awareness. Sustainability 14, 21
+(Oct. 2022), 14203. https://doi.org/10.3390/su142114203
+[26] Mara Dionisio and Valentina Nisi. 2021. Leveraging Transmedia storytelling
+to engage tourists in the understanding of the destination’s local heritage.
+Multimedia Tools and Applications 80, 26-27 (Nov. 2021), 34813–34841. https:
+//doi.org/10.1007/s11042-021-10949-2
+[27] Mara Dionisio, Valentina Nisi, Nuno Nunes, and Paulo Bala. 2016. Transme-
+dia Storytelling for Exposing Natural Capital and Promoting Ecotourism. In
+Interactive Storytelling , Frank Nack and Andrew S. Gordon (Eds.). Vol. 10045.
+Springer International Publishing, Cham, 351–362. https://doi.org/10.1007/978-
+3-319-48279-8_31 Series Title: Lecture Notes in Computer Science.
+[28] Mara Dionisio, Cláudia Silva, and Valentina Nisi. 2019. Fostering Interaction Be-
+tween Locals and Visitors by Designing a Community-Based Tourism Platform
+on a Touristic Island. In Human-Computer Interaction – INTERACT 2019 , David
+Lamas, Fernando Loizides, Lennart Nacke, Helen Petrie, Marco Winckler, and
+Panayiotis Zaphiris (Eds.). Vol. 11747. Springer International Publishing, Cham,
+768–787. https://doi.org/10.1007/978-3-030-29384-0_46 Series Title: Lecture
+Notes in Computer Science.
+[29] Carl DiSalvo, Phoebe Sengers, and Hrönn Brynjarsdóttir. 2010. Mapping the
+landscape of sustainable HCI. In Proceedings of the SIGCHI Conference on Human
+Factors in Computing Systems . ACM, Atlanta Georgia USA, 1975–1984. https:
+//doi.org/10.1145/1753326.1753625
+[30] Leejiah J. Dorward, John C. Mittermeier, Chris Sandbrook, and Fiona Spooner.
+2017. Pokémon Go: Benefits, Costs, and Lessons for the Conservation Movement.
+Conservation Letters 10, 1 (Jan. 2017), 160–165. https://doi.org/10.1111/conl.
+12326
+[31] John Dunham. 2021. Location Based Games and the People Who Play Them. In
+Extended Abstracts of the 2021 Annual Symposium on Computer-Human Inter-
+action in Play . ACM, Virtual Event Austria, 394–396. https://doi.org/10.1145/
+3450337.3483514
+[32] Matilda Eve Dunn, Gautam Shah, and Diogo Veríssimo. 2021. Stepping into
+the Wildeverse: Evaluating the impact of augmented reality mobile gaming on
+pro-conservation behaviours. People and Nature 3, 6 (Dec. 2021), 1205–1217.
+https://doi.org/10.1002/pan3.10273
+[33] Jason Farman (Ed.). 2014. The mobile story: narrative practices with locative
+technologies . Routledge, New York.
+[34] Melanie Feinberg, Sarah Fox, Jean Hardy, Stephanie Steinhardt, and Palashi
+Vaghela. 2019. At the Intersection of Culture and Method: Designing Feminist
+Action. In Companion Publication of the 2019 on Designing Interactive SystemsConference 2019 Companion . ACM, San Diego CA USA, 365–368. https://doi.
+org/10.1145/3301019.3319993
+[35] Filipa Fernandes. 2010. A cultura da água: da patrimonialização das levadas da
+Madeira à oferta turística. PASOS Revista de turismo y patrimonio cultural 8, 4
+(2010). https://doi.org/10.25145/j.pasos.2010.08.046
+[36] Filipa Fernandes. 2016. Built heritage and flash floods: hiking trails and tourism
+on Madeira Island. Journal of Heritage Tourism 11, 1 (Jan. 2016), 88–95. https:
+//doi.org/10.1080/1743873X.2015.1082574
+[37] Marta Ferreira, Valentina Nisi, and Nuno Nunes. 2023. Interactions with Climate
+Change: a Data Humanism Design Approach. In Proceedings of the 2023 ACM
+Designing Interactive Systems Conference . ACM, Pittsburgh PA USA, 1325–1338.
+https://doi.org/10.1145/3563657.3596003
+[38] Center for Responsible Travel. 2015. The Case for Responsible Travel: Trends &
+Statistics 2015 . Technical Report. http://www.responsibletravel.org/resources/
+documents/2015%20Trends%20&%20Statistics_Final.pdf
+[39] Christopher Frauenberger. 2020. Entanglement HCI The Next Wave? ACM
+Transactions on Computer-Human Interaction 27, 1 (Feb. 2020), 1–27. https:
+//doi.org/10.1145/3364998
+[40] Christina Fredengren. 2021. Nature:Cultures – Heritage, Sustainability and
+Feminist Posthumanism. Current Swedish Archaeology 23, 1 (June 2021), 109–
+130. https://doi.org/10.37718/CSA.2015.09
+[41] Pasi Fränti and Nancy Fazal. 2023. Design Principles for Content Creation in
+Location-Based Games. ACM Transactions on Multimedia Computing, Communi-
+cations, and Applications 19, 5s (Oct. 2023), 1–30. https://doi.org/10.1145/3583689
+[42] Kathleen Fuegen and Kimberly H. Breitenbecher. 2018. Walking and Being
+Outdoors in Nature Increase Positive Affect and Energy. Ecopsychology 10, 1
+(March 2018), 14–25. https://doi.org/10.1089/eco.2017.0036
+[43] Bill Gaver, Tony Dunne, and Elena Pacenti. 1999. Design: Cultural probes.
+Interactions 6, 1 (Jan. 1999), 21–29. https://doi.org/10.1145/291224.291235
+[44] Kristin Hanks, William Odom, David Roedl, and Eli Blevis. 2008. Sustainable
+millennials: attitudes towards sustainability and the material effects of inter-
+active technologies. In Proceedings of the SIGCHI Conference on Human Factors
+in Computing Systems . ACM, Florence Italy, 333–342. https://doi.org/10.1145/
+1357054.1357111
+[45] Donna Haraway. 1991. A Cyborg Manifesto: Science, Technology, and Socialist-
+Feminism in the Late Twentieth Century. In Simians, Cyborgs and Women: The
+Reinvention of Nature . Routledge.
+[46] Donna Haraway. 1997. Situated Knowledges: the Science Question in Feminism
+and the Privilege of Partial Perspective. In Space, Gender, Knowledge: Feminist
+Readings . Routledge.
+[47] Donna Haraway. 2008. Companion species, mis-recognition, and queer worlding.
+InQueering the non/human . xxiii–xxxvi.
+[48] Donna Haraway, Noboru Ishikawa, Scott F. Gilbert, Kenneth Olwig, Anna L.
+Tsing, and Nils Bubandt. 2016. Anthropologists Are Talking – About the An-
+thropocene. Ethnos 81, 3 (May 2016), 535–564. https://doi.org/10.1080/00141844.
+2015.1105838
+[49] Karey Helms and Ylva Fernaeus. 2021. Troubling Care: Four Orientations for
+Wickedness in Design. In Designing Interactive Systems Conference 2021 . ACM,
+Virtual Event USA, 789–801. https://doi.org/10.1145/3461778.3462025
+[50] B Humberstone, H Prince, and L Mansfield. 2017. The environment, physical
+activity, recreation and the outdoors. In Routledge Handbook of Physical Activity
+Policy and Practice . Routledge, 209–223.
+[51] Alessandro Ianniello, Alessia Romani, and Francesca Casnati. 2022. Technology
+toward more-than-human symbiosis: Critical reflections from the design per-
+spective. In Proceedings of the 25th International Academic Mindtrek Conference .
+ACM, Tampere Finland, 158–166. https://doi.org/10.1145/3569219.3569379
+[52] Juliane Jarke and Susanne Maaß. 2018. Probes as Participatory Design Practice.
+i-com 17, 2 (Aug. 2018), 99–102. https://doi.org/10.1515/icom-2018-0026
+[53] Peter H. Kahn, Rachel L. Severson, and Jolina H. Ruckert. 2009. The Human Rela-
+tion With Nature and Technological Nature. Current Directions in Psychological
+Science 18, 1 (Feb. 2009), 37–42. https://doi.org/10.1111/j.1467-8721.2009.01602.x
+[54] Cayla Key, Cally Gatehouse, and Nick Taylor. 2022. Feminist Care in the An-
+thropocene: Packing and Unpacking Tensions in Posthumanist HCI. In De-
+signing Interactive Systems Conference . ACM, Virtual Event Australia, 677–692.
+https://doi.org/10.1145/3532106.3533540
+[55] Yasuhiro Kotera, Melinda Lyons, Katia Correa Vione, and Briony Norton. 2021.
+Effect of Nature Walks on Depression and Anxiety: A Systematic Review. Sus-
+tainability 13, 7 (April 2021), 4015. https://doi.org/10.3390/su13074015
+[56] Annakaisa Kultima and Alyea Sandovar. 2016. Game design values. In Proceed-
+ings of the 20th International Academic Mindtrek Conference . ACM, Tampere
+Finland, 350–357. https://doi.org/10.1145/2994310.2994362
+[57] Samuli Laato, Daniel Fernández Galeote, Ferran Altarriba Bertran, and Juho
+Hamari. 2022. Balancing the Augmented Experience: Design Tensions in the
+Location-based Game Pikmin Bloom. In CHI Conference on Human Factors
+in Computing Systems Extended Abstracts . ACM, New Orleans LA USA, 1–7.
+https://doi.org/10.1145/3491101.3519785
+[58] Samuli Laato, Daniel Fernández Galeote, Ferran Altarriba Bertran, Konstantinos
+Papangelis, and Juho Hamari. 2023. How Location-Based Games Incentivize
+92
+Posthumanist Care and Ecologies of Empathy Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+Moving About: A Study in the Context of Nature-Going. Proceedings of the
+ACM on Human-Computer Interaction 7, CHI PLAY (Sept. 2023), 642–664. https:
+//doi.org/10.1145/3611044
+[59] Bruno Latour. 1994. We have never been modern (3. print. ed.). Harvard Univ.
+Press, Cambridge, Mass.
+[60] Jung Eun Lee, Nan Zeng, Yoonsin Oh, Daehyoung Lee, and Zan Gao. 2021. Effects
+of Pokémon GO on Physical Activity and Psychological and Social Outcomes:
+A Systematic Review. Journal of Clinical Medicine 10, 9 (April 2021), 1860.
+https://doi.org/10.3390/jcm10091860
+[61] Jingyi Li, Yong Ma, Puzhen Li, and Andreas Butz. 2021. A Journey Through
+Nature: Exploring Virtual Restorative Environments as a Means to Relax in
+Confined Spaces. In Creativity and Cognition . ACM, Virtual Event Italy, 1–9.
+https://doi.org/10.1145/3450741.3465248
+[62] Ann Light. 2022. Ecologies of subversion: troubling interaction design for climate
+care. Interactions 29, 1 (Jan. 2022), 34–38. https://doi.org/10.1145/3501301
+[63] Anne Marike Lokhorst, Céline Hoon, Rob Le Rutte, and Geert De Snoo. 2014.
+There is an I in nature: The crucial role of the self in nature conservation. Land
+Use Policy 39 (July 2014), 121–126. https://doi.org/10.1016/j.landusepol.2014.03.
+005
+[64] Amari Low, Jane Turner, and Marcus Foth. 2022. Pla(y)cemaking With Care:
+Locative Mobile Games as Agents of Place Cultivation. In Proceedings of the 25th
+International Academic Mindtrek Conference . ACM, Tampere Finland, 135–146.
+https://doi.org/10.1145/3569219.3569311
+[65] Kate Lund, Mark Lochrie, and Paul Coulton. 2010. Enabling emergent behaviour
+in location based games. In Proceedings of the 14th International Academic
+MindTrek Conference: Envisioning Future Media Environments . ACM, Tampere
+Finland, 78–85. https://doi.org/10.1145/1930488.1930505
+[66] Sophie McDonald, David Kirk, and Nick Bryan-Kinns. 2015. Nature Bot: Ex-
+periencing Nature in the Built Environment. In Proceedings of the 2015 ACM
+SIGCHI Conference on Creativity and Cognition . ACM, Glasgow United Kingdom,
+173–176. https://doi.org/10.1145/2757226.2764547
+[67] David E. Millard, Heather Packer, Yvonne Howard, and Charlie Hargood. 2020.
+The Balance of Attention: The Challenges of Creating Locative Cultural Sto-
+rytelling Experiences. Journal on Computing and Cultural Heritage 13, 4 (Dec.
+2020), 1–24. https://doi.org/10.1145/3404195
+[68] Markus Montola, Jaakko Stenros, and Annika Wærn. 2009. Pervasive games:
+theory and design . Morgan Kaufmann Publishers, Burlington, MA.
+[69] Luís Mota, Mara Franco, and Rossana Santos. 2021. Island tourism carrying
+capacity in the UNESCO Site Laurisilva of Madeira. Island Studies Journal 16, 2
+(2021), 255–269. https://doi.org/10.24043/isj.143
+[70] Florian Mueller, Sophie Stellmach, Saul Greenberg, Andreas Dippon, Susanne
+Boll, Jayden Garner, Rohit Khot, Amani Naseem, and David Altimira. 2014.
+Proxemics play: understanding proxemics for designing digital play experiences.
+InProceedings of the 2014 conference on Designing interactive systems . ACM,
+Vancouver BC Canada, 533–542. https://doi.org/10.1145/2598510.2598532
+[71] Manasee Narvilkar, Josiah Mangiameli, Adriana Alvarado Garcia, Azra Is-
+mail, Daniel Schiff, Danielle Schechter, Jordan Chen, Karthik Bhat, Marisol
+Wong-Villacres, Anusha Vasudeva, Aparna Ramesh, Michaelanne Dye, Naveena
+Karusala, Pragati Singh, Savanthi Murthy, Shubhangi Gupta, Udaya Lakshmi,
+and Neha Kumar. 2019. Bringing Shades of Feminism To Human-Centered
+Computing. In Extended Abstracts of the 2019 CHI Conference on Human Factors
+in Computing Systems . ACM, Glasgow Scotland Uk, 1–12. https://doi.org/10.
+1145/3290607.3310419
+[72] Anne Naukkarinen, Jenna Sutela, Andrea Botero, and Kari-Hans Kommonen.
+2009. Designing locative media for creative misuse: learning from urban in-
+tervention. Proceedings of the 13th International Academic Mindtrek Conference
+(2009).
+[73] Velvet Nelson. 2015. Tourist Identities in Narratives of Unexpected Adventure
+in Madeira. International Journal of Tourism Research 17, 6 (Nov. 2015), 537–544.
+https://doi.org/10.1002/jtr.2018
+[74] Carman Neustaedter, Anthony Tang, and Judge K. Tejinder. 2010. The role of
+community and groupware in geocache creation and maintenance. In Proceed-
+ings of the SIGCHI Conference on Human Factors in Computing Systems . ACM,
+Atlanta Georgia USA, 1757–1766. https://doi.org/10.1145/1753326.1753590
+[75] Valentina Nisi, Catia Prandi, and Nuno Jardim Nunes. 2020. Towards Eco-Centric
+Interaction: Urban Playful Interventions in the Anthropocene. In Making Smart
+Cities More Playable , Anton Nijholt (Ed.). Springer Singapore, Singapore, 235–
+257. https://doi.org/10.1007/978-981-13-9765-3_11 Series Title: Gaming Media
+and Social Effects.
+[76] Nuno Jardim Nunes, Marko Radeta, and Valentina Nisi. 2020. Enhancing Whale
+Watching with Mobile Apps and Streaming Passive Acoustics. In Entertainment
+Computing – ICEC 2020 , Nuno J. Nunes, Lizhuang Ma, Meili Wang, Nuno Correia,
+and Zhigeng Pan (Eds.). Vol. 12523. Springer International Publishing, Cham,
+205–222. https://doi.org/10.1007/978-3-030-65736-9_18 Series Title: Lecture
+Notes in Computer Science.
+[77] Kenton O’Hara, Tim Kindberg, Maxine Glancy, Luciana Baptista, Byju Suku-
+maran, Gil Kahana, and Julie Rowbotham. 2007. Social practices in location-
+based collecting. In Proceedings of the SIGCHI Conference on Human Factorsin Computing Systems . ACM, San Jose California USA, 1225–1234. https:
+//doi.org/10.1145/1240624.1240810
+[78] Paulo Oliveira and Pedro Telhado Pereira. 2008. Who Values What in a Tourism
+Destination? The Case of Madeira Island. Tourism Economics 14, 1 (March 2008),
+155–168. https://doi.org/10.5367/000000008783554758
+[79] Jessica L. Oliver, Margot Brereton, David M. Watson, and Paul Roe. 2019.
+Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technol-
+ogy by a Species Recovery Team. In Proceedings of the 2019 on Designing In-
+teractive Systems Conference . ACM, San Diego CA USA, 1335–1348. https:
+//doi.org/10.1145/3322276.3322360
+[80] Konstantinos Papangelis, Melvin Metzger, Yiyeng Sheng, Hai-Ning Liang, Alan
+Chamberlain, and Ting Cao. 2017. Conquering the City: Understanding percep-
+tions of Mobility and Human Territoriality in Location-based Mobile Games.
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Tech-
+nologies 1, 3 (Sept. 2017), 1–24. https://doi.org/10.1145/3130955
+[81] Thymio Papayannis and Peter Howard. 2007. Editorial: Nature as Heritage.
+International Journal of Heritage Studies 13, 4-5 (July 2007), 298–307. https:
+//doi.org/10.1080/13527250701350835
+[82] Natasa Paterson, Gavin Kearney, Katsiaryna Naliuka, Tara Carrigy, Mads Haahr,
+and Fionnuala Conway. 2013. Viking Ghost Hunt: creating engaging sound de-
+sign for location-aware applications. International Journal of Arts and Technology
+6, 1 (2013), 61. https://doi.org/10.1504/IJART.2013.050692
+[83] Catlin Pidel and Philipp Ackermann. 2020. Collaboration in Virtual and Aug-
+mented Reality: A Systematic Overview. In Augmented Reality, Virtual Real-
+ity, and Computer Graphics , Lucio Tommaso De Paolis and Patrick Bourdot
+(Eds.). Vol. 12242. Springer International Publishing, Cham, 141–156. https:
+//doi.org/10.1007/978-3-030-58465-8_10 Series Title: Lecture Notes in Computer
+Science.
+[84] Daniel Pimentel. 2021. The Peril and Potential of XR-based Interactions with
+Wildlife. In Extended Abstracts of the 2021 CHI Conference on Human Factors
+in Computing Systems . ACM, Yokohama Japan, 1–9. https://doi.org/10.1145/
+3411763.3450378
+[85] Fabio Pittarello. 2011. Designing a Context-Aware Architecture for Emotionally
+Engaging Mobile Storytelling. In Human-Computer Interaction – INTERACT 2011 ,
+David Hutchison, Takeo Kanade, Josef Kittler, Jon M. Kleinberg, Friedemann
+Mattern, John C. Mitchell, Moni Naor, Oscar Nierstrasz, C. Pandu Rangan,
+Bernhard Steffen, Madhu Sudan, Demetri Terzopoulos, Doug Tygar, Moshe Y.
+Vardi, Gerhard Weikum, Pedro Campos, Nicholas Graham, Joaquim Jorge, Nuno
+Nunes, Philippe Palanque, and Marco Winckler (Eds.). Vol. 6946. Springer Berlin
+Heidelberg, Berlin, Heidelberg, 144–151. https://doi.org/10.1007/978-3-642-
+23774-4_14 Series Title: Lecture Notes in Computer Science.
+[86] Catia Prandi, Valentina Nisi, Pedro Loureiro, and Nuno J. Nunes. 2020. Story-
+telling and remote-sensing playful interventions to foster biodiversity aware-
+ness. International Journal of Arts and Technology 12, 1 (2020), 39. https:
+//doi.org/10.1504/IJART.2020.107680
+[87] João Prudente, Helder Lopes, João Noite, Ana Rodrigues, Sara Vieira, Ricardo
+Alves, and Catarina Fernando. 2020. Hikes and Levadas in Madeira: Characteriz-
+ing Visitors and their experience. European Journal of Tourism, Hospitality and
+Recreation 10, 2 (Dec. 2020), 154–164. https://doi.org/10.2478/ejthr-2020-0013
+[88] Maria Puig De La Bellacasa. 2015. Making time for soil: Technoscientific futurity
+and the pace of care. Social Studies of Science 45, 5 (Oct. 2015), 691–716. https:
+//doi.org/10.1177/0306312715599851
+[89] María Puig de La Bellacasa. 2017. Matters of care: speculative ethics in more than
+human worlds . Number 41 in Posthumanities. University of Minnesota press,
+Minneapolis (Minn.).
+[90] RM Pyle. 1993. The thunder tree: lessons from an urban wildland . Houghton
+Mifflin.
+[91] Jason Rambach, Gergana Lilligreen, Alexander Schäfer, Ramya Bankanal,
+Alexander Wiebel, and Didier Stricker. 2021. A Survey on Applications of
+Augmented, Mixed and Virtual Reality for Nature and Environment. In Vir-
+tual, Augmented and Mixed Reality , Jessie Y. C. Chen and Gino Fragomeni
+(Eds.). Vol. 12770. Springer International Publishing, Cham, 653–675. https:
+//doi.org/10.1007/978-3-030-77599-5_45 Series Title: Lecture Notes in Computer
+Science.
+[92] Adrian Reetz, Deltcho Valtchanov, Michael Barnett-Cowan, Mark Hancock, and
+James R. Wallace. 2021. Nature vs. Stress: Investigating the Use of Biophilia in
+Non-Violent Exploration Games to Reduce Stress. Proceedings of the ACM on
+Human-Computer Interaction 5, CHI PLAY (Oct. 2021), 1–13. https://doi.org/10.
+1145/3474674
+[93] Shannon Rodgers, Kellie Vella, Bernd Ploderer, and Margot Brereton. 2023.
+Nature Fictions: Designing for a Sustainable Future through Nature Relations.
+InProceedings of the 2023 ACM Designing Interactive Systems Conference . ACM,
+Pittsburgh PA USA, 1566–1580. https://doi.org/10.1145/3563657.3595981
+[94] Richard M. Ryan, Netta Weinstein, Jessey Bernstein, Kirk Warren Brown, Louis
+Mistretta, and Marylène Gagné. 2010. Vitalizing effects of being outdoors and
+in nature. Journal of Environmental Psychology 30, 2 (June 2010), 159–168.
+https://doi.org/10.1016/j.jenvp.2009.10.009
+93
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Galvão-Ferreira, et al.
+[95] Elena B. Sabinson and Keith Evan Green. 2023. A Walk in Nature: Exploring the
+Creative Potentials of a Generative Design Tool for Soft Robotic Surfaces that
+Foster a Connection with Nature.. In Creativity and Cognition . ACM, Virtual
+Event USA, 185–199. https://doi.org/10.1145/3591196.3593367
+[96] Chris Sandbrook, William M. Adams, and Bruno Monteferri. 2015. Digital
+Games and Biodiversity Conservation. Conservation Letters 8, 2 (March 2015),
+118–124. https://doi.org/10.1111/conl.12113
+[97] Jihan Sherman. 2023. Black Feminist Technoscience: Sojourner Truth, Sto-
+rytelling, and a Framework for Design. In Proceedings of the 2023 ACM De-
+signing Interactive Systems Conference . ACM, Pittsburgh PA USA, 978–986.
+https://doi.org/10.1145/3563657.3596105
+[98] Claudia Silva, Ana Bettencourt, Mara Dionisio, Deborah Castro, Dina Dionisio,
+Duarte Teixeira, and Valentina Nisi. 2017. Há-Vita: A transmedia platform about
+Madeira’s nature and culture. In 2017 Sustainable Internet and ICT for Sustain-
+ability (SustainIT) . IEEE, Funchal, 1–2. https://doi.org/10.23919/SustainIT.2017.
+8379813
+[99] Jorge Soares and Naidea Nunes. 2020. Levada walks and canyoning as mountain
+sport products in nature tourism. European Journal of Tourism, Hospitality and
+Recreation 10, 1 (May 2020), 41–55. https://doi.org/10.2478/ejthr-2020-0004
+[100] Masashi Soga and Kevin J Gaston. 2016. Extinction of experience: the loss of
+human–nature interactions. Frontiers in Ecology and the Environment 14, 2
+(March 2016), 94–101. https://doi.org/10.1002/fee.1225
+[101] Masashi Soga and Kevin J. Gaston. 2020. The ecology of human–nature interac-
+tions. Proceedings of the Royal Society B: Biological Sciences 287, 1918 (Jan. 2020),
+20191882. https://doi.org/10.1098/rspb.2019.1882
+[102] Jaakko Stenros, Markus Montola, and Frans Mäyrä. 2007. Pervasive games in
+ludic society. In Proceedings of the 2007 conference on Future Play - Future Play
+’07. ACM Press, Toronto, Canada, 30. https://doi.org/10.1145/1328202.1328209
+[103] Sonja Sudimac, Vera Sale, and Simone Kühn. 2022. How nature nurtures: Amyg-
+dala activity decreases as the result of a one-hour walk in nature. Molecular
+Psychiatry 27, 11 (Nov. 2022), 4446–4452. https://doi.org/10.1038/s41380-022-
+01720-6
+[104] Marie Louise Juul Søndergaard, Marianela Ciolfi Felice, and Madeline Balaam.
+2021. Designing Menstrual Technologies with Adolescents. In Proceedings of the
+2021 CHI Conference on Human Factors in Computing Systems . ACM, Yokohama
+Japan, 1–14. https://doi.org/10.1145/3411764.3445471
+[105] Cedric K. W. Tan and Hidayah Nurul-Asna. 2023. Serious games for en-
+vironmental education. Integrative Conservation 2, 1 (March 2023), 19–42.
+https://doi.org/10.1002/inc3.18
+[106] Dallen J. Timothy and Stephen W. Boyd. 2003. Heritage tourism (1st ed ed.).
+Prentice Hall, New York.
+[107] Oscar Tomico, Ferran Altarriba, Svenja Keune, Oğuz Buruk, Danielle Wilde,
+and Ron Wakkary. 2023. Designerly ways of engaging with nature. In 26th
+International Academic Mindtrek Conference . ACM, Tampere Finland, 309–312.
+https://doi.org/10.1145/3616961.3616993
+[108] Minh-Xuan A. Truong and Susan Clayton. 2020. Technologically transformed
+experiences of nature: A challenge for environmental conservation? Biological
+Conservation 244 (April 2020), 108532. https://doi.org/10.1016/j.biocon.2020.
+108532
+[109] Anna Lowenhaupt Tsing. 2021. The mushroom at the end of the world: on the
+possibility of life in capitalist ruins (new paperback printing ed.). Princeton
+University Press, Princeton Oxford.
+[110] Jasmine B. Ulmer. 2017. Posthumanism as research methodology: inquiry in the
+Anthropocene. International Journal of Qualitative Studies in Education 30, 9
+(Oct. 2017), 832–848. https://doi.org/10.1080/09518398.2017.1336806
+[111] Kellie Vella, Michael Esteban, Bernd Ploderer, and Margot Brereton. 2022. Net-
+worked Gardens: Remediating Local Nature Data Through the Internet of Things.
+InDesigning Interactive Systems Conference . ACM, Virtual Event Australia, 1597–
+1611. https://doi.org/10.1145/3532106.3533497
+[112] Peter-Paul Verbeek. 2015. Beyond interaction: a short introduction to mediation
+theory. Interactions 22, 3 (April 2015), 26–31. https://doi.org/10.1145/2751314
+[113] Valentina Vezzani, Susana Gonzaga, and Elisa Bertolotti. 2019. Atlantic Wonder.
+Exploring Nature and Design in Madeira island. The Design Journal 22, sup1
+(April 2019), 1603–1617. https://doi.org/10.1080/14606925.2019.1594994
+[114] Mark J. Weal, Don Cruickshank, Danius T. Michaelides, David E. Millard, David
+C. De Roure, Katherine Howland, and Geraldine Fitzpatrick. 2007. A Card Based
+Metaphor for Organising Pervasive Educational Experiences. In Fifth Annual
+IEEE International Conference on Pervasive Computing and Communications
+Workshops (PerComW’07) . IEEE, White Plains, NY, 165–170. https://doi.org/10.
+1109/PERCOMW.2007.3
+[115] Sarah Webber, Ryan M. Kelly, Greg Wadley, and Wally Smith. 2023. Engaging
+with Nature through Technology: A Scoping Review of HCI Research. In Pro-
+ceedings of the 2023 CHI Conference on Human Factors in Computing Systems .
+ACM, Hamburg Germany, 1–18. https://doi.org/10.1145/3544548.3581534
+[116] Edward O. Wilson. 1994. Biophilia: the human bond with other species . Harvard
+Univ. Press, Cambridge, Mass.
+[117] Isabelle D. Wolf, David B. Croft, and Ronda J. Green. 2019. Nature Conservation
+and Nature-Based Tourism: A Paradox? Environments 6, 9 (Sept. 2019), 104.https://doi.org/10.3390/environments6090104
+[118] Isabelle D. Wolf and Teresa Wohlfart. 2014. Walking, hiking and running in parks:
+A multidisciplinary assessment of health and well-being benefits. Landscape and
+Urban Planning 130 (Oct. 2014), 89–103. https://doi.org/10.1016/j.landurbplan.
+2014.06.006
+[119] Spyridon Xanthopoulos and Stelios Xinogalos. 2018. Opportunities and chal-
+lenges of mobile location-based games in education: Exploring the integration of
+authoring and analytics tools. In 2018 IEEE Global Engineering Education Confer-
+ence (EDUCON) . IEEE, Tenerife, 1797–1805. https://doi.org/10.1109/EDUCON.
+2018.8363452
+[120] Ningning Xu, Jiachen Liang, Kexiang Shuai, Yuwen Li, and Jiaqi Yan. 2023.
+HeritageSite AR: An Exploration Game for Quality Education and Sustainable
+Cultural Heritage. In Extended Abstracts of the 2023 CHI Conference on Human
+Factors in Computing Systems . ACM, Hamburg Germany, 1–8. https://doi.org/
+10.1145/3544549.3583837
+[121] Andrea Zeffiro. 2012. A location of one’s own: A genealogy of locative media.
+Convergence: The International Journal of Research into New Media Technologies
+18, 3 (Aug. 2012), 249–266. https://doi.org/10.1177/1354856512441148
+[122] Sena Çerçi, Marta E. Cecchinato, and John Vines. 2021. How Design Re-
+searchers Interpret Probes: Understanding the Critical Intentions of a De-
+signerly Approach to Research. In Proceedings of the 2021 CHI Conference on
+Human Factors in Computing Systems . ACM, Yokohama Japan, 1–15. https:
+//doi.org/10.1145/3411764.3445328
+94

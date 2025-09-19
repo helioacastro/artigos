@@ -1,0 +1,636 @@
+Information, Communication & Society
+ISSN: 1369-118X (Print) 1468-4462 (Online) Journal homepage: www.tandfonline.com/journals/rics20
+Data phronesis and the duality of care in the air
+quality data politics
+Bartosz Ślosarski
+To cite this article: Bartosz Ślosarski (2024) Data phronesis and the duality of care in
+the air quality data politics, Information, Communication & Society, 27:4, 758-773, DOI:
+10.1080/1369118X.2023.2296926
+To link to this article:  https://doi.org/10.1080/1369118X.2023.2296926
+© 2024 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 18 Jan 2024.
+Submit your article to this journal 
+Article views: 1183
+View related articles 
+View Crossmark data
+Citing articles: 4 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rics20
+Data phronesis and the duality of care in the air quality data
+politics
+Bartosz Ślosarski
+Faculty of Sociology, University of Warsaw, Warsaw, Poland
+ABSTRACT
+This article delves into the intricate dynamics of air data ﬁcation as
+matters of care within the distinctive context of air quality data
+politics in Poland. It focuses on the implementation of data-
+mediated care for air quality, scrutinizing two interconnecteddimensions: data practices and data phronesis. The former
+involves the meticulous handling of air quality data, while the
+latter explores the phronetic valuation of more-than-humanrealms, including data standards, air sensing technologies, and a
+diverse array of actors integral to the data ﬁcation process. Data
+phronesis is conceptualized as the situated and context-dependent practical wisdom demonstrated by various actors,
+shaping the de ﬁnition of ‘good ’data-mediated care for air
+quality. The article emphasizes the duality of care, highlighting
+the interplay between data phronesis and data practices. It
+underscores the ongoing negotiation surrounding air quality
+concerns, intricately mediated through data, within relational and
+contextual dimensions. Through an in-depth qualitativeexamination and Reﬂexive Thematic Analysis, four key themes,
+related to data-mediated air quality care, are identi ﬁed: ‘caring
+about data, ’involving the valuation of situated data practices;
+‘caring for data, ’translating polluted air into reliable data, while
+considering dominant standards; ‘caring by data, ’deﬁning data
+usage methods within dynamic contexts; and ‘data for caring, ’
+exploring practical applications, particularly activist practices
+integrating diverse local contexts with European air quality
+standards. The article enriches our understanding of data ﬁcation
+as matters for care, shedding light on the interconnections
+between hands-on data practices and the contextual wisdom
+steering strategic action.ARTICLE HISTORY
+Received 18 July 2023
+Accepted 15 December 2023
+KEYWORDS
+Data practices; data
+phronesis; matters of care;
+air quality data politics
+The article’ s main purpose is to present how the dataﬁcation of air is approached as a
+matter of care (de la Bellacasa, 2017 ; Gabrys, 2022 ; Pink, 2022 ) within the Polish context
+of air quality data politics. It speciﬁ cally focuses on how data-mediated care for air quality
+is realized in two interconnected dimensions: data practices and data phronesis
+(Eubanks, 2012 ; Flyvbjerg, 2013 ). These dimensions include the practice of handling
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/
+licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s)or with their consent.CONTACT Bartosz Ślosarski b.slosarski@uw.edu.pl Karowa 18, Warsaw, PolandINFORMATION, COMMUNICATION & SOCIETY
+2024, VOL. 27, NO. 4, 758 –773
+https://doi.org/10.1080/1369118X.2023.2296926
+air quality data, and the phronetic valuation of more-than-human worlds (de la Bellacasa,
+2017 ; Mol et al., 2010 ) composed of data standards, air sensing technologies, and diverse
+actors participating in the process of the dataﬁ cation of air. Data phronesis is understood
+as the situated and context-dependent practical wisdom of various actors that determines
+how de ﬁnitions of ‘good ’data-mediated care for air quality are created.
+In the article, I posit that the process of air dataﬁ cation ultimately involves the
+conversion of air pollution into data, with the aim of quantifying risks and guidingprescriptive actions (Pink, 2022 , p. 75). This process is upheld through the e ﬀorts of pub-
+lic and scientiﬁ c institutions, as well as the activities of grassroots social movements.
+Therefore, the dataﬁcation of air as a matter of care can be comprehended as mainten-ance and repair practices using the data and dataﬁ cation technologies necessary to pre-
+serve, sustain, and restore our breathable world ‘so that we can live in it as well as
+possible ’(de la Bellacasa, 2017 , p. 3). These practices of collecting air pollution data
+serve as documentation of harm and are employed as a means of generating care for
+air quality (Gabrys, 2022 , p. 105).
+However, air quality data is not universal, but rather determined by context and
+relationships (Loukissas, 2019 ;Ślosarski, 2023 ), and their valuation is based on data
+phronesis. Data phronesis reveals the vulnerability of data as facts, and emphasizestheir collective signi ﬁcance, supported by networks of both human and non-human
+actors. The concept of ‘matters of care ’considers the three Aristotelian intellectual vir-
+tues together (Aristotle, 2015 ). It focuses on episteme as the means of constructing knowl-
+edge and cognition, on techne as the construction of sociotechnical assemblages, as well
+as addressing issues of situated ethics as a key aspect of caring for the representation of
+things. The aim of the article is to strengthen this third aspect by proposing to study
+phronesis as situated practical wisdom that determines how de ﬁnitions of good care
+are created, thus inﬂ uencing practices. This category adds to the understanding of care
+by indicating how valuation is realized and linked to practices that involve adapting to
+various technologies and contexts. Data phronesis enables us to capture the diverse sen-
+sibilities of actors, thereby highlighting the power dynamics among them, determining
+whose values hold greater importance, and how certain vulnerable actors, such as localactivists, adapt in relation to other actors while creatively navigating between standards
+and contexts. The category of phronesis facilitates the consideration of values and prac-
+tices within the relational process of sustaining diverse more-than-human worlds, as willbe exempli ﬁed by the case of air pollution in Poland.
+In a theoretical sense, the article aims to contribute to the problem of the ‘double
+vision of care ’(Lindén & Lydahl, 2021 ), speci ﬁcally regarding an ethico-political issue
+of what worlds are composed and sustained by air quality data (de la Bellacasa, 2017 ,
+p. 44), as well as which ‘good ’practices using air sensing technologies are expected to
+be ‘handled with
+care ’(Mol, 2008 , p. 5) in order to have a meaningful impact in
+object-oriented politics (Marres, 2015 ). To understand this double vision, the concept
+of phronesis (Eubanks, 2012 ; Flyvbjerg, 2013 ), which refers to practical wisdom and
+the valuation of practices, technologies, and power relations between human and non-human actors, will be applied in the context of air data ﬁcation. This approach o ﬀers a
+non-idealized understanding of care in critical studies of data and air pollution, while
+also highlighting the ability to analyze situated data practices (Kitchin, 2022 ). In an
+empirical sense, the article will explore the Polish data ﬁcation of air, focusing on mattersINFORMATION, COMM UNICATION & SOCIETY 759
+of care in terms of practical engagement in data production and use, and examining
+‘good ’practices through the lens of data phronesis as practical judgments. I will focus
+on the network of organizations comprising the Polish Smog Alert. These organizations
+are striving to exert inﬂ uence on the course of air quality policy by using data and
+engaging in various relationships with other actors, including public measurement
+institutions and scientists who research air pollution in Poland. For local activists,
+however, handling data is not simply about using it in their practice. It also entails asituated practical wisdom –data phronesis –which involves recognizing the value
+of data and technologies, while also considering how these things are valued by otheractors.
+In the next section, I will formulate a theoretical contribution related to data phronesis
+by conducting a literature review regarding matters of care and air quality data politics.Subsequently, in the following section, I will introduce fundamental aspects related to theempirical context of Polish air quality data politics, demonstrating how data practices
+and data phronesis manifest in the Polish context. Finally, I will discuss the results in
+the context of the previously outlined concepts.
+The duality of care: practice and phronesis in air quality data politics
+A range of scholarly works shed light on di ﬀerent aspects of matters of care in critical
+data studies, including the practices (Fotopoulou, 2019 ; Meng et al., 2019 ), infrastruc-
+tures and technologies (Gray & Witt, 2021 ; Slota et al., 2023 ) or imagined futures associ-
+ated with it (Ruckenstein & Trifuljesko, 2022 ). Building upon previous studies that have
+predominantly explored the intersection of techne/episteme in the study of data-mediated care and caring ethics of research, I argue that we should also amplify issuesof data phronesis, which pertain to situated and context-dependent practical wisdom
+determining how de ﬁnitions of ‘good care’ are created, thus inﬂ uencing practices.
+In the ﬁeld of air quality data politics (Marzecová & Husberg, 2022 ), the issue of data-
+mediated care for air has gained prominence. According to Gabrys ( 2022 , p. 105), citizen-
+sensing practices in monitoring air pollution express concern for breathable worlds.
+These practices speculatively aim to document harm and advocate for care, operatingindependently from o ﬃcial public infrastructures, and encouraging corrective actions;
+but their political engagements often lack speci ﬁc outcomes such as immediate regu-
+lation, policy, or consensus on environmental issues (Gabrys, 2022 , p. 105). The latter
+is often associated with the category of ‘just good enough data’ , suggesting that data
+usage alone can be adequate in creating awareness about air pollution (Gabrys et al.,
+2016 ), but may not be enough to bring about a signi ﬁcant impact on public institutional
+policies ( Ślosarski, 2023 ). The contradiction between data practices aimed at caring for
+air quality and the question of having su ﬃciently ‘good ’data to e ﬀectively implement
+or inﬂ uence those caring practices is a crucial aspect of comprehending the interplay
+between data practices and data phronesis in the realm of air quality policy, as will be
+shown in the case of Polish air quality data politics. However, before delving into this,
+I will examine the dataﬁcation of air, drawing upon existing research in this domain.
+Matters of care ultimately involve representing things as vulnerable, interconnected,
+and predominantly dependent on often neglected maintenance work, as well as ethical
+obligations that lead to the speciﬁ c aesthetic articulation of politically demanding issues760 B.ŚLOSARSKI
+(de la Bellacasa, 2017 , pp. 56 –57). Care is fundamentally dualistic in nature because, on
+one hand, it entails active practical engagement and material actions, and on the other
+hand, it embodies an ethical responsibility for things (de la Bellacasa, 2015 , p. 90).
+This understanding has consequences for the way care is conceptualized. First, the
+issue of the double vision of care (Lindén & Lydahl, 2021 ) is conceptualized as an
+ethico-political concern regarding the composition and sustenance of worlds throughmaterial practices (de la Bellacasa, 2017 , p. 44), as well as the identi ﬁcation of ‘good ’prac-
+tices for addressing speci ﬁc issues with care (Mol, 2008 , p. 5). This duality of care, as both
+a practice and a world-composition, is always situated within a particular terrain charac-terized by power relations, exclusions, and marginalization (Lindén & Lydahl, 2021 , p. 4).
+Second, care is understood as practical tinkering or a process aimed at ﬁnding local sol-
+utions to the challenge of reconciling the coexistence of diverse human and non-humanactors in real-world scenarios (Mol et al., 2010 ). It involves working with socio-technical
+elements to improve situations and address the complexities inherent in balancing mul-
+tiple values and objectives (Lavau & Bingham, 2017 ). As highlighted by Mol et al. ( 2010 ,
+p. 13), the practice of caring necessitates the reconciliation of diverse understandings of
+‘good care ’through practical experimentation and adaptation. The qualiﬁ cation of what
+constitutes good care is not a separate process preceding its implementation; rather, it is
+integrated into the very act of providing care –instead of critically evaluating the notion
+of goodness from an external perspective, those involved in caring must actively under-
+take actions to bring that ‘ideal ’to fruition, while actively engaging in their tasks (Mol
+et al., 2010 , p. 13). It means that the practice of caring itself is relationally and contex-
+tually bounded (Gill et al., 2017 ).‘Good care’ is context-dependent and its very de ﬁnition
+is an object of ongoing negotiation in the realm of the more-than-human world (Gill,
+2017 ). Therefore, care is ‘relational per se ’(de la Bellacasa, 2017 , p. 69); however, in
+order to study it empirically in a situated way we should start from practices, discovering
+their material, relational, and contextual interdependencies (Fotopoulou, 2019 ).
+In air quality data politics, we can observe this interrelationship between data practice,
+as practical tinkering with data, and data phronesis, as value judgments of air pollutiondata. This duality includes both the practices of handling data and the concept of dataphronesis, which entails valuing these practices and making practical judgments that
+consider materiality, context, and various relationships.
+The handling of air quality data is one aspect of the spectrum. Data practices are rela-
+tional, involving various actors ( Ślosarski, 2023), and contextual, because these relation-
+ships unfold di ﬀerently in speci ﬁcsettings (Loukissas, 20
+ 19). In this realm, we are
+dealing with a multiplicity of actors and their data ﬁcation practices. We can identify
+speciﬁc practices employed by public institutions, which focus on the administrative
+logic of air governance (Kunz & Hornidge, 2022). Scientists conduct basic research within
+thisﬁeld, while data activists or citizen scientists generate knowledge to evidence harms
+(Gabrys, 2022) and understand their localities, or conduct ‘undone science ’(Hess, 2016).
+Furthermore, market players concentrate on establishing a speci ﬁc market for selling air
+puriﬁers and other commodities as individual and commercial responses to the issue of
+air pollution (Negi & Srigyan, 2021). This stream of research perceives actors as ful ﬁlling
+the fundamental criterion of matters of care, as they actively contribute to the understand-ing and acknowledgment of air pollution as a constructed fact and represented entity. They
+also express varying degrees of ethical responsibility for air quality, albeit with di ﬀerentINFORMATION, COMM UNICATION & SOCIETY 761
+visions and interpretations. Moreover, this line of research implies that the practices them-
+selves, regarded as local tinkering involving conscious adjustments to speci ﬁc contexts and
+relational interdependencies, are complex, uneven, frequently contradictory, and give rise
+to con ﬂicts among divergent practices (Crooks & Currie, 2021).
+At the opposite end of the data handling spectrum lies everything that impacts and
+inﬂuences these practices. This includes the concept of phronesis as a value judgment per-
+taining to practices that are contextually and relationally situated. In air quality data poli-tics, the understanding of the topic is multifarious, ﬁrstly encompassing regimes of
+perceptibility and the politicization of air as a contested political space (Calvillo, 2018). Sec-
+ondly, there is contention regarding the concept of ‘just good enough data ’which involves
+using diverse sensors, including low-cost ones, to go beyond traditional perspectives and
+engage with air pollution from multiple angles (Gabrys et al., 2016). Thirdly, interpreting
+data of varying quality requires an awareness of potential errors and their contextual impli-
+cations, in ﬂuencing how air pollution is understood and perceived (Garnett, 2016).
+Fourthly, the role of citizens or actors using air quality data is closely intertwined withthe conceptualizations of data and its potential within various settings, shaping de ﬁnitions
+of‘good ’citizenship and enacting di ﬀerent forms of citizenship (Gabrys, 2022; Gross et al.,
+2019). This line of research focuses on phronetic meanings, connecting the values and
+judgments of actors to their practices, and encompassing the de ﬁnition of citizenship
+and active involvement in the process of air data ﬁcation to generate care for air quality.
+Prior research has given limited attention to air quality data as a matter of care,
+encompassing practical considerations and the de ﬁnition of ‘good ’practices. There is a
+need for a comprehensive conceptualization of caring that acknowledges the interdepen-dence of these two aspects: a de ﬁnition of caring for the state of air quality through data,
+while also situating it in a relational context. The data phronesis concept reinvigoratesawareness of power dynamics within the realm of data care. This is crucial becausedata is often perceived in terms of its objectivity and purity, while focusing on phronesissheds light on how power inﬂ uences data production, evaluation, and use.
+1This perspec-
+tive helps us grasp the vulnerability of sociotechnical systems in air data ﬁcation, and
+facilitates a nuanced understanding of the multifaceted roles data plays in air pollutiondata politics. In the following sections of the article, I will demonstrate how we can con-
+ceptualize the duality of care for the air –as practice and phronesis –in the material, rela-
+tional, and contextual realm of air quality data politics, referring to the speciﬁ c landscape
+of anti-smog politics in Poland.
+Polish air quality data politics
+Poland’ s high pollution levels, ranking among the highest in the European Union,
+present a critical environmental concern due to the negative impact on human health(Matczak et al., 2023 ; Wróblewski et al., 2021 ). Winter seasons in Poland see heightened
+pollution levels from heating activities, leading to increased public discourse and around
+50% of the population recognizing smog as an urgent issue (Frankowski, 2020 ). Heigh-
+tened public awareness of air pollution has spurred the involvement of various actorswho are actively engaged and care about the air dataﬁ cation process, turning it into a
+dynamic arena where diverse actors participate ( Ślosarski, 2023 ), including public insti-
+tutions, anti-smog activists, scientists, as well as commercial actors (Matczak et al., 2023 ).762 B.ŚLOSARSKI
+Data usage is a central issue, as the various actors use data from diverse sources –public
+infrastructure and low-cost sensor networks –in their strategic actions.
+Within this context, the Chief Inspectorate for Environmental Protection (GIO Ś)i s
+the key actor. Since 1991, this government agency has maintained its role as the provider
+of the most dependable smog data, operating nearly 300 public measurement stationsthat constitute the foundation of its monitoring network, using this data to inform
+both domestic and EU government entities. However, since 2012, due to the increasing
+social e ﬀorts to combat smog, GIOŚ has encountered an unforeseen challenger in the
+anti-smog movement, which measures and reports air pollution within local commu-nities using public and lower-cost sensors, despite their higher measurement inaccura-
+cies. The upsurge in interest and active engagement in the air data ﬁcation process in
+Poland has not only impacted researchers who previously faced challenges in sharing
+theirﬁndings with the public, but has also catalyzed the growth of a market for commer-
+cial entities establishing private measurement sensors and selling air puriﬁ ers as priva-
+tized solutions to the public issue of air pollution. Air data ﬁcation in Poland is,
+therefore, a realm where a variety of actors pursue their distinct objectives through
+data use. This involves engaging in mutual interactions that manifest as practical invol-
+vement in data practices and making value judgments concerning data, infrastructure,and other actors, essentially encapsulating the essence of data phronesis. In this context,GIOŚ as the incumbent entity collects data for institutional reporting and collaborates
+with scientists. Meanwhile, local activists, as part of the anti-smog movement, engagein data action using public and low-cost sensors, often seeking guidance from knowl-edgeable scientists. Together with market players and civic-tech entities, the anti-smog
+movement challenges the status quo by raising public awareness, providing content
+for journalists, and inﬂ uencing local and state institutions.
+For the study on air quality data politics, I conducted 20 in-depth, semi-structured
+interviews involving a diverse group of 12 activists from di ﬀerent locations. The inter-
+views aimed to explore the various data practices and meanings within the movement(Blee & Taylor, 2002 ). Based on insights shared by the activists, an additional eight
+key actors were identi ﬁed, including public institutions, air pollution scientists, civic
+technology actors, and data journalists. The interviews employed a deliberative and phro-netic approach (Flyvbjerg, 2013 ) in which I unpacked the process of dataﬁcation of air
+with interview participants, noting how individual actors value these processes, taking
+into account other actors, the relationships between them, and how they value the prac-
+tices of using data in their strategic actions. The aim of the interviews was to collabora-tively establish the practical meanings and importance ascribed to actors, practices, and
+various types of data. This was not about distinguishing them in terms of ontology (e.g.,
+human vs. non-human actors), but rather in the context-speci ﬁc ethical considerations ofTable 1. Phronesis and practices of data-mediated care in relational and contextual dimensions.
+Dimension Phronesis Practices
+Relational Caring about data –deﬁnitions of ‘good ’data
+practices and standards of air quality dataCaring for data –socio-technical data practices
+focused on practical tinkering with various
+measurement tools
+Contextual Caring by data –deﬁnitions of good data uses and
+their appropriate scope of use within perceivedcontextsData for caring –practical uses of data combining
+various local and global contexts of actionINFORMATION, COMM UNICATION & SOCIETY 763
+what is deemed right or wrong in the case of active involvement understood as caring
+about air quality. The analysis of the empirical material using Atlas. Ti software followed
+the principles of re ﬂexive thematic analysis (Braun & Clarke, 2022 ), with the aim of gen-
+erating patterned meanings across the dataset and exploring the socially perceived prac-tices, actors, relationships, and phronetic meanings associated with them.
+In this research, conducted as part of a larger project, the focus was on how data legit-
+imizes the actions of environmental activists. During the study, the concept of careemerged incidentally through interactions with activists, shifting the perception of
+data from being a universal resource for activism to recognizing its role within socio-
+technical networks of care. This involves acknowledging shared vulnerability acrossdiverse relational contexts. As a result, data itself can be conceptualized as an object of
+care. Consequently, I generated four themes on the intertwining of data practices and
+phronesis in air quality politics, as presented in Table 1 .
+The themes address the duality of care as phronesis and data practices, while high-
+lighting the signi ﬁcance of relationality and contextuality in these practices and practical
+valuations of data. The detailed explanations for each of the four themes aim to show howphronetic meanings inﬂ uence the understanding of environmental care in relation to
+data practices and the perception of more-than-human worlds. It is important to note
+that the themes are analytically divided to represent the four elements that constitute
+dataﬁed care in air quality policy.
+Caring about data
+Theﬁrst theme –‘caring about data’–encompasses both phronetic and relational
+aspects, focusing on the de ﬁnitions of ‘good ’data practices and standards within the
+realm of air quality data. The attitude towards data, rooted in practical judgments, serves
+as the primary di ﬀerentiating factor among actors involved in the politics of air quality
+data. Caring about data involves developing a vision of the standards applicable in this
+domain and evaluating various data sets and types based on these standards. In other
+words, this theme addresses the issue of ‘good care ’as appropriate air dataﬁcation, result-
+ing from a situated negotiation between actors engaged in air quality data politics (Mol
+et al., 2010 ).
+Caring about data is primarily inﬂ uenced by air quality scientists, who shape the con-
+cept of ‘good data’ based on their expertise in data acquisition and use. They emphasize
+the importance of producing data that adheres to technoscienti ﬁc standards and employs
+professional equipment and reference methods. These standards are established by scien-
+tists and public institutions. A crucial factor in this determination is the value attributed
+to diﬀerentiated air pollution sensors. In Poland, both public measurement stations and
+low-cost, commercial, or citizen-made sensors are available. However, as one scientist
+pointed out, low-cost sensors were originally designed for measuring pollution in work-
+place settings, focusing on larger pollution peaks than those typically found in Polish cities
+(Sci-Smog-1). As a result, public measurement stations are considered the most reliable
+source of quality data, providing information on average pollution exposure rather than
+temporary spikes. This high standard is reinforced by legal regulations, as emphasized byan environmental lawyer who states that data from the Chief Inspectorate of Environ-mental Protection is the only reliable data admissible in lawsuits (Law-Smog). Ultimately,764 B.ŚLOSARSKI
+the de ﬁnition of ‘good data’ encompasses both the phronetic aspect of responsibly hand-
+ling data according to scienti ﬁc and legal standards, and the relationships with various
+actors, including the public institutions responsible for maintaining measurement infra-
+structure, and the involvement of experts and scientists in the measurement process.
+The practical signi ﬁcance of ‘bad data’ in this context is minimal, but it primarily
+serves as a reference point for the interviewees. It refers to the misuse of data obtainedfrom unreliable sensors, which raises questions about its quality. As one scientist ironi-cally remarked, these devices often lack clarity regarding what they measure: but it shows
+on some screens some concentration. It measures every second, right? All it takes is for sometruck with a broken engine to pass and it will emit a pile of this dust into the air. Theinstantaneous concentration will be dramatic, for example, eight hundred. The norm is
+forty. God, twenty times the permissible concentration! (Sci-Smog-2). This observation
+aimed to emphasize the lowest standard of data, which was universally acknowledged
+by all study participants. Among the interviewees, which included both scienti ﬁc and
+lay actors, there was consistent mention of the technological fetishism exhibited by cer-tain users, showcasing the lowest standard that manifests through an inability to properlyassess the value and composition of technological tools and the data they generate.
+Existing value judgments regarding good and bad data shape the landscape within
+which local activists operate. They use public data if it is available in their area, butalso rely on ‘just good enough data’ (Gabrys et al., 2016 ) from low-cost sensors to com-
+municate daily air pollution levels not captured by o ﬃcial measurements. Their practical
+judgment of data revolves around the speci ﬁc requirements of their strategic actions
+aimed at addressing air quality concerns within their communities. It is important tonote that activists are not unaware of the standards set for ‘good ’data. On the contrary,
+they actively engage with and assign signi ﬁcance to these standards, based on their rela-
+tional practices. For example, when engaging in o ﬃcial communication, they use publicly
+accessible data that they obtain and analyze independently. As described by a female acti-vist from the conservative context of a small town in southern Poland, their access to data
+provides a basis for their claims and enhances the credibility of their e ﬀorts: when local
+authorities ﬁnally put up the measurement station, we also had something to base our
+claims on. If a blonde comes to the city hall and says, ‘because the air stinks, do something
+about it,’ well, we weren ’t taken seriously at all. And now, when we have data, we can
+somehow base our actions on that (Act-Smog-3). Activists use low-cost sensors to provide
+real-time updates on local air conditions via social media platforms. While this approachallows for quick information sharing to indicate whether air quality is good or bad, the
+results are not precise (Act-Smog-11). In this manner, activists employ various types of
+data as a strategic toolbox to address diverse needs.
+All actors, particularly activists, align themselves with the ‘good ’data concept,
+acknowledging its empowering in ﬂuence on strategic action. It enables them to shift
+from neglected matters of concern to undeniable matters of fact. The ‘bad data’ ﬁgure
+helps draw a line between actors who can participate in air quality data politics andthose who choose technological fetishism as a counterweight to the matter of concern.
+Nevertheless, real adaptation relies on addressing the initial concerns through tinkering,which involves recognizing the shared fragility of the socio-technical assemblage sup-
+porting it. In this sense, it boils down to practical and goal-oriented caring for data
+(Schrader, 2015 , p. 668).INFORMATION, COMM UNICATION & SOCIETY 765
+Caring for data
+The second theme –‘caring for data’– speciﬁcally concerns socio-technical data practices
+focused on practical tinkering with various measurement tools. On one hand, this rep-
+resents a practical and tangible manifestation of ‘good practices. ’On the other, it fosters
+various more-than-human relationships.
+Practical tinkering uncovers a whole network of human and non-human actors
+who care about air quality data. As highlighted earlier, the primary source of infor-mation is the state’ s Air Quality Monitoring, with nearly 300 stations spread across
+the country, which not only meets several methodological standards, but also ensuresthat these stations are regularly serviced, looked after, and maintained in such a way
+that these devices operate under the conditions that the manufacturer imposes (Sci-
+Smog-2). However, there are also numerous networks of low-cost sensors that are
+used by local activists to monitor air pollution. The primary distinction between
+these low-cost sensors and traditional monitoring stations lies in the method forextracting data from polluted air. As a local activist explained, low-cost sensors
+shine a laser and detect dust particles in the air stream ( …) The di ﬀerence between
+the oﬃ cial station and the amateur sensor is that the o ﬃcial station prepares this
+air properly, it simply dries it. And only such dried air is subjected to measurements.Amateur sensors are not able to do that (Act-Smog-6). In this sense, the existing data
+standards are materially rooted in entire networks of measurement infrastructure
+maintained by the state or commercial-citizen e ﬀorts. Yet these methods of caring
+for data quality are not all treated as equal, and the ‘good practice ’of data handling
+inﬂuences the speci ﬁc practices undertaken by actors –especially the grassroots
+actors, who are not representatives of the dominant state-corporate-academiadataﬁcation trio (Treré, 2019 ).
+The main sociotechnical practice of data care is calibration, by coordinating
+cheaper sensors with public measurement stations, in order to respond to the valuejudgments of other actors and reinforce the importance of the data and the claims
+behind it. Although the intentionality of this process is on the human side, the
+implementation is dependent on a network of non-human actors. Firstly, calibrationcomes down to the sensor calibrating itself with the oﬃ cial stations and just putting in
+some corrective algorithms, based on the current humidity, to make those measurementsmore reliable (Act-Smog-6). Secondly, the algorithmic calibration is still subject to
+measurement error, hence the anti-smog movement in Poland is also taking a morematerialistic approach, by developing its own measuring station –certiﬁed by the
+Chief Inspectorate of Environmental Protection –at two locations in southern Poland.
+The activist in charge of the maintenance describes what the measurement processlooks like at these stations: Dust is collected and measured through an online measurement
+system and sent to a laboratory where it is weighed again to con ﬁrm the measurements.
+This process serves as a validation in case any disturbances or issues occur with the spectraldevice or laser spectroscopy device during the initial measurements. The dust collected on
+the tapes is carefully checked and weighed in the laboratory, and speciﬁ c thresholds are
+used to con ﬁrm the accuracy of the results (Act-Smog-12). Air pollution measurement
+essentially involves the de facto weighing of dust (Choy, 2011 ), which undergoes
+multiple levels of veri ﬁcation, both technical and in laboratory settings. In this context,766 B.ŚLOSARSKI
+practical caring for data refers to the notion of seeing-touching (de la Bellacasa, 2017 ,
+pp. 113 –114), understood as the process of translating air samples into tangible dust
+and subsequently transforming them into data.
+In terms of sociotechnical practices, the measurement stations are used to calibrate
+mobile dust meters to measure locations not covered by state monitoring –which is
+done by placing them next to the measuring station and manually correcting the results,
+adjusting them for reliable measurements. A dust meter calibrated in this way creates themost reliable measurement data, approaching the ‘good data’ standard. Calibration is a
+form of practical socio-technical adaptation to the data standard; it is a practical exampleof maneuvering and tinkering between the standards of technologically diverse devicesand data quality, but at the same time it relies on diverse non-human actors, such as
+measurement stations, dust meters, low-cost sensors and the measurement networks
+that coexist with them.
+Caring by data
+Phronetic valuing of data in relation to speci ﬁc socio-technical practices is not realized
+only in terms of the relational dimension, but also in terms of the perceived and
+deﬁned context of maintained action. The third theme –‘caring by data’– speciﬁcally
+addresses these issues, focusing on the de ﬁnitions of ‘good ’use and the ‘appropriate ’
+scope of data use within perceived contexts. A notable aspect of this theme is the tensionbetween the local and global contexts.
+In the local context, the strategic placement of public and commercial/citizen sensors
+plays a crucial role. The local context is highly important in data usage, but disagreementsoften arise regarding the role of data within speci ﬁc contexts. Public actors prioritize
+localization by establishing measurement stations at the local level, considering spatial
+resolution, and aiming for accurate and comprehensive data collection for air quality
+management at the administrative level. The selection of station locations adheres tomethodological criteria and reporting obligations stipulated by European Union law,
+and requires negotiations with landowners to secure a certain level of inviolability ( …)
+that ensures that stations are not arbitrarily relocated (Public-Smog). The primary admin-
+istrative objective is to ensure continuity, scienti ﬁc reliability, and compatibility with air
+quality reporting systems at both national and EU levels. On the other hand, local acti-vists employ a proximity strategy, by focusing on speci ﬁc locations to highlight the
+environmental situation and advocate for change. The proximity and locality of data
+hold signi ﬁcant importance for the community, as individuals tend to concentrate on
+tracking immediate surroundings, such as nearby streets and neighborhoods. However,these two values often clash, since public measurement stations predominantly provideaveraged and longitudinal pollution data, whereas activists and the local community –
+mostly vulnerable people such as children and elders –need real-time data speci ﬁct o
+their immediate location.
+However, this does not mean that activists are locally entrenched, and public insti-
+tutions are oriented toward reporting the results of the European Union. All actors par-ticipate in a kind of ecology of comparison (Choy, 2011 ), viewing localities in relation to
+the global context and constructing scales of comparison between these contexts. As oneactivist summarized this contingent comparative approach by stating, Poland is also theINFORMATION, COMM UNICATION & SOCIETY 767
+most polluted country in the entire European Union, both in terms of PM10, PM2.5, and
+benzopyrene. As for benzopyrene, the standard is one nanogram per cubic meter, and the
+average for Poland is about ﬁve nanograms per cubic meter. These are the concentrations,
+the annual average for the whole country, but there are localities such as mine, which is therecord holder in this area, where the annual concentration of benzopyrene is eighteen nano-
+grams per cubic meter (Act-Smog 11). Thus, the immediate neighborhood is constantly
+compared with the entire country and the European Union, in ﬂuencing the ways in
+which locality is valued. This comparison serves to highlight disparities in public policyactions across di ﬀerent localities, underscoring the issue of unjust metrics when com-
+pared to other EU regions.
+‘Caring by data’ is achieved through two contextual dimensions. Firstly, by the local-
+ization of metrics based on guiding values in administrative and community-tracking
+practices that may sometimes contradict each other. Secondly, they both relate to the glo-bal context, often associated with the European Union and western countries. This
+association allows for the creation of comparative scales that provide alternative perspec-
+tives on localities where these practices are implemented. Phronetic meaning is context-dependent, although actors in their valuing move within constructed scales, which alsotake on material and practical dimensions.
+Data for caring
+The fourth theme –‘data for caring’–directly addresses the material and practical issues
+of contextuality, understood as practical uses of data combining various local and global
+contexts of action. Certainly, it should be emphasized that data is used in many ways,
+coinciding with the repertoires of action of environmental data activists or the strategiesof public institutions and market actors (Gutierrez, 2018 ; Negi & Srigyan, 2021 ; Sun &
+Huang, 2021 ). In the studied context, data is used for caring about individual and collec-
+tive health through visual representations of air pollution shared on social media plat-forms or via traditional means such as informational materials displayed in
+kindergartens or schools. Additionally, data plays a role in engaging with policymakers.
+This theme also sheds light on grassroots observation and activist pressure on local andnational institutions of power, as well as the use of data in implementing comparisonecology to construct comparative scales between speciﬁ c locations. Therefore, the
+focus will primarily be on the activist practice of ranking the most polluted locationsin Poland.
+The practice of ranking is both a comparison and an elaborate way of informing com-
+munities and local institutions about how their locations relate to others across thecountry and norms established by the EU. As one of the activists described, the processboils down to combining available datasets and translating the data into speciﬁc rankings:
+When we have these annual rankings of the smog record holders, we prepare a map on
+which we plot these localities, and we show in a very simple, graphic way where these con-centrations are high. We can make some kind of graph that shows us a comparison of the
+norm to what the annual concentration was. Because if we say that in one location there
+were eighteen nanograms per cubic meter of benzoalphapyrene concentrations on anannual average, that doesn ’t tell a normal person much at all. But if we compare it to
+this [EU] norm, which is one nanogram, and show these bars one and eighteen, then768 B.ŚLOSARSKI
+some ordinary citizens can accept that we have a problem. Because it ’s not just a matter of
+eighteen nanograms there …It’s an overrun of eighteen times! That says more than just
+the value (Act-Smog-10).
+Value judgments identi ﬁed with the ecology of comparison gain practical materi-
+alization in the form of ranking. This quote encapsulates two crucial practices of data
+use. One is to provide reports on the air quality status, while the other involves
+translating intricate information using rankings as tools for comparing and blendinglocal contexts. These practices also involve transitioning between the EU norms of
+pollution imposed by the administrative logic of measurement and the logic of
+addressing social needs, demonstrating the practical implementation of the ecologyof comparison. Furthermore, this quote alludes to the presence of two logics –
+administrative and social –in deﬁning good practices, which are central to the poli-
+tics surrounding air quality data in Poland. However, the most crucial practice lies inthe ability to e ﬀectively translate data outputs. This involves maintaining standards
+on one hand, while also adapting to the communication requirements of socialmedia platforms and the limited attention span of the public on the other. ‘Data
+for caring’ is contextualized and, at the same time, enables the merging and amalga-
+mation of diverse contexts in relation to other localities and transnational air quality
+standards.
+Discussion
+In Polish air quality data politics, several actors have emerged who actively engage in
+the process of air data ﬁcation, overseeing the measurement networks responsible for
+generating air quality data and visualizing smog in the public sphere. This data is not
+merely seen as a tool for strategic interact ions, but also as something that requires
+active involvement and caring. Those ac tively involved in the process view the
+data as vulnerable and fragile, necessitating constant maintenance work of sociotech-
+nical assemblages (de la Bellacasa, 2017). Thus, data signi ﬁcantly impacts our breath-
+able environments, giving rise to new sensibilities within the context (Lindén &Lydahl, 2021). However, its value is not uniform among the various actors involved
+in the air data ﬁcation process, as it depends on the practical adaptations and value
+judgments of these actors. In this sense, the data ﬁcation of air is understood as a
+matter of care with a fundamentally dual nature, straddling the line betweenpractical tinkering with data and measur ement technologies, and the situated
+deﬁnition of what constitutes good or just -good-enough care in the form of high-
+quality data.
+This duality of care highlights the interconnectedness between data phronesis and
+practice within the studied context. Data phronesis, which serves as situated and
+context-dependent practical wisdom for various actors and their value judgments
+(Flyvbjerg, 2013 ), inﬂ uences what is deemed good or bad in the data ﬁcation process.
+This primarily pertains to the de ﬁnition of data meeting a good or satisfactory standard
+in comparison with other actors, as well as in ﬂuencing which contextual scopes and
+areas of data use are appropriate. Data phronesis allows us to capture how actorsdeﬁne and perceive the vulnerability of data, while at the same time paying attention
+to the dependencies involved in power relations –as shown by the example of activistsINFORMATION, COMM UNICATION & SOCIETY 769
+adapting to the value judgments of scientists. Within this context, data phronesis is
+realized through the ongoing negotiation of the de ﬁnition of data-mediated care for
+air quality. This negotiation is evident in the dominant position held by scientists
+and public institutions on one hand, and the orientation towards a high standard bylocal activists on the other. The negotiation encompasses not only data quality, but
+also a form of comparative ecology that addresses the connections between locality
+and global benchmarks (Choy, 2011 ), whether referring to the entire country, Europe,
+or other locations worldwide. In this context, data phronesis addresses the notion of
+‘good care ’for the dataﬁcation of air, arising from a situated negotiation among actors
+involved in air quality data politics, where the phronetic meaning is also context-
+dependent, and actor valuations operate within constructed scales that also encompass
+the material and practical dimension.
+This practical dimension is realized by data, understood as practical tinkering with
+data and measurement technologies. Within the Polish context, data production con-cerns the materialization of air, which is achieved through the conversion of air pollution
+into vials of dust. These vials, in turn, can be transformed into indices or rankings, thusbecoming circulating references or manifestations of matter that enable the mobility ofmaterial forms (Choy, 2011 , p. 163). The rankings produced by activists represent
+numerical representations with profound implications for their a ﬀective and aesthetic
+eﬀects, shaping the a ﬀectionate understanding (de la Bellacasa, 2017 , p. 62) of our pol-
+luted and/or breathable worlds (Liu, 2017 , p. 448). Data practices represent a practical
+adaptation to the value judgments of actors dominating the sphere of air quality datapolitics, including public institutions and researchers. This adaptation is achieved by cali-brating and aligning sensors with public measurement stations. Practical adaptation also
+applies to the production of air pollution rankings, wherein there is a materially
+grounded negotiation and blending of contexts to complement the public narrative onone hand, and reinforce it on the other, by incorporating local dimensions of airpollution.
+Considered together, data phronesis and data practice represent two highly inter-
+related dimensions of care for air dataﬁ cation in Poland, shaped by unequal relation-
+ships and inﬂ uenced by individual actors ’value judgments. These actors implement
+dataﬁcation practices and adhere to values that shape the de ﬁnition of ‘good ’practices
+and the appropriate scope of data usage. These determinations in ﬂuence the inclusion
+and exclusion of other actors and expose visible power dynamics and inequality, par-
+ticularly concerning technoscience and factors like origin and gender. Phronesis thus
+unveils interdependencies and exclusions within speciﬁc contexts while propellingthese de ﬁnitions of ‘good ’data and practices within dynamic and relational situations.
+By exploring phronesis, we uncover the diverse value judgments held by actors in theirpractices and relationships. It also reveals the contextual sensibilities of individualactors who actively respond to values and demands. However, phronesis is not analyti-cally dominant, but rather shaped by practical adaptation. Nevertheless, its role involves
+situated theorizing, undertaken by all actors involved in taking care of things, and
+remaining responsible for their becomings (de la Bellacasa, 2017 ). By examining both
+phronesis and practices, we gain insights into the realities of power dynamics, exclu-
+sions, and cooperative interdependencies within the networks that sustain the data ﬁca-
+tion of air.770 B.ŚLOSARSKI
+Conclusion
+In this article, the duality of care is emphasized, focusing on the interplay between data
+phronesis –context-dependent practical wisdom determining the practical tinkering
+with data/technology –and data practices. The article also highlights the ongoing nego-
+tiation surrounding air quality concerns, mediated through data, within relational andcontextual dimensions.
+Four key themes related to data-mediated air quality care are identi ﬁed: ‘caring about
+data ’involves valuing and assessing practices based on phronetic and relational values
+despite tensions between activists and scienti ﬁc-administrative approaches. ‘Caring for
+data ’entails translating polluted air into reliable data while considering dominant stan-
+dards and inﬂ uential judgments. ‘Caring by data’ deﬁnes data usage methods and scopes
+within dynamic local and global contexts. ‘Data for caring’ explores practical appli-
+cations, speci ﬁcally examining activist practices in integrating diverse local contexts
+with European air quality standards. These themes underscore the complex interplaybetween human and non-human actors, the signi ﬁcance of phronetic meanings, and
+the practical application of data within distinct relational and contextual frameworks
+in air quality data politics.
+The concept of data phronesis revitalizes our understanding of power dynamics in the
+context of data handling. The phronetic approach o ﬀers several advantages aligned with
+the ‘matters of care’ perspective. Firstly, it positions the practical judgment of diverse
+actors actively involved in socio-technical caring practices, recognizing their signi ﬁcance
+in more-than-human world composition (de la Bellacasa, 2017 , p. 35; Flyvbjerg, 2013 ,
+p. 133). Secondly, it acknowledges that the theoretical sensibilities of various actors are
+not neutral, fostering a dialogue concerning what constitutes good care within a speci ﬁc
+context (Flyvbjerg, 2013 , p. 61; Mol et al., 2010 ). Thirdly, it demonstrates re ﬂexivity to the
+strategy within relational power dynamics, acknowledging that de ﬁnitions of care are
+diverse and coexist in contradiction (Flyvbjerg, 2013 , p. 139; Lindén & Lydahl, 2021 ).
+By emphasizing phronesis, we gain insight into how power shapes the production, assess-ment, and use of data. This perspective enables us to comprehend the susceptibility of
+sociotechnical systems in the realm of air data ﬁcation and promotes a nuanced recog-
+nition of the diverse roles that data plays in the politics of air pollution data.
+Note
+1. I express my gratitude to Reviewer 1 for helping me articulate this argument as described in
+this sentence.
+Disclosure statement
+No potential conﬂ ict of interest was reported by the author(s).
+Funding
+This work was supported by Narodowe Centrum Nauki [grant number 2021/41/N/HS6/01110].INFORMATION, COMM UNICATION & SOCIETY 771
+Notes on contributor
+Bartosz Ślosarski –Ph.D. student at the Faculty of Sociology, University of Warsaw; researcher of
+social movements, data ﬁcation, and materiality in contentious politics. Principal investigator of the
+Polish National Science Centre project ‘Environmental Activism in Times of Data Hegemony ’
+(2022 –2024, grant number 2021/41/N/HS6/01110), in which he studies environmental data activism
+in diverse relational contexts. Author of the book ‘Objects of Protest. Material Cultures of Contem-
+porary Social Movements ’(published in Polish by Nomos Publishing Company 2021), he has also
+published his contributions in ‘Big Data and Society ’(2023) and in the book ‘Symbolic Objects in
+Contentious Politics ’(University of Michigan Press, 2023). Email: b.slosarski@uw.edu.pl.
+References
+Aristotle. (2015 ).Nicomachean ethics (H. Rackham, Trans.; Rev). Harvard University Press.
+(Original work published 1926)
+Blee, K., & Taylor, V. (2002 ). Semi-structured interviewing in social movement research. In
+B. Klandermans & S. Staggenborg (Eds.), Methods of social movement research (pp. 92 –117).
+University of Minnesota Press.
+Braun, V., & Clarke, V. (2022 ).Thematic analysis: A practical guide . Sage.
+Calvillo, N. (2018 ). Political airs: From monitoring to attuned sensing air pollution. Social Studies
+of Science ,48(3), 372 –388. https://doi.org/10.1177/0306312718784656
+Choy, T. (2011 ).Ecologies of comparison . Duke University Press.
+Crooks, R., & Currie, M. (2021 ). Numbers will not save us: Agonistic data practices. The
+Information Society ,37(4), 201 –213. https://doi.org/10.1080/01972243.2021.1920081
+de la Bellacasa, M. (2015 ). Making time for soil: Technoscienti ﬁc futurity and the pace of care.
+Social Studies of Science ,45(5), 691 –716. https://doi.org/10.1177/0306312715599851
+de la Bellacasa, M. (2017 ).Matters of care: Speculative ethics in more than human worlds .
+University of Minnesota Press.
+Eubanks, V. ( 2012). Feminist phronesis and technologies of citizenship. In B. Flyvbjerg, T. Landman, &
+S. Schram (Eds.), Real social science. Applied phronesis (pp. 228 –245). Cambridge University Press.
+Flyvbjerg, B. (2013 ).Making social science matter: Why social inquiry fails and how it can succeed
+again (15th printing) . Cambridge University Press.
+Fotopoulou, A. (2019 ). Understanding citizen data practices from a feminist perspective:
+Embodiment and the ethics of care. In H. C. Stephansen & E. Treré (Eds.), Citizen media
+and practice (pp. 552 –588). Routledge.
+Frankowski, J. (2020 ). Attention: Smog alert! Citizen engagement for clean air and its conse-
+quences for fuel poverty in Poland. Energy and Buildings ,207, 109525. https://doi.org/10.
+1016/j.enbuild.2019.109525
+Gabrys, J. (2022 ).Citizens of worlds: Open-air toolkits for environmental struggle .University of
+Minnesota Press. https://www.jstor.org/stable/10.5749j.ctv28(29zv
+Gabrys, J., Pritchard, H., & Barratt, B. (2016 ). Just good enough data: Figuring data citizenships
+through air pollution sensing and data stories. Big Data & Society ,3, 2053951716679677.
+https://doi.org/10.1177/2053951716679677
+Garnett, E. ( 2016). Developing a feeling for error: Practices of monitoring and modelling air pollution
+data. Big Data & Society ,3(2), 2053951716658061. https://doi.org/10.1177/2053951716658061
+Gill, N. (2017 ). Caring for clean streets: Policies as world-making practices. The Sociological
+Review ,65(2_suppl), 71 –88.https://doi.org/10.1177/0081176917710422
+Gill, N., Singleton, V., & Waterton, C. (2017 ). The politics of policy practices. The Sociological
+Review ,65(2_suppl), 3 –19.https://doi.org/10.1177/0081176917710429
+Gray, J., & Witt, A. (2021 ). feminist data ethics of care for machine learning: The what, why, who
+and how. First Monday. https://doi.org/10.5210/fm.v26i12.11833
+Gross, P. L., Buchanan, N., & Sané, S. (2019 ). Blue skies in the making: Air quality action plans and
+urban imaginaries in London, Hong Kong, and San Francisco. Energy Research & Social Science ,
+48,8 5 –95.https://doi.org/10.1016/j.erss.2018.09.019772 B.ŚLOSARSKI
+Gutierrez, M. (2018 ).Data activism and social change . Palgrave Macmillan.
+Hess, D. (2016 ).Undone science . The MIT Press.
+Kitchin, R. (2022 ).The data revolution: A critical analysis of big data, open data and data infra-
+structures (2nd ed.). Sage.
+Kunz, Y., & Hornidge, A.-K. ( 2022 ). Governability of air: Beyond water and land in coastal urba-
+nities. In Coastal urbanities (pp. 132 –153). Brill. https://doi.org/10.1163/9789004523340_008
+Lavau, S., & Bingham, N. (2017 ). Practices of attention, possibilities for care: Making situations
+matter in food safety inspection. The Sociological Review ,65(2_suppl), 20 –35.https://doi.org/
+10.1177/0081176917710526
+Lindén, L., & Lydahl, D. (2021 ). Editorial: Care in STS. Nordic Journal of Science and Technology
+Studies ,9(1), 3 –12.https://doi.org/10.5324/njsts.v9i1.4000
+Liu, X. (2017 ). Air quality index as the stu ﬀof the political. Australian Feminist Studies ,32(94),
+445 –460. https://doi.org/10.1080/08164649.2017.1466650
+Loukissas, Y. (2019 ).All data are local: Thinking critically in a data-driven society . MIT Press.
+Marres, N. (2015 ).Material participation: Technology, the environment and everyday publics .
+Palgrave Macmillan. https://doi.org/10.1007/978-1-137-48074-3
+Marzecová, A., & Husberg, H. (2022 ). And then came this number PM2.5: Atmospheric particu-
+late matter, sociotechnical imaginaries, and the politics of air quality data. Environment and
+Planning C: Politics and Space, 40(3), 648 –665. https://doi.org/10.1177/23996544221076734
+Matczak, P., Frankowski, J., Putkowska-Smoter, R., Wróblewski, M., & Łoś,I .(2023 ). Tackling
+(not only) air pollution: Cross-sectional tensions behind state-led energy retro ﬁt program in
+Poland. Society & Natural Resources ,36,1–22.https://doi.org/10.1080/08941920.2023.2212286
+Meng, A.,
+DiSalvo, C., & Zegura, E. ( 2019 ). Collaborative data work towards a caring democracy.
+Proceedings of the ACM on Human-Computer Interaction ,3(CSCW), 1 –23.https://doi.org/10.
+1145/3359144
+Mol, A. (2008 ).The logic of care: Health and the problem of patient choice . Routledge.
+Mol, A., Moser, I., & Pols, J. (2010 ). Care: Putting practice into theory. In A. Mol, I. Moser, &
+J. Pols (Eds.), Care in practice: On tinkering in clinics, homes and farms (pp. 7 –25). Transcript.
+Negi, R., & Srigyan, P. (2021 ).Atmosphere of collaboration: Air pollution science, politics and eco-
+preneurship in Delhi (1st ed.). Routledge. https://doi.org/10.4324/9781003015635
+Pink, S. (2022 ).Emerging technologies / Life at the edge of the future (1st ed.). Routledge. https://doi.
+org/10.4324/9781003182528
+Ruckenstein, M., & Trifuljesko, S. (2022 ). Algorithmic futures and the unsettled sense of Care. In
+D. Lanzeni, K. Waltorp, S. Pink, & R. C. Smith (Eds.), An anthropology of futures and technol-
+ogies (pp. 79– 92). Routledge.
+Schrader, A. (2015 ). Abyssal intimacies and temporalities of care: How (not) to care about
+deformed leaf bugs in the aftermath of Chernobyl. Social Studies of Science ,45(5), 665 –690.
+https://doi.org/10.1177/0306312715603249
+Ślosarski, B. (2023 ). Data arenas: The relational dynamics of data activism. Big Data & Society ,
+10(1), 20539517231177617. https://doi.org/10.1177/20539517231177617
+Slota, S. C., Fleischmann, K. R., & Greenberg, S. R. ( 2023 ). Caring for people, caring for their data:
+Data stewardship and collaborative care in social service provision for people experiencing
+homelessness. In I. Sserwanga, A. Goulding, H. Moulaison-Sandy, J. T. Du, A. L. Soares, V.Hessami, & R. D. Frank (Eds.), Information for a better world: Normality, virtuality, physicality,
+inclusivity (pp. 500 –513). Springer Nature. https://doi.org/10.1007/978-3-031-28032-0_38
+Sun, Y., & Huang, V. G. (2021 ). Embedded data activism: The institutionalization of a grassroots
+environmental data initiative in China. Chinese Journal of Communication ,15,1–23.https://doi.
+org/10.1080/17544750.2021.1963997
+Treré, E. (2019 ).Hybrid media activism: Ecologies, imaginaries, algorithms . Routledge.
+Wróblewski, M., Suchomska, J., & Tamborska, K. ( 2021 ). Citizens or Consumers? Air quality sen-
+sor users and their involvement in sensor.Community. Results from qualitative case study.Sustainability, 13(20), 11406. https://doi.org/10.3390/su132011406INFORMATION, COMM UNICATION & SOCIETY 773

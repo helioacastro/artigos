@@ -1,0 +1,1250 @@
+International Journal of Drug Policy 126 (2024) 104359
+Available online 20 February 2024
+0955-3959/© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).Research Paper 
+Tinkering with care: Implementing extended-release buprenorphine depot 
+treatment for opioid dependence 
+K. Lancastera,b,*, S. Genderac, C. Treloara, T. Rhodesa,d, J. Shahbazie, M. Byrnee, S. Nielsenf, 
+L. Degenhardte, M. Farrelle 
+aCentre for Social Research in Health, University of New South Wales, Sydney, Australia 
+bGoldsmiths, University of London, UK 
+cSocial Policy Research Centre, University of New South Wales, Sydney, Australia 
+dLondon School of Hygiene and Tropical Medicine, UK 
+eNational Drug and Alcohol Research Centre, University of New South Wales, Sydney, Australia 
+fMonash Addiction Research Centre, Monash University, Melbourne, Australia   
+ARTICLE INFO  
+Key words: 
+Extended-release buprenorphine depot 
+Opioid pharmacotherapy 
+Implementation practices 
+Tinkering 
+Care 
+Innovation ABSTRACT  
+We examine how extended-release buprenorphine depot (BUP-XR) is put to use and made to work in imple -
+mentation practices, attending to how care practices are challenged and adapted as a long-acting technology is 
+introduced into service in opioid agonist treatment (OAT) in Australia. Our approach is informed by ideas in 
+science and technology studies (STS) emphasising the irreducible entanglement of care practices and technology, 
+and in particular the concept of ‘tinkering ’ as a practice of adaptation. To make our analysis, we draw on 
+qualitative interview accounts (n 19) of service providers involved in BUP-XR implementation across five sites. 
+Our analysis considers the disruptive novelty of BUP-XR. Tinkering to make a novel technology work in practice 
+slows down the expectation of implementation in relation to transformative innovation, despite the promise of 
+dramatic or rapid change. Tinkering allowed for more open relations, for new care practices that departed from 
+the routine and familiar, opening potential for how BUP-XR could be put to use and made to work in its new 
+situation, and as its situation evolved along-with its implementation. Flexibility and openness of altering re-
+lations was, however, at times, held in tension with inflexibility and closure. This analysis identifies a concern for 
+what is made present and what is made absent in the altered care network affected by BUP-XR, with the multiple 
+effects of supervised daily dosing practices thrown into relief as they become absented. Tinkering to implement 
+BUP-XR locally connects with a broader assemblage of trial and movement in the constitution of treatment. The 
+introduction of long-acting technologies prompts new questions about embedded implementation practices, 
+including supervised dosing, urinalysis, the time and place of psychosocial support, and how other social aspects 
+of care might be recalibrated in drug treatment.   
+… the task is that of attuning everything to everything else, one way or 
+another. What to fiddle with and what to keep fixed, is rarely obvious. 
+What you try to do, may not work out. Try something else. Keep on 
+tinkering. Doctoring. Caring. It would be great if things were so simple that 
+a wise choice made at a single, crucial moment were all that was needed to 
+control a body suffering from a disease. It would be great if the world 
+fitted into little vignettes. But as it happens, there are always contingencies 
+and surprises. 
+– Annemarie Mol, The Lancet (2009 , p.1757). Introduction 
+Extended-release buprenorphine depot (BUP-XR) is a potentially 
+disruptive technology, described as ‘game-changing ’ (Lagios, 2021 ) and 
+a ‘watershed event ’ (Ling et al., 2019 ) in the treatment of opioid 
+dependence. Administered subcutaneously by a healthcare provider 
+either weekly or monthly, BUP-XR provides sustained release of 
+buprenorphine over the dosing interval, thus mitigating the costly re-
+quirements of daily dosing and the inconvenience of frequent service 
+attendance (Haight et al., 2019 ; Larance et al., 2020 ; Lintzeris et al., 
+*Corresponding author at: Centre for Social Research in Health, Goodsell Building, University of New South Wales, NSW 2052, Australia. 
+E-mail address: k.lancaster@unsw.edu.au (K. Lancaster).  
+Contents lists available at ScienceDirect 
+International Journal of Drug Policy 
+u{�~zkw! s{yo| kro>! ÐÐÐ1 ow�o�to~1m{y2 w{mk�o2n~�r |{!
+https://doi.org/10.1016/j.drugpo.2024.104359    
+International Journal of Drug Policy 126 (2024) 104359
+22021 ; Nosyk et al., 2023 ; Sigmon & Bigelow, 2017 ). Emerging clinical 
+literature indicates that BUP-XR is associated with high retention in 
+opioid agonist treatment (OAT) and may have additional benefits 
+compared to sublingual buprenorphine (Dunlop et al., 2022 ; Farrell 
+et al., 2022 ; Frost et al., 2019 ; Haight et al., 2019 ; Ling et al., 2010 ; 
+Lintzeris et al., 2021 ; Lofwall et al., 2018 ; Martin et al., 2022 ; Rosenthal 
+et al., 2016 ). Given the emphasis on supervised dosing frameworks in 
+some countries, including Australia, Canada, and the United Kingdom, 
+where daily supervised dosing of methadone and sublingual buprenor -
+phine is required in a clinic or pharmacy especially in the first months of 
+treatment (Kleinman et al., 2022 ), it is hoped that the implementation of 
+a long-acting technology might provide additional choice and help 
+reshape how OAT can be delivered, in effect, relocating when and how 
+care in drug treatment is done. The different temporal and social re-
+lations produced by the innovation of long-acting technologies are 
+arguably altering the OAT landscape, opening up new possibilities for 
+trial and movement in the constitution of treatment. BUP-XR is in the 
+process of becoming-with social and clinical worlds, with the localised 
+work of implementation an element of these more global shifts. 
+BUP-XR undoubtedly has implications for the future of OAT, its 
+configuration and delivery, but precisely how BUP-XR might come to be 
+integrated into services is still “yet to be known ” (Ling et al., 2019 , p.76). 
+Attending to how ‘real world ’ implementation practices can shape up-
+take, discontinuation, retention, and other treatment outcomes beyond 
+that demonstrated in controlled clinical trials is essential (Iacono et al., 
+2024 ; Morgan & Assoumou, 2023 ; Morgan et al., 2021 ). Studies exam -
+ining clients ’ experiences of BUP-XR offer some indications of how new 
+formulations can work to alter relations of OAT service delivery, for 
+example by generating a sense of freedom from restrictive and costly 
+treatment regimens (Barnett et al., 2021 ; Matheson et al., 2022 ; Neale 
+et al., 2023 ), reconfiguring clients ’ relationship with treatment by of-
+fering release from short-term cycles of living (Lancaster et al., 2023 ), 
+and altering stigmatising relations (Treloar et al., 2022 ). These studies 
+also gesture towards the complex adaptations required to implement an 
+OAT medication that acts as a bridge to care without necessarily being 
+the focal point, given the potential to disrupt other aspects of treatment 
+delivery sometimes relied on for daily contact and social support (Bar-
+nett et al., 2021 ; Johnson et al., 2022 ; Lancaster et al., 2023 ; Matheson 
+et al., 2022 ). It has been observed that the “relative absence of medi -
+cation in daily routines makes present other vital aspects of treatment ”, 
+relocating how treatment is made to work “not only in the routines and 
+felt effects of medication ” (Lancaster et al., 2023 , p.10). 
+Closely attending to how implementation practices are adapted as 
+BUP-XR is rolled-out is important but remains underexplored. In medi -
+cal research there is increasing attention to practices of implementation, 
+with quality improvement methods such as “plan –do–study –act” cycles 
+proposed to help support iterative development (Reed & Card, 2016 ; 
+Taylor et al., 2014 ), as well as other approaches within implementation 
+science orienting towards treating intervention implementations as ef-
+fects of social practices in complex systems (Byrne, 2013 ; Callaghan, 
+2008 , 2013 ; May et al., 2016 ). These practice-oriented approaches 
+emphasise that intervention implementation is not a simple one-off 
+thing, but rather made up of many adaptive parts. Although these ap-
+proaches seek to understand the messy, less predictable, outcomes of 
+implementation by recognising intervention implementations as com-
+plex and adaptive, they nonetheless “fall short of appreciating the role 
+that material practices play in constituting evidence and intervention as 
+emergent fluid objects ” (Rhodes & Lancaster, 2019 , p.2). Shifting 
+attention towards intervention implementation as a matter of relational 
+materiality allows for seeing in new ways how interventions are 
+on-the-move, with implementation networks and events becoming sites 
+of investigation to attend to how interventions are transformed and 
+made in practices (Rhodes & Lancaster, 2019 ). The complexities and 
+contingencies of implementation practices and the material configura -
+tions of services can profoundly affect how care is constituted in drug 
+treatment and an intervention ’s recovery potential (Fraser, 2006 ; Fraser & valentine, 2008 ; Gomart, 2002 ; Rhodes, 2018 ; Theodoropoulou, 
+2023 ). 
+Technologies like BUP-XR do not work alone, nor are their potentials 
+‘given ’; the effects that interventions make are shaped by how they are 
+put to use and made to work in situated practices (Rhodes & Lancaster, 
+2019 ). Here, we emphasise an approach that expands notions of agency 
+beyond those of human actors to also include nonhuman actors, thus 
+opening out the category of the actor to include, for example, “tools, 
+plans, logics and processes ” (Andrews & Duff, 2019 , p.129). Implicated 
+in the introduction of long-acting formulations are a range of material 
+practices and arrangements, for example: matters of storage and logis-
+tics; space to accommodate new models of care; staff allocation and 
+clinic structure; how these new treatments might be provided alongside 
+the continued provision of other oral and sublingual OAT in the one 
+service (and across different practice settings); appointment booking 
+and management for initial and subsequent visits; technical and 
+practice-based considerations surrounding injections and who can pre-
+scribe and administer the dose; managing clients ’ information needs as 
+well as changing goals and preferences; the changing role of supervision 
+in light of new dosing regimens; and how clients, clinicians, and others 
+in decision-making positions about treatment imagine who may benefit 
+from this particular formulation (Chappuy et al., 2020 ; Farrell et al., 
+2022 ; Lancaster et al., 2023 ; Larance et al., 2020 ; Neale et al., 2023 , 
+2019 ; Vorspan et al., 2019 ). Although new long-acting formulations 
+seem “poised ” to provide OAT in new ways, hopefully increasing con-
+venience and ameliorating burdens for both clients and providers alike, 
+the clinical literature speculates as to what role practices such as addi-
+tional psychosocial services, urinalysis, and medical monitoring might 
+continue to play, reflecting enduring concerns about diversion, safety 
+and adherence in OAT delivery (Sigmon & Bigelow, 2017 , p.386). Here 
+we can begin to see how the introduction of new technologies bring 
+about relational effects in a network of care, throwing into relief (and 
+bringing into question) how other elements in the network are affected 
+and might be re-assembled. Altering practices in an evolving situation, 
+in light of new technologies, has rippling flow-on effects, creating dif-
+ferences that need to be navigated, including in the face of tensions and 
+uncertainties that emerge. Thus, as practices of OAT delivery are 
+adapted in light of the introduction of new long-acting formulations, a 
+key question is “what to fiddle with and what to keep fixed ” (Mol, 2009 , 
+p.1757) in order to maximise benefit. 
+In this article we examine how BUP-XR is put to use and made to 
+work in everyday implementation practices, specifically attending to 
+how care practices are challenged and adapted in relation to the intro-
+duction of a new long-acting treatment technology in OAT services in 
+Australia. We draw on ideas in science and technology studies (STS) 
+which emphasise the irreducible entanglement of care practices and 
+technology, and in particular the concept of ‘tinkering ’ as a practice of 
+adaptation (Mol, 2009 ; Mol et al., 2010 ). Tinkering centres the relation 
+between care and materiality, with care understood here as material 
+practice, interwoven into the everyday (Lind˘en & Lydahl, 2021 ). As Mol, 
+Moser and Pols argue, technologies “do not work or fail in and of 
+themselves. Rather, they depend on care work. On people willing to 
+adapt their tools to a specific situation while adapting the situation to 
+the tools, on and on, endlessly tinkering ” (2010, pp.14 –15, emphasis 
+added). These are not reasoned choices of decision-making as such, but 
+adaptations that are worked out in practices, responsively working out 
+the changing character of technologies according to their situation, 
+along with other elements of daily care practices (Mol, 2009 ). Care, 
+understood in this way, thus involves “not simply particular kinds of 
+subjectivities, but also instruments, and technologies together with 
+other material elements, texts and inscriptions ” (Law, 2010 , pp.66 –67). 
+Through this lens, we seek to attend to how BUP-XR is adapted in 
+everyday practices, responsive to an evolving situation, noticing its 
+continual re-negotiation. 
+In examining the implementation of a new long-acting treatment 
+technology in this way, our approach also emphasises innovation as one K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+3part of a wider set of social and material relations. This approach 
+questions the presumption of “a one-way flow of innovation from source 
+to consumer (or user) ” and instead accentuates a “continuous process of 
+transformation, re-use and re-configuration ” (Irwin, 2023 , p.45). This 
+approach directs attention not only to the ‘thing-in-itself ’ (here, a novel 
+medication formulation) but also to the practices and relations within 
+which it is given shape and meaning (including “expressions of crea-
+tivity, care, concern, hope and resourcefulness ”: Irwin, 2023 , pp.45,51). 
+Innovation is a distributed effect, and depends on a variety of actors 
+(Sørensen, 2007 ; Webster & Wyatt, 2020 ). Thus, not only do technolo -
+gies like BUP-XR not work alone, we might also posit that the particular 
+innovation of BUP-XR can only be made sense of in context, including in 
+relation to “healthcare systems, patterns of inequality and trust, global 
+relations and industry-government entanglements ” (Irwin, 2023 , p.47), 
+as well as its localised situations of use and the continuous adaptations 
+and interventions that characterise the field of drug treatment. 
+We take care and technology together, thus complicating the 
+promissory discourse within the field of drug treatment which has, at 
+times, positioned the potential of new long-acting technologies at a 
+distance from the specificities, ambivalences, complexities, and contin -
+gencies of how care is done in specific (and often resource-constrained 
+and highly stigmatised) sites of practice. Through this analysis, we 
+seek to notice and learn from practices that emerge along with oppor -
+tunities, challenges, and constraints as BUP-XR is introduced into service 
+in an effort to help “tinker towards good care” (Mol, 2010 , p.230). In 
+doing so, we aim to cast both innovation and ‘good care’ as situated 
+concerns for drug treatment; practices of “persistent tinkering in a world 
+full of complex ambivalence and shifting tensions ” (Mol et al., 2010 , 
+p.14). 
+Method 
+The Community Long-Acting Buprenorphine (CoLAB) study was a 
+12-month prospective single-arm, multicentre, open-label trial of 
+monthly BUP-XR. The parent study evaluated clinical outcomes among 
+people with opioid dependence receiving BUP-XR and implementation 
+practices across a range of healthcare settings in Australia. This trial 
+used a subcutaneously injected, extended-release monthly buprenor -
+phine formulation (Sublocade ®). The dosing schedule involved two 
+doses of 300 mg BUP-XR at baseline and month 1. Thereafter doses were 
+flexible with 100 mg or 300 mg every 28 days ( 2/14 days) (see 
+Larance et al., 2020 ). Sublocade requires suitable secure storage, either 
+under refrigerated conditions (where at the time of the study it was 
+expected to be stable for 24 months when stored at 2–8 •C) or at room 
+temperature (where at the time of the study it was considered stable for 
+a maximum of seven days at 15–30 •C; it has subsequently been shown 
+to be stable at these conditions for 28 days). None of the sites had 
+experience of the use of Sublocade prior to trial commencement and for 
+some sites this was the first experience of delivering any long-acting 
+buprenorphine formulation. The study received ethical approval from 
+St Vincent ’s Hospital Sydney Human Research Ethics Committee 
+(HREC/18/SVH/221) and was registered with ClinicalTrials.gov 
+(NCT03809143) (see Farrell et al., 2022 ; Shahbazi et al., 2023 ). 
+Here, we draw on qualitative data generated alongside the parent 
+study to explore practices involved in the implementation and delivery 
+of BUP-XR for the treatment of opioid dependence in community-based 
+general practice and specialist treatment settings. This qualitative study 
+focused on how BUP-XR was put to use and made to work (Rhodes & 
+Lancaster, 2019 ) in different sites and situations; how the introduction 
+of long-acting treatment formulations reshaped treatment and service 
+provision; and the possibilities of, and challenges posed by, BUP-XR. 
+In-depth interviews with service providers involved in BUP-XR imple -
+mentation practices were undertaken by SG between April 2020 and 
+March 2021, facilitated by a topic guide. Most interviews were con-
+ducted by phone, due to Covid-19 restrictions, with a minority in-person 
+during site visits. Overall, nineteen service providers and clinicians involved in the CoLAB study were interviewed, across five sites in 
+Australia (three sites in New South Wales and two in Victoria; one pri-
+vate general practice, one community clinic, and three specialist drug 
+treatment clinics, and in regional and metropolitan settings). The 
+characteristics of the five sites are described in Table 1. At four sites 
+(regional NSW, remote NSW, metropolitan Sydney NSW, metropolitan 
+Melbourne Victoria), BUP-XR was predominantly administered by a 
+nurse or nurse practitioner, and at one site (outer suburbs Melbourne 
+Victoria) a combination of nursing and medical staff administered the 
+treatment depending on staff availability and rostering. All participants 
+interviewed were closely involved in one or more aspects of imple -
+mentation, prescription and review, administration, management 
+(ordering and storage) of BUP-XR, or aspects of the trial, at one or more 
+of the sites. Participants represented a range of professional back-
+grounds and roles: seven addiction medicine specialists and researchers 
+(including trial investigators, OAT prescribers, psychiatrists, and gen-
+eral practitioners); nine nursing staff; two pharmacists; one receptionist 
+with a client-facing role. Most participants had long-standing experience 
+of OAT delivery, research, or administration. Three respondents had 
+fewer than two years of experience in OAT service delivery or research. 
+To protect as far as possible against deductive disclosure, the CoLAB 
+study sites and the roles and demographics of participants interviewed 
+have been deidentified, with pseudonyms used, and specific references 
+to names, locations, or local services removed. 
+All interviews were audio recorded with consent, transcribed 
+verbatim, deidentified, and organised for analysis with NVivo12. The 
+corpus of participants ’ accounts was mapped following a process of 
+initial and focused coding (Charmaz, 2006 ). A reflexive and interpre -
+tative approach to coding and analysis was used, developing, reviewing, 
+and refining thematic categories identified in the interview data. In 
+keeping with our conceptual framework and informed by emerging 
+literature on BUP-XR promise and implementation practices, analysis 
+focused on tinkering as a practice of adaptation in service models, sys-
+tems, procedures, and care work that occurred along with the intro-
+duction of a new technology. Following STS scholar John Law’s (2010) 
+contribution to Mol, Moser and Pols’ volume, in which he extends the 
+concept of ‘tinkering ’ to examine the multiplicity of care in practice as 
+what he calls a ‘choreography of care’, we asked three questions to guide 
+our analysis of BUP-XR ’s implementation: “How does it work? How is it 
+managed? And when and how does it break down? ” Underpinned by a 
+relational ontology, these questions attuned attention to the manner in 
+which things transform, evolve and open up in the process of assem -
+blage, not conceiving of BUP-XR or its implementation contexts as fixed 
+in shape, but constituted in part as they entangle together (Law, 2004 ). 
+Centring our attention on the relation between care and materiality, we 
+focused on BUP-XR ’s implementation within ‘the clinic ’ (‘the clinic ’ also 
+here conceived as in-the-making; a process of assembling in which its 
+constituent elements come together). Through our analysis, we attended 
+to the temporal and spatial arrangements of treatment service delivery, 
+and the coming together of actors and events, examining how the 
+introduction of long-acting formulations altered and transformed re-
+lations and routines of the clinic. Our analysis sought to notice adap-
+tations in implementation practices as matters of ontological movement 
+(Dennis et al., 2020 ), that is, as shaping what it is that treatment can do 
+and become in its situation (Fomiatti et al., 2017 ; Fraser & valentine, 
+2008 ; Gomart, 2002 ; Rhodes, 2018 ; Rhodes et al., 2019 , 2023 ; Savic 
+et al., 2018 ). We present our analysis in three sections. First, we consider 
+the disruptive novelty of BUP-XR, before then looking at how BUP-XR 
+was tinkered with in relation to time and space. Third, we examine 
+how the flexibility and openness of altering relations was, at times, held 
+in tension with inflexibility and closure. K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+4
+Table 1 
+Characteristics of qualitative study sites.  
+Location No. prescribers No. nurse 
+practitioner 
+prescribers No. doctor 
+prescribers Pharmacist in 
+service No. social 
+workers No. 
+psychologists No. other staff Other services available Operating hours 
+Regional NSW 6 1 session/week 
+1 transitional 1 
+session/week 6 1 0 0 10 FTE 
+7PT Counselling, needle exchange, take home naloxone, 
+MERIT program 8:00 –16:00 Mon- 
+Fri 
+8:00 –12:00 Sat- 
+Sun 
+Remote NSW 2 (staff 
+specialist and 
+MO) 1 transitional NP 2 (telehealth) 0 1 1 1 NUM, 5 RN, 1 
+D&A counsellor Counselling, needle exchange, take home naloxone, 
+MERIT program 7:30 –16:00 Mon- 
+Fri 
+8:15 –10:45 Sat- 
+Sun, public hols 
+Sydney 
+(Metropolitan) 
+NSW 4 1 3 1 0 1 10 Case management, Hepatitis C including fibroscan, 
+ECG, pathology, research 8:00 –17:00 Mon- 
+Fri 
+9:00 –12:00 Sat- 
+Sun (dosing only) 
+A private OAT 
+clinic 6 days per 
+week 
+Melbourne 
+(Metropolitan) 
+Victoria 8 2 6 0 2 (2 
+completing 
+studies) 1 25 Community clinic; Psychiatry, care & recovery co- 
+ordination, AOD counselling, non-residential 
+withdrawal, hospital consultation liaison, ED Clinical 
+nurse consultant 9:00 –17:00 Mon- 
+Fri 
+Melbourne (outer 
+suburbs) Victoria 4 0 2 1 0 0 1 FTE practice 
+manager 
+2 Nurses/ 
+receptionists 
+4 reception 
+4 GP Primary care; Onsite pathology, diabetes educator, 
+physiotherapy 8:00 –17:00 Mon- 
+Fri 
+9:00 –15:00 Sat 
+9:00 –12:00 Sun  K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+5Analysis 
+Tinkering with novelty 
+Participants reflected on the introduction of BUP-XR as “a total game 
+changer” (Robert) and an “amazing big leap” (Catherine). In contrast 
+with other areas of medicine, where new pharmaceutical treatments 
+were perceived to more frequently become available, the novelty of 
+BUP-XR was sensed as a significant disruption to the OAT landscape in 
+which “there is not much medications development” (Thomas). BUP-XR 
+was spoken about as something different for OAT service delivery, 
+which required new learning and altered ways of working in the 
+everyday: 
+We have not had any new treatments for opioid use disorder for 
+many years and so we have got very comfortable using methadone 
+and sublingual buprenorphine and so suddenly… […] The injecting 
+mechanism was different, and the storage is a bit different, and there 
+are a whole lot of things that are different. It was a whole lot of 
+learning. How do we order them, how do we store them, how do we 
+count them, how do we actually educate our patients? (Robert) 
+Robert, a senior clinician with decades of OAT service delivery and 
+management experience, reflected on the novelty of BUP-XR and the 
+alterations in practice needed to make it work, comparing this with his 
+earlier experiences of first implementing sublingual buprenorphine after 
+methadone. It was important not to assume that existing systems and 
+practices would simply translate and fit with a new technology; things 
+needed to be done differently: 
+I remember when [sublingual] buprenorphine came in and a lot of 
+our systems on how to do a buprenorphine treatment was based on 
+methadone, and it took about 5 to 10 years to realise they were quite 
+different, and things needed to be done differently. I see a parallel 
+with the introduction of the buprenorphine long-acting products, 
+that we almost assumed it just going to be like buprenorphine, same 
+drug, but actually, you know, there [are] so many other differences. 
+(Robert) 
+Tinkering to make a novel technology work in practice slows down 
+the expectation of implementation in relation to transformative inno-
+vation, despite the promise of dramatic or rapid change. Attending to the 
+assemblage of the clinic through participants’ accounts, we saw how 
+networks of care needed to be afforded time, space, and flexibility, to 
+adapt. There was a sense that the introduction of BUP-XR into services 
+required refitting, rearranging, and reshaping routine practices, in small 
+and big ways, which initially produced some hesitation and anxiety. 
+There was concern about “extra duties, extra jobs with the new product 
+coming onto the market” (Catherine) and “significant workflow 
+changes” for some OAT service staff, depending on how their usual role 
+was situated within the evolving system: “it was a change process and 
+there was a fair bit of anxiety about it […] internally around workflow 
+and safety” (Oscar). 
+The change surrounding BUP-XR’s introduction was not experienced 
+as a one-off moment in services, but as an unfolding and iterative pro-
+cess. Collectively adapting practices in response to novelty was not 
+necessarily easy, despite the technology’s reported promise and 
+potential: 
+Anything new is challenging, changing something is challenging, 
+learning something new is challenging at a service level to get 
+multiple people to accept change and do something differently. Cli-
+nicians probably get too stuck in their ways, not want to do anything 
+new, they learnt what they learnt 20 years ago, whatever they learnt, 
+they don’t want to change, they don’t want to do anything different, 
+that’s the barrier. (Thomas) 
+Within the clinic assemblage it took time to become familiar with the 
+new relations BUP-XR produced. This novel technology required ‘working out’, experimenting to make care work. Administering in-
+jections is one element of implementation through which practices of 
+tinkering can be traced. Injections were something that “needed a bit of 
+time to sort through” (Catherine); “normalising it and sort of working a 
+way around how it will be delivered” (Kelly). Administering depot in-
+jections was a new skill for some clinicians, especially psychiatrists who 
+did not usually perform these procedures. Participants spoke of how 
+they practiced these skills and, through time, learned to understand how 
+different bodies responded to the depot injections (for example, under -
+standing that clients with less body fat sometimes experienced more 
+pain in injection sites): 
+We practiced a few times. So, we [became] familiar with the injec-
+tion and how to do it and about the angle and knowing to rotate 
+around the sites, so that was helpful, and I guess, we knew to do it 
+very slowly as well. (Susan) 
+The work of tinkering is a practice of adaptation, done in incre -
+mental, and sometimes small and mundane ways, in the everyday. By 
+tinkering in the situation, new practice-based knowledge emerged. For 
+example, different sites experimented with the use of ice packs to numb 
+skin on the abdomen for 5–10 min, and others provided clients with 
+lollypops to help pass time in the extended appointment and manage 
+pain and discomfort sometimes associated with depot injections. 
+Embedded in these small, practical experiments was a desire to make the 
+relations of care work in the moment of administration: “whatever 
+works […] even just the conversation about the lollypop, is a distraction 
+in itself, you are not talking about the injection” (Saanvi). Making the 
+injection events acceptable for clients, and especially managing local-
+ised pain, was initially a key concern to help retain clients’ engagement 
+with this novel treatment. When trying out new approaches, participants 
+tinkered towards practices that would be manageable, balancing time 
+with complexity, which was a situated concern. In this account, we were 
+told why the use of ice packs was preferred in one service: 
+Once you start looking at local anaesthetic or topical anaesthetics 
+and things like that, it just becomes too complex. I think cooling the 
+skin works well, so it just requires a little bit of time that’s all, so you 
+know 10 min or so, 5 to 10 min of having something cool on the skin. 
+(Catherine) 
+In another community-based service, anaesthetic was used to save 
+time: 
+So now we are using local anaesthetic whereas before we just have to 
+spend a lot of time injecting it really slowly, which you know in a 
+busy clinic is you know it’s a waste of time really and even then it 
+doesn’t completely stop or doesn’t mitigate against the pain terribly 
+well. The other alternative we were using was ice packs and that 
+would be time consuming for the patient, for our staff, and for the 
+doctor having your patient sit there with an ice pack on their stom-
+ach. (Peter) 
+As changes in practice evolved, participants spoke of how they would 
+“work together” (Robert), sharing new information between service 
+providers through discussion groups and chats, as well as internal 
+meetings, recognising that knowledge was constantly changing. There 
+was an effort to remain responsive, to continually come to know how to 
+work with a novel technology as it came together with clients’ bodies in 
+evolving practices in different clinic situations, including by listening to 
+feedback from clients themselves. This was especially evident in how 
+participants spoke about how knowledge was reciprocally exchanged 
+between staff and clients as they learned together what to expect from 
+the event of injection administration, and as those expectations shifted 
+through experience: 
+It’s often because they are not sure what to expect you know, we 
+were honest and said, ‘look, we have had feedback that this can sting 
+a lot’ […] Some of them would say, ‘look, I hate the injection, it’s K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+6painful but just that whole month of not having to come is worth it.’ 
+So, certainly there was some negative feedback initially about how 
+painful the injection was, but again I think it got better once the 
+patients were used to it. We probably got better at giving them. 
+(Susan) 
+Tinkering with practices in time and space 
+BUP-XR required adapting how time and space was allocated and 
+worked-with in services. For some services, finding the space required 
+for secure storage and refrigeration (as was required at the time of the 
+study) was “the absolute number one obstacle ” (Susan). The challenges 
+associated with ordering, dispensing, refrigeration and storage were 
+“time consuming ” (Quang). Ease of access to appropriate refrigeration 
+varied according to the facilities at each site and was more difficult to 
+manage in services that were not connected to large clinic or hospital 
+infrastructures. This meant that for some services, the spatial arrange -
+ments of how BUP-XR was stored and where a fridge was located con-
+strained how, where, and when care practices could happen: 
+The restrictions1 about what you can have mean that you have to 
+have a fridge inside a safe, rather than a securely lockable fridge. 
+Actually, the space that would take is so big, that we haven ’t done it, 
+because it would take away … the room where it could go, where we 
+have our other safe is relatively small, and the nurses sometimes give 
+injections in that room. So, we haven ’t got a fridge at the moment to 
+store our available Sublocade without having to order individually 
+just because of the space logistics. […] We’re still ordering for in-
+dividual clients, and we have to plan, have to know who ’s coming, 
+and let pharmacy know who ’s coming this week for an injection, and 
+do a script for them individually. So, we still have that process for 
+Sublocade and the logistics of that, we’re maintaining like that, 
+because we don’t have easy space to put a large fridge. (Oscar) 
+These challenges initially related to not only the storage of BUP-XR 
+itself, but also to the storage of ice packs used when administering the 
+injection: 
+The other barrier we have too at the moment also is we are in the 
+process of trying to get a freezer so we can keep ice packs for the 
+patients for the administration. (Catherine) 
+Spatial and material constraints worked to delimit adaptations to 
+practice. 
+Comparisons with the different spatial and temporal arrangements of 
+supervised daily dosing of methadone and sublingual buprenorphine 
+were frequently invoked when participants gave accounts of how they 
+worked with BUP-XR: 
+You’ve got to have the physical space to do it. It’s not like having a 
+dosing area like in the methadone or buprenorphine clinic. You’ve 
+got to have a room where we can take somebody. Ideally they can lie 
+down, so you can give an injection, you’ve got to have the room for a 
+little while, so people can wait afterwards and get prepared for it, 
+and you can ask other questions, and that’s a different sort of 
+encounter to a dosing encounter, which is normally at a window, sort 
+of semi-public […] and that’s a different interaction to having two 
+people in a room with the patient and the nature of the interaction is different, and a bit longer, and probably a little bit less formal, more 
+interactive. (Thomas) 
+This was not simply the substitution of one medication for another 
+but a process of tinkering and working out, to attune the patterns and 
+routines of treatment delivery and care to the new technology. 
+Spatial and temporal arrangements were reconfigured so that BUP- 
+XR injections could take place in a separate, clinical room. Clinicians 
+folded their routine practices into the time and space the injection event 
+created, for example beginning the assessment while the client was 
+holding an ice pack to their skin, to prepare for the injection. The 
+different time and space required to administer BUP-XR injections 
+worked to slow down treatment interactions, and brought staff and 
+clients into closer physical proximity, in turn reconfiguring practices to 
+do with care: 
+they are sitting there holding ice onto the injection site, [and we’d 
+say] ‘So while we are waiting for the ice to do its thing, let’s keep 
+chatting ’ and it just became a bit more flexible and it’s just adapting 
+to you know the different types of interactions. It’s not like with 
+methadone, you know you would have your assessment and then go 
+to the window, get your dose and leave. You don’t want to keep the 
+assessment going while they are taking their methadone, because it’s 
+going to hold up the queue. [With BUP-XR] you’ve got 10 min to set 
+them up and give them the injection and then chat to them after-
+wards. And I noticed the nurses were often interacting a lot more and 
+continuing their clinical assessment during the actual injection and it 
+might be, ‘Hey how ’s it going? What have you been doing? How are 
+your kids? ’ But, you know, that sort of stuff you could do while you 
+are chatting, and in some ways, it relaxes them, so they are not so 
+focused on getting the injection (Robert). 
+Slowing down practices like assessment, due to the time and privacy 
+created by injection as the mode of delivery, and the place it occurred, 
+also had other contingent effects. These spatial and material adaptations 
+to how and where clinical encounters took place were felt to reconfigure 
+relations of trust within the clinic, with some participants speculating 
+about how this might alter stigma and engagement with clients. BUP-XR 
+was perceived to break down barriers characteristic of OAT service de-
+livery (no longer "shouting through bullet-proof glass": Crawford, 2013 ), 
+by moving the practices of dosing, and therefore care work, into a 
+different material space: 
+With methadone and suboxone […] we have got a locked door. […] 
+A button ’s got to be pressed, and so you enter, then you are given 
+your dose, and there is a glass screen, a perspex screen or glass, be-
+tween the client and the clinicians. With the depot, it’s none of that at 
+all. […] There ’s actually more trust I think with the depot, because 
+it’s just not that perspex door or glass […] and obviously that’s going 
+to improve the engagement and rapport with the client. (Breigh) 
+Participants reflected on the relative comfort and stability experi -
+enced by many BUP-XR clients, and the implications of this for care 
+practices and especially scheduling of appointments over time: 
+We have found that they have been very difficult to get, to attend 
+scheduled appointments, and my view on that is because they feel 
+very well and they certainly don’t feel like they are in any opiate 
+withdrawal, they don’t necessarily prioritise their schedule and ap-
+pointments that have been booked. So, if something else comes up 
+for them on a particular day, then they, you know, may not come. 
+(Catherine) 
+This comfort forced a slowing down of care in other ways, disrupting 
+procedures and the patterning of how and when clients would ordinarily 
+connect with the clinic space, requiring practical adjustment to keep 
+pace with the new temporal arrangements produced by the long-acting 
+formulation in contrast to daily dosing: 1 For information regarding the specific requirements in New South Wales 
+and Victoria, see the following guidelines: https://www.health.vic.gov.au/p 
+ublications/refrigerated-storage-for-schedule-8-medicines-in-victoria ; htt 
+ps://www.health.nsw.gov.au/pharmaceutical/Pages/refrigeration-s8s.aspx#: 
+~:texta%20medication%20room.-,The%20refrigerator%20must%20be%20se 
+curely%20attached%20to%20the%20premises%20and,with%20food%20or% 
+20other%20goods . K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+7People do not necessarily turn up on time, because it’s lasting them 
+for so long. So I guess, if I was saying to a colleague who was starting, 
+I would say, ‘You need to be a bit more flexible about it and certainly 
+don’t expect them to come on time or you know come on a set date’ 
+[…] That I guess changes our approach to expecting that people will 
+come at a set time and get a dose of medication, because we are 
+thinking that we might need to be a little bit more flexible with some 
+people who are stretching it out for much longer. (Susan) 
+The potential for these new temporal arrangements to cause 
+disconnection from the service as a material site of care was a key 
+concern. The lack of regular, in person, on-site contact with clients made 
+possible by long-acting formulations made visible other essential aspects 
+of treatment and care being absented. Tinkering thus oriented towards 
+caring for the care made absent in the altered treatment situation. 
+Noticing the disentangling of psychosocial support from medication 
+provision, one participant reflected on the future of OAT as something to 
+be cared for, adapting practices in ways that maintain good care, not 
+only through medication provision but also in relation to “the other stuff 
+we do”: 
+[BUP-XR clients] only come in once a week or once a month, whereas 
+the other people are coming in every day for methadone or bupre -
+norphine, or [even if] they’re only coming in a couple of times a 
+week, they are still getting a lot more interaction than the people that 
+are getting the long-acting product. […] What we offer on OTP 
+[OAT], it’s not just about the medication, but it’s about the other 
+stuff that we do, the other psychosocial stuff, and I think we just have 
+to be careful in the future that we don’t lose sight of that. (Robert). 
+Even as the long-acting formulation seemingly absented the need for 
+regular contact, participants spoke of how they tinkered with routine 
+practices, in consultation with clients, to maintain connection and care 
+beyond the clinic. Participants reflected on how other practices could be 
+folded in alongside BUP-XR, to enact care beyond the provision of 
+medication itself, contemplating how and where practices such as 
+follow-up could be integrated into the system and procedures at various 
+points, for instance through case work and at prescriber reviews. Ac-
+tivities beyond those usually regarded as clinical care in ‘treatment’ 
+were also posited, as a way of keeping clients connected to community 
+and social support: 
+we were talking about trying to help people who had not much in 
+their life, either by having groups or things – because of course the 
+whole plan is for them not to have to come in – but we were looking 
+at try to encourage them to have some other activity […] not just 
+groups in here but trying to think for our clients of alternate activities 
+or hobbies they could get involved with. (Susan) 
+There were, however, other aspects of routine OAT practice absen -
+ted, no longer seen to be as significant in the new, more diffuse, spatial 
+and temporal relations afforded by the longer-acting formulation. For 
+some clinicians, urinalysis was no longer felt to be an essential element 
+of supervision or monitoring practices, given the way the treatment was 
+made to work through time: 
+There is much less focus on that [urinalysis] now […] I guess we feel, 
+I am not going to say, less concerned, that’s not right, but it’s 
+knowing that the depot is on board, I think the urine samples, you 
+know, the purpose of obtaining the urine sample isn’t as important. 
+(Breigh) 
+At times, the extension in time and space created by the four or more 
+weeks between injections became a concern to be managed. For 
+example, one prescriber described with concern the case of one long- 
+term methadone client who had commenced BUP-XR. They spoke of 
+the isolation this shift had precipitated, as well as the individualised care 
+arrangements they agreed to put into place to protect against the 
+absence of connection made through the extension in time the long- acting formulation had made: 
+I was a little bit concerned that he, you know, not having the regular 
+contact and it could be 4 weeks. We made arrangements […] We had 
+a plan in place that ‘If I don’t hear from you, I will contact your 
+brother and make sure you are okay’. So it was all like an individual 
+plan around that. ‘If I can’t find you then, do we need to do a police 
+welfare check for you?’ (Kelly) 
+Some participants recognised that what was lost in the shift to long- 
+acting formulations was not the benefit of a daily dose per se, but the 
+sense of routine connection to the clinic space and contact made in that 
+alternate set of relations: 
+Daily dosing can actually be helpful for some patients, even though 
+the majority of people do want to have the freedom not to come in. I 
+think a lot of people who are quite lonely, or they don’t have a lot in 
+their life, it’s actually very meaningful for them to go to a pharmacy 
+or to go to a clinic everyday […] it becomes a sad thing for them that 
+they are not having that contact. […] There is a minority of people 
+who don’t like that loss of contact with the staff. (Susan) 
+The extended time between dosing was not only discussed as a 
+challenge for clients, but as a challenge for clinicians, for how they 
+understood their role in making care work. Relinquishing surveillance as 
+a mode of care was felt as an adjustment, resetting years of routine 
+practice: 
+Having worked in the field for a long time, over two decades, I’m 
+very conditioned to having very close monitoring of my patient 
+group in the initiation phase of treatment and with this medication, it 
+prevents you from monitoring because the patient doesn’t have to 
+come every day […] As a clinician that you’ve administered some -
+thing and then the patient leaves and they may have other health 
+issues, other substance use issues going on and so on, but I think 
+that’s conditioned from a long time of working in the field and how 
+our treatment has typically been delivered. (Catherine) 
+Tinkering with (in)flexibility 
+The ‘game-changing’ promise of BUP-XR was troubled at times when 
+it was felt that new practices and relations could not easily co-exist with 
+the business-as-usual routines of OAT delivery. The altered relations, 
+made possible by the added choice of a new technology, did not replace, 
+but augmented the everyday care work required in services: 
+There’s this expectation that we are going to have a lot more spare 
+time, ‘what are the nurses going to do?’ […] There is not a lot more 
+time available because we are actually still running the usual service, 
+plus having the nurses to do the injections, so it’s actually more work 
+at the moment. It’s not a bad thing because it’s good for the patients, 
+but it’s certainly not freeing up any time for us. (Susan) 
+To handle these emergent tensions, initially some services attempted 
+to “quarantine” (Robert) BUP-XR care practices from the rest of the 
+clinic, for example by scheduling appointments only one morning in the 
+week, or administering doses in an entirely different space: “we split off 
+into a separate depot opiate treatment team and we moved to a different 
+site” (Catherine). This practical ordering worked to separate out BUP-XR 
+care from other OAT care practices, containing new relations, and 
+providing cohesion for staff working together with the new formula -
+tions. In some services, this ‘quarantining’ productively altered relations 
+of care with clients, who felt their care was being set apart as something 
+exceptional: 
+They said, ‘We really like being somewhere else, we don’t like being 
+in the old junkie [sic] clinic with all of the people who aren’t going so 
+well and now you know feel like sort of life is different and we are 
+going somewhere else and we are doing something else, we are K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+8moving on in life and not stuck with that other crew who aren’t doing 
+so well’. […] Patients felt like they were being treated differently 
+too, better, because of that change. (Thomas) 
+The openness of some relations was, however, held in tension with 
+inflexibility and closure in others. In contrast to the routines and ready 
+availability of other OAT medications, managing the ordering, storage 
+and dispensing of BUP-XR meant that for most services appointments 
+generally needed to be booked in advance: “we have to plan, have to 
+know who’s coming and let pharmacy know who’s coming this week for 
+an injection and do a script for them individually” (Oscar). The refrig -
+eration and shelf life of Sublocade, as well as guidelines specifying the 
+dosing window,2 had implications for how clinics and workflow were 
+structured, and how appointments were scheduled. Missed appoint -
+ments had a cascade effect, which required additional work, following- 
+up with clients throughout the week, so as not to miss the dosing win-
+dow or waste medicine: 
+We had a particular day […] they were a priority. We chose Monday, 
+so that if anything happened and the patient missed or forgot to turn 
+up, we still had plenty of days in the week for them to come back in, 
+ideally Tuesday again which is a fairly well-staffed day and then you 
+know the rest of the week to try and catch them before the Sublocade 
+was out of the fridge and couldn’t be used […] We knew we had 
+some time still to catch them. (Susan) 
+The flexibility of a long-acting technology which absented the need 
+for regular contact, was troubled as it entangled with the inflexibility of 
+appointment systems, staff capacity, and clinic opening hours, as well as 
+the material constraints of clients’ lives. Changing phone numbers or 
+lost phones sometimes rendered some clients uncontactable for weeks at 
+a time, which created tensions with scheduling and difficulties for 
+continuity of care in the absence of regular clinic visits: 
+I guess it’s just for us to kind of accept that and to try to just do the 
+best we can […] We were telling them we need to have up-to-date 
+phone and you please need to answer it but it’s an ongoing prob-
+lem. (Susan) 
+To mitigate against this loss of contact, and ensure continuity of care, 
+one service implemented a new phone system, contacting clients more 
+regularly via text messages: 
+We now have a work dedicated mobile phone where we can send 
+messages to patients so they know who we are and we are asking 
+patients to contact the clinic and that’s made a difference and people 
+are contacting us to let us know that they are okay. (Catherine) 
+To harness what BUP-XR could do, in terms of the flexibility it 
+afforded in clients’ lives, there was a sense that services needed to adapt 
+to become more flexible to make care practices work: 
+If you want to have a service that’s flexible and trying to meet peo-
+ple’s needs […] you just need to have enough staff that you can be 
+flexible about when you give it, so, I think it’s far more suitable to 
+clinics that are open most days of the week and have staff who are 
+there most days of the week who can give it. (Susan) 
+Over time, services found that much more fluidity in practice was not 
+only possible but desirable, once the new technology had become more 
+familiar: 
+What we realised is that [limiting BUP-XR clinic days] was very rigid 
+and the patients didn’t really like that, because if you were on long- 
+acting, it doesn’t matter if you come a few days later […] The one good thing that came about with those medications is that maybe we 
+need to be a bit more flexible. […] We’ve just learnt to relax a bit 
+more, be a bit more flexible now that we are a bit more confident. 
+(Robert) 
+Through experiences gleaned through the early implementation 
+phase, one service evolved its staffing arrangements, moving to a nurse- 
+led model of care, recruiting a nurse whose role would be dedicated to 
+delivering BUP-XR. This role was imagined to connect-up care, through 
+the stretching of time that long-acting formulation creates, producing a 
+thread of continuity for clients between the various practices that 
+constitute ‘treatment’ in this arrangement: 
+There’s a next step in the evolution happening now […] We’re going 
+to employ a nurse to our clinic […] a nurse available to manage the 
+medication, manage the injections but also there with the client 
+questions and appointment changes and confusion […] So, having 
+some case management support and then medication management 
+injection support. (Oscar) 
+Tinkering allowed for more open relations, for new care practices 
+that departed from the routine and familiar, opening up the potential for 
+how BUP-XR could be put to use and made to work in its new situation, 
+as its situation evolved along-with its implementation. 
+Conclusions 
+Implementing a new technology is not so simple, and “there are al-
+ways contingencies and surprises” (Mol, 2009, p.1757). It is widely 
+recognised that intervention requires complex adaptation. But despite 
+acknowledgement of complexity, there is little emphasis on how con-
+tingencies and complexities are managed and worked-with in the 
+practices of implementation (Byrne, 2013; Callaghan, 2008; Mowles, 
+2014; Rhodes & Lancaster, 2019). In this analysis, we have attended to 
+BUP-XR’s implementation as a practice-based matter of concern, shift-
+ing attention to the “messy, material […] or tedious activities that tend 
+to be difficult to do” (Mol, 2009). The concept of tinkering helps make 
+visible material care practices, which are often small and mundane, and 
+thus sometimes disappear from view. Our analysis draws attention to 
+how alterations in the time-space of intervention has effects for how care 
+is done, and for alterations within networks of care. Tinkering slows 
+down the expectation of rapid and dramatic change; the practices on 
+which this technology depends demand invention and adaptation (Mol, 
+2009). These alterations work across different scales, with the localised 
+work of implementation an element of more global shifts, with the 
+absenting of particular aspects of care prompting reflection on the future 
+of OAT as something to be cared for. By consequence, the introduction of 
+novel long-acting formulations opens up both potentials and challenges 
+for OAT delivery. Tinkering that is done to implement BUP-XR locally 
+connects with a broader assemblage of trial and movement in the 
+constitution of treatment. 
+Our analysis draws specific attention to tinkering as a practice of 
+adaptation which comes together in an assemblage of evolving spatial 
+and temporal relations to make BUP-XR work (Mol et al., 2010; Rhodes 
+& Lancaster, 2019). Borrowing from Cussins’ (1998) concept of chore -
+ography, Law (2010) emphasises the coming together of technologies 
+with other material elements to make up care, thus drawing attention to 
+the intricate ordering and effort that goes into such organisation. Law 
+notes that “what may sometimes appear to be simple from the outside 
+never is in practice”. We have seen in our analysis how care is choreo -
+graphed through space and time, including in the coming together of 
+staffing rosters, room allocations, appointment booking systems, fridges, 
+ice packs, phones, and even lollypops. Our analysis also shows how OAT 
+care is made multiple (Law, 2010), and how practices to do with care are 
+not always compatible and do not always cohere. The introduction of 
+BUP-XR shows how different care practices in OAT can be in tension – 
+BUP-XR care depends on spatial-temporal arrangements that separate it 2 The dosing window for the monthly injections is from two days prior to the 
+due date, and up to 14 days after the date the monthly injection is due, though 
+state guidelines currently enable administration for up to 8 weeks from the last 
+monthly injection without reinduction. K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+9from the routine everyday practices of supervised daily dosing of 
+methadone for example. However, this attempt to separate (spatially, 
+temporally) nonetheless entangles and makes effects, altering the clinic 
+assemblage and what treatment can do. Moreover, the very flexibility 
+afforded by long-acting formulations was sometimes held in tension 
+with the inflexibility of the time and space required for the adminis -
+tration of injections. Following Law (2010), we observe that “care de-
+pends not so much on a formula as a repertoire that allows situated 
+action”. 
+This analysis identified a concern for what is made present and what 
+is made absent in the altered care network affected by BUP-XR. The 
+multiple effects of supervised daily dosing practices are thrown into 
+relief as they become absented. The disentangling of medication provi -
+sion from practices of psychosocial support is one example, which raises 
+not only the question of how to protect such care as it becomes absent, 
+but also whether the clinic or the dosing event are the only (or best) 
+temporal and spatial sites for delivering such care. We suggest this 
+practice-based learning has relevance not only for BUP-XR, but also for 
+the more restrictive practices of sublingual buprenorphine provision in 
+some countries (see Kleinman et al., 2022). In this analysis, we have seen 
+new practices emerge to handle the tensions between different objects 
+and technologies of care, including an orientation to flexibility, as far as 
+arrangements can stretch within material constraints. What we see here 
+is a set of practices for “holding together that which does not necessarily 
+hold together” (Law, 2010) – tinkering and experimenting, holding 
+together, and apart, different enactments of care in OAT. We find, then, 
+that tinkering is a practice which manages difference and tension, rup-
+tures and break down, but more than this, also works to enhance good 
+care as potentials are opened up. We argue that the disruptive potential 
+of long-acting formulations must be understood within these wider re-
+lations. We also emphasise that there is a need for approaches which 
+better attune to noticing how this ‘good care’ is done. 
+Reflecting on the potential for BUP-XR in OAT, it has been noted in 
+the clinical literature that “without real system change, it may be that 
+the impact of these medications will be missed in the future” (Ling et al., 
+2019, p.76). Indeed, in some settings, including North America where 
+concern about opioid overdose is particularly urgent, scholars have 
+emphasised the need to look beyond clinical trial outcomes and better 
+understand ‘real world’ implementation practices to help mitigate 
+against discontinuation of treatment (Iacono et al., 2024; Morgan & 
+Assoumou, 2023; Morgan et al., 2021). Innovative technologies such as 
+BUP-XR bring with them new and different effects, and both the tech-
+nology and the settings and practices in which it is used change in un-
+predictable ways, requiring modes of evaluation that orient to the study 
+of emergence and evolving experimentation (Pols & Willems, 2011). In 
+many ways the discourse of biomedical promise of long-acting formu -
+lations has located what needs to be fixed in drug treatment – the deficit 
+– inside the ‘thing-in-itself’, in a technological effort to overcome the 
+problem of retention in treatment. However, understanding innovation 
+not as a ‘thing’ but rather as a continuous process of transformation 
+opens up consideration of how innovation might itself be harnessed as a 
+technology of improvement in drug treatment wherein deficit can be 
+explored in the practices of implementation. As Pols and Willems argue, 
+“rather than promises that technologies will, by their sheer installation, 
+‘fix’ something, there is a need for more modest accounts of technologies 
+in practices, details about ways in which technologies are working, who 
+is using them and what goals are brought into being” (p.496). 
+By attending to tinkering as a continual practice of adaptation, our 
+aim is to contribute to the generation of ‘modest’ accounts, so as to 
+“strengthen care practices” (Mol et al., 2010, p.11) and illuminate the 
+material conditions and relations which help shape change. This is a 
+practical challenge, and by no means limited to BUP-XR. As Rhodes and 
+colleagues (2023, p.16) note, “noticing the tinkering that is done to 
+navigate constraining relations also guides the potential for social and 
+structural change”. We have shown, through this analysis, that change is 
+possible. The introduction of long-acting formulations has potential to re-open questions about embedded practices and arrangements in drug 
+treatment services, including supervised dosing, bullet-proof glass, uri-
+nalysis, and the time and place of psychosocial support, as well as 
+consider how other social aspects of care might be recalibrated. Adap -
+tations in the clinic assemblage can also open up new possibilities for the 
+undoing and remaking of dynamic relations which afford the category 
+dependency its stigmatising capacity (Treloar et al., 2022). Our analysis 
+illuminates the potential of small and incremental movement, that cre-
+ates practical difference, and is thus a form of care. Although the work of 
+care in the context of drug treatment (or health services, more generally) 
+may seem self-evident, directing attention to variations in practice 
+through a socio-material approach helps to consider time, space, rela-
+tional arrangements, and what is being practically done. Indeed, this 
+approach might help to unpack and reconsider “what is actually done 
+under the name of ‘care’ […] and what forms of care are prioritised at 
+the expense of others” (Puig de la Bellacasa, 2015, p.707) in drug 
+treatment. It is also a reminder that although new medicines might be 
+hailed as ‘disruptive technologies’ with potential to change treatment, 
+drug treatment is not static but always constituted by trial and move -
+ment and characterised by continuous adaptations. Changes to 
+appointment systems, rostering, and scheduling, for example, are all 
+small innovations done in practice, which work to tinker towards good 
+care. Small changes – tinkering as care – can make a profound difference 
+to the relations of care. The difference made by tinkering towards good 
+care can help reshape what it is that treatment is and can do. 
+CRediT authorship contribution statement 
+K. Lancaster: Writing – original draft, Methodology, Investigation, 
+Funding acquisition, Formal analysis, Data curation, Conceptualization. 
+S. Gendera: Writing – review & editing, Project administration, Formal 
+analysis, Data curation. C. Treloar: Writing – review & editing, Meth -
+odology, Investigation, Funding acquisition, Formal analysis. T. Rho-
+des: Writing – review & editing. J. Shahbazi: Writing – review & 
+editing, Project administration, Investigation. M. Byrne: Writing – re-
+view & editing, Project administration, Investigation. S. Nielsen: 
+Writing – review & editing, Investigation, Funding acquisition. L. 
+Degenhardt: Writing – review & editing, Investigation, Funding 
+acquisition, Conceptualization. M. Farrell: Writing – review & editing, 
+Investigation, Funding acquisition, Conceptualization. 
+Declaration of competing interest 
+The authors declare the following financial interests/personal re-
+lationships which may be considered as potential competing interests 
+This study was supported by an Externally Sponsored Collaborative 
+Research grant from Indivior PLC. Indivior contributed to the study 
+design and analysis plan of the clinical parent study (Farrell et al., 2022) 
+but not this qualitative study; Indivior had no role in collection, analysis 
+and interpretation of data, in the writing of the manuscript, or in the 
+decision to submit the manuscript for publication. LD and MF disclose 
+untied educational grants from Seqirus and Indivior for the study of 
+opioid medications. 
+Acknowledgements 
+This study was supported by an Externally Sponsored Collaborative 
+Research grant from Indivior PLC. Indivior contributed to the study 
+design and analysis plan of the clinical parent study (Farrell et al., 2022) 
+but not this qualitative study; Indivior had no role in collection, analysis 
+and interpretation of data, in the writing of the manuscript, or in the 
+decision to submit the manuscript for publication. 
+The Centre for Social Research in Health at the University of New 
+South Wales (UNSW) is supported by a grant from the Australian Gov-
+ernment Department of Health. The National Drug and Alcohol Research 
+Centre (NDARC) is funded by the Australian Government Department of K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+10Health and Ageing. The views expressed in this publication do not 
+necessarily represent the position of the Australian Government. KL is 
+supported by the UNSW Scientia scheme, and an Australian Research 
+Council DECRA fellowship (DE230100642). TR is supported by the 
+UNSW SHARP scheme. LD is supported by an NHMRC Senior Principal 
+Research Fellowship (1135991) and a US National Institute of Health 
+(NIH) National Institute on Drug Abuse (NIDA) grant (R01DA1104470). 
+The authors thank the study participants for their contribution to 
+research, as well as current and past researchers and staff, and the 
+CoLAB Study Team. We acknowledge the following people: Jude Byrne 
+(Australian Injecting & Illicit Drug Users League, Canberra, Australia), 
+Mahshid Tamaddoni (Data manager, Kirby Institute, UNSW Sydney, 
+Australia); Madeline News, Zoe Griffin, Zein Ali (research assistants, 
+NDARC, UNSW Sydney, Australia); Jason Gascoigne (study coordinator, 
+DASSA, South Australia, Australia), Mariana Nasr, Adelaine Nyau, 
+Rebecca Lewis, Linda Broadbent, Xiu Qin Lim, Raphela Van Der Laan, 
+Natasha Kuller, Jessica Leonard, Tammy Dix, James Buchanan, Duncan 
+Tyson (Clinic staff, DASSA, Adelaide, Australia); Teodora Zanesheva- 
+Karamanlieva (study coordinator, St Vincent’s Hospital, Sydney, 
+Australia), Tom Kural, Linda Hotong (Clinic Staff, St Vincent’s Hospital, 
+Sydney, Australia); Bonny Puszka (study coordinator, Royal North Shore 
+Hospital, Sydney, Australia), Alison Blazey, Esther Han, Helena Cheung, 
+Bernard Chiuarah, Jenny Trinh Lee, Ariana McCauley, Leanne Walsh, 
+Jan Armstrong, Nouvelle Thwaites, Ivy Kwon (clinic staff, Royal North 
+Shore Hospital, Sydney, Australia); Rachael Skews (study coordinator, 
+Frankston Healthcare, Melbourne, Australia), Lionel Kok, Belinda 
+Smith, Naren Morris (clinic staff, Frankston Healthcare, Melbourne, 
+Australia); Danielle Cassar, Teresa Fitzmaurice (study coordinator, 
+Western Health hospital, Melbourne, Australia), Anthony Hew, Shani 
+Pavia, Dimce Kotevski, Fiona Goodwin, Marcus Forsythe, David Silkoff, 
+Tracy Wrigley (Clinic staff, Western Health hospital, Melbourne, 
+Australia); Susan Hazelwood, Louise Go (study coordinator, Newcastle 
+Pharmacotherapy Service, Newcastle, Australia), Michelle Hall, Callen 
+Farmer, Cathy Cochrane, Anthony Winmill, Sally McKenna, Stacey 
+Weedon, Tarun Yadav (Newcastle Pharmacotherapy Service, Newcastle, 
+Australia). We also acknowledge and thank our colleagues on the CoLAB 
+Protocol Steering Committee: Briony Larance, Suzanne Nielsen, Gregory 
+Dore, Jason Grebely, Adrian Dunlop, Nicholas Lintzeris, Robert Ali, 
+Marian Shanahan, Mike McDonough, Mark Montebello, Craig Rodgers, 
+Sione Crawford. 
+Ethics approval 
+The authors declare that they have obtained ethics approval from an 
+appropriately constituted ethics committee/institutional review board 
+where the research entailed animal or human participation. 
+The study received ethical approval from St Vincent’s Hospital 
+Sydney Human Research Ethics Committee (HREC/18/SVH/221) and 
+was registered with ClinicalTrials.gov (NCT03809143). 
+Funding sources 
+This research received funding from the following sources 
+This study was supported by an Externally Sponsored Collaborative 
+Research grant from Indivior PLC. Indivior contributed to the study 
+design and analysis plan of the clinical parent study (Farrell et al., 2022) 
+but not this qualitative study; Indivior had no role in collection, analysis 
+and interpretation of data, in the writing of the manuscript, or in the 
+decision to submit the manuscript for publication. The Centre for Social 
+Research in Health at the University of New South Wales (UNSW) is 
+supported by a grant from the Australian Government Department of 
+Health. The National Drug and Alcohol Research Centre (NDARC) is 
+funded by the Australian Government Department of Health and Ageing. 
+The views expressed in this publication do not necessarily represent the 
+position of the Australian Government. KL is supported by the UNSW 
+Scientia scheme, and an Australian Research Council DECRA fellowship (DE230100642). TR is supported by the UNSW SHARP scheme. LD is 
+supported by an NHMRC Senior Principal Research Fellowship 
+(1135991) and a US National Institute of Health (NIH) National Institute 
+on Drug Abuse (NIDA) grant (R01DA1104470). 
+References 
+Andrews, G. J., & Duff, C. (2019). Matter beginning to matter: On posthumanist 
+understandings of the vital emergence of health. Social Science & Medicine, 226, 
+123–134. 
+Barnett, A., Savic, M., Lintzeris, N., Bathish, R., Arunogiri, S., Dunlop, A. J., Haber, P., 
+Graham, R., Hayes, V., & Lubman, D. I. (2021). Tracing the affordances of long- 
+acting injectable depot buprenorphine: A qualitative study of patients’ experiences 
+in Australia. Drug and Alcohol Dependence, 227, Article 108959. 
+Byrne, D. (2013). Evaluating complex social interventions in a complex world. 
+Evaluation, 19(3), 217–228. 
+Callaghan, G. (2008). Evaluation and negotiated order: Developing the application of 
+complexity theory. Evaluation, 14(4), 399–411. 
+Chappuy, M., Trojak, B., Nubukpo, P., Bachellier, J., Bendimerad, P., Brousse, G., & 
+Rolland, B. (2020). Prolonged-release buprenorphine formulations: Perspectives for 
+clinical practice. Therapie, 75(5), 397–406. 
+Charmaz, K. (2006). Coding in grounded theory practice. Constructing grounded theory: A 
+practical guide through qualitative analysis (2nd ed., pp. 42–71). London: Sage. 
+Crawford, S. (2013). Shouting through bullet-proof glass: Some reflections on 
+pharmacotherapy provision in one Australian clinic. International Journal of Drug 
+Policy, 24(6), e14–e17. 
+Cussins, C. (1998). Ontological choreography: Agency for women patients in an 
+infertility clinic. In M. Berg, & A. Mol (Eds.), Differences in medicine: Unraveling 
+practices, techniques, and bodies (pp. 166–201). Durham and London: Duke University 
+Press.  
+Dennis, F., Rhodes, T., & Harris, M. (2020). More-than-harm reduction: Engaging with 
+alternative ontologies of ‘movement’ in UK drug services. International Journal of 
+Drug Policy, Article 102771. 
+Dunlop, A. J., White, B., Roberts, J., Cretikos, M., Attalla, D., Ling, R., Searles, A., 
+Mackson, J., Doyle, M. F., & McEntyre, E. (2022). Treatment of opioid dependence 
+with depot buprenorphine (CAM2038) in custodial settings. Addiction, 117(2), 
+382–391. 
+Farrell, M., Shabhazi, J., Byrne, M., Chambers, M., Grebely, J., Larance, B., Ali, R., 
+Lintzeris, N., Dunlop, A., Dore, G., Nielsen, S., Shanahan, M., Montebello, M., 
+McDonough, M., Rodgers, C., Weiss, R., Cook, J., Degenhardt, L., & & on behalf of 
+the CoLAB study team.. (2022). Outcomes of a single-arm implementation trial of 
+monthly subcutaneous buprenorphine depot injections in people with opioid 
+dependence: Primary findings from the CoLAB study. International Journal of Drug 
+Policy, 100, Article 103492. 
+Fomiatti, R., Moore, D., & Fraser, S. (2017). Interpellating recovery: The politics of 
+‘identity’ in recovery-focused treatment. International Journal of Drug Policy, 44, 
+174–182. 
+Fraser, S. (2006). The chronotope of the queue: Methadone maintenance treatment and 
+the production of time, space and subjects. International Journal of Drug Policy, 17(3), 
+192–202. 
+Fraser, S., & valentine, k. (2008). Substance and substitution: Methadone subjects in liberal 
+societies. Basingstoke: Palgrave Macmillan.  
+Frost, M., Bailey, G. L., Lintzeris, N., Strang, J., Dunlop, A., Nunes, E. V., Jansen, J. B., 
+Frey, L. C., Weber, B., Haber, P., Oosman, S., Kim, S., & Tiberg, F. (2019). Long-term 
+safety of a weekly and monthly subcutaneous buprenorphine depot (CAM2038) in 
+the treatment of adult out-patients with opioid use disorder. Addiction, 114(8), 
+1416–1426. 
+Gomart, E. (2002). Methadone: Six effects in search of a substance. Social Studies of 
+Science, 32(1), 93–135. 
+Haight, B. R., Learned, S. M., Laffont, C. M., Fudala, P. J., Zhao, Y., Garofalo, A. S., 
+Greenwald, M. K., Nadipelli, V. R., Ling, W., Heidbreder, C., Andersen, J. L., 
+Bailey, G. L., Bartley, S. R., Biunno, M. J., Boyett, B., Carr, J. M., Cifuentes, E., 
+Duarte-Sckell, S. D., Dueno, O. R., Harrison, B. J., Hassman, D. R., Hoffman, K. S., 
+Isacesu, V., Ishaque, S., Kakar, R., Kampman, K., Knapp, R. D., Konis, G., Kunovac, J., 
+Kwentus, J. A., Levinson, L. S., Malhotra, S., Mehra, V., Mofsen, R. S., Peyton, M. L., 
+Pujari, G. G., Ranjan, R., Rutrick, D., Seal, G., Segal, S. D., Shiwach, R., 
+Thomas, H. M., Ventre, P. P., Vijapura, A. K., Walling, D. P., Wiest, K. L., & 
+Investigators, R.-U.-.-S.. (2019). Efficacy and safety of a monthly buprenorphine 
+depot injection for opioid use disorder: A multicentre, randomised, double-blind, 
+placebo-controlled, phase 3 trial. Lancet, 393(10173), 778–790. 
+Iacono, A., Wang, T., Tadrous, M., Campbell, T., Kolla, G., Leece, P., Sproule, B., 
+Kleinman, R. A., Besharah, J., Munro, C., Doolittle, M., & Gomes, T. (2024). 
+Characteristics, treatment patterns and retention with extended-release 
+subcutaneous buprenorphine for opioid use disorder: A population-based cohort 
+study in Ontario, Canada. Drug and Alcohol Dependence, 254, Article 111032. 
+Irwin, A. (2023). STS and innovation: Borderlands, regenerations and critical 
+engagements. Engaging Science, Technology, and Society, 9(2), 41–56. 
+Johnson, B., Flensburg, O. L., & Capusan, A. J. (2022). Patient perspectives on depot 
+buprenorphine treatment for opioid addiction – A qualitative interview study. 
+Substance Abuse Treatment, Prevention, and Policy, 17(1), 40. 
+Kleinman, R. A., Nielsen, S., & Weiss, R. D. (2022). Is daily supervised buprenorphine- 
+naloxone dosing necessary? BMJ, 378, Article e071467. 
+Lagios, K. (2021). Buprenorphine: Extended-release formulations “a game changer”! 
+Medical Journal of Australia, 214(11), 534-534.e531. K. Lancaster et al.                                                                                                                                                                                                                              
+International Journal of Drug Policy 126 (2024) 104359
+11Lancaster, K., Gendera, S., Treloar, C., Rhodes, T., Shahbazi, J., Byrne, M., 
+Degenhardt, L., & Farrell, M. (2023). The social, material, and temporal effects of 
+monthly extended-release buprenorphine depot treatment for opioid dependence: 
+An Australian qualitative study. Contemporary Drug Problems, 50(1), 105–120. 
+Larance, B., Byrne, M., Lintzeris, N., Nielsen, S., Grebely, J., Degenhardt, L., Shahbazi, J., 
+Shanahan, M., Lancaster, K., Dore, G., Ali, R., & Farrell, M. (2020). Open-label, 
+multicentre, single-arm trial of monthly injections of depot buprenorphine in people 
+with opioid dependence: Protocol for the CoLAB study. BMJ Open, 10(7), Article 
+e034389 . 
+Law, J. (2004). After method: Mess in social science research . Oxon: Routledge .  
+Law, J. (2010). Care and killing: Tensions in veterinary practice. In A. Mol, I. Moser, & 
+J. Pols (Eds.), Care in practice: On tinkering in clinics, homes and farms (pp. 57–72). 
+transcript Verlag .  
+Lind˘en, L., & Lydahl, D. (2021). Care in STS. Nordic Journal of Science and Technology 
+Studies, 9(1), 3–12. 
+Ling, W., Casadonte, P., Bigelow, G., Kampman, K. M., Patkar, A., Bailey, G. L., 
+Rosenthal, R. N., & Beebe, K. L. (2010). Buprenorphine implants for treatment of 
+opioid dependence: A randomized controlled trial. JAMA, 304(14), 1576 –1583 . 
+Ling, W., Shoptaw, S., & Goodman-Meza, D. (2019). Depot buprenorphine injection in 
+the management of opioid use disorder: From development to implementation. 
+Substance Abuse and Rehabilitation, 10, 69–78. 
+Lintzeris, N., Dunlop, A. J., Haber, P. S., Lubman, D. I., Graham, R., Hutchinson, S., 
+Arunogiri, S., Hayes, V., Hjelmstr om, P., Svedberg, A., Peterson, S., & Tiberg, F. 
+(2021). Patient-reported outcomes of treatment of opioid dependence with weekly 
+and monthly subcutaneous depot vs daily sublingual buprenorphine: A randomized 
+clinical trial. JAMA Network Open, 4(5). e219041-e219041 . 
+Lofwall, M. R., Walsh, S. L., Nunes, E. V., Bailey, G. L., Sigmon, S. C., Kampman, K. M., 
+Frost, M., Tiberg, F., Linden, M., Sheldon, B., Oosman, S., Peterson, S., Chen, M., & 
+Kim, S. (2018). Weekly and monthly subcutaneous buprenorphine depot 
+formulations vs daily sublingual buprenorphine with naloxone for treatment of 
+opioid use disorder: A randomized clinical trial. JAMA Internal Medicine, 178(6), 
+764–773. 
+Martin, E., Maher, H., McKeon, G., Patterson, S., Blake, J., & Chen, K. Y. (2022). Long- 
+acting injectable buprenorphine for opioid use disorder: A systematic review of 
+impact of use on social determinants of health. Journal of Substance Abuse Treatment, 
+139, Article 108776 . 
+Matheson, C., Foster, R., Schofield, J., & Browne, T. (2022). Long-acting depot 
+buprenorphine in people who are homeless: Views and experiences. Journal of 
+Substance Abuse Treatment, 139, Article 108781 . 
+May, C. (2013). Towards a general theory of implementation. Implementation Science, 8 
+(1), 18. 
+May, C. R., Johnson, M., & Finch, T. (2016). Implementation, context and complexity. 
+Implementation Science, 11(1), 141. 
+Mol, A. (2009). Living with diabetes: Care beyond choice and control. The Lancet, 373 
+(9677), 1756 –1757 . 
+Mol, A. (2010). Care and its values. Good food in the nursing home. In A. Mol, I. Moser, & 
+J. Pols (Eds.), Care in practice: On tinkering in clinics, homes and farms (pp. 215–234). 
+transcript Verlag .  
+Mol, A., Moser, I., & Pols, J. (Eds.). (2010). Care in practice: On tinkering in clinics, homes 
+and farms : transcript Verlag. 
+Morgan, J. R., & Assoumou, S. A. (2023). The limits of innovation: Directly addressing 
+known challenges is necessary to improve the real-world experience of novel 
+medications for opioid use disorder. Academic Emergency Medicine, 30(12), 
+1285 –1287 . 
+Morgan, J. R., Walley, A. Y., Murphy, S. M., Chatterjee, A., Hadland, S. E., Barocas, J., 
+Linas, B. P., & Assoumou, S. A. (2021). Characterizing initiation, use, and 
+discontinuation of extended-release buprenorphine in a nationally representative 
+United States commercially insured cohort. Drug and Alcohol Dependence, 225, 
+Article 108764 . 
+Mowles, C. (2014). Complex, but not quite complex enough: The turn to the complexity 
+sciences in evaluation scholarship. Evaluation, 20(2), 160–175. Neale, J., Parkin, S., & Strang, J. (2023). Qualitative study of patients ’ decisions to 
+initiate injectable depot buprenorphine for opioid use disorder: the role of 
+information and other factors. Drugs: Education, Prevention and Policy , 1–11. 
+Neale, J., Tompkins, C. N. E., & Strang, J. (2019). Depot buprenorphine injections for 
+opioid use disorder: Patient information needs and preferences. Drug Alcohol Review, 
+38(5), 510–518. 
+Nosyk, B., Kurz, M., Guerra-Alejos, B. C., Piske, M., Dale, L., & Min, J. E. (2023). 
+Incremental expenditures attributable to daily dispensation and witnessed ingestion for 
+opioid agonist treatment in British Columbia: 2014-2020 . Addiction .  
+Pols, J., & Willems, D. (2011). Innovation and evaluation: Taming and unleashing 
+telecare technology. Sociology of Health & Illness, 33(3), 484–498. 
+Puig de la Bellacasa, M. (2015). Making time for soil: Technoscientific futurity and the 
+pace of care. Social Studies of Science, 45(5), 691–716. 
+Reed, J. E., & Card, A. J. (2016). The problem with plan-do-study-act cycles. BMJ Quality 
+& Safety, 25(3), 147–152. 
+Rhodes, T. (2018). The becoming of methadone in Kenya: How an intervention ’s 
+implementation constitutes recovery potential. Social Science and Medicine, 201, 
+71–79. 
+Rhodes, T., Azbel, L., Lancaster, K., & Meyer, J. (2019). The becoming-methadone-body: 
+On the onto-politics of health intervention translations. Sociology of Health & Illness, 
+41(8), 1618 –1636 . 
+Rhodes, T., Kyaw, K. W. Y., & Harris, M. (2023). Precarious lives, precarious treatments: 
+Making drug treatment work in Northern Myanmar. Medical Anthropology, 42(1), 
+4–20. 
+Rhodes, T., & Lancaster, K. (2019). Evidence-making interventions in health: A 
+conceptual framing. Social Science and Medicine, 238, Article 112488 . 
+Rosenthal, R. N., Lofwall, M. R., Kim, S., Chen, M., Beebe, K. L., Vocci, F. J., & 
+Group, P. R. O. S. (2016). Effect of buprenorphine implants on illicit opioid use 
+among abstinent adults with opioid dependence treated with sublingual 
+buprenorphine: A randomized clinical trial. JAMA, 316(3), 282–290. 
+Savic, M., Dilkes-Frayne, E., Carter, A., Kokanovic, R., Manning, V., Rodda, S. N., & 
+Lubman, D. I. (2018). Making multiple ‘online counsellings ’ through policy and 
+practice: an evidence-making intervention approach. International Journal of Drug 
+Policy, 53, 73–82. 
+Shahbazi, J., Farrell, M., Byrne, J., Ali, R., Puszka, B., Lim, X. Q., Cook, J., Weiss, R., 
+Rodgers, C., Dunlop, A., Lintzeris, N., Nielsen, S., Grebely, J., Zahra, E., Degenhardt, 
+L., & Byrne, M. (2023). Considerations for delivering extended-release buprenorphine for 
+opioid dependence in Australia: Preliminary lessons from the Community Long-Acting 
+Buprenorphine (CoLAB) trial. Technical Report no. 355 http://handle.unsw.edu.au/19 
+59.4/unsworks_84739 . 
+Sigmon, S. C., & Bigelow, G. E. (2017). Food and drug Administration approval of 
+sustained-release buprenorphine for treatment of opioid dependence: realizing its 
+potential. Addiction, 112(3), 386–387. 
+Sørensen, E. (2007). The time of materiality. Paper presented at the forum qualitative 
+sozialforschung/forum: Qualitative social research . 
+Taylor, M. J., McNicholas, C., Nicolay, C., Darzi, A., Bell, D., & Reed, J. (2014). 
+Systematic review of the application of the plan –do–study –act method to improve 
+quality in healthcare. BMJ Quality & Safety, 23(4), 290–298. 
+Theodoropoulou, L. (2023). Becoming with care in drug treatment services: The recovery 
+assemblage . Oxon and New York: Taylor & Francis .  
+Treloar, C., Lancaster, K., Gendera, S., Rhodes, T., Shahbazi, J., Byrne, M., 
+Degenhardt, L., & Farrell, M. (2022). Can a new formulation of opiate agonist 
+treatment alter stigma?: Place, time and things in the experience of extended-release 
+buprenorphine depot. International Journal of Drug Policy, 107, Article 103788 . 
+Vorspan, F., Hjelmstrom, P., Simon, N., Benyamina, A., Dervaux, A., Brousse, G., 
+Jamain, T., Kosim, M., & Rolland, B. (2019). What place for prolonged-release 
+buprenorphine depot-formulation Buvidal(R) in the treatment arsenal of opioid 
+dependence? Insights from the French experience on buprenorphine. Expert Opinion 
+on Drug Delivery, 16(9), 907–914. 
+Webster, A., & Wyatt, S. (2020). Innovation. In A. Webster, & S. Wyatt (Eds.), Health, 
+technology and society: Critical inquiries . Singapore: Palgrave Macmillan .  K. Lancaster et al.                                                                                                                                                                                                                              

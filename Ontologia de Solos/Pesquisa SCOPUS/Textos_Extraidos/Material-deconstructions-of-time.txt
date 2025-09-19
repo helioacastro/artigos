@@ -1,0 +1,2050 @@
+Material Deconstructions of Time: Posthumanist
+Interventions Through Media Art
+PATRICIA CIOBANU ,Stockholm University, Stockholm, Sweden
+YLVA FERNAEUS ,KTH Royal Institute of Technology, Stockholm, Sweden and Umeå Institute of Design,
+Umeå University, Sweden
+The topic of time and how it can be unpacked, deconstructed and designed with is fundamental to HCI, but
+it is also extensively engaged within artistic practice. By analysing a selection of ten media artworks, all
+in different ways concerned with time and temporality, we explore how artists approach these matters as
+culturally and politically loaded. The selected projects align with the ongoing scholarly interest in alternatives
+to common perceptions on time, unmaking the normative clock time and the posthuman discourse. Following
+an analysis of the theoretical and material expressions of these artworks, we conceptualised four themes
+through which unmaking was represented: dissecting temporality ,the unmaking of the singular ,unmaking
+as messing up andunmaking the other . We close with a discussion on how these themes intersect with the
+current discourse on unmaking in HCI and reflect on challenges and opportunities for design and theory.
+CCS Concepts: • Human-centered computing !Interaction design ;Interaction design theory,
+concepts and paradigms ;
+Additional Key Words and Phrases: critical analysis, unmaking, time, media art, posthumanism
+ACM Reference format:
+Patricia Ciobanu and Ylva Fernaeus. 2024. Material Deconstructions of Time: Posthumanist Interventions
+Through Media Art. ACM Trans. Comput.-Hum. Interact. 31, 6, Article 80 (December 2024), 47 pages.
+https://doi.org/10.1145/3685267
+1 Introduction
+Withinhuman–computer interaction (HCI) , time is an implicit component of how interaction
+is experienced and materially played out [Wiberg and Stolterman, 2021], as well as how it is
+continuously reconfigured, unmade and abandoned. Vallgårda [ 2014] highlighted temporal form as
+one of three key dimensions of interaction design. Similarly, Fuchsberger et al. [ 2015] presented
+seven sensitivities that address the effect of time in interaction design. As stated by Odom et al.
+[2022], “[t]ime is the medium through which an interactive dialog between a human and computer
+begins, unfolds, and resolves ”. Time is also a defining component in today’s digitally mediated
+societies. These societies are immediate and quick, with multiple changes occurring that we become
+accustomed to or resist, which is currently determined by the transition on social media from
+displaying chronological content towards displaying content sorted by personalised algorithms.
+Authors’ Contact Information: Patricia Ciobanu (corresponding author), Stockholm University, Stockholm, Sweden; e-mail:
+patricia@dsv.su.se; Ylva Fernaeus, KTH Royal Institute of Technology, Stockholm, Sweden and Umeå Institute of Design,
+Umeå University, Sweden; e-mail: fernaeus@kth.se
+This work is licensed under a Creative Commons Attribution International 4.0 License.
+© 2024 Copyright held by the owner/author(s).
+ACM 1557-7325/2024/12-ART80
+https://doi.org/10.1145/3685267
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+
+80:2 P.Ciobanu and Y.Fernaeus
+Temporality is further amplified by technologies that demand always-on, always-connected and
+always-available living.
+Nonetheless, time within HCI has exhibited a shift from a focus on clock time, which is knotted
+with the time of the machine, to investigating dimensions of time as an existential concern, as
+socially constructed and as a cultural phenomenon [Rapp et al., 2022]. We have also seen recent
+developments that involve investigating time as a multifaceted phenomenon [Rapp et al., 2022],
+entangledwithininteractionsbetweenhumanandnonhumantimescales,i.e.,cultural,technological
+and interpersonal timescales on the one hand, and astronomical, geological and environmental
+scales on the other [Ciobanu and Juhlin, 2022, Ikeya and Barati, 2023, Lee et al., 2019]. These
+works may be regarded as posthumanist interventions, as they cultivate an understanding of time
+and, by association, an understanding of the world from a heterogeneous and plural perspective.
+Moving from focusing on efficiency and progress to understanding time as collective, entangled
+and more-than-human is also a question that concerns sustainability. Temporality and our impact
+on, e.g., future generations, is fundamental in aspects related to the environmental crisis, which is
+a major concern within sustainableHCI(SHCI) [Hansson et al., 2021]. Time is also central in
+shifting the question of sustainability from one of compromise and “ personal morality ” [Dourish,
+2010] to “asking what regenerative and respectful co-living looks like ” [Light, 2022]. Within this area,
+nonanthropocentric HCI works to unpack further the complex entanglements that form between
+species [Liu, 2020]. In this paper, we regard the above concerns as fundamentally engaging with a
+cultureintheprocessofunmakingconventionalnotionsofhowtimeisrepresentedandunderstood.
+The role of unmaking is not only seen in conceptions of time but is also diversely present in
+sustainable design agendas that are often theoretically grounded in feminist new materialism
+[Barad,2007, Hayles, 1999]. The discourse on unmaking is also central to what is sometimes called
+multispeciesjustice [Celermajeretal., 2021],e.g.,in unmasking anthropocentricnarrativesthatapply
+practices based on oversight, such as in de-extinction experiments [Ibbotson, 2017]. Nevertheless,
+considered creative processes as of recently, processes of breakdown allow for other things to
+“add value, character, function, aesthetics, and sustainability into design ” [Liu et al., 2019]. Design
+researchers have engaged with unmaking in various ways [Lindström and Ståhl, 2020; Sabie et al.,
+2022a,b; Song and Paulos, 2021; Tonkinwise, 2013], further proposing concepts such as un-crafting
+[Murer et al., 2015], unfabricating [Wu and Devendorf, 2020], design away [Tonkinwise, 2013],
+forgetting as unknowing in data work practices [Muller and Strohmayer, 2022], unravelling and
+mending as embodied thinking practices constructed by care [Pérez-Bustos, 2017], undesigning
+[Pierce, 2012] and unmaking as emancipation for social justice issues [Sabie et al., 2023]. As it lacks
+a normative definition, we follow Sabie et al.’s [ 2023] understanding of unmaking as “ modes of
+thinking, articulation, and action that take on an issue primarily by taking away, taking apart, and/or
+taking down (including to the point of intelligibility) what currently exists ”.
+Factoring the role of unmaking into the entanglements between environmental disruptions,
+time and HCI and considering how HCI has fairly recently begun to investigate posthumanist
+perspectives on time [Ciobanu and Juhlin, 2022; Ikeya and Barati, 2023;Bell et al., 2024], we turn
+to works in new media art for our investigation. Artists have progressively engaged with the
+interdisciplinary field of feminist new materialism [Mondloch, 2018a] and employ a variety of
+creative approaches that can address challenges of posthuman and temporal natures. We thus take
+as a case study a selection of ten artistic projects that vary in terms of scale and representation (see
+Figure1) and were conducted by different artists or collectives. We explore these artworks with
+unmaking as the analytical framework to unpack the theoretical underpinnings and intellectual
+concerns they engage with through their material manifestations. Through this work, we make the
+following contributions to calls within HCI concerning unmaking and posthumanist outlooks on
+time.First,toconceptualisewhatweinterpretasmaterialattemptsatdeconstructinghuman-centred
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:3
+Fig. 1. Media art projects that explore more-than-human ideas of time: Allochronic Cycles ©Cesar & Lois
+[Cesar and Lois, 2021], Longplayer ©Jem Finer [Finer, 1999],Deep Time Walk ©Deep Time WalkCIC [Deep
+TimeWalkC.I.C, 2017b],AForestWhereGodsLive ,screenshotusedwithpermission©teamLab[teamLab,
+2019a],The Present ©The Present [The Present, 2024],Unequal Hours ©Anna Madeleine Raupach [Raupach,
+2021],The Room of Change ©Triennale Milano - photo Gianluca Di Ioia [Lupi, 2019],Pranatamangsa AR
+©Anna Madeleine Raupach [Raupach, 2018b],Keeping Time ©Tega Brain [Brain, 2013],The Phenology Clock
+©Tega Brain [Brain, 2011].
+notions of time, we start by surveying the potential of investigating artistic practice from within
+HCI research. Second, we present an exploration of the knowledge produced by the ten selected
+artworks, unpacking these in terms of unmaking through four distinct themes. The works present a
+deconstruction of established notions of time, making space for new worldviews and emphasising
+entanglements and ways of cultivating relations. In this article, we use the notion of material
+deconstructions to relay how the conceptual deconstruction of time can be physically expressed. We
+understand deconstruction as the “ taking apart of what has been made—disassembling assemblages,
+unbuilding constructions, and dissecting structures ” [Sjoberg, 2024]. Through deconstruction, we
+consciously investigate the parts that form a whole without taking anything away, though some
+parts might get broken during the process. Namely, while deconstructing the conventional idea
+of human clock time, the artworks still include this temporal form among its other temporalities,
+thus keeping this aspect of time rather than removing it. While unmaking and deconstruction
+are synonymous and can be similarly understood, both standing as opposites to making and
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:4 P.Ciobanu and Y.Fernaeus
+constructing, respectively, we acknowledge that subtle differences exist. We acknowledge the
+discussion on how unmaking is discussed, understood and applied in HCI and what terms are
+related [see Song et al., 2024]. In this article, however, we disengage from discussing the semantic
+differences between these notions and other related concepts that we use, including dissecting, to
+instead focus on the various material and conceptual ways the artworks are presented and how
+diversely they engage with the discourse on unmaking.
+2 Background
+In the following section, we will present background information on approaches and bodies of
+work on unmaking in HCI and its connection to sustainability, and we will describe the connections
+between art and HCI, how HCI has engaged with posthumanism, and the ties between media art
+and these various topics.
+The concept of unmaking has gained increased interest in HCI, as highlighted, for instance, by
+theUnmaking@CHI workshop in April 2022 [Sabie et al., 2022b]. Sabie et al. divide the approaches
+to unmaking in HCI into five categories. First, unmaking as an inevitable occurrence includes
+works that deal with immanent processes of the breakdown, obsolescence and decay of designed
+things, specifically infrastructures [Jackson, 2016] and buildings [Cairns and Jacobs, 2014]. Second,
+unmaking as a sustainment agent showcases the often unrecognised key role of unmaking in design
+and in sustaining life [Fry, 2003]. Third, unmaking as elimination for good is based on the idea
+ofelimination design , which critically investigates the complex harmful effects of the multitude
+of artefacts [Fry, 2008], with strategies being proposed for the disposal of things [Tonkinwise,
+2013], orundesigning as a series of negotiation strategies for HCI [Pierce, 2012]. Fourth, unmaking
+as resistance is represented by works in HCI that, for example, engage with critical unmaking,
+which can unravel tensions in an intergenerational urban context that normative design strategies
+cannot [Sabie et al., 2022a], or a call to action for designers to create friction, through an example
+concerning designing infrastructures of civic engagement [Korn and Voida, 2015]. Lastly, the
+category of unmaking as material innovation presents material exploratory works that investigate
+unmaking within digital fabrication [Song and Paulos, 2021] or un-crafting computational things
+and the insights gained from the process [Murer et al., 2015].
+Unmaking is also tied to sustainability through the degrowth movement, making space for
+alternativesthatare“ incompatiblewithmoderncapitalistsocioecologicalconfigurations ”[Feola, 2019],
+sinceitraisesconcernsrelatedtoanoverabundanceofthingsandapushtowardsinnovation,which
+consequently implies more artefacts, waste and pollution. Some works, such as Liu et al. [ 2019], put
+forthdecompositionasacreativeapproachtowardsdesignstrategies.Similarly,LindströmandStåhl
+[2020]dealwithunmakingmattersinthe aftermath ofdesignbycompostingplasticwasteandusing
+plants for phytoremediation, i.e. using plants to clean polluted environments. Furthermore, they
+explore un/making through design as a response to critical environmental challenges by considering
+the case of the plastic straw and concerns about its disposal [Lindström and Ståhl, 2023]. Others
+propose unfabricating , which addresses concerns regarding sustainability and waste in future smart
+textile development [Wu and Devendorf, 2020]. An unmaking of products is depicted by Song et al.
+[2022], who present the design of an interactive system made of entirely decomposable materials,
+and dissolving as a design opportunity is presented in Lazaro Vasquez et al. [ 2022]. Fernaeus and
+Lindegren [ 2023] conceptualise the above in terms of “ post-industrial aesthetics ” of interaction,
+captured as an ongoing unmaking, or breakdown, of the modern design ideals.
+Art is one of the main modalities through which human culture is mediated, and by engaging
+with the arts, we “ question human behavior and create awareness of the world around us ” [Oxman,
+2016]. HCI and art share the practice of making things, and many art forms are either made from or
+expressedthroughinteractivetechnology[Jacobsetal., 2016;Lewisetal., 2023].Inparticular, media
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:5
+artsare constantly engaging with new technologies that pervade our contemporary life [Peppler,
+2010], as exemplified by the artworks chosen for this study, e.g., the use of AI in Allochronic Cycles ,
+AR inPranatamangsa AR , or the ubiquitous smartphone in Deep Time Walk . However, while HCI
+research implies established procedures, formalisation and generalisation, artistic work typically
+opposes these particularities, and artistic projects studied within HCI have been criticised for
+instrumentalising the art practice as either “ an object of analysis or as a tool for other ends ” [Britton
+et al.,2019]. Meanwhile, artistic practice can be argued to hold a unique position for engaging
+critically with complex concepts in ways that might not be welcome or possible through more
+conventional research approaches. An example is Jacobsson et al.’s [ 2013] analysis of the works and
+concerns of Artbot artists, highlighting fundamental criticism of much relevance to the broader
+field of human–robot interaction. We also see the conceptual influence of art in HCI through the
+evolution of the field’s focus, which evolved from first-wave HCI research on tasks, usability, and
+productivity to investigations of experience and engagement, the so-called third wave of HCI
+[Bødker, 2006; Harrison et al., 2007]. There is thus a move from a focus on the interface to a focus
+on the “ human experience and how the design of the behaviour of the system influences it ” [Edmonds,
+2018, p. 55]. The current interest in posthuman theory in HCI, sometimes referred to as fourth-wave
+HCI [Ashby et al., 2019; Bardzell et al., 2021; Frauenberger, 2019; Homewood et al., 2021], also has
+its reflection in topics explored in the art scene.
+Posthuman theory is a result of the transdisciplinary discourse between posthumanism, which
+is concerned with deconstructing normative representations of ‘the human’, and post-
+anthropocentrism, which opposes the hierarchical organisation of our ecosystem that has
+humans at the centre [Braidotti and Hlavajova, 2018]. As a concept that stems from the posthuman,
+the more-than-human is concerned with human conditions entangled with other living beings,
+materiality, technology and the environment. In HCI, investigating such entanglements has come
+into focus [e.g., Frauenberger, 2019; Wakkary, 2021], and this has been proposed as constituting
+a ‘fourth wave’ of HCI. These theories build upon previous works such as animal–computer interac-
+tion[Mancini et al., 2017],multispecies interaction design [Gatto and McCardle, 2019; Mancini and
+Lehtonen, 2018; Metcalfe, 2015],posthuman interaction design [Liu,2020],more-than-human-centred
+design[Poikolainen Rosén, 2022], orplant–computer interaction [Aspling et al., 2016]. These align
+with nonanthropocentric HCI research [Forlano, 2016; Smith et al., 2017], applying theories such as
+natureculture [Liu et al., 2018] or the arts of noticing [Rosén et al., 2022]. Likewise, HCI fundamen-
+tally also involves nonhuman things like technology [Coulton and Lindley, 2019; Giaccardi and
+Redström, 2020]. The increase in these perspectives over the last decade has culminated in discus-
+sions on how HCI can turn towards more-than-human perspectives [Yoo et al., 2023], suggesting
+a paradigm shift within HCI and the human-centred design approach [Coskun et al., 2022].
+Within art, Patricia Piccinini’s artwork We Are Family , exhibited at the 2003 Venice Biennale, is
+an example of breaking away from ideas of human exceptionalism by acknowledging nonhuman
+transgenic creatures [Mondloch, 2018b]. Contemporary art typically engages conceptually with
+topics of interest in its surrounding culture, creating “ works that challenge our assumptions and,
+in doing so, ask fundamental questions of us as human beings ” [Edmonds, 2018, p. 63]. Following
+Sabie et al.’s [ 2022b] five categorisations of unmaking, the category of unmaking as resistance is
+described by the works of various artists that challenge or bring attention to specific issues, such
+asAuto-Destructive Art , which brings into public discourse issues of nuclear power, pollution and
+capitalist systems [Wilson, 2008], orBeautiful Trouble , a collection of creative engagements from
+grassroots groups, artists and activists [Boyd and Mitchell, 2012]. Artists are also increasingly
+engaging with environmental questions [Galafassi et al., 2018]. According to Giannachi [ 2012],
+one common strategy in these works is interventions , which aspire to encourage reflection or
+behavioural change by challenging dominant ways of living. Other strategies outlined include
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:6 P.Ciobanu and Y.Fernaeus
+representations , with a focus on visualisations and communication and performance environments ,
+with a focus on performance and experience. This shows a shift in the field from works that attest
+to climate change [Bloom and Glasberg, 2012] to works that encourage action, finding ways to
+present “ the rendering of something occurring over time, often in remote environments, to diverse and
+distributed audiences ” [Giannachi, 2012]. Temporality is invaluable in understanding the scientific
+data related to environmental disruptions, but most importantly, it is critical to finding patterns
+that unfold over time. In this regard, investigating the changes in a situated context requires a
+range of practices that artists have developed to look “ at a particular phenomenon both in the here
+and now and over time ” [Giannachi, 2012].
+3 Time as a Concern for HCI
+HCI has a rich history of exhibiting the multiplicity of time through investigations such as the
+Printer Clock ,TimeBots ,Family Clock and the Long Living Chair , all by Larissa Pschetz and her col-
+leagues[Pschetz, 2015;PschetzandBanks, 2013;PschetzandBastian, 2018].Otherexamplesinclude
+theworkofWillOdomandhiscolleaguesonlonger-termtemporality,asexpressedin OllyandSlow
+Game[Odom et al., 2018], thePhotobox [Odom et al., 2014] andCapra[Odom et al., 2024]. Among
+more utilitarian concerns are bodies of work that investigate uncertainty in digital scheduling tools
+through HAZE[Bowler et al., 2022] and combine time and space through the Whereabouts Clock
+[Brown et al., 2007]. A continuously reoccurring concept within HCI is clock time , or time as a mea-
+surableentity,definedasaseriesoflineareventsthatarequantifiable,measurableandrational.This
+understanding of time has developed alongside various timekeeping technologies [Lindley, 2015]
+and is commonly symbolised by a clock. It has thus been used simultaneously as a design material,
+methodologicalapproachandtheoreticallensforadvancingresearch[WibergandStolterman, 2021].
+Artefacts presenting clock time, such as clocks and calendars, help structure and organise human
+lifeandexperience.Researchers,however,havebeenchallengingtheseperspectivesbyexposingthe
+temporal inequities and exclusion of certain communities assisted by clock time technologies [Maz-
+manian and Erickson, 2014; Taylor et al., 2017], focusing instead on the subjective felt experience
+of time [Pschetz and Bastian, 2018] and slow designs to counteract digitally mediated fast-paced
+interactions [Hallnäs and Redström, 2001; Odom et al., 2012,2022; Strauss and Fuad-Luke, 2008].
+Another characteristic of time is that it is subjectively felt, shaped by the perception that not all
+changes are equally experienced [Bastian, 2012]. Similar to how significant events like a global
+pandemic can distort our sense of time, affecting our sense of rhythm, digital technologies can
+fabricatethesubjectiveexperienceoftimethroughtheirdesignandusagepatterns.Thisisillustrated
+by concepts such as plastic time presented by Rattenbury et al. [ 2008]. The concept refers to “ empty
+time spaces ” that occur when using certain types of technology, e.g., the mindless social media
+scrolling [Yildiz and Coşkun, 2020].Digital time is another such concept explored by Tomlinson
+[2007] and Rushkoff [ 2014] that emphasises constant connectivity and the demand for immediacy
+in our interactions with digital technologies [Lindley, 2015]. In opposition to this, researchers
+have presented work in the realm of slow technologies [Odom et al., 2019; Park et al., 2019], with
+alternative ways of representing [Yildiz and Coşkun, 2020] and perceiving [Loup et al., 2017] time.
+Other examples include the interactive artefacts designed from the perspective of Wabi-Sabi, which
+enfolds the realities of nothing lasts ,nothing is finished andnothing is perfect , challenging the
+expectations of timeless perfection, longevity and endurance embraced by physical interaction
+design [Tsaknaki and Fernaeus, 2016].
+Time has also been explored as a fundamental aspect in social relations. Thus, “ it is not that
+we have or do not have time, but that we make it through practices ” [Puig de la Bellacasa, 2015].
+In this sense, methods of measuring time should focus on the aspect of change rather than
+the passing of time, also considering the agency flow between human and nonhuman actors
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:7
+[Bastian, 2009; Greenhouse, 1996]. Various temporal aspects within social dynamics, i.e., right time
+andcollective time [Yildiz and Coşkun, 2020], have been proposed within design research. Taylor
+et al. [2017] present the right time or the situational when as situations that occur under certain
+“converging circumstances ”, while Lindley [ 2015] examine collective time as a play in which various
+actors coordinate and operate in entangled relations.
+Each of the developed perspectives on time is valuable and deserves space for consideration
+within different scales, both temporal and contextual. However, a perspective that remains a
+challenge in HCI and calls for more investigation is the posthumanist outlook on time. The recent
+interest in HCI on this topic [Oktay et al., 2023; Rahm-Skågeby and Rahm, 2022] indicates the need
+for more engagement with creative practices to address this challenge. In this paper, we explore a
+family of contemporary media artworks recently exhibited in different settings by different artists
+or artist collectives, which all, in different ways, present a posthumanist intervention of time. We
+aim to bring to light the intellectual concerns these works engage with, how these concerns are
+materially manifested, and what these explorations might bring back to the academic discourse of
+unmaking in HCI.
+4 Research Approach
+With the emergence of digital, interactive and mixed-reality art, the contrast between the practices
+within the disciplines is increasingly blurred [Jacobs et al., 2015]. Whether an artefact or artwork
+is investigated from an HCI or art standpoint, it is conceptually, socially and politically relevant. It
+involvesunderstandingthevalueoftheartefactorartworkanditspotentialtoencouragechangefor
+one’s work, field or community. Considering that a posthumanist perspective on time is in its early
+stages in HCI but already has an array of work in the field of art, we take on contemporary media
+artworks to investigate the following questions: What theoretical underpinnings and intellectual
+concerns do these works engage with, and how are they materially manifested? How can these works
+be seen to unmake time within this discourse, and what are the particular ways that unmaking takes
+form?As exemplified by the artworks, they present a blend of materialities and digital, analogue,
+tangible and temporal theories that we consider relevant for posthuman HCI and its contemporary
+engagementwithtime.Theselectedartworksarefairlyrecent,from2011onwards.Even Longplayer ,
+which started on the cusp of the new millenium, is still ongoing.
+In the following, we will explore the various forms of knowledge produced by contemporary
+media artworks concerned with representations of time, using the lens of new materialist philoso-
+phies around unmaking in HCI, further developing previous research into the topic of time and the
+posthuman discourse [Ciobanu and Juhlin, 2022]. Several of these artworks were briefly mentioned
+in this previous research to showcase related work within artistic practice and used as inspiration
+for conceptualising a prototype that engages with nature time [Ciobanu and Juhlin, 2022]. In this
+work, however, we expand that pool of artworks to ten projects to perform a critical analysis
+through the perspective of unmaking. We focus on a collection of works that explore notions of
+timeinmore-than-humanassemblages,redefiningtheobjectiveandlinearideasoftimethatgovern
+human social living through representations that reconnect humans to nature. We focus on this
+particular case, as we consider it a part of the overarching theme of sustainability, and considering
+that artworks have an increasing role in engaging the public with sustainability issues, these ideas
+are particularly relevant for growing the reach of SHCI [Jacobs et al., 2013]. In this case, we find it
+important to clarify that while nature is a challenging term, we follow the definition in Giannachi
+[2012], where nature is considered “ as both the environment in which we live and a complex cultural
+construction, including its data and genetically and technologically modified ‘natures’ ”. In this case,
+we also find Alaimo’s term trans-corporeality to be relevant, as it delineates that “ there can be no
+‘nature’ outside the human ” [Alaimo, 2018]. This feminist posthumanist concept steps away from
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:8 P.Ciobanu and Y.Fernaeus
+a dualistic view of nature and culture and reflects the “ entangled ethical and political relations ”
+[Alaimo, 2018] that humans and nonhumans coexist in. As stated by Brenda Laurel on the proposed
+notion of Gaian IxD [Laurel, 2011], all design work should be grounded in an awareness that we
+belong to the biosphere, in which “ Technology is not the other ” and “Nature is not the other .”
+We started the process of gathering artworks by reading the paper abstracts in “ The Material Life
+of Time”, the second international temporal belongings conference [Temporal Belongings, 2021],
+which was an interdisciplinary event with roots in the arts and humanities. We then continued our
+search through snowballing by looking into the authors of the papers, exploring their work, finding
+other examples close to the topic, and then starting the process anew until we found sufficient cases
+to analyse. The conference proved to be a productive starting point, as it tackled the topic from
+various perspectives, including philosophy. Ten of the fifteen found cases were chosen for more
+thorough analysis (see Figure 1). The excluded projects were omitted partly because of conceptual
+overlap with other projects and partly to set a realistic limit to the analysis. This was the case for
+teamLab’s Digitized Kairakuen Garden exhibition [teamLab, 2022]; while it is relevant, it presented
+quite similar insights to the A Forest Where Gods Live exhibition, which is part of our selection of
+artworks. In like manner, Circa[Hunt,2019] presented similar representations of natural timescales
+toThe Present [Thrift,2022], such as the The Present - Moon , but in an app format. Other excluded
+projects are the Artificial Biological Clock [Cohen, 2008] andVixen™ Circadian Stopwatch System
+[Park,2012], both intriguing examples of human-centred bodies of work on time, and The Clock
+of the Long Now [Foundation, 1999], a long-term project that engages with the notion of deep
+time, with a focus on the far future. We also chose to include Deep Time Walk andThe Present ,
+despite leaning more towards interaction design products. For Deep Time Walk , we consider the
+project a contemporary media artwork due to its use of the modern smartphone. Additionally, as
+described by the art director of the app, Fred Adam, this work is the result of connecting art and
+science [Deep Time Walk C.I.C, 2017a]. As for The Present , defined as a “ functional work of art ”, the
+project was created using state-of-the-art machinery, such as UV printers [The Present, 2023b] and
+a programmed “ first-of-its-kind clock movement ” [The Present, 2023a]. Beyond these, we are aware
+of many other well-known works on the topic. The final ten projects complied with the following
+inclusion criteria: (1) the project deals with alternative more-than-human representations of time,
+(2) the project has a technical component, (3) there is enough information to be able to analyse the
+artwork and interaction and (4) the project is presented and referred to as an artwork.
+We started the analysis of the ten selected projects by gathering relevant information on each
+artwork,startingfromtheartist’swebpage,wheretheworkwaspresentedthroughotherresources,
+such as media reports and academic articles, where experts and scholars have provided their per-
+spectives.WethencategorisedthecollecteddatabasedonthesevencriterialistedinBardzell[ 2011],
+which focus on identifying the emotional, intellectual and material qualities of the work, combined
+with our own experiences and interpretations, what others have written, and how they compare to
+similar projects and contextualising and pinpointing the temporal theories that are specific to the
+work. Bardzell transmutes this mingling of subjective and non-perspectival dimensions to criticism
+inthefieldofinteractiondesignbypresentingfourcriticalperspectives:user,design,interactionand
+context. As explained by Bardzell [ 2009], taking these critical perspectives is cumulative towards
+“exposing and exploring alternative assumptions ”, cultivating sensitivities towards aspects of design
+that would be complex to ideate otherwise [Bardzell, 2011], and conceptualising the implications
+for HCI. We focused on the seven qualities, as they pertain to a broad tradition of criticism and
+are thus applicable to artworks. We then used qualitative content analysis, a research method
+used for systematic analysis and pattern identification in various types of content [Krippendorff,
+2018], to code the collected data for each project and each dimension. Considering the descrip-
+tive nature of the data, coding is suitable for conceptualising relevant insights from the project
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:9
+descriptions [Saldaña, 2013, p. 88]. The data passed a joint coding round, resulting in 173 codes. We
+then conducted analytic inductive sessions between the authors for each code to produce categories
+in terms of our inquiry goals and the theoretical resources on unmaking, which were primarily
+constituted from Sabie et al.’s [ 2023] understanding of the concept and the five categorisations of
+approaches to unmaking in HCI [Sabie et al., 2022b]. This resulted in the conceptualisation of four
+main underlying themes that pertain to unmaking derived from combinations of related categories.
+5 Overview of the Artworks
+In this section, we will briefly describe each artwork, with a specific focus on the main temporal
+idea behind the piece and its material, perceptual and meaningful qualities. A shorter description
+of the artworks can be found in Table 1.
+teamLab: A Forest Where Gods Live. This exhibition (see Figure 2), created by an international art
+collective founded in 2001 called teamLab [teamLab, 2019a], has been held every year since 2015
+at Mifuneyama Rakuen Park, with more artworks created and added to the exhibition every year.
+Unlike typical exhibition venues, it is located in a remote part of Kyushu, Japan and encourages
+visitors to come to the exhibition site. This work follows a current trend in Japan in which con-
+temporary art is used to reanimate traditional and religious sites [Lee, 2022, p. 162]. teamLab uses
+real-time animations and projections to construct interactive and immersive experiences in their
+exhibitions [Li, 2020]. They superimpose non-material digital art on various natural forms of the
+park, such as rocks, caves, forests and gardens, without harming the natural environment. With
+more than 20 works featured in the A Forest Where Gods Live exhibition, nature is made into art
+in its natural state; for example, azalea bushes light up and change colour in response to visitors
+approaching them in Life is Continuous Light (see Figure 2(e)), and cherry blossoms and maple
+trees light up in different colours as the visitors approach the trees or walk along the main path
+inResonating Forest—Cherry Blossoms and Maple (see Figure 2(c)). These various installations are
+specifically noticeable after dark when they transform the natural forms of the park. The exhibition
+engages with time in various ways, either through the installations, which include representations
+of the plant life cycle through the projections of blossoms that grow, flower, and eventually wither
+inEver Blossoming Life Rock (see Figure 2(d)), transposing various timescales that are in the space
+with digital projections, such as the history of the ruins, with column constructions that serve
+as three-dimensional displays in Megaliths in the Bath House Ruins (see Figure 2(f)), or through
+conceptually engaging with deep time by using light and sound on the mountain in Resonating Mt.
+Mifuneyama (see Figure 2(e)).
+Allochronic Cycles. This kinetic installation (see Figure 3) was created by the Cesar & Lois
+collective in 2020 and exhibited at the Chronus Art Center as part of the exhibition ‘ AI Delivered:
+Redemption’ (2021–2022).Itisanartworkthatrespondstohumans’lackofsynchronicitywithnature
+and the planet and uses artificial intelligence to expand the human understanding of nonhuman
+timescales. The AI predicts the impact of modern human societies on environmental timescales,
+presenting the possibility of AIs learning from complex ecological systems. The installation is
+composed of four discs that follow a cyclical pattern of time for various natural timescales, such as
+the cosmos, the planet Earth, the plant Arabidopsis and COVID, with each disc having a different
+pattern of divisions [Cesar and Lois, 2021]. The first disc, which represents the cycle of the cosmos,
+has 31 divisions, each representing a key element in the development of the cosmos, such as Sun
+and Planets Form andSignificant Oxygen in Atmosphere .Theseconddiscrepresentsthegrowthcycle
+of the Arabidopsis plant, with some of the stages being Seed Germination ,First Flower Opens and
+Decay Complete . The third disc (see Figure 3(b)) spins according to the life cycle of the COVID-19
+virus, which includes Virus Production and Cell Signaling , with its molecular structure carved into
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:10 P.Ciobanu and Y.Fernaeus
+Table 1. Short Description of the Media Artworks
+teamLab: A Forest Where Gods Live by
+teamLab is an exhibition that includes more
+than 20 digital works of art overlayed on
+various elements of Mifuneyama Rakuen
+Park, such as rocks, forest or mountain. Im-
+age credit: screenshot used with permission
+©teamLab [teamLab, 2019a]
+Allochronic Cycles by Cesar and Lois is an
+installation composed of four discs that repre-
+senttemporalitiesofthecosmos,planetEarth,
+Arabidopsis plant, and COVID, with an AI
+component that learns from these various cy-
+cles and affects them based on discrepancies
+between human time and ecological time. Im-
+age credit: ©Cesar & Lois [Cesar and Lois,
+2021]
+Deep Time Walk is a walking app created
+in collaboration between Robert Woodford,
+Geoff Ainscow, and Fred Adam. The work
+presents an audio narrative that guides the
+listener on a 4.6 km walk during which the
+historyoftheEarthisrecounted.Imagecredit:
+©Deep Time Walk CIC [Deep Time Walk
+C.I.C,2017b]
+(Continued)
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:11
+Table 1. Continued
+Keeping Time by Tega Brain is a visuali-
+sation of photos posted on Flickr of various
+plant species. The photos of a specific plant
+are arranged based on the timestamp, show-
+casing the times in a year when the plant is
+morephotographedandthusobserved.Image
+credit: ©Tega Brain [Brain, 2013]
+Longplayer by Jem Finer is a musical com-
+position scored to play for 1,000 years until
+it completes its cycle and starts again. Long-
+player started playing at midnight, 31 Decem-
+ber 1999, at the International Date Line, UTC
++12, on the last instant of the last millennium
+and the first instant of the next. The artwork
+can be listened to online, via an app, or at var-
+ious listening posts around the world. Image
+credit: ©Jem Finer [Finer, 1999]
+PranatamangsaAR byAnnaMadeleineRau-
+pach is a set of twelve black and white prints
+thatpresentnightskysimulationsforeachpe-
+riod in an Indonesian farming calendar. Each
+print has a corresponding animation that can
+be seen in AR, which shows the agricultural
+activity or event in nature occurring at that
+time. Image credit: ©Anna Madeleine Rau-
+pach [Raupach, 2018b]
+(Continued)
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:12 P.Ciobanu and Y.Fernaeus
+Table 1. Continued
+The Phenology Clock is an artwork created
+in collaboration between Natalie Jeremijenko,
+Jake Richardson, Blacki Migliozzi, Tega Brain
+and others. In this project, the standard clock
+isreimaginedthroughthelensofalocalurban
+environment, with the standard clock units
+replaced for the months in a year, present-
+ing how various species bud, bloom, emerge
+or migrate. Image credit: ©Tega Brain [Brain,
+2011]
+The Present by Scott Thrift is a collection of
+three different clocks that present the cycle of
+a day, phases of the moon, and the four sea-
+sonsinayearthroughcolourgradients.Image
+credit: ©The Present [The Present, 2024]
+TheRoomofChange byAccuratisaninstal-
+lation that physically visualises data related
+to nature, the universe, the animal kingdom,
+society, hope, happiness, science and technol-
+ogy. The artwork visualises different events
+withinthesetopicsfromthepast,present,and
+future predictions. Image credit: ©Triennale
+Milano - photo Gianluca Di Ioia [Lupi, 2019]
+UnequalHours byAnnaMadeleineRaupach
+is an installation that showcases dozens of
+clocks interconnected through ribbons. Each
+clock follows a certain timescale, such as
+the eclipse cycle, and is connected to associ-
+ated clocks, like the clocks for the solar cycle
+and the moon’s orbit. Image credit: ©Anna
+Madeleine Raupach [Raupach, 2021]
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:13
+(a)
+(d)(b)
+(e)(c)
+(f)
+Fig. 2. Selection of installations in the A Forest Where Gods Live exhibition: Universe of Water Particles on
+a Sacred Rock [teamLab, 2017d] (a),Drawing on the Water Surface Created by the Dance of Koi and Boats
+[teamLab, 2015] (b),Resonating Forest—Cherry Blossoms and Maple [teamLab, 2017c] (c),Ever Blossoming
+Life Rock [teamLab, 2017a] (d),Resonating Mt. Mifuneyama [teamLab, 2018] andLife is Continuous Light
+[teamLab, 2017b] (e),Megaliths in the Bath House Ruins [teamLab, 2019b] (f) ©teamLab.
+(a) (b)
+Fig.3. Twocomponentsofthe AllochronicCycles artwork:theAIcomponent(a)andtherotatingdiscthat
+follows the life cycle of COVID-19 (b). ©Cesar & Lois [Cesar and Lois, 2021] .
+the disc. The last disc includes concentric circles showing the layers of the soil, and each division
+on the disc indicates a significant planetary event, such as the Big Bang ,Formation of the Earth ,
+First Mammal andAnthropocene . The last component of the installation, with the only non-rotating
+face, is the AI (see Figure 3(a)), which oversees and interacts with the four discs and changes their
+cycles depending on measurements of the atmospheric carbon levels.
+Deep Time Walk. This work is a walking app (see Figure 4) that supports an audio experience of a
+history of the living Earth “ across space and time ” [Deep Time Walk C.I.C, 2017c]. This project was
+started in 2007 by Dr. Stephan Harding and the MSc student, geologist Sergio Maraschin. Later on,
+Deep Time Walk app was designed as a result of a collaboration between Robert Woodford, Geoff
+Ainscow (Walk Through Time project leader), and Fred Adam (expert in using smartphones for
+walking across time and space) [Deep Time Walk C.I.C, 2017]. The project presents a guided walk
+to experience and understand deep time: “ a transformative journey through 4.6bn years of Earth
+history via a 4.6 km guided walk ” [Deep Time Walk C.I.C, 2017a]. Every metre of a Deep Time Walk
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:14 P.Ciobanu and Y.Fernaeus
+(a) (b) (c)
+Fig. 4. Screenshots of the app right before the walk (a) and during the walk (b), with an excerpt of the script
+from the audio narrative (c). ©Deep Time Walk CIC [Deep Time Walk C.I.C, 2017a].
+(a) (b)
+Fig. 5. Visualisations of the species visibility of the Cowslip Orchid (a) and Sturt’s Desert Pea (b) for the
+period 2002–2013. ©Tega Brain [Brain, 2013] .
+equals 1 million years, with the app adjusting the soundscape of the narration according to the
+walking pace and distance based on the pedometer built into the phone (see Figure 4(a) and (b)). In
+the experience, the body is used to measure the last million years, with the final 200,000 years being
+equal to 20 cm and representing the approximate time our species, Homo Sapiens, has been on the
+Earth. The metaphor of distance for the Earth’s geological timeline helps users gain perspective
+on the Earth’s age and history. It challenges the human-centred nature of history, with nature as
+simply the background for the unfolding of this history [Opus Earth, 2017]. As an “ intercultural
+story-telling platform ” [Deep Time Walk C.I.C, 2017a], it is quite theatrical in its experience, with
+the audio narrative presenting a dramatised interpretation of time delivered by the characters of
+theScientist and the Fool(see Figure 4(c)).
+Keeping Time. This artwork (see Figure 5) was created by artist Tega Brain in 2013, and it rep-
+resents how humans see other species. Created in a time when biological events have digital
+traces [Brain, 2013], the visualisation in Keeping Time is not solely the result of the social rela-
+tionships with plant species but also an indicator of how the environment is changing [Brain,
+2017]. It represents time as layers, with each row representing a year. Within the year, we can see
+the combination of all the images tagged with a specific species name aligned according to the
+timestamp. The phenological patterns of particular plant species are conveyed based on photos
+posted on Flickr [Brain, 2013]. Figure 5(a) portrays how the Cowslip Orchid is rarely photographed,
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:15
+Fig. 6. Graphic depicting the plan view of the singing bowls. ©Jem Finer [Finer, 1999] .
+with images appearing only around September. In contrast, the Sturt’s Desert Pea is much more
+visible throughout the year, with abundant images taken in the summer months. Works such as
+Keeping Time are important to understanding how the local climate changes different species’
+cycles and how these disruptions eventually disrupt the multispecies interrelationships that depend
+on synchronised cycles. It shows the patterns of plant visibility for humans, which usually focus
+on certain moments of their life cycle, such as during blooming in spring or during autumn when
+the leaves turn red, and then their life cycle ends [Brain, 2013]. Most of the time, we experience
+seasonal plant blindness, remaining unaware of plants.
+Longplayer. This musical artwork (see Figure 6) was composed by Jem Finer using singing
+bowls. The composition started on 1 January 2000 and is set to continue without repetition until
+2999, when it will complete its first cycle [Finer, 1999]. The musical composition will thus take
+1,000 years to complete. The title of the work is an intentional choice, referencing the amount
+of time it will take for the composition to finish; it is a “ gigantic loop, biting its own tail once
+every millennium ” [Christenhusz, 2021]. The work consists of six pieces of music, each with a
+different tempo and duration, orbiting each other like planets in a solar system for a thousand years
+until they reach the common starting position, which is graphically represented in Figure 6. This
+process is ensured by moving the starting point of each piece of music ahead every two minutes.
+This project is comparable to six turntables or an analogue clock but with six hands [Cox, 2021].
+Longplayer attempts the challenge of representing time that goes beyond the human lifespan and
+many generations of humans through the metaphor of music. It takes an analogous approach by
+representing the continuity of time by arranging the singing bowls in concentric circles, resembling
+the solar system, with the sun as an important reference point for time passing. This composition
+is accessible via an online live stream and an app, with the composition being generated on the
+user’s phone. It can also be listened to at certain public listening posts.
+PranatamangsaAR. Thisartwork(seeFigure 7),createdbyartistAnnaMadeleineRaupachin2018,
+is an animated interpretation of an Indonesian farming calendar, connecting the various natural
+events and agricultural activities in the calendar to astronomy observations [Raupach, 2018b].
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:16 P.Ciobanu and Y.Fernaeus
+(a) (b)
+Fig. 7. One of the twelve prints showing the night sky simulation [Raupach, 2018b] (a) and the AR app
+screenshot [Raupach, 2018a] (b). ©Anna Madeleine Raupach.
+The work showcases how the Pranatamangsa calendar system is threatened by changing climate
+conditions. It is composed of twelve prints of star maps that correspond to an amalgamation
+of natural changes and agricultural activities described in the Javanese and Sundanese farming
+calendars. Essentially, it is an association between the night sky’s star map and the agricultural or
+natural phenomena happening at that specific time of the year [Raupach, 2018a]. Positioning the
+cosmic phenomena in contrast with day-to-day activities is intended to question and expand our
+perception of time. Each print has an AR component that triggers an animation that shows the
+corresponding agricultural activity or an event occurring in nature related to the flora, fauna, or
+change in seasons [Raupach, 2019]. The artwork, specifically the use of AR in the project, allows
+one to explore the prints chronologically or otherwise.
+The Phenology Clock. This artwork (see Figure 8) was created by Natalie Jeremijenko, Jake
+Richardson, Blacki Migliozzi, Tega Brain and others as part of a project on how health and the
+environment are dependent on each other [Brain, 2011]. It deconstructs the ordinary clock by
+replacing the standard clock time units with the twelve months of the year. Thus, January corre-
+sponds to the twelve o’clock mark, with only one arrow on the clock face moving through the
+months. Following the cyclical quality of phenology, the clock supports a nonhuman understanding
+by representing the various urban species of a local environment that bud, bloom, emerge, or
+migrate and how their lifecycles are seasonally interdependent processes [Moline et al., 2015]. As
+shown in Figure 8, each species is assigned a colour and is placed in a specific concentric circle,
+starting with trees and urban mammals in the outer circles and ending with fungi and microbes
+in the innermost circles. While natural systems continuously change, the clock comprehensively
+represents this [Agapakis, 2015]. The piece is considered a more participative way of recording and
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:17
+Fig.8. TwoPhenologicalClocksdisplaythelifecycleeventsoflocalurbanorganismsinSydney(left)and
+New York (right) based on data collected between 2000 and 2014. ©Tega Brain [Brain, 2011].
+(a) (b) (c)
+Fig. 9. The cycle of a day (a), the phases of the moon (b), and the cycle of a year (c). ©The Present
+[The Present 2024].
+learning about these various patterns than traditional scientific methods. As the artist Tega Brain
+writes, “ [t]he practice of observing recurring environmental patterns builds an ecological perspective
+of time constituted by cycles and relationships rather than the steady, linear march of machines ”
+[Brain,2019].
+The Present. This functional artwork is a collection of three clocks (see Figure 9) created by Scott
+Thrift that tell time through the use of colour and gradients rather than seconds, minutes and hours
+[Thrift,2020].The Present - Day (see Figure 9(a)), introduced in 2016, is inspired by an image of
+looking at the clouds from an aeroplane in flight [Barnes, 2016]. It moves at half the speed of an
+ordinary clock as one hand goes through the 24 hours of the day. The clock fragments time into
+dawn, day, dusk and night, represented through a blue gradient that conveys the change from day
+to night. The Present - Moon (see Figure 9(b)), introduced in 2020, follows the moon cycle, with the
+hand of the clock in the light during a new moon and in shadow during a full moon [Thrift, 2020].
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:18 P.Ciobanu and Y.Fernaeus
+(a) (b)
+Fig.10. Partofthelegendexplainingthedatavisualisation©GiorgiaLupi(a)andtheexhibition(b)©Triennale
+Milano - photo Gianluca Di Ioia [Lupi 2019].
+It was inspired by the ancient symbol of non-duality, yin-yang, evoking “ the interconnected oneness
+of all things ” [Han, 2020]. Lastly, The Present - Year (see Figure 9(c)) addresses the idea of the
+circularity of time by presenting a clock that is focused on the natural passing of time, specifically
+by switching the hours for the seasons of the year with a single hand moving through hues of
+blue, green, yellow and red. Thus, short intervals, usually associated with clock time, are now
+visualised as a “ unified, colorful spectrum mirroring the seasons of the year ” [Pavlus, 2011]. The
+colour hues represent Spring, Summer, Autumn and Winter, with the Winter Solstice at the top
+marked by white, the Summer Solstice at the bottom marked with pure yellow, and the Spring and
+Fall Equinoxes on each side marked with pure green and red [Marchese, 2020]. Thrift explains how
+the mechanism for the annual movement of the clock had to be invented, as it did not exist before,
+along with software that would set the clock to the day that it was turned on, i.e., “ to the present ”
+[PSFK,2013].
+TheRoomofChange. Thisartwork(seeFigure 10)wascreatedbythedatadesignstudioAccuratas
+an introductory installation for the 22nd Triennale Milano International Exhibition Broken Nature:
+Design Takes on Human Survival , in 2019. It is a collection of stories and relationships between
+humans, technology and nonhuman beings. The 30-metre-long hand-crafted data tapestry has a
+snapshotofaparticularmomentintimeoneachverticalsection,andeachhorizontalsectionfollows
+a story as it evolves through time, visualising events of the past, present and future [Lupi, 2019].
+The data-based visualisation depicts eight topics: nature,universe ,animal kingdom ,society,hope,
+happiness ,scienceandtechnology . Each topic in The Room of Change has three underlining events
+represented through a visual pattern, e.g., for nature, the events are the disappearance of the Aral
+Sea,the human impact on the environment andthe effects of climate change (see Figure 10(a)). The
+artwork is supplemented by a legend explaining how to read the individual stories [Accurat, 2019b].
+In addition to the data tapestry, The Room of Change is also accompanied by two large screens
+that show a selection of before-and-after images from the NASA Archive that present the results
+of melting glaciers or urbanisation that have happened in the past 20 years [Bradley, 2019] (see
+Figure10(b)). These larger-scale projections contrast with the contextual story of change depicted
+in the visualisation. The Room of Change considers the complexity of entanglements between
+global and local phenomena and collective and individual perspectives, showing the change that is
+constantly occurring at these various levels [Accurat, 2019a]. This artwork reveals how change is
+composed of incremental moments rather than being an objective and universal fact that is usually
+shown to us from “ far away and high above ” [Pentagram, 2019].
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:19
+(a) (b)
+(c)
+Fig. 11. Overview of the various clocks (a), screenshot from Raupach [ 2022] (b) and the exhibition (c). ©Anna
+Madeleine Raupach [Raupach 2021] .
+Unequal Hours. This room-size installation (see Figure 11), created by artist Anna Madeleine
+Raupach in 2021, is a vivid representation of how alternate timescales intersect, explicitly showing
+how various natural forms intersect with human clock time while operating on alternate timescales
+[Raupach, 2021]. Presented at the Canberra Museum and Gallery in 2021, it includes mechanical
+clockshangingfromtheceiling,eachwithasinglearrow,movingintheirowncyclesandconnected
+by coloured ribbons. The name of the piece, Unequal Hours , is a time concept used before tools for
+synchronisation and coordination, such as clocks, were designed. Each clock represents a natural,
+human, or technological timescale [Raupach, 2021] (see Figure 11(b) for an overview of the various
+timescales). The clocks present natural timescales such as whale migration, the moon’s orbit, and
+eclipse cycles, and human timescales such as breathing, the menstrual cycle, grape harvesting and
+population growth and decline.
+6 Analysis
+Here, we will present our analysis of the artworks based on our research questions. This analysis
+thereby focuses on what theoretical underpinnings and intellectual concerns these works engage
+with, how they can be seen to unmake time within this discourse, and how unmaking takes
+form. Following the critical analysis of these artworks, we conceptualised four themes: dissecting
+temporality ,the unmaking of the singular ,unmaking as messing up andunmaking the other , with
+each theme consisting of three subtopics. We will thus dive into what each theme represents and
+the role that unmaking plays in it. An overview of the key insights from the four main themes is
+provided in Table 2, with a larger scale of the media artworks in Figure 12.
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:20 P.Ciobanu and Y.Fernaeus
+Table 2. Overview of the Key Ideas from the Four Main Themes Conceptualised in the Analysis
+Theme Subtheme Overview
+Dissecting TemporalityMultiple Orientations—Steers between relations of past, present, and future, such as in Allochronic Cycles andDeep Time Walk , and engages with the challenge of dividing
+one’s perception between these multiple temporal orientations
+—A similar multiplicity is shown in The Phenology Clock through the variety of species and their temporalities and in The Present with its support for
+alternative experiences of being in time, past or future
+Multiple Dimensions—This subtheme grapples with ideas of scale. Human and other-than-human timescales are superimposed in works such as A Forest Where Gods Live ,
+The Room of Change ,Longplayer , andDeep Time Walk . This approach is used to position the human timescale in relation to grander scales to stimulate
+emotions and reflections on the human impact on natural systems.
+—We bring out the notion of the hyperobject and its various characteristics in reference to the musical composition Longplayer and the full-body experience
+of deep time in Deep Time Walk .
+Multiple Temporalities—This subtheme underlines how multiplicity is pervasive across the artworks, with additional investigations on how Longplayer andDeep Time Walk
+engage with sound to attune to temporalities that exceed human timescales.
+—Interconnections between human and nonhuman temporalities in Unequal Hours ,The Present , andA Forest Where Gods Live
+Unmaking of the SingularPlurality in Materials—Materialisation of story-telling through time-based media such as Pranatamangsa AR
+—Tangible representations of a cyclical view of time in The Present
+—Artificial life forms seeking methods for survival, such as Longplayer , or that create themselves possible worlds, like Allochronic Cycles
+Plurality in Representation—Artworks that show the quality of adaptability in their design, such as The Phenology Clock , which presents the lifecycles of the plant and animal
+species of a local area, or Longplayer , which aims to endure through technological obsolescence and social change
+—Artworks that present resilience through a long-term thinking perspective, such as The Present , which was constructed to work for a long time
+autonomously, The Room of Change , which represents data of a speculative future in 2,400, or Deep Time Walk , which engages the listeners in
+future thinking through a walking audio experience of geological time
+—Artworks that present gentle and undemanding representations of time, such as A Forest Where Gods Live , where nature is portrayed in a
+calming visual style, or The Present , which considers a simplified representation of seasonal, circadian, and lunar cycles
+Plurality in Experiences—Artworks that engage with conceptions of space-time, such as perceptions of being frozen in time in teamLab’s work, The Room of Change ,
+The Present - Year , andDeep Time Walk . Except for The Room of Change , these artworks either represent the idea of the
+slow flow of time, such as in teamLab’s work, or engage users to experience slowness and slow down, such as in The Present ,Deep Time Walk ,
+andLongplayer .
+—Suggests how Deep Time Walk breaks human/nature and mind/body dualisms through its place-based and adaptable locative media,
+while teamLab’s exhibition engages its visitors in expressions of play and traces of rituals
+Unmaking as Messing UpEntanglements in Knowledge—Artworks that are a result of transdisciplinary work between art, science, and technology, such as Deep Time Walk ,A Forest Where Gods
+Live, andAllochronic Cycles
+—Artworks like The Present andDeep Time Walk engage with the challenge of temporal illiteracy by advancing alternative understandings
+of time and subscribe to the teaching practice of the four ways of knowing in the case of Deep Time Walk .
+Entanglements in Practice—Artworks like A Forest Where Gods Live andPranatamangsa AR make use of SAR to create immersive
+installations with blurred boundaries between the overlayed digital materials and the natural physical forms in the former, and seamful
+interfaces that present a multilayered environment in the augmented world in the latter. The augmentation is also manifested in Deep Time
+Walkthrough the immersive audio narrative.
+Entanglements in
+More-than-Human Relations—Variety of human-nonhuman associations through a kinesthetic entanglement between various timescales of physically linked clocks in
+Unequal Hours
+-Variations of cycles that include circadian, lunar, and seasonal cycles in The Present
+—Tinkering with scale through the different discs that showcase biological and geological processes in Allochronic Cycles
+—Interdependencies between local urban species are represented in The Phenology Clock , whileKeeping Time focuses on nature-culture
+connections.
+—A Forest Where Gods Live navigates connections between visitors, art, and place.
+—Deep Time Walk presents the entanglement of humans with the history of the Earth.
+—Longplayer portrays the dependency of its survival on human demand.
+(Continued)
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:21
+Table 2. Continued
+Theme Subtheme Overview
+Unmaking the OtherSearching for New Perspectives—Artworks encourage reflection on conventional ideas of time through design in Keeping Time , with additional attunement to the cyclical nature
+of time in The Phenology Clock andThe Present .
+—Artworks such as Longplayer andDeep Time Walk take a sonic approach to introduce the listeners to deep time and harmonise us to rhythms of
+a large scale.
+—Pranatamangsa AR unravels how the evolution of technology, such as animation, shapes our understanding and experience of time.
+Searching for Disseminating Tools—This theme focuses on the various material strategies used to diffuse alternative ideas.
+—Keeping Time andThe Phenology Clock make use of data visualisation to intervene between anthropocentric living and make space for
+representations of nature-culture interdependence. These artworks encourage users, no matter the generation or discipline, to create interest surrounding
+more-than-human concerns, with Deep Time Walk presenting a variety of functionalities that make the experience much more accessible and
+resources to continue diving into the topic or offering the ability to engage in the discourse actively.
+—The use of animation in Pranatamangsa AR is examined, along with the use of this tool in science communication and representations of future
+alternative temporalities.
+Searching for Signs of Life—Brings forth traditional beliefs that animate natural forms, such as trees and rivers in the case of A Forest Where Gods Live
+—Expresses the Gaia hypothesis through the embodied audio experience in Deep Time Walk
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:22 P.Ciobanu and Y.Fernaeus
+(a) (b) (c)
+(d)
+(h) (i) (j)(e) (f) (g)
+Fig. 12. Media artworks explored for the material and conceptual insights in the discourse of unmaking.
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:23
+6.1 Dissecting Temporality
+This theme is focused on deconstructing the singular ideas of time by concentrating on the multiple.
+This idea of multiplicity is rooted in, for example, Tsing’s engagement with polyphony as a noticing
+of how various melodies synchronise or clash, matching to the “ multiple temporal rhythms and
+trajectories of the assemblage ” [Tsing, 2015, p. 24]. It is also a key aspect in Alaimo’s concept of
+transcorporeality,whichismaintainedby“ multiplehorizontalcrossings,transitsandtransformations ”
+[Alaimo, 2018]. This is followed by a disposition in HCI to develop a “ multiple timescale sensibility ”
+to assess the long-term impact of technologies [Rahm-Skågeby and Rahm, 2022]. The creators of
+Allochronic Cycles mention how, in the process of creating the piece, they have ‘ dissected ’ time and
+‘decoded’ the temporal perspectives of species such as Arabidopsis and lichens [Cesar and Lois,
+2021]. Similarly, teamLab’s exhibition explicitly points to traces of unmaking in installations such
+asMegaliths in the Bath House Ruins [teamLab, 2019b] andEver Blossoming Life Rock [teamLab,
+2017a] by portraying perpetual cycles of growth and decay. We thus unpack how temporality is
+unmade in the selection of artworks by looking at the multiple orientations in and through time,
+themultiple dimensions of engaging with scale, and the multiple temporalities that the artworks
+represent.
+6.1.1 MultipleOrientations. Thereisacertainconnectionbetweenthepastandfutureembedded
+in the artworks in various ways. Some users of The Present described how the artwork supported
+an appreciation for the past and looking forward to the future [The Present, 2023c]. InAllochronic
+Cycles, the creators maintain that in order to “ move forward, we look backwards across millennia ”
+[Cesar and Lois, 2021], with the AI predicting the future human impact on the various timescales
+represented by the four other discs according to atmospheric carbon levels. In other ways, artworks
+suchas ThePhenologyClock illustratethemultiplicityofotherspeciesandthuspresentopportunities
+to develop tools that embrace this multiplicity rather than holding on to solely human timescales.
+We also identified how artworks like The Present take on experiential conceptions of time. This
+relates to the discrepancy between being on time, which is supported by conventional and linear
+time-telling tools, and being in time, which is encouraged by artefacts such as The Present that
+source new perspectives on various challenges, which are primarily environmentally related. We
+see this combination in other works such as Deep Time Walk . The experience with the app focuses
+on presenting an embodied way of engaging with deep time, using deep movement, as opposed to
+being static and fixed like clock time [Opus Earth, 2016]. While some features in the app, like the
+Millions of Years Ago Indicator, represent the standard idea of time, these blend seamlessly with
+the other features in the app without taking away from the main goal: to experience deep time.
+6.1.2 Multiple Dimensions. The artworks engage with scale in various ways. teamLab inten-
+tionally uses natural forms that embody long periods of time, such as rocks and trees, in their
+exhibition, as these are materialisations of spans of past time flowing into the continuous present.
+Thus, when including natural timescales and natural forms that are on a grander scale and surpass
+the human timescale, we can position ourselves in the long continuity of time [teamLab, 2019a].
+Thus, deep time as a threshold concept [Meyer and Land, 2003] launches new ways of thinking
+and understanding the world. However, by introducing a deep time perspective, an unavoidable
+friction is created, related to how, on the one hand, humanity is simply an insignificant blip on
+the geological timescale. On the other hand, the human impact has been enormously powerful for
+such a small amount of time.
+To understand the entanglement of multiple temporalities, such as ecological time, the philoso-
+pher Timothy Morton introduces the concept of hyperobjects, which are defined as “ things that are
+massively distributed in time and space relative to humans ” [Morton, 2013, p. 1]. A characteristic
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:24 P.Ciobanu and Y.Fernaeus
+of hyperobjects is their temporal undulation , which occurs incrementally due to their dimension,
+making it seem as if they happen extremely slowly [Morton, 2013, p. 55]. As a result, we can
+experience a fragment of the hyperobject but never its entirety. Climate change is an example of a
+hyperobject. As something massive in its space-time proportions, it is not sensorially perceivable.
+Through Longplayer , Finer encourages us to attune to hyperobjects, such as climate change, that are
+undeniably pressing challenges. However, considering the size of the composition, the artwork is in
+itself a form of hyperobject, as we can only experience a fraction of it, expressing “ a certain kind of
+musical anti-optimality ” [Koutsomichalis, 2018]. Thus, hyperobjects imply a complex entanglement
+of temporalities, of which humans are a part.
+Variousmetaphorsareusedtotranslatescale,suchascreatingexperiencesinvolvingthephysical
+movement of the body as a reference point or measuring tool. This approach is one way to unravel
+thethreshold effect caused by how “ hundreds of millennia and millions of years takes us well beyond
+the scope of direct human experience ” [Trend, 2001]. While various metaphors have also been
+used as a solution to this challenge, such as representing deep time as a clock or calendar, these
+numerical or written representations fall behind compared to full-body experiences or corporeal
+ways of knowing [Pink et al., 2010].Deep Time Walk draws from these points and engages the
+body in perceiving deep time. There is also a specific sound that indicates when the storytelling is
+paused, with the audio narrative matching the pace of the listener’s movement. However, due to
+the loaded descriptive narration, it is similar to listening to a scientific audiobook, making it hard
+to concentrate on what is said. Nevertheless, sound is essential for exploring temporality, place,
+interactions and interdependence. Taking a sonic approach to engaging with the Anthropocene
+“brings into the world novel relations, it shifts paradigms and builds new formations ” [Kanngieser,
+2015].
+The Room of Change depicts change through various scales and dimensions, with a legend that
+explains the data visualisation, which is crucial for allowing a visitor to understand and ‘see’ the
+artwork. This project impresses visitors and sparks emotions and reflections on the social and
+natural changes in our world’s past, present and future. It does so by presenting a visualisation that
+mentions no numbers, and it is unclear what the different bands mean until one reads the legend.
+As a combination of “ objective data and artistic presentation ”, the sheer scale of the work leaves
+visitors experiencing “ data vertigo ” [Kennedy, 2019]. This piece represents the world from both
+global and local perspectives [Pentagram, 2019]. It is more visible than other artworks due to its
+physical nature and scale. The artwork also provides the possibility for interactions of different
+durations. They can be long term, as reading the legend, understanding the data and going through
+different moments takes time. At the same time, they can be short term, as the user can target a
+specific period or topic, switch between past, present, or future changes, or avoid a topic altogether.
+6.1.3 MultipleTemporalities. Artworks such as Deep Time Walk andLongplayer , due to their
+acoustic experiences and the added embodied experience in Deep Time Walk , present opportunities
+to sensorially attune to non-anthropocentric temporalities that usually exceed our cultural frames
+of reference [Christenhusz, 2021]. As listening is an affective and embodied practice of engaging
+with the world [Voegelin, 2010, p. 3],Longplayer enables us to “ share time and space with the object
+or event under consideration ”[Christenhusz, 2021].Asonicexperiencethusoccursandisfeltintime,
+withsoundfosteringsensitivitytowardsotherwiseunreachabletimescales.Additionally,concerning
+scale, there is the added challenge of duration, as the Longplayer composition, while there is a
+conceptual understanding that it is a loop, is perceptually limited when it comes to experiencing
+it as such [Cox, 2021].Longplayer is a “sonic exercise in ecological thinking ” [Christenhusz, 2021],
+with the listener able to experience a fraction of these large timescales.
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:25
+Artworks such as Unequal Hours illustrate a kinaesthetic presentation of a temporal interdepen-
+dence across species from small to large scales. Similarly, in The Phenology Clock , the temporal
+interdependence that we attune to is between the species, flora and fauna of a local place. This
+phenomenon can be seen between artefacts as well. As one user of The Present describes, The Present
+- DayandThe Present - Year connect at a particular moment every day by pointing in the same
+direction, which in winter happens in the morning [The Present, 2023c]. This implies that there
+are also moments of difference, when the clock hands point in opposite directions. Similarly, the
+Ever Blossoming Life Rock installation in teamLab’s exhibition contrasts the experience with the
+artwork, which is defined by a lived experience of temporality and the temporality of the boulder,
+which is timeless and marked by seasonal changes [Lee, 2022, p. 158]. The installation Megaliths in
+the Bath House Ruins , through the rectangular prism forms, warps space and time and showcases
+various patterns of continuity and change that reveal what has been forgotten or submerged. These
+space-times can intersect, overlap and be compressed.
+6.2 Unmaking of the Singular
+The theme of the unmaking of the singular is here analysed by looking at expressions of plurality in
+materials ,representation andexperiences .Pluralismdeconstructsstandardconventionsbycultivating
+alternatives to normative discourses [Bardzell, 2010], which is critical in posthumanist thought
+and “makes knowing expansive (or inclusionary) rather than exclusionary ” [Wakkary, 2020]. The
+artworks we analyse explore the many ecological realities imbued with plural temporal and spatial
+relations. They utilise a variety of materials that more heavily focus on the embodied experience
+with time and move away from conventional representations.
+6.2.1 PluralityinMaterials. Theworkspresentagreatmaterialvarietyintermsoftangibleforms,
+such as the ribbons in Unequal Hours ; digital forms, like the extensive data used in The Room of
+Change;andenvironmentalaspects,suchasthenatureandruinsinanaturalparkin A Forest Where
+Gods Live and the various plant specimens pressed into powder form in Allochronic Cycles . Time-
+based media projects, such as Pranatamangsa AR , are notably valuable for representing abstract
+notions of time and environmental changes that are connected to different ecologies [Raupach,
+2018a]. Additionally, The Present makes tangible the cyclical idea of time, which is often slippery,
+while the creation of Longplayer was instigated by the challenge of “ representing and understanding
+the fluidity and expansiveness of time ”[Longplayer, 2005].Longplayer representstheideaofartificial
+life, as throughout the 1,000-year-long process, it “ would not only be a real living organism with a
+life and tradition all its own but one with a capacity to propel itself by its own momentum ” [Young
+and Zazeela, 2004, p. 16]. Similarly, the AI in Allochronic Cycles is considered a nonhuman agency
+that presents the possibility of symbiotic living between humans and nonhumans, thus envisioning
+a posthuman future [Ga, 2021]. The AI observes the various timescales and their interactions,
+potentially interrupting and resetting them [Cesar and Lois, 2021].
+Environmental observations are increasingly technology mediated, as satellites, weather stations
+and data centres are replacing direct embodied engagements to understand and detect changes
+in the climate [Brain, 2017]. This development can be used as an opportunity to develop digital
+tools that shed light on the lives of other creatures [Smith et al., 2017]. Thus, more imaginative
+ways of communication are required, which is what Pranatamangsa AR aims to support. The
+animations used in the artwork can support the representation of abstract temporalities and the
+conceptualisation of time in relation to climate change [Raupach, 2018a]. AR, in this case, was
+used to “ disrupt the linear order of this work ” [Raupach, 2018a], as the participants could choose
+the order in which to read the prints. This reordering from the original timeline represents the
+unpredictability of environmental disruptions in the current state of climate change [Raupach,
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:26 P.Ciobanu and Y.Fernaeus
+2018b]. This combination of still and moving images through AR presents the multiple timescales
+entangled in climate change and the disruptions happening to familiar natural changes. As the
+components,i.e.themovingimage,technologyandphysicalobjects,functionondifferenttimescales
+but co-exist in the same space and are experienced together, animation fuses the spatial barrier
+between these temporalities [Raupach, 2018a]. This allows a layered construction of time across
+multiple planes, with a particular negotiation between the various temporalities.
+6.2.2 PluralityinRepresentation. Consideringthatthemanynaturalprocessesrelatedtoclimate,
+temperature, or biodiversity will function differently compared to what we currently expect, having
+artefacts that account for the changes sets an example for designing artefacts that are adaptable due
+to the unpredictability of the natural environment [Smith et al., 2017].The Phenology Clock is such
+an example. As a data-driven artwork, it concentrates on a local scale, such as a city, focusing on the
+plant and animal species of the area. The artwork thus presents similar ideas to the field of collapse
+informatics [Tomlinson et al., 2013], which focuses on designing for scarcity by putting forth
+designs that are adaptive to the variability of various natural processes rather than implementing
+fixed designs. It invites participants to reflect on the natural patterns in their local environment
+rather than looking at the data retrospectively [Agapakis, 2015]. Having the artwork in a clock
+form, with a hand passing through the months, makes it much more dynamic than its rectangular,
+more static counterpart, Keeping Time .
+Another aspect of adaptability is the many ways the long term is addressed and expressed.
+Artefacts such as The Present are constructed to continue displaying the yearly cycle for a long time
+[The Present, 2023a].The Room of Change illustrates a sense of complexity and long-termism, with
+the represented data starting from 1,000 B.C. and ending in a speculative future (2,400) [Bradley,
+2019]. Moreover, Deep Time Walk makes use of mobile media to create experiences that sustain
+an understanding of “ where we really are in time and space so that we can comprehend our future
+trajectory ” [Deep Time Walk C.I.C, 2017a]. Similarly, Longplayer prompts a reflection on the future
+and the permanence of humanity, culture and technology [Cox, 2021]. It has adaptability in mind,
+as it is composed in such a way as to be independent of any technological and social change. As a
+durational work, it raises questions about technological obsolescence, as the current technology
+that supports it will eventually have to be replaced [Martynski, 2021, p. 120]. With this in mind,
+the complementary app on which the musical composition can be listened to was also designed to
+be easily updated, which Finer refers to as “‘the deep space mission approach’: making something
+that needs minimum change over time to guarantee its survival ” [Bridle, 2015].
+Other pieces take a more straightforward approach to representation. Many of the installations
+in teamLab’s exhibition revolve around creating unique shapes, lines and combinations, with an
+image of nature as “ ideal and simplified ” [Li,2020, p. 78]. The installation Universe of Water Particles
+on a Sacred Rock is an example, taking inspiration from the belief that water has a purifying ability,
+as expressed in the indigenous religion Shintoism. The calming visual style is also the result of a
+collaboration with the contemporary Nihonga painter Hiroshi Senju, who depicts serene waterfalls
+inspired by traditional Shanshui and ukiyo-e masters [Li, 2020, p. 78]. Similarly, according to
+Thrift, timescales that follow seasonal, circadian and lunar rhythms are simplified and elementary
+representations of time, compared to the standardised units of time such as seconds, minutes and
+hours [Han, 2020]. Such a simplified view provides a calmer experience and gives the impression
+of having more time than a normal clock.
+6.2.3 Plurality in Experiences. Some artworks engage with embodiments of space-time, such as
+moments being frozen in time. This concept of space-time is used in teamLab’s work to define the
+relationship between a space and its temporality. For example, the ruins in the Mifuneyama forest
+are its own space-time, and the bathhouse represents a place where “ time had stopped completely ”,
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:27
+as it was abandoned shortly after being built [teamLab, 2019b].The Room of Change engages with
+this idea by representing in its visualisation “ a snapshot of a precise moment frozen in time ” [Lupi,
+2019]. Meanwhile, The Present - Year is the embodiment of a clock that seems to be standing still
+or where time seems to have stopped, as no movement or sound can be detected, refocusing our
+attentiononthepresent.Whiletheseartworkspresentorengagewithspace-timesthatarestanding
+still, users of Deep Time Walk can stop time by simply standing still. As the app uses the pedometer
+to trigger the narration, when the listener stops walking, the narration also stops, which creates a
+space-timeofstandingstill.Additionally,eachwalkwith DeepTimeWalk createsitsownspace-time
+depending on where the participant was walking. This is an example of compressed space-time:
+the walk through the Earth’s history is reduced to 1 hour and 30 minutes.
+This is followed by depictions of the slow flow of time in artworks such as A Forest Where Gods
+Live, in which the forest surrounding the Mifuneyama Rakuen Park changes slowly over the course
+of the year and then starts its cycle anew [teamLab, 2019a]. Similarly, The Present is an artwork
+that presents the value of slowness and is meant to help its users slow down [The Present, 2023b].
+The gradual gradient enables this feeling of time slowly flowing, which a rigid calendar grid does
+not achieve [Drumm, 2016]. Moreover, in The Present-Day , the placement of the hand, compared
+to a usual clock, visually gives the sense of having more time, as the hand is placed only halfway
+when the standard clock shows 6 PM [Drumm, 2016]. As Thrift explains, when one is unable to
+track every moment that passes by through numbers, each moment is slowed down and perceived
+as if there is much more time left [Kushnick, 2016]. The artwork contrasts tools that value speed,
+efficiency and productivity by providing a slowing down of daily life. The changes in The Present are
+perceived quite similarly to how we perceive changes in nature, i.e., they are noticeable after some
+time, adding a meditative simplicity to the experience [m ss ng p eces, 2011]. With Deep Time Walk ,
+walking is the practice that alters the sense of time, creating a slower and exposed experience of
+interacting with the environment [Martynski, 2021]. The slowness is also embedded in Longplayer ,
+as it is similar to experiencing a slowly moving analogue clock [Cox, 2021].
+Locative media offers many opportunities to build place-based experiences that are adaptable to
+thetravelleddistanceandpace[DugganandGoldschmidtKiminami, 2021,p.8].Asanentanglement
+betweenthenarrative,environmentandwalker, DeepTimeWalk embraceswalkingasanexperience
+that “folds body, self, other humans and nonhumans, time-space and place together ” [Edensor, 2010].
+This work creates associations between the walk and deep time, as well as associations and attune-
+ment to the place in which one walks, imbuing the space with new meanings [Martynski, 2021,
+p. 141]. The work, on the one hand, aims to dismantle the human/nature dualism by emphasising
+the entanglement between human and geological time and multispecies entanglement [Haraway,
+2016] in general. On the other hand, it aims to “ break the paradigm of an isolated and abstracted
+digital world ” [Deep Time Walk C.I.C, 2017a] by challenging the mind/body dualism and situating
+the “body as a site of knowledge development ” [Martynski, 2021, p. 116]. This way of walking is
+attentional , focused on attuning and responding to the environment, rather than intentional , which
+happens when one is travelling from point A to point B [Ingold, 2015, p. 133].
+Play is another experiential aspect specific to teamLab’s work. In installations such as Resonating
+Mt.Mifuneyama andLifeisContinuousLight ,playisshowninthepresenceofvisitorsbyresponding
+to their movements with light. When installations such as these are part of a specific natural site,
+rather than a museum or gallery, play takes a considerable role in creating “ more believable realities ”
+and a more holistic and complete exhibition [Li, 2020, p. 113]. All the different elements in the
+exhibition, both imagined and real, have a role in creating a more immersive and embodied
+experience in which play becomes part of the sensory sphere. Entangled in play are rituals, another
+important part of teamLab’s work, as both rituals and play have the capacity to transport people to
+another world [Huizinga, 1949, p. 18]. Various ceremonial aspects are embedded in the A Forest
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:28 P.Ciobanu and Y.Fernaeus
+Where Gods Live exhibition site, such as the sacred rock or the sacred site of the steep mountain of
+Mifuneyama.
+6.3 Unmaking as Messing Up
+This theme foregrounds the ‘mess’ of entanglements implicit within the artworks. Compared
+to the ‘clean’ and objective look of a standard clock, and although the projects also present a
+clean aesthetic, the underlying processes are messy, with the added complexity of interconnected
+temporalities that can be difficult to untangle. Entanglement as a concept within new materialism
+points towards how we are interdependent, through technology, ecosystems and other beings, and
+entangled in various complex relations. This indicates an absence of “ independent, self contained
+existence ”, as we materialise through and as part of this entanglement [Barad, 2007]. Artefacts
+also present deep entanglements , particularly in relation to their impact on future generations
+[Rahm-Skågeby and Rahm, 2022]. We here explore unmaking as messing up by describing how
+these artworks embody and present different connections, muddying the previously clean and
+ordered worldview. We thus engage in a process of untangling what has been weaved: we follow
+how various threads intertwine to understand the diverse aspects of their connections. Thus, we
+do not engage in absolute separation, material or otherwise, but conceptually unmake what is
+interconnected and typically unseen. In the following, we will focus specifically on untangling the
+connections in knowledge ,practice andmore-than-human relations .
+6.3.1 EntanglementsinKnowledge. The artworks engage with and draw from various disciplines
+to unpack the topic of time. Along with The Present ,Deep Time Walk addresses “ temporal illiteracy ”
+[PSFK,2013]byformingabetterrelationshipwithtimeandadvancingnotonlyanunderstandingof
+deep time but also a sense of timefulness , which implies knowingthe history of the Earth and taking
+a geologist’s perspective on time—the perspective needed for moving towards sustainable futures
+[Bjornerud, 2018].Deep Time Walk draws from the teaching practices of the Four Ways of Knowing
+proposed by Jung [Jung, 2016, p. 401]: sensation ,feeling,intuition andthinking . This methodology
+has contemplation as the main element that supports learning and building an ecological awareness
+[Deep Time Walk C.I.C, 2017b], illustrating how combining knowledge and creativity can lead to
+rethinking our place on Earth [Deep Time Walk C.I.C, 2017a]. The script of the audio narrative
+ofDeep Time Walk is the result of a collaboration between science and humanities disciplines,
+represented by the scientist Dr Stephan Harding and the playwright Peter Oswald, respectively
+[Deep Time Walk C.I.C, 2022]. The narration follows the characters of the Fool and the Scientist as
+they embark on a journey to uncover the history of the Earth’s geological timeline. This form is
+used to mend the fragmentation between disciplines and forms of knowledge [Martynski, 2021,
+p. 116]. As a fusion of technology, science and poetry [Deep Time Walk C.I.C, 2017a], this work
+is intended as an interdisciplinary activity that can be used in an academic setting [Curi, 2017].
+teamLab’s work also lies at the intersection of art, science, technology and the natural world, as
+they implement various collaborative practices [teamLab, 2023]. Cesar & Lois’s work is another
+example of transdisciplinary work that represents layers of timescales ranging from viruses and
+plantgrowthtothehistoryoftheuniverse.Lastly, Allochronic Cycles pointstothecreativepotential
+of humans and nonhumans when they collectively work together and how this potential is valuable
+in imagining new posthuman worlds [Ga, 2021].
+6.3.2 EntanglementsinPractice. Artworksemployvariouspracticesforbridgingthegapbetween
+virtual and natural environments. This is the case for Pranatamangsa AR and its use of seamful
+interfaces, which have a slight gap or mismatch between the physical space and the virtually
+created one [Chalmers and Galani, 2004]. As the inconsistencies between these spaces are evident,
+the AR is used to support viewers in moving between the various visual layers, allowing them to
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:29
+“negotiate various rhythms and temporal scales ” [Raupach, 2018a]. Navigating such a multilayered
+environment develops new behaviours and a new sense of self composited into the augmented
+world[Roquet, 2016].Animationintheartworkisusedtosupportexperimentationwithexpressing,
+understanding and experiencing time. Animation is a collection of still images made frame-by-
+frame and viewed quickly in a series to give the impression of motion [Raupach, 2018a]. This
+characteristic allows one to explore the idea of change and the passage of time, and animation
+itself recollects how our understanding of time has changed throughout the years [Johnston,
+2015, p. 227]. Raupach [ 2018a] explains that what differentiates animation from narrative-based
+moving images is that it creates a distinct sense of movement and, thus, an alternative engagement
+with time.
+In the case of Deep Time Walk , the experience of walking through 4.6 billion years of Earth’s
+history is mediated through mobile technology. The app aims to shift focus from the smartphone
+screen to the natural world through an augmented audio narrative, rather than acting as a barrier
+to the natural world. In this context, this poses a challenge, as the technology meant to be in the
+background, e.g., in one’s pocket, creates a dependent experience with the phone, especially when
+various technological glitches occur; for example, one might check the phone when the narrative
+seemingly stops. However, the user can switch to Gaiaphonic Mode to make the sound play only
+on one earbud to listen to both the story and the surroundings while walking, which can help
+remedy this dependency. The space also influences the experience and can further distract from the
+narrative, making it difficult to refocus. Furthermore, another contradiction concerns how the app
+aims to bring us into communion with the natural world, with the experience often being isolated
+from others and individual in character. This raises concerns on how interconnectedness within
+nature can be developed under these circumstances [Martynski, 2021, p. 179].
+A more seamless convergence of both natural and digital aspects is done in teamLab’s work,
+affording a “ deep interpenetration of self, image, and world ” [Lee,2022, p. 153]. Removing the
+boundaries between virtual and real-world environments through spatial augmented reality
+(SAR)decentres the environment, erasing the bounds between visitors, the natural world and art.
+Additionally, this adds more layers to spatial perception, augmenting the idea of nature. Such an
+entanglement between the environment and the “ digital handlings, visuals, sounds, touches and
+smells” [Li,2020, p. 113] transforms nature into art. SAR is used in several installations within
+the exhibition A Forest Where Gods Live to support a more immersive and embodied experience
+for the visitors [Lee, 2022, p. 155]. Interactions with the visitors are seen in the form of flowers
+blooming when a visitor stands still in front of the installation or the flow of water being redirected
+inMegaliths in the Bath House Ruins . In the exhibition, visitors could be seen running wild in
+the forest, standing quietly and contemplatively, or touching the trees and flowers [Li, 2020, p.
+76]. The interactive installations are also connected with each other and cause changes far away
+from the source. For example, the presence of people causes ripples of light in the forest through
+Resonating Forest and the neighbouring azaleas through Life is Continuous Light . In the Resonating
+Mt. Mifuneyama installation, the sound and light patterns travel various distances within the
+exhibition place, blending with the natural forms, such as the plants and mountains.
+6.3.3 EntanglementsinMore-than-HumanRelations. The artworks present the entanglements
+within the more-than-human in various ways. Unequal Hours physically represents the entangle-
+ments between human, nonhuman and technological timescales. For example, its menstrual cycle
+clock is connected to the clocks representing wages, referencing the gender pay gap [Mandryk,
+2021].The Present , with its three variations of time perception, builds on the aspect of connect-
+edness with the world by presenting a holistic experience of a day, synchronisation with the
+moon and more extensively with the cosmos, and lastly, a built connection with the Earth and its
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:30 P.Ciobanu and Y.Fernaeus
+seasonal cycles. The piece allows for a shared experience and vision of time to manifest across
+every part of the Earth: when it is a full moon on The Present - Moon clock, it is so for every
+living being, which creates a form of multispecies entanglement. In like manner, Allochronic Cy-
+clespresents time as fragmented in contrasting, concentric circles based on different geological
+and biological processes, setting the boundaries for time and scale [Cesar and Lois, 2021]. While
+the artwork’s name points to how we are disconnected from geological processes and timelines,
+it intends to synchronise us with other species and even broader planetary systems to become
+more-than-human.
+Approachesintimerepresentationsuchas ThePhenologyClock andKeepingTime areconsiderably
+valuable at this stage of climate change, as they shift our focus towards understanding how natural
+systems work and contribute to a collective reimagining of our relationship with nature. They
+deal with the various reoccurring processes in animals and plants and are valuable in indicating
+how and which patterns of various species change due to environmental disruptions. This causes
+interrelated species to fall out of sync and endangers the entire ecosystem. Tega Brain gives the
+example of pollinators and the flowering cycle, which creates a temporal relationship that is based
+on synchronicity [Brain, 2013]. Cultural practices also depend on phenological patterns, such as the
+Tomatina festival in Valencia, Spain, exemplifying how nature and culture are connected [Brain,
+2013].
+As a multi-sensory immersive experience, A Forest Where Gods Live makes use of digital technol-
+ogy to blur the boundaries between the visitors, the built garden, and the forest and bring the focus
+to more-than-human interdependence [Lee, 2022, p. 162]. Considering that Mifuneyama Rakuen
+is a site with specific sacred associations, the exhibition visitors develop a connection with this
+aspect of the place and a sense of harmony with the natural world [Lee, 2022, p. 162]. teamLab’s
+work can be considered a form of land art, as it creates relationality between the artworks and the
+landscape [Lee, 2022, p. 162].
+Deep Time Walk has an important role in reconnecting us to the natural world by acknowledging
+that we are a part of nature itself and indicating how various natural forms, such as mountains
+and animals, are our ancestors [Opus Earth, 2016]. It supports an experience through which we,
+as participants, can understand the various geological processes that occurred to allow life to
+evolve up to this point, such as plate tectonics, the formation of oxygen-producing photosynthesis,
+or planet-wide temperature regulation. This project shows how everyone is entangled in deep
+time and the geological impact we are currently having [Deep Time Walk C.I.C, 2017b]. An aim
+ofDeep Time Walk is for people to become what Jonas Salk calls “ good ancestors ”, meaning that
+they “consider their decisions based on long-term, intergenerational justice ” [Deep Time Walk C.I.C,
+2021a]. Similarly, Longplayer raises questions about stewardship [Martynski, 2021, p. 120]; in
+contrast to the various efforts towards making the work autonomous, Finer expresses how it
+has never been intended to be “ a self-sustaining sonic beacon ringing out to no one ” [La Frenais,
+2019]. While the work could become autonomous, it should continue only if people want it to. It
+could be maintained generation after generation, with people continuously taking responsibility
+for it.
+6.4 Unmaking the Other
+Following the thematic of alternatives, we explore the unmaking of the other as unpacking the
+otherworld-making possibilities in addition to standard views, devices and expressions. The ‘other’
+is imbued with an idea of being separate, disassociated and excluded. We notice the use of the
+otherin posthumanist writing, such as the use of other-than-human, or when the dualism of
+self/other is challenged. Designing otherwise is increasingly being encouraged to challenge the
+conventional ways of designing by proposing different ways of affecting the world [Abdulla, 2018]
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:31
+and designing with care [Helms, 2023]. We engage with otherness by conceptualising how the
+artworks successfully express other perspectives , use various tools otherwise for dissemination , and
+focus on other living beings .
+6.4.1 Searching for New Perspectives. These artworks present new perspectives on time by
+stretchingtheconventionalideasoftimethatanormalclockprovides. Longplayer ,forexample,takes
+asonicapproachtorepresentinglong-termperiodsoftime,while PranatamangsaAR usesanimation
+to create possibilities for alternative imaginings to be combined with the natural environment.
+Raupach found the limitations in change and compressed temporality in animations indicative of
+thedestabilisationofPranatamangsaknowledgeasitshiftsduetoenvironmentalchanges[Raupach,
+2018a]. Similarly, Keeping Time aligns with ideas from design for reflection [Baumer et al., 2014],
+which aims to encourage users to reflect on a specific topic, which in this case is the social and
+cultural relations with and around different plant species.
+Artworks such as The Phenology Clock also challenge traditional ideas of time. Although we
+follow the change in seasons and have calendars that reflect this, this is just a small part of the
+multiplicity of temporalities in the natural environment [Smith et al., 2017].The Present aims to
+put things into perspective for those pressured by time, to change how time is experienced daily
+alongside the conventional clock used for scheduling. The three varieties of clocks represent a
+shift from an understanding of time as a commodity to an understanding that offers the possibility
+of becoming “ present, connected, and grounded in the world ” [The Present, 2023b]. Looking at the
+testimonials from users who have lived and experienced the artwork, they point to their new sense
+of scale, proportionality and perspective on time. One user explains this in the following way:
+“Once one looks at something using a different paradigm, one does not conceive of it in the same way
+again. Ever. Open perception and you open possibility ” [The Present, 2023c].
+Likewise, Deep Time Walk “is an invitation to view the world differently ” [Deep Time Walk
+C.I.C,2017a] by introducing opportunities for a better understanding of different worldviews and
+encouraging participants to find ways to put these into practice. The playwright Peter Oswald
+describes how, in the audio narrative, the Scientist character feels hopeless, as every action seems
+harmful to the environment [Deep Time Walk C.I.C, 2016]. Once she embarks on a journey with the
+characteroftheFool,theystartexploringanewperspectiveoftheworldand,thus,newalternatives.
+The narrative concludes with a mutual realisation that we have been entangled with each other,
+nature and the Earth since the beginning. The entire narration is a journey that starts with an
+opposing view from the Scientist of humans as sources of destruction and confusion about how we
+become human from the Fool and moves to realising that we have always been entangled at the
+end of the walk: “ If we wound you it is us that dies. There is no gap between us at all. We are the same
+thing.” The choice to represent humans as merely a phase in the long life cycle of the Earth is a
+move away from an anthropocentric take described by the exploitation and instrumentalisation
+of nature. This work attempts to mitigate how “ the frictionless, atemporal instantaneity of digital
+communications weakens our grasp on the structure of time ” [Bjornerud, 2018, p. 164] by presenting
+an experience of deep time that brings us in tune with the rhythm of the Earth and provides an
+awareness of the human impact [Martynski, 2021, p. 115].
+6.4.2 Searching for Disseminating Tools. In several of the artworks, information visualisation is
+the primary disseminating tool. Keeping Time presents its visualisation on a concentrated scale,
+as it focuses on a few plant species. However, it shows that while there are clear patterns in the
+data, the reasons behind those patterns are ambiguous. Visualisations like these need context
+and to be situated in both time and place to be understood. This artwork can be considered a
+data-driven design intervention that aims to represent how humans and environmental systems
+are interconnected. If they are seen and understood, visualisation projects can substantially impact
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:32 P.Ciobanu and Y.Fernaeus
+the public awareness of a subject matter [Valkanova et al., 2013], and they are important tools for
+bringing different issues into public discourse. Jeremijenko, one of the creators of The Phenology
+Clock, advocates for a transition from data spectator , in which viewers passively consume the
+visualisation without being able to question or challenge it, to data contact sports , where there is a
+more direct and interactive way to engage with and challenge the data [Agapakis, 2015]. In this
+regard, Smith et al. note the potential of The Phenology Clock in encouraging those interested in
+the natural world to explore nature in their local area and observe the various natural cycles and
+changes occurring within that space [Smith et al., 2017].
+Artworks such as The Phenology Clock ,The Present andDeep Time Walk sustain a diverse group
+of users who can engage with them. The Phenology Clock sets an example for further gathering
+data on natural systems and developing technologies that make these data accessible for those
+without advanced environmental scientific training, such as designers, who can further use the data
+and technologies in their own work [Smith et al., 2017].The Present is aimed towards users across
+generations, while the creators of Deep Time Walk have made efforts to eliminate technological
+barriers, such as by making the app available on older smartphones and by releasing an audiobook
+version[DeepTimeWalkC.I.C, 2022b].TheyhavemadetheappaccessiblebydevelopingaMobility-
+Assist mode, which can be used to listen to the narration without the need for walking [Deep
+Time Walk C.I.C, 2017b]. The user can also switch to Gaiaphonic Mode to make the sound play
+only on one earbud to listen to both the story and the surroundings while walking. Additional
+materials in the project allow the script of the narration to be read by those unable to listen to it
+and support facilitators who would like to organise a walk in their community [Deep Time Walk
+C.I.C,2021b]. In this case, having the artwork in the form of mobile digital media is the factor that
+extends its scope, as it first removes geographical restrictions and the need for a guide or physical
+information boards [Martynski, 2021]. Second, as the app uses a recorded narrative that is played
+based on the walking pace and does not use a global positioning system or the internet, it provides
+a personalised experience, with the content being delivered at relevant points throughout the walk
+[Martynski, 2021].
+In addition to the audio narrative, Deep Time Walk offers various resources, such as visual
+cards [Deep Time Walk C.I.C, 2022a]. At the end of the narration, the question ‘ What’s Next? ’ is
+presented. The suggested links are for those who want to learn more, connect with others and
+actively participate in taking positive action towards environmental change, specifically in their
+local area. The creators of this experience believe that through this temporal reorientation, the
+participants will be inspired to engage in positive action [Martynski, 2021, p. 115]. Given that the
+walk is intended to provoke an emotional reaction from the participants, it is an approach that is
+meant to provide hope and encourage them to take responsibility and act [Deep Time Walk C.I.C,
+2018].
+Theuseofanimation,in PranatamangsaAR ,forexample,isincreasinglydoneinsciencecommuni-
+cation to present complex phenomena and temporal processes or historical and future temporalities
+[Leslie and McKim, 2017, p. 208, 211]. Hand-drawn animations have been found to support personal
+engagement and, consequently, a better understanding of abstract concepts, such as long-term
+changes in the environment [Raupach, 2018a]. Emotion is an important aspect in this case, as it
+passes through the virtual and physical layers and weaves them together [Roquet, 2016, p. 240].
+Considering that the emotional side of technologies such as these is critical, it presents a signif-
+icant strategy for science communication that can be used to engage the public in supporting
+initiatives against climate change [Raupach, 2018a]. Each animated frame in Pranatamangsa AR
+is a compressed time period and, when these frames are put together, these various periods of
+time are distributed sequentially. These properties of compression and distribution are valuable for
+articulating the themes these animations address [Raupach, 2018a].
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:33
+6.4.3 SearchingforSignsofLife. Two artworks distinguish specific ideas on animacy. teamLab’s
+work has multiple installations that portray nature as living through digital materials, such as
+Universe of Water Particles on a Sacred Rock [teamLab, 2017d], which is a mixed-reality installation
+that gives a sense of animacy to the rock, as if it has been “ woken up from a long sleep ” [Li,2020,
+p. 71]. Similarly, in the Resonating Mt. Mifuneyama installation, the mountain is lit up and shines
+brightly; then slowly, the light fades, as if the mountain is breathing [teamLab, 2018]. As visitors
+move through the exhibition, many installations come to life and bring the various natural forms
+into focus [Lee, 2022, p. 155]. This exhibition can be said to follow a traditional Japanese belief that
+has existed at Mifuneyama for a long time, Shintoism, in which spirits or deities inhabit various
+natural forms such as mountains, trees, rivers and waterfalls [Li, 2020, p. 69]. Thus, the use of light
+in the installations is a reminder of this belief, enhancing the animacy of both the artwork and the
+natural form.
+Similarly, Deep Time Walk supports the Gaia hypothesis, developed by James Lovelock [Lovelock
+1972],whichstatesthattheEarthcanbeconsidered,inacertainway,aliveduetotheself-regulating
+feedback between various natural forms such as rocks, the atmosphere and water. These feedbacks
+point to how the Earth has remained suitable for life throughout geological time. Through this
+work, we are thus encouraged to develop a “ deep Gaia consciousness ” [Media, 2017], which involves
+seeing the Earth as a living organism; this is presented as a necessary step towards dealing with
+the environmental crisis. The app thus acts as a tool to remediate this disassociation between our
+“animal body and the animate earth ” [Opus Earth, 2017]. There are many aspects in the design of
+Deep Time Walk that frame the Earth as a living organism, such as using expressions like “ living
+Earth” and “our planet evolved ”, addressing the Earth as “ lady Gaia ”, and using the pronoun she
+to personify the Earth [Stibbe, 2020, p. 200]. “ The Earth is you and you are the Earth ” is expressed
+during the narration, which builds towards a “ planetary ecological identity ” [Stibbe, 2020, p. 200] in
+which humans are part of the living organism called the Earth; this communicates that by harming
+this organism, we are harming ourselves.
+TheseartworkscontrastwithinvestigationswithinHCI,whichhaveprimarilyfocusedonhuman
+experiences separate from nature, as many environmental disruptions are too complex to be
+reduced to human frameworks of time, e.g., calendars and clocks. Once we step away from the
+dual representation of time as either objective or experiential, we can observe how other aspects
+of time take shape. This is pivotal within the artworks analysed, where extending the dimensions
+of time means moving beyond a techno-centric and anthropocentric perspective to one in which
+a multitude of timescales co-exist and interact, such as ecological and long-term timescales that
+include those of us in the now and future generations [Rahm-Skågeby and Rahm, 2022]. Taking
+such a stance with the concept of time deconstructs the notion of ‘human exceptionalism’ that
+further creates a gap between nature and culture, emphasising nonhumans’ role and agency in
+building our worlds [Latimer and Miele, 2013].
+Thus, rather than taking an apolitical stance, these projects follow a temporal gaze [Adam,2000],
+i.e., they examine worlds through time and temporality in the context of environmental disruptions.
+Such an approach is fundamental for cultivating attunement to these changes and finding ways to
+prevent harmful occurrences through time, care and attention. Notions of time are, for instance,
+fundamental to experiences of breakdown, maintenance and repair and how these can help us
+rethink the relationship between technology and material contexts [Jackson, 2016].
+7 Discussion
+In the previous section, we presented how the ten artworks intervene in posthumanist discourses,
+specifically discussing unmaking normative constructions of time and aligning with ideas of
+pluralism, entanglement, and the ‘other’. The variety in how these artworks have materially
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:34 P.Ciobanu and Y.Fernaeus
+presented more-than-human temporal reimaginings highlights the creative potential for further
+investigations of the posthuman discourse on time in HCI. This section will discuss the four
+conceptualisations of unmaking. We will also reflect on challenges and opportunities for HCI as it
+converges towards unmaking and the more-than-human.
+7.1 The Turn Towards Unmaking
+The ten artworks are, although they are fundamentally different in form, all concerned with
+changing perspectives, presenting new ideas and contrasting with the more romantic and nostalgic
+explorations of time in HCI [see Spence et al., 2022], as well as with more utilitarian investigations
+of usability and sustainability [e.g., Bowler et al., 2022; Rahm-Skågeby and Rahm, 2022]. They also
+seemed to dismiss existing or conventional representations of time in various ways, providing
+alternatives that include otherwise invisible temporalities. The interest in unpacking the topic of
+time aligns with increasing concerns about how environmental disruptions affect humans and
+natural ecosystems. This is a challenge for artists and interaction designers alike, but here we see
+how the artists have deemed it necessary to explore different strategies to construct temporal
+expressions.Byrethinkingthetraditionalwaysofmakingtime,theartistsdecentretheconventional
+human ways of knowing time, being in time and designing tools for making time.
+In reference to categories defined by Sabie et al. [ 2022b], we view the artists’ work as a blend
+between unmaking as resistance andunmaking as material innovation . All the selected media
+art projects resist the normative concepts of time, specifically clock time and human-centred
+temporalities. Their assortment of temporalities spans human to nonhuman living beings and
+technologies. They present novelty in their use of a variety of materials that are otherwise unusual
+for common time-telling devices: tangible materials, such as the ribbons in Unequal Hours ; digital
+materials, such as the extensive data used in The Room of Change ; the nature and ruins in a
+natural park in A Forest Where Gods Live ; and various plant specimens pressed into powder
+form in Allochronic Cycles . Following the analysis, we conceptualised four individually distinct
+themes concerning how unmaking became delineated. The four themes were as follows: dissecting
+temporality ,the unmaking of the singular ,unmaking as messing up andunmaking the other . They
+follow a more relational reconstruction, in which standard tools and perceptions of time are
+positioned at a similar level to the alternatives rather than above all the alternatives. This approach
+alignswithposthumanthinkingandthemore-than-humanturningeneral,whichpresentsaswitch
+from a human-centred perspective to a relational perspective, where there is no centre [Liu, 2020;
+Poikolainen Rosén, 2022].
+When the pluralistic qualities of time are neglected, this excludes “ certain practices, individuals,
+and natures, and supports the dominance of others ” [Pschetz, 2015]. In addition to representing
+timescales that are other-than-clock time, through the theme of dissecting temporality , we observed
+how these artworks exemplify various alternatives for engaging and unravelling other-than-human
+timescales. In tune with the proposal of temporal design [Pschetz and Bastian, 2018], the art cases
+recognised the value in exploring alternative temporalities, especially when approaching the
+complex challenge of climate change. On the path of deconstructing temporal multiplicity, these
+worksexposehow‘thehuman’issituatedina“ multispecies affair ”inwhichallcreatureshavearole
+in sustaining livability [Tsing, 2017]. They materially construct possibilities for understanding and
+viewing time differently to redirect the normative human-centred realities towards a considerate
+and thoughtful communion with nature.
+The second theme of unmaking the singular embraces plurality, which implies that situated
+knowledge takes up space and that we do so from a certain standpoint when making knowl-
+edge. When multiple perspectives are combined, we reach a stronger understanding of the world.
+Transitioning from the singular to a plural perspective acknowledges a wide variety of similarly
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:35
+valuable ways to examine reality. This aligns with the tension between defuturing , in which the
+modern unsustainability that shatters possible futures is considered, and futuring , which presents
+the possibility of having a plurality of futures, which Fry uses as an argument to move towards
+sustainment that would allow for these multiple futures, i.e., thinking, doing, being, to exist: “ while
+the planet is singular, world is plural—for it is formed and seen in difference—as are we ” [Fry,2014].
+More than that, we consider how the artworks, while they are different in various ways, are still
+connected in terms of materials, representation, or experience when engaging with pluralism, thus
+following Escobar’s concept of the pluriverse as a “ world where many worlds fit ” [Escobar, 2018].
+Specifically, they possess the fractalquality of the pluriverse: “ anywhere you look at it, and at any
+scale, you find similar (yet not the same) configurations, meshes, assemblages … that is, the pluriverse ”
+[Escobar, 2018, p. 257].
+For the theme of unmaking as messing up , we unravelled connections of knowledge, approaches,
+and relations of a more-than-human nature. We understand entanglements, as explained by Barad,
+as “not intertwinings of separate entities, but rather irreducible relations of responsibility ” [Barad,
+2010]. For example, while Unequal Hours materially entangles clocks, the temporalities embedded
+into each clock are dissimilar. The clocks that are connected to each other are entangled through
+relations of “‘self’ and ‘other,’ ‘past’ and ‘present’ and ‘future,’ ‘here’ and ‘now,’ ‘cause’ and ‘effect’ ”
+[Barad,2010]. Some artworks presented a physical and tangible form of such entanglements. This
+wasexplicitlyshownin UnequalHours ,withthephysicaltensionsofribbonsrepresentingthepower
+of certain timescales over others. These also represented co-dependencies through the connections
+of clocks with the tangled ribbons. The possibility of the ribbons getting tangled to the extent that
+the clocks stop moving is analogous to how various environmental processes become disarranged
+by environmental disruptions. Other cases, such as Deep Time Walk , bound the entire experience
+with the artwork to show how these relationships and dependencies have been built.
+The final theme of unmaking the other followed the understanding of entanglements from Barad,
+with ‘otherness’ understood as an “ entangled relation of difference ” [Barad, 2010], which points to
+how beings are distinct while remaining connected. We thus engaged with unmaking the ‘other’ by
+presenting how seemingly separate perspectives, materials, and beings collectively create realities
+that are more than the sum of their parts. This aligns with Laurel’s proposals of “ Technology is not
+the other ” and “Nature is not the other ” for a Gaian IxD based on a perspective that at every scale,
+the systems that sustain life, both biological and technological, are interrelated [Laurel, 2011].
+While unmaking can be violent and destructive, we view the artworks as presenting a gentle
+unmaking : rather than removing, they question, dissect, and present alternatives. For example, in
+pieces such as Unequal Hours ,Allochronic Cycles ,Pranatamangsa AR ,Deep Time Walk , andThe
+Room of Change , human timescales are a component of the artwork; they are represented through
+clocks of the rhythms of the human body, the Anthropocene as a division of a disc, agricultural
+activities in ecological calendars, the time that Homo Sapiens has been on Earth, and society as a
+data visualisation topic, respectively. What is more, The Present is introduced as a ‘complementary
+addition’ to existing clock time artefacts rather than a replacement. For this reason, the works
+may initially seem apolitical, yet they appear to purposefully muddythe discourse on time. As
+we mentioned before, understandings of time, like clock time, are presented in a clean, objective,
+andnon-muddy manner, detached from the material and experiential aspects of the world. Such a
+perspective is harmful, as it perpetuates possibilities that can only be perceived and understood
+through this singular lens. Despite the seemingly untroubled aesthetics of the artworks, they
+materially or conceptually engaged with the muddiness andmessiness that result from unmaking.
+Materially, this is exemplified through embodied and immersive experiences like Deep Time Walk
+andA Forest Where Gods Live that call for engagement that is more unpredictable and unstructured,
+as the natural spaces affect the experience, or through the literal use of plant species turned to
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:36 P.Ciobanu and Y.Fernaeus
+powder to represent the “ dust of the cosmos ” for the disc presenting the cycle of the cosmos in
+Allochronic Cycles . Conceptually, the four themes indicate that the different forms of unmaking
+aim to muddle, entangle, and complicate within the more-than-human agenda.
+7.2 Challenges and Opportunities for HCI
+The two intersecting fields of HCI and media art are interdisciplinary and multidisciplinary and
+very much so by nature. Competing research interests often need to be “ backed by other subject
+specialist areas such as fine art, technology, anthropology, computing and economics ” [Dykes et al.,
+2009]. Each analysed artwork can be seen to represent a collaboration between the art, science, and
+technology disciplines. In this case, the fields are challenged by the “ translational ” work [Giannachi,
+2012] needed to transfer the practice or concept from one discipline to another. According to Rapp
+et al. [2022], much of the work in HCI on time makes use of theoretical frameworks that originated
+in other fields, but the theory is either only partly applied or important insights are ‘lost’ during
+the transfer. Following the media art cases presented in this paper, we see how each work stems
+from a particular idea of time, with specific material expressions developing from there. This is
+perhaps most explicit in the naming of the artworks, e.g., Allochronic Cycles ,Unequal Hours ,The
+Present,Deep Time Walk , andThe Phenology Clock . We see how further research could benefit from
+taking a diffractive [Barad, 2007] approach in which the theoretical starting point superimposes
+a collection of interactive designs, and by analysing its diversity, we can address the emerging
+patterns of difference [Britton et al., 2019].
+Another notable aspect to those working in HCI is the development of a “ a posthumanist
+sensibility ” [Rahm-Skågeby and Rahm, 2022]. This argues for a move from the self to a collective
+experience and social and environmental commitments. The co-founder and executive director of
+Deep Time Walk , Robert Woodford, acknowledges that the individual character of the experience
+somewhat contradicts the long-term goal of the project [Martynski, 2021, p. 139]. Similarly, The
+Present - Year indicates a holistic view of time that aims to resemble changes determined by nature
+whilealso,throughtheembodimentofaclock,pointingtotheindividualinrelationtothecollective.
+Thus, this functioning artwork presented alternatives within the realm of time-keeping rather
+than explicitly focusing on social togetherness. The collective quality emerges when communities
+organise deep time walks or when The Present clocks stir conversations when they are noticed by
+others. The Phenology Clock is proposed to be introduced to communities as an activity to allow
+them to learn about their local urban species and attune to the temporalities within that place.
+From an HCI perspective, a reflection concerning this could be developing designs that inherently
+require a social aspect rather than being introduced to an existing community. Regarding the social
+as inherent to any interactive experience is thus an important reflection obtained from analysing
+these media artworks, which may also bring value to interaction design more broadly.
+OneparticularconnectiontocontemporaryHCIdiscourseishowtheworksrepresentatransition
+from concern to action. Having a perspective different from human exceptionalism is associated
+with a relationship with the natural world that is less exploitative and instrumentative. However,
+ecocriticism reminds us to be mindful that a reformed perspective is insufficient to drive action
+towards a more environmentally and socially just future or to adjust our ways of living to be more
+in tune with nature [Clark, 2015, p. 18]. Nevertheless, we unpacked how the artworks supported
+beliefs in various ways. In addition to providing a rethinking of time, the pieces pointed towards
+nature-culture interdependencies in Keeping Time , local natural patterns in The Phenology Clock ,
+the various entanglements between humans and their natural environments in The Room of Change ,
+and connections of the past, present, and future between human and geological timescales in Deep
+Time Walk . Furthermore, Deep Time Walk used a creative approach to present how we are all
+“part of a wider web of sacred life ”, seeing the Earth as an extension of our bodies with whom we
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:37
+symbiotically cohabitate [Mowe, 2017] rather than a suggestion of human exceptionalism [Deep
+Time Walk C.I.C, 2018].
+While designs that support reflection and change our self-understanding as agents are relevant,
+there is a need for designs that can shift our behaviour and how we interact with the world in
+practice. One way to do this is through roadmaps that provide instructions on how to take action,
+as inDeep Time Walk ’s ‘What’s Next?’ Another strategy is that of transitional arts practice [Neal,
+2016],whichisbuilton“ the experience of artistic practice in the context of current global challenges, to
+make collective space to create a new narrative of change ”; this could take the form of designed tools
+and other resources. This is thus an opportunity to create geographically specific and culturally
+nuanced designs. For example, The Present - Year could be personalised to the characteristics of the
+seasons in a specific part of the world, considering that many ‘deviations’ from the standard ‘four
+seasons’ exist. Designs can also include functionalities that connect people to their local groups,
+such as in Deep Time Walk ; with these groups, they can access tools and resources to act and apply
+unharmful practices. To support networks and relations on broader and global levels, these designs
+could also include options for sharing, such as taking a walk through deep time with a far-away
+friend, following the phenology clock of your native land, or creating physical entanglements of
+the human and nonhuman temporalities that we encounter throughout our lives. Other alternatives
+could be creating discursive objects meant to be experienced with others, whether this occurs in an
+exhibition setting or in other types of locations.
+Unlocking the creative potential through artistic practice is currently linked to “ reconnecting
+with our deep nature of creative beings by urgency” [Deep Time Walk C.I.C, 2017a]. Taking creative
+pathways allows various dialogues to take place and, as a result, become a site of transformation
+[Martynski, 2021, p. 179]. This creative engagement with challenges, such as the impact of the
+Anthropocene on the Earth, contrasts with more didactic approaches that focus on teaching and
+persuasion, which have been shown to have a low effect in terms of engaging or moving audiences
+[Crossick and Kasznska, 2016, p. 65]. Considering that through imagination, we can envision
+possible futures and find ways to make these futures happen, the ideas and stories disseminated
+in relation to climate change affect how we approach this challenge. Various media can be used
+to give form to and creatively tell a story. This brings opportunities to uncover abstract notions
+of time that are usually left undetected but are nevertheless essential to understand. This is the
+case when one uses the type of technology that helps bridge the gap between virtual and natural
+environments and supports a more immersive experience for the visitors [Lee, 2022, p. 155], as in A
+Forest Where Gods Live . With virtual environments becoming increasingly realistic, the embodied
+interaction can further impact and shape the experience [Li, 2020, p. 79]. In combination with
+specific events/stories, it is also a great example of connecting bigger and smaller dimensions for
+us to relate to each other. The concept of an ‘art exhibition’ is also an exciting example of embodied
+interaction, especially in mixed-reality environments in which “ the sensual qualities of a real nature
+and the steerable ones of a digitized nature ” are simultaneously present [Li, 2020, p. 79]. Animation
+can also draw attention to the “ unpredictable and unobservable aspects of environmental change
+that is spatially and temporally distant from everyday life ” [Raupach, 2018a], as inPranatamangsa
+AR. As it brings out these alternative temporalities and clears certain abstract notions of time, it
+becomes a relevant tool for various scientific disciplines that require forms of representing change
+and transformation, e.g., climate science [Society for Animation Studies Conference, 2018, p. 112].
+8 Conclusions
+Wehavepresentedananalysisofaselectionoftenmediaartworksconcernedwiththeunmakingor
+deconstruction of established notions of time and temporality. The artworks are analysed in align-
+ment with contemporary theories in posthuman discourses, highlighting their explicit engagement
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:38 P.Ciobanu and Y.Fernaeus
+with notions of plurality, entanglement, bodies, and materiality. We conceptualised four themes
+through which unmaking was represented in these contexts: dissecting temporality ,the unmaking
+of the singular ,unmaking as messing up , andunmaking the other . We see several implications or
+ways that this analysis could inspire interaction designers. First, transitioning from the singular
+perspective to a plural perspective of time acknowledges a wide diversity of ways to examine
+reality beyond what is standard or provided in a given material context, welcoming alternatives
+suited for specific places, uses, or cultures. Second, entanglement points to time as relational, social,
+and interconnected, a perspective from which many promising design projects could evolve. Third,
+presenting how seemingly separate perspectives, doings, and beings collectively create realities
+opens up broader notions of what or who is included as a user or actor in a designed system. Finally,
+the analysis emphasises how the artworks materially illustrate possibilities for understanding
+and viewing time differently, thereby deconstructing established forms of representing tempo-
+rality. However, rather than being violent and destructive or fundamentally disrupting existing
+systems or representational forms, the selected artworks represented a gentle unmaking , focusing
+on adding, questioning, or presenting alternatives. Nevertheless, as with the process of unmaking,
+an inevitable deliberate and desired mess happens as a result. Considering how unmaking aims to
+muddle binaries and harmful standards within the posthuman discord, the selected artworks aim to
+do the same. They purposefully make a mess out of the clear and structured world created by clock
+time, with the four themes representing how unmaking emerges. We thus see several opportunities
+for HCI based on the above study, in terms of both concrete design inspiration and theoretical
+implications. We derive from the media artworks theoretical beginnings that are different from the
+norm, i.e. phenology instead of clock time, that generate an array of designs that can provide the
+alternatives called for to further advance HCI work on time and posthumanism. These alternatives
+should be situated in time and place, include practices that do not harm nature, support immersive
+experiences,andconnectuserstolocalgroupswheretheworkcanbefurtherdeveloped.Challenges
+remain regarding how to bring forth inherent social qualities, focus more on the collective than on
+the individual, and shift from concern to action.
+Acknowledgements
+We want to thank all the artists and art collectives that gave us permission to present their work
+and use it for developing this article: teamLab, Cesar & Lois, Robert Woodford, Tega Brain, Jem
+Finer and the trustees at Longplayer, Anna Madeleine Raupach, Scott Thrift, and Giorgia Lupi. We
+also want to thank the anonymous reviewers for their invaluable comments that helped sharpen
+and improve this article, Karey Helms and Oskar Juhlin for input on earlier versions of the article,
+and the special issue co-editor Ron Wakkary.
+References
+Danah Abdulla. 2018. Design Otherwise: Towards a Locally-Centric Design Education Curricula in Jordan . Ph. D. Dissertation.
+Goldsmiths, University of London. Retrieved from https://research.gold.ac.uk/id/eprint/23246/
+Accurat. 2019a. Broken Nature Portrait #3: Accurat—The Room of Change. Retrieved June 22, 2023 from http://www.
+brokennature.org/broken-nature-portrait-3-accurat-the-room-of-change/
+Accurat. 2019b. The Room of Change. Retrieved June 23, 2023 from https://change.triennale.org/
+Barbara Adam. 2000. The temporal gaze: The challenge for social theory in the context of GM food. British Journal of
+Sociology 51, 1 (2000), 125–142. DOI:https://doi.org/10.1111/j.1468-4446.2000.00125.x
+Christina Agapakis. 2015. Conversations with Natalie Jeremijenko. Retrieved June 18, 2023 from http://www.
+methodquarterly.com/2015/02/conversations-with-natalie-jeremijenko/
+Stacy Alaimo. 2018. Trans-corporeality. Posthuman Glossary . Rosi Braidotti and Maria Hlavajova (Eds.), Bloomsbury
+Publishing Plc, 435–438.
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:39
+Simone Ashby, Julian Hanna, Sónia Matos, Callum Nash, and Alexis Faria. 2019. Fourth-wave HCI meets the 21st century
+manifesto. In Proceedings of the Halfway to the Future Symposium (HTTF ’19) . ACM, New York, NY, Article 23, 11 pages.
+DOI:https://doi.org/10.1145/3363384.3363467
+Fredrik Aspling, Jinyi Wang, and Oskar Juhlin. 2016. Plant-computer interaction, beauty and dissemination. In Proceedings
+of the Third International Conference on Animal-Computer Interaction (ACI ’16) . ACM, New York, NY, Article 5, 10 pages.
+DOI:https://doi.org/10.1145/2995257.2995393
+Karen Barad. 2007. Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning . Duke
+University Press.
+Karen Barad. 2010. Quantum entanglements and hauntological relations of inheritance: Dis/continuities, spacetime enfold-
+ings, and justice-to-come. Derrida Today 3, 2 (2010), 240–268. DOI:https://doi.org/10.3366/drt.2010.0206
+Jeffrey Bardzell. 2009. Interaction criticism and aesthetics. In Proceedings of the SIGCHI Conference on Human Factors in
+Computing Systems (CHI ’09) . ACM, New York, NY, 2357–2366. https://doi.org/10.1145/1518701.1519063
+Jeffrey Bardzell. 2011. Interaction criticism: An introduction to the practice. Interacting with Computers 23, 6 (07 2011),
+604–621. DOI:https://doi.org/10.1016/j.intcom.2011.07.001
+Jeffrey Bardzell, Shaowen Bardzell, and Ann Light. 2021. Wanting to live here: Design after anthropocentric functionalism.
+InProceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21) . ACM, New York, NY, Article
+293, 24 pages. DOI:https://doi.org/10.1145/3411764.3445167
+Shaowen Bardzell. 2010. Feminist HCI: Taking stock and outlining an agenda for design. In Proceedings of the SIGCHI
+Conference on Human Factors in Computing Systems (CHI ’10) . ACM, New York, NY, 1301–1310. DOI:https://doi.org/10.
+1145/1753326.1753521
+Sara Barnes. 2016. Soothing 24-Hour Clock Without Numbers Tracks Your Day By the Colors of the Sky. Retrieved June 24,
+2023 from https://mymodernmet.com/today-24-hour-clock?context=tag-scott+thrift
+Michelle Bastian. 2009. Inventing nature: Re-writing time and agency in a more-than-human world. Australian Humanities
+Review47 (2009), 99–116.
+Michelle Bastian. 2012. Fatally confused: Telling the time in the midst of ecological crises. Environmental Philosophy 9, 1
+(2012), 23–48. Retrieved from http://www.jstor.org/stable/26169394
+Eric P. S. Baumer, Vera Khovanskaya, Mark Matthews, Lindsay Reynolds, Victoria Schwanda Sosik, and Geri Gay. 2014.
+Reviewing Reflection: On the Use of Reflection in Interactive System Design. In Proceedings of the 2014 Conference on
+Designing Interactive Systems (DIS ’14) . ACM, New York, NY, 93–102. DOI:https://doi.org/10.1145/2598510.2598598
+FionaBell,JoshuaCoffie,andMirelaAlistar.2024.Bio-digitalcalendar:Attuningtononhumantemporalitiesformultispecies
+understanding. In Proceedings of the 18th International Conference on Tangible, Embedded, and Embodied Interaction (TEI
+’24). ACM, New York, NY, Article 38, 15 pages. DOI:https://doi.org/10.1145/3623509.3633386
+Marcia Bjornerud. 2018. Timefulness . Princeton University Press, Princeton. DOI:https://doi.org/10.23943/9780691184531
+Lisa E. Bloom and Elena Glasberg. 2012. Disappearing ice and missing data: Climate change in the visual culture of the
+polar regions. In Far Field:Digital Culture, Climate Change, and the Poles (1st. ed.). Jane D. Marsching and Andrea Polli
+(Eds.), Intellect, 117–142. Retrieved from http://www.jstor.org/stable/j.ctv36xvvpb.10
+Susanne Bødker. 2006. When second wave HCI meets third wave challenges. In Proceedings of the 4th Nordic Conference on
+Human-Computer Interaction: Changing Roles (NordiCHI ’06) . ACM, New York, NY, 1–8. DOI:https://doi.org/10.1145/
+1182475.1182476
+Ryan David Bowler, Benjamin Bach, and Larissa Pschetz. 2022. Exploring uncertainty in digital scheduling, and the wider
+implications of unrepresented temporalities in HCI. In Proceedings of the Conference on Human Factors in Computing
+Systems (CHI ’22) . ACM, New York, NY, Article 140, 12 pages. DOI:https://doi.org/10.1145/3491102.3502107
+Andrew Boyd and Dave Oswald Mitchell. 2012. Beautiful Trouble: A Toolbox for Revolution . OR Books. Retrieved from
+http://www.jstor.org/stable/j.ctt1bkm5nd
+Kimberly Bradley. 2019. The End Is Nigh. Can Design Save Us? Retrieved June 18, 2023 from https://www.nytimes.com/
+2019/03/20/arts/design/milan-triennial-restorative-design.html
+Rosi Braidotti and Maria Hlavajova. 2018. Posthuman Glossary . Bloomsbury Publishing.
+Tega Brain. 2011. The Phenology Clock. Retrieved February 24, 2021 from http://www.tegabrain.com/The-Phenology-Clock
+Tega Brain. 2013. Keeping Time (Phenology Studies). Retrieved February 24, 2021 from http://www.tegabrain.com/Keeping-
+Time
+TegaBrain.2017.Data&SocietyDatabite#102:TheEntropyofaSystem.RetrievedJune16,2023from http://opentranscripts.
+org/transcript/entropy-of-a-system/
+Tega Brain. 2019. New phenologies. UnBag Magazine (2019). Retrieved from https://unbag.net/in-tension/new-phenologies/
+James Bridle. 2015. Longplayer: The App That Lets You Listen to a 1,000-Year-Long Song. Retrieved June 11, 2023
+fromhttps://www.theguardian.com/music/2015/jun/22/longplayer-iphone-app-by-jem-finer-pogues-puts-millennial-
+time-in-your-pocket
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:40 P.Ciobanu and Y.Fernaeus
+Loren Britton, Goda Klumbyte, and Claude Draude. 2019. Doing thinking: Revisiting computing with artistic research and
+technofeminism. Digital Creativity 30, 4 (2019), 313–328. DOI:https://doi.org/10.1080/14626268.2019.1684322
+Barry Brown, Alex S. Taylor, Shahram Izadi, Abigail Sellen, Joseph Jofish’ Kaye, and Rachel Eardley. 2007. Locating family
+values: A field trial of the whereabouts clock. In Ubiquitous Computing (UbiComp ’07) . John Krumm, Gregory D. Abowd,
+Aruna Seneviratne, and Thomas Strang (Eds.), Springer, Berlin, 354–371.
+Stephen Cairns and Jane M. Jacobs. 2014. Buildings Must Die: A Perverse View of Architecture . MIT Press, Cambridge,
+Massachusetts.
+DanielleCelermajer,DavidSchlosberg,LaurenRickards,MakereStewart-Harawira,MathiasThaler,PetraTschakert,Blanche
+Verlie, and Christine Winter. 2021. Multispecies justice: Theories, challenges, and a research agenda for environmental
+politics. Environmental Politics 30, 1–2 (2021), 119–140. DOI:https://doi.org/10.1080/09644016.2020.1827608
+Cesar and Lois. 2021. Allochronic Cycles. Retrieved March 22, 2021 from http://cesarandlois.org/allochronic-cycles/
+Matthew Chalmers and Areti Galani. 2004. Seamful Interweaving: Heterogeneity in the theory and design of interactive
+systems.In Proceedings of the 5th Conference on Designing Interactive Systems: Processes, Practices, Methods, and Techniques
+(DIS ’04) . ACM, New York, NY, 243–252. DOI:https://doi.org/10.1145/1013115.1013149
+Joep Christenhusz. 2021. Soundings of ecological time in contemporary music and sound art. APRIA Journal 3, 2 (2021),
+143–153.
+Patricia Ciobanu and Oskar Juhlin. 2022. Me, the hill and my browser – Investigating the role of time in posthuman
+interaction. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI ’22) . ACM, New York, NY,
+Article 71, 12 pages. DOI:https://doi.org/10.1145/3546155.3546651
+Timothy Clark. 2015. Ecocriticism on the Edge: The Anthropocene as a Threshold Concept . Bloomsbury Publishing.
+Revital Cohen. 2008. Artificial Biological Clock. Retrieved March 26, 2023 from https://www.moma.org/learn/moma_
+learning/revital-cohen-artificial-biological-clock-2008/
+Aykut Coskun, Nazli Cila, Iohanna Nicenboim, Christopher Frauenberger, Ron Wakkary, Marc Hassenzahl, Clara Mancini,
+Elisa Giaccardi, and Laura Forlano. 2022. More-than-human concepts, methodologies, and practices in HCI. In Extended
+Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI EA ’22) . ACM, New York, NY, Article
+150, 5 pages. DOI:https://doi.org/10.1145/3491101.3516503
+Paul Coulton and Joseph Galen Lindley. 2019. More-than human centred design: Considering other things. The Design
+Journal 22, 4 (2019), 463–481. DOI:https://doi.org/10.1080/14606925.2019.1614320
+Christoph Cox. 2021. Sound art and time. In The Oxford Handbook of Sound Art . Jane Grant, John Matthias, and David Prior
+(Eds.), Oxford University Press. DOI:https://doi.org/10.1093/oxfordhb/9780190274054.013.8
+Geoffrey Crossick and Patrycja Kasznska. 2016. Understanding the value of arts and culture: The AHRC Cultural Value
+Project. https://apo.org.au/node/199546
+Denise Curi. 2017. Deep Time Walk: A Powerful Tool To Connect With Life’s Story. Retrieved June 23, 2023 from https:
+//www.educationthatinspires.ca/2017/09/27/deep-time-walk-a-powerful-tool-to-connect-with-lifes-story/
+Deep Time Walk C.I.C. 2016. Who Knows What Ancient Memory You Might Not Jostle in Your Own Strata? Retrieved June
+18, 2023 from https://www.deeptimewalk.org/blog/deep-time-walk-script-knows-ancient-memory-drop-first-rain-whiff-
+primordial-sulphur-might-not-jostle-strata/
+Deep Time Walk C.I.C. 2017a. Deep Time Walk. Retrieved June 10, 2023 from https://www.deeptimewalk.org/
+Deep Time Walk C.I.C. 2017b. Deep Time Walk App. Retrieved June 15, 2023 from https://www.deeptimewalk.org/kit/app/
+Deep Time Walk C.I.C. 2017c. Deep Time Walk Wins Best Mobile App Award for Design. Retrieved June 10, 2023 from
+https://www.deeptimewalk.org/blog/deep-time-walk-wins-best-mobile-app-award-design/
+Deep Time Walk C.I.C. 2017a. Deep Time Walk – A Walking App Made with Art and Science. Retrieved June 17, 2023 from
+https://www.deeptimewalk.org/blog/deep-time-walk-walking-app-made-art-science/
+Deep Time Walk C.I.C. 2017b. Education That Inspires – Deep Time Walk in Action. Retrieved June 17, 2023 from
+https://www.deeptimewalk.org/blog/education-inspires-deep-time-walk-action/
+Deep Time Walk C.I.C. 2017. Project History. Retrieved June 10, 2023 from https://www.deeptimewalk.org/about/history/
+Deep Time Walk C.I.C. 2018. Walk a New Story – Encouraging Positive Action. Retrieved June 15, 2023 from https:
+//www.deeptimewalk.org/blog/walk-new-story/
+Deep Time Walk C.I.C. 2021a. Deep Time Walk Global Wave for #COP26 Talks. Retrieved June 18, 2023 from https:
+//www.deeptimewalk.org/blog/global-wave-of-deep-time-walks-for-cop26-talks/
+Deep Time Walk C.I.C. 2021b. New Resources Released: Earth Stations and Holding Space. Retrieved June 16, 2023 from
+https://www.deeptimewalk.org/blog/two-new-community-resources-announced-earth-stations-and-holding-space/
+Deep Time Walk C.I.C. 2022a. Deep Time Cards: Unpack a History of our Earth. Retrieved June 23, 2023 from https:
+//www.deeptimewalk.org/kit/cards/
+Deep Time Walk C.I.C. 2022b. Deep Time Walk - Audiobook of Earth History. Retrieved June 23, 2023 from https://www.
+deeptimewalk.org/kit/audiobook/
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:41
+Deep Time Walk C.I.C. 2022. Deep Time Walk App Script. Retrieved June 17, 2023 from https://www.deeptimewalk.org/kit/
+script/
+Paul Dourish. 2010. HCI and environmental sustainability: The politics of design and the design of politics. In Proceedings of
+the 8th ACM Conference on Designing Interactive Systems (DIS ’10) . ACM, New York, NY, 1–10. DOI:https://doi.org/10.
+1145/1858171.1858173
+Perrin Drumm. 2016. Want to be More Productive? Stop Telling Time with Numbers. Retrieved June 23, 2023 from
+https://eyeondesign.aiga.org/want-to-be-more-productive-stop-telling-time-with-numbers/
+Michael Duggan and Cristina Goldschmidt Kiminami. 2021. Reflecting on locative media art with Fred Adam and Geert
+Vermeire. Livingmaps Review 10 (2021), 1–30.
+Thomas H. Dykes, Paul A. Rodgers, and Michael Smyth. 2009. Towards a new disciplinary framework for contemporary
+creative design practice. CoDesign 5, 2 (2009), 99–116. DOI:https://doi.org/10.1080/15710880902910417
+Tim Edensor. 2010. Walking in rhythms: Place, regulation, style and the flow of experience. Visual Studies 25, 1 (2010),
+69–79.DOI:https://doi.org/10.1080/14725861003606902
+Ernest Edmonds. 2018. The Art of Interaction: What HCI Can Learn from Interactive Art . Springer International Publishing.
+DOI:https://doi.org/10.1007/978-3-031-02222-7
+Arturo Escobar. 2018. Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds . Duke
+University Press.
+Giuseppe Feola. 2019. Degrowth and the unmaking of capitalism: Beyond ’decolonization of the imaginary’? ACME: An
+International Journal for Critical Geographies 18, 4 (Sep. 2019), 977–997. Retrieved from https://acme-journal.org/index.
+php/acme/article/view/1790
+Ylva Fernaeus and Andreas Lindegren. 2023. Celebration of finitude as a post-industrial aesthetics of interaction. In
+Proceedings of the 9th Computing within Limits 2023 .LIMITS,1–6.Retrievedfrom https://limits.pubpub.org/pub/6evzp3qz .
+Jem Finer. 1999. Longplayer . Retrieved March 26, 2023 from https://longplayer.org/
+Laura Forlano. 2016. Decentering the human in the design of collaborative cities. Design Issues 32, 3 (Aug. 2016), 42–54.
+DOI:https://doi.org/10.1162/DESI_a_00398
+The Long Now Foundation. 1999. The Clock of the Long Now. Retrieved March 26, 2023 from https://longnow.org/clock/
+Christopher Frauenberger. 2019. Entanglement HCI the next wave? ACM Transactions on Computer-Human Interaction
+(TOCHI) 27, 1 (Nov. 2019), Article 2, 27 pages. DOI:https://doi.org/10.1145/3364998
+Tony Fry. 2003. Why philosophy?: The voice of sustainment. Design Philosophy Papers 1, 2 (2003), 83–90. DOI:https:
+//doi.org/10.2752/144871303X13965299301713
+Tony Fry. 2008. Design Futuring: Sustainability, Ethics and New Practice . Bloomsbury Academic, Oxford, New York.
+Tony Fry. 2014. City Futures in the Age of a Changing Climate . Taylor & Francis.
+Verena Fuchsberger, Martin Murer, and Manfred Tscheligi. 2015. Time and design: Seven sensitivities. In Proceedings of the
+Ninth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’15) . ACM, New York, NY, 581–586.
+DOI:https://doi.org/10.1145/2677199.2687911
+Zhang Ga. 2021. AI Delivered: The Abject and Redemption. Retrieved June 11, 2023 from https://www.cafa.com.cn/en/
+research/details/8330892
+Diego Galafassi, Sacha Kagan, Manjana Milkoreit, María Heras, Chantal Bilodeau, Sadhbh Juarez Bourke, Andrew Merrie,
+Leonie Guerrero, Guðrún Pétursdóttir, and Joan David Tàbara. 2018. ‘Raising the temperature’: The arts on a warming
+planet.CurrentOpinion in EnvironmentalSustainability 31(2018),71–79. DOI:https://doi.org/10.1016/j.cosust.2017.12.010
+Gionata Gatto and John R. McCardle. 2019. Multispecies design and ethnographic practice: Following other-than-humans
+as a mode of exploring environmental issues. Sustainability 11, 18 (2019), 1–18. DOI:https://doi.org/10.3390/su11185032
+Elisa Giaccardi and Johan Redström. 2020. Technology and more-than-human design. Design Issues 36, 4 (2020), 33–44. DOI:
+https://doi.org/10.1162/desi_a_00612
+Gabriella Giannachi. 2012. Representing, performing and mitigating climate change in contemporary art practice. Leonardo
+45, 2 (Apr. 2012), 124–131. DOI:https://doi.org/10.1162/LEON_a_00278
+Carol J Greenhouse. 1996. A Moment’s Notice: Time Politics Across Cultures . Cornell University Press.
+Lars Hallnäs and Johan Redström. 2001. Slow technology–designing for reflection. Personal and Ubiquitous Computing 5, 3
+(2001), 201–212.
+Gregory Han. 2020. The Present Moon: A Lunar Clock with a Unique Take on Time. Retrieved June 17, 2023 from
+https://design-milk.com/present-moon-a-lunar-wall-clock/
+Lon Åke Erni Johannes Hansson, Teresa Cerratto Pargman, and Daniel Sapiens Pargman. 2021. A decade of sustainable HCI:
+Connecting SHCI to the sustainable development goals. In Proceedings of the 2021 CHI Conference on Human Factors in
+Computing Systems (CHI ’21) . ACM, New York, NY, Article 300, 19 pages. DOI:https://doi.org/10.1145/3411764.3445069
+Donna J. Haraway. 2016. Staying with the Trouble: Making Kin in the Chthulucene . Duke University Press.
+Steve Harrison, Deborah Tatar, and Phoebe Sengers. 2007. The three paradigms of HCI. In Proceedings of the Alt. Chi. Session
+at the SIGCHI Conference on Human Factors in Computing Systems, 1–18.
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:42 P.Ciobanu and Y.Fernaeus
+N. Katherine Hayles. 1999. How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics . University
+of Chicago Press.
+Karey Helms. 2023. Designing with Care : Self-Centered Research for Interaction Design Otherwise . Ph. D. Dissertation. KTH,
+Media Technology and Interaction Design, MID.
+Sarah Homewood, Marika Hedemyr, Maja Fagerberg Ranten, and Susan Kozel. 2021. Tracing conceptions of the body in
+HCI: From user to more-than-human. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems
+(CHI ’21) . ACM, New York, NY, Article 258, 12 pages. DOI:https://doi.org/10.1145/3411764.3445656
+Johan Huizinga. 1949. Homo Ludens: A Study of the Play-element in our Culture . Routledge & Kegan Paul.
+Ted Hunt. 2019. Circa. Retrieved March 8, 2022 from http://www.circa.bio/
+Rosie Ibbotson. 2017. Making sense? Visual cultures of de-extinction and the Anthropocentric archive. Animal Studies
+Journal 6, 1 (2017), 80–103.
+Yuta Ikeya and Bahareh Barati. 2023. Designing an algal relay computer: A critical orientation in exploring more-than-
+human temporality. In Extended Abstracts of the Conference on Human Factors in Computing Systems (CHI EA ’23) . ACM,
+New York, NY, Article 81, 6 pages. DOI:https://doi.org/10.1145/3544549.3585874
+Tim Ingold. 2015. The Life of Lines . Taylor & Francis.
+Steven J. Jackson. 2016. Speed, time, infrastructure: Temporalities of breakdown, maintenance, and repair. In The Sociology
+of Speed: Digital, Organizational, and Social Temporalities . Oxford University Press. DOI:https://doi.org/10.1093/acprof:
+oso/9780198782858.003.0012
+Rachel Jacobs, Steve Benford, and Ewa Luger. 2015. Behind the scenes at HCI’s turn to the arts. In Proceedings of the 33rd
+Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems(CHI EA ’15) . ACM, New York, NY,
+567–578. DOI:https://doi.org/10.1145/2702613.2732513
+Rachel Jacobs, Steve Benford, Ewa Luger, and Candice Howarth. 2016. The PREDICTION MACHINE: performing scientific
+and artistic process. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS ’16) . ACM, New
+York, NY, 497–508. DOI:https://doi.org/10.1145/2901790.2901825
+Rachel Jacobs, Steve Benford, Mark Selby, Michael Golembewski, Dominic Price, and Gabriella Giannachi. 2013. A Conver-
+sation Between Trees: What data feels like in the forest. In Proceedings of the SIGCHI Conference on Human Factors in
+Computing Systems (CHI ’13) . ACM, New York, NY, 129–138. DOI:https://doi.org/10.1145/2470654.2470673
+Mattias Jacobsson, Ylva Fernaeus, Henriette Cramer, and Sara Ljungblad. 2013. Crafting against robotic fakelore: On the
+critical practice of artbot artists. In Extended Abstracts on Human Factors in Computing Systems (CHI EA ’13) . ACM, New
+York, NY, 2019–2028. DOI:https://doi.org/10.1145/2468356.2468719
+Andrew R. Johnston. 2015. Models of code and the digital architecture of time. Discourse 37, 3 (2015), 221–246. Retrieved
+fromhttp://www.jstor.org/stable/10.13110/discourse.37.3.0221
+Carl Jung. 2016. Psychological Types . Routledge.
+Anja Kanngieser. 2015. Geopolitics and the Anthropocene: Five propositions for sound. GeoHumanities 1, 1 (2015), 80–85.
+DOI:https://doi.org/10.1080/2373566X.2015.1075360
+Dan Kennedy. 2019. Inspirations #17 – Giorgia Lupi and Data Vis as Portrait. Retrieved June 19, 2023 from https://blog.
+smallmultiples.com.au/2019/11/29/inspirations-17/
+Matthias Korn and Amy Voida. 2015. Creating friction: Infrastructuring civic engagement in everyday life. Aarhus Series on
+Human Centered Computing 1, 1 (Oct. 2015), 12. DOI:https://doi.org/10.7146/aahcc.v1i1.21198
+Marinos Koutsomichalis. 2018. Ad-hoc aesthetics: Context-dependent composition strategies in music and sound art.
+Organised Sound 23, 1 (2018), 12–19. DOI:https://doi.org/10.1017/S1355771817000231
+Klaus Krippendorff. 2018. Content Analysis: An Introduction to Its Methodology . SAGE Publications.
+Greg Kushnick. 2016. Someone Just Invented a Health-Enhancing Time Machine. Retrieved June 15, 2023 from https:
+//www.huffpost.com/entry/someone-just-invented-a-t_b_10726006
+Rob La Frenais. 2019. Deep time. Art Monthly 422 (Dec. 2019), 11–15.
+Joanna Latimer and Mara Miele. 2013. Naturecultures? Science, affect and the non-human. Theory, Culture and Society 30,
+7–8 (2013), 5–31. DOI:https://doi.org/10.1177/0263276413502088
+Brenda Laurel. 2011. Gaian IxD. Interactions 18, 5 (Sep. 2011), 38–46. DOI:https://doi.org/10.1145/2008176.2008187
+Eldy S. Lazaro Vasquez, Netta Ofer, Shanel Wu, Mary Etta West, Mirela Alistar, and Laura Devendorf. 2022. Exploring
+biofoam as a material for tangible interaction. In Proceedings of the Designing Interactive Systems Conference (DIS ’22) .
+ACM, New York, NY, 1525–1539. DOI:https://doi.org/10.1145/3532106.3533494
+Laura Lee. 2022. Worlds Unbound: The Art of teamLab . Intellect Books.
+Sung ho Lee, Seong beom Kim, Byoung hern Kim, and Hui sung Lee. 2019. LUNE: Representing lunar day by displayed
+lighting object. In Extended Abstracts of the Conference on Human Factors in Computing Systems (CHI EA ’19) . ACM, New
+York, NY, 1–4. DOI:https://doi.org/10.1145/3290607.3313240
+Esther Leslie and Joel McKim. 2017. Life remade: Critical animation in the digital age. Animation 12, 3 (2017), 207–213. DOI:
+https://doi.org/10.1177/1746847717740841
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:43
+Makayla Lewis, Miriam Sturdee, Thuong Hoang, Sarah Fdili Alaoui, Angelika Strohmayer, and Mafalda Gamboa. 2023.
+Futuring (CHI)art: Building a collective common future. In Extended Abstracts of the Conference on Human Factors in
+Computing Systems (CHI EA ’23) . ACM, New York,NY,Article 349, 5 pages. DOI:https://doi.org/10.1145/3544549.3573791
+Yihan Li. 2020. Beyond interactive and immersive media arts: A case study of teamLab in the construction of artificial
+nature. Master’s Thesis. Nanyang Technological University, Singapore. DOI:https://doi.org/10.32657/10356/140721
+Ann Light. 2022. Ecologies of subversion: Troubling interaction design for climate care. Interactions 29, 1 (Jan 2022), 34–38.
+DOI:https://doi.org/10.1145/3501301
+Siân E. Lindley. 2015. Making time. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &
+Social Computing (CSCW ’15) . ACM, New York, NY, 1442–1452. DOI:https://doi.org/10.1145/2675133.2675157
+Kristina Lindström and Åsa Ståhl. 2020. Un/Making in the aftermath of design. In Proceedings of the 16th Participatory
+Design Conference 2020 - Participation(s) Otherwise (PDC ’20) , Vol. 1. ACM, New York, NY, 12–21. DOI:https://doi.org/10.
+1145/3385010.3385012
+Kristina Lindström and Åsa Ståhl. 2023. Un/making the plastic straw: Designerly inquiries into disposability. Design and
+Culture 0, 0 (2023), 1–23. DOI:https://doi.org/10.1080/17547075.2023.2187080
+Szu-Yu Liu. 2020. Posthuman Interaction Design: Designing with, through, and for Human-Nature Interaction . Ph. D. Disserta-
+tion.
+Szu-Yu (Cyn) Liu, Jeffrey Bardzell, and Shaowen Bardzell. 2018. Photography as a design research tool into natureculture.
+InProceedings of the 2018 Designing Interactive Systems Conference (DIS ’18) . ACM, New York, NY, 777–789. DOI:
+https://doi.org/10.1145/3196709.3196819
+Szu-Yu (Cyn) Liu, Jeffrey Bardzell, and Shaowen Bardzell. 2019. Decomposition as design: Co-creating (with) natureculture.
+InProceedings of the 13th International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’19) . ACM, New
+York, NY, 605–614. DOI:https://doi.org/10.1145/3294109.3295653
+Longplayer. 2005. Overview of Longplayer. Retrieved June 11, 2023 from https://longplayer.org/about/overview/
+Julia Loup, Özge Subasi, and Geraldine Fitzpatrick. 2017. Aging, HCI, & personal perceptions of time. In Proceedings of the
+Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA ’17) . ACM, New York, NY, 1853–1860.
+DOI:https://doi.org/10.1145/3027063.3053079
+James E. Lovelock. 1972. Gaia as seen through the atmosphere. Atmospheric Environment (1967) 6, 8 (1972), 579–580. DOI:
+https://doi.org/10.1016/0004-6981(72)90076-5
+Giorgia Lupi. 2019. The Room of Change. Retrieved April 22, 2021 from http://giorgialupi.com/the-room-of-change
+m ss ng p eces. 2011. ThePresent. Retrieved from https://vimeo.com/29543294
+Clara Mancini, Shaun Lawson, and Oskar Juhlin. 2017. Animal-computer interaction: The emergence of a discipline.
+International Journal of Human-Computer Studies 98 (2017), 129–134. DOI:https://doi.org/10.1016/j.ijhcs.2016.10.003
+Clara Mancini and Jussi Lehtonen. 2018. The emerging nature of participation in multispecies interaction design. In
+Proceedings of the 2018 Designing Interactive Systems Conference (DIS ’18) . ACM, New York, NY, 907–918. DOI:https:
+//doi.org/10.1145/3196709.3196785
+Chloe Mandryk. 2021. Anna Madeleine Raupach – Unequal Hours – Artist Interview. Retrieved June 11, 2023 from
+https://arichlife.com.au/anna-madeleine-raupach-unequal-hours-artist-interview/
+Kieron Marchese. 2020. The Present is a Trio of Clocks That Retell the Tale of Time. Retrieved June 11, 2023 from
+https://designwanted.com/the-present-scott-thrift/
+ClareLouiseMartynski.2021. Navigating the Anthropocene: A Study of Audience Experiences with Three Creative Interventions .
+Ph. D. Dissertation. University of Leeds.
+Melissa Mazmanian and Ingrid Erickson. 2014. The product of availability: Understanding the economic underpinnings of
+constant connectivity. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’14) . ACM,
+New York, NY, 763–772. DOI:https://doi.org/10.1145/2556288.2557381
+Empathy Media. 2017. Deep Time Walk. Retrieved from https://vimeo.com/236050600
+Daniel J. Metcalfe. 2015. Multispecies Design . Ph. D. Dissertation. University of the Arts London and Falmouth University.
+Jan H. F. Meyer and Ray Land. 2003. Threshold concepts and troublesome knowledge: linkages to ways of thinking and
+practising within the disciplines. In Proceedings of the ISL10 Improving Student Learning . Oxford Brookes University,
+United Kingdom, 412–424.
+Katherine Moline, Bradley Haylock, and Laurene Vaughan. 2015. Experimental practice: Provocations in and out of design.
+InRMIT Design Hub , RMIT University.
+Kate Mondloch. 2018a. Inhabiting Matter: New Media Art and New Materialisms Informed by Feminism. In A Capsule
+Aesthetic: Feminist Materialisms in New Media Art University of Minnesota Press, 1–20. Retrieved from http://www.jstor.
+org/stable/10.5749/j.ctt1zgb3fb.3
+Kate Mondloch. 2018b. Unbecoming Human: Patricia Piccinini’s Bioart and Postanthropocentric Posthumanism. In A
+Capsule Aesthetic: Feminist Materialisms in New Media Art . University of Minnesota Press, 65–86. Retrieved from
+http://www.jstor.org/stable/10.5749/j.ctt1zgb3fb.6
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:44 P.Ciobanu and Y.Fernaeus
+Timothy Morton. 2013. Hyperobjects: Philosophy and Ecology after the End of the World . University of Minnesota Press.
+Sam Mowe. 2017. Taking a Walk Through Deep Time: New App Offers a Lesson on the Earth’s Long History. Retrieved
+June 18, 2023 from https://www.garrisoninstitute.org/blog/taking-a-walk-through-deep-time/
+Michael Muller and Angelika Strohmayer. 2022. Forgetting practices in the data sciences. In Proceedings of the Conference
+on Human Factors in Computing Systems (CHI ’22) . ACM, New York, NY, Article 323, 19 pages. DOI:https://doi.org/10.
+1145/3491102.3517644
+Martin Murer, Anna Vallgårda, Mattias Jacobsson, and Manfred Tscheligi. 2015. Un-crafting: Exploring tangible practices for
+deconstruction in interactive system design. In Proceedings of the Ninth International Conference on Tangible, Embedded,
+and Embodied Interaction (TEI ’15) . ACM, New York, NY, 469–472. DOI:https://doi.org/10.1145/2677199.2683582
+Lucy Neal. 2016. Playing for Time: Making Art as if the World Mattered . Bloomsbury Publishing.
+William Odom, Richard Banks, Abigail Durrant, David Kirk, and James Pierce. 2012. Slow technology: Critical reflection
+and future directions. In Proceedings of the Designing Interactive Systems Conference (DIS ’12) . ACM, New York, NY,
+816–817. DOI:https://doi.org/10.1145/2317956.2318088
+William Odom, Ishac Bertran, Garnet Hertz, Henry Lin, Amy Yo Sue Chen, Matt Harkness, and Ron Wakkary. 2019.
+Unpacking the thinking and making behind a slow technology research product with slow game. In Proceedings of the
+2019 on Creativity and Cognition (C & C ’19) . ACM, New York, NY, 15–28. DOI:https://doi.org/10.1145/3325480.3326567
+William Odom, Erik Stolterman, and Amy Yo Sue Chen. 2022. Extending a theory of slow technology for design through
+artifact analysis. Human–Computer Interaction 37, 2 (2022), 150–179. DOI:https://doi.org/10.1080/07370024.2021.1913416
+William Odom, Ron Wakkary, Ishac Bertran, Matthew Harkness, Garnet Hertz, Jeroen Hol, Henry Lin, Bram Naus, Perry
+Tan, and Pepijn Verburg. 2018. Attending to slowness and temporality with olly and slow game: A design inquiry into
+supporting longer-term relations with everyday computational objects. In Proceedings of the 2018 CHI Conference on
+Human Factors in Computing Systems (CHI ’18) . ACM, New York, NY, 1–13. DOI:https://doi.org/10.1145/3173574.3173651
+William Odom, Jordan White, Samuel Barnett, Nico Brand, Henry Lin, Minyoung Yoo, and Tal Amram. 2024. Capra: Making
+use of multiple perspectives for capturing, noticing and revisiting hiking experiences over time. In Proceedings of the
+CHI Conference on Human Factors in Computing Systems (CHI ’24) . ACM, New York, NY, Article 804, 27 pages. DOI:
+https://doi.org/10.1145/3613904.3642284
+William T. Odom, Abigail J. Sellen, Richard Banks, David S. Kirk, Tim Regan, Mark Selby, Jodi L. Forlizzi, and John
+Zimmerman. 2014. Designing for slowness, anticipation and re-visitation: A long term field study of the photobox. In
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’14) . ACM, New York, NY, 1961–1970.
+DOI:https://doi.org/10.1145/2556288.2557178
+Gizem Oktay, Yuta Ikeya, Minha Lee, Bahareh Barati, Youngsil Lee, Yuning Chen, Larissa Pschetz, and Carolina Ramirez-
+Figueroa. 2023. Designing with the more-than-human: Temporalities of thinking with care. In Companion Publication
+of the 2023 ACM Designing Interactive Systems Conference (DIS ’23 Companion) . ACM, New York, NY, 104–106. DOI:
+https://doi.org/10.1145/3563703.3591462
+Opus Earth. 2016. Satish Kumar on Deep Time, Eternal Time, Clock Time. Retrieved from https://www.youtube.com/watch?
+v=ABOi17C_EQw
+Opus Earth. 2017. Dr. David Abram Talks About the Deep Time Walk. Retrieved from https://www.youtube.com/watch?v=
+Evsl9mH6z8Q
+Neri Oxman. 2016. Age of entanglement. Journal of Design and Science (Jan. 2016). DOI:https://doi.org/10.21428/7e0583ad
+Joon Sung Park, Rick Barber, Alex Kirlik, and Karrie Karahalios. 2019. A slow algorithm improves users’ assessments of
+the algorithm’s accuracy. Proceedings of the ACM on Human-Computer Interaction 3, CSCW (Nov. 2019), Article 102, 15
+pages.https://doi.org/10.1145/3359204
+Soomi Park. 2012. Vixen™ Circadian Stopwatch System. Retrieved March 26, 2023 from http://soomipark.com/main/
+?portfolio=circadian-work-clock
+John Pavlus. 2011. “The Present,” A Color-Coded Clock That Tracks The Seasons. Retrieved June 11, 2023 from https:
+//www.fastcompany.com/1665549/the-present-a-color-coded-clock-that-tracks-the-seasons
+Pentagram. 2019. ‘The Room of Change’ – Story. Retrieved June 18, 2023 from https://www.pentagram.com/work/the-
+room-of-change/story
+Kylie A. Peppler. 2010. Media arts: Arts education for a digital age. Teachers College Record 112, 8 (2010), 2118–2153. DOI:
+https://doi.org/10.1177/016146811011200806
+Tania Pérez-Bustos. 2017. Thinking with Care. Revue d’anthropologie des connaissances 11, 1 (Mar. 2017), a–u. DOI:https:
+//doi.org/10.3917/rac.034.a
+James Pierce. 2012. Undesigning technology: Considering the negation of design by design. In Proceedings of the SIGCHI
+Conference on Human Factors in Computing Systems (CHI ’12) . ACM, New York, NY, 957–966. DOI:https://doi.org/10.
+1145/2207676.2208540
+Sarah Pink, Phil Hubbard, Maggie O’Neill, and Alan Radley. 2010. Walking across disciplines: From ethnography to arts
+practice. Visual Studies 25, 1 (2010), 1–7. DOI:https://doi.org/10.1080/14725861003606670
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:45
+Anton Poikolainen Rosén. 2022. Noticing Nature: Exploring More-Than-Human-Centred Design in Urban Farming . Ph.D.
+Dissertation. Umeå University.
+Larissa Pschetz. 2015. Isn’t it time to change the way we think about time? Interactions 22, 5 (Aug 2015), 58–61. DOI:
+https://doi.org/10.1145/2809502
+Larissa Pschetz and Richard Banks. 2013. Long living chair. In Proceedings of the Extended Abstracts on Human Factors in
+Computing Systems (CHI EA ’13) . ACM, New York, NY, 2983–2986. DOI:https://doi.org/10.1145/2468356.2479590
+Larissa Pschetz and Michelle Bastian. 2018. Temporal design: Rethinking time in design. Design Studies 56 (2018), 169–184.
+DOI:https://doi.org/10.1016/j.destud.2017.10.007
+PSFK. 2013. m ss ng p eces: Changing the Concept of Time. Retrieved from https://vimeo.com/67516461
+Maria Puig de la Bellacasa. 2015. Making time for soil: Technoscientific futurity and the pace of care. Social Studies of Science
+45, 5 (2015), 691–716. DOI:https://doi.org/10.1177/0306312715599851
+Jörgen Rahm-Skågeby and Lina Rahm. 2022. Design and deep entanglements. Interactions 29, 1 (Jan. 2022), 72–76. DOI:
+https://doi.org/10.1145/3502279
+Jörgen Rahm-Skågeby and Lina Rahm. 2022. HCI and deep time: Toward deep time design thinking. Human–Computer
+Interaction 37, 1 (2022), 15–28. DOI:https://doi.org/10.1080/07370024.2021.1902328
+Amon Rapp, William Odom, Larissa Pschetz, and Daniela Petrelli. 2022. Introduction to the special issue on time and HCI.
+Human–Computer Interaction 37, 1 (2022), 1–14. DOI:https://doi.org/10.1080/07370024.2021.1955681
+Tye Rattenbury, Dawn Nafus, and Ken Anderson. 2008. Plastic: A metaphor for integrated technologies. In Proceedings
+of the 10th International Conference on Ubiquitous Computing (UbiComp ’08) . ACM, New York, NY, 232–241. DOI:
+https://doi.org/10.1145/1409635.1409667
+Anna Raupach. 2018a. Re-animating climate change: Abstract temporalities in augmented reality. Transformations (2018),
+125–143.
+Anna Raupach. 2019. Pranatamangsa AR. Langit Untuk Semua-The Sky is for All of Us (2019).
+Anna Madeleine Raupach. 2018b. Pranatamangsa AR. Retrieved March 28, 2023 from https://www.annamadeleine.com/
+pranatamangsa-ar
+Anna Madeleine Raupach. 2021. Unequal Hours. Retrieved March 22, 2021 from https://www.annamadeleine.com/unequal-
+hours
+Anna Madeleine Raupach. 2022. Unequal Hours Interactive Key. Retrieved from https://vimeo.com/684914477
+Paul Roquet. 2016. From Animation to augmentation: Dennō Coil and the composited self. Animation 11, 3 (2016), 228–245.
+DOI:https://doi.org/10.1177/1746847716667571
+Anton Poikolainen Rosén, Maria Normark, and Mikael Wiberg. 2022. Noticing the environment – A design ethnography of
+Urban farming. In Proceedings of the Nordic Human-Computer Interaction Conference (NordiCHI ’22) . ACM, New York,
+NY, Article 34, 13 pages. DOI:https://doi.org/10.1145/3546155.3546659
+Douglas Rushkoff. 2014. Present Shock: When Everything Happens Now . Penguin.
+Samar Sabie, Steven J. Jackson, Wendy Ju, and Tapan Parikh. 2022a. Unmaking as agonism: Using participatory design with
+youth to surface difference in an intergenerational Urban context. In Proceedings of the Conference on Human Factors in
+Computing Systems (CHI ’22) . ACM, New York, NY, Article 324, 16 pages. DOI:https://doi.org/10.1145/3491102.3501930
+Samar Sabie, Robert Soden, Steven Jackson, and Tapan Parikh. 2023. Unmaking as emancipation: Lessons and reflections
+from luddism. In Proceedings of the Conference on Human Factors in Computing Systems (CHI ’23) . ACM, New York, NY,
+Article 604, 15 pages. DOI:https://doi.org/10.1145/3544548.3581412
+Samar Sabie, Katherine W Song, Tapan Parikh, Steven Jackson, Eric Paulos, Kristina Lindstrom, Åsa Ståhl, Dina Sabie,
+Kristina Andersen, and Ron Wakkary. 2022b. Unmaking@CHI: Concretizing the material and epistemological practices
+of unmaking in HCI. In Extended Abstracts of the Conference on Human Factors in Computing Systems (CHI EA ’22) . ACM,
+New York, NY, Article 105, 6 pages. DOI:https://doi.org/10.1145/3491101.3503721
+Johnny Saldaña. 2013. The Coding Manual for Qualitative Researchers . SAGE Publications.
+Laura Sjoberg. 2024. Knock it down? Unmaking, deconstruction, and destruction as/in politics research. Global Studies
+Quarterly 3, 4 (Jan. 2024), 1–12. DOI:https://doi.org/10.1093/isagsq/ksad066
+Nancy Smith, Shaowen Bardzell, and Jeffrey Bardzell. 2017. Designing for cohabitation: Naturecultures, hybrids, and
+decentering the human in design. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems.
+ACM, 1714–1725. DOI:https://doi.org/10.1145/3025453.3025948
+Society for Animation Studies Conference. 2018. SAS 2018 Interactive Handbook. Retrieved June 16, 2023 from https:
+//sas2018.hybrid.concordia.ca/pdf/SAS2018_interactive_handbook.pdf
+KatherineWSong,FionaBell,HimaniDeshpande,IlanMandel,TiffanyWun,MirelaAlistar,LeahBuechley,WendyJu,Jeeeun
+Kim, Eric Paulos, Samar Sabie, and Ron Wakkary. 2024. Sustainable unmaking: Designing for biodegradation, decay, and
+disassembly. In Proceedings of the Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems
+(HonoluluHI,USA) (CHI EA ’24) .ACM,NewYork,NY,Article489,7pages. DOI:https://doi.org/10.1145/3613905.3636300
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+80:46 P.Ciobanu and Y.Fernaeus
+Katherine W Song, Aditi Maheshwari, Eric M Gallo, Andreea Danielescu, and Eric Paulos. 2022. Towards decomposable
+interactivesystems:Designofabackyard-degradablewirelessheatinginterface.In Proceedings of the 2022 CHI Conference
+on Human Factors in Computing Systems (CHI ’22) . ACM, New York, NY, Article 100, 12 pages. DOI:https://doi.org/10.
+1145/3491102.3502007
+Katherine W Song and Eric Paulos. 2021. Unmaking: Enabling and celebrating the creative material of failure, destruction,
+decay, and deformation. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21) .
+ACM, New York, NY, Article 429, 12 pages. DOI:https://doi.org/10.1145/3411764.3445529
+Jocelyn Spence, Dimitrios Darzentas, Harriet Cameron, Yitong Huang, Matt Adams, Ju Row Farr, Nick Tandavanitj, and
+Steve Benford. 2022. Gifting in museums: Using multiple time orientations to heighten present-moment engagement.
+Human–Computer Interaction 37, 2 (2022), 180–210. DOI:https://doi.org/10.1080/07370024.2021.1923496
+Arran Stibbe. 2020. Ecolinguistics: Language, Ecology and the Stories We Live By . Taylor & Francis.
+Carolyn F. Strauss and Alastair Fuad-Luke. 2008. The slow design principles: A new interrogative and reflexive tool for
+design research and practice. In Proceedings of the Changing the Change 14, 1–14. Retrieved from https://raaf.org/pdfs/
+Slow_Design_Principles.pdf
+Jennyfer Lawrence Taylor, Alessandro Soro, Paul Roe, Anita Lee Hong, and Margot Brereton. 2017. Situational when:
+Designing for time across cultures. In Proceedings of the Conference on Human Factors in Computing Systems (CHI ’17) .
+ACM, New York, NY, 6461–6474. DOI:https://doi.org/10.1145/3025453.3025936
+teamLab. 2015. Drawing on the Water Surface Created by the Dance of Koi and Boats. Retrieved June 17, 2023 from
+https://www.teamlab.art/w/mifuneyama/mifuneyamarakuen/
+teamLab. 2017a. Ever Blossoming Life Rock. Retrieved June 17, 2023 from https://www.teamlab.art/w/ever-blossoming-
+stone-life-rock/mifuneyamarakuen/
+teamLab. 2017b. Life is Continuous Light - Azalea Valley. Retrieved June 17, 2023 from https://www.teamlab.art/w/
+azaleavalley/mifuneyamarakuen/
+teamLab. 2017c. Resonating Forest - Cherry Blossoms and Maple. Retrieved June 17, 2023 from https://www.teamlab.art/w/
+resonatingforest-maple/mifuneyamarakuen/
+teamLab. 2017d. Universe of Water Particles on a Sacred Rock. Retrieved June 17, 2023 from https://www.teamlab.art/w/
+sacred-rock/mifuneyamarakuen/
+teamLab.2018.ResonatingMt.Mifuneyama.RetrievedJune17,2023from https://www.teamlab.art/w/resonating-mountain/
+mifuneyamarakuen/
+teamLab. 2019a. A Forest Where Gods Live, Ruins and Heritage - THE NATURE OF TIME. Retrieved March 28, 2023 from
+https://www.teamlab.art/e/mifuneyamarakuen-ruins/
+teamLab. 2019b. Megaliths in the Bath House Ruins. Retrieved June 15, 2023 from https://www.teamlab.art/ew/megaliths_
+bathhouse_night/mifuneyamarakuen/
+teamLab. 2022. Digitized Kairakuen Garden. Retrieved May 4, 2023 from https://www.teamlab.art/e/kairakuengarden/
+teamLab. 2023. teamLab: A Forest Where Gods Live. Retrieved June 17, 2023 from https://www.teamlab.art/e/
+mifuneyamarakuen/
+Temporal Belongings. 2021. The Material Life of Time - TEMPORAL BELONGINGS. Retrieved April 25, 2021 from https:
+//www.temporalbelongings.org/the-material-life-of-time.html
+The Present. 2023a. About. Retrieved June 11, 2023 from https://thepresent.is/pages/about
+The Present. 2023b. FAQ. Retrieved June 15, 2023 from https://thepresent.is/pages/faq
+The Present. 2023c. Testimonials - The Present. Retrieved June 18, 2023 from https://thepresent.is/pages/testimonials
+The Present. 2024. The Present — Day Moon Year by Scott Thrift — Kickstarter. Retrieved May 27, 2024 from https:
+//www.kickstarter.com/projects/scottthrift/the-present-day-moon-year
+Scott Thrift. 2020. The Present — Day Moon Year. Retrieved from https://www.youtube.com/watch?v=L3wmgAeeq6U
+Scott Thrift. 2022. The Present. Retrieved March 8, 2022 from https://thepresent.is/
+Bill Tomlinson, Eli Blevis, Bonnie Nardi, Donald J. Patterson, M. Six Silberman, and Yue Pan. 2013. Collapse informatics and
+practice: Theory, method, and design. ACM Transactions on Human-Computer Interactio 20, 4 (Sep. 2013), Article 24, 26
+pages.DOI:https://doi.org/10.1145/2493431
+John Tomlinson. 2007. The Culture of Speed: The Coming of Immediacy . Sage.
+Cameron Tonkinwise. 2013. Design Away: Unmaking Things. Retrieved from https://www.academia.edu/3794815/Design_
+Away_Unmaking_Things
+RogerTrend.2001.Aninvestigationintotheunderstandingofgeologicaltimeamong17-year-oldstudents,withimplications
+for the subject matter knowledge of future teachers. International Research in Geographical and Environmental Education
+10, 3 (2001), 298–321. DOI:https://doi.org/10.1080/10382040108667447
+Vasiliki Tsaknaki and Ylva Fernaeus. 2016. Expanding on wabi-sabi as a design resource in HCI. In Proceedings of the
+Conference on Human Factors in Computing Systems (CHI ’16) . ACM, New York, NY, 5970–5983. DOI:https://doi.org/10.
+1145/2858036.2858459
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.
+Material Deconstructions of Time: Posthumanist InterventionsThroughMedia Art 80:47
+Anna Lowenhaupt Tsing. 2015. The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins . Princeton
+University Press.
+Anna Lowenhaupt Tsing. 2017. A Threat to Holocene Resurgence Is a Threat to Livability . Palgrave Macmillan US, New York,
+51–65.DOI:https://doi.org/10.1057/978-1-137-56636-2_3
+NinaValkanova,SergiJorda,MartinTomitsch,andAndrewVandeMoere.2013.Reveal-it!Theimpactofasocialvisualization
+projection on public awareness and discourse. In Proceedings of the SIGCHI Conference on Human Factors in Computing
+Systems (CHI ’13) . ACM, New York, NY, 3461–3470. DOI:https://doi.org/10.1145/2470654.2466476
+Anna Vallgårda. 2014. Giving form to computational things: Developing a practice of interaction design. Personal Ubiquitous
+Comput. 18, 3 (Mar. 2014), 577–592. DOI:https://doi.org/10.1007/s00779-013-0685-8
+Salomé Voegelin. 2010. Listening to Noise and Silence: Towards a Philosophy of Sound Art . Bloomsbury Publishing.
+Ron Wakkary. 2020. Nomadic practices: A posthuman theory for knowing design. International Journal of Design 14, 3
+(2020), 117–128. Retrieved from http://www.ijdesign.org/index.php/IJDesign/article/view/4039
+Ron Wakkary. 2021. Things We Could Design: For More Than Human-Centered Worlds . MIT Press.
+Mikael Wiberg and Erik Stolterman. 2021. Time and temporality in HCI research. Interacting with Computers 33, 3 (2021),
+250–270. DOI:https://doi.org/10.1093/iwc/iwab025
+Andrew Wilson. 2008. Gustav Metzger’s auto-destructive/auto-creative art. Third Text 22, 2 (2008), 177–194. DOI:https:
+//doi.org/10.1080/09528820802012844
+ShanelWuandLauraDevendorf.2020.Unfabricate:Designingsmarttextilesfordisassembly.In ProceedingsoftheConference
+on Human Factors in Computing Systems (CHI ’20) . ACM, New York, NY, 1–14. DOI:https://doi.org/10.1145/3313831.
+3376227
+Mert Yildiz and Aykut Coşkun. 2020. Time perceptions as a material for designing new representations of time. In Extended
+Abstracts of the Conference on Human Factors in Computing Systems (CHI EA ’20) . ACM, New York, NY, 1–7. DOI:
+https://doi.org/10.1145/3334480.3382950
+Daisy Yoo, Tilde Bekker, Peter Dalsgaard, Eva Eriksson, Simon Skov Fougt, Christopher Frauenberger, Batya Friedman,
+Elisa Giaccardi, Anne-Marie Hansen, Ann Light, Elisabet M. Nilsson, Ron Wakkary, and Mikael Wiberg. 2023. More-
+than-human perspectives and values in human-computer interaction. In Extended Abstracts of the Conference on Human
+Factors in Computing Systems (CHI EA ’23) . ACM, New York, NY, Article 516, 3 pages. DOI:https://doi.org/10.1145/
+3544549.3583174
+La Monte Young and Marian Zazeela. 2004. Dream house. Selected Writings (2004), 10–16.
+Received 30 June 2023; revised 15 January 2024; accepted 7 May 2024
+ACM Transactions on Computer-Human Interaction, Vol. 31, No. 6, Article 80. Publication date: December 2024.

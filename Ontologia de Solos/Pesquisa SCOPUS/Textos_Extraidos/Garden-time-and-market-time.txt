@@ -1,0 +1,1117 @@
+Garden time and market time: Finding seasonality in diverse 
+food economies
+Lucie Sovov ˘aa,*,1
+, Petr Jehli ¯ckab,2
+aRural Sociology Group, Wageningen University & Research, Hollandseweg 1, 6706 KN Wageningen, The Netherlands
+bDepartment of Ecological Anthropology, Institute of Ethnology, Czech Academy of Sciences, Na Florenci 3, 110 00 Praha 1, Czechia
+ARTICLE INFO
+Keywords:
+Diverse economies
+Temporality
+Urban gardening
+Seasonality
+Food self-provisioning
+CzechiaABSTRACT
+This paper combines two fast-developing perspectives on food provision: diverse economies and temporality. 
+Building on an in-depth study of urban gardening in Czechia, we show that non-market economies play a central 
+role in household food practices and that their specific temporality shapes how other parts of a household ’s 
+diverse food economy are mobilised at certain times and for certain purposes. Following the diverse economies 
+approach of reading for difference and not dominance, this paper investigates the interrelations and hierarchies 
+among market, alternative market, and non-market food economies on the household level. We decentre the 
+presumed dominance of market-based provisioning by showing that gardeners ’ food behaviours are crucially 
+shaped by their engagement with food self-provisioning (FSP), which creates particular understandings of food 
+quality. What is more, the cyclical, natural time of gardening seasons determines the social rhythm of food 
+provisioning in a contemporary urban context. This provides a counter-narrative to the dominant account about 
+the dislodging of cyclical time embedded in natural processes by modern, accelerated time, with the former 
+carrying a lower value than the latter. Finally, we engage with temporality on a discursive level as we coun-
+terpose our case of traditional FSP against the fascination with novelty permeating much of the search for 
+alternative foodways. With this, we contribute to the debate on the temporality underpinning the ideas of 
+capitalist modernity as well as post-capitalist prefiguration.
+1.Introduction
+This paper brings together two fast-developing bodies of literature: 
+diverse (food) economies (Wilson, 2013; Cameron and Wright, 2014; 
+Sarmiento, 2017; Rosol, 2020; Vincent and Feola, 2020 ) and temporality 
+of food provisioning (Aistara, 2014; Mazac and Tuomisto, 2020; Taylor, 
+2018 ), which have, so far, developed largely in parallel rather than in 
+dialogue. This is surprising given the increasing level of attention to food 
+provisioning in the diverse economies scholarship (¯Cajka and Novotný, 
+2022; Gritzas and Kavoulakos, 2016 ) and the centrality of natural cycles 
+and social rhythms to food provisioning.
+In this paper, we address this lacuna and add a temporal dimension 
+to the diverse economies scholarship by exploring interactions between 
+diverse food economies on the household level. This endeavour provides 
+insights concerning the hierarchy of food sources as understood by 
+practitioners, and the role of time and seasonality as key ordering elements of their food-related behaviours. To pursue this agenda, we 
+draw empirically on an in-depth study of the practices of households 
+engaged in urban gardening. The paper ’s key empirical finding is that 
+the experience of food growing combined with the seasonality of this 
+food source shapes the way other parts of a household ’s diverse food 
+economy are mobilised at certain times and for certain purposes. This, in 
+turn, advances a novel way of thinking about temporality in relation to 
+diverse (food) economies.
+Socio-economic relations have become an increasingly important 
+consideration in research concerned with more environmentally sus-
+tainable and socially just ways of food provisioning (often labelled 
+Alternative Food Networks or AFNs). Unlike industrial agriculture and 
+corporate supply chains focused on food commodification and profit 
+maximisation, promoters and practitioners of AFNs pursue a wider set of 
+interrelated objectives that transcend profit. AFNs can foreground 
+distinctive economic relations based on solidarity and the 
+*Corresponding author.
+E-mail addresses: lucie.sovova@wur.nl (L. Sovov ˘a), jehlicka@eu.cas.cz (P. Jehli ¯cka). 
+1ORCID 0000-0003-2906-2144.
+2ORCID 0000-0002-7602-7133.
+Contents lists available at ScienceDirect
+Geoforum
+u{�~zkw! s{yo|kr o>!ÐÐÐ1ow�o �to~1m{y2w{m k�o2ro{q{~�y
+https://doi.org/10.1016/j.geoforum.2025.104322
+Received 14 May 2024; Received in revised form 9 May 2025; Accepted 14 May 2025  Geoforum  163 (2025)  104322  
+Available  online  24 May 2025  
+0016-7185/©  2025  The Authors.  Published  by Elsevier  Ltd. This is an open access  article  under  the CC BY license  ( http://creativecommons.org/licenses/by/4.0/  ). 
+acknowledgement of the often hidden social and environmental costs of 
+food (Vincent and Feola, 2020 ). At the same time, these initiatives are 
+intertwined in complex relations with the neoliberal economy 
+(Arguelles et al., 2017; McClintock, 2014 ) as their practical functioning 
+often relies on monetised, market-based transactions (Rosol, 2020; 
+Wilson, 2013 ).
+The diverse economies approach, based on the work of J. K. Gibson- 
+Graham (2008) , offers a useful tool for interrogating the economic di-
+versity of food provisioning and can ‘clarify the extent to which AFNs 
+perform the economy otherwise ’ (Rosol, 2020, p. 68). Diverse econo -
+mies scholars have explored food spaces that strive to operate in 
+explicitly non-capitalist ways, such as food and land cooperatives 
+(Rosol, 2020 ), public refrigerators (Morrow, 2019 ), kitchens preparing 
+meals from food that would otherwise be wasted (Ulug and Trell, 2019; 
+Wilson, 2013 ), community supported agriculture (CSA) schemes offer-
+ing non-monetary payment options (Wilson, 2013 ), and initiatives 
+reclaiming urban spaces as food commons (Morrow and Martin, 2019 ). 
+Another stream of literature has documented food practices that do not 
+explicitly aim to foster non-capitalist economies or alternative food 
+systems, but that practically operate on the margins of the market 
+domain and contribute to environmental and social sustainability, e.g., 
+food sharing (Davies et al., 2017; Holmes, 2018 ) or food self- 
+provisioning (FSP) (Kosnik, 2018; Mincyt le et al., 2020 ). These 
+everyday practices, previously conceptualised as ‘quiet sustainability ’ 
+(Smith and Jehli ¯cka, 2013 ) or ‘quiet activism ’ (Pottinger, 2017 ), are the 
+focus of this paper.
+Scholarly engagements with these and similar everyday food prac-
+tices allow ‘unnoticed actors such as time to emerge ’ (Taylor, 2018, p. 
+291). Indeed, time is a key, yet often implicit dimension in the debates 
+on diverse food economies (Vincent and Feola, 2020 ). On the one hand, 
+the fast pace of Western modernity dictates the centrality of convenience 
+in food provision: acquiring, preparing, and consuming food needs to fit 
+consumers ’ busy lifestyles (Daniels and Glorieux, 2015; Jackson et al., 
+2006 ). Global food supply and just-in-time delivery models leave little 
+room for the natural temporality of agricultural production (Bruce and 
+Castellano, 2017 ). On the other hand, scholars have begun to recognise 
+the distinctive temporalities of more sustainable ways of food produc -
+tion and consumption and explore (re)connections with nature ’s cyclical 
+rhythms (Phillips, 2020; Schoneboom, 2013 ). Sustainable agriculture 
+entails higher time investment in farming practices such as soil care, 
+composting, or seed saving, which might not translate into short-term 
+profits but can ensure long-term sustainability (Morrow and Davies, 
+2021; Pottinger, 2018; Puig de la Bellacasa, 2015 ). Seasonal and local 
+diets exemplify the role of place and time in sustainable food con-
+sumption, which is most explicitly epitomised by the Slow Food move -
+ment (Murdoch and Miele, 2004 ). Last but not least, research has 
+scrutinised the time and (often gendered) labour demands of more 
+sustainable food provisioning (Parker and Morrow, 2017; Szabo, 2011 ), 
+echoing debates on care and social reproduction long established in 
+feminist scholarship (DeVault, 1991; Van Esterik, 1999 ).
+Apart from this practical temporality embedded in the performances 
+of sustainable food production and consumption, we notice a discursive, 
+historical temporality concerned with change and continuity (Ingold, 
+1993 ). Through its predominantly Western provenance, the search for 
+alternative foodways is implicitly grounded in the Euromodern time 
+ontology and its linear ideas about progress. This locates the benefits of 
+AFNs (whether in the form of environmental sustainability or social 
+wellbeing) in an unspecified, more or less distant future, emphasising 
+the innovativeness of these initiatives (Schmid and Taylor Aiken, 2023 ). 
+Such future-oriented hope underpins the logic of prefiguration 
+(Tornaghi and Dehaene, 2020; Zanoni, 2020 ) metaphorically summar -
+ised as ‘sowing the seeds ’ of more inclusive and sustainable futures 
+(Pottinger, 2017 ; Smith, 2019 ; our quotation marks).
+Simultaneously, food provisioning practices associated with more 
+sustainable lifestyles, such as gardening, foraging, food sharing, pre-
+serving, and cooking from scratch, can draw on past-oriented time ontologies. These can manifest themselves in nostalgic and romanticis -
+ing ‘back-to-the-land ’ sentiments (such as Michael Pollan ’s [2009, p. 
+148] plea not to eat ‘anything your great grandmother wouldn ’t 
+recognise as food ’). In other cases, association with the past has been 
+used to delegitimise traditional food practices as backwards and resid-
+ual. Such negative framings have pervaded early accounts of FSP and 
+other non-market food economies in Central and Eastern Europe. These 
+practices were discursively associated with the failed socialist regime,3
+and expected to disappear with the development of the market economy 
+(Dan¯ek et al., 2022 ). However, these expectations grounded in the linear 
+temporality of modernisation have been countered by the continuous 
+relevance of these practices throughout the region ’s economic trans -
+formations (Jehli ¯cka et al., 2013; Pungas, 2019 ). These examples show 
+that the position of food practices in historical time is part of the process 
+of their valuation (Heuts and Mol, 2013 ).
+This paper addresses both the practical and the discursive tempo -
+rality of diverse food economies. Drawing on research on FSP in Brno, 
+Czechia, we advance three arguments. First, we underline the impor -
+tance of engaging, as scholars, with already existing and traditionally 
+established forms of food provisioning, to balance the search for novel 
+solutions which hold an (uncertain) promise of a future food alternative 
+(Schmid and Taylor Aiken, 2023 ). Second, by taking seriously Gibson- 
+Graham ’s (2008) invitation to read for difference and not dominance, 
+we explore the interrelations and hierarchies among market, alternative 
+market, and non-market food economies on the household level. To 
+decentre the perceived hegemony of market-based provisioning, we take 
+the non-market practice of FSP as a starting point for our research. 
+Third, we view the seasonal rhythms of gardening as a driving force 
+shaping household food practices far beyond the space of the garden and 
+the growing season.
+2.Reading food economies for difference
+The search for more sustainable foodways has found useful 
+grounding in Gibson-Graham ’s (2008) diverse economies theory, which 
+problematises the hegemony of capitalism as the dominant economic 
+form and instead makes visible other, co-existing economic forms. In 
+their famous iceberg metaphor, Gibson-Graham (2006) map economic 
+diversity on a spectrum depicting (i) the market-based capitalist econ-
+omy characterised by profit-oriented enterprise and wage labour as the 
+tip of the iceberg, with a plethora of (ii) alternative market, labour, and 
+enterprise arrangements, and (iii) non-market economic practices 
+located in the larger, submerged part of the iceberg.
+What seems to be particularly inspiring in the diverse economies ’ 
+conceptual toolkit is Gibson-Graham ’s invitation to read for ‘difference 
+and possibility rather than dominance and predictability ’ (Gibson-Gra -
+ham ’s, 2008, p. 626). In other words, to explore the existing economic 
+diversity without assuming the dominant position of capitalism. This 
+analytical move ‘enables researchers to avoid approaching AFNs as the 
+quixotic, vestigial, or doomed other to conventional, i.e., capitalist food 
+systems understood as monolithic and singular ’ (Sarmiento, 2017, p. 
+488). Indeed, the diverse economies theory presents a useful vantage 
+point for the search for more sustainable food systems, as was recently 
+highlighted by Marit Rosol (2020) and Olga Vincent and Giuseppe Feola 
+(2020) , and anticipated in earlier works (Cameron and Wright, 2014; 
+Lee, 2006; Sarmiento, 2017; Wilson, 2013 ).
+This critical economic lens is relevant in two ways. First, the indus -
+trial food system, which many AFNs seek to challenge, is closely inter-
+twined with capitalism (Vincent and Feola, 2020 ). The high productivity 
+model of the corporate-environmental food regime (Friedmann, 2005 ) 
+not only reflects a profit and growth-oriented logic of capital 
+3The history of FSP predates state socialism, with first allotment gardens 
+being established in relation to early 20th century urbanisation. For a more 
+detailed history of FSP in Czechia see Dan¯ek and Jehli ¯cka (2024) .L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+2 
+accumulation, but it also sustains the capitalist economy (Weis, 2010 ). 
+Second, perhaps due to the fundamental role of agriculture in social 
+reproduction, the agrifood sector presents fertile ground for ‘testing new 
+ways of performing the economy otherwise ’ (Rosol, 2020, p. 55). 
+Indeed, food is produced, distributed, and consumed in multiple ways, 
+involving diverse forms of labour, markets, enterprises, property, and 
+finance, whose relation to the corporate agrifood system cannot be 
+presumed (Cameron and Wright, 2014 ).
+As a result, AFNs present a productive empirical field for the devel -
+opment of the diverse economies theory, particularly concerning its 
+engagement with materiality. As pointed out by Eric Sarmiento, one of 
+the common critiques of the diverse economies scholarship is its 
+emphasis on the performativity of discourse, which ‘has long struck 
+sceptical observers as overly abstract and logocentric ’ (Sarmiento, 2017, 
+p. 489). This issue appears to be less prominent in diverse economies 
+research on AFNs, which is typically ‘quite pragmatic and grounded ’ 
+(ibid.). To confirm, our take on diverse economies in this paper centres 
+on how they materialise in everyday food provisioning practices 
+(Holmes, 2018 ) . Focusing on the material, i.e. food acquired by 
+households from different sources, allows us to understand the impor -
+tance of diverse food economies in both quantitative and qualitative 
+terms.
+Much of what we call ‘diverse food economies scholarship ’ (i.e., 
+research applying the diverse economies theory to alternative ways of 
+food provision) focuses on post-capitalist prefiguration (Chatterton, 
+2016; Zanoni, 2020 ), that is, experiments that seek to embody a 
+distinctive, post-capitalist form of economy. In this explorative, 
+possibility-oriented fashion, the purpose of AFNs is not necessarily to 
+solve questions of food provision at once. Instead, they identify possible 
+pieces of future solutions (Sarmiento, 2017; Tornaghi and Dehaene, 
+2020 ), often in the form of socially innovative reconfigurations of pro-
+ducer –consumer relations.
+In this project, post-capitalism is not understood in a temporal sense, 
+as another stage following capitalism in the linear trajectory of devel -
+opment. Instead, Tuomo Alhoj arvi and colleagues (2023) highlight post- 
+capitalist politics as an ongoing practice of visibilising other than capi-
+talist forms of economy that already exist. To make the departure from a 
+developmentalist understanding of time even more explicit, we argue, 
+scholarship on diverse food economies can find inspiration in traditional 
+ways of food provision (see, e.g. Cameron and Wright, 2014 account of 
+the diverse economies surrounding subsistence farming in the Majority 
+World). Inspired by the assertion that ‘[s]ustainable food systems have 
+already been in practice for millennia ’ (Mazac and Tuomisto, 2020, p. 
+4), this paper focuses on practices which operate outside the market 
+without explicitly opposing the capitalist food system. Including tradi-
+tional practices in post-capitalist prefiguration allows us to explore the 
+often implied but rarely addressed temporal dimension of economic 
+diversity, while further questioning the centrality of capitalism and the 
+Euromodern temporality.
+3.Diverse temporalities of the food economy
+The discursive intertwinements of capitalism with modernity and 
+progress suggest that temporality is an important, albeit rarely explicit, 
+dimension of economic diversity. Temporality scholars have linked the 
+understanding of time as linear, teleological and quantifiable to pro-
+cesses of capitalist production and Western colonialism (Valkenburg, 
+2022, Hunfeld, 2022 ). This temporal ontology displaces alternative understandings of time, much like the discourse of capitalist dominance 
+overlooks the submerged part of Gibson-Graham ’s iceberg. Indeed, 
+diverse economies theory aligns with postdevelopment scholarship in its 
+scepticism of linear narratives of progress (Gibson-Graham, 2005 ): 
+economic diversity implies a diversity of temporalities. That said, the 
+literature directly engaging with the temporality of diverse economies 
+is, to our knowledge, fairly limited.4
+Addressing this issue head-on, Vincent and Feola (2020) propose a 
+more explicit questioning of temporality as an ontological dimension of 
+economic diversity. While their argument aims at a broader applica -
+bility, we find the question of time particularly pertinent to food econ-
+omies. Food production is not divorced from the vagaries of biology, 
+ecology, and climate, which are typically characterised by the cyclical 
+time of circadian and seasonal rhythms (Goodman, 1999 ) – or what we 
+will call ‘garden time ’. Nevertheless, the industrialisation of food pro-
+duction, distribution, and consumption seeks to align these processes 
+with the ‘predictable, homogenous and linear representations of time ’ 
+(Vincent and Feola, 2020, p. 305) typical for Western modernity. The 
+use of refrigeration, preservation, and packaging, as well as globalised 
+retail alternating geographical regions, mould the organic and often 
+uncertain temporalities of food into the streamlined temporality of in-
+dustrial capitalism, which we refer to as ‘market time ’. The uninhibited 
+growth dictated by the capitalist economy is made possible by a 
+‘conspicuously short-sighted ’ time ontology and a ‘disregard for future 
+temporalities ’ (Mazac and Tuomisto, 2020, p. 6), as this ‘spatio-tem -
+poral rescaling of production ’ generates metabolic imbalances in other 
+places and times (Pungas, 2019, p. 78).
+Considering the temporality of alternative food markets evokes a 
+greater complexity. Alternative forms of food provision may often relate 
+to a contrasting time ontology: ‘relational ’, slowed down, and rejecting 
+the acceleration of everyday practices (Vincent and Feola, 2020 ). 
+However, when AFNs compete on capitalist markets, marketing, distri -
+bution, and consumption of produce often come close to the accelerated 
+temporality underpinning the market economy. For instance, Jane 
+Dixon et al.’s (2007) research from Australia shows that ‘slow ’ (i.e., 
+higher quality and higher environmental standards) foods are often only 
+accessible by car (arguably a ‘fast’ mode of transportation) and cater for 
+convenient consumption, whereas many fast food options are accessible 
+to pedestrians and feature sit-in dining areas. This leads to contradic -
+tions and hybridities the authors refer to as ‘slow food fast’ and ‘fast food 
+slow ’ (Dixon et al., 2007, p. 138).
+The non-market part of the diverse food economy, represented by 
+practices such as gardening (Bhatti et al., 2009; Schoneboom, 2013; 
+Taylor, 2018 ), gifting, gleaning, and foraging (Gibson-Graham, 2006 ), 
+often embodies qualities such as deceleration, continuity, cyclicity, and 
+repetition. In contrast to the ‘valorisation of speed ’ (Adam, 1998, in 
+Taylor, 2018, p. 296) and erasure of seasonality typical for the ‘market 
+time ’ of the industrial food supply, ‘garden time ’ is characterised by the 
+centrality of seasonality, the rhythms of sunrise and sunset, cycles of 
+growth, and the impossibility of fundamentally accelerating tasks of 
+caring for plants and soil (Taylor, 2018 ).
+Historically, the dominant scholarly (but also public) discourse on 
+the development of time has been that of nature-related, cyclical time 
+being displaced by linear, Euromodern industrial/clock time (Taylor, 
+2018 ). The intensification and acceleration of modern time relate to the 
+development of capitalism (Castells, 1996; Castree, 2009 ) and the 
+colonial displacement of indigenous temporalities (Hunfeld, 2022; 
+Valkenburg, 2022 ). Specifically in the food regime studies, this 
+4The Handbook of Diverse Economies (Gibson-Graham & Dombroski, 2020 ) 
+includes several cursory mentions of temporality in terms of reciprocity and 
+finance, food-related slowness and the slower pace of labour in the anti-mafia 
+enterprise. Otherwise, temporal notions are absent from the Handbook 
+which, with 58 chapters and 546 pages, presents the gamut of current debates 
+within the diverse economies scholarship.L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+3 
+discourse is echoed in suggestions about industrial agriculture 
+privileging ‘circulation time of commodity over natural reproduction 
+time ’ (McMichael, 2015, p. 307). Unsurprisingly, the concern about 
+uniform, linear quantitative and accelerated clock time replacing ‘the 
+heterogeneous patterns of traditional agricultural work entrained to 
+nature ’s diverse rhythms ’ or ‘cyclic-qualitative ’ time (Taylor, 2018, p. 
+295) is also echoed in studies of (allotment) gardening (Schoneboom, 
+2013; Taylor, 2018 ).
+Alongside these accounts, other scholars have problematised the 
+notion of a straightforward substitution of cyclical time with linear time, 
+pointing out the coexistence of alternative time ontologies. Apart from 
+the diverse temporalities embedded in indigenous ways of knowing and 
+being, Govert Valkenburg (2022) refers to the continued existence of a 
+diversity of temporalities even in Western societies. For instance, per-
+formance, ritual and learning inevitably rely on repetition, pointing to 
+the relevance of a circular notion of time. Rhythm, sequencing and 
+temporal ordering have received attention in scholarship examining 
+consumption as a social practice (Southerton, 2013 ), where food prac-
+tices in particular seem to demand specific temporal conditions in terms 
+of coordination, timing, tempo and duration. Encounters with more- 
+than-human actors serve as another reminder of coexisting temporal -
+ities (Gibson and Warren, 2020; Phillips, 2020 ).
+As a result, people navigate multiple temporalities in their daily lives 
+(Valkenburg, 2022 ), as is also illustrated in Abigail Schooneboom ’s 
+(2018 ) ethnography of allotment gardening and its temporal in-
+tersections with the pace of modern (work) life. On the one hand, the 
+time requirements of gardening have been documented as a barrier, 
+particularly for the younger generation (Mincyt le et al., 2020; Pungas, 
+2023 ). On the other hand, though, ‘the texture of time spent at the 
+allotment ’ (Schoneboom, 2018, p. 361) seems fundamentally different, 
+as they create ‘non-obligated time ’ (ibid.) spent in the flow of gardening 
+tasks and contemplation.
+In this paper, we use the specific temporality of gardening as a 
+starting point from which we add to the literature that problematises the 
+narrative of Euromodern linear time eclipsing ‘traditional ’, cyclical, and 
+nature-related time. Our contribution to this scholarship focuses on 
+gardens as sources of food and thus spaces which exist within, and 
+interact with, the diverse food economy. The temporal lens adds another 
+dimension to the diverse economies as a performative epistemological 
+and ontological project. If perpetuating the hegemonic position of the 
+modernist time leads to a delegitimisation of other temporalities 
+(Hunfeld, 2022; Valkenburg, 2022 ), highlighting the coexistence and 
+interactions of concomitant diverse temporalities has the opposite ef-
+fect. It decentres the ‘market time ’ in the same way as visibilising eco-
+nomic diversity decentres capitalism.
+4.Methodology
+This paper draws empirically on a qualitative study conducted in 
+cooperation with 27 households5involved in FSP in Brno, Czechia ’s 
+second largest city.6The sample included households that were not 
+professional farmers but produced food for their own consumption in a 
+garden adjacent to their home, on an allotment plot, or in a second-home 
+garden. The size of the plots ranged from 200 to 2,000 m2 with diverse 
+intensities of production. All households produced fruits and vegetables, 
+which were the focus of our analysis and an inclusion criterion during 
+the recruitment of participants. In addition, two gardeners kept bees, six 
+had chickens for eggs, and two kept rabbits for meat. Households ranged 
+from one to five people,7and most were represented by a female respondent, arguably due to the gendered nature of food provisioning 
+work. The sampling aimed for diversity in terms of age and socio- 
+economic status; however, respondents with university degrees were 
+overrepresented.8
+The goal of the research was to inventorise the diverse economies in 
+which participants engage in order to acquire fruits and vegetables, and 
+to understand their mutual interactions. To this end, participants were 
+asked to record all fruits and vegetables that entered their household 
+and their respective sources, (estimated) weight, and usage (see also 
+Pourais et al., 2015 for a similar methodology). Using Gibson-Graham ’s 
+(2006) diverse economies matrix, food sources were subsequently cat-
+egorised as non-market (gardening, foraging, gifts), alternative market 
+(farmers ’ markets, direct sales, and organic food shops), and market- 
+based (supermarkets and grocery shops).9The same analytical lens 
+was applied to the food that households distributed. Here, only non- 
+market transactions (sharing, gifting, or exchange) were reported in 
+the overwhelming majority of cases, as only one respondent sold small 
+quantities of their produce. In addition, food usage included the cate-
+gories of consumption, preserving, and storing for future use.
+Assuming that seasonality would influence the use of the gardens as 
+food sources, we structured the data collection in four rounds spread 
+throughout the seasons of the year. In each season, participants kept 
+food logs for a period of one month.10Food logs were accompanied by 
+four to six semi-structured interviews per respondent. An introductory 
+interview mapped their gardening practices and motivations as well as 
+the practicalities of their household food provision. Subsequent in-
+terviews were held at each seasonal round of data collection and served 
+to test emerging interpretations, clarify ambiguities in the food logs11
+and retain participants ’ commitment. The concluding interview 
+reviewed the developments of respondents ’ food provisioning practices 
+throughout the year and verified the interpretation of seasonal patterns.
+The food logs provided a detailed insight into households ’ food 
+provisioning strategies. These data offered a quantitative account of the 
+material volume of diverse food economies at the household level, 
+illuminating the much-debated question of the relevance and scale of 
+non-market forms of food provision. Nonetheless, our research remains 
+qualitative in nature, aiming to understand participants ’ motivations for 
+the use of particular food sources and the practicalities of food provi -
+sioning in daily life. In our results, we thus build from the quantitative 
+evidence provided by the food logs to a more qualitative interpretation 
+based on insights from the interviews.
+5.Results
+This section discusses the role of temporal rhythms in the diverse 
+5For the sake of anonymity, we refer to them as respondents 1–28. One of the 
+households dropped out during the data collection.
+6Population 400,000.
+7Data reported bellow relates to the households (irrespective of their size) 
+unless stated otherwise.8Previous representative surveys have showed that FSP is practiced across 
+social classes and income groups in Czechia (Jehli ¯cka et al., 2019 ).
+9This simplified categorisation is mostly based on the prevalent types of 
+transactions, and we are aware that it does not fully capture the diverse eco-
+nomic relations fostered by each type of source (see Sovov ˘a, 2020 for a more 
+elaborate discussion). Other studies (Holmes, 2018 ; Morrow, 2020 ; Rosol, 
+2020 ; Wilson, 2013 ) provide greater nuance by unpacking economic practices 
+in terms of labour, property, finance, and organisational layout. In comparison, 
+our goal is not to deliver a granular analysis of different food economies, but 
+instead to investigate their interactions on the household level – for which a 
+somewhat coarser application of Gibson-Graham ’s categories serves well.
+10Importantly, all data concerning food weight, source, and usage reported 
+below relate to these four month-long periods only, not to the whole year.
+11While food logs rely on respondents ’ self-reporting, we believe that they 
+provide for a more accurate data than memory recall often used in consumer 
+studies. The main challenges experienced during data collection related to re-
+spondents ’ ability to estimate food quantities and to the sometimes blurry 
+boundaries between different types of sources (e.g. gifting vs. buying from an 
+acquaintance for a reduced price) and uses (e.g. own consumption vs. sharing in 
+cases of closely related households) of food (see Sovov ˘a, 2020 for details).L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+4 
+economies of gardeners ’ households. Before that, however, we need to 
+provide a brief inventory of the food sources households used, qualifying 
+them as representing diverse food economies (section 5.1). This over-
+view is accompanied by several important notes on the meanings re-
+spondents associated with different types of sources (section 5.2). 
+Finally, we draw out several arguments about the temporality of diverse 
+food economies (section 5.1-5.3 ).
+5.1. Diverse household food economies
+Gardening households mobilise several approaches to obtaining 
+fruits and vegetables that relate to the three types of transactions in the 
+diverse economies matrix (Gibson-Graham, 2006 ). Table 1captures the 
+types of sources households used during the four months of data 
+collection. Market-based sources were most important, with supermar -
+kets covering on average 43% of household consumption of fruits and 
+vegetables. Nonetheless, the food logs also revealed the importance of 
+acquiring fruits and vegetables outside the market, i.e. through FSP and 
+gifting. On average, 31% of respondents ’ consumption was covered from 
+their own gardens.
+Alternative market sources were comparatively less significant, ac-
+counting for 14% of the household fruit and vegetable consumption on 
+average. The prevalence of more novel forms of AFNs, such as organic 
+food shops or farmers ’ markets, was particularly low. The most signifi -
+cant alternative market source was direct sales, i.e. instances when re-
+spondents purchased food directly from producers. We note that these 
+sources were often embedded in specific places and/or social relations, 
+e.g. when respondents combined visiting relatives in the countryside 
+with buying fruits and vegetables, or when those living on the city’s 
+outskirts purchased food from nearby farms. The relations and meanings 
+underpinning different types of food sources are further discussed in the 
+next section.
+5.2. Hierarchy of food sources
+Previous research from Central and Eastern Europe has detailed the 
+high appreciation for home-grown and home-made food in the region. 
+This literature (e.g. Decker, 2018; Pungas, 2019; Trenouth and Tisen -
+kopfs, 2015; Yotova, 2018 ) has unpacked a complex notion of food 
+quality in which home-grown food is valued for its transparent origin 
+and ‘natural ’ production methods, resulting in a superior taste, health -
+iness and freshness. Our research confirms that these meanings are 
+closely intertwined, and it relates them directly to respondents ’ 
+embodied experience with food growing: 
+I think that home-grown [food] is definitely of higher quality. For 
+instance, I don’t use many chemicals. Other people may use chem -
+icals in their gardens, and they have more beautiful, bigger vegeta -
+bles. But is it better taste- or health-wise? I have seen how tomatoes 
+are grown in Turkey, in those fields of polytunnels. Well, they ’re red, 
+but they don’t have any flavour. Or if I buy strawberries now [in 
+winter], they taste like beetroot. A strawberry, when you pick it in 
+the garden, the sun is shining on it and it’s warm; you don’t get that 
+taste even if you buy it on the market from a farmer, but if you have it 
+warm, freshly picked, that’s something exquisite. And that’s exactly 
+why I do it. (respondent 15)
+Furthermore, our results resonate with existing scholarship from the 
+region (e.g. Bilewicz and ˘Spiewak, 2019; Blumberg, 2014; Gabriel, 
+2005; Mincyte, 2014 ), which shows a preference for socially based 
+guarantees of quality over more formalised ones. When discussing 
+farmers ’ markets, respondent 10 explained: 
+One anyway doesn ’t know where it [i.e., food] comes from [at the 
+farmers ’ market]. I don’t really have trust in it. I prefer to get 
+something from an acquaintance, although I know that they can also 
+use something [i.e., agrochemicals], or I don’t know exactly. I don’t dig into it, but I know that there is a person behind it, so I have more 
+trust in it.
+In summary, respondents ’ understanding of food quality related 
+directly to their proximity to the food production. They valued their own 
+produce for ‘knowing exactly what they put in it’ and they also had trust 
+in the quality of food produced by people they personally knew, while 
+being suspicious of longer and less transparent supply chains. Notably, 
+food purchased in supermarkets was understood as having lower qual-
+ity, and commonly described as ‘chemical ’ and ‘tasteless ’.
+This results in a clear hierarchy of food sources which positions non- 
+market food practices above market-based provisioning. Indeed, pur-
+chasing food from market-based sources was framed explicitly as a last 
+resort: 
+I don’t necessarily need to grow everything; you can always ex-
+change [food] with someone, or in the worst case, you buy it. 
+(respondent 10)
+Juxtaposing these understandings of food quality to the food log data 
+shows that non-market food provision is not only quantitatively rele-
+vant, but also perceived as the source of the best food. This challenges 
+earlier literature which assumed that non-market food economies in 
+Central and Eastern Europe would be replaced by commercial retail as 
+the region ’s economic transformation advances on the linear develop -
+ment trajectory towards capitalism (Dan¯ek et al., 2022 ).
+However, respondents ’ perception of market-based sources seemed 
+at odds with the purchases of fruits and vegetables in supermarkets. 
+Even though market sources were framed as the worst in terms of food 
+quality, they still provided most of the fruits and vegetables consumed. 
+The next section unpacks this paradox by examining the temporality of 
+households ’ diverse food economies.
+5.3. The time of good food
+The starting point of our argument regarding temporality consists of 
+two premises. First, homegrown food is perceived as the best and, by 
+extension, non-market sources are preferred over market-based food 
+provision. Second, gardening is a seasonal practice, and non-market and 
+alternative market food sources are generally subject to higher seasonal 
+fluctuation than the globalised, market-based food supply. While these 
+assertions might seem trivial, investigating their consequences for 
+household food economies allows us to confirm the central position of 
+non-market food sources, while highlighting the importance of season -
+ality in the interactions of diverse food economies. Furthermore, we use 
+this point to illustrate the steadfast influence of natural rhythms on the 
+daily lives of urban professionals living in an industrialised country, thus 
+disputing the assumed dominance of the accelerated linear time of 
+capitalist modernity.
+The organisation of the data collection into four rounds spread 
+throughout the year allowed us to observe seasonal patterns in re-
+spondents ’ food provisioning practices as well as their household diets. 
+Unsurprisingly, the gardens played a major role during the summer 
+season, as shown in Fig. 1. During this time, respondents purchased 
+fewer fruits and vegetables, while their consumption of these foods 
+increased.12On average, respondents covered 56 per cent of their fruit 
+and vegetable consumption from their own production.13We also want 
+to highlight that the amount of food harvested from the gardens 
+12During the summer month of data collection, respondents consumed an 
+average 28 kg of produce per person, compared to 19 kg in the spring, autumn 
+and winter rounds.
+13In comparison, the gardens covered 26% of household consumption in the 
+spring, 18% in autumn and 12% in the winter round of data collection.L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+5 
+exceeded respondents ’ consumption. An average household shared and 
+gifted 19 kg of home-grown food,14and preserved or stored another 20 
+kg. The garden harvest dominated respondents ’ diets not only in terms 
+of the amount, but also the types of fruits and vegetables consumed. The 
+most consumed vegetables (tomatoes, cucumbers, pumpkins, and 
+zucchini) and fruits (apples, peaches, and grapes) were sourced almost 
+exclusively from respondents ’ gardens.
+Observing food provisioning patterns outside the summer abundance 
+sheds light on the interactions of diverse food economies in respondents ’ 
+households. We notice three coexisting patterns that illuminate the 
+tension between the negative perception of market-based food sources 
+and their continuous use. First, there is a clear increase in supermarket 
+purchases in the autumn and winter rounds of data collection. This is 
+explained as a way to supplement household needs after the (preferred) 
+home-grown produce ceases to be available: 
+I cook vegetables a lot. Now [in winter] I buy frozen mixes, for 
+instance, green peas and carrots, and I buy lettuce and Chinese 
+cabbage because I don’t have that from the garden now, so I need to 
+buy it. (respondent 22)
+Second, respondents developed numerous strategies to minimise the 
+use of market-based food sources, which they associated with lower food 
+quality. These crucially included preserving and storing foods from their 
+own gardens or other non-market and alternative market sources: 
+Even in winter, we didn ’t buy vegetables at all. We had some pickled 
+beetroot of our own. I also fermented cabbage, some of my own and 
+some I bought from a farmer. I have dried mushrooms, so [we eat] everything with mushrooms, the last of the pumpkins, lots of po-
+tatoes, rice, lentils. (respondent 10)
+The increase of direct sales in the autumn and winter rounds of data 
+collection, as shown in Fig. 1, reflects bulk on-farm purchases intended 
+to cover household consumption of more durable produce (most notably 
+apples and potatoes) throughout the winter. Storing was importantly 
+conditioned by the infrastructures available to individual households, 
+inviting creative solutions but also shaping respondents ’ gardening 
+choices: 
+My parents have a really good cellar, where potatoes, beetroots and 
+carrots and everything last easily until April. They store whatever 
+they can. At our place, it wouldn ’t be possible. We have this city-type 
+cellar. It’s not cold, and the humidity is also not good. So, they store 
+it there, and then we bring it by five kilos. (respondent 9)
+I try to grow things that can be stored. What cannot be stored, I only 
+try to produce in quantities I can give away. For instance, when I 
+plant new trees, I look at the durability of the fruits. (respondent 17)
+These examples illustrate how FSP (but also other food sources) and 
+eating are intertwined across long-term temporal scales. The fact that 
+future harvests are envisioned months in advance during sowing and 
+planting is intrinsic to the temporality of gardening. Storing and pre-
+serving practices stretch this time-scale even further, often exceeding 
+the span of a year: 
+I regularly sow spinach in autumn; in the spring it sprouts by itself. It 
+is low maintenance, but it is, for instance, five big boxes at once. So I 
+keep some and I quickly distribute the rest to relatives, who process it 
+for themselves. (…) It’s basically spinach for the whole year. I freeze 
+a lot of it. (respondent 17)
+Such long-term planning contrasts sharply with the notion of fast Table 1 
+Sources of fruits and vegetables consumed in respondent households during the data collection periods.
+non-market sources alternative market sources market sources
+garden foraging gift direct sales farmers ’ market organic food shop grocery shop supermarket
+average kg 56.5 0.5 14.6 18.5 6.5 0.1 4.8 70.3
+average % 31.4 0.2 8.3 9.6 4.8 0 2.7 43
+average % per category 39.9 14.4 45.7
+Fig. 1.Average household consumption of fruits and vegetables from diverse sources according to the season. Data excludes food that was gifted, preserved 
+and stored.
+14While we lack space in this paper to elaborate on the extensive networks of 
+gifting and sharing, they add to the importance of non-market food provision by 
+enhancing social resilience (Jehli ¯cka et al., 2019 ; Sovov ˘a et al., 2021 ).L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+6 
+food and the just-in-time delivery models of market-based provision. 
+However, similar practices were routinised among gardeners, who 
+developed them by trial and error over the years. Because of this, some 
+respondents maintained a high level of self-sufficiency throughout the 
+year, temporarily redistributing surplus produce from more plentiful 
+seasons. In their food logs, stocks and preserves from past harvests 
+overlapped with early crops of the new season, highlighting the cyclical 
+nature of their food provisioning practices. For others, home-grown food 
+was saved for special occasions, e.g. when respondent 25 made red 
+currant jam for Christmas sweets and respondent 24 kept spinach in the 
+freezer for next season ’s Easter stuffing.
+Preserving and storing foods from ‘good sources ’ thus enabled re-
+spondents to maintain their standards for good food, while additional 
+purchases of fruits and vegetables in supermarkets ensured that their 
+dietary needs were met. That said, the overall consumption of fruits and 
+vegetables decreased, particularly in the winter and spring rounds of 
+data collection, following the declining seasonal availability of (stored) 
+home-grown food. The following quote by respondent 7 confirms that 
+this adjustment results from the hierarchy of sources by food quality: 
+I find it somehow logical, when it’s not there in the winter, why 
+would I buy it in the supermarket? For instance, tomatoes and cu-
+cumbers, why would I eat them and buy them when they are not 
+tasty?
+This brings us to the third pattern, namely the influence of garden 
+seasonality on the composition of respondents ’ diets. Despite the di-
+versity in food preferences among respondents ’ households, the food log 
+data reveals shared seasonal patterns in their fruit and vegetable con-
+sumption. Most notably, the consumption of particular crops declined 
+once they stopped being available from the preferred sources. The 
+aforementioned tomatoes are the most prominent example of this 
+pattern: they were produced by all respondents, and were also often 
+mentioned as a marker of difference in taste between home-grown and 
+shop-bought food. Food logs confirmed high consumption of tomatoes, 
+which was, however, limited almost exclusively to the time when they 
+were available from the gardens. Although supermarkets offer tomatoes 
+year-round, these do not meet the quality standards expected by 
+gardeners.15
+The seasonal eating pattern can thus be traced back to a preference 
+for home-grown food. Fig. 2illustrates similar fluctuations in con-
+sumption of several crops, which relate directly to their harvest time and 
+shelf life: while strawberries, lettuce, zucchinis and tomatoes were eaten 
+almost exclusively during, respectively, spring and summer, stored 
+pumpkins and potatoes lasted until the autumn and winter rounds of 
+data collection. The majority of these crops was obtained from re-
+spondents ’ own gardens, gifts and direct sales, and respondents 
+preferred reducing their consumption over obtaining them from ‘lower 
+quality ’ market-based sources.
+Such seasonal fluctuations were not observed in the consumption of 
+crops that were commonly obtained from market-based sources. These 
+crops were usually perceived as difficult to grow (e.g. carrots, cabbage) 
+or easy to buy in good quality (e.g. onions). While the consumption of 
+these foods remains comparatively more stable, some of the re-
+spondents ’ accounts suggest a ripple effect of the garden rhythms. For 
+instance, multiple respondents explained the summer peak in their 
+consumption of (mostly shop-bought) onions by the need to use more 
+onions for meals and preserves made with garden vegetables. Carrots 
+and cabbage were consumed slightly more in autumn and winter, 
+possibly also to compensate for the lack of other vegetables from the 
+gardens. It thus appears that the seasonal availability of food from 
+gardens drives changes in consumption, which also extend to foods from other sources and beyond the harvest period. In fact, the connection 
+between perceived food quality, preference for non-market sources, and 
+their seasonality makes for the strongest determinant of respondents ’ 
+eating practices.
+6.Discussion
+In light of our findings, in this section, we revisit the three arguments 
+formulated in the Introduction. The first one relates to temporal dis-
+courses and the importance of engaging with the traditionally estab -
+lished forms of food provisioning which exist in parallel – though not 
+necessarily in opposition – to market-based provision. These forms are 
+underrepresented in studies of diverse food economies, which often 
+focus on novel initiatives that seek more explicitly to overcome the 
+limitations of the capitalist food system. As Benedikt Schmid and Gerald 
+Taylor-Aiken (2023, p. 511) point out, the dominant emphasis on nov-
+elty has a dual effect – the ‘displacement from the present ’ that leads to 
+ignoring ‘practices that already exist ’ and the implicit prioritisation of 
+the future as the location of ‘new and hopeful practices ’.
+This perspective is visible in literature describing the slow prolifer -
+ation of ‘novel ’ AFNs such as community-supported agriculture, 
+farmers ’ markets or organic food shops in Central and Eastern Europe 
+(Spilkov ˘a, 2018 ), which our results indeed confirm. At the same time, 
+we observe the existence of direct producer –consumer arrangements 
+that are not driven by innovation but grounded in social relations and 
+connections to place, and which others have similarly described as 
+traditional (Tisenkopfs, 2017 ) or embedded (Goszczynski et al., 2019 ) 
+food networks.
+Zooming in on literature on urban food gardening, we notice an 
+implicit, yet entrenched, temporality-based valuation, which positions 
+‘innovative ’ AFNs (such as rooftop or community gardening projects) as 
+distinctive from ‘traditional ’ allotment and home gardening. The former 
+type is typically represented through a rhetoric of emergence and nov-
+elty, which emphasises potential for future transformation (often 
+pending questions about upscaling and economic viability; Schmid and 
+Taylor Aiken, 2023 ). In this manner, the search for alternative food 
+practices remains firmly embedded in the linear Euromodern time 
+ontology (Vincent and Feola, 2020 ) and its ideas of progress.
+Traditional forms of FSP in allotment and home gardens have been 
+associated with temporality in a different manner, one that is, never -
+theless, also related to linearity and modernisation. For a long time, 
+rather than being framed as part of future-oriented, progressive de-
+velopments, allotment and home gardening have been associated with a 
+past-oriented temporality and primarily understood as a manifestation 
+of backwardness (Dan¯ek et al., 2022; Pungas et al., 2022 ; Smith and 
+Jehli ¯cka, 2013 ). This can be viewed as a specific variant of the ‘denial of 
+coevalness ’ (Fabian, 2014 ), a situation in which a culture or community 
+– in this case, a social group of home and allotment gardeners – is 
+epistemologically marginalised (Valkenburg, 2022 ) on the basis of being 
+seen as not sharing ‘our’ time. Conversely, acknowledging diversity in 
+practices and their respective temporalities allows for their contempo -
+raneous coexistence. Engaging with traditional forms of food provision 
+thus expands the space of possibility for more equitable food economies. 
+Furthermore, paying attention to temporal discourses adds an important 
+dimension to the inventory of economic diversity as it helps shed light 
+on practices that might be unrightfully overlooked due to their associ -
+ation with the past (Sovov ˘a, Cima et al., forthcoming )).
+This relates to our second argument, which concerns reading for 
+difference and hence not making assumptions on the interrelations and 
+hierarchies among diverse food economies. Engaging with traditional 
+forms of FSP in Central and Eastern Europe shows the relevance of non- 
+market food economies which exist alongside the wide availability of 
+cheap and convenient foods and the region ’s broader transformations 
+towards neoliberal capitalism. Our results reveal that direct and 
+embodied experiences with food production shape gardeners ’ un-
+derstandings of food quality, according to which the best food can be 15We could argue, following Heuts and Mol (2013) , that the experience of 
+tomato growing not only educated gardeners in recognizing a good tomato, but 
+it was in fact an intrinsic part of actively performing tomatoes as good.L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+7 
+obtained from sources which operate outside, or on the margins of, the 
+market economy: FSP, gifts, or direct sales based on personal contacts.
+Although our research is based on a small sample of 27 households, 
+there is robust evidence of the widespread prevalence of FSP in Central 
+and Eastern Europe: the share of the population growing some of their 
+own food is 51 per cent in Czechia (Smutna et al., 2024 ), 36 per cent in 
+Hungary (Balazs, 2016 ), 50 per cent in Croatia (Jehli ¯cka et al., 2021 ) 
+and 54 per cent in Poland (Smith and Jehli ¯cka, 2013 ). Across these 
+studies, participants from diverse socio-economic groups value 
+gardening as a meaningful hobby, but also as a source of food of the 
+highest quality. This source also feeds (literally and figuratively) vibrant 
+networks of gifts and sharing, extending the relevance of home-grown 
+produce beyond gardening households (Jehli ¯cka and Dan¯ek, 2017 ). 
+Given the number of practitioners involved and the quantity of food 
+produced, FSP is far from a niche practice: the patterns observed in our 
+research are likely to shape the broader food system in the region. In that 
+sense, our insights into the relation of FSP to other food sources present a 
+crucial addition to existing research on this practice.
+Our third argument relates the hierarchy of diverse food economies 
+to their diverse temporalities. In advancing this idea, we draw on Philip 
+McMichael ’s (2015) conflation of temporality and value. We show that 
+the cyclic-qualitative time determined by gardening rhythms is associ -
+ated with a higher value. As a consequence, it structures the gardeners ’ 
+practices in the other two – market and alternative market – segments of 
+diverse food economies. The participants in our research were not 
+striving for self-sufficiency for the sake of being independent from the 
+market or the industrial food system. Instead, their ambition was to 
+provide their households with good-quality food. As a result, they still 
+shopped for part of their fruits and vegetables in supermarkets, partic -
+ularly in seasons when food from the preferred sources was unavailable. At the same time, they applied multiple strategies to minimise their 
+reliance on conventional markets, which they associated with lower 
+food quality. The seasonal patterns we discovered in respondents ’ food 
+sources and diets are particularly remarkable considering that diverse 
+types of fruits and vegetables were available (and affordable) to them 
+throughout the year. Despite that, their fruit and vegetable consump -
+tion16was crucially shaped by the ‘garden time ’ of non-market food 
+sources.
+Existing research points to a congruence between economic relations 
+and temporal ontologies (Vincent and Feola, 2020 ): the accelerated and 
+linear ‘market time ’ pertaining to the capitalist agro-industry contrasts 
+with the slower and cyclical ‘garden time ’ of non-market food econo -
+mies. Confirming this, our case challenges the often presumed relations 
+of dominance on both levels: it contests the assumption about FSP being 
+replaced by market-based food provision, and with that also the 
+discourse of ‘market time ’ overruling ‘garden time ’. We thus confirm the 
+relevance of temporality for deepening the analysis of economic di-
+versity, and we highlight the role of seasonality as an important point of 
+attention for research on diverse food economies and their mutual 
+interactions.
+7.Conclusion
+Current debates on food and agriculture often leave the reader with a 
+rather bleak impression: the ever-accelerating pace of global capitalism 
+leaves little time for the natural rhythms of food production, and more 
+sustainable futures are only imaginable through out-of-the-box in-
+novations. In the spirit of Gibson-Graham ’s (2008) reading for differ -
+ence, this paper suggests the possibility of a different and more hopeful 
+interpretation of food practices existing on the household level.
+Fig. 2.Average household consumption of crops with seasonal fluctuation.
+16We acknowledge here the diverse diets of our respondents, in which fruits 
+and vegetables played more or less significant role. Our data does not allow us 
+to generalise the importance of informal economies and seasonal rhythms for 
+other types of food. Furthermore, our future research will compare the diets of 
+gardening and non-gardening household to further comprehend the influence of 
+FSP on eating patterns.L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+8 
+Our research questions the hegemony of the market-based food 
+economy by showing that other ways of obtaining food are not only 
+multiple and substantial but also favoured by their practitioners and 
+influential in their food-related behaviours. While the seasonal patterns 
+observed in this study confirm this, they also deliver another general 
+point concerning the temporalities related to everyday food practices. 
+The food provisioning practices of our respondents – who reside in an 
+urban centre of an industrialised country and lead a relatively affluent 
+lifestyle – are subject to the capitalist temporality of round-the-clock 
+availability and on-the-go fast consumption. However, these forces do 
+not seem more important than the cyclical temporality of the growing 
+seasons. The findings presented in this paper thus add to the emerging 
+body of literature that problematises the narrative of Euromodern linear 
+time eclipsing ‘traditional ’, cyclical, and nature-related time.
+This paper complements current literature on diverse food econo -
+mies by examining traditional non-market economies. This opens new 
+opportunities for exploring diverse interconnections and hierarchies 
+among diverse food sources. It also allows us to contest the implicit but 
+persistent tendency in the debates on alternative food practices to search 
+for novel, emerging initiatives, thus locating their transformative po-
+tential in the unidentified future. Instead, our findings highlight the 
+relevance of a practice embedded in a long-term tradition, which has 
+often been portrayed as outdated and in decline but which, however, 
+presents a food alternative with contemporary relevance.
+CRediT authorship contribution statement
+Lucie Sovov ˘a: Writing – review & editing, Writing – original draft, 
+Methodology, Investigation, Formal analysis, Data curation, Conceptu -
+alization. Petr Jehli ¯cka: Writing – review & editing, Writing – original 
+draft, Supervision, Conceptualization.
+Funding
+Lucie Sovov ˘a’s work on this paper was supported by the European 
+Forum on Urban Agriculture (EFUA), funded under the European 
+Union ’s Horizon 2020 Research and Innovation Programme. The source 
+of funding for Petr Jehli ¯cka’s work on this article was Praemium Aca-
+demiae (AP2303) awarded by the Czech Academy of Sciences.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgements
+Drafts of this work were presented at the RSA Central and Eastern 
+Europe Conference (14-17 September 2022, Leipzig) and the AESOP 
+Sustainable Food Planning conference (19-22 October 2022, Almere). 
+We are thankful for the participants ’ comments and feedback. We are 
+also grateful to Barbora Stehlíkov ˘a, Daniel Sosna, Kieran O’Mahony, 
+Laura Kuen and Paul Keil for their comments on an earlier draft of the 
+paper. We would like to thank Patty A. Gray for language editing. We are 
+grateful to the research participants for their efforts in the data collec -
+tion and their willingness to discuss their food provisioning practices 
+with us.
+Data availability
+Data will be made available on request.References
+Aistara, G., 2014. Authentic Anachronisms. Gastronomica: the Journal of Food and Culture 
+14, 7–16. https://doi.org/10.1525/gfc.2014.14.4.7 .
+Alhoj arvi, T., Lyne, I., Placino, P., McKinnon, K., 2023. Postcapitalism. In: Elgar 
+Encyclopedia of Development . Edward Elgar Publishing, pp. 483–488.
+Arguelles, L., Anguelovski, I., Dinnie, E., 2017. Power and privilege in alternative civic 
+practices: Examining imaginaries of change and embedded rationalities in 
+community economies. Geoforum 86, 30–41. https://doi.org/10.1016/j. 
+geofonun.2017.08.013 .
+Bal˘azs, B., 2016. Food self-provisioning – the role of non-market exchanges in sustainable 
+food supply. In: Meybeck, A., Redfern, S. (Eds.), Sustainable Value Chains for 
+Sustainable Food Systems: A Workshop of the FAO/UNEP Programme on Sustainable 
+Food Systems: Rome, 8—9 June 2016 . FAO.
+Bhatti, M., Church, A., Claremont, A., Stenner, P., 2009. ‘I love being in the garden ’: 
+Enchanting encounters in everyday life. Soc. Cult. Geogr. 10 (1), 1. https://doi.org/ 
+10.1080/14649360802553202 .
+Bilewicz, A., ˘Spiewak, R., 2019. Beyond the “Northern ” and “Southern ” Divide: Food and 
+Space in Polish Consumer Cooperatives. East European Politics and Societies: And 
+Cultures 33 (3), 3. https://doi.org/10.1177/0888325418806046 .
+Blumberg, R., 2014. Placing alternative food networks: farmers ’ markets in post-Soviet 
+Vilnius, Lithuania. In: Jung, Y., Klein, J.A., Caldwell, M.L. (Eds.), Ethical Eating in the 
+Postsocialist and Socialist World . University of California Press, pp. 69–92.
+Bruce, A.B., Castellano, R.L.S., 2017. Labor and alternative food networks: Challenges for 
+farmers and consumers. Renewable Agric. Food Syst 32 (5), 403–416. https://doi.org/ 
+10.1017/S174217051600034X .
+¯Cajka, A., Novotný, J., 2022. Let us expand this Western project by admitting diversity 
+and enhancing rigor: A systematic review of empirical research on alternative 
+economies. Ecol. Econ. 196, 107416. https://doi.org/10.1016/j. 
+ecolecon.2022.107416 .
+Cameron, J., Wright, S., 2014. Researching diverse food initiatives: From backyard and 
+community gardens to international markets. Local Environ. 19 (1), 1.
+Castells, M., 1996. The Rise of the Network Society . Blackwell .
+Castree, N., 2009. The Spatio-temporality of Capitalism. Time Soc. 18 (1), 26–61. https:// 
+doi.org/10.1177/0961463X08099942 .
+Chatterton, P., 2016. Building transitions to post-capitalist urban commons. Trans. Inst. 
+Br. Geogr. 41 (4), 403–415. https://doi.org/10.1111/tran.12139 .
+Dan¯ek, P., Jehli ¯cka, P., 2024. Gardening as a responsible leisure activity: The geography 
+of Central European food self-provisioning. Erdkunde 78 (4), 4. https://doi.org/ 
+10.3112/erdkunde.2024.04.02 .
+Dan¯ek, P., Sovov ˘a, L., Jehli ¯cka, P., V˘avra, J., Lapka, M., 2022. From coping strategy to 
+hopeful everyday practice: Changing interpretations of food self-provisioning. Sociol. 
+Rural. 62 (3), 651–671. https://doi.org/10.1111/soru.12395 .
+Daniels, S., Glorieux, I., 2015. Convenience, food and family lives. A socio-typological 
+study of household food expenditures in 21st-century Belgium. Appetite 94, 54–61. 
+https://doi.org/10.1016/j.appet.2015.04.074 .
+Davies, A.R., Edwards, F., Marovelli, B., Morrow, O., Rut, M., Weymes, M., 2017. Making 
+visible: Interrogating the performance of food sharing across 100 urban areas. 
+Geoforum 86, 136–149. https://doi.org/10.1016/j.geoforum.2017.09.007 .
+Decker, A., 2018. A Freezer full of Meat. Subsistence Farming in the Context of Social 
+Inequality. Zeitschrift fur Volkskunde 114 (2), 213–235.
+DeVault, M.L., 1991. Feeding the Family: The Social Organization of Caring as Gendered 
+Work . University of Chicago Press .
+Dixon, J., Banwell, C., Hinde, S., McIntyre, H., 2007. Car-centered Diets, Social 
+Stratification and Cultural Mobility. Food, Cult. Soc. 10 (1), 131–147. https://doi. 
+org/10.2752/155280107780154105 .
+Fabian, J., 2014. Time and the Other: How Anthropology Makes Its Object . Columbia 
+University Press .
+Friedmann, H., 2005. From Colonialism to Green Capitalism: Social Movements and 
+Emergence of Food Regimes. In: Buttel, F.H., McMichael, P. (Eds.), New Directions in 
+the Sociology of Global Development , Vol. 11. Emerald Group Publishing Limited, 
+pp. 227–264. https://doi.org/10.1016/S1057-1922(05)11009-9 .
+Gabriel, C., 2005. Healthy Russian Food is Not-for-Profit. Michigan Discussions in 
+Anthropology 15, 183–222.
+Gibson, C., Warren, A., 2020. Keeping time with trees: Climate change, forest resources, 
+and experimental relations with the future. Geoforum 108, 325–337. https://doi.org/ 
+10.1016/j.geoforum.2019.02.017 .
+Gibson-Graham, J.K., 2005. Surplus possibilities: postdevelopment and community 
+economies. Singap. J. Trop. Geogr. 26 (1), 4–26. https://doi.org/10.1111/j.0129- 
+7619.2005.00198.x .
+Gibson-Graham, J.K., 2006. The End of Capitalism (as We Knew It): A Feminist Critique of 
+Political Economy . University of Minnesota Press .
+Gibson-Graham, J.K., 2008. Diverse economies: Performative practices for ‘other 
+worlds ’. Prog. Hum. Geogr. 32 (5), 613–632. https://doi.org/10.1177/ 
+0309132508090821 .
+Gibson-Graham, J.K., Dombroski, K. (Eds.), 2020. The Handbook of Diverse Economies . 
+Edward Elgar Publishing .
+Goodman, D., 1999. Agro-food studies in the ‘age of ecology ’: nature, corporeality, bio- 
+politics. Soc. Ruralis 39 (1), 17–38. https://doi.org/10.1111/1467-9523.00091 .
+Goszczy ˘nski, W., ˘Spiewak, R., Bilewicz, A., Wr˘oblewski, M., 2019. Between imitation and 
+embeddedness: three types of polish alternative food networks. Sustainability 11 (24), 
+24. https://doi.org/10.3390/su11247059 .
+Gritzas, G., Kavoulakos, K.I., 2016. Diverse economies and alternative spaces: An 
+overview of approaches and practices. Eur. Urban Reg. Stud. 23 (4), 4. https://doi. 
+org/10.1177/0969776415573778 .L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+9 
+Heuts, F., Mol, A., 2013. What is a good tomato? A case of valuing in practice. Valuation 
+Studies 1 (2), 125–146. https://doi.org/10.3384/vs.2001-5992.1312125 .
+Holmes, H., 2018. New spaces, ordinary practices: Circulating and sharing within diverse 
+economies of provisioning. Geoforum 88, 138–147. https://doi.org/10.1016/j. 
+geoforum.2017.11.022 .
+Hunfeld, K., 2022. The coloniality of time in the global justice debate: De-centring 
+Western linear temporality. J. Glob. Ethics 18 (1), 100–117. https://doi.org/ 
+10.1080/17449626.2022.2052151 .
+Ingold, T., 1993. The Temporality of the Landscape. World Archaeol. 25 (2), 152–174.
+Jackson, P., Perez del Aguila, R., Clarke, I., Hallsworth, A., de Kervenoael, R., Kirkup, M., 
+2006. Retail restructuring and consumer choice 2. Understanding consumer choice 
+at the household level. Environ. Plann. A: Econ. Space 38 (1), 1. https://doi.org/ 
+10.1068/a37208 .
+Jehli ¯cka, P., Dan¯ek, P. (2017). Rendering the Actually Existing Sharing Economy Visible: 
+Home-Grown Food and the Pleasure of Sharing. Sociologia Ruralis 57 (3), 274-296. 
+doi. 10.1111/soru.12160.
+Jehli ¯cka, P., Anci˘c, B., Dan¯ek, P., Domazet, M., 2021. Beyond hardship and joy: Framing 
+home gardening on insights from the European semi-periphery. Geoforum 126, 
+150–158. https://doi.org/10.1016/j.geoforum.2021.05.018 .
+Jehli ¯cka, P., Dan¯ek, P., V˘avra, J., 2019. Rethinking resilience: Home gardening, food 
+sharing and everyday resistance. Canadian Journal of Development Studies / Revue 
+Canadienne D’˘etudes Du D˘eveloppement 40 (4), 511–527. https://doi.org/10.1080/ 
+02255189.2018.1498325 .
+Jehli ¯cka, P., Kostelecký, T., & Smith, J. (2013). Food Self-Provisioning in Czechia: 
+Beyond Coping Strategy of the Poor: A Response to Alber and Kohler ’s ‘Informal 
+Food Production in the Enlarged European Union ’ (2008). Soc. Indic. Res., 111(1), 
+Article 1. https://doi.org/10.1007/s11205-012-0001-4.
+Kosnik, E., 2018. Production for consumption: Prosumer, citizen-consumer, and ethical 
+consumption in a postgrowth context. Econ. Anthropol. 5 (1), 1. https://doi.org/ 
+10.1002/sea2.12107 .
+Lee, R., 2006. The Ordinary Economy: Tangled up in Values and Geography. Trans. Inst. 
+Br. Geogr. 31 (4), 4.
+Mazac, R., Tuomisto, H.L., 2020. The Post-Anthropocene Diet: Navigating Future Diets 
+for Sustainable Food Systems. Sustainability 12 (6), 6. https://doi.org/10.3390/ 
+su12062355 .
+McClintock, N., 2014. Radical, reformist, and garden-variety neoliberal: Coming to terms 
+with urban agriculture ’s contradictions. Local Environ. 19 (2), 2. https://doi.org/ 
+10.1080/13549839.2012.752797 .
+McMichael, P., 2015. Value Theory and Food Regime Temporalities. Review (Fernand 
+Braudel Center) 38 (4), 307–328.
+Mincyte, D., 2014. Raw milk, raw power: states of (mis)trust. Gastronomica 14 (4), 
+44–51. https://doi.org/10.1525/gfc.2014.14.4.44 .
+Mincyt le, D., Bartkien le, A., Bikauskait le, R., 2020. Diverging temporalities of care work on 
+urban farms: Negotiating history, responsibility, and productivity in Lithuania. 
+Geoforum 115, 44–53. https://doi.org/10.1016/j.geoforum.2020.06.006 .
+Morrow, O., 2019. Community self-organizing and the urban food commons in Berlin 
+and New York. Sustainability 11 (13), 13. https://doi.org/10.3390/su11133641 .
+Morrow, O., 2020. Gleaning: Transactions at the nexus of food, commons and waste. In: 
+The Handbook of Diverse Economies . Edward Elgar Publishing Limited, pp. 206–213. 
+https://doi.org/10.4337/9781788119962.00032 .
+Morrow, O., Davies, A., 2021. Creating careful circularities: Community composting in 
+New York City. Trans. Inst. Br. Geogr. 47 (2), 529–546. https://doi.org/10.1111/ 
+tran.12523 .
+Morrow, O., Martin, D.G., 2019. Unbundling property in Boston ’s urban food commons. 
+Urban Geogr. 40 (10), 1485 –1505. https://doi.org/10.1080/ 
+02723638.2019.1615819 .
+Murdoch, J., Miele, M., 2004. A new aesthetic of food? Relational reflexivity in the 
+‘alternative ’ food movement. In: Harvey, M., McMeekin, A., Warde, A. (Eds.), 
+Qualities of Food. Manchester University Press, pp. 156–175.
+Parker, B., Morrow, O., 2017. Urban homesteading and intensive mothering: (Re) 
+gendering care and environmental responsibility in Boston and Chicago. Gend. Place 
+Cult. 24, 1–13. https://doi.org/10.1080/0966369X.2016.1277186 .
+Phillips, C., 2020. Telling times: More-than-human temporalities in beekeeping. 
+Geoforum 108, 315–324. https://doi.org/10.1016/j.geoforum.2019.08.018 .
+Pollan, M., 2009. Defense of Food: An Eater ’s Manifesto . Pinguin Books .
+Pottinger, L., 2017. Planting the seeds of a quiet activism. Area 49 (2), 215–222. https:// 
+doi.org/10.1111/area.12318 .
+Pottinger, L., 2018. Growing, guarding and generous exchange in an analogue sharing 
+economy. Geoforum 96, 108–118. https://doi.org/10.1016/j.geoforum.2018.07.007 .
+Pourais, J., Duchemin, E., Aubry, C., 2015. Products from urban collective gardens: food 
+for thought or for consumption? Insights from Paris and Montreal. J. Agric. Food Sys. 
+Community Dev. 5 (2), 2. https://doi.org/10.5304/jafscd.2015.052.005 .
+Puig de la Bellacasa, M., 2015. Making time for soil: Technoscientific futurity and the 
+pace of care. Soc. Stud. Sci. 45 (5), 691–716. https://doi.org/10.1177/ 
+0306312715599851 .
+Pungas, L., 2019. Food self-provisioning as an answer to the metabolic rift: The case of 
+‘Dacha Resilience ’ in Estonia. J. Rural. Stud. 68, 75–86. https://doi.org/10.1016/j. 
+jrurstud.2019.02.010 .
+Pungas, L. (2023). Dachas and food democracy —What makes a (good) food citizen? 
+Frontiers in Sustainable Food Systems , 7. https://www.frontiersin.org/articles/ 
+10.3389/fsufs.2023.1052298.
+Pungas, L., Plüschke-Altof, B., Müüripeal, A., Soov ali-Sepping, H., 2022. Same, same but 
+different? The ‘Right ’ kind of gardening and the negotiation of neoliberal urban governance in the post-socialist city. In: Plüschke-Altof, B., Soov ali-Sepping, H. 
+(Eds.), Whose Green City? : Contested Urban Green Spaces and Environmental Justice in 
+Northern Europe . Springer International Publishing, pp. 125–144. https://doi.org/ 
+10.1007/978-3-031-04636-0_7 .
+Rosol, M., 2020. On the significance of alternative economic practices: reconceptualizing 
+alterity in alternative food networks. Econ. Geogr 96 (1), 1. https://doi.org/10.1080/ 
+00130095.2019.1701430 .
+Sarmiento, E.R., 2017. Synergies in alternative food network research: Embodiment, 
+diverse economies, and more-than-human food geographies. Agric. Hum. Values 34 
+(2), 485–497. https://doi.org/10.1007/s10460-016-9753-9 .
+Schmid, B., Taylor Aiken, G., 2023. A critical view on the role of scale and instrumental 
+imaginaries within community sustainability transitions research. Area 55 (4), 
+506–513. https://doi.org/10.1111/area.12884 .
+Schoneboom, A. (2013). Working through the allotment. Ephemera: Theory and Politics in 
+Organization , 13(I), Article I.
+Schoneboom, A., 2018. It makes you make the time: “Obligatory ’ leisure, work 
+intensification and allotment gardening. Ethnography 19 (3), 360–378. https://doi. 
+org/10.1177/1466138117728738 .
+Smith, J., Jehli ¯cka, P., 2013. Quiet sustainability: Fertile lessons from Europe ’s 
+productive gardeners. J. Rural. Stud. 32, 148–157. https://doi.org/10.1016/j. 
+jrurstud.2013.05.002 .
+Smith, T.S.J., 2019. ‘Stand back and watch us’: Post-capitalist practices in the maker 
+movement. Environ. Plann. A: Econ. Space . https://doi.org/10.1177/ 
+0308518X19882731 .
+Smutn ˘a, Z., V˘avra, J., Du¯zí, B., 2024. An insight into market and non-market alternative 
+food networks in Czechia during Covid-19 and beyond. Front. Nutr. 11. https://doi. 
+org/10.3389/fnut.2024.1327308 .
+Southerton, D., 2013. Habits, routines and temporalities of consumption: From 
+individual behaviours to the reproduction of everyday practices. Time Soc. 22 (3), 
+335–355. https://doi.org/10.1177/0961463X12464228 .
+Sovov ˘a, L. 2020. Grow, share or buy? Understanding the diverse economies of urban 
+gardeners. Doctoral thesis. Wageningen University and Masaryk University. 
+Available at: https://edepot.wur.nl/519934 .
+Sovov ˘a, L., Cima, O., Jehli ¯cka, P., Pungas, L., Sattler, M., Smith, T. S. J., Decker, A., 
+Johanisova, N., Kovanen, S., North, P., forthcoming. On Babushkas and 
+Postcapitalism: Theorising Diverse Economies from the Global East. Antipode.
+Sovov ˘a, L., Jehli ¯cka, P., Dan¯ek, P., 2021. Growing the beautiful anthropocene: ethics of 
+care in East European food gardens. Sustainability 13 (9), 5193. https://doi.org/ 
+10.3390/su13095193 .
+Spilkov ˘a, J., 2018. “Tell Me Where You Shop, and I Will Tell You Who You Are”: Czech 
+Shopper Profiles According to Traditional, Large-Scale and Alternative Retail 
+Options. Moravian Geographical Reports 26 (3), 3. https://doi.org/10.2478/mgr- 
+2018-0015 .
+Szabo, M., 2011. The challenges of “Re-engaging with food “: connecting employment, 
+household patterns and gender relations to convenience food consumption in North 
+America. Food, Cult. Soc. 14 (4), 4.
+Taylor, K., 2018. Temporalities of learning: Lessons from a socio-material study of 
+allotment gardening practice. Stud. Contin. Educ. 40 (3), 290–305. https://doi.org/ 
+10.1080/0158037X.2018.1457518 .
+Tisenkopfs, T., 2017. Precious potato. Alterity from the farmer and consumer perspective . 
+Alternative Food Supply Networks in. Central and Eastern Europe, Riga. 
+Tornaghi, C., Dehaene, M., 2020. The prefigurative power of urban political agroecology: 
+Rethinking the urbanisms of agroecological transitions for food system 
+transformation. Agroecol. Sustain. Food Syst. 44 (5), 594–610. https://doi.org/ 
+10.1080/21683565.2019.1680593 .
+Trenouth, L., Tisenkopfs, T., 2015. The evolution of household foodscapes over two 
+decades of transition in Latvia. J. Baltic Stud. 46 (3), 3. https://doi.org/10.1080/ 
+01629778.2015.1073927 .
+Ulug, C., Trell, E.-M., 2019. ‘It’s not really about the food, it’s also about food ’: Urban 
+collective action, the community economy and autonomous food systems at the 
+Groningen Free Caf˘e. Int. J. Urban Sustainable Devel. 12, 1–16. https://doi.org/ 
+10.1080/19463138.2019.1696804 .
+Valkenburg, G., 2022. Temporality in epistemic justice. Time Soc. 31 (3), 437–454. 
+https://doi.org/10.1177/0961463X221094699 .
+Van Esterik, P., 1999. Gender and sustainable food systems: A feminist critique. In: 
+Koc, M., MacRae, R., Mougeot, L.J.A., Welsh, J. (Eds.), For Hunger-Proof Cities: 
+Sustainable Urban Food Systems . IDRC, pp. 157–161.
+Vincent, O., Feola, G., 2020. A framework for recognizing diversity beyond capitalism in 
+agri-food systems. J. Rural. Stud. 80, 302–313. https://doi.org/10.1016/j. 
+jrurstud.2020.10.002 .
+Weis, T., 2010. The accelerating biophysical contradictions of industrial capitalist 
+agriculture. J. Agrar. Chang. 10 (3), 315–341. https://doi.org/10.1111/j.1471- 
+0366.2010.00273.x .
+Wilson, A.D., 2013. Beyond alternative: exploring the potential for autonomous food 
+spaces. Antipode 45 (3), 3. https://doi.org/10.1111/j.1467-8330.2012.01020.x .
+Yotova, M., 2018. The “goodness ” of homemade yogurt: Self-provisioning as sustainable 
+food practices in post-socialist Bulgaria. Local Environ. 23 (11), 1063 –1074. https:// 
+doi.org/10.1080/13549839.2017.1420048 .
+Zanoni, P., 2020. Prefiguring alternatives through the articulation of post- and anti- 
+capitalistic politics: An introduction to three additional papers and a reflection. 
+Organization 27 (1), 3–16. https://doi.org/10.1177/1350508419894699 .L. Sovov ˘a and P. Jehli¯cka                                                                                                                                                                                                                     Geoforum  163 (2025)  104322  
+10 

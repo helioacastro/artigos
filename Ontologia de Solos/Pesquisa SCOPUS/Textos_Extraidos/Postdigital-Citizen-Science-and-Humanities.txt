@@ -1,0 +1,2179 @@
+Vol.:(0123456789)Postdigital Science and Education (2025) 7:31–77
+https://doi.org/10.1007/s42438-024-00481-5
+1 3
+ORIGINAL ARTICLES
+Postdigital Citizen Science and Humanities:  
+A Theoretical Kaleidoscope
+Michael Jopling1  · Georgina Tuari Stewart2  · Shane Orchard3  · 
+Juha Suoranta4  · Sara Tolbert3  · Laurène Cheilan5  · Fei Yan6 · 
+Catherine Price7  · Sarah Hayes8  · Howard Scott9  · Annabel Latham10  · 
+Ibrar Bhatt11  · Vyacheslav Dodonov12  · Adam Matthews13  · 
+Rami Muhtaseb9  · Alison MacKenzie11  · Mohamed Owaineh14 · 
+Sarah Earle8  · Ben Simmons8  · Zoë Clarke15  · Linda la Velle8 · 
+Benjamin J. Green16 · Cheryl Brown3 · Richard Watermeyer17  · 
+Petar Jandrić18 
+Accepted: 20 May 2024 / Published online: 14 June 2024 
+© The Author(s) 2024
+Abstract
+This collective article presents a theoretical kaleidoscope, the multiple lenses of 
+which are used to examine and critique citizen science and humanities in postdigital 
+contexts and from postdigital perspectives. It brings together 19 short theoretical and 
+experiential contributions, organised into six loose groups which explore areas and 
+perspectives including Indigenous and local knowledge, technology, and children 
+and young people as citizen researchers. It suggests that this collective approach is 
+appropriate because both postdigital and citizen research are founded on and com-
+mitted to collaboration, dialogue, and co-creation, as well as challenging the tenets 
+and approaches of traditional academic research. In particular, it suggests that post-
+digital transformations in contemporary societies are both changing citizen science 
+and humanities and making it more important.
+Keywords Postdigital · Research · Theoretical kaleidoscope · Citizen science · 
+Citizen humanities · Citizen social science Collaborative writing · Collective 
+writing · Technology · Artificial Intelligence · Activism · Data
+Introduction (Michael Jopling)
+Citizen science involves non-professional researchers in scientific research pro-
+cesses (Senabre Hidalgo et al. 2021), for example in submitting data to bird cen-
+suses or monitoring water quality. Although it has a long history which precedes  
+Extended author information available on the last page of the article
+32 Postdigital Science and Education (2025) 7:31–77
+1 3
+academic research, the term citizen science has only been used extensively since the 
+1990s. Since then, it has been acknowledged as a ‘key pillar’ of open science (Eitzel  
+et al. 2017) and an important influence on widening participation and democratisa-
+tion in science (Shirk et al. 2012; Sauermann et al. 2020). How participatory citi-
+zen science is in practice may be questioned, as participating citizens are still much  
+more likely to collect data for use by professional scientists than collaborate with 
+them in a more meaningful sense (Mueller and Tippins 2012). More recently, inter -
+est has been growing in how to increase collaboration and use citizen science to pro-
+mote scientific literacy and combat scepticism about areas such as climate change  
+(Eleta et al. 2019).
+This has led to calls for citizen science to be redefined, for example, as ‘commu-
+nity citizen science’ or ‘civic science’ (Weinstein 2011). While some of the contribu-
+tions to this article offer further redefinitions, our focus is different. Our starting point, 
+presented in more depth in ‘Postdigital Citizen Science: Mapping the Field’ (Jandrić 
+et al. 2023a), is the contention that transformations in contemporary societies described 
+under the broad heading ‘postdigital’, in which our human and digital lives and social 
+contexts are increasingly entangled and inseparable, which makes citizen science both 
+different and more important.
+As such, this article is a logical extension of the interest of postdigital research 
+and praxis in collaboration (see Jandrić et al. 2023b) and dialogue (see Jandrić 
+et al. 2019). This has been reflected in an interest in facilitating collaborative and 
+cross-sector approaches to research that are necessary to investigate and under -
+stand the postdigital contexts we inhabit and the postdigital challenges we face. It 
+is undeniable that the new technologies that have emerged since the late twentieth 
+century have greatly increased the accessibility of science, which has increased 
+the recognition and participation of non-specialist researchers (Vohland et  al. 
+2021), although concerns remain about lack of diversity among citizen scientists 
+(Waugh et  al. 2023). Adopting a postdigital perspective draws attention to the 
+concomitantly huge increases in the quantity of data that is collected about and 
+from each of us, which also raises questions about how those data are used (see 
+Hayes et al. 2023).
+This requires citizen science to address issues relating to how data are used 
+and who collects them. The hybrid, inclusive nature of the postdigital (Jandrić 
+et al. 2018) also requires us to extend the focus from citizen science to encom-
+pass social science and humanities, both conceptually and methodologically. This 
+is one of the starting points of this collective article: social-technical challenges 
+require social-technical explorations and solutions (Jandrić et al. 2023b), which 
+in turn require interdisciplinary approaches. These also have important politi-
+cal implications. This is why our focus is explicitly broadened to include citizen 
+humanities and science, including social science. This indivisibility is reflected 
+in the form and structure of the article and its central metaphor of the kaleido-
+scope, made up of multiple intersecting theoretical perspectives, which is used 
+to understand and critique the complexity and potential of postdigital citizen sci-
+ence and humanities.
+33
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Constructing the Kaleidoscope
+This article takes inspiration from ‘Understanding Digital Inequality: A Theo-
+retical Kaleidoscope’, in which Kuhn et al. (2023: 896) use the kaleidoscope as 
+a metaphor ‘to describe the need for different theories, or sometimes, the inter -
+section of multiple theories, to unpack and understand the complexity’ of digital 
+inequality in the postdigital context.
+It has long been common, indeed almost a cliché, for researchers to write of 
+applying a specific theoretical lens to a phenomenon. The metaphor revivifies 
+this notion by bringing multiple perspectives into play (an important word—
+kaleidoscopes are also toys), just as the kaleidoscope uses ‘two or more mir -
+rors/lenses, angled at particular points, which, when rotated, allow the viewer to 
+see an increasing array of complex patterns that would be hard to see with our 
+naked eye’ (Kuhn et al. 2023: 896). Just as each turn or shake of the kaleidoscope 
+changes the pattern the viewer sees, each theoretical perspective in this collective 
+article should function as a new lens or mirror, shifting our perspective, offering 
+a new angle, and prompting our own reflections on citizen science and humani-
+ties. Of course, it is important to acknowledge that this metaphor can only be 
+pushed so far.
+The postdigital context is also reflected in the collective nature of the article, 
+which joins a growing body of collective work informed by postdigital perspec-
+tives (e.g. Jandrić et al. 2020, 2023b; Kuhn et al. 2023). This is part of a deliber -
+ate resistance to, and redefinition of, academic writing, which attempts to rep-
+resent a diversity of viewpoints with minimal interpretative organisation (Peters 
+et al. 2021; Jandrić et al. 2023b) and emphasises the value of collaboration and 
+shared ownership in research. It also highlights a deliberate postdigital com-
+mitment to dialogue, which has been described as ‘an exchange of information 
+between people, a linguistic format which supports such exchange, a form of art, 
+a type of inquiry, an approach to pedagogy, a precondition for social change and 
+much more’ (Jandrić et al. 2019: 163).
+The approach to dialogue taken in this article was an open call for 500-word 
+contributions from a range of theoretical and research perspectives. The call sug-
+gested some of the lenses contributors have used in the article, such as Artifi-
+cial Intelligence (AI), feminism, and philosophy of technology, but writers were 
+also free to suggest other perspectives. In order to avoid duplication or substantial 
+overlap, it was agreed with each writer which of the kaleidoscope’s lenses they 
+would use before they wrote their contribution, but there were no other restric-
+tions. Some editorial support was offered, mainly to reduce word count and to 
+highlight common themes and issues.
+This has allowed the 19 theoretical and experiential perspectives collected in 
+this article to be presented in combination and tension without hierarchy and with 
+minimal editorial intervention. The ordering of the contributions was not deter -
+mined collectively, primarily for pragmatic reasons, but also because it should 
+only be regarded as provisional, necessary as part of the process of producing a 
+publishable article, but by no means final or important. Ideally, they would be 
+34 Postdigital Science and Education (2025) 7:31–77
+1 3
+free-floating, like B. S. Johnson’s (1969) book in a box, The Unfortunates, whose 
+25 central sections (excluding a first and last chapter) can be read in any order.
+It should not be overlooked that this collective approach is also a remarkably 
+efficient and rewarding way of writing, sharing the means, as well as the outcome, 
+of academic production. The collective approach embodies the collaborative ethos 
+of citizen science, social science, and humanities, which at its best is founded 
+on participatory, co-creational, and collective approaches to research (Senabre 
+Hidalgo et al. 2021; Thomas et al. 2021) and as such necessarily involves a plural-
+ity of voices, ontologies, and theoretical perspectives. Finally, the article can be 
+read in tandem with the other emerging articles about postdigital citizen science 
+and humanities, combining to form a larger kaleidoscopic collective approach and 
+ongoing postdigital dialogue.
+Indigenous and Local Knowledge as Citizen Science
+Māori/Indigenous Knowledge and Postdigital Citizen Science  
+(Georgina Tuari Stewart)
+The dominant meaning of ‘citizen science’ is when members of the public collect 
+data for use by institutional science. Astronomical observations and environmental 
+monitoring are two common forms of scientific data collected in such ‘contributory 
+citizen science’ (Jandrić et al. 2023a). Citizen science varies according to the degree 
+of citizen participation/agency, and key foci for citizen science include conservation, 
+education, and digital technology.
+But what if a modifier like ‘citizen’ affects and changes what is understood by 
+‘science’? Both words—‘citizen’ and ‘science’—are associated with histories of 
+exclusion, including the exclusion of Indigenous peoples and their knowledge 
+(Jandrić et al. 2023a). Yet the two concepts and their webs of meaning and linked 
+concepts are in entirely different domains. Such two-word terms modify a strong 
+knowledge noun (science is paradigmatic) with a ‘social’ adjectival modifier—in 
+this case, citizen—to create a conundrum, a philosophical puzzle, a concept of 
+unclear and unsettled meaning. The same dilemma is raised by terms such as ‘Māori 
+science’ or ‘feminist science’.
+According to Jandrić and colleagues (2023a), postdigital citizen science encom-
+passes the social sciences and humanities, going beyond the strict meaning of ‘sci-
+ence’ as used within Anglophone knowledge systems including the university. 
+By this reasoning, Māori philosophy (Stewart 2021a, b) and other philosophical 
+approaches to Indigenous knowledge (e.g. Yunkaporta 2020) can be seen as Indig-
+enous forms of postdigital citizen science.
+The meaning of ‘Indigenous’ is itself unsettled (Stewart 2018), but here is used 
+to mean peoples whose lands have been settled by Western powers. Indigeneity is 
+a form of ethnicity, which is in itself a contested concept, dependent as it is on 
+the recognition of power relationships between particular cultural groups, many 
+35
+1 3 Postdigital Science and Education (2025) 7:31–77 
+of which arose during the era of the Voyages of Discovery—of European expan-
+sion and colonisation of claimed territories in Asia, Africa, America, Australia, and 
+Aotearoa. Since this process is now (almost totally) complete, it is reasonable to 
+argue that few if any new ‘ethnicities’ will arise in the future (Stewart 2023). Indig-
+enous perspectives comprise one category of critique of science and mainstream 
+Western knowledge systems and processes. Each Indigenous scholar writes from 
+their own cultural perspective, and this commentary is written from a Māori view -
+point on the question of how Māori/Indigenous knowledge partakes in citizen sci-
+ence in the postdigital era.
+To explore Māori knowledge is a form of citizen science because Māori knowl-
+edge bases reside within particular communities and iwi-hapū (kin groups). Explor -
+ing Māori concepts in the postdigital era exploits the affordances of the Internet 
+and digital technologies, far more powerful research tools than were available for 
+all previous generations of researchers. But how, exactly, are we to understand the 
+term ‘postdigital Māori/Indigenous citizen science?’ The terminology threatens to 
+overwhelm thinking: how many modifiers can be used in front of ‘science’ before it 
+loses all meaning?
+An example of ‘postdigital Māori/Pasifika citizen science’ is the current topic of 
+being Māori/Pasifika in the academy or in science (Airini and Mila-Schaaf  2010; 
+Cram et al. 2014; Matapo 2018; Naepi 2019). This work is ‘adjacent’ to science; it 
+is written by scientists and addresses science as a social institution, but does not fit 
+within the tight bounds of scientific research. It is instructive to look at the range 
+of methodologies in these papers. Some use statistics (McAllister et  al. 2022) or 
+surveys (Naepi et al. 2019), and others use autoethnography and narrative methods 
+(Stewart et  al. 2023). Narrative methods are post-qualitative approaches that con-
+front the reader with compelling insider accounts of the research topic or question. 
+Post-qualitative approaches do not conform with ‘scientific method’ in research (St. 
+Pierre 2021; Stewart 2024).
+Not to align with science methods has been seen predominantly as a deficit in 
+research. Following the general rule that informed critique depends on mastery of 
+the subject, it stands to reason that Māori philosophers with science backgrounds 
+will be needed to complete a Māori critique of science. Postdigital Māori citizen 
+science deliberately and wholeheartedly steps away from the scientific method and 
+the role it plays in contemporary mainstream educational theory. This is not to reject 
+science and all its benefits and tools, but rather to stop pretending that ‘scientific 
+method’ can tell us what to do when investigating philosophical and ethical ques-
+tions in education and related disciplines. Instead, to proceed with this work it is 
+important to ‘listen’ to the material we are collecting and working with in order to 
+decide what to do next (Stewart and Devine 2024).
+This work is part of a larger shift towards overcoming the historical bifurcation of 
+the Western world of writing into literature and science (Richardson 1990). Māori/
+indigenous perspectives have the advantage of access to other philosophies and 
+knowledge in which this bifurcation never occurred. This is one way in which sci-
+ence can benefit from cultural difference.
+36 Postdigital Science and Education (2025) 7:31–77
+1 3
+Recognising Local Knowledge in Community and Citizen Science (Shane Orchard)
+Local knowledge is developed through traditional practices, cultural norms, and 
+personal experiences (Raymond et al. 2010). It accrues at personal to community-
+wide levels and contributes to traditional knowledge, which has been defined as the 
+knowledge, innovations, and practices of indigenous and local communities (United 
+Nations Environment Programme 2021). The resulting knowledge base embodies 
+arguably the world’s most significant contributions to collective intelligence and 
+has a history as long as civilization itself, far exceeding that of modern data collec-
+tion methods (Silvertown 2009). While citizen science proponents often point to the 
+need for new approaches to address the scale and scope of contemporary challenges, 
+there is equally a need to recognise and appreciate the wisdom of these earlier forms 
+of knowledge (Tengö et al. 2014).
+The development of local and traditional knowledge presents an interesting theo-
+retical lens through which to view the scope of public participation in the generation 
+of knowledge. It offers insights into the depth of participation that may contribute to 
+contemporary collective intelligence. Despite its local connotations, the accumula-
+tion of many observations and experiences may provide a detailed understanding 
+of wider regions and include the evolution of traditional knowledge passed down 
+through generations (Antweiler 2019; Campbell and Orchard 2023). In subtle and 
+sometimes unseen ways, local knowledge also contributes to the availability and 
+interpretation of public knowledge, thereby informing the discussion of epistemolo-
+gies (ways of knowing) and investments in the pursuit of knowledge.
+These aspects of local knowledge align with the ‘democratization of science’ 
+perspectives of Irwin (1995) and others, while extending them further to embrace 
+the origins of existing knowledge. Increasingly, this is becoming better recognised 
+and enabled in the context of Traditional Ecological Knowledge (TEK) and related 
+approaches to sustainable development that may offer apparently new solutions to 
+modern challenges (Huntington et al. 2011; Long et al. 2020). However, with citizen 
+science having now attained a relatively mainstream status in the science-policy dis-
+course, there is also a need to ensure that institutional support and other investments 
+do not merely reflect an extension of data collection priorities that derive from top-
+down processes (Kukutai and Cormack 2020; Kullenberg 2015). Instead, citizen sci-
+ence offers a way to redress information disparities and imbalances. This suggests 
+a need to recognise diversity in the many forms of community and citizen science 
+(Orchard 2019; Sauermann et al. 2020).
+Further complexities include intersections with social science methodologies 
+that engage with knowledge holders using elicitation techniques such as surveys, 
+interviews, Volunteered Geographical Information (VGI) platforms, and participa-
+tory mapping or appraisal exercises (Brown 2012; Haklay 2013). However, it is 
+essential to recognise that these more formal research methods are designed to 
+harvest and synthesise the knowledge that already resides in the observations and 
+perceptions of individuals. At the same time, this local knowledge exists indepen-
+dently of whether it is actively communicated by knowledge holders, or otherwise 
+shared with more formal research efforts. Indeed, there are many examples of local 
+and traditional knowledge that is primarily collected for a specific purpose, and 
+37
+1 3 Postdigital Science and Education (2025) 7:31–77 
+which may not necessarily be intended for a wider audience. Importantly, such pur -
+poses may be accompanied by sensitivities around the sharing and potential misap-
+propriation of knowledge by others, as is recognised in the principles of Free and 
+Prior Informed Consent and the Nagoya Protocol (Morgera et al. 2014; Williams 
+and Hardison 2013).
+More recently, attention to these principles and technological solutions for 
+addressing them have been at the forefront of developments in digital and online 
+technologies. These include systems for addressing privacy issues and attach-
+ing licences to community-contributed data to facilitate their reuse while ensuring 
+adherence with the conditions under which they were originally provided. It can 
+also be noted that all of these examples fall within the ambit of community and citi-
+zen science, despite representing very different modes of public participation and 
+agency in the process of knowledge generation. For example, the elicitation of local 
+knowledge using social science techniques could occupy many different positions 
+on Arnstein’s (1969) ‘ladder of citizen participation’ depending on the relationships 
+between the actors and the level of co-creation. These aspects illustrate some of the 
+complexities that may be encountered when addressing local knowledge, yet do not 
+undermine its validity.
+Activist Citizen (Social) Science and Humanities
+People’s Critical Social Science (Juha Suoranta)
+Critical social sciences, which aim to promote social justice and equality, have a 
+long history of fostering collaboration between non-experts and social scientists. 
+This field encompasses a range of research methodologies, such as participatory 
+action research, public sociology, activist research, critical pedagogy, and citizen 
+social science (Martínez 2023). Social sciences working for the liberation and eman-
+cipation of the people practice their critical function in addressing human misery 
+and improving people’s lives by acting with the people and refusing abstractions 
+and high theory (Denzin 2001). They sometimes work as militants, struggling with 
+the people for their fundamental human rights (Suoranta 2021). The union between 
+critical pedagogy and citizen social science is an attempt in this direction.
+Critical pedagogy is a progressive alternative to standardised pedagogical mod-
+els (Freire 2005). Following Marx’s dictum, it aims to make the world a better 
+place, not only interpret it. Citizen social science involves the active participation 
+of people in social scientific research at various stages of the research process, fos-
+tering collaboration between professional researchers and the broader community 
+(Tauginienė 2020).
+Citizen social scientists share most of these aims and take collaboration 
+between research scholars and others seriously. They emphasise mutual interac-
+tion between scholars and ordinary people doing social research. After Antonio 
+Gramsci (1971: 3), they maintain that all human beings are intellectuals ‘in the 
+sense of having an intellect and using it, but not all are intellectuals by social 
+function’. Critical pedagogues and citizen social scientists are convinced that 
+38 Postdigital Science and Education (2025) 7:31–77
+1 3
+during the current environmental, political, and warfare crises and biological haz-
+ards, it is essential that as many people as possible can be intellectuals also ‘by 
+social function’, use their intellect, and participate in world-making together.
+Several common characteristics unite the projects of critical pedagogy and cit-
+izen social science. The following syntheses can be used to explore the intersec-
+tion of critical pedagogy and the principles of citizen social science by the Euro-
+pean Citizen Science Association (2021). The syntheses emphasise the active 
+involvement in learning and social research in different roles.
+Citizen social science and critical pedagogy prioritise ordinary individu-
+als’ perspectives, particularly those of the marginalised or whom Frantz Fanon 
+(2004) called the wretched of the earth. They are committed to public engage-
+ment and the democratization of research (Chan et  al. 2020). Democratisation 
+ensures that marginalised people can influence the research process and iden-
+tify what is important to research and how the community may benefit from it 
+(Edwards and Brannelly 2017: 275). Moreover, citizen social science and critical 
+pedagogy emphasise empowerment and agree that professional researchers and 
+participants can learn from each other. Engagement in the research process can 
+enhance learning opportunities, personal enjoyment, social benefits, and the com-
+mon good. The synthesis of citizen social science and critical pedagogy values 
+openness and advocates for the public availability of education and research to 
+guarantee the democratisation of knowledge.
+The time has come to combine critical pedagogy and citizen social science. 
+Together, practitioners can create dialogical and participatory educational practices 
+globally to empower people as active agents and world makers, increase mutual 
+understanding of people through research, dialogues, and negotiations, and decide 
+what is worth studying and researching, who owns the projects, whose voices are 
+heard, and who benefits from the results. It is vital to democratise our knowledge 
+practices to overcome the world’s ills (Tandon and Hall 2021).
+However, the term ‘citizen social science’ may not include all individuals as not 
+everyone holds citizenship status and exists within a Western hegemony of nation 
+state-based hierarchy. Therefore, it may be beneficial to reconsider the use of ‘citizen’ 
+and find terms that better capture the idea—perhaps people’s critical social science—
+in the global world, which often moves in random and uncoordinated ways. In this 
+regard, postdigital approaches to citizenship (Rapanta 2023a) and citizen education 
+(Rapanta 2023b) are a useful point of departure. Furthermore, in a world shackled 
+by capitalism’s chains and stifled by authoritarian regimes’ grip, a new vision 
+emerges—a vision that beckons humanity towards liberation and empowerment. It 
+requires establishing critical people’s universities for all.
+The call is for a collective critical consciousness to transform citizens into active 
+change agents. The traditional paradigms of citizen social science need to be revised 
+in the postdigital era; we need a relentless pursuit of knowledge that challenges 
+existing power structures and fosters a deep understanding of the political dynamics 
+of authoritarian dominance. People’s critical social science empowers individuals to 
+question, analyse, and deconstruct the narratives woven by oppressive ideologies. It 
+is a call to arms, urging citizens to become scholars of their own experiences, illumi-
+nate society’s obscured corners, and challenge the status quo (Denzin 2019).
+39
+1 3 Postdigital Science and Education (2025) 7:31–77 
+The idea is to establish critical people’s universities that go beyond arbitrary 
+academic walls. They would provide a space for dialogue, dissent, and intellectual 
+exploration where diverse voices converge to dismantle structures perpetuating ine-
+quality. The goal is to create a global network of such universities, forging alliances 
+that transcend borders and cultural boundaries. These universities would become 
+crucibles of resistance, transforming society through critical thought and collective 
+action. The vision is for citizens to rise as scholars, not restricted to ivory towers but 
+immersed in the struggle for justice. Let’s embrace the power of critical emancipa-
+tory citizen science and create a more just and equitable world.
+Feminisms and Postdigital Citizen Science (Sara Tolbert)
+What is a feminist postdigital citizen science? While feminism defies singularities, 
+a unifying matter of concern for feminism is the inequitable distribution of power 
+and participation, particularly at the intersection of gender with other marginal-
+ised social categories, such as race, class, immigration status, and disability (Truth 
+1851/  2020). Feminist scholarship has historically been concerned with critiquing 
+patriarchal norms of knowledge production and, like postdigital scholarship, tran-
+scending normative disciplinary boundaries and Cartesian dualisms. Feminist sci-
+ence and technology studies could be viewed as a precursor to postdigital feminisms 
+(Hurley 2023). Donna Haraway’s (1985) iconic Cyborg Manifesto, for example, 
+proclaimed that we are all cyborgs, problematizing definitive distinctions between 
+human and machine, natural and artificial, physical and non-physical, human and 
+non-human animal, etc.
+Postdigital feminism is an emerging transdisciplinary field in its own right that 
+builds on and transcends prior conceptions of feminism, maintains anti-capitalist 
+commitments, and interrogates (subverts) postdigital hegemonies (Deepwell 2020; 
+Hurley 2023; Jandrić and Ford 2022). Postdigital feminism brings attention to tech-
+nological biases (D’Ignazio and Klein 2023), platform patriarchy (Hurley 2023), 
+and the ‘flawed’ and ‘partial coverage’ of women and other marginalised positional-
+ities (Deepwell 2020: 250), including nonhuman animals (Whitlock 2021) in digital 
+spaces (see also Russell 2020). Katy Deepwell (2020) called on the field of post-
+digital education to consider how feminist knowledge production, when placed at 
+the centre of postdigital inquiries, might reveal alternative framings and solutions to 
+persistent inequities in postdigital contexts.
+Feminist postdigital citizen science is not a term used within feminism or else-
+where; I use it here as a tool for theorising what a feminist postdigital citizen sci-
+ence might offer as part of a theoretical kaleidoscope. Feminist postdigital citizen 
+science, like feminisms and postdigital scholarship more broadly, could be charac-
+terised as a highly diverse constellation of projects. The concept of ‘feminist post-
+digital citizen science’ intersects with cyberfeminism, data feminism, glitch femi-
+nism, and feminist digital humanities in that all of these cyber/post/digital/glitch 
+feminist projects are creating ruptures in cis/male-dominated digital and technosci-
+entific worlds through artistic/activist/anti-disciplinary/theoretical/ grassroots inter -
+ventions. Postdigital feminist knowledge collectives such as subRosa (2008), The 
+40 Postdigital Science and Education (2025) 7:31–77
+1 3
+Women’s Writers Project, and FemTechNet, operate at the intersections of knowl-
+edge production and activism (da Costa and Philip 2008). These collectives often 
+challenge traditional modes of authorship and attribution, producing and publishing 
+trans/anti-disciplinary postdigital art, science, and scholarship not under individuals’ 
+names but rather as collectives (see Azarmandi and Tolbert 2024).
+A more recent example of feminist postdigital citizen science emerged during 
+the COVID-19 pandemic. Many women and others who menstruate were report-
+ing abnormalities in their menstrual cycles as a result of the vaccine, side effects 
+discounted on public health websites and not documented in other major vaccine 
+trials, underscoring persistent gender biases in clinical research. Biological anthro-
+pologist Dr. Kate Clancy used social media to crowdsource these experiences (see 
+Fig.  1), which in turn became part of a postdigital feminist citizen science move-
+ment that led to women’s post-vaccine related experiences—previously written off 
+as ‘stress-related’—becoming the subject of a series of publicly funded clinical 
+studies (Cousin-Frankel 2022).
+This movement echoes other citizen science (or ciencia popular, Weinstein 
+2011)-oriented movements in which women have, through the collective sharing of 
+stories and anecdotes, mobilised resources towards the more systematic investiga-
+tion of their marginalised concerns (e.g. the grandmothers in the TCE contamina-
+tion in South Tucson, Arizona; the mothers seeking out scientists’ help to investigate 
+drinking water contamination in Flint, Michigan; mothers analysing post-Fukushima 
+radiation in foods) (see Kimura 2016; Krauss 1993).
+Citizen science has been critiqued for the ways in which it can be corrupted by 
+scientism, as well as for falling short of its democratising and participatory aims 
+(Kimura and Kinchy 2016). Feminist science and postdigital feminism seek to make 
+science and postdigital scholarship more liberatory and accountable. I propose 
+that, when (postdigital) feminism is placed at the centre of its inquiries (Deepwell 
+2020), postdigital citizen science is better positioned to harness the radical poten-
+tial of citizen science movements. In short, feminist postdigital citizen science is 
+Fig. 1  Social media post by Kate Clancy
+41
+1 3 Postdigital Science and Education (2025) 7:31–77 
+an amorphous, tentacular constellation of movements and collectives, which disrupt 
+patriarchal norms, work creatively towards intersectional justice, and contribute to 
+the production of (social/techno/scientific) art and knowledge from the margins.
+New Materialism and Theories of Care for Postdigital Citizen Science  
+(Laurène Cheilan)
+Citizen science in a postdigital world is an ambiguous domain, rife with tensions 
+and possibilities (Jandrić et al. 2023a). It simultaneously holds the potential to pro-
+mote more community engagement with knowledge production and runs the risk 
+of deepening inequalities, through only acknowledging certain forms of knowing as 
+valid. Its central ambivalence can disrupt or reinforce the neoliberalisation of knowl-
+edge production. An appropriate theoretical approach to critical postdigital citizen 
+science should allow these fundamental ambiguities to be surfaced and acknowl-
+edged, while also allowing unequal dynamics at play to be critiqued.
+Based on these premises, I argue that approaching citizen science as a set of 
+purely discursive and intellectual practices not only helps invisibilise many dimen-
+sions of how citizens can contribute to the production of knowledge, but also limits 
+how knowledge is defined, produced, and engaged with. The argument for acknowl-
+edging embodied and affective dynamics in science communication and public 
+engagement with research has been made before (Davies 2014, 2019), based on 
+feminist theories of new materialism which have redefined knowledge as situated 
+(Haraway 1988), material (Hird 2009), and affective (Pedwell and Whitehead 2012). 
+As postdigital citizen science happens in a more-than-human field of relationalities, 
+paying attention to these dimensions of knowledge production allows us to widen 
+our understanding of postdigital participation in science (Jandrić et al. 2018).
+Additionally, feminist theories of care have been offering frames for conceptualising  
+how care work and hidden caring dynamics are entangled in all parts of societies for 
+decades. Tronto and Fisher (1990) defined care as the work we do to maintain and 
+repair our world so we can keep living in it as well as possible. This has led to calls to 
+redefine citizenship through care (Tronto 2013) and develop a care politics that centres 
+on interdependencies and ambivalences (Hakim et al. 2020). Care as a mode of being in 
+the world has also been constitutive of citizen science approaches that pay attention to 
+localised and indigenous forms of knowledge (Karrow and Fazio 2010).
+In the field of Science and Technology Studies (STS), the redefinition of knowl-
+edge politics through ‘matters of care’ articulates how care can be a part of socio-
+technical assemblages of humans and non-humans with distributed agency (de la 
+Bellacasa 2017). In the ‘ongoing material remaking of the world’ (de la Bellacasa 
+2011: 87), these assemblages entangle affective dynamics, moral economies, and 
+maintenance work (de la Bellacasa 2015). The dynamic interactions of these three 
+elements define and form the intricate relationships of mutual care through which 
+knowledge is produced.
+In a postdigital world, conceptualising knowing as caring means paying attention 
+to the heterogeneous assemblages (human and non-human, material and immate-
+rial, organic and technological) that participate in citizen science. It requires being 
+42 Postdigital Science and Education (2025) 7:31–77
+1 3
+particularly attentive to sensory and affective modes of knowing in order to acknowl-
+edge all forms of expertise as valid. In terms of critical care, it means asking not only 
+‘who cares?’ in postdigital citizen science, but also ‘how to care?’ which offers a 
+‘transformative ethos’ (de la Bellacasa 2015: 67) that goes beyond normative ethics.
+However, care is not a reassuring notion, an innocent refuge to revert to when 
+social worlds seem too unsettling, or a guarantee to do things well (Murphy 2015). 
+Because of its potential for ‘staying with the trouble’ (Haraway 2016), care is a 
+powerful epistemological tool for critical postdigital citizen science. It can disrupt 
+extractive and exploitative practices, acknowledge the diversity of existing forms of 
+knowledge, and embed capacity for non-reductive approaches, while holding onto 
+the messiness and ambivalence of doing citizen science in a postdigital world.
+Postdigital Citizen Science and Humanities in Authoritarian Contexts (Fei Yan)
+The postdigital provides a new condition for the development of citizen science 
+(Jandrić et  al. 2023a). However, what has been often overlooked or marginalised 
+in discussions is the extent to which the future of postdigital citizen science and 
+humanities is contingent on the support of a healthy civic society. Anchored in 
+democracy, civic societies provide an arena in which social issues can be publicly 
+debated, facilitating the possibility of achieving social justice through the participa-
+tion of all citizens. Healthy civic societies are thus the soil in which postdigital citi-
+zen science and humanities can grow and flourish.
+But the soil is markedly different in authoritarian contexts, where the develop-
+ment of civil society is severely constrained by a powerful state or dictator. In these 
+societies, social issues are easily manipulated as the state typically monopolises not 
+only the content of education but also a wide range of the media through which most 
+people access information. Through this control, the state instils officially approved 
+ideologies, such as nationalism, which fundamentally shape people’s perspectives 
+on issues related to social justice. Examples of such issues include whether to allow 
+ethnic minorities to use their mother tongue in education (Bulag 2023), or whether 
+to support Ukraine in defending itself from Russia’s invasion. It is not uncommon to 
+observe the state in authoritarian contexts devoting significant manoeuvring power 
+to predisposing its citizens to certain points of view (for example, see Yan 2020).
+Yet, despite the seemingly omnipresent power of the state in authoritarian con-
+texts, the complexity and hybridity of the postdigital era have created ‘a rupture’ in 
+the real world (Jandrić et al. 2018: 895), which offers opportunities for people living 
+in these societies to engage in social issues in ways that were previously impossi-
+ble. This was evident in the rare and courageous protests across China during the 
+COVID-19 pandemic, sparked by widespread footage on social media of a deadly 
+apartment fire in the far west of the country (Davidson and Yu 2022). The wave of 
+civil disobedience initiated in the digital space eventually led to the abolition of offi-
+cial lockdown policies in the following weeks, demonstrating the power of grassroot 
+or bottom-up approaches in the postdigital era. Another impressive example of rare 
+online civic activism in an authoritarian context is the widespread public outrage 
+and criticism of officials over the case of the ‘chained woman’ (Xiaohuamei), whose 
+43
+1 3 Postdigital Science and Education (2025) 7:31–77 
+plight evoked great public sympathy. This raised awareness of China’s poor record 
+in preventing human trafficking, supporting women’s rights, and treating people 
+with mental illness (Kuo & Li 2022).
+The development of postdigital citizen science and humanities in authoritarian 
+contexts depends heavily on the power of the state and how authoritarian the regime 
+is. Any examination of the political dimension of postdigital citizen science and 
+humanities in these societies must therefore consider the extent to which the role of 
+the state, and the power structures within it, differs from its function in more demo-
+cratic societies. As Strasser and colleagues (2019: 53) point out, we need to interro-
+gate not only ‘what kind of science, but also what kind of society’ this is producing.
+This inquiry raises various intriguing questions regarding the development of 
+postdigital citizen science and humanities in authoritarian contexts. For instance, 
+how does the state regulate the development and utilisation of technology and data, 
+such as through censorship and surveillance? What role does it play in generating 
+and controlling knowledge, including issues of academic freedom and sources of 
+research funding? How does the state organise and oversee postdigital participation, 
+particularly in relation to decision-making and power distribution?1
+Given the recent global surge in authoritarianism, exemplified by countries like 
+Russia, India, and Turkey, alongside the growing influence of authoritarian regimes 
+like China, it is imperative to approach these questions carefully. This is essential to 
+gain deeper insights into the challenges facing the development of both postdigital 
+citizen science and civic societies and democracies more broadly.
+Citizen More Than Human(ities) and Science
+Postdigital Citizen Science and the More‑Than‑Human World (Catherine Price)
+Postdigital citizen science has the potential to increase and diversify participation in 
+knowledge production, but this can be limited by who or what we consider as par -
+ticipants. Researchers have already shown that it is possible to learn with the more-
+than-human world (Szymanski and Calvert 2018; Tsing 2010). One example is the 
+SCRaMble project where yeast was a participant and given the same agency as the sci-
+entists involved in the research process (Szymanski and Calvert 2018). Additionally, in 
+her study on the citizen science river monitoring project, ‘Citizen Crane’, Ria Dunkley 
+(2023) shows that it is possible for humans and the more-than-human world to gather 
+scientific data together. As these examples show, the more-than-human world can be 
+considered an equal in scientific research and citizen science projects.
+Where does this leave postdigital citizen science? As Jandrić et al. (2023a) argue, 
+the ‘postdigital age is about openness and inclusivity; professional scientists and 
+citizen scientists need to be accepted as equals’. The postdigital citizen science con-
+cept needs to be extended to include the more-than-human world, given that it has 
+already been recognised as a knowledge producer. What is worth remembering for 
+1 These questions are inspired by the three challenges raised in Jandrić et al. (2023a).
+44 Postdigital Science and Education (2025) 7:31–77
+1 3
+all of these knowledge producers, whether they are professional scientists or post-
+digital citizen scientists (human or non-human), is that the relationship between 
+thinking and knowing is made possible due to the concept of ‘care’. Maria Puig de la 
+Bellacasa defines care as:
+intrinsically involving an ethical and political intervention that affects also 
+those who are researching care. Because speaking of ‘good care’ – or of as-
+well-as-possible care – is never neutral. Because the work of care can be done 
+within and for worlds that we might find objectionable. (Puig de la Bellacasa 
+2017: 6)
+Postdigital citizen science provides an opportunity for humans who care about 
+the more-than-human world to collect data on subjects including bird and butterfly 
+numbers (Rautio et  al. 2022), the weather (Gharesifard et  al. 2017), water catch-
+ments (Mackay et al. 2015), soil (Kovács et al. 2019), and many others. There is the 
+potential to foster a deeper connection with other living and non-living entities and 
+to help address challenges facing the planet such as climate change and biodiversity 
+loss. Including the more-than-human world in this monitoring as an active partici-
+pant, rather than as a mere object of study, offers the opportunity for transforma-
+tional change (Dunkley 2023; Rautio et al. 2022).
+However, the concept of care is multifaceted and disruptive (Puig de la Bellacasa 
+2015; Szymanski et  al. 2021). Caring for and with the more-than-human world 
+means considering how the postdigital technologies required by postdigital citizen 
+scientists for data collection are produced. The manufacturing of computing 
+hardware and software can actually add to postdigital environmental crises through 
+the extraction of minerals, metals, oil, and gas (Price 2023a). There is also a 
+requirement to ensure more-than-human participants, e.g. birds carrying satellite 
+tags (Price 2023b), are not exploited by humans in data collection in the quest to 
+further knowledge production.
+While the inclusion of the more-than-human world as a participant potentially 
+problematizes postdigital citizen science, this does not mean it should be over -
+looked. Caring for and with the complexities of the more-than-human world might 
+contribute to the survival of life and flourishing futures.
+Postdigital Citizen Data: Participation, Partnerships, Precautions, 
+and Possibilities (Sarah Hayes)
+While ‘most citizen science projects take place within the problem-focused natural 
+sciences’, social sciences and humanities help to further our understanding of the 
+human dimensions (Tauginienė et al. 2020: 1). This makes a case for the power of 
+an interdisciplinary lens to examine public participation in scientific research, but in 
+postdigital society, the prolific extent of data interactions in human lives calls also 
+for collaborative cross-sector dialogue. This is an inclusive approach that is captured 
+in Human Data Interaction, Disadvantage and Skills in the Community: Enabling 
+Cross-Sector Environments for Postdigital Inclusion (Hayes et al. 2023), discussed 
+45
+1 3 Postdigital Science and Education (2025) 7:31–77 
+too in a showcase of Human Data Interaction Network Plus (2023), recent interview 
+(Hayes et al. 2024), and book review (Turvey 2024).
+Since the COVID-19 pandemic, there has been a stronger awareness of the need 
+to improve ‘digital inclusion’ among disadvantaged groups and individuals in com-
+munities across the globe (Hayes et  al. 2023: xiv). Yet the major focus has been 
+placed on human computer interactions, such as improving digital skills and access. 
+How individuals are positioned in their human data interactions, as these intersect 
+in complex ways with various forms of disadvantage in postdigital contexts, has 
+been less researched.
+Preece (2016: 585) suggests that citizen science and Human Computer Interaction 
+(HCI) researchers ‘can leverage each other’s skills to speed up science, accelerate 
+learning, and amplify society’s well-being globally as well as locally’. However, 
+emerging also from an HCI theoretical background, the Human Data Interaction (HDI) 
+framework (Mortier et  al. 2014) calls for legibility, agency, negotiability, and even 
+resistance, to give citizens greater capacity to act, as they encounter data-driven systems. 
+Data are no longer simple forms of information entered into a spreadsheet. Data are now 
+deeply interspersed with online and offline forms of media and algorithmic activity, 
+the Internet of Things, and the digitalisation of many social services (Hayes et al. 2023: 
+xvi). The HDI framework suggests that analytics and algorithms ought to be transparent 
+and comprehensible, enabling opting in or out, and personal data to be corrected. This 
+extends to our physical lives too, given that ‘biology as digital information, and digital 
+information as biology, are now dialectically interconnected’ (Peters et al. 2021: 370) 
+enabling the trackability of humans, with or without, our explicit consent.
+It is important though that precautionary discussions take place alongside a fur -
+thering of participatory possibilities for citizens to interact with their own and other 
+people’s data to contribute to societal research. For example, the Consumer Data 
+Research Centre (CDRC) (2024) points to the valuable insights into human behav -
+iour that might be gained across scientific, social, and economic challenges, via 
+collaboration with consumer data providers. Using consumer data, diverse patterns 
+of urban mobility and travel, flooding, terrorist attacks, areas of food insecurity, or 
+detailed crime narratives can be shared across researchers, businesses, and agencies. 
+Such coordinated HDI activities open routes for valuable local and international, 
+interdisciplinary, and cross-sector knowledge exchange.
+Therefore, an interdisciplinary lens on citizen science enables perspectives from 
+the social sciences and humanities to strengthen the dialogue on citizen participation 
+in scientific research. This could, for example, both encourage valuable exchanges 
+of data and knowledge and heed Ritzer’s arguments about shifts in capitalism from 
+an exploitation of producers to an exploitation of consumers (Ritzer et  al. 2018, 
+2024). Citizen con(pro)sumers are now daily generators of digital data in postdigital 
+society, amid rapid developments in algorithmic culture and artificial intelligence 
+systems. This means that there are complex implications for postdigital inclusion 
+as citizen science is enacted in local communities. Ongoing interdisciplinary and 
+cross-sector dialogues on Human Data Interaction (HDI) are recommended to bal-
+ance considerations of equity and social justice alongside the possibilities for soci-
+etal research from citizen data.
+46 Postdigital Science and Education (2025) 7:31–77
+1 3
+AI‑Powered Citizen Science (Howard Scott)
+Could citizen science benefit from integrating AI into co-creation projects through a 
+postdigital theoretical approach which draws on the Human Data Interaction (HDI) 
+tenets (Mortier et  al. 2014)? Despite its pervasiveness in the postdigital world, 
+access to data remains a challenge for citizen scientists and this kind of integrated 
+approach might help address ethical concerns around AI, including transparency, 
+and improve general AI literacy in harnessing its potential to support co-creation.
+Criticisms of data exploitation have been levelled against citizen science because 
+often the data that participants gather are gifted to formal projects without acknowl-
+edgement (Weinstein 2011). Far too often, citizen scientists simply assume the role 
+of data collectors, without having input into research methodologies, questions, 
+analysis, or outcomes. As the following examples indicate, using AI such as natural 
+language processing tools may improve citizen scientists’ access to projects.
+Access to ‘open data’ can help facilitate the use of real-world AI applications 
+(European Union 2023) in citizen science co-creation projects, where communi-
+ties may, for example, wish to collaborate. Mortier et al. (2014) propose legibility,  
+agency, and negotiability as tenets which focus on human interaction with data and 
+could help guide citizen science to work with AI. Hypothetically, a citizen science 
+group wishing to monitor and analyse water pollution in their local environment 
+could compare data they collect locally with wider examples from open data and har -
+ness AI to analyse it for trends or patterns, as long they are supported to develop the 
+necessary rigour and skill sets to analyse the data they have collected. Access to data-
+sets in a postdigital landscape is no challenge in itself. As Green et al. (2020) have 
+identified, using public camera traps in projects produces such massive amounts of 
+data that it is their categorisation and analysis which become challenging.
+Citizen scientists might, however, develop AI skillsets, e.g. an understanding of 
+prompt engineering (Bozkurt and Sharma 2023) or topic modelling, which Church-
+ill and Singh (2022) describe as textual analysis by large language models to identify  
+themes and discover patterns ‘that allow humans or machines to swiftly grasp salient 
+information or quickly navigate massive databases’ (Wong and Li 2023: 4). Alongside 
+this could be the need for monitoring and critical reading of results by a Human-In-The-
+Loop (HITL) to ensure AI interfaces do not provide false information (‘hallucinations’).
+Co-created citizen science may raise questions about integrity in potential pro-
+jects, highlighting the need for theoretical guidance. Monitoring pollution in a local 
+water supply, for instance, could produce different results if the stakeholders involve 
+community scientists collaborating alongside employees of a local polluting com-
+pany. They could undertake this as citizens, but a theoretical perspective drawing on 
+Mortier et al.’s (2014) HDI tenets could require projects to comply with ‘legibility’, 
+whereby data analytics must be transparent. AI tools such as scite.ai even enable 
+a means of project management for auditing research processes and disseminating 
+results. Trustworthy AI tools that ensure metadata are transparent and of high qual-
+ity may not be available, so a postdigital human element to research, like HITL, may 
+need to be retained to ensure integrity. In summary, AI can be beneficial to help citi-
+zen scientists access metadata and conduct data analysis, but cognisance of ethical 
+approaches, including transparency, need to be maintained.
+47
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Angling and Entangling the Kaleidoscope’s Theoretical Lenses
+Philosophy of Technology (Annabel Latham)
+There is debate around whether technology is distinct from science or is the appli-
+cation of science (Encylopedia Britannica 2024). Herbert Simon (1969) stated that 
+while scientists are concerned with how things are , engineers focus on how things 
+ought to be. Technology has revolutionised citizen science, improving efficiency in 
+data collection and analysis, reducing cost, expanding the geographic and demo-
+graphic reach (Newman et al. 2012), and changing the ways that citizen scientists 
+can contribute (Mazumdar et al. 2018).
+The Philosophy of Technology can be seen as a study of the meaning of technol-
+ogy in the context of its relationship with and impact on, people, culture, and soci-
+ety. Mitcham (1994) refers to this as the ‘humanities philosophy of technology’. This 
+popular standpoint sees technology as a black box (as it originates from the goals and 
+values of humans) and considers its effect as a sociocultural phenomenon in rela-
+tion to human culture, morality, politics, the structure of society, and metaphysics. As 
+such it tends to view technology as having a negative impact on human society.
+An alternative branch, ‘analytic philosophy of technology’, focuses on the tech-
+nology itself, aiming to understand the nature, design, and creation of technological 
+artefacts (Franssen 2009). Technology is considered to be grounded in practice, i.e. 
+engineering, with a focus on considering the concepts, goals, and methods from a 
+philosophical viewpoint. Here, design is fundamental to technology, with engineers 
+seeking to solve problems for the good of society. For instance, the Institute of Elec-
+trical and Electronics Engineers (2024), the world’s largest technical professional 
+organisation, aims to ‘advance technology for humanity’. However, the design pro-
+cess includes many considerations: not only functional requirements, but also the 
+values of users, efficiency, safety, sustainability, market success, and financial or 
+resource constraints. This means trade-offs are inevitable. Attempting to integrate 
+values into designs leads to conflicts that are difficult to resolve.
+In our postdigital age of big data, algorithmic decision-making, and artificial 
+intelligence, the ethical and social aspects of technology are fundamental. If tech-
+nology is value-neutral, how do we approach responsibility? Is it possible to assign 
+responsibility for complex systems designed by multiple teams of engineers? Fur -
+ther, outputs from self-learning and intelligent systems are difficult for humans to 
+understand, predict, and control, leading to responsibility gaps (Matthias 2004). Risk 
+is another key concern, but there is rarely sufficient knowledge to reliably assess the 
+consequences of a new technology. This means the focus tends to be on safety rather 
+than social or psychological risks.
+Can postdigital citizen science exist now without technology, data, and algo-
+rithms? Society and technology are interdependent, each influencing the other. 
+Citizen scientists may rarely consider the personal consequences of sharing and 
+uploading information to apps and, like most people, may not read the terms and 
+conditions. Researchers depending on citizen scientists should consider their use of 
+technology from both humanist and analytic perspectives, asking questions such as 
+48 Postdigital Science and Education (2025) 7:31–77
+1 3
+the following: Who is responsible for unforeseen social or psychological impacts 
+on citizens? How inclusive are we being? Are we reinforcing digital inequalities? Is 
+there a balance of power? Will the data gathered be inherently biassed? Can we offer 
+alternative methods of participating?
+Citizen Linguistics (Ibrar Bhatt)
+We can leverage the principles of citizen science to deepen our understanding of 
+language use, variation, and evolution within communities. This approach has the 
+potential to span several areas of linguistic inquiry, including sociolinguistics, liter -
+acy studies, and linguistic ethnography. Work in these sub-areas can benefit from the  
+participatory nature of citizen science, where ‘non-professionals’ can contribute to 
+academic research in meaningful ways. By situating ‘citizen linguistics’ within the 
+broader context of the humanities, we open avenues for interdisciplinary collabora-
+tion that not only enrich our linguistic knowledge but also strengthen the fabric of 
+humanities research, fostering a holistic understanding of human culture and society.
+At its core, citizen linguistics involves the collection and analysis of linguistic 
+data by ‘lay’ people. Our everyday environments and personal lives are rich with 
+linguistic information—ranging from public signs and graffiti (linguistic landscap-
+ing) and individual experiences with language (linguistic auto-ethnography) to the 
+observation of how language is used and evolves within our communities. These 
+endeavours are not just about accumulating data but also require us to engage deeply 
+with the language as it is lived and experienced, marking an ongoing effort to docu-
+ment oral and written language development through community participation and 
+metadata collection.
+Participants in citizen linguistics can engage in a variety of research tasks. These 
+can include classifying regional accents by listening to audio clips, recording spon-
+taneous language use, and noting the evolving meanings of words and phrases, espe-
+cially in contexts where multiple languages intersect (translingual practice). Under -
+standably, this process will extend to analysing the semiotic features of the linguistic 
+practices of individuals and groups and will be further interpreted by academic 
+researchers. Thus, citizen linguistics is inherently participatory and fosters a form of 
+epistemic interdependence between researchers and the researched.
+Such grassroot engagement is particularly vital in contexts where languages are at 
+risk of disappearing or when heritage literacy practices encompass transmodal and 
+translingual elements that exceed the boundaries of traditionally named languages. 
+Such practices can be multimodal, multiple orthographies and include gestures and 
+non-verbal communication, which require a nuanced approach to documentation and 
+analysis. For example, languages like the Ainu language in Japan and the Navajo lan-
+guage in the United States exemplify communities where linguistic practices are under 
+threat, necessitating innovative approaches for preservation and documentation.
+Moreover, citizen linguistics has practical implications beyond academic 
+research. It supports linguistic policy planning, the development of educational 
+resources, and the documentation of endangered languages and dialects. By involv -
+ing community members in the research process, it ensures that the outcomes are 
+49
+1 3 Postdigital Science and Education (2025) 7:31–77 
+relevant and beneficial to those same communities, thus promoting a more inclusive 
+and participatory approach to language study.
+Language practices which span various modes and media are most coherently 
+understood within a postdigital context (see Bhatt 2023a, b). Such an approach not 
+only considers people’s attachments to analogue technologies but also situates these 
+preferences within a broader ‘postdigital literacy ecology’ as described by Bhatt 
+(2023a). By framing our understanding in this way, and aided by citizen linguistics, 
+we can appreciate the intricate web of language practices that are shaped by a multi-
+tude of influences, offering a holistic view of how digital and analogue experiences 
+coalesce in the modern world.
+Citizen linguistics empowers individuals and communities to contribute to the 
+understanding and preservation of linguistic diversity. It acknowledges the complex-
+ity of language in its ‘natural’ settings and seeks to harness this complexity through 
+collective effort. As such, it not only enriches linguistic research but also plays a 
+crucial role in cultural preservation and the promotion of linguistic diversity on a 
+global scale.
+Postdigital Citizen Science: An Approach from Economics (Vyacheslav Dodonov)
+As an economist, I see great potential for the development of traditional economics 
+through the use of citizen science tools, both in a practical sense by increasing the 
+accuracy of estimates and the measurement of economic processes through expand-
+ing data sets with the help of citizen scientists and in terms of enriching theory 
+through cross-sectoral citizen research in economics, sociology, and political science.
+Improving the accuracy of the analysis and assessment of economic processes is 
+possible in those areas where the role of citizen scientists is potentially extensive, 
+not so much for obtaining primary data, as for interpreting them at the level of per -
+ception within households. This applies to issues such as the impact of inflation on 
+living standards, income inequality, and the quality of municipal government. These 
+issues are especially relevant for developing economies, where problems remain 
+with the accuracy of statistics relating to these parameters and the methodology for 
+calculating the corresponding indicators. Therefore, the involvement of citizen sci-
+ence tools can provide additional impetus for the practical application of the data 
+obtained with its help.
+I see the improvement and enrichment of theoretical approaches using the capa-
+bilities of citizen science as possible, based on the fusion of approaches of econom-
+ics and sociology to increase the accuracy of measuring macroeconomic dynamics 
+and its refraction through the perception of citizens. Citizen science and scientists 
+can make improvements in the measurement of macroeconomic indicators and their 
+impact on households by continuing research at the intersection of GDP, human 
+capital, and social indicators (such as the UNDP Human Development Index or 
+World Bank Human Capital Index) or through more ambitious efforts to find alter -
+natives to macroeconomic progress in the form of measuring areas such as gross 
+national happiness (United Nations General Assembly 2011), human wellbeing, and 
+50 Postdigital Science and Education (2025) 7:31–77
+1 3
+environmental impact (Happy Planet Index). More accurate measurement in turn 
+can become the basis for policy-focused research and recommendations to improve 
+decision-making processes.
+The digital dimension of citizen science in developing and emerging economies 
+is also worth mentioning, in particular, the problem of digital inequality which ‘can 
+be understood as the unequal or differentiated use of the available technology, infra-
+structure, services, facilities, and information’ (Kuhn et al. 2023: 908). This problem 
+not only ‘threatens to leave those States in the technological wake’ (United Nations 
+General Assembly 2023), but also increases inequality of income and opportunity 
+within these countries. In the postdigital era, digital inequality in less developed 
+countries threatens to increase divides and push large parts of society to the margins 
+of progress. In preventing this scenario, citizen science and, in particular, economics 
+can play a significant role by more accurately and critically assessing the economic 
+basis and scale of digital inequality, determining the focus of its most critical efforts.
+Citizen scientists can collect more accurate and representative data on the use of 
+digital technologies in different strata of society by income level, which will make 
+it possible to link income inequality and digital inequality. It is especially impor -
+tant to study digital inequality in business organisation and management in devel-
+oping countries, where civilian scientists can make a considerable contribution to 
+the study of the interdependent factors that cause it. This can help to develop eco-
+nomic mechanisms for reducing gaps in key areas of digital inequality, mitigating 
+its consequences, and targeting assistance towards the most vulnerable members of 
+the population. This suggests that postdigital citizen science has great potential to 
+enrich the theory and practice of economic science in general and its implementa-
+tion to address developing countries’ problems, especially those related to income 
+and digital inequality.
+Integrating the Lippman‑dewey Debate: Pragmatic Idealism and the Mode 3 
+Universal Network University (Adam Matthews)
+Walter Lippmann’s (1922/  2007) book, Public Opinion, introduced the concepts of 
+stereotype and pseudo-environment to conceptualise citizens’ lack of omnicompe-
+tence in domains of the modern world beyond their own personal expertise, experi-
+ence, and context. This for Lippmann raised practical limitations to a fully partici-
+patory democratic ideal. John Dewey responded with The Public and its Problems 
+(Dewey and Rogers 1927/  2016), presenting his own democratic ideal of full par -
+ticipation, which saw democracy in terms of a constantly evolving entanglement of 
+communication and problem-solving across all of society.
+Both authors advocated democratic ends—a key difference was that Lippmann 
+thought that it was the role of experts (such as academics, professionals, and jour -
+nalists) to communicate and synthesise information to publics and elected officials, 
+while Dewey called for active participation from all (Whipple 2005). The Dewey-
+Lippmann debate provides us with two lenses with which to consider postdigital 
+citizen science and humanities where information is abundant (Jandrić 2023) and 
+the epistemological, political, and postdigital are intertwined (Jandrić et al. 2023b).
+51
+1 3 Postdigital Science and Education (2025) 7:31–77 
+For Dahl and Shapiro (2015), large-scale democracy requires alternative sources 
+of information, associational autonomy, and inclusive citizenship. The deluge 
+of alternative sources of information in the twenty-first century has democratised 
+access in many cases but such abundance has also resulted in scepticism (and more 
+dangerously, cynicism) and antagonism towards expertise and objective ‘truth’, 
+manifested through contested terms such as postmodernism, post-truth, fake news, 
+and mis/disinformation in the contemporary public sphere (Farkas and Schou 2019). 
+Contemporary issues such as climate change and artificial intelligence are highly 
+technical, and how we respond has wide-ranging implications for all. This poses a 
+technocracy-democracy dilemma (Coeckelbergh and Sætra 2023), similar to that 
+which divided Lippmann and Dewey.
+Harjuniemi (2022) juxtaposes Lippmann’s argument for professional standards 
+and autonomy with Hayek’s view of free market neoliberalism as a marketplace 
+of ideas free to emerge from all, not just ‘elites’. Curtis (2020) has described the 
+conflict between democracy and neoliberalism as the ‘second Dewey-Lippmann 
+debate’. ‘Experts’ such as those in universities have come under attack in recent 
+times (Galpin and Vernon 2024) with populist movements polarising ‘elites’  
+against ‘the people’.
+The institution of the university as a key knowledge producer and interpreter in 
+society has seen huge growth since the time of Dewey and Lippman. This has placed 
+greater responsibility upon the university, moving it beyond exclusively academic 
+knowledge (Mode 1) and mass production to solve problems and produce future 
+workforces (Mode 2) towards the Mode 3 Universal Network University (Matthews 
+2023). This requires the university not only to focus on the research journal article 
+and full-time degree, but also on widening participation, collaboration, and integra-
+tion with society in (co-)creating and communicating information and knowledge. 
+These modes are not purely historical developments; they also co-exist in tension in 
+different contexts.
+Concepts such as integrating and transcending disciplinary knowledge (Repko 
+and Szostak 2021) and the co-production, exchange, and communication of knowl-
+edge (Bandola-Gill 2023) are wide-ranging, collaborative tasks, involving many 
+stakeholders (Schütz et al. 2019). Through these tasks, the Mode 3 Universal Net-
+work University can draw together both sides of the Dewey-Lippmann debate to 
+contribute a theoretical lens with which to theorise and practice citizen science and 
+humanities. Skills and knowledge drawn from Dewey as a philosopher and Lipp-
+mann as a journalist provide integrative promise as well as critical perspectives for 
+collaborative knowledge production, exchange and communication in the public 
+sphere (Duffy 2015; Remler et  al. 2014). Dewey’s complexity and ideals are key 
+for equitable and democratic ends and Lippmann’s pragmatism is a reminder of 
+the challenges faced and diverse expertise available in many areas both inside and 
+outside of the university for knowledge production, integration, equity, and access. 
+Integrating and oscillating between the two positions offers opportunities for a prag-
+matic idealism (Vermeulen and Van Den Akker 2010) as a guiding principle for the 
+Mode 3 Universal Network University, active and participatory in the postdigital 
+public sphere.
+52 Postdigital Science and Education (2025) 7:31–77
+1 3
+Cultural Considerations and Postdigital Participation in Citizen Science  
+(Rami Muhtaseb)
+Citizen science transcends the conventional boundaries of research, allowing individuals 
+from diverse backgrounds to participate in scientific projects. This can introduce diverse 
+perspectives into scientific research, particularly when addressing global issues. Research 
+in citizen science demonstrates the influence of culture on citizen scientists’ motivations 
+(Rotman et al. 2014; Jeong et al. 2023). Moreover, participation in science is influenced 
+by a range of factors, including gender (Hurley 2023), race, ethnicity (Benjamin 2019), 
+religion (Savin-Baden and Reader 2022) and location, as well as other aspects of identity, 
+intersectionality, and belief (Jandrić et al. 2023a). Consequently, developing inclusive and 
+engaging citizen science initiatives hinges on developing a nuanced understanding of how 
+culture shapes communication and collaboration.
+In the postdigital era, it becomes imperative to consider how cultural dimensions 
+intersect with (post)digital platforms and practices in ICT-mediated citizen science 
+initiatives. Hofstede’s (2011) framework is one of the most common models for describing 
+how culture affects members’ values and behaviour. It situates national cultures along six 
+dimensions: Individualism vs. Collectivism, Power Distance, Masculinity vs. Femininity, 
+Uncertainty Avoidance, Long-Term vs. Short-Term Orientation, and Indulgence vs. 
+Restraint. This contribution begins to exemplify and investigate the dynamics influencing 
+online participation in citizen science across diverse cultural contexts by integrating the 
+postdigital perspective with three of Hofstede’s cultural dimensions. Further investigation 
+of all these cultural dimensions can contribute to developing practical guidelines for 
+fostering cross-cultural communication and collaboration in postdigital citizen science.
+Individualism vs. Collectivism
+This dimension reflects how much a society prioritises individual interests over 
+collective goals. In societies with individualistic cultures, participants may engage 
+in projects that align with their passions and preferences and cherish their sense of 
+freedom and autonomy. Meanwhile, participants from more collectivist cultures may 
+be motivated by a sense of duty to their social group or a desire to contribute to a 
+collective cause (Cardoso-Andrade et al. 2022).
+For example, in a citizen science project to monitor bird populations in specific 
+areas, participants from individualistic cultures might be more inclined to work 
+autonomously, focus on personal observations, and contribute based on their exper -
+tise. In contrast, participants from collectivist cultures might prioritise collaboration 
+and community involvement, organising local bird-watching events, and sharing 
+their findings collectively on social media.
+Power Distance
+Power Distance reflects the extent to which a society accepts and expects unequal 
+distributions of power. Given the participatory nature of citizen science, this may 
+influence communication and decision-making. Participants from cultures with high 
+53
+1 3 Postdigital Science and Education (2025) 7:31–77 
+levels of Power Distance may prefer expert-led citizen science projects. Participants 
+from cultures with low levels of Power Distance may be more inclined to engage in 
+community-led initiatives.
+In a citizen science conservation project involving environmental monitoring 
+through social media, communication in high power distance cultures may be more 
+formal and top-down, relying on project leaders for guidance. Participants from low 
+Power Distance cultures might prefer more decentralised decision-making processes 
+and collaborative leadership, using social media for open discussions and decentral-
+ised decision-making.
+Long‑Term vs. Short‑Term Orientation
+Both forms of orientation relate to the focus of people’s efforts and reflect a soci-
+ety’s attitude towards future planning. In long-term–oriented cultures, participants 
+may exhibit commitment and perseverance in citizen science initiatives, prioritising 
+the sustainability of citizen science projects. Short-term–oriented cultures may pre-
+fer initiatives with quick, observable outcomes.
+For instance, projects focused on pro-environmental behaviour, such as tracking 
+changes in air quality, are likely to attract participants from long-term–oriented 
+cultures (Dangelico et al. 2020), to monitor trends and patterns over extended periods.  
+Projects focused on documenting transient events, like migratory bird sightings  
+or responding to emergencies, are more likely to appeal to participants from short-
+term–oriented cultures.
+Children and Y oung People as Citizen Researchers
+According Epistemic Credibility to Young People as Citizen Social Scientists 
+(Alison MacKenzie and Mohamed Owaineh)
+Social science research has rarely regarded Children and Young People (C&YP) 
+as credible knowers and perceivers of their own experiences, and neither, conse-
+quently, as citizen social scientists. Researchers have researched on C&YP using 
+the perspective and experiences of adults—parents, teachers, social workers, or 
+the police, for example. The reasons for overlooking C&YP as epistemic agents—
+and citizen social scientists—lie in belief systems that C&YP lack rationality, 
+lack the capacity to have valid or reliable views and opinions, and that, below the 
+age of 11, they are not capable of thinking about thinking.
+C&YP were seen as immature forms of the human organism who would even-
+tually become the final form—the human adult (the Aristotelian conception of 
+childhood). The Piagetian (1933) stage theory, which conceived of children as 
+developing in age-related stages, viewed them as a configuration of deficits and 
+as lacking the capacities of adults, a paradigmatic view that persisted long into 
+the twentieth century. These influential conceptions have had implications for 
+how we understand C&YP in philosophy, psychology, sociology, education, law, 
+54 Postdigital Science and Education (2025) 7:31–77
+1 3
+and other fields, as well as in social science research: as subjects or objects of  
+research rather than as contributors to  research.
+These widely held conceptions, however, are being challenged. The most sig-
+nificant challenge has come from the UN Convention on the Rights of the Child 
+(UNICEF 1989), particularly Article 12, the lynchpin of the convention, which 
+provides for the child’s right to participate in processes affecting their lives. 
+This right recognises the child as a full human being who is able to participate 
+in society. Their views, moreover, are to count (given ‘due weight’). As they are 
+to count, then children ought to be regarded as epistemic agents who can design, 
+take part in, and offer critical insights into and commentary on social science 
+research, including education, the environment, or social media legislation.
+Due weight arguments are supported by Article 13, the right of ‘freedom of 
+expression’ and ‘the right to seek, receive and impart information and ideas of 
+all kinds’. Researchers in the field of children’s rights (Lundy 2018), participa-
+tory action research informed by children’s rights (Lundy and Templeton 2018; 
+Owaineh 2023), and philosophical communities of inquiry (Petropoulos 2023) 
+have shown how critically informed and engaged C&YP are, if they are given 
+the opportunity and the means by which to express themselves. Research which 
+involves C&YP as epistemic agents who are credible citizen social scientists is 
+growing in influence and impact (for example, Templeton et al. 2022).
+C&YP are, moreover, growing up in a digital world in which 1 in 3 Internet 
+users worldwide are under 18 (Livingstone et al. 2015). C&YP are skilled users 
+of the digital and are adept postdigital citizens for whom the postdigital merges 
+seamlessly with the off-digital. The knowledge and experience of C&YP mean 
+they are, or should be, regarded as indispensable social citizen scientists.
+Owaineh (2023) created a disabled young women’s advisory group to explore 
+the myriad challenges which hinder their access to education in Palestine, 
+a context in which the political, cultural, social, and infrastructural barriers to 
+inclusion are systemic and structural as a consequence of, primarily, aggres-
+sive settler colonialism and the thwarting of Palestinian statehood. The advisory 
+group sought to use the digital environment to participate in, and contribute to, 
+the research. Among their observations on the advantages of this approach to 
+research was that, for example, video calling both transformed and sustained their 
+ability to communicate, while protecting them from the hazards of travelling in 
+the occupied West Bank.
+The advisory group’s contributions were thought-provoking: they were surprised 
+at being consulted as no one had ever sought their views, believing they lacked 
+capacity or understanding. Their insights on being disabled, young, female, and Pal-
+estinian were acute and harrowing because they were so eloquently expressed from 
+their perspective in their own words. Owaineh (2023) concluded that while lack -
+ing professional skills in conventional research, they were valuable epistemic con-
+tributors to the field of educational inclusion within a very particular context that 
+is too often described by non-disabled adults and non-Palestinians who lack their 
+fine-grained knowledge. Though overlooked, unseen, and silenced, no one, we con-
+tend, could read the accounts of these perforce self-effacing young women and not 
+conclude that they are bona fide citizen social scientists.
+55
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Postdigital Primary School Citizen Science (Sarah Earle)
+Citizen science is increasingly used as a strategy to engage children in science, for 
+example, in gathering data for bird sightings in gardens (e.g. RSPB’s (2024) Big 
+Garden Bird Watch in the UK) or testing water samples (e.g. BBC’s Terrific Scien-
+tific (n.d.)). Children, as citizens, are asked to collect data and submit it digitally, to 
+help scientists. While in theory this sounds as though it actively involves children in 
+science, potentially making them feel part of the scientific community, it may also 
+be embedding the view that science is led by others.
+Attitudes to science are built in primary school (Archer et  al. 2020; Nag 
+Chowdhuri et  al. 2021), with implications not only for engagement in science 
+at secondary school and future careers, but also in terms of the critical thinking 
+required of scientifically literate citizens. The concept of ‘science capital’ is often 
+represented as a rucksack containing the person’s experiences and engagement with 
+science (University College London 2020). For those with high science capital, 
+their ‘rucksack’ is full of visits to museums and discussions with family and friends 
+who use science in their work, perhaps leading to an understanding of the range 
+of jobs requiring science and the importance of science for society. These children 
+feel that science is ‘for them’ (Nag Chowdhuri et al. 2022). In contrast, those with 
+lower levels of science capital may only see science as a subject studied at school 
+or something that is done by stereotypical chemists in lab coats; science is not ‘for 
+them’. Such beliefs about science may lead to issues with the uptake of science 
+qualifications and roles (Institution of Engineering and Technology 2021) and 
+under-representation and inequity in STEM education and the workforce (All-Party 
+Parliamentary Group 2021).
+Efforts to raise science capital and engagement in science could involve visiting 
+scientists or linking more diverse scientists to topics in school (e.g. Primary Science 
+Teaching Trust’s (2024) ‘A scientist like me’). This may broaden children’s ideas 
+about who can be a scientist, but it may not address the issue of science being done 
+by ‘others’. Involving children in citizen science activities could help children to 
+see that anyone can do science, with digital datasets cumulatively building in real 
+time. However, from a postdigital citizen science perspective, it is also important to 
+acknowledge other embedded messages within citizen science programmes that seek 
+to engage children. Just as adult citizen scientists could be described as unpaid data 
+collectors in scientist-led studies (Jandrić et  al. 2023a), a similar argument could 
+be made for children, as citizen scientists who are contributors only, being data-
+providers who are ‘done to’.
+The Primary Science Capital Teaching Approach (Nag Chowdhuri et al. 2021) 
+recognises the importance of children’s starting points and interests, suggesting 
+that inclusive practice involves ‘personalising and localising’, to help connect sci-
+ence to the child’s unique context, together with supporting their voice and agency. 
+When children, in collaboration with their teachers, make additions to an online 
+citizen science database, counting birds or litter for example, this could further add 
+to the science capital of those who already have a sense of the importance of sci-
+ence. However, for those with low science capital, it may only be seen as another 
+in-school activity, something that does not sufficiently link science to their own 
+56 Postdigital Science and Education (2025) 7:31–77
+1 3
+context. Involving children in citizen science is one of many activities designed to 
+raise the profile of science, but a postdigital perspective is useful to help us consider 
+whether and where it can extend to genuine collaboration, rather than just participa-
+tion (Jandrić et al. 2023a). Agency may be achieved by providing more opportuni-
+ties for children to be involved in the whole process of citizen science, rather than 
+just at the point of data collection, for example, by seeking children’s perspectives 
+on the questions they have and the problems they would like to solve.
+Children With Profound and Multiple Learning Disabilities as Citizen Scientists 
+(Ben Simmons and Zoë Clarke)
+Children with Profound and Multiple Learning Disabilities (PMLD) experience 
+global developmental delay stemming from neurological impairments. They are 
+commonly described as functioning at the earliest, pre-verbal stages of development 
+and are perceived to lack formal (symbolic, intentional) language skills, cause-effect 
+awareness, object permanence, and a range of other capabilities associated with 
+later infancy (Simmons and Watson 2014). Children with PMLD present some of 
+the greatest challenges to emerging research paradigms such as ‘inclusive research’, 
+‘co-produced research’, and ‘postdigital citizen science’, which presuppose a par -
+ticular kind of ‘researcher’ or ‘scientist’, i.e. a rational, objective, agentic, and 
+symbolically-competentindividual.
+Some might call into question the extent to which children with PMLD can 
+become postdigital citizen scientists given the severity of their impairments—
+especially when they are described as lacking a ‘point of view’ (Ware 2004). 
+However, it is our contention that such attitudes are informed by a medical model 
+of disability (Barnes and Mercer 2010), whereby exclusion from science is blamed 
+on children’s impairments. A more fruitful approach, reflecting a social model of 
+disability (Shakespeare 2017), is to start from the phenomenological position that 
+views children with PMLD as situated and embodied beings-in-the-world and as 
+‘always-already’ postdigital citizen scientists (Merleau-Ponty 2002).
+Children with PMLD live in a postdigital age, participate in, and explore social 
+and physical worlds, and are attuned to sensory experiences. As such, they are nat-
+ural scientists and have much to teach us about the ‘being’ of a scientist. Rather 
+than asking how we can train children with PMLD to become citizen scientists, we 
+should instead be asking what children with PMLD—as experts in their own lives—
+can teach us about the meaning of citizen science and humanities.
+For example, instead of privileging an objective epistemology which sees knowl-
+edge as existing in the world waiting to be discovered (Crotty 1998), detached 
+from the knower, children with PMLD teach us that knowledge can be ambigu-
+ous, emergent, and temporary. The child with PMLD communicates not through 
+formal language, but through embodied responses to the world. Their individual-
+ised behaviours can require people working with children with PMLD carefully to 
+monitor and revise their interpretations of all children’s behaviours because these 
+behaviours need to be interpreted in contexts which change over time. This eschews 
+57
+1 3 Postdigital Science and Education (2025) 7:31–77 
+the Cartesian desire for certainty underpinning objectivity and supports a view of 
+knowledge as relative and local.
+Children with PMLD teach us that human beings are inherently a relational group 
+who depend on others. They do not stand outside of social and cultural worlds, but 
+are very much part of their fabric (Loidolt 2018). Those who spend time with chil-
+dren with PMLD discover not an objective or even intersubjective science, but an 
+intercorporeal citizen science, whereby we engage with one another and the world 
+through our bodies, with particular attunement to sensation and affect (Varela et al. 
+2016; Szanto and Moran 2016). If postdigital citizen science is for everyone, then 
+we must approach it in a way that includes the lived experiences of children with 
+PMLD. Our claim here is that such inclusion will lead us to science that is affective, 
+relationally embodied, with local and emergent knowledge claims.
+Citizen science is unlikely to be inclusive for children with PMLD if it explores 
+research questions and uses methodologies designed without input from children 
+and families. Inclusivity requires researchers to work closely with children with 
+PMLD and their social networks to develop tailor-made projects that value chil-
+dren’s uniqueness while recognising their dependency on others. Therefore, the 
+focus and practice of such research must be co-designed to allow it to be meaningful 
+and accessible to children and those who support them.
+PhenoloGIT: A Transnational Educational Citizen Science Project (Linda la Velle)
+Phenology is the study of periodic plant and animal life cycle events, and how these 
+are influenced by seasonal and inter-annual variations in climate. Collection of phe-
+nological information is a long-established citizen science activity across Europe, 
+with national and international associations gathering individual data sets provided 
+by thousands of people annually. However, until 2019, it was a science that for the 
+most part used traditional, non-digital methods to record data.
+Harnessing everyday digital tools, the PhenoloGIT2 project, which brought 
+together six partners and was funded by the EU’s Erasmus + programme, 
+designed, built, and tested a collaboratively created educational platform. Teach-
+ers and pupils in schools across Europe used it to collect and share phenological 
+information and access the extensive digital capabilities of geographical informa-
+tion technologies (GIT) to gather, manage, and analyse data.
+That the children were able to act as citizen scientists, whose data collection was 
+as valid as that of participating adults, was genuinely inclusive in the postdigital 
+sense (Tauginiene et al. 2020). It also enabled the use of cultural tools as material 
+and symbolic, ‘person-plus’ mediators of learning (Baggott la Velle et al. 2004) as a  
+key feature of the postdigital education landscape (Newman et al. 2012).
+PhenoloGIT used state-of-the-art mobile technology and GIT to make availa-
+ble to schools the educational potential of these technological developments, ena-
+bling issues-based and enquiry-based teaching and learning for pupils aged 9–13 
+2 See https:// erasm us- plus. ec. europa. eu/ proje cts/ search/ detai ls/ 2015-1- UK01- KA201- 013537. Accessed 
+25 April 2024.
+58 Postdigital Science and Education (2025) 7:31–77
+1 3
+in a range of curricular disciplines (e.g. STEM, geography, languages, art). Many 
+educators consider GIT to be one of the most promising means for implementing 
+curriculum reform, with learners working collaboratively to construct their own 
+analyses and artistic and scientific representations of real-world data sets. How -
+ever, GIT is often seen as too complex for teachers to be able to access its wide-
+ranging potential in lessons.
+The PhenoloGIT project created an educational and technological solution that 
+allowed teachers and pupils innovatively to use open-source GIT + mobile learn-
+ing + phenological data recording as citizen scientists. This contributed to the 
+large volume of high-quality geographical databases that many national and inter -
+national organisations are building to facilitate a better understanding of their 
+territories and environments. Most of these data are still unusable or unknown 
+by most classroom teachers. PhenoloGIT enabled the use of these resources in 
+schools, so that they could be made available for educational ends, including the 
+preparation of future citizen scientists in a postdigital world. The intersection 
+of young people with technology has a direct impact on their relationships with 
+other people and the natural environment.
+There were clear benefits for each of the partners from the project outcomes. 
+The two universities involved, in England and Denmark, gained opportunities for 
+research-informed teaching and technology-enhanced learning. Inherently post-
+digital, the project empowered pre- and in-service teachers to engage and encour -
+age their pupils to engage in citizen science activities, thus expanding the fron-
+tiers of participatory research, knowledge production, and public engagement 
+(Peters et al. 2020). The two publicly-funded EdTech innovation centres involved, 
+in Spain and Lithuania, were able to provide multilingual open-access resources 
+and in-service training.
+This has implications for the postdigital political economy. Provision of tools 
+to generate and share knowledge can be argued to be an example of what Peters 
+et al. (2020) term ‘knowledge socialism’. The Spanish school involved generated 
+and made available citizen science resources for use in collecting phenological 
+data using the PhenoloGIT app. This kind of collaboration enacts the intersec-
+tion between phenology (and ecology more widely) and the human/digital nexus, 
+reflecting their indivisibility in the postdigital world (Jandrić et al. 2023a).
+Shaking the Kaleidoscope
+Flipping the Kaleidoscope Metaphor on its Head (Benjamin Green)
+Mesjasz (2015) has cautioned against the ‘abuse’ of complexity science and its 
+related terminology by those who reduce complexity within their work to little more 
+than metaphor or analogy. Notwithstanding, the call for contributions which pre-
+ceded this article enlisted the metaphor of the kaleidoscope ‘to describe a need for 
+different theories, or an intersection of multiple theories, to unpack and understand 
+the complexity of postdigital citizen science’.
+59
+1 3 Postdigital Science and Education (2025) 7:31–77 
+However, according to Sir David Brewster (the inventor of the kaleidoscope) in his 
+A treatise on the Kaleidoscope (1819: 17), ‘[t]he fundamental principle, therefore, 
+of the Kaleidoscope is, that it produces symmetrical and beautiful pictures, by con-
+verting simple into compound or beautiful forms, and arranging them, by successive 
+reflections, into one perfect whole’. Rather than clarifying complex forms through 
+component images, the kaleidoscope casts a simple image into a beautifully com-
+plex and multifractal unified form. Thus, utilising this metaphor as an analytical tool 
+to develop a multifaceted understanding of ‘the supercomplex nature’ of social phe-
+nomena (Kuhn et al. 2023: 895) highlights a flawed understanding of the intended 
+purpose or function of a kaleidoscope. As argued by Knox (in Kuhn et  al. 2023), 
+given that the task of the kaleidoscope is to convert the simple into the compound, 
+a kaleidoscopic metaphor for scientific inquiry might suffer from an assumption of 
+‘supercomplexity’ as ‘intrinsic’ to the object of inquiry (in this case, citizen science). 
+In other words, the issue here is that this metaphor might lead to a focus on complex-
+ity of form rather than ‘the object of study itself’ (Knox in Kuhn et al. 2023: 924).
+In Fractal Leadership, Karatzogianni and Matthews (2023: 4–5) incorporate an 
+understanding of kaleidoscopic whirl, as a ‘frothy’3 property of a whole that pre-
+vents systemic understanding through the identification of discrete component prop-
+erties. It foregrounds fractal whirl as critical to understanding the ‘nebulous and 
+often competing discourses’, decentralised leadership structures, and individual con-
+versations which make up the ‘amorphous and shifty nature’ of contemporary youth 
+protest movements (Karatzogianni and Matthews 2023: 5). This difficulty reflects 
+a core facet of complexity theory, wherein the nonlinear nature of complex social 
+systems is understood through emergence—an unplanned feature of a system that 
+cannot be reduced to a linear aggregation of the underlying components (Baggio and 
+Parravicini 2019; Törnberg 2011; Walloth 2018; Green 2023).
+There are those who argue that citizen science resists a simplified definition 
+(Hakley et  al. 2021). However, it is undeniably reducible in form—laypersons 
+engaging in individual or collective scientific inquiry. Nevertheless, a related paper 
+aims to develop a ‘deep reimagination and reconfiguration of citizen science in and 
+for the postdigital condition’ (Jandrić et al. 2023a). Attaching a postdigital qualifier 
+to the concept of citizen science also entails a concern for understanding scholarly 
+research through ‘multi-, inter-, and transdisciplinary approaches’ (Jandrić, et  al. 
+2023a). In consonance with this postdigital impetus, Wells outlines that transdisci-
+plinary thinking ‘draws on multiple disciplines and transcends disciplines in pursuit 
+of real world, complex, multidimensional inquiries’ (2012: 123).
+However, garnering a transdisciplinary understanding of citizen science through 
+an inverted process of kaleidoscopic inquiry can only lead to a ‘frothy’ or ‘fractal’ 
+postdigital conceptualization that lacks a unified form. Specifically, a more appro-
+priate approach would be to begin from a simplified and taken-for-granted under -
+standing of citizen science, progressively adding subsequent layers of refraction 
+until ‘the object seen by direct vision is in a state of perfect junction with the images 
+3 See https:// www. worke rslib erty. org/ story/ 2017- 07- 26/ has- polit ics- become- fract  al. Accessed 25 April 2024.
+60 Postdigital Science and Education (2025) 7:31–77
+1 3
+of it formed by reflection’ (Brewster 1819: 35). This is to say that the task of build-
+ing a complex, transdisciplinary vision of citizen science necessitates collective 
+inquiry into a simplified rather than complex form.
+As it stands, there does not currently exist a methodology of transdisciplinar -
+ity that is capable of uniting the disciplines through epistemological, structural, 
+and conceptual shifts (Green 2022). Nevertheless, if utilised appropriately, i.e. if 
+flipped on its head, the metaphor of the kaleidoscope may allow for the recon-
+struction of ostensibly simple, taken-for-granted concepts such as citizen science 
+into more appropriately multifaceted, critical, emancipatory, and inclusive trans-
+disciplinary wholes.
+Towards this aim, the grounded theory, as a methodological inquiry into a com-
+plex social phenomenon that foregrounds an iterative approach to data collection, 
+coding, analysis, and eventual theory development (Charmaz 2014; Corbin and 
+Strauss 2015), seems the most prescient approach for postdigital scholars seeking 
+to collectively develop a complex, transdisciplinary conceptualization of citizen sci-
+ence. Thus, a flipped kaleidoscopic approach to grounded theoretical inquiry may 
+allow postdigital scholars and citizen scientists to work collectively towards an itera-
+tive reimagining of a beautifully complex, transdisciplinary vision of citizen science 
+(as well as other concepts such as wisdom, the good life, being), developed and uti-
+lised towards the common good.
+Conclusion: A Postdigital Citizen Research Collideascope  
+(Michael Jopling)
+The preceding critical exploration of the potential of the flipped kaleidoscope for 
+postdigital citizen and humanities, earthed methodologically by grounded theory, 
+captures something of its potential for the future interdisciplinary practice of citizen 
+science and humanities. The two key elements would seem to offer mutual benefits. 
+The citizen research element (used here as an alternative to the slightly cumbersome 
+formulation of ‘citizen science and humanities’) provides a pragmatic, empirical 
+foundation for postdigital explorations of the social-technical challenges identified 
+previously. The conceptual plurality of the postdigital multiplies the ways in which 
+citizen research and its data can be interpreted and used.
+However, this conclusion does not seek to make sense of the multiple lenses and 
+mirrors that have been revealed and applied to citizen research. Instead, it is here to 
+suggest that the kaleidoscope is used in a manner closer to Barthes’ (2007) notion of 
+‘the neutral’, where meanings, rather than interpretations, are developed and trans-
+formed. As Canetti (1989: 40) asserted: ‘Interpret nothing, explain nothing. Give 
+those who want to rack their brains something to do’. This also has the benefit of 
+approaching the openness and call for wider participation of citizen research. We 
+should remember perhaps that a kaleidoscope is both a tool for learning and an 
+instrument of play.
+61
+1 3 Postdigital Science and Education (2025) 7:31–77 
+In the spirit of play, the kaleidoscope might also be regarded as a ‘collideascope’,4 
+in which the perspectives provided come together both to support and undermine 
+each other, offering new ways of approaching (or even interpreting) citizen research. 
+I would like to end by suggesting three ways in which this notion of collision can 
+be useful. The first returns us to the colliding, inclusive hybridity of the postdigital, 
+which this article has attempted to embody, and which might expand the possibili-
+ties of citizen research in terms of methodologies, conceptual foundations, and par -
+ticipatory potential.
+The second emphasises the ‘always already’ of postdigital citizen research, which 
+draws on the collision between the old and the new, exemplified also in the contri-
+butions to this article which pinpoint how Indigenous and local knowledge precede 
+and might enhance citizen research. Combined with postdigital perspectives’ entan-
+glement of the digital and the predigital, the final collision is of simultaneity. The 
+perspectives, lenses, and mirrors presented in this article exist at the same time and 
+alongside each other, intersecting to offer a critique of citizen research and a means 
+of widening, democratising, and problematising it through the meaningful engage-
+ment of non-specialists.
+Open Review 1: Rethinking Relationships (Cheryl Brown)
+This collective paper takes the reader through criss-crossing pathways which explore 
+and grapple with postdigital citizen science and humanities. Beginning with the 
+intention to provide multiple views and ending with an acknowledgement that these 
+perspectives can collide in complementary and divergent ways, the paper opens up 
+conversations on this topic.
+In grappling with who is a citizen, Juha Suoranta critiques the notion of citizen-
+ship status and how it is conceptualised in relation to nationhood. Others not viewed 
+as citizens in a political and legal sense are children and young people (C&YP). 
+Viewed as lacking rationality and competence their insights and experiences are 
+often disregarded. The term citizen is also human-centred, and as Catherine Price 
+notes, there is a need to include the more-than-human world too. This dilemma has 
+been recognised in the Aotearoa New Zealand where a river’s relationship to local 
+iwi (kin-group) and long-term protection and restoration was recognised by making 
+it a person in the eyes of the law (New Zealand Parliament 2017).
+These issues raise questions about how, in the postdigital age, values of openness 
+and inclusivity are operationalised. Participation is also typically conceptualised 
+from the individual standpoint. Many of the contributions in this paper foreground 
+community participation and engagement with Muhtaseb noting this depends 
+on how a society prioritises individualistic over collectivist goals. Co-design and 
+4 The image of the collideascope is borrowed from a song by The Dukes of Stratosphear (1987). Their 
+combination of tribute, pastiche, and devotion in recreating the music of the late 1960s 20 years later (in 
+a world that did not seem even slightly interested) should remind us that the postdigital has precedents 
+which only emphasise its historical evasiveness.
+62 Postdigital Science and Education (2025) 7:31–77
+1 3
+collaboration as approaches were foregrounded by contributors in relation to chil-
+dren and teachers, non-experts and experts, between experts, and between human 
+and more-than-human.
+These discussions imply that a reframing of the concept of citizens might further 
+open up opportunities for wider inclusion. The paper does offer some suggestions 
+for this, for example, changing the terminology to people’s science or community 
+science. However, as Matthews notes, this will require introspection of academia 
+and our role as experts. A principle which could be helpful here is the te ao Māori 
+concept of ako.5 This describes a teaching and learning relationship, where the edu-
+cator is also learning from the student. Citizen science could benefit from rethinking 
+the relationships in a way where reciprocity is a core value and intention.
+I found the problematisation of participation in the recent book on postdigital 
+participation in education (Weich and Macgilchrist 2023), a useful thinking tool in 
+these deliberations. Participation has, in the recent past, been unquestioned and seen 
+as a ‘good’. Enabling participation is seen as empowering inclusion. Research on 
+marginalised and indigenous communities’ lack of participation in citizen science 
+barriers is complex (Benyei et al. 2023), and some choose not to engage due to dif-
+ficult political contexts. As Fei Yan notes, in authoritarian societies, participation 
+may put citizens at risk.
+Other issues include lack of trust and lack of motivation where communities’ 
+purposes are in contradiction to researchers’ purposes (Benyei et al. 2023). It is also 
+critical to consider the nuances between taking part in an activity (in this case people 
+contributing their time and knowledge to science and humanities) and having a say 
+in the processes of what you are taking part in and how. This raises questions like 
+whose knowledge systems or theories of knowledge are we privileging? Georgina 
+Tuari Stewart and Shane Orchard note that Indigenous and local knowledge precedes 
+mainstream Western knowledge systems and processes. As Stewart (2021a, b) notes 
+elsewhere in a debate about Mātauranga Māori (Māori knowledge), the relationship 
+between science and Indigenous knowledge is not a binary.
+These are just a few of the aspects that stood out for me in this paper although 
+there are many more that deserve interrogation. Whether viewed through the lens 
+of a kaleidoscope or collideascope, the contributors’ ideas provide opportunities for 
+reimaging and reimagining postdigital citizen science and humanities through criti-
+cal cross-disciplinary interrogation.
+Open Review 2: A Problem of Prestige (Richard Watermeyer)
+The metaphor of the kaleidoscope offers a representation of citizen science as a 
+commitment to disruptive visualisation that vandalises the certainties of knowledge 
+orthodoxies and disambiguates the messiness of knowledge production. It articu-
+lates the intervention of ‘inexpert’ publics, mobilised by digital ‘technologies of 
+5 See https:// tereo maori. tki. org. nz/ Curri culum- guide lines/ Teach ing- and- learn ing- te- reo- Maori/ Aspec ts- 
+of- plann ing/ The- conce pt- of- ako. Accessed 25 April 2024.
+63
+1 3 Postdigital Science and Education (2025) 7:31–77 
+elicitation’ (Lezaun and Soneryd 2007) that prosecute their participation as inter -
+locuters of scientific discourse, as a means of reseeing the world. In the various 
+preceding accounts, we find a valorisation of ‘lived experience’ and localised and 
+Indigenous wisdom as legitimate parts of a visual soup that feeds the collective 
+imagination and aspiration for the repair of the social-scientific settlement.
+The postdigital organisation of citizen science, which in cognisance of the 
+boundary transgressions necessary for the resolution of hyper-complex problems 
+incorporates the humanities into its toolkit, is advocated not only for its contribu-
+tion to making science but also for its contribution to unmaking social conventions. 
+Throughout, the kaleidoscopic capacity of postdigital citizen science is celebrated 
+for its democratising potential and its potential for elevating and licensing the voice 
+of the marginalised and discounted, the oppressed, and subaltern. It is commended 
+as a crucible from which critical pedagogues and critical social scientists might pro-
+liferate and collectivise in reconstituting knowledge as an egalitarian endeavour that 
+collapses hierarchies and the exclusions they impose.
+Postdigital citizen science is celebrated for its potential in exposing and elevating 
+otherwise neglected and marginal concerns while also reinvesting scholarship with 
+a public consciousness and an activist agenda. It is also championed for its early 
+cultivation of scientific citizens and its value in enriching the curriculum and seed-
+ing a lifelong enthusiasm for science. Less conspicuous throughout these accounts, 
+however—the contribution from Dodonov aside—is the value of citizen science in 
+the amelioration of policy and through dialogical interchange, perhaps because this 
+nexus remains stubbornly analogue and less amenable to digital mediation.
+Yet for all the cogency of the claims made herein and the myriad virtues and 
+justifications attributed to the kaleidoscopic intervention of citizen science, its 
+transformative capacity may ultimately yield to the tyranny of a prestige economy 
+which dominates science and renders it the jurisdiction of tribal elites who remain 
+highly protectionist of their sovereign territory. In fact, despite the obvious moral 
+motivation and productive advantages of public collaboration, scientists may be rou-
+tinely disincentivized from joining forces. Their reticence has multiple explanations 
+among which feature an elevated sense of precarity in an era where public agnosti-
+cism of experts and the politicisation of science (particularly post-pandemic and on 
+the wave of populist politics, disinformation, and post-truth) are compounded by a 
+fetishisation of accountability, metrics, and demands for impact.
+Where scientists’ value is calculated by the proficiency of their acquiring posi-
+tional goods—measurable impact being one such—and their careers thus ensured, 
+any dilution of their claims of capture might only be avoided. Citizen scientists 
+might then find themselves exploited where their relationship with scientists is 
+rationalised (by scientists) on the basis of their facilitating productive gains. Who 
+then serves whom and in whose best interest? This question extends, as Yan sug-
+gests, to the potential of citizen science in authoritarian states (patent and tacit) and 
+the control of knowledge flows.
+Yet the ethical complexity of postdigital citizen science, which manifests not 
+only in the power imbalance of novice and expert—and how the former may find 
+themselves misappropriated—but also in the terms of inclusive and authentic rep-
+resentation as considerations of care, is hesitantly treated. The credibility of an 
+64 Postdigital Science and Education (2025) 7:31–77
+1 3
+undergirding moral imperative to citizen science is thereby impaired. Methodologi-
+cally, Simmons and Clarke also point out that there is no one-size-fits-all method for 
+knowledge co-production/engagement. Even the most holistic problematisation will 
+require investment and competency in the application of not one but many kaleido-
+scopes and technologies of elicitation to ensure equality of perspective.
+The disruptive value of digital citizen science as a route to epistemic justice and 
+other knowledge benefits requires ethical reflexivity and political pragmatism in 
+tempering the seductions of ideological triumphalism and technological determin-
+ism. It is such a dialectical approach that will allow knowledge actors to widen their 
+aperture without losing focus.
+Open Review 3: The Genre is the Message (Petar Jandrić)
+Traditions are hard to break. Humans are beings of habit and ritual, and as the folk 
+wisdom says, most people become more conservative as they grow older. Global 
+academia is built on ritual and ruled by old people, up to recently, almost exclu-
+sively white men. Small research advances that dutifully cite the elders get nods of 
+approval; anything that disrupts their peace is rejected or at least frowned upon. I 
+do not want to be mean towards the elders, especially because I am only a few years 
+shy from becoming one of them. Conservative approaches make a lot of sense, as 
+traditions are also dangerous to break. For instance, as noted by Green, traditional 
+scholarly disciplines are here for a good reason, and we still haven’t reached useful 
+and sustainable transdisciplinarity.
+Somewhat paradoxically, however, tradition-breaking is the key to knowledge 
+development. Very little knowledge has been developed by scratching each other’s 
+backs. Knowledge is created from disagreement, and tactful management of that 
+disagreement, in global (and as of recently postdigital) scholarly dialogues (Jandrić 
+et al. 2019). Contrary to our proverbially dry appearance, we researchers reside at 
+the fringes of convention; we are travellers building the road towards the unknown.
+Building on several recent innovations in academic writing (notably, the col-
+lective social sciences and/or humanities article (Jandrić et  al. 2023b) and the 
+theoretical kaleidoscope (Kuhn et al. 2023)), this article tinkers with the tradition 
+of scholarly publication. ‘Postdigital Citizen Science and Humanities: A Theo-
+retical Kaleidoscope’ creates its own genre, so much so that it simply does not fit 
+any article category offered by the publisher and scholarly databases. As an edi-
+tor, I take pride in publishing such an article. I am fully aware that this article will 
+be frowned upon at least by some parts of the academic community. Understand-
+ing that knowledge is borne from disagreement, however, I relish the possibility 
+of learning from those critiques.
+My concerns are predominantly epistemic. Will our disruption of traditional 
+academic writing bring about true knowledge development, or will it remain a 
+theoretical and practical dead end? Will this, and many other similar articles, 
+stand the only test that matters—the test of the history of ideas? Does this article 
+produce new and really useful knowledge about postdigital citizen science (see 
+65
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Jandrić 2023), or is it merely an exercise for those privileged enough to indulge in 
+writing experimentation?
+Without the possession of a crystal ball, I’ll try and stick to what we’ve got 
+here and now. ‘Postdigital Citizen Science and Humanities: A Theoretical 
+Kaleidoscope’ presents thoughts and ideas written by more than 20 academics, 
+each of whom knows their field quite well. The reference section is a few lines 
+short of 200 sources, which makes it a useful resource for anyone who wants to 
+learn about postdigital citizen science. For me, this contribution alone justifies 
+the article’s publication.
+I find the theoretical kaleidoscope approach useful in one more way. Reading 
+the contributions, I feel unexplainable but very tangible synergy, and that syn-
+ergy helps me form my own ideas. Of course, synergy always contains a bit of 
+magic, probably best expressed in the math teacher’s nightmare Eq. 1 + 1 > 2. In a 
+postdigital perspective, however, magic is not a bad word. As I wrote a few years 
+back, ‘humans are not only beings of logic and emotion—we are also beings of 
+myth and faith’ (McLaren and Jandrić 2020: 255). For me, and this is admittedly 
+a very personal statement, the magic of human interaction is much more real than 
+the magic of the free market or Jesus Christ. If these examples of magic have 
+their own dedicated publications, then why should this version not as well?
+Finally, and very practically, this article is a part of a larger research effort. It 
+is conceived as a part of a forthcoming Special Issue, ‘Postdigital Citizen Sci-
+ence and Humanities: Survive, Resist, Flourish’, edited by Michael Jopling and 
+Sarah Hayes. Alongside standard academic articles, it will be published shoulder 
+to shoulder with at least one or two similarly designed collective articles written 
+by citizen scientists. As a part of a larger whole, this article may contribute to an 
+even larger dialogue and perhaps an even larger synergy.
+There is no way that I can predict what this article may bring to our stud-
+ies of postdigital citizen science and humanities and/or postdigital research in 
+more general. I am very cautious in my interpretation, because I understand that 
+expecting too much would be vain and counterproductive. However, I also under -
+stand that expecting too little would be paralysing. To avoid the conundrum of 
+expectation, I will end this review with four wishes. I would like this article to 
+help those who want to learn more about postdigital citizen science. I hope at 
+least someone else feels the synergy and its effects. I would like this article to 
+initiate good scholarly discussion. Finally, in the spirit of postdigital citizen sci-
+ence, I hope this discussion expands towards those who are traditionally excluded 
+from the ivory tower of the academia. If only one of these wishes is even partially 
+realised, the publication of this article is more than justified.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative 
+Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended 
+use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permis-
+sion directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+licenses/by/4.0/.
+66 Postdigital Science and Education (2025) 7:31–77
+1 3
+References
+Airini, A. M., & Mila-Schaaf, K. (2010). Teu le va-relationships across research and policy in Pasi-
+fika education: a collective approach to knowledge generation & policy development for action 
+towards Pasifika education success. Auckland, New Zealand: Ministry of Education.
+All-Party Parliamentary Group. (2021). Inquiry into Equity in the STEM Workforce. London: British 
+Science Association. https:// www. briti shsci encea ssoci ation. org/ appg. Accessed 25 April 2024.
+Antweiler, C. (2019). Local knowledge theory and methods: An urban model from Indonesia. In P. 
+Sillitoe (Ed.), Investigating local knowledge. New directions, new approaches (pp. 1–34). Lon-
+don: Routledge.
+Archer, L., Moote, J., Macleod, E., Francis, B. & DeWitt, J. (2020). ASPIRES 2: Young people’s sci-
+ence and career aspirations, age 10–19. London: UCL Institute of Education.
+Arnstein, S. R. (1969). A ladder of citizen participation. Journal of the American Institute of Plan-
+ners, 35(4), 216-224. https:// doi. org/ 10. 1080/ 01944 36690 89772 25.
+Azarmandi, M., & Tolbert, S. (2024). A manifesto for transdisciplinary (transgressive) feminist praxis 
+in the academy. In J. Ulmer, C. Hughes, M. Salazar Perez, & C. Taylor (Eds.), The Routledge 
+International Handbook of Transdisciplinary Feminist Research and Methodological Praxis. 
+London: Routledge.
+Baggio, G., & Parravicini, A. (2019). Introduction to Pragmatism and Theories of Emergence. Euro-
+pean Journal of Pragmatism and American Philosophy, XI(2), 1–10. https:// doi. org/ 10. 4000/  
+ejpap. 1611.
+Baggott la Velle, L., McFarlane, A., John, P. D., & Brawn, R. (2004). According to the promises: the sub-
+culture of school science, teachers’ pedagogic identity and the challenge of ICT.  Education, Com-
+munication & Information, 4(1), 109-129. https:// doi. org/ 10. 1080/ 14636 31042 00021 0962.
+Bandola-Gill, J. (2023). Knowledge Brokering Repertoires: Academic Practices at Science-Policy Interfaces 
+as an Epistemological Bricolage. Minerva, 61(1), 71–92. https:// doi. org/ 10. 1007/ s11024- 022- 09478-5.
+Barnes, C., & Mercer, G. (2010). Exploring disability.  2nd Ed. Cambridge: Polity.
+Barthes R. (2007). The Neutral: Lecture Course at the College de France (1977–1978). Columbia: New 
+York: Columbia University Press.
+Benjamin, R. (Ed.). (2019). Captivating technology: Race, carceral technoscience, and liberatory imagi-
+nation in everyday life. Durham, NC: Duke University Press.
+Benyei, P., Skarlatidou, A., Argyriou, D., Hall, R., Theilade, I., Turreira-García, N., Latreche, D., Albert, 
+A., Berger, D., Cartró-Sabaté, M., Chang, J., Chiaravalloti, R., Cortesi, A., Danielsen, F., Haklay, 
+M., Jacobi, E., Nigussie, A., Reyes-García, V., Rodrigues, E., Sauini, T., Shadrin, V., Siquiera, 
+A., Supriadi, M., Tillah, M., Tofighi-Niaki, A., Vronski, N., & Woods, T. (2023). Challenges, 
+Strategies, and Impacts of Doing Citizen Science with Marginalised and Indigenous Communities: 
+Reflections from Project Coordinators. Citizen Science: Theory and Practice, 8(1), 21. https:// doi. 
+org/ 10. 5334/ cstp. 514.
+Bhatt, I. (2023a). Postdigital Possibilities in Applied Linguistics. Postdigital Science and Education. 
+https:// doi. org/ 10. 1007/ s42438- 023- 00427-3
+Bhatt, I. (2023b). ‘Postdigital Literacies’. In P. Jandrić (Ed.), The Encyclopaedia of Postdigital Science 
+and Education. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 35469-4_ 15-1.
+Bozkurt, A., & Sharma, R. C. (2023). Generative AI and prompt engineering: The art of whispering to let 
+the genie out of the algorithmic world.  Asian Journal of Distance Education,  18(2), i-vii. https:// 
+doi. org/ 10. 5281/ zenodo. 81749 41.
+Brewster, D. (1819). A Treatise on the Kaleidoscope. Edinburgh: J. Ruthven and Sons.
+Brown, G. (2012). Public Participation GIS for regional and environmental planning: reflections on a 
+decade of empirical research. URISA Journal, 24(2), 7-18.
+Bulag, U. E. (2023). The wheel of history and minorities’ ‘self-sacrifice’ for the Chinese nation. Com-
+parative Education, 60(1), 96-117. https:// doi. org/ 10. 1080/ 03050 068. 2023. 22717 81.
+Campbell, O., & Orchard, S. (2023). Development and application of local coastal knowledge: Insights 
+from New Zealand surfers. Coasts, 3(3), 175-189. https:// doi. org/ 10. 3390/ coast s3030 011.
+Canetti, E. (1989). The Secret Heart of the Clock: Notes, Aphorisms, Fragments, 1973-1985. New York: 
+Farrar Strauss Giroux.
+Cardoso-Andrade, M., Cruz-Jesus, F., Troncoso, J. S., Queiroga, H., & Gonçalves, J. M. (2022). 
+Understanding technological, cultural, and environmental motivators explaining the adoption 
+67
+1 3 Postdigital Science and Education (2025) 7:31–77 
+of citizen science apps for coastal environment monitoring.  Global Environmental Change,  77. 
+https:// doi. org/ 10. 1016/j. gloen  vcha. 2022. 102606.
+Chan, L., Hall, B., Piron, F., Tandon, R. & Williams, L. (2020). Open Science Beyond Open Access: For 
+and with communities. A step towards the decolonization of knowledge. Ottawa, CA: The Cana-
+dian Commission for UNESCO’s IdeaLab. https:// zenodo. org/ recor  ds/ 39467 73#. X6Q7u VNKiCR. 
+Accessed 25 April 2024.
+Charmaz, K. (2014). Constructing Grounded Theory: A practical guide through qualitative analysis. 
+London: SAGE.
+Churchill, R., & Singh, L. (2022). The Evolution of Topic Modelling. ACM Computing Surveys 
+54(10s), 1-35. https:// doi. org/ 10. 1145/ 35079 00.
+Coeckelbergh, M., & Sætra, H. S. (2023). Climate change and the political pathways of AI: The tech-
+nocracy-democracy dilemma in light of artificial intelligence and human agency. Technology in 
+Society, 75. https:// doi. org/ 10. 1016/j. techs oc. 2023. 102406.
+Consumer Data Research Centre (2024). About the CDRC. https:// www. cdrc. ac. uk/ about/.
+Corbin, J. M., & Strauss, A. L. (2015). Basics of qualitative research: Techniques and procedures for 
+developing grounded theory. London: SAGE.
+Cousin-Frankel, J. (2022). Thousands report unusual menstruation patterns after COVID19 vaccina-
+tion. Science. https:// doi. org/ 10. 1126/ scien ce. add96 78.
+Cram, F., Phillips, H., Sauni, P., & Tuagalu, C. (Eds.), (2014). Māori and Pasifika Higher Education 
+Horizons. Bingley, UK: Emerald.
+Crotty, M. (1998). The foundations of social research: meaning and perspectives in the research pro-
+cess. London: Sage.
+Curtis, W. M. (2020). Democracy versus Neoliberalism: The Second Dewey-Lippmann Debate. Amer -
+ican Political Thought, 9(2), 285-316. https:// doi. org/ 10. 1086/ 708391.
+da Costa, B., & Philip, K. (Eds.). (2008). Tactical biopolitics: art, activism, and technoscience. Cam-
+bridge, MA: The MIT Press.
+Dahl, R. A., & Shapiro, I. (2015). On Democracy. 2nd Ed. New Haven, CT: Yale University Press.
+Dangelico, R. M., Fraccascia, L., & Nastasi, A. (2020). National culture’s influence on environ-
+mental performance of countries: A study of direct and indirect effects.  Sustainable develop-
+ment, 28(6), 1773-1786. https:// doi. org/ 10. 1002/ sd. 2123.
+Davidson, H., & Yu, V. (2022). Clashes in Shanghai as protests over zero-Covid policy grip China. 
+Guardian, 28 November. https:// www. thegu ardian. com/ world/ 2022/ nov/ 28/ clash es- in- shang hai-  
+as- prote sts- over- zero- covid- policy- grip- china. Accessed 25 April 2024.
+Davies, S. R. (2014). Knowing and loving: Public engagement beyond discourse. Science and Tech-
+nology Studies, 27(3), 90–110. https:// doi. org/ 10. 23987/ sts. 55316.
+Davies, S. R. (2019). Science Communication as Emotion Work: Negotiating Curiosity and Wonder at 
+a Science Festival. Science as Culture, 28(4), 538-561. https:// doi. org/ 10. 1080/ 09505 431. 2019.  
+15970 35.
+de La Bellacasa, M. P. (2011). Matters of care in technoscience: Assembling neglected things. Social 
+Studies of Science, 41(1), 85–106. https:// doi. org/ 10. 1177/ 03063 12710 380301.
+de la Bellacasa, M.P. (2015). Making time for soil: Technoscientific futurity and the pace of care. 
+Social Studies of Science, 45(5), 691–716. https:// doi. org/ 10. 1177/ 03063 12715 599851.
+de La Bellacasa, M.P. (2017). Matters of Care: Speculative Ethics in More than Human Worlds. Min-
+neapolis, MN: University of Minnesota Press.
+Deepwell, K. (2020). Postdigital education, feminism, women. Postdigital Science and Education, 
+2(2), 248-253. https:// doi. org/ 10. 1007/ s42438- 019- 00096-1.
+Denzin, N. (2001). The reflexive interview and a performative social science. Qualitative Research, 
+1(1), 23-46. https:// doi. org/ 10. 1177/ 14687 94101 00100 102.
+Denzin, N. (2019). Qualitative Manifesto. A call to arms. New York: Routledge. https:// doi. org/ 10.  
+4324/ 97804 29449 987.
+Dewey, J., & Rogers, M. L. (1927/2016). The public and its problems: An essay in political inquiry. 
+Athens, OH: Swallow Press.
+D’Ignazio, C., & Klein, L. F. (2023). Data feminism. Cambridge, MA: The MIT Press.
+Duffy, A. (2015). Journalism and Academic Writing: Sibling Rivalry or Kissing Cousins? Asia Pacific 
+Media Educator, 25(1), 5-12. https:// doi. org/ 10. 1177/ 13263 65X15 575562.
+Dukes of Stratosphear. (1987). Collideascope. In Psonic Psunspot [Musical Record]. London: Virgin.
+68 Postdigital Science and Education (2025) 7:31–77
+1 3
+Dunkley, R. (2023). Ecological kin-making in the multispecies muddle: An analytical framework for 
+understanding embodied environmental citizen science experiences. Transactions of the Institute of 
+British Geographers, 48(4), 781–796. https:// doi. org/ 10. 1111/ tran. 12613.
+Edwards, R., & Brannelly, T. (2017). Approaches to democratizing qualitative research methods. Qualita-
+tive Research, 17(3), 271–277. https:// doi. org/ 10. 1177/ 14687 94117 706869.
+Eitzel, M. V., Cappadonna, J. L., Santos-Lang, C., Duerr, R. E., Virapongse, A., West, S. E., Kyba, C. 
+C. M., Bowser, A., Cooper, C. B., Sforzi, A., Metcalfe, A. N., Harris, E. S., Thiel, M., Haklay, M., 
+Ponciano, L., Roche, J., Ceccaroni, L., Shilling, F. M., Dörler, D., Heigl, F., Kiessling, T., Davis, B. 
+Y., & Jiang, Q. (2017). Citizen Science Terminology Matters: Exploring Key Terms. Citizen Sci-
+ence: Theory and Practice, 2(1), 1. https:// doi. org/ 10. 5334/ cstp. 96.
+Eleta, I., Clavell, G. G., Righi, V., & Balesrini, M. (2019). The Promise of Participation and Decision-
+Making Power. Citizen Science: Theory and Practice, 4(1), 8. https:// doi. org/ 10. 5334/ cstp. 171.
+Encyclopaedia Britannica. (2024). Technology. Encyclopaedia Britannica. https:// www. brita nnica. com/ 
+techn ology/ techn ology . Accessed 25 April 2024.
+European Citizen Science Association. (2021). ECSA 10 Principles of Citizen Science. https:// eu- citiz en. 
+scien ce/ resou rce/ 88. Accessed 25 April 2024.
+European Union (2023). Open data and AI: A symbiotic relationship for progress. https:// data. europa. eu/ en/  
+publi catio ns/ datas  tories/ open- data- and- ai- symbi otic- relat ionsh ip- progr  ess. Accessed 25 April 2024.
+Fanon, F. (2004). The Wretched of the Earth. New York: Grove Press.
+Farkas, J., & Schou, J. (2019). Post-truth, fake news and democracy: Mapping the politics of falsehood. 
+New York: Routledge. https:// doi. org/ 10. 4324/ 97810 03434 870.
+Franssen, M. (2009). Analytic philosophy of technology. In J. K. Berg Olsen, S. A. Pedersen, & V. 
+F. Hendricks (Eds.), A Companion to the Philosophy of Technology (pp. 184–188). London: 
+Blackwell.
+Freire, P. (2005). Pedagogy of the Oppressed. New York: Continuum.
+Galpin, C., & Vernon, P. (2024). Post-truth politics as discursive violence: Online abuse, the pub-
+lic sphere and the figure of ‘the expert’.  The British Journal of Politics and International Rela-
+tions, 26(2), 423-443. https:// doi. org/ 10. 1177/ 13691 48123 12026 41.
+Gharesifard, M., Wehn, U., & van der Zaag, P. (2017). Towards benchmarking citizen observatories: Fea-
+tures and functioning of online amateur weather networks. Journal of Environmental Management, 
+193, 381–393. https:// doi. org/ 10. 1016/j. jenvm an. 2017. 02. 003.
+Gramsci, A. (1971). The Intellectuals. In Q. Hoare & G. N. Smith (Eds.), Selections from the Prison 
+Notebooks (pp. 3-23). New York: International Publishers.
+Green, B. (2022). Why the world doesn’t need a metaphysics of transdisciplinarity. Postdigital Science 
+and Education, 4(3), 683–691. https:// doi. org/ 10. 1007/ s42438- 022- 00296-2.
+Green, B. (2023).  How China’s System of Higher Education Works: Pragmatic Instrumentalism, Central-
+ized-Decentralization, and Rational Chaos. Abingdon and New York: Routledge.  https:// doi. org/ 
+10. 4324/ 97810 03282 372.
+Green, S. E., Rees, J. P., Stephens, P. A., Hill, R. A., & Giordano, A. J. (2020). Innovations in cam-
+era trapping technology and approaches: The integration of citizen science and artificial intelli-
+gence. Animals, 10(1), 132. https:// doi. org/ 10. 3390/ ani10 010132.
+Hakim, J., Littler, J., Rottenberg, C., & Segal, L. (2020). The Care Manifesto. New York: Verso.
+Haklay, M. (2013). Citizen science and volunteered geographic information (VGI): Overview and typol-
+ogy of participation. In D. Sui, S. Elwood, & M. Goodchild (Eds.), Crowdsourcing Geographic 
+Knowledge (pp. 105–122). Cham: Springer. https:// doi. org/ 10. 1007/ 978- 94- 007- 4587-2_7.
+Hakley, M., Dörler, D., Heigl, F., Manzoni, M., Hecker, S., & Vohland, K. (2021). What Is Citizen Sci-
+ence? The Challenges of Definition. In K. Vohland, A. Land-Zandstra, L. Ceccaroni, R. Lemmens, 
+J. Perelló, M. Ponti, R. Samson, & K. Wagenknecht (Eds.), The Science of Citizen Science (pp. 
+13–33). Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 030- 58278-4_2.
+Haraway, D. (1988). Situated Knowledges: The Science Question in Feminism and the Privilege of Par -
+tial Perspective. Feminist Studies, 14(3), 575. https:// doi. org/ 10. 2307/ 31780 66.
+Haraway, D. (2016). Staying with the Trouble. Durham, NC: Duke University Press.
+Haraway, D. J. (1985). Cyborg manifesto: Science, technology, and social-feminist in the late 20th cen-
+tury. Social Review, 80, 65-108.
+Harjuniemi, T. (2022). Post-truth, fake news and the liberal ‘regime of truth’ – The double movement 
+between Lippmann and Hayek. European Journal of Communication, 37(3), 269–283. https:// doi. 
+org/ 10. 1177/ 02673 23121 10467 84.
+69
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Hayes, S., Connor, S., Johnson, M., & Jopling, M. (Eds.). (2023).  Human Data Interaction, Disadvan-
+tage and Skills in the Community: Enabling Cross-Sector Environments for Postdigital Inclu-
+sion. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 31875-7.
+Hayes, S., Jopling, M., Connor, S., Johnson, M., & Riordan, S. (2024). ‘Making you Aware of your Own 
+Breathing’: Human Data Interaction, Disadvantage and Skills in the Community. Postdigital Sci-
+ence and Education. https:// doi. org/ 10. 1007/ s42438- 023- 00446-0.
+Hird, M. J. (2009). Feminist Engagements with Matter. Feminist Studies, 35(2), 329–346.
+Hofstede, G. (2011). Dimensionalizing cultures: The Hofstede model in context.  Online Readings in Psy -
+chology and Culture, 2(1). https:// doi. org/ 10. 9707/ 2307- 0919. 1014.
+Human Data Interaction Network Plus. (2023). Data and Disadvantage: Taking a Regional Approach 
+Towards Human Data Interaction (HDI) to Inform Local and National Digital Skills Policies. 
+https:// hdi- netwo rk. org/ showc ase- proje cts/# disad vanta ge. Accessed 25 April 2024.
+Huntington, H. P., Gearheard, S., Mahoney, A. R., & Salomon, A. K. (2011). Integrating traditional and 
+scientific knowledge through collaborative natural science field research: Identifying elements for 
+success. ARCTIC, 64(4), 437–445. https:// doi. org/ 10. 14430/ arcti c4143.
+Hurley, Z. (2023). Postdigital Feminisms. In P. Jandrić, (Ed.), Encyclopedia of Postdigital Science and 
+Education. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 35469-4_ 42-1.
+Institution of Engineering and Technology. (2021). Addressing the STEM skills shortage challenge. Lon-
+don: Institution of Engineering and Technology. https:// www. theiet. org/ media/ 8186/ addre ssing- 
+the- stem- skill-s- short  age- chall enge- report. pdf. Accessed 25 April 2024.
+Institute of Electrical and Electronics Engineers. (2024). Advancing Technology for Humanity. https:// 
+www. ieee. org. Accessed 30 May 2024.
+Irwin, A. (1995). Citizen science: A study of people, expertise, and sustainable development. London: 
+Routledge. https:// doi. org/ 10. 4324/ 97802 03202 395.
+Jandrić, P. (2023). Really useful knowledge in a postdigital age. In M. A. Carrigan, H. Moscovitz, M. 
+Martini, & S. L. Robertson (Eds.),  Building the Post-Pandemic University: Imagining, Contest-
+ing and Materializing Higher Education Futures (pp. 38–59). Cheltenham, UK and Northampton, 
+MA: Edward Elgar. https:// doi. org/ 10. 4337/ 97818 02204 575.
+Jandrić, P., & Ford, D. (2022). Postdigital Ecopedagogies: Genealogies, Contradictions, and Pos-
+sible Futures.  Postdigital Science and Education, 4(3), 672-710.  https:// doi. org/ 10. 1007/ 
+s42438- 020- 00207-3.
+Jandrić, P., Hayes, D., Truelove, I., Levinson, P., Mayo, P., Ryberg, T., Monzó, L.D., Allen, Q., Stewart, 
+P.A., Carr, P.R., Jackson, L., Bridges, S., Escaño, C., Grauslund, D., Mañero, J., Lukoko, H.O., 
+Bryant, P., Fuentes Martinez, A., Gibbons, A., Sturm, S., Rose, J., Chuma, M.M., Biličić, E., Pfohl, 
+S., Gustafsson, U., Arantes, J.A., Ford, D.R., Kihwele, J.E., Mozelius, P., Suoranta, J., Jurjević, L., 
+Jurčević, M., Steketee, A., Irwin, J., White, E.J., Davidsen, J., Jaldemark, J., Abegglen, S., Burns, 
+T., Sinfield, S., Kirylo, J.D., Batarelo Kokić, I., Stewart, G.T., Rikowski, G., Lisberg Christensen, 
+L., Arndt, S., Pyyhtinen, O., Reitz, C., Lodahl, M., Humble, N., Buchanan, R., Forster, D.J., 
+Kishore, P., Ozoliņš, J., Sharma, N., Urvashi, S., Nejad, H.G., Hood, N., Tesar, M., Wang, Y., 
+Wright, J., Brown, J.B., Prinsloo, P., Kaur, K., Mukherjee, M., Novak, R., Shukla, R., Hollings, 
+S., Konnerup, U., Mallya, M., Olorundare, A., Achieng-Evensen, C., Philip, A.P., Hazzan, M.K., 
+Stockbridge, K., Komolafe, B.F., Bolanle, O.F., Hogan, M., Redder, B., Sattarzadeh, S.D., Jopling, 
+M., SooHoo, S., Devine, N., & Hayes, S. (2020). Teaching in The Age of Covid-19.  Postdigital 
+Science and Education, 2(3), 1069-1230. https:// doi. org/ 10. 1007/ s42438- 020- 00169-6.
+Jandrić, P., Knox, J., Besley, T., Ryberg, T., Suoranta, J., & Hayes, S. (2018). Postdigital Science and 
+Education.  Educational Philosophy and Theory,  50(10), 893-899.  https:// doi. org/ 10. 1080/ 00131 
+857. 2018. 14540 00.
+Jandrić, P., Luke, T. W., Sturm, S., McLaren, P., Jackson, L., MacKenzie, A., Tesar, M., Stewart, G. T., 
+Roberts, P., Abegglen, S., Burns, T., Sinfield, S., Hayes, S., Jaldemark, J., Peters, M. A., Sinclair, C., 
+& Gibbons, A. (2023a). Collective Writing: The Continuous Struggle for Meaning-Making.  Post-
+digital Science and Education, 5(3), 851-893. https:// doi. org/ 10. 1007/ s42438- 022- 00320-5.
+Jandrić, P., Ryberg, T., Knox, J., Lacković, N., Hayes, S., Suoranta, J., Smith, M., Steketee, A., Peters, M. 
+A., McLaren, P., Ford, D. R., Asher, G., McGregor, C., Stewart, G., Williamson, B., & Gibbons, A. 
+(2019). Postdigital Dialogue.  Postdigital Science and Education, 1(1), 163-189.  https:// doi. org/ 10. 
+1007/ s42438- 018- 0011-x.
+Jandrić, P., Tolbert, S., Hayes, S., & Jopling, M. (2023b). Postdigital Citizen Science: Mapping the Field. 
+Postdigital Science and Education. https:// doi. org/ 10. 1007/ s42438- 023- 00443-3.
+70 Postdigital Science and Education (2025) 7:31–77
+1 3
+Jeong, E. E., Jackson, C., Dowthwaite, L., Johnson, C., & Trouille, L. (2023). How Personal Value Orienta-
+tions Influence Behaviors in Digital Citizen Science. Proceedings of the ACM on Human-Computer 
+Interaction, 8(CSCW1), 64. https:// doi. org/ 10. 1145/ 36373 41.
+Johnson, B. S. (1969). The Unfortunates. London: Panther.
+Karatzogianni, A., & Matthews, J. (2023). Fractal Leadership: Ideologisation from the 1960s to contem-
+porary social movements. Leeds: Emerald.
+Karrow, D., & Fazio, X. (2010). Educating-Within-Place: Care, Citizen Science, and EcoJustice. In D. J. 
+Tippins, M. P. Mueller, M. Van Eijck, & J. D. Adams (Eds.), Cultural Studies and Environmental-
+ism (pp. 193–214). Dordrecht: Springer. https:// doi. org/ 10. 1007/ 978- 90- 481- 3929-3_ 16.
+Kimura, A. (2016). Radiation Brain Moms and Citizen Scientists: The Gender Politics of Food Contami-
+nation after Fukushima. Durham, NC: Duke University Press.
+Kimura, A. H., & Kinchy, A. (2016). Citizen science: Probing the virtues and contexts of participatory 
+research. Engaging Science, Technology, and Society, 2 , 331–361. https:// doi. org/ 10. 17351/ ests2 016. 99.
+Kovács, K. Z., Hemment, D., Woods, M., van der Velden, N. K., Xaver, A., Giesen, R. H., Burton, V. J., 
+Garrett, N. L., Zappa, L., Long, D., Dobos, E., & Skalsky, R. (2019). Citizen observatory based 
+soil moisture monitoring – the GROW example. Hungarian Geographical Bulletin, 68(2), 119–
+139. https:// doi. org/ 10. 15201/ hunge obull. 68.2.2.
+Krauss, C. (1993). Women and toxic waste protests: Race, class and gender as resources of resistance. 
+Qualitative sociology, 16, 247-262. https:// doi. org/ 10. 1007/ BF009 90101.
+Kuhn, C., Khoo, S.-M., Czerniewicz, L., Lilley, W., Bute, S., Crean, A., Abegglen, S., Burns, T., Sinfield, S., 
+Jandrić, P., Knox, J., & MacKenzie, A. (2023). Understanding digital inequality: A theoretical kaleido-
+scope. Postdigital Science and Education, 5(3), 894-932. https:// doi. org/ 10. 1007/ s42438- 023- 00395-8.
+Kukutai, T., & Cormack, D. (2020). "Pushing the space”: Data sovereignty and self-determination. In 
+Aotearoa NZ. In T. K. M. Walter, S. Russo Carroll, & D. Rodriguez-Lonebear (Eds.), Indigenous 
+Data Sovereignty and Policy (pp. 21–35). London: Routledge.
+Kullenberg, C. (2015). Citizen science as resistance: Crossing the boundary between reference and repre-
+sentation. Journal of Resistance Studies, 1(1), 50-76.
+Kuo, L., & Li, L. (2022). Saga of the chained mother of eight continues to roil China, inspiring rare 
+social activism. Washington Post, 25 February. https:// www. washi ngton  post. com/ world/ 2022/ 02/ 
+25/ xuzhou- chain ed- woman- china/. Accessed 7 May 2024.
+Lezaun, J., & Soneryd, L. (2007). Consulting citizens: technologies of elicitation and the mobility of pub-
+lics. Public Understanding of Science, 16(3), 279-297. https:// doi. org/ 10. 1177/ 09636 62507 079371.
+Lippmann, W. (1922/2007). Public Opinion. New Brunswick: Transaction Publishers.
+Livingstone, S., Carr, J., & Byrne, J. (2015). One in Three: Internet Governance and Children’s Rights. 
+Waterloo, ON: Centre for International Governance Innovation and The Royal Institute of Inter -
+national Affairs. https:// www. cigio nline. org/ publi catio ns/ one- three- inter  net- gover  nance- and- child 
+rens- rights/. Accessed 25 April 2024.
+Loidolt, S. (2018). Phenomenology of Plurality: Hannah Arendt on Political Intersubjectivity. Abingdon: 
+Routledge. https:// doi. org/ 10. 4324/ 97813 15208 565.
+Long, J. W., Lake, F. K., Goode, R. W., & Burnette, B. M. (2020). How traditional tribal perspectives influ-
+ence ecosystem restoration. Ecopsychology, 12(2), 71-82. https:// doi. org/ 10. 1089/ eco. 2019. 00.
+Lundy, L. (2018). In Defence of Tokenism? Children’s Right to Participate in Collective Decision Mak -
+ing. Childhood, 25(3), 340-354. https:// doi. org/ 10. 1177/ 09075 68218 777.
+Lundy, L., & Templeton, M. (2018). Children as Human Rights Defenders: The Views and Perspectives 
+of Children. Geneva: Childs Rights Connect. https:// www. child right sconn ect. org/ wp- conte nt/ uploa 
+ds/ 2018/ 09/ DGD- REPORT_ WEB_ en_ def_ web. pdf. Accessed 25 April 2024.
+Mackay, E., Wilkinson, M., Macleod, C., Beven, K., Percy, B., Macklin, M.,Quinn, P. F., Stutter, M., & 
+Haygarth, P. (2015). Digital catchment observatories: A platform for engagement and knowledge 
+exchange between catchment scientists, policy makers, and local communities. Water Resources 
+Research, 51, 4815-4822. https:// doi. org/ 10. 1002/ 2014W R0168 24.
+Martínez, M. A. (2023). Activist Research as a Methodological Toolbox to Advance Public Sociology. 
+Sociology. https:// doi. org/ 10. 1177/ 00380 38523 12192 07.
+Matapo, J. (2018). Traversing Pasifika education research in a post-truth era. Waikato Journal of Educa-
+tion, 23(1), 139–146. https:// doi. org/ 10. 15663/ wje. v23i1. 627.
+Matthews, A. (2023). The Idea and Becoming of a University Across Time and Space: Ivory Tower, 
+Factory and Network. Postdigital Science and Education, 5(3), 665–693. https:// doi. org/ 10. 1007/ 
+s42438- 022- 00341-0.
+71
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Matthias, A. (2004). The Responsibility Gap: Ascribing Responsibility for the Actions of Learning Autom-
+ata. Ethics and Information Technology, 6(3), 175–183. https:// doi. org/ 10. 1007/ s10676- 004- 3422-1.
+Mazumdar, S., Ceccaroni, L., Piera, J., Hölker, F., Berre, A., Arlinghaus, R., & Bowser, A. (2018). Citi-
+zen science technologies and new opportunities for participation. In S. Hecker, M. Haklay, A. 
+Bowser, Z. Makuch, J. Vogel, & A. Bonn (Eds.), Citizen Science: Innovation in Open Science, 
+Society and Policy. London: UCL Press.
+McAllister, T. G., Naepi, S., Wilson, E., Hikuroa, D., & Walker, L. A. (2022). Under-represented and 
+overlooked: Māori and Pasifika scientists in Aotearoa New Zealand’s universities and crown-
+research institutes. Journal of the Royal Society of New Zealand, 52(1), 38-53. https:// doi. org/ 10. 
+1080/ 03036 758. 2020. 17961 03.
+McLaren, P., & Jandrić, P. (2020).  Postdigital Dialogues on Critical Pedagogy, Liberation Theology and 
+Information Technology. London: Bloomsbury.
+Merleau-Ponty, M. (2002). Phenomenology of perception. Abingdon: Routledge. https:// doi. org/ 10. 4324/ 
+97802 03994 610.
+Mesjasz, C. (2015). Complex Systems Studies and Terrorism. In P. Vos Fellman, Y. Bar-Yam, & A. A. 
+Minai (Eds.), Conflict and Complexity: Countering terrorism, insurgency, ethnic and regional vio-
+lence (pp. 35–72). New York: Springer. https:// doi. org/ 10. 1007/ 978-1- 4939- 1705-1_2.
+Mitcham, C. (1994). Thinking Through Technology: The Path Between Engineering and Philosophy. Chi-
+cago, IL: University of Chicago Press.
+Morgera, E., Tsioumani, E., & Buck, M. (2014). Unraveling the Nagoya Protocol: A commentary on the 
+Nagoya Protocol on Access and Benefit-sharing to the Convention on Biological Diversity. Leiden: 
+Brill.
+Mortier, R., Haddadi, H., Henderson, T., McAuley, D., & Crowcroft, J. (2014). Human Data Interaction: 
+The Human Face of the Data-Driven Society. SSRN Electronic Journal. https:// doi. org/ 10. 2139/ 
+ssrn. 25080 51.
+Mueller, M., & Tippins, D. (2012). Citizen science, ecojustice, and science education: rethinking an 
+education from nowhere. In B. Fraser, K. Tobin, & C. McRobbie (Eds.), Second International 
+Handbook of Science Education (pp. 865–882). Dordrecht: Springer. https:// doi. org/ 10. 1007/ 978-
+1- 4020- 9041-7_ 58.
+Murphy, M. (2015). Unsettling care: Troubling transnational itineraries of care in feminist health prac-
+tices. Social Studies of Science, 45(5), 717–737. https:// doi. org/ 10. 1177/ 03063 12715 589136.
+Naepi, S. (2019). Why Isn’t My Professor Pasifika? A Snapshot of the Academic Workforce in New Zea-
+land Universities. MAI Journal, 8(2), 219–234. https:// doi. org/ 10. 20507/ MAIJo urnal. 2019.8. 2.9.
+Naepi, S., McAllister, T., Thomsen, P., Leenen-Young, M., Walker, L. A., McAllister, A. L., Theodore, 
+R., Kidman, J., & Suaaliia, T. (2019). The Pakaru ‘Pipeline’: Māori and Pasifika Pathways within 
+the Academy. The New Zealand Annual Review of Education, 24, 142–159. https:// doi. org/ 10. 
+26686/ nzaroe. v24i0. 6338.
+Nag Chowdhuri, M., King, H., & Archer, L. (2021). The Primary Science Capital Teaching Approach: 
+Teacher handbook. London: UCL Institute of Education. https:// disco  very. ucl. ac. uk/ id/ eprint/ 
+10136 335/.
+Nag Chowdhuri, M., King, H., & Archer, L. (2022). The Primary Science Capital Teaching Approach: 
+Building science engagement for social justice. Journal of Emergent Science, 23, 34–38. https:// 
+www. ase. org. uk/ resou rces/ journ al- of- emerg  ent- scien ce/ issue- 23/ resea rch- review- prima ry- scien ce-  
+capit  al- teach ing. Accessed 7 May 2024.
+New Zealand Parliament. (2017). Innovative bill protects Whanganui River with legal personhood. 
+https:// www. parli ament. nz/ en/ get- invol  ved/ featu res/ innov  ative- bill- prote cts- whang  anui- river- with-  
+legal- perso nhood/. Accessed 25 April 2024.
+Newman, G., Wiggins, A., Crall, A., Graham, E., Newman, S., & Crowston, K. (2012). The future of citi-
+zen science: emerging technologies and shifting paradigms. Frontiers in Ecology and the Environ-
+ment, 10(6), 298-304. https:// doi. org/ 10. 1890/ 110294.
+Orchard, S. (2019). Growing citizen science for conservation to support diverse project objectives and the 
+motivations of volunteers. Pacific Conservation Biology, 25(4), 342-344. https:// doi. org/ 10. 1071/ 
+PC180 11.
+Owaineh, M. (2023). Epistemic Injustice, Marginalisation and Resistance: Palestinian Young Women with 
+Disabilities Experiences of Education. PhD Dissertation. Belfast: Queen’s University Belfast. https://  
+pure. qub. ac. uk/ en/ stude ntThe ses/ epist emic- injus  tice- margi nalis ation- and- resis  tance. Accessed 25 April 
+2024.
+72 Postdigital Science and Education (2025) 7:31–77
+1 3
+Pedwell, C., & Whitehead, A. (2012). Affecting feminism: Questions of feeling in feminist theory. Femi-
+nist Theory, 13(2), 115–129. https:// doi. org/ 10. 1177/ 14647 00112 442635.
+Peters, M. A., Besley, T., Jandrić, P., & Zhu, X. (Eds.). (2020).  Knowledge Socialism. The Rise of Peer 
+Production: Collegiality, Collaboration, and Collective Intelligence. Singapore: Springer.  https:// 
+doi. org/ 10. 1007/ 978- 981- 13- 8126-3.
+Peters, M. A., Tesar, M., Jackson, L., Besley, T., Jandrić, P., Arndt, S., & Sturm, S. (2021).  The Method-
+ology and Philosophy of Collective Writing. Abingdon and New York: Routledge.  https:// doi. org/ 
+10. 4324/ 97810 03171 959.
+Petropoulos, G. (2023). The Present and Future of Doing Philosophy with Children: Practical Philosophy 
+and Addressing Children and Young People’s Status in a Complex World. Childhood and Philoso-
+phy, 19, 1–18. https:// doi. org/ 10. 12957/ child philo. 2023. 78673.
+Piaget, J. (1933). Children’s Philosophies. In Carl Murchison (Ed.), A Handbook of Child Psychology. 
+Worcester, MA: Clark University Press.
+Preece, J. (2016). Citizen science: New research challenges for human–computer interaction.  Interna-
+tional Journal of Human-Computer Interaction, 32(8), 585-612. https:// doi. org/ 10. 1080/ 10447 318. 
+2016. 11941 53.
+Price, C. (2023a). Postdigital Environmental Crises. In P. Jandrić (Ed.), Encyclopedia of Postdigital Sci-
+ence and Education. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 35469-4_ 6-2.
+Price, C. (2023b). Postdigital Nature 2.0. In P. Jandrić (Ed.), Encyclopedia of Postdigital Science and 
+Education. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 35469-4_ 16-1.
+Primary Science Teaching Trust. (2024). A scientist just like me. https:// pstt. org. uk/ unique- resou rces/a- 
+scien tist- just- like- me/. Accessed 25 April 2024.
+Rapanta, C. (2023a). Postdigital Citizenship. In P. Jandrić (Ed.), Encyclopaedia of Postdigital Science 
+and Education. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 35469-4_ 3-2.
+Rapanta, C. (2023b). Postdigital Citizenship Education. In P. Jandrić (Ed.), Encyclopaedia of Postdigital 
+Science and Education. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 35469-4_ 40-1.
+Rautio, P., Tammi, T., Aivelo, T., Hohti, R., Kervinen, A., & Saari, M. (2022). “For whom? By whom?”: 
+Critical perspectives of participation in ecological citizen science. Cultural Studies of Science Edu-
+cation, 17, 765–793. https:// doi. org/ 10. 1007/ s11422- 021- 10099-9.
+Raymond, C. M., Fazey, I., Reed, M. S., Stringer, L. C., Robinson, G. M., & Evely, A. C. (2010). Inte-
+grating local and scientific knowledge for environmental management. Journal of Environmental 
+Management, 91(8), 1766-1777. https:// doi. org/ 10. 1016/j. jenvm an. 2010. 03. 023.
+Remler, D. K., Waisanen, D. J., & Gabor, A. (2014). Academic Journalism: A modest proposal. Journal-
+ism Studies, 15(4), 357–373. https:// doi. org/ 10. 1080/ 14616 70X. 2013. 821321.
+Repko, A. F., & Szostak, R. (2021). Interdisciplinary research: Process and theory. 4th Ed. London: 
+SAGE.
+Richardson, L. (1990). Writing Strategies: Reaching Diverse Audiences. London: Sage. https:// doi. org/ 10. 
+4135/ 97814 12986 526.
+Ritzer, G., Jandrić, P., & Hayes, S. (2018). The velvet cage of educational con(pro)sumption.  Open 
+Review of Educational Research, 5(1), 113-129. https:// doi. org/ 10. 1080/ 23265 507. 2018. 15461 24.
+Ritzer, G., Ryan, J. M., Hayes, S., Elliot, M., & Jandrić, P. (2024). McDonaldization and Artificial Intel-
+ligence. Postdigital Science and Education. https:// doi. org/ 10. 1007/ s42438- 024- 00475-3.
+Rotman, D., Hammock, J., Preece, J. J., Boston, C. L., Hansen, D. L., Bowser, A., & He, Y. (2014). 
+Does motivation in citizen science change with time and culture? In  Proceedings of the companion 
+publication of the 17th ACM conference on Computer supported cooperative work & social com-
+puting (pp. 229–232). New York: Association for Computing Machinery. https:// doi. org/ 10. 1145/ 
+25564 20. 25564 92.
+Royal Society for the Protection of Birds (RSPB). (2024). Together, we’re making it count. https:// www. 
+rspb. org. uk/ whats- happe ning/ big- garden- birdw  atch. Accessed 30 May 2024.
+Russell, L. (2020). Glitch feminism: a manifesto. New York: Verso.
+Sauermann, H., Vohland, K., Antoniou, V., Balázs, B., Göbel, C., Karatzas, K., Mooney, P., Perelló, J., 
+Ponti, M., Samson, R., & Winter, S. (2020). Citizen science and sustainability transitions. Research 
+Policy, 49(5), 1-16. https:// doi. org/ 10. 1016/j. respol. 2020. 103978.
+Savin-Baden, M., & Reader, J. (Eds.). (2022). Postdigital Theologies: Technology, Belief, and Practice. 
+Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 09405-7.
+Schütz, F., Heidingsfelder, M. L., & Schraudner, M. (2019). Co-shaping the Future in Quadruple Helix 
+Innovation Systems: Uncovering Public Preferences toward Participatory Research and Innovation. 
+73
+1 3 Postdigital Science and Education (2025) 7:31–77 
+She Ji: The Journal of Design, Economics, and Innovation, 5(2), 128–146. https:// doi. org/ 10. 
+1016/j. sheji. 2019. 04. 002.
+Senabre Hidalgo, E., Perelló, J., Becker, F., Bonhoure, I., Legris, M., & Cigarini, A. (2021). Participation 
+and Co-creation in Citizen Science. In K. Vohland, A. Land-Zandstra, L. Ceccaroni, R. Lemmens, 
+J. Perelló, M. Ponti, R. Samson, & K. Wagenknecht (Eds.), The Science of Citizen Science (pp. 
+199–218). Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 030- 58278-4_ 11.
+Shakespeare, T. (2017). The social model of disability. In L. Davis (Ed.), The disability studies reader.  5th 
+Ed. Abingdon: Routledge.
+Shirk, J. L., Ballard, H. L., Wilderman, C. C., Phillips, T., Wiggins, A., Jordan, R., . . . Bonney, R. (2012). 
+Public Participation in Scientific Research: A framework for deliberate design. Ecology and Soci-
+ety, 17(2), 29. https:// doi. org/ 10. 5751/ ES- 04705- 170229.
+Silvertown, J. (2009). A new dawn for citizen science.  Trends in Ecology & Evolution, 24(9), 467–
+471. https:// doi. org/ 10. 1016/j. tree. 2009. 03. 017.
+Simmons, B., & Watson, D. (2014). The PMLD ambiguity: articulating the life-worlds of children with 
+profound and multiple learning disabilities. Abingdon: Routledge. https:// doi. org/ 10. 4324/ 97804 
+29482 755.
+Simon, H. A. (1969). The Sciences of the Artificial. Cambridge, MA: The MIT Press.
+St. Pierre, E. A. (2021). Post Qualitative Inquiry, the Refusal of Method, and the Risk of the New. Quali-
+tative Inquiry, 27(1), 3-9. https:// doi. org/ 10. 1177/ 10778 00419 863005.
+Stewart, G. T. (2018). What does ‘indigenous’ mean, for me? Educational Philosophy and Theory, 50(8), 
+740-743. https:// doi. org/ 10. 1080/ 00131 857. 2017. 13020 50.
+Stewart, G. T. (2021a). Defending science from what? Educational Philosophy and Theory. https:// doi. 
+org/ 10. 1080/ 00131 857. 2021. 19664 15.
+Stewart, G. T. (2021b). Māori Philosophy: Indigenous thinking from Aotearoa. London: Bloomsbury.
+Stewart, G. T. (2023). Postdigital Ethnicity. In P. Jandrić (Ed.), Encyclopedia of Postdigital Science and 
+Education. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 031- 35469-4_ 10-1.
+Stewart, G. T. (2024). Indigenous Post Qualitative Inquiry. London: SAGE.
+Stewart, G. T., & Devine, N. (2024). Nothing outside of the text in Aotearoa New Zealand. International 
+Journal of Qualitative Studies in Education. https:// doi. org/ 10. 1080/ 09518 398. 2024. 23426 95.
+Stewart, G. T., Barbarich-Unasa, T. W., Enari, D., Faumuina, C., Heke, D., Henare, D., Lolohea, T., Phillips, 
+M., Port, H., Staniland, N., Tapuni, M., Teaurere, R., Ualesi, Y., Walker, L., Devine, N. A., & Matapo, 
+J. (2023). Experiences of Indigenous (Māori/Pasifika) early career academics. Educational Philosophy 
+and Theory. https:// doi. org/ 10. 1080/ 00131 857. 2023. 22716 49.
+Strasser, B., Baudry, J., Mahr, D., Sanchez, G., & Tancoigne, E. (2019). "Citizen science"? Rethinking 
+science and public participation. Science & Technology Studies, 32(2), 52–76. https:// doi. org/ 10. 
+23987/ sts. 60425.
+subRosa. (2008). Common knowledge and political love. In B. da Costa & K. Philip (Eds.), Tactical 
+biopolitics: Art, activism, and technoscience (pp. 221–242). Cambridge, MA: MIT Press.
+Suoranta, J. (2021). Militant Freire. New York: DIO Press.
+Szanto, T., & Moran, D. (Eds.). (2016). Phenomenology of sociality: discovering the ‘we’. Abingdon: 
+Routledge. https:// doi. org/ 10. 4324/ 97813 15688 268.
+Szymanski, E. A., Smith, R. D. J., & Calvert, J. (2021). Responsible research and innovation meets multi-
+species studies: why RRI needs to be a more- than-human exercise. Journal of Responsible Innova-
+tion, 8(2), 261–266. https:// doi. org/ 10. 1080/ 23299 460. 2021. 19060 40.
+Szymanski, E., & Calvert, J. (2018). Designing with living systems in the synthetic yeast project. Nature 
+Communications, 9. https:// doi. org/ 10. 1038/ s41467- 018- 05332-z.
+Tandon, R., & Hall, B. (2021). Towards a Framework for Knowledge Democracy. In B. Hall & R. Tandon 
+(Eds.), Socially Responsible Higher Education (pp. 288–301). Leiden and Boston: Brill.
+Tauginienė, L., Butkevičienė, E., Vohland, K., Heinisch, B., Daskolia, M., Suškevičs, M., Portela, M., 
+Balázs, B., & Prūse, B. (2020). Citizen science in the social sciences and humanities: the power of 
+interdisciplinarity. Palgrave Communications, 6, 89. https:// doi. org/ 10. 1057/ s41599- 020- 0471-y .
+Templeton, M., Cuevas-Parra, P., & Lundy, L. (2022). Children’s Participation in International Fora: 
+The Experiences and Perspectives of Children and Adults. Children and Society, 37(3), 786-805. 
+https:// doi. org/ 10. 1111/ chso. 12629.
+Tengö, M., Brondizio, E. S., Elmqvist, T., Malmer, P., & Spierenburg, M. (2014). Connecting diverse 
+knowledge systems for enhanced ecosystem governance: The multiple evidence base approach. 
+AMBIO, 43(5), 579-591. https:// doi. org/ 10. 1007/ s13280- 014- 0501-3.
+74 Postdigital Science and Education (2025) 7:31–77
+1 3
+Thomas, S., Scheller, D., & Schröder, S. (2021). Co-creation in citizen social science: the research forum 
+as a methodological foundation for communication and participation. Humanities and Social Sci-
+ences Communications, 8(1), 244. https:// doi. org/ 10. 1057/ s41599- 021- 00902-x.
+Törnberg, A. (2011). Using Complexity Theory Methods for Sociological Theory Development. PhD 
+Dissertation. Gothenburg: University of Gothenburg. http:// hdl. handle. net/ 2077/ 26536. Accessed 
+25 April 2024.
+Tronto, J. C. (2013). Caring Democracy: Markets, Equality, Justice. New York: New York University 
+Press.
+Tronto, J. C., & Fisher, B. (1990). Toward a Feminist Theory of Caring. In E. Abel & M. Nelson (Eds.), 
+Circles of Care (pp. 36–54). Albany, New York: SUNY Press.
+Truth, S. (1851/2020). Ain’t I a woman? Harmondsworth: Penguin Books.
+Tsing, A. (2010). Arts of Inclusion, or How to Love a Mushroom. Manoa, 22(2), 191–203. https:// doi. 
+org/ 10. 1353/ man. 2010. a4074 37.
+Turvey, K. (2024). Review of Sarah Hayes, Michael Jopling, Stuart Connor, and Matthew Johnson (Eds.). 
+(2023).  Human Data Interaction, Disadvantage and Skills in the Community: Enabling Cross-Sec-
+tor Environments for Postdigital Inclusion. Postdigital Science and Education. https:// doi. org/ 10. 
+1007/ s42438- 024- 00452-w .
+UNICEF. (1989). The United Nations Convention on the Rights of the Child. https:// www. ohchr. org/ en/ 
+instr uments- mecha nisms/ instr  uments/ conve ntion- rights- child. Accessed 25 April 2024.
+United Nations Environment Programme. (2021). Article 8(j) - Traditional knowledge, innovations and 
+practices. Montreal, CA: Secretariat of the Convention on Biological Diversity. https:// www. cbd. 
+int/ tradi tional/ intro. shtml. Accessed 25 April 2024.
+United Nations General Assembly (2011). Happiness: towards a holistic approach to development. UN 
+General Assembly. https:// web. archi ve. org/ web/ 20181 02301 4942/ http:// repos itory. un. org/ handle/ 
+11176/ 291712/. Accessed 25 April 2024.
+United Nations General Assembly (2023). Widening Digital Gap between Developed, Developing States 
+Threatening to Exclude World’s Poorest from Next Industrial Revolution. UN General Assembly 
+https:// press. un. org/ en/ 2023/ gaef3 587. doc. htm. Accessed 25 April 2024.
+University College London. (2020). The Science Capital Teaching Approach Animation. [YouTube 
+Video]. https:// youtu. be/ hWWPU IK3xZ0? featu re= shared. Accessed 25 April 2024.
+Varela, F. J., Rosch, E., & Thompson, E. (2016). The embodied mind: cognitive science and human expe-
+rience. Revised Ed. London: The MIT Press.
+Vermeulen, T., & Van Den Akker, R. (2010). Notes on metamodernism. Journal of Aesthetics & Culture, 
+2(1), 1-14. https:// doi. org/ 10. 3402/ jac. v2i0. 5677.
+Vohland, K., Land-Zandstra, A., Ceccaroni, L., Lemmens, R., Perelló, J., Ponti, M., Samson, R., & 
+Wagenknecht, K. (2021). Editorial: The Science of Citizen Science Evolves. In K. Vohland, A. 
+Land-Zandstra, L. Ceccaroni, R. Lemmens, J. Perelló, M. Ponti, R. Samson, & K. Wagenkne-
+cht (Eds.),  The Science of Citizen Science  (pp. 1–12). Cham: Springer.  https:// doi. org/ 10. 1007/ 
+978-3- 030- 58278-4_1.
+Walloth, C. (2018). Emergent Nested Systems: a theory of understanding and influencing complex systems as 
+well as case. studies in urban systems. Cham: Springer. https:// doi. org/ 10. 1007/ 978-3- 319- 27550-5.
+Ware, J. (2004). Ascertaining the views of people with profound and multiple learning disabilities. British 
+Journal of Learning Disabilities, 32(4), 175-179. https:// doi. org/ 10. 1111/j. 1468- 3156. 2004. 00316.x.
+Waugh, J. K., Lindsey, J. K., Stewart, M. Z., Winter, J. C., & Parrish, J. K. (2023). Demographics of 
+Public Participation in Science: A Meta-Analytic Approach. Citizen Science: Theory and Practice, 
+8(1), 61. https:// doi. org/ 10. 5334/ cstp. 610.
+Weich, A., & Macgilchrist, F. (Eds.). (2023). Postdigital Participation in Education: How Contemporary 
+Media Constellations Shape Participation. Cham: Palgrave Macmillan. https:// doi. org/ 10. 1007/ 
+978-3- 031- 38052-5.
+Weinstein, M. (2011). Schools/Citizen Science. A Response to "The Future of Citizen Science". Democ-
+racy and Education, 20(1), 1–3.
+Wells, J. (2012). Complexity and Sustainability. London: Routledge. https:// doi. org/ 10. 4324/ 97802 03095 
+676.
+Williams, T., & Hardison, P. (2013). Culture, law, risk and governance: contexts of traditional knowl-
+edge in climate change adaptation. Climatic Change, 120(3), 531-544. https:// doi. org/ 10. 1007/ 
+s10584- 013- 0850-0.
+75
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Wong, G. K., & Li, S. Y. (2023). An Exploratory Study of Helping Undergraduate Students Solve Litera-
+ture Review Problems Using Litstudy and NLP.  Education Sciences,  13(10), 987. https:// doi. org/ 
+10. 3390/ educs ci131 00987.
+Whipple, M. (2005). The Dewey-Lippmann Debate Today: Communication Distortions, Reflective 
+Agency, and Participatory Democracy. Sociological Theory, 23(2), 156–178. https:// doi. org/ 10. 
+1111/j. 0735- 2751. 2005. 00248.x.
+Whitlock, K. (2021). Handle with Care: Digital Citizen Science and Data Feminism in the Anthro-Cap-
+italocene. Masters Thesis. Dallas, TX: The University of Texas at Dallas. https:// hdl. handle. net/ 
+10735.1/ 9336. Accessed 25 April 2024.
+Yan, F. (2020). Managing ‘Digital China’ During the Covid-19 Pandemic: Nationalist Stimulation 
+and its Backlash. Postdigital Science and Education, 2(3), 639-644. https:// doi. org/ 10. 1007/ 
+s42438- 020- 00181-w .
+Yunkaporta, T. (2020). Sand Talk: How Indigenous Thinking Can Save The World. San Fransciso, CA: 
+HarperOne.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps 
+and institutional affiliations.
+Authors and Affiliations
+Michael Jopling1  · Georgina Tuari Stewart2  · Shane Orchard3  · 
+Juha Suoranta4  · Sara Tolbert3  · Laurène Cheilan5  · Fei Yan6 · 
+Catherine Price7  · Sarah Hayes8  · Howard Scott9  · Annabel Latham10  · 
+Ibrar Bhatt11  · Vyacheslav Dodonov12  · Adam Matthews13  · 
+Rami Muhtaseb9  · Alison MacKenzie11  · Mohamed Owaineh14 · 
+Sarah Earle8  · Ben Simmons8  · Zoë Clarke15  · Linda la Velle8 · 
+Benjamin J. Green16 · Cheryl Brown3 · Richard Watermeyer17  · 
+Petar Jandrić18 
+ * Richard Watermeyer 
+ richard.watermeyer@bristol.ac.uk
+ Michael Jopling 
+ m.jopling@brighton.ac.uk
+ Georgina Tuari Stewart 
+ georgina.stewart@aut.ac.nz
+ Shane Orchard 
+ shane.orchard@canterbury.ac.nz
+ Juha Suoranta 
+ juha.suoranta@tuni.fi
+ Sara Tolbert 
+ sara.tolbert@canterbury.ac.nz
+ Laurène Cheilan 
+ laurene.cheilan@bristol.ac.uk
+ Fei Yan 
+ educhina2020@outlook.com
+ Catherine Price 
+ Catherine.Price@nottingham.ac.uk
+76 Postdigital Science and Education (2025) 7:31–77
+1 3
+ Sarah Hayes 
+ s.hayes@bathspa.ac.uk
+ Howard Scott 
+ Howard.scott@wlv.ac.uk
+ Annabel Latham 
+ A.Latham@mmu.ac.uk
+ Ibrar Bhatt 
+ i.bhatt@qub.ac.uk
+ Vyacheslav Dodonov 
+ dodonovv@mail.ru
+ Adam Matthews 
+ a.matthews.3@bham.ac.uk
+ Rami Muhtaseb 
+ R.w.muhtaseb@wlv.ac.uk
+ Alison MacKenzie 
+ A.Mackenzie@qub.ac.uk
+ Mohamed Owaineh 
+ mohammed.owaineh@ucc.ie
+ Sarah Earle 
+ s.earle@bathspa.ac.uk
+ Ben Simmons 
+ b.simmons@bathspa.ac.uk
+ Zoë Clarke 
+ z.clarke@nhs.net
+ Linda la Velle 
+ l.lavelle@bathspa.ac.uk
+ Benjamin J. Green 
+ bgreen@blcu.edu.cn
+ Cheryl Brown 
+ cheryl.brown@canterbury.ac.nz
+ Petar Jandrić 
+ pjandric@tvz.hr0
+1 University of Brighton, Brighton, UK
+2 Auckland University of Technology, Auckland, New Zealand
+3 University of Canterbury, Christchurch, New Zealand
+4 Tampere University, Tampere, Finland
+5 ESRC Centre for Sociodigital Futures, University of Bristol, Bristol, UK
+6 Independent Scholar, Beijing, China
+7 University of Nottingham, Nottingham, UK
+8 Bath Spa University, Bath, UK
+9 University of Wolverhampton, Wolverhampton, UK
+10 Manchester Metropolitan University, Manchester, UK
+11 School of Social Sciences, Education and Social Work, Queen’s University Belfast, 
+77
+1 3 Postdigital Science and Education (2025) 7:31–77 
+Belfast BT7 1HL, UK
+12 Institute of Philosophy, Political Science, and Religious Studies By the Committee of Science 
+of the Ministry of Science and Higher Educationof the Republic of Kazakhstan, Almaty, 
+Kazakhstan
+13 University of Birmingham, Birmingham, UK
+14 University College Cork, Cork, Ireland
+15 Barnsley Hospital NHS Foundation Trust, Barnsley, UK
+16 Beijing Language and Culture University, Beijing, China
+17 University of Bristol, Bristol, UK
+18 Zagreb University of Applied Sciences, Zagreb, Croatia

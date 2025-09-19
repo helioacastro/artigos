@@ -1,0 +1,851 @@
+Caring through : Engaging with the temporality of care in
+more-than-human design
+Gizem Oktay
+g.oktay@tue.nl
+Eindhoven University of Technology
+Eindhoven, NetherlandsMinha Lee
+m.lee@tue.nl
+Eindhoven University of Technology
+Eindhoven, Netherlands
+Bahareh Barati
+b.barati@tue.nl
+Eindhoven University of Technology
+Eindhoven, NetherlandsRon Wakkary
+Simon Fraser University
+Surrey, Canada
+Eindhoven University of Technology
+Eindhoven, Netherlands
+ABSTRACT
+Care is a political and ethical everyday practice with nested pro-
+cesses and relationships. In more-than-human design, care is a
+practice that allows a deep engagement with time and temporality.
+Existing terms such as caring forandabout fall short in accounting
+for this engagement by not bringing to the fore the diverse tempo-
+ral frames embedded in care relations and the fluidity of agency
+between caregiver and receiver roles. This paper provides a typol-
+ogy informed by different kinds of care based on engagement with
+time and labor, such as caring for,about , and through . Specifically,
+we contribute caring through as a concept emphasizing the role
+of more-than-human temporality in care practice. Caring through
+accounts for plural engagements with time, the interdependence
+between caregiver and care receiver, and mediated aspects of care
+where care becomes making time for the other.
+CCS CONCEPTS
+•Human-centered computing →Interaction design theory,
+concepts and paradigms ;HCI theory, concepts and models .
+KEYWORDS
+caring through, temporality, design with care, more-than-human
+design, temporality of care
+ACM Reference Format:
+Gizem Oktay, Minha Lee, Bahareh Barati, and Ron Wakkary. 2024. Caring
+through : Engaging with the temporality of care in more-than-human design.
+InHalfway to the Future (HTTF ’24), October 21–23, 2024, Santa Cruz, CA, USA.
+ACM, New York, NY, USA, 8 pages. https://doi.org/10.1145/3686169.3686211
+1 INTRODUCTION
+Care is a political and ethical everyday practice with nested pro-
+cesses and relationships. According to care ethicists, care includes
+everything we do to maintain, continue, and repair our world [ 54].
+This work is licensed under a Creative Commons Attribution International
+4.0 License.
+HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA
+©2024 Copyright held by the owner/author(s).
+ACM ISBN 979-8-4007-1042-1/24/10
+https://doi.org/10.1145/3686169.3686211These are practices that involve attention and commitment to re-
+spond to needs [ 37] and acts that promote the well-being of others
+and ourselves based on the responsiveness to the cared-for [ 15]. Re-
+cently, care as a broader activity encompassing more-than-human
+(MtH) entities such as animals, insects, plants, waters, soil, and
+microorganisms are becoming more important. Scholars call for
+more-than-human inclusion in the discourse [ 9,14] to acknowledge
+all we do for more-than-human worlds, which necessitates care.
+Through care, we attune to the Earth and become responsive to-
+ward its myriad beings, living or non-living, with whom we cohabit
+space and time.
+HCI and design have taken a natural interest in care as disci-
+plines responding to challenges arising from a ‘lack of care’ for the
+environment, such as climate change and environmental injustices.
+Care is seen in design research as a sensibility and practice with
+which we repair, regenerate, and restore more-than-human worlds
+[56]. Noteworthy examples include the design of care practices
+towards more-than-human entities such as living (e.g., silkworms,
+bacteria) and non-living beings (e.g., objects, tools) [ 21,42,51,60],
+the design practice becoming a way to care [ 28], care as a design
+ethic [ 23,24,52], and care as a moral stance [ 2,16], with which we
+design tools, systems, and artifacts [29, 57].
+Care is an ever-encompassing activity surrounding the design
+practice, and the ambivalence of care can make it challenging to
+decide what counts as care and who needs to be cared for. As tra-
+ditional understandings (e.g., health care, tending to the elderly,
+and children) evolve into the emerging discourse around more-
+than-human care, there is a risk of care becoming a buzzword used
+without a nuanced understanding. We believe such an understand-
+ing can help researchers carefully andattentively find opportunities
+to relate to more-than-human worlds and to build relationships
+with more-than-human entities.
+To promote such understanding, we provide a typology of care,
+addressing time and labor-related aspects. Not all care involves
+practical work towards the cared for; it can also refer to someone’s
+positioning and emotional involvement. We believe different types
+of care (i.e., caring about, for, with, and through) can unravel the
+dynamic relationship between caregiver and receiver and reveal the
+role of time in an ongoing care relationship. Specifically, we provide
+the notion caring through as a generative term to highlight the role
+of time in care and the fluctuating care roles that are not fully
+
+HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA Oktay et al.
+captured via existing terms. In the paper, we first discuss related
+work in design-oriented HCI research, followed by a theoretical
+background on care ethics, elaborate why a typology of care is
+needed for design, and identify opportunities and implications for
+’caring through.’
+2 RELATED WORK
+2.1 Care as a lens in HCI and design research
+In HCI, care has been used as an interaction framework for health
+care, IoT, and community engagement [ 7]. Recent scholarship in-
+creasingly considers care as a design lens beyond health care or care
+of dependents such as the children and elderly [ 53]. Integrating care
+into sociotechnical systems through technology is becoming an
+important research avenue [ 10] while emphasizing care as a funda-
+mental everyday activity. This has highlighted understudied aspects
+of care through different terms and notions. For instance, Toombs
+and colleagues use everyday care to address the ever-encompassing
+nature of care [ 53], while Zhou and colleagues use mutualistic care
+to point at the reciprocity in care and that the things we care for
+also care for us in return [ 60]. Feminist ethics of care have been
+influential in focusing on complex aspects of care in HCI, where re-
+searchers unsettle care by paying attention to interdependence and
+relationality instead of fixed power relations between caregiver and
+receiver [ 24]. Similarly, Helms and Fernaeus [19] reveal tensions
+around domestic care by foregrounding the unease, negative feel-
+ings, and painful relations associated with care work. They develop
+orientations for wickedness in design by emphasizing that these
+tensions are not to be resolved but rather to be seen as sources of
+contradictory desires that go beyond normative expectations [19].
+2.1.1 Care in more-than-human design. As an emerging research
+avenue, more-than-human design represents a paradigm shift in
+HCI and human-centered design where the assumption of human
+superiority is challenged, and the well-being of more-than-human
+entities alongside humans is considered paramount. More-than-
+human design thus prioritizes the ways of relating to more-than-
+human entities in less human-centered ways, such as through acts
+of noticing [ 32,46], attunement [ 31,33], and repertoires [ 41]. Care is
+seen in more-than-human design as a practice with which we relate
+to more-than-human worlds [ 56] to live together "as well as possi-
+ble." Research in this realm includes the sustained growth of living
+beings such as fungi, bacteria, plants, and more [ 17,21,42,51,60],
+caring for non-biological entities such as AI [ 22], and feminist,
+tactful, intimate care practices [ 1,11]. Recent work explores the
+materiality of everyday care through living with silkworms [ 21]
+and Cyanobacteria [ 59]. Sondergaard and Woytuk show how caring
+for oneself through menstrual care practices can extend to caring
+for other beings such as soil [ 51]. Lastly, at the intersection of care
+ethics and posthumanism, Key and colleagues urge practitioners to
+contribute to a feminist unsettling of HCI’s methodological commit-
+ments based on a posthumanist design agenda, which deals with
+relational understandings and temporalities of more-than-human
+entities [ 24]. In design research, more-than-human care is multi-
+layered, ongoing, and continuous, requiring a deep engagement
+with time and more-than-human agency. Who cares for whom,
+when, for how long, and who decides what are all relevant aspectsone needs to address in care involving more-than-human worlds
+[40]. Specifically, more-than-human care, as inevitably bound up
+in more-than-human rhythms and motions, makes temporalities
+of more-than-human care a vital research avenue so far under-
+studied [ 40]. Therefore, we see an opportunity to bridge the two
+strands of research on temporality and care.
+2.2 Time and temporality in HCI and design
+research
+Research in HCI and design has dealt with multiple aspects of tem-
+porality. These range from deliberations over temporal forms in
+interaction design [ 55], temporal characterization of living media
+[3],slow design andslow technology [38], investigating longer-term
+human-technology relations (i.e., interaction beyond use) [ 39], to
+designing for slowness, solitude, and mental rest. Other works that
+approach temporality from an empirical perspective include de-
+signing for breakage and repair [ 20,47], with traces and patina
+[48], as well as the afterlife as a state of things beyond immediate
+interaction [ 58]. More recently, researchers have been critically
+approaching time and temporality by looking at the underlying
+definitions of time. The most well-known example is the conceptu-
+alization of ‘temporal design’ by Pschetz and Bastian, in which time
+is seen beyond dichotomies of speed (i.e., fast or slow) or duration
+(i.e., long or short) towards social, cultural, and political dimensions
+of time. According to tenets of temporal design, time is multiple,
+heterogeneous, and arises from the unequal entanglements between
+various social formations [44, p.174].
+Designing with living beings naturally engages the researcher
+with more-than-human temporality, as they involve processes of
+growth, decay, degradation, and other more-than-human rhythms.
+Current approaches to more-than-human temporality consist of
+‘working at the pace of the nonhuman’ [ 5], which is framed as an
+opportunity to slow down, particularly through the time it takes to
+grow and cultivate nonhuman entities such as SCOBY (symbiotic
+culture of bacteria and yeast). Additionally, differences in human
+and nonhuman temporalities (temporal dissonances) can open up
+valuable design spaces and opportunities for alignment [ 60]. These
+differences in temporality invite discussions around more-than-
+human temporality, presenting an alternative to our relationship
+with time, shaped by global industrialization and the Anthropocene
+[21]. As evident, designing with more-than-human temporalities is
+gaining wide consideration as a way to attune to ecological worlds
+[6, 12].
+To bridge this research on care, time, and temporality, we unpack
+the term temporalities of more-than-human care [40], which contain
+multiple chronologies, past, present, and future, that may be enacted
+and lived simultaneously in care relations. For example, a tree that a
+human cares for lives long beyond the human, such as the living root
+bridges of Meghalaya [ 25], taking shape through the collaborative
+work of generations that span across centuries. Anticipating that the
+tree will live on long after the human is experienced in the present
+by the caregiver. In parallel, we owe the present conditions with
+which the tree grows to the care work done in the past by our elders
+and all the material (e.g., soil) and social assemblages that have come
+before us. Additionally, there is duration anddelay in care; that the
+effects of care may reveal themselves much later than when care
+Caring through : Engaging with the temporality of care in more-than-human design HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA
+is implemented. Delays, mismatches, and alignments are part of
+any ongoing care practice. Experienced as latency (e.g., delay in
+care), asynchrony (e.g., differences in human and more-than-human
+rhythms), and synchrony (e.g., alignment of rhythms) through the
+enactment of care, thus compose temporalities of care. Yet, the
+engagement with more-than-human temporality can express time
+beyond the fast-paced experience of everyday life, characterized
+as experiences that are devoid of duration [18]. Care thus has a
+temporal richness, which warrants generous thinking about time
+and temporality (subjective experiences of time). We believe the
+notion caring through encourages such generous thinking, along
+with other typologies of care such as caring about, for, and with,
+which shed light on different types of care based on engagement
+with time and labor.
+3 BACKGROUND
+3.1 Typologies of care
+Care can be broadly defined as "physical and emotional labor"
+towards the other (e.g., humans, pets, plants, soil, water, and so
+on) [ 8]. It is a practice with temporal and relational implications:
+it takes time to care, and through care, we relate to the ones we
+care for [ 14,27,37,54]. This rich view on care is indebted to the
+work of multiple care ethicists. To give a few examples, Noddings
+(2008) claims that care is, first and foremost, a relationship, and an
+ethically caring relationship consists of reciprocity, dynamism, and
+dependency. Kittay (2019) associates care with labor and attitude
+towards the cared-for [ 26]. Despite abundant scholarly efforts to
+define care, it remains elusive and hard to grasp [ 49] due to its
+omnipresence in everyday life [ 59]. Care can mean performing
+bodily labor for the well-being of others, being distant, or having
+an emotional attachment toward the other. To develop a nuanced
+understanding of care, we provide a typology based on different
+types of care, i.e., care as labor, emotional attachment, or one’s
+positioning. We scaffold this typology through categories such
+as caring about ,for,with, and caring through . To illustrate each
+category, we provide multiple definitions that we associate with
+each term. These categories should not be taken as absolute or
+fixed; we invite designers to also unsettle these categories, as they
+unsettle care itself.
+•Caring about — It involves anticipating needs, our position-
+ing, and moral stance, such as ‘caring about the environment’
+or ‘caring about sustainability’. Researchers may care about
+their users, area of focus (i.e., sustainability), and methods.
+Caring about does not necessarily lend itself to any labor
+or time put into care; there can be a tendency to objectify
+or alienate what is cared about when care is seen as a rela-
+tion. Caring about others does not immediately substantiate
+practices that involve making time for them.
+•Caring for — It involves our intentionality towards the needs
+of the cared-for and charting out a trajectory for care (i.e.,
+planning how to meet different needs). Caring for often
+indicates the subject-specific recipient of care work without
+objectifying or alienating the subject of care. It involves the
+practical work and physical labor of making time for the
+other.•Caring with — It involves our attention to those with whose
+agency we perform care with, in a reciprocal sense, i.e., in-
+frastructure, materials, systems, and the labor of other beings
+that enable care.
+•Caring through — It involves temporally flexible practices
+that are based on being responsive towards plural tempo-
+ralities of care (i.e., delays, mismatches, and alignments), as
+shown by the synchrony between the caregiver and care re-
+ceiver, often dissolving the distinction more between giving
+and receiving care more strongly than caring with, given
+the temporal flexibility of how care also morphs the sense
+of time.
+Existing terms such as about andforimply different kinds of en-
+gagement with time, including noticing, anticipating, and meeting
+one’s needs. These bring forth different rhythms into the care rela-
+tionship. However, they do not imply how care practices involve
+the interdependence among (and blurring of) the roles between
+the caregiver and care receiver due to diverse temporalities . Recent
+studies respond to an imperative for more-than-human care and
+question how relationality and temporality are becoming essential
+to consider. One response belongs to Puig de la Bellacasa, stating
+that care practices involve the carer with the rhythms of motion
+and change that the cared-for goes through [ 45]. To illustrate, she
+shows how caring for soil helps the caregiver to align themselves
+with the pace with which soil metabolizes nutrients, renews itself,
+and so on. This means any care practice directed towards soil needs
+to follow the pace of the soil itself. Another response is to the reci-
+procity and subjectivity requirements defined by Noddings and
+Kittay, respectively. Brelje argues that reciprocity is not a human-
+exclusive element; indeed, non-humans are very receptive to care
+[9]. This reciprocity is established beyond human-centered means,
+such as language and verbal communication. An organism’s growth
+rate (i.e., fungi respond to different nutrients with different growth
+rates), chemical indicators (the pH level of soil speaks to its level of
+quality), and wagging tails (dogs express enthusiasm and affection
+to care through wagging their tails) can all be elements of reci-
+procity as much as a human’s confirmation of the care received.
+This reciprocity confirms a more-than-human agency in care, a qual-
+ity that we most frequently attributed to human-to-human care
+relationships so far. More-than-human reciprocity moves beyond a
+fixed relationship between an independent carer and a dependent
+cared-for towards an interdependent and harmonious one, where
+subjects in the care relationship are bound up in a pluralistic sense
+of time.
+Acknowledging the interdependent nature and more-than-
+human temporalities of care, we must broaden the current ways
+we think and design with care. These acknowledgments are needed
+to inform better the technologies, systems, artifacts, and relation-
+ships aimed toward more-than-human care. To expand the current
+ways we design care, we introduce the notion caring through to
+emphasize the role of time emerging in care practices.
+4 CARING THROUGH
+More-than-human care is a relationship that involves deep and di-
+verse engagements with time. Current concepts of relating to more-
+than-human entities in HCI and design research, such as noticing,
+HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA Oktay et al.
+Association Examples
+AboutEmotional attachment
+Positioning
+Moral stanceThinking of someone in an emotional way
+A researcher caring about the environment,
+sustainability and their users
+Caring about social justice and being attentive
+to what it means.
+ForIntention to meet one’s needs
+Bodily labor to meet one’s needs
+Practical work to meet one’s needsProviding nourishment for the soil
+Maintaining optimal growth conditions for plants
+Ensuring a safe and comfortable environment
+for house pets
+WithSystems, materials, and infrastructures
+that enable careUN Sustainable Development Goals for
+someone working within sustainability
+ThroughCascading effects beyond the act of care
+Consequences of care unfolding over time that
+requires staying involved with the cared-for
+Ripples of care: the possibility of extending
+care beyond its recipient to include others in an ongoing fashioncaring for fungi can allow fungi to care for the soil,
+caring for plants can allow plants to care for the soil,
+caring for wolves can allow wolves to care for the ecosystem,
+attunement, and repertoires, all bring forth ethical and responsible
+ways of building relations with more-than-humans. Noticing [ 32]
+brings forth different ways of sensing the world around us, while
+paying attention to dominant perspectives and subversive ways to
+provide alternatives. Attunement [ 33] aims to expand our domi-
+nant senses of vision, hearing, and touch and invites us to attune
+to other senses that might play a more important role with more-
+than-human entities, such as attuning to temperature, pH, or other
+chemical and environmental indicators. Lastly, ‘repertoires’, as in-
+troduced by Wakkary [ 56], and in work by Oogjes and Wakkary
+Oogjes and Wakkary [41], serve as an inclusive term to encompass
+everything we do to ensure the participation of nonhuman agency.
+Building on these works, we see an opportunity to bring forth the
+role of time in more-than-human care practices as an inseparable el-
+ement of relating to more-than-humans. Thus, we contribute ‘caring
+through’ to encompass diverse and plural engagements with time
+in care practices, emerging through interdependent relationships
+in care. Caring through means more-than-human care occurs via
+rhythms beyond the human-centered rhythms of the clock or the
+institutional rhythms (i.e., work, school) that we synchronize our
+daily lives with. This allows us to synchronize our human-centered
+rhythms with those of more-than-human paces and rhythms, or
+work with asynchrony as a direct contributor to care practices.
+Existing prepositions in English do not emphasize this possi-
+bility, e.g., caring for implies a temporally one-way relationship
+between an independent carer and a dependent cared for, which
+limits the interdependence and the temporalities that arise from the
+reciprocity, given that sometimes caregivers are also care receivers.
+Similarly, caring about does not reflect the investment aspect ofmore-than-human care in terms of energy, labor, and time, in the
+way that it takes time to care and care manifests itself primarily
+through making time for the other .
+Caring through encompasses previously defined kinds of care:
+caring about, caring for, and caring with. Additionally, it recognizes
+the diverse temporalities of care involved in the care relationship,
+which is bound by the blurring of the roles between the caregiver
+and care receiver. Below are some examples that illustrate caring
+through in practical terms:
+•Grazing animals such as goats, cows, and sheep eat ‘fire load’:
+bush and plants that can be hazardous in creating a fire risk
+[50]. Through this grazing behavior, they create cleared paths
+in forests, lowering the risk of wildfires. Here, the land, the
+forest, and the flora are cared through the agency of grazing
+animals. This means paying attention to the landscape’s and
+animals’ rhythm (i.e., the pace and timing of grazing).
+•In 1995, Yellowstone National Park in Wyoming, U.S.A. rein-
+troduced wolves back into the park [ 43]. The reason was
+that the deer’s overgrazing largely destroyed its streamside
+vegetation, resulting from overpopulation without a preda-
+tor. By bringing back the wolves, the deer population was
+balanced. And by diminishing the deer population, the vege-
+tation flourished in six years. Caring for vegetation happens
+through the agency and labor of wolves via preying on the
+deer.
+•Practices that employ natural biological processes to elimi-
+nate toxic contaminants, broadly defined as bioremediation
+[35], is another example of caring through. In this ecologi-
+cal technique, microorganisms, fungi, green plants, or their
+Caring through : Engaging with the temporality of care in more-than-human design HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA
+enzymes return the natural environment to its original con-
+dition, altered by contaminants and effluents. Care happens
+through the agency and labor of microorganisms and fungi
+in the context of land restoration, conservation, and regen-
+eration.
+‘Caring through’ makes space for the multiple temporalities of
+care, labor, and agency of the intertwined roles of the caregiver and
+receiver. Compared to caring fororabout , caring through extends
+the care work to initiate a ‘ripple of care’: cascading effects of care ,
+where whom we care for may end up caring for others and ourselves
+as a result of extending the temporal reach of care acts. Below, we
+expand on one of the examples we previously provided to illustrate
+further our conception.
+Figure 1: Mycelium placed on soil. (a) The moment of place-
+ment. (b) After two weeks. (c) After three weeks, with in-
+creased vitality via the arrival of worms
+4.0.1 Example: Caring through fungi. To illustrate caring through
+further, we share an example of caring through fungi: The practice
+of remediating soil and freshwater sources through the mycelium,
+the root network of fungi. The first author(FA) has been involved
+in practicing this method, called mycoremediation [ 34]. Within
+mycoremediation, acts of care for fungi (i.e., growing fungi, main-
+taining their growth with nutrients and proper conditions) create
+ripples of care that extend beyond the keeping alive of fungi and
+towards other more-than-human entities, such as the land, soil, and
+freshwater.
+In her practice, the FA cares for fungi by growing them in optimal
+conditions, providing enough rich nutrients for maximum growth,
+and keeping them in sterile conditions to prevent contamination,
+i.e., the presence of harmful bacteria that can hinder the growth
+of fungi. The through part of this care work begins outside the lab
+environment, where the FA places composites of living mycelium in
+places that may warrant care: areas of toxic waste, poor vegetation,
+and so on. The act of placing living mycelium in a place that needs
+care thus initiates a ripple of care: one act of care extends to become
+an act of care for another.
+Wherever placed, the living mycelium increases vitality in its
+surroundings and invites other creatures (e.g., worms, termites,
+and insects) to the area (see Figure 1). Additionally, through the
+enzyme-releasing capacity of mycelium, harmful compounds in
+the soil, such as petroleum, pesticide, or industrial dye, are broken
+down into simpler molecules that the soil can metabolize. The
+process involves working with multiple rhythms of fungi, soil, and
+their interaction. The effects of placing the living mycelium at a
+chosen site make its outcomes appear in a mediated fashion: it takes
+time and blends the rhythms of soil and fungi to work together.
+Reflecting on this practice, daily visits to the site can become asource of disappointment, as mycelium operates on a different
+timescale and pace than the anticipated minutes, hours, and days
+of human labor.
+Bringing together the examples and characteristics defined so
+far, below we present the main contribution of ‘caring through,’
+which we hope to explore and discuss with the HTTF community:
+4.0.2 We care through time. : Caring through accounts for syn-
+chronous (temporal alignment between subjects), asynchronous
+(temporal misalignment between subjects), and latent (delays in
+care) aspects of care practices, which encompass plural temporali-
+ties that take care beyond notions of immediacy and linearity. An
+act of care may make its effect appear long after the moment of
+implementation, which speaks to the previously mentioned aspect
+of latency. In the Yellowstone example, bringing back the wolves
+shows its result after six years. Similarly, we can design multi-
+ple ways of caring for ecosystems that will outlive their human
+caregivers. Thus, caring through responds to the need to think
+generously about time and temporality, meaning that more-than-
+human care is continuous and ongoing, moving past our notion of
+time. Caring through time means staying with the consequences of
+care long after it is implemented: it makes explicit how care prac-
+tices encompass plural and layered engagement with time, with
+unknown effects. Most importantly, humans are not the only care-
+givers in more-than-human worlds. More-than-human entities care
+for, with, and through us and others as much as humans’ capacity
+to do the same. In the next section, we discuss the implications
+caring through may have for HCI and design research.
+5 DISCUSSION
+We typologized kinds of care and the engagement they bring with
+respect to time through categories of caring about, for, with, and
+through. Specifically, we highlighted caring through as a notion
+that pays attention to temporal divergences (e.g., synchrony, asyn-
+chrony, and latency) and longitudinal temporal frames, as more-
+than-human care takes time and is an ongoing practice. Caring
+through extends the temporal reach of care practices by emphasiz-
+ing the role time plays in care. In this section, we discuss opportu-
+nities where caring through can mobilize generative thoughts and
+practices in HCI and more-than-human design.
+5.1 Accessing more-than-human temporalities
+with care
+The notion of ‘caring through’ can enrich and bridge the emerging
+discourses on care and temporality in HCI and more-than-human
+design. So far, these discourses have been handled separately, c.f.,
+temporal design [ 44], seldom touching upon temporality and care
+together [ 5,21,60]. Caring through offers a richer understanding of
+the entanglements between care and time, to approach more-than-
+human temporality through the unfolding and evolving of caring
+relations. This perspective has two key implications: First, in con-
+trast to how modern life is experienced and characterized as devoid
+of duration [ 18], more-than-human care practices invite us into a
+realm of time that emphasizes duration . This may manifest itself
+through anticipation, delay, and reflection, allowing for possible
+synchrony with other beings’ rhythms and asynchrony through
+rhythmic differences. Second, engaging with more-than-human
+HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA Oktay et al.
+temporality through care involves respecting the pace and rhythm
+of other beings in their own right rather than considering them
+to being slow [ 4] or something to wait for. This acknowledgment
+brings more-than-human agency to share the stage with humans
+[56], while enable us humans to quietly leave the stage in favor of
+more-than-human agency to shine without our interference.
+Wakkary interprets more-than-human care as not just acts of
+care but also creating possibilities for care . Informed by Puig de
+la Bellacasa’s work on speculative ethics of care [ 14], possibilities
+for care expand through speculating on how relations with more-
+than-human entities could be , rather than how they already are
+[56]. The emphasis on possibility and alternatives is imbued with
+expressions of time beyond dominant narratives of progression and
+an accelerated sense of futures. With caring through, the temporal
+aspect of such speculative alternatives is capitalized. Thus, more-
+than-human care is not just about creating forms of care [ 1,11,
+17,21,42,51,60], but actively imagining evolving relationships
+with more-than-human entities through care. To mobilize such
+possible relationships based on imagining alternatives [ 30], we ask
+researchers to deliberate on how time and temporality can be made
+explicit and become generative elements in more-than-human care
+practices.
+5.2 Ripples of care
+The possibility of caring for one being through another over time
+makes explicit how we depend on the entities to whom we provide
+care. Caring through means tending to the care practice beyond
+instantaneous enactments of care toward its relational trajectory,
+to the displacement of established roles between the caregiver and
+care receiver. Current design research on more-than-human care
+often involves practices focusing on a single organism such as lactic
+acid bacteria, slime mold, and silkworm [ 13,21,42]. Yet, care is more
+than seeking to keep an organism alive. While this is definitely an
+example of care, it does not address how caring for one organism
+can extend to caring for each other and yet-to-be-imagined beings.
+The notion of caring through invites researchers to think of acts of
+care towards one being (i.e., growing fungi, keeping bacteria alive)
+as not an outcome to achieve but the beginning of ripples of care :
+the cascading effects of care that allow caring for diverse beings
+through another in a temporally pluralistic manner. In their work,
+Sondergaard and Woytuk discuss possibilities for how menstrual
+care for the self can extend into caring for the soil through blood
+becoming a nutrient source for soil [ 51]. We see this as an example
+of how caring through can be mobilized to think in extended and
+relational ways about care. Similarly, caring through extends the
+act of care to possibly account for caring for another being in more-
+than-human design.
+5.3 Intermediate engagement
+Our last implication for caring through is Artificial Intelligence
+(AI) as a more-than-human entity [ 36]. Research in this realm in-
+cludes community-oriented care through online moderation [ 57],
+enhancing individual’s self-compassion via caring for a chatbot
+[29], unpacking social, ethical, and political implications of AI via
+exploring ’how to care for’ creative-AI tools [ 22]. AI as a recipient
+of MtH care has been approached from the caring foraspect, which,as discussed before, limits what care can initiate beyond the act of
+care. On the other hand, caring through AI extends caring for and
+caring about by making the intermediate role of AI more explicit
+in design. This opens up opportunities to think of AI as interde-
+pendent with potential partners in care practices (i.e., living beings,
+ecosystems, communities).
+5.4 Positionality statement
+In the spirit of reflexivity, we find it important to share our posi-
+tionality. All authors have diverse social, cultural, and academic
+backgrounds, spanning Middle Eastern, Western European, East
+Asian and North American contexts. The first, second, and third
+authors are non-native English speakers, while the last author is
+a native English speaker. For all authors, English is the primary
+language used in their personal and professional lives, shaping their
+shared understanding of care.
+The notion of care through should be understood in the context
+of the English etymology of “care,” which embodies the dichotomy
+between object (the cared-for or care receiver) and subject (the
+carer or caregiver). The relevance and implication of the presented
+framework for other languages and cultures, where this distinction
+is more fluid, warrant further attention beyond the scope of this
+paper.
+We acknowledge that this linguistic framework may narrow
+one’s perspective on care, as language shapes how we catego-
+rize care through prepositions such as "about," "for," "with," and
+"through." We feel these prepositions are essential for clarifying
+interactions, particularly between caregivers and receivers, and for
+indicating temporal and spatial dimensions in language, though
+may encourage a partial perspective on care. However, we want to
+emphasize that our categorization of care types is not intended to
+create divisions but to enrich our understanding of care, towards
+a more comprehensive and nuanced one, through diverse engage-
+ments with time and place. Specifically, we use "through" to signify
+the process-based and rippling aspects of care, inviting a temporally
+pluralistic and open-ended understanding of time.
+6 CONCLUSION
+There is an imperative to acknowledge more-than-human agency
+and temporality in care practices. We care for, with, and through
+more-than-human entities as much as they do the same for us. This
+brings forth the need to develop generative notions that emphasize
+the role of time and the reciprocal elements of care. We contributed
+‘caring through’ to encompass the complexity of more-than-human
+agency and temporality as connected elements of more-than-human
+care. We offered typologies of care with particular attention given
+tocaring through as a generative term that connects temporal-
+ity and care, two inseparable aspects that weave the rich fabric
+of our relationships with more-than-human entities. We always
+care through; it is the through part that a thick involvement with
+more-than-human entities exists for relationships that make living
+together possible in temporally generous ways.
+REFERENCES
+[1]Teresa Almeida, Rob Comber, Patrick Olivier, and Madeline Balaam. 2014. Inti-
+mate care: exploring eTextiles for teaching female pelvic fitness. In Proceedings
+of the 2014 Companion Publication on Designing Interactive Systems (Vancouver,
+Caring through : Engaging with the temporality of care in more-than-human design HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA
+BC, Canada) (DIS Companion ’14) . Association for Computing Machinery, New
+York, NY, USA, 5–8. https://doi.org/10.1145/2598784.2602768
+[2]Karen S. Baker and Helena Karasti. 2018. Data care and its politics. In Proceedings
+of the 15th Participatory Design Conference: Full Papers - Volume 1 (Hasselt and
+Genk, Belgium) (PDC ’18) . Association for Computing Machinery, New York, NY,
+USA, Article 10, 12 pages. https://doi.org/10.1145/3210586.3210587
+[3]Bahareh Barati, Elvin Karana, Sylvia Pont, and Tim van Dortmont. 2021. LIVING
+LIGHT INTERFACES —AN EXPLORATION OF BIOLUMINESCENCE AESTHET-
+ICS. In Proceedings of the 2021 ACM Designing Interactive Systems Conference
+(Virtual Event, USA) (DIS ’21) . Association for Computing Machinery, New York,
+NY, USA, 1215–1229. https://doi.org/10.1145/3461778.3462038
+[4]Fiona Bell, Derrek Chow, Hyelin Choi, and Mirela Alistar. 2023. SCOBY BREAST-
+PLATE: SLOWLY GROWING A MICROBIAL INTERFACE. In Proceedings of the
+Seventeenth International Conference on Tangible, Embedded, and Embodied Inter-
+action (Warsaw, Poland) (TEI ’23) . Association for Computing Machinery, New
+York, NY, USA, Article 34, 15 pages. https://doi.org/10.1145/3569009.3572805
+[5]Fiona Bell, Joshua Coffie, and Mirela Alistar. 2024. Bio-Digital Calendar: Attuning
+to Nonhuman Temporalities for Multispecies Understanding. In Proceedings of
+the Eighteenth International Conference on Tangible, Embedded, and Embodied
+Interaction (Cork, Ireland) (TEI ’24) . Association for Computing Machinery, New
+York, NY, USA, Article 38, 15 pages. https://doi.org/10.1145/3623509.3633386
+[6]Riel Bessai, Roy Bendor, and Ruud Balkenende. 2024. Designing with more-than-
+human temporalities. DRS Biennial Conference Series (June 2024). https://dl.
+designresearchsociety.org/drs-conference-papers/drs2024/researchpapers/99
+[7]Ashley Boone, Carl Disalvo, and Christopher A Le Dantec. 2023. Data Practice for
+a Politics of Care: Food Assistance as a Site of Careful Data Work. In Proceedings
+of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg,
+Germany) (CHI ’23) . Association for Computing Machinery, New York, NY, USA,
+Article 152, 13 pages. https://doi.org/10.1145/3544548.3580831
+[8]Sophie Bowlby. 2012. Recognising the Time—Space Dimensions of Care: Car-
+ingscapes and Carescapes. Environment and Planning A: Economy and Space 44,
+9 (Sept. 2012), 2101–2118. https://doi.org/10.1068/a44492
+[9]Kate Brelje and Philosophy Documentation Center. 2023. More than Humans: A
+Case for Inclusion of Non-human Persons in Care Ethics. Essays in Philosophy
+24, 1 (2023), 86–101. https://doi.org/10.5840/eip202352416
+[10] Alice V. Brown and Jaz Hee-jeong Choi. 2017. Towards Care-based Design:
+Trusted Others in Nurturing Posttraumatic Growth outside of Therapy. In Pro-
+ceedings of the 8th International Conference on Communities and Technologies .
+ACM, Troyes France, 56–63. https://doi.org/10.1145/3083671.3083703
+[11] Nadia Campo Woytuk, Joo Young Park, Jan Maslik, Marianela Ciolfi Felice, and
+Madeline Balaam. 2023. Tactful Feminist Sensing: Designing for Touching Vaginal
+Fluids. In Proceedings of the 2023 ACM Designing Interactive Systems Conference
+(Pittsburgh</city>, PA, USA) (DIS ’23) . Association for Computing Machinery,
+New York, NY, USA, 2642–2656. https://doi.org/10.1145/3563657.3595966
+[12] University of Edinburgh Centre for Design Informatics and Larissa Pschetz. 2024.
+Designing Temporal Ecologies: Reframing Multispecies Temporalities Through
+Design. https://doi.org/10.21606/drs.2024.1068
+[13] Dominique Chen, Young Ah Seong, Hiraku Ogura, Yuto Mitani, Naoto Sekiya, and
+Kiichi Moriya. 2021. Nukabot: Design of Care for Human-Microbe Relationships.
+InExtended Abstracts of the 2021 CHI Conference on Human Factors in Computing
+Systems . ACM, Yokohama Japan, 1–7. https://doi.org/10.1145/3411763.3451605
+[14] Maria Puig de la Bellacasa. 2017. Matters of Care: Speculative Ethics in More than
+Human Worlds . University of Minnesota Press. http://www.jstor.org/stable/10.
+5749/j.ctt1mmfspt
+[15] Daniel Engster and Maurice Hamington. 2015. Care Ethics and Political Theory .
+Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198716341.001.
+0001 DOI: 10.1093/acprof:oso/9780198716341.001.0001.
+[16] Brett A. Halperin and Erin McElroy. 2023. Temporal Tensions in Digital Story
+Mapping for Housing Justice: Rethinking Time and Technology in Community-
+Based Design. In Proceedings of the 2023 ACM Designing Interactive Systems
+Conference (Pittsburgh) (DIS ’23) . Association for Computing Machinery, New
+York, NY, USA, 2469–2488. https://doi.org/10.1145/3563657.3596088
+[17] Foad Hamidi and Melanie Baljko. 2014. Rafigh: an edible living media installa-
+tion. In Proceedings of the 8th International Conference on Tangible, Embedded and
+Embodied Interaction (Munich, Germany) (TEI ’14) . Association for Computing Ma-
+chinery, New York, NY, USA, 345–346. https://doi.org/10.1145/2540930.2555209
+[18] Byung-Chul Han. 2017. The scent of time: A philosophical essay on the art of
+lingering . John Wiley & Sons.
+[19] Karey Helms and Ylva Fernaeus. 2021. Troubling Care: Four Orientations for
+Wickedness in Design. In Proceedings of the 2021 ACM Designing Interactive
+Systems Conference (DIS ’21) . Association for Computing Machinery, New York,
+NY, USA, 789–801. https://doi.org/10.1145/3461778.3462025
+[20] Lara Houston, Steven J. Jackson, Daniela K. Rosner, Syed Ishtiaque Ahmed, Meg
+Young, and Laewoo Kang. 2016. Values in Repair. In Proceedings of the 2016 CHI
+Conference on Human Factors in Computing Systems (San Jose, California, USA)
+(CHI ’16) . Association for Computing Machinery, New York, NY, USA, 1403–1414.
+https://doi.org/10.1145/2858036.2858470[21] Yuta Ikeya, Ron Wakkary, and Bahareh Barati. 2023. Metamorphonic: A Reflective
+Design Inquiry into Human-Silkworm Relationship. In Proceedings of the 2023
+ACM Designing Interactive Systems Conference (Pittsburgh) (DIS ’23) . Association
+for Computing Machinery, New York, NY, USA, 808–819. https://doi.org/10.
+1145/3563657.3596053
+[22] Petra Jääskeläinen, André Holzapfel, and Cecilia Åsberg. 2022. Exploring More-
+than-Human Caring in Creative-Ai Interactions. In Nordic Human-Computer
+Interaction Conference (Aarhus, Denmark) (NordiCHI ’22) . Association for Com-
+puting Machinery, New York, NY, USA, Article 79, 7 pages. https://doi.org/10.
+1145/3546155.3547278
+[23] Cayla Key, Fiona Browne, Nick Taylor, and Jon Rogers. 2021. Proceed with Care:
+Reimagining Home IoT Through a Care Perspective. In Proceedings of the 2021
+CHI Conference on Human Factors in Computing Systems . ACM, Yokohama Japan,
+1–15. https://doi.org/10.1145/3411764.3445602
+[24] Cayla Key, Cally Gatehouse, and Nick Taylor. 2022. Feminist Care in the An-
+thropocene: Packing and Unpacking Tensions in Posthumanist HCI. In Pro-
+ceedings of the 2022 ACM Designing Interactive Systems Conference (Australia)
+(DIS ’22) . Association for Computing Machinery, New York, NY, USA, 677–692.
+https://doi.org/10.1145/3532106.3533540
+[25] Gulnaz Khan. 2018. National Geographic. https://www.nationalgeographic.com/
+travel/article/living-root-bridges-clean-village-mwalynnong-india. Accessed:
+Aug, 10, 2024.
+[26] Eva Feder Kittay. 2008. At the Margins of Moral Personhood. Journal of Bioethical
+Inquiry 5, 2 (June 2008), 137–156. https://doi.org/10.1007/s11673-008-9102-9
+[27] Eva Feder Kittay. 2011. The Ethics of Care, Dependence, and Disability*. Ratio
+Juris 24, 1 (2011), 49–58. https://doi.org/10.1111/j.1467-9337.2010.00473.x
+[28] Oscar Tomico Laura Clèries. 2022. Elisava. https://www.elisava.net/en/research-
+publications/temes-de-disseny-38-caring-through-design-from-personal-to-
+planetary-well-being/ Accessed on March 14, 2024.
+[29] Minha Lee, Sander Ackermans, Nena van As, Hanwen Chang, Enzo Lucas, and
+Wijnand IJsselsteijn. 2019. Caring for Vincent: A Chatbot for Self-Compassion. In
+Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems
+(Glasgow, Scotland Uk) (CHI ’19) . Association for Computing Machinery, New
+York, NY, USA, 1–13. https://doi.org/10.1145/3290605.3300932
+[30] Minha Lee, Renee Noortman, Cristina Zaga, Alain Starke, Gijs Huisman, and
+Kristina Andersen. 2021. Conversational futures: Emancipating conversational
+interactions for futures worth wanting. In Proceedings of the 2021 CHI conference
+on human factors in computing systems . 1–13.
+[31] Jen Liu, Daragh Byrne, and Laura Devendorf. 2018. Design for Collaborative
+Survival: An Inquiry into Human-Fungi Relationships. In Proceedings of the 2018
+CHI Conference on Human Factors in Computing Systems (Montreal QC</city>,
+Canada) (CHI ’18) . Association for Computing Machinery, New York, NY, USA,
+1–13. https://doi.org/10.1145/3173574.3173614
+[32] Szu-Yu (Cyn) Liu, Jen Liu, Kristin Dew, Patrycja Zdziarska, Maya Livio, and
+Shaowen Bardzell. 2019. Exploring Noticing as Method in Design Research.
+InCompanion Publication of the 2019 on Designing Interactive Systems Confer-
+ence 2019 Companion (<conf-loc>, <city>San Diego</city>, <state>CA</state>,
+<country>USA</country>, </conf-loc>) (DIS ’19 Companion) . Association for
+Computing Machinery, New York, NY, USA, 377–380. https://doi.org/10.1145/
+3301019.3319995
+[33] Maya Livio and Laura Devendorf. 2022. The Eco-Technical Interface: Attuning
+to the Instrumental. In Proceedings of the 2022 CHI Conference on Human Factors
+in Computing Systems (New Orleans</city>, LA, USA) (CHI ’22) . Association
+for Computing Machinery, New York, NY, USA, Article 101, 12 pages. https:
+//doi.org/10.1145/3491102.3501851
+[34] M. Maria M. de Wet and Hendrik G. Brink. 2021. Fungi in the bioremediation
+of toxic effluents . Elsevier, 407–431. https://doi.org/10.1016/B978-0-12-821925-
+6.00018-6
+[35] María Cecilia Medaura, Miriam Guivernau, X. Moreno-Ventas, Francesc X.
+Prenafeta-Boldú, and Marc Viñas. 2021. Bioaugmentation of Native Fungi, an
+Efficient Strategy for the Bioremediation of an Aged Industrially Polluted Soil
+With Heavy Hydrocarbons. Frontiers in Microbiology 12 (March 2021), 626436.
+https://doi.org/10.3389/fmicb.2021.626436
+[36] Iohanna Nicenboim, Elisa Giaccardi, Marie Louise Juul Søndergaard, Anu-
+radha Venugopal Reddy, Yolande Strengers, James Pierce, and Johan Redström.
+2020. More-Than-Human Design and AI: In Conversation with Agents. In Com-
+panion Publication of the 2020 ACM Designing Interactive Systems Conference
+(Eindhoven, Netherlands) (DIS’ 20 Companion) . Association for Computing Ma-
+chinery, New York, NY, USA, 397–400. https://doi.org/10.1145/3393914.3395912
+[37] Nel Noddings. 2010. Care Ethics, Caregiving, and Global Caring (1 ed.). Verlag
+Barbara Budrich, 17–26. https://doi.org/10.2307/j.ctvm2023j.4
+[38] William Odom, Richard Banks, Abigail Durrant, David Kirk, and James Pierce.
+2012. Slow Technology: Critical Reflection and Future Directions. In Proceedings
+of the Designing Interactive Systems Conference (Newcastle Upon Tyne, United
+Kingdom) (DIS ’12) . Association for Computing Machinery, New York, NY, USA,
+816–817. https://doi.org/10.1145/2317956.2318088
+HTTF ’24, October 21–23, 2024, Santa Cruz, CA, USA Oktay et al.
+[39] William Odom, Ron Wakkary, Jeroen Hol, Bram Naus, Pepijn Verburg, Tal Amram,
+and Amy Yo Sue Chen. 2019. Investigating Slowness as a Frame to Design Longer-
+Term Experiences with Personal Data: A Field Study of Olly. In Proceedings of the
+2019 CHI Conference on Human Factors in Computing Systems (Glasgow, Scotland
+Uk)(CHI ’19) . Association for Computing Machinery, New York, NY, USA, 1–16.
+https://doi.org/10.1145/3290605.3300264
+[40] Gizem Oktay, Yuta Ikeya, Minha Lee, Bahareh Barati, Youngsil Lee, Yuning Chen,
+Larissa Pschetz, and Carolina Ramirez-Figueroa. 2023. Designing with the more-
+than-human: Temporalities of thinking with care. In Companion Publication of
+the 2023 ACM Designing Interactive Systems Conference (Pittsburgh, PA, USA)
+(DIS ’23 Companion) . Association for Computing Machinery, New York, NY, USA,
+104–106. https://doi.org/10.1145/3563703.3591462
+[41] Doenja Oogjes and Ron Wakkary. 2022. Weaving Stories: Toward Repertoires for
+Designing Things. In Proceedings of the 2022 CHI Conference on Human Factors
+in Computing Systems (New Orleans</city>, LA, USA) (CHI ’22) . Association
+for Computing Machinery, New York, NY, USA, Article 98, 21 pages. https:
+//doi.org/10.1145/3491102.3501901
+[42] Danielle Ooms, Bahareh Barati, Miguel Bruns, and Teresa van Dongen. 2022.
+From Concern to Care: A Transformative Reflection on Designing-with the Living.
+InNordic Human-Computer Interaction Conference (Aarhus, Denmark) (NordiCHI
+’22). Association for Computing Machinery, New York, NY, USA, Article 96,
+15 pages. https://doi.org/10.1145/3546155.3547285
+[43] Tori Peglar. 2023. Yellowstone Park. https://www.yellowstonepark.com/park/
+conservation/yellowstone-wolves-reintroduction/ Accessed on March 14, 2024.
+[44] Larissa Pschetz and Michelle Bastian. 2018. Temporal Design: Rethinking time in
+design. Design Studies 56 (May 2018), 169–184. https://doi.org/10.1016/j.destud.
+2017.10.007
+[45] Maria Puig De La Bellacasa. 2015. Making time for soil: Technoscientific futurity
+and the pace of care. Social Studies of Science 45, 5 (Oct. 2015), 691–716. https:
+//doi.org/10.1177/0306312715599851
+[46] Anton Poikolainen Rosén, Maria Normark, and Mikael Wiberg. 2022. Noticing
+the Environment – A Design Ethnography of Urban Farming. In Nordic Human-
+Computer Interaction Conference (<conf-loc>, <city>Aarhus</city>, <coun-
+try>Denmark</country>, </conf-loc>) (NordiCHI ’22) . Association for Computing
+Machinery, New York, NY, USA, Article 34, 13 pages. https://doi.org/10.1145/
+3546155.3546659
+[47] Daniela K. Rosner and Morgan Ames. 2014. Designing for Repair? Infrastructures
+and Materialities of Breakdown. In Proceedings of the 17th ACM Conference on
+Computer Supported Cooperative Work & Social Computing (Baltimore, Maryland,
+USA) (CSCW ’14) . Association for Computing Machinery, New York, NY, USA,
+319–331. https://doi.org/10.1145/2531602.2531692
+[48] Daniela K. Rosner, Miwa Ikemiya, Diana Kim, and Kristin Koch. 2013. Designing
+with Traces. In Proceedings of the SIGCHI Conference on Human Factors in Com-
+puting Systems (Paris, France) (CHI ’13) . Association for Computing Machinery,
+New York, NY, USA, 1649–1658. https://doi.org/10.1145/2470654.2466218
+[49] Britta Friederike Schulte and Eva Hornecker. 2022. Care Stories: Understanding
+People’s Hopes and Fears for Technologies of Care through Story Elicitation.
+InProceedings of the 25th International Academic Mindtrek Conference . ACM,
+Tampere Finland, 117–128. https://doi.org/10.1145/3569219.3569309
+[50] Katherine J. Siegel and colleagues. 2022. Impacts of livestock grazing on
+the probability of burning in wildfires vary by region and vegetation type
+in California. Journal of Environmental Management 322 (Nov. 2022), 116092.
+https://doi.org/10.1016/j.jenvman.2022.116092
+[51] Marie Louise Juul Sondergaard and Nadia Campo Woytuk. 2023. Feminist Posthu-
+manist Design of Menstrual Care for More-than-Human Bodies. In Proceedings
+of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg)
+(CHI ’23) . Association for Computing Machinery, New York, NY, USA, Article 38,
+18 pages. https://doi.org/10.1145/3544548.3581083
+[52] Austin L. Toombs, Shaowen Bardzell, and Jeffrey Bardzell. 2015. The Proper Care
+and Feeding of Hackerspaces: Care Ethics and Cultures of Making. In Proceedings
+of the 33rd Annual ACM Conference on Human Factors in Computing Systems
+(Seoul, Republic of Korea) (CHI ’15) . Association for Computing Machinery, New
+York, NY, USA, 629–638. https://doi.org/10.1145/2702123.2702522
+[53] Austin L. Toombs, Andy Dow, John Vines, Colin M. Gray, Barbara Dennis, Rachel
+Clarke, and Ann Light. 2018. Designing for Everyday Care in Communities.
+InProceedings of the 2018 ACM Conference Companion Publication on Designing
+Interactive Systems . ACM, Hong Kong China, 391–394. https://doi.org/10.1145/
+3197391.3197394
+[54] J.C. Tronto. 1993. Moral Boundaries: A Political Argument for an Ethic of Care .
+Routledge. https://books.google.nl/books?id=xAvD_vr_-YEC
+[55] Anna Vallgårda, Morten Trøstrup Winther, Nina Mørch, and Edit E Vizer. 2015.
+Temporal form in interaction design. International Journal of Design 9, 3 (2015),
+1–15.
+[56] Ron L. Wakkary. 2021. Things we could design: For more than human-centered
+worlds . MIT Press.
+[57] Bingjie Yu, Joseph Seering, Katta Spiel, and Leon Watts. 2020. " Taking Care of a
+Fruit Tree": Nurturing as a Layer of Concern in Online Community Moderation.
+InExtended Abstracts of the 2020 CHI Conference on Human Factors in ComputingSystems . 1–9.
+[58] Ce Zhong, Ron Wakkary, Amy Yo Sue Chen, and Doenja Oogjes. 2021. De-
+formTable: Crafting a Shape-Changing Device for Creative Appropriations Over
+Time. In Proceedings of the 2021 ACM Designing Interactive Systems Conference
+(Virtual Event, USA) (DIS ’21) . Association for Computing Machinery, New York,
+NY, USA, 1253–1265. https://doi.org/10.1145/3461778.3462112
+[59] Jiwei Zhou, Zjenja Doubrovski, Elisa Giaccardi, and Elvin Karana. 2024. Living
+with Cyanobacteria: Exploring Materiality in Caring for Microbes in Everyday
+Life. In Proceedings of the CHI Conference on Human Factors in Computing Systems
+(Honolulu</city>, HI, USA) (CHI ’24) . Association for Computing Machinery, New
+York, NY, USA, Article 561, 20 pages. https://doi.org/10.1145/3613904.3642039
+[60] Jiwei Zhou, Raphael Kim, Zjenja Doubrovski, Joana Martins, Elisa Giaccardi,
+and Elvin Karana. 2023. Cyano-chromic Interface: Aligning Human-Microbe
+Temporalities Towards Noticing and Attending to Living Artefacts. In Proceedings
+of the 2023 ACM Designing Interactive Systems Conference (Pittsburgh) (DIS ’23) .
+Association for Computing Machinery, New York, NY, USA, 820–838. https:
+//doi.org/10.1145/3563657.3596132

@@ -1,0 +1,1239 @@
+Agroecology as a Practice of Care supported by Blockchain and
+DAOs
+Katerina Inglezaki
+katerina.inglezaki@tecnico.ulisboa.pt
+ITI/LARSyS, Instituto Superior
+Técnico, Universidade de Lisboa
+Lisbon, PortugalNikos Katsikis
+n.katsikis@tudelft.nl
+Department Urbanism, Delft
+University of Technology
+Delft, NetherlandsDiego Sepulveda Carmona
+d.a.sepulvedacarmona@tudelft.nl
+Department Urbanism, Delft
+University of Technology
+Delft, Netherlands
+Mariana Pestana
+marianapestana@tecnico.ulisboa.pt
+ITI/LARSyS, Instituto Superior
+Técnico, Universidade de Lisboa
+Lisbon, PortugalNuno Jardim Nunes
+nunojnunes@tecnico.ulisboa.pt
+ITI/LARSyS, Instituto Superior
+Técnico, Universidade de Lisboa
+Lisbon, Portugal
+ABSTRACT
+This paper speculates on using blockchain and Decentralized Au-
+tonomous Organizations (DAOs) in agroecological regeneration,
+focusing on the case of Spain’s Mar Menor. It highlights the ecolog-
+ical challenges of intensive agriculture, drawing on theories like
+Haraway’s cyborg metaphor and Latour’s actor-network theory
+to contextualize the crisis within the interplay of human and non-
+human actors. The study introduces a conceptual blockchain-based
+prototype to automate ecosystem resilience through DAOs that
+manage land and agricultural practices. It proposes strategic inter-
+ventions such as reforestation with nitrogen-fixing trees, cultivat-
+ing flood-resistant crops, and the creation of new agro-settlements.
+The paper argues that blockchain technologies can optimize these
+strategies by enabling precise monitoring and management, thus
+enhancing soil fertility, sustainable agriculture, and community
+sustainability. It presents a vision of agroecosystems as resilient,
+autonomous entities capable of addressing ecological and economic
+challenges.
+CCS CONCEPTS
+•Human-centered computing →Collaborative and social
+computing design and evaluation methods ;HCI theory, con-
+cepts and models ;•Social and professional topics →Govern-
+ment technology policy .
+KEYWORDS
+agro-ecology, care, blockchain, DAOs, non-humans
+ACM Reference Format:
+Katerina Inglezaki, Nikos Katsikis, Diego Sepulveda Carmona, Mariana
+Pestana, and Nuno Jardim Nunes. 2024. Agroecology as a Practice of Care
+supported by Blockchain and DAOs. In Proceedings of the 27th International
+Permission to make digital or hard copies of all or part of this work for personal or
+classroom use is granted without fee provided that copies are not made or distributed
+for profit or commercial advantage and that copies bear this notice and the full citation
+on the first page. Copyrights for third-party components of this work must be honored.
+For all other uses, contact the owner/author(s).
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+©2024 Copyright held by the owner/author(s).
+ACM ISBN 979-8-4007-1823-6/24/10
+https://doi.org/10.1145/3681716.3681737Academic Mindtrek Conference (Mindtrek ’24), October 08–11, 2024, Tam-
+pere, Finland. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/
+3681716.3681737
+1 INTRODUCTION
+Commodifying human and non-human landscapes through capital-
+intensive agricultural production systems marks a critical juncture
+in exploiting "ecological surpluses," essential for sustaining the
+capitalist accumulation process [ 57]. This issue is particularly pro-
+nounced in the agricultural sector, where reliance on non-specialized
+immigrant labor becomes indispensable as developed countries
+experience accelerated urbanization and demographic shifts. Con-
+sequently, rural landscapes and agro-food-related occupations are
+increasingly devalued. Drawing on theoretical and methodological
+insights from scholars such as Donna Haraway (cyborg metaphor),
+Bruno Latour (actor-network theory), and Erik Swyngedouw (anal-
+ysis of Spanish hydro-modernity), alongside contributions from
+political ecology emphasizing nature’s valuation [ 7,75], this pa-
+per situates the Mar Menor within hydro-social landscapes. We
+examine the potential contributions of Decentralized Autonomous
+Organizations (DAOs) to agroecology [ 45,69,81], exploring how
+these technologies can address issues emerging from the confluence
+of digital systems of control and historical systems of land, living
+beings, and labor control in agriculture [52].
+Intensive agricultural practices have led to significant ecological
+degradation, exemplified by the eutrophication of the Mar Menor
+lagoon in Spain. Traditional top-down control systems in agricul-
+ture contribute to this degradation and disenfranchise local farmers.
+There is a pressing need for innovative solutions that promote
+sustainable practices and empower local communities. By decen-
+tralizing governance and management, we posit that DAOs can
+offer solutions that empower farmers, promote sustainable prac-
+tices, and mitigate the negative impacts of traditional top-down
+control systems in the agricultural sector, offering new sociotech-
+nical outcomes through design or extravention [21].
+Addressing this problem is crucial for advancing sustainable
+agricultural practices and mitigating environmental impacts. The
+relevance of this issue extends to human-computer interaction
+(HCI) as it involves leveraging digital technologies (DLTs) to de-
+centralize agricultural governance (DAOs), enhance transparency,
+109
+
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Inglezaki et al.
+and promote equity [ 86]. This aligns with current trends in digital
+transformation and sustainability within HCI [8, 21].
+1.1 The case of Murcia’s Mar Menor
+Murcia, an autonomous community in southeastern Spain, is a
+vast irrigation machine operated by farmers, cooperatives, and
+increasingly foreign-owned multinationals or supermarket chains.
+These entities either cultivate their land or lease from smaller plot
+owners, contributing to a sector that has made Southern Spain the
+"orchard of Europe," with a profit margin of more than 900 million
+euros in the Segura river basin and over 100,000 direct jobs. The
+industry depends on the extensive engineering works of the Tagus-
+Segura transfer, a significant infrastructure that transports water
+from the north to the south. Once a vibrant tourist destination and
+a haven for diverse marine life, the Mar Menor lagoon, the largest
+hypersaline lagoon in Europe, suffered a severe eutrophication
+event in the summer of 2016. This transformed its waters into
+a "green soup" of algae, leading to massive fish die-offs and the
+destruction of marine habitats. This ecological catastrophe was
+primarily attributed to the intensive agricultural practices in the
+region (see Fig.1), which have been expanding since the 1960s.
+Recently, the Mar Menor has gained growing attention when a
+group of environmental activists sought to protect it by changing
+its legal status. Following a vigorous campaign by the activist group
+ILP Mar Menor, 500,000 signatures were gathered in a petition
+calling for the lagoon to be granted legal personhood. The Spanish
+Congress of Deputies overwhelmingly approved this legislative
+initiative in April 2022, marking the first time a European region is
+classified as a legal person with all ensuing rights and protections.
+This historic decision means the lagoon is represented by legal
+guardians, a monitoring committee of "protectors," and a scientific
+advisory board. Additionally, any citizen can file a lawsuit on behalf
+of the Mar Menor [62].
+1.2 Spain’s cyborg hydro-landscapes
+The transformation of Spain’s landscape into a modernized, hy-
+draulic society began post-1898, after losing its last overseas colonies
+when the country shifted toward internal development. This shift
+laid the groundwork for a vision aimed at remaking the national ge-
+ography and addressing the dire conditions of rural Spain through
+modernization and development initiatives, particularly in hydrol-
+ogy and agriculture. Central to this vision was "hydraulic regenera-
+tionism," championed by intellectuals and technocrats like Joaquin
+Costa. They advocated for creating a new hydraulic geography to
+alleviate the arid conditions of the central plains and transform
+Spain into fertile land. This ambition led to establishing large-scale
+hydro-infrastructures, driven by the Corps of Engineers and marked
+by significant public works projects. These projects accelerated dur-
+ing the fascist period under Franco’s regime, epitomized by the
+Tagus-Segura Water Transfer project, which exemplifies the na-
+tion’s efforts to harness water resources to support agriculture and
+development.
+This intensive cultivation system relies on the hydrological cycle
+and a migrant workforce seeking better livability. Over the last 20
+years, the area has been supplied with precarious labor through a
+series of temporary migration programs (TMPs), combined withthe employment of irregular workers and, more recently, with the
+rise of "private" programs run by local companies [56].
+Figure 1: Aerial photograph of the territory of Campo de
+Cartagena around Mar Menor with and without the irrigated
+land.
+Our work uniquely contributes to the HCI field by integrating
+DAOs and DLTs into the discourse on sustainable agriculture [ 21,
+52]. We provide new empirical insights into how these technologies
+can decentralize control, foster community-based decision-making,
+and enhance transparency and traceability in the agricultural value
+chain [ 45,69,81,86]. This study advances current knowledge on
+the intersection of digital technologies and agroecology, offering
+speculative applications for enhancing sustainability and equity in
+agricultural practices.
+2 BACKGROUND AND RELATED WORK
+The intersection of human and non-human entities in the pursuit
+of sustainable ecosystems has become an increasingly prominent
+theme in contemporary research [ 1,17,18,31]. The increasing
+awareness of global ecological and climate crises has catalyzed calls
+for a fundamental shift in the core principles across various disci-
+plines. Scholars have pointed out the shortcomings of anthropocen-
+trism in addressing these challenges, advocating for a reevaluation
+of human-centered perspectives in philosophy, architecture, design,
+and science and technology studies [ 24–26,30,47,54,55]. Over
+the last four decades, theoretical frameworks that challenge the
+primacy of humans have emerged: Isabelle Stengers critiques the
+notion of a disenchanted modernity and promotes a more entangled
+understanding of science, nature, and society [ 77]; Donna Haraway
+discusses the interconnectedness of humans and non-humans, chal-
+lenging anthropocentrism [ 35,36]; Karan Barad introduces "agen-
+tial realism," which emphasizes the interactivity between human
+and non-human actors [ 6]; Michel Serres argues against the di-
+chotomy of natural and cultural realms, advocating for a collabora-
+tive approach with nature [ 71]; and Bruno Latour highlights the
+critical need to integrate nature into political discourses, suggesting
+nature be regarded as a political entity[48–50].
+In the following subsections we present and discuss related work
+on more-than-human perspectives in HCI, capitalism and techno-
+centrism and decentralized technologies for enviromental manage-
+ment and agroecology.
+110
+Agroecology as a Practice of Care supported by Blockchain and DAOs Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+2.1 More-Than-Human Perspectives in HCI
+This paradigm shift is also evident in Human-Computer Interac-
+tion (HCI), where there is a growing recognition of the importance
+of adopting more-than-human perspectives [ 17]. Scholars are in-
+creasingly challenging anthropocentric design and research stances,
+promoting sustainable and responsible approaches that envisage
+futures inclusive of both human and non-human well-being. For
+instance, Romani and colleagues introduce a "provotype" that en-
+hances collaboration between human and non-human entities, aim-
+ing to rethink design contributions to sustainable futures [ 68]. Rice
+emphasizes the influential role of non-humans in shaping partici-
+patory design processes, enhancing the democratic nature of these
+interactions and advocating for a shift from traditional, rational-
+ist design paradigms to those that prioritize relational dynamics
+[63]. However, Sheikh and colleagues point out that “smart city”
+thinking and practice, driven by technocratic approaches, are actu-
+ally reinforcing human exceptionalism [ 73]. Their work critically
+reviews technocratic approaches to smart urban governance and
+offers alternatives on how digital technologies and politics can be
+reconfigured to care for the more-than-human world. A similar
+approach is described by Heitlinger et al. critiquing the global in-
+dustrial food system, primarily driven by human-centered values
+and the commodification of food, leading to significant social and
+environmental inequalities [ 37]. The research highlights the poten-
+tial of blockchain technology to foster new forms of value exchange
+and governance. The team engaged with urban agricultural commu-
+nities through roleplay to co-design blockchain-enabled visions of
+food systems that could support a thriving multispecies food com-
+mons. Their project aimed to redefine algorithmic food justice by
+emphasizing more-than-human values and reconceptualizing food
+as a commons shared among various species. The study addresses
+several challenges and tensions that emerged during these innova-
+tive explorations, and the authors admitted in a later publication
+that the prototyping sessions did not produce a coherent narrative
+in the ways they’d hoped for, namely because of the impossibil-
+ity of speaking for or standing in for more-than-human species
+[40]. Despite the material shortcomings of this project, we see the
+conceptual value in tinkering with the possibility of imagining
+more-than-human relations through a lens of ecological repara-
+tion. There is an abundance of technologies out there claiming to
+innovate the food sector; very few projects however, transition
+from extractive ontologies to multispecies futures, and these are
+precisely the ideas we need in times of ecological collapse.
+2.2 Decentralized Technologies for
+Environmental Management
+Decentralized technologies like blockchain and DAOs could signifi-
+cantly enhance the management of complex environmental issues,
+such as those faced in the Mar Menor lagoon watershed. In light
+of the historical patterns of agricultural technology and racialized
+land dispossession in the United States, Liu and Sengers examined
+the historical systems of control of land, living beings, and labor
+at work in agriculture at the confluence of digital systems [ 52].
+They argue that legibility, the organizing principle in the design
+of digital agriculture systems, uses simplified understandings to
+control and direct action, often obscuring complex realities andreinforcing existing power dynamics[ 52,53]. It is essential to con-
+sider how DAOs and DLTs might reproduce or challenge these
+legacies. This raises critical questions about what is made legible
+through these technologies and what remains hidden or illegible,
+particularly concerning who can participate in and benefit from
+agricultural innovations.
+By leveraging the principles of sociomateriality[ 60], distributed
+ledger technologies (DLTs) and DAOs in particular can address key
+challenges in agroecology, such as improving production sustain-
+ability, enhancing farmer collaboration, and ensuring transparent
+governance of agricultural resources[ 8,51,86]. This alignment with
+sociomateriality theory underscores the transformative potential
+of DAOs in creating more robust and adaptive agricultural sys-
+tems that benefit both human and technological actors[ 45,86]. For
+instance, blockchain could provide an immutable ledger for trans-
+parently tracking pollution sources and remedial measures. At the
+same time, DAOs could democratize decision-making, allowing
+stakeholders, including local communities, experts, and govern-
+ment bodies, to collaboratively vote on and implement resource
+management and regulatory decisions[ 69]. These technologies en-
+sure accountability and efficient resource allocation, facilitating the
+adoption of agroecology on a regional scale and creating a robust
+framework for sustainable management, potentially serving as a
+model for similar ecological challenges worldwide. Some research
+projects are considering addressing the potential of DAOs and DLTs
+in support of environmental issues [59, 72].
+Critically, while these studies provide valuable insights, some
+scholars argue that they neglect the interplay between capital-
+ism and ecological crises, often halting at speculative stages with-
+out pushing for deeper, systemic change [ 14,22]. Indeed, while
+digital technologies are often critiqued for exacerbating capitalist
+and technocentric issues [ 37,73], they hold the potential to alter
+our engagement with the environment and other species substan-
+tially [ 74]. The persistent focus on efficiency, productivity, and
+consumerism in tech-driven solutions can sideline more integral,
+holistic approaches to sustainability that include non-human enti-
+ties. To harness these technologies for the betterment of broader
+ecological systems, there must be a deliberate pivot towards frame-
+works prioritizing long-term ecological health and resilience rather
+than short-term human-centered gains. Recent evaluations by Scuri
+and colleagues sustain this [ 70] suggestion that while sustainable
+HCI has focused on environmental and societal aspects, it often
+overlooks economic considerations, which are crucial for achieving
+a balanced and inclusive approach to sustainability.
+2.3 Critiques of Blockchain and Technological
+Imperialism
+Despite the potential benefits of blockchain technology, several
+critiques highlight its ethical and political issues [ 79]. Jutel argues
+that blockchain humanitarianism often serves as a public-relations
+function for the broader crypto-economy, perpetuating colonial
+legacies of experimentation in developing countries [ 42]. This ap-
+proach, termed crypto-colonialism, aligns with Silicon Valley’s
+cultural values and promotes technological abstraction that under-
+mines developing world sovereignty [ 43]. The ethical failings of
+blockchain projects are attributed to the inability to operate outside
+111
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Inglezaki et al.
+the solutionist PR machinery, and the inherent obscurantism of
+technology [ 43], which contributes to new socio-technical assem-
+blages emerging as complex predatory formations of speculation
+that are intentionally obfuscatory and difficult to regulate [ 19]. The
+Ethereum blockchain is an example of negative criticism on DAOs
+after a major scam that occurred a few weeks after it was first
+launched in 2016. Ethereum was the first permissionless network to
+offer smart contracts which is why there was so much excitement
+among the Ethereum community over the DAO. Soon after, mali-
+cious agents took advantage of a weakness in the smart contract
+code to pull almost 40% of the overall funds. The decentralized
+nature of the project made it impossible for a central controller to
+cancel the transaction, and so the core Ether developers had to make
+the choice of pulling a hard fork and rewriting transactions on the
+blockchain in order to return the funds, essentially compromising
+the immutability of the Ethereum blockchain. Given the novelty
+of smart contracts and their technical tools, failures are inevitable
+and when those failures occur on non-upgradeable smart contracts,
+there may be no solution other than a disruptive fork [82].
+3 CAPITALISM, TECHNOCENTRISM, AND
+ECOLOGICAL CRISES
+In the capitalist agro-economy, both human bodies and natural
+resources are commodified, reducing their value to mere labor or
+utility, with female bodies often subjected to further degradation
+through sexualization. In a recent feature on migrant seasonal work-
+ers in Spain in The Funambulist, anthropologist Salma Amazian
+explained how race, class, and gender are interwoven in the modern
+colonial order, stating that "when Moroccan women are displaced to
+Spain, they remain subject to a colonial relationship of domination
+that draws on a legacy based on economic extractivism... today the
+merchandise is the bodies, to use them for the jobs the Spanish
+don’t want to do" [ 61]. The human body is stripped of its rights and
+ethical value and reduced to its labor capacity like the river has lost
+its pre-Western thinking sanctity. If the body is female, it becomes
+automatically sexualized and is viewed as a private satisfaction
+and utility-maximizing machine[ 34]. The migrant body doesn’t age,
+tire, endure the sun’s cruelty, and satisfy its owner as he pleases.
+This bodily productivity creates economic value and constitutes
+biocapital.
+This perspective calls for reevaluating labor’s value, emphasiz-
+ing recognizing and regenerating undervalued or unpaid work as
+crucial human capital. The interconnectedness of local and global,
+human and non-human elements in the journey of a product, like a
+Murcian tomato in a German supermarket, illustrates the complex
+networks and socio-ecological processes at play (see Fig. 2). This
+web of interactions encompasses everything from social hierarchies
+and environmental transformations to global hydrological cycles
+and geopolitical struggles, underlining the active role of material
+objects and bodies within these networks, as described by thinkers
+like Latour and Swyngedouw [48, 78].
+3.1 The Mar Menor Lagoon Watershed
+In the Mar Menor lagoon watershed case, the current discourse
+revolves mainly around techno-engineered solutions for managing
+nitrate leaks like the project RemediOS by Hernandis and colleagues,within the framework of the Mar Menor Oyster Initiative, which
+introduces sixty million oysters in the lagoon to filter the nitrates in
+the polluted water [ 38] or the development of an environmentally-
+friendly fertilizer based on natural zeolites (porous volcanic rocks)
+led by ASAJA, the Young Farmers Agrarian Association of Murcia,
+that aspires to halt chemical pollution[ 58]. While many studies shed
+light on the hydrogeological configuration of the underlying Campo
+de Cartagena aquifer and reveal the catastrophic consequences of
+years of overexploitation on the aquifer [ 66], there seems to be
+a knowledge gap in developing holistic strategies for the regen-
+eration of the agricultural landscape that is the main driver of
+pollution. The ecological crisis of Mar Menor has been character-
+ized as a wicked problem because of the multitude of stakeholders
+involved in its socio-ecological system and their conflicting val-
+ues. Boix-Fayos and colleagues conducted a content analysis of the
+stakeholders’ values and proposed a new framework for finding
+common grounds for conflict resolution among the involved ac-
+tors [ 11]. Nature-based solutions (Nbs) are an emerging alternative
+in urban planning and landscape architecture that use green-blue
+infrastructures as opposed to traditional grey infrastructures and
+provide environmental, social, and economic benefits. A recent
+study by García-Ayllón proposes Nbs as risk mitigation actions for
+the Mar Menor region based on geostatistical indicators, namely
+permeable pavements, infiltration ditches, floodable bioretention
+beds, and retention ponds [ 29]. However, such proposals have not
+yet been part of a regional planning strategy that should utilize
+them on a territorial scale and synergistically implement them
+within a socio-agroecological context.
+Working through the lens of the Mar Menor as a techno-social
+cyborg entity, we understand the lagoon as an engine of the Anthro-
+pocene. From intense modes of production to worsening climate
+conditions, engineered topographies, contamination from toxic
+microorganisms, and marginalized people out of sight and out of
+mind, the entanglement of these processes situates Mar Menor in
+our new geological epoch. While the term Anthropocene has be-
+come a culprit for all humanity, posthumanist theories provoke
+a reexamination of how human cultures appropriate their territo-
+ries. Extending the cyborg metaphor to a planetary scale, Collins
+proposes CyberGaia to describe our biosphere in a way that ac-
+knowledges human technology as an integral part of nature [ 15].
+The CyberGaia concept concedes the power of technology over
+the natural world but goes deeper in seeing technology as nature,
+embedded in nature’s cybernetics networks. And while the An-
+thropocene doesn’t “take place” here, or there, some places leave
+their material mark as a manifestation of our era. All day and all
+night, the soil and its biotic elements, the water cycle and the sun-
+beams, and the hands and the bodies of some “others” tirelessly
+produce edible commodities that are processed, packaged, exported,
+and shipped over the world, creating a deep physical and cultural
+separation between people and place.
+3.2 The Production of Nature through an
+Actor-Network Theory (ANT) Approach
+The narrative of the Spanish hydro-social landscapes that have
+altered the ecosystems of Mar Menor leads us to view the lagoon as
+112
+Agroecology as a Practice of Care supported by Blockchain and DAOs Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+Figure 2: Visible and invisible infrastructures that compose
+Campo de Cartagena
+an assemblage of human, non-human, chemical, biological, mate-
+rial, theoretical, organic, and mechanical processes, but ultimately
+political. The political drive to establish a robust economic sector in
+the countryside, defying the material limitations of the land, turns
+the social into nature and nature into capital. The thousands of
+processes that sustain the Murcian economy, and any peri-urban
+economy, blend society and nature into a cyborg entity where the
+boundary between human and animal is transgressed [34].
+The protagonists of Spain’s modernity and hydrology are people
+because social science follows a divide between human and non-
+human agency. Human agency is central, and the rest of the world
+is offered for action. However, the chain of events leading to the
+ecological disaster of Mar Menor resists conventional social expla-
+nations precisely because of the plethora of non-human agents. The
+hydraulic force of the Tagus River, the immense work of the Tagus-
+Segura transfer, the orchards of Murcia, the chemical properties of
+nitrates, the cross-contamination of aquifers, the asphyxiation of
+marine species, and the explosive growth of algae (see Fig.2) shape
+social processes, sometimes according to human rationality and
+planning, and sometimes not.
+The material processes of the lagoon and the techno-natural
+infrastructures of the Iberian waters create cyborgs and hybrids.
+Efforts to tame and transform the hydrological cycle, engineer
+the land, and control nature are only partially successful. Water
+bodies get contaminated, dams fail, and ecological relations become
+unbalanced, with significant consequences for the social networks
+that rely on them. Building on ANT as the theoretical foundation
+of this study, we understand that the material agency of water,
+shifting through local, national, and global scales, assembles a new
+techno-natural “imbroglio” embedded in ecological urgency (see
+Fig. 3).Material objects and bodies become actors with their own con-
+sciousness, as Langdon Winner describes the development of the
+mechanical tomato harvester introduced in the US in the late 1940s.
+This machine replaced handpicking and reduced costs, but re-
+searchers bred new varieties of tomatoes that were hardier, sturdier,
+and less tasty to fit the machine’s requirements [ 85]. The design
+of any given technology marks a social choice of how people will
+work, communicate, travel, consume, and so on [ 85], leaving no
+room for innocence in the products we consume, the technological
+artifacts we use, or the information we process.
+Figure 3: Actor-Network Theory applied to the case of Mar
+Menor
+3.3 Distributed Ledger Technologies and DAOs
+in Support of Agro-ecological Regeneration
+Digital agriculture systems are increasingly employed to boost pro-
+ductivity and reduce environmental impact through automated,
+data-driven decision-making processes. However, these systems
+often perpetuate historical legacies of control and simplification,
+resulting in unintended consequences such as increased labor gov-
+ernance, surveillance, and brittleness in farming practices [52].
+Actor-Network Theory (ANT) provides a sociotechnical per-
+spective to analyze complex interactions between technology and
+human processes, treating human and non-human actors equally
+[49]. As a theoretical basis, ANT is widely applied in computing
+research and is thus applicable to the context of Distributed Ledger
+Technologies (DLTs) and Decentralized Autonomous Organizations
+(DAOs). These technologies are increasingly recognized for their
+potential to drive agroecological regeneration practices by enhanc-
+ing inclusivity, efficiency, and sustainability within agricultural
+value chains [ 51]. The secure, transparent, and immutable nature
+of blockchain and DLTs fosters trust and transparency, improving
+traceability “from farm to fork, ” as evidenced by various studies and
+initiatives [ 12,23,51,80]. For instance, they enable precise track-
+ing of food products through smart contracts and permissioned
+ledgers, offering substantial economic advantages, particularly to
+small-scale farmers and marginalized communities in developing
+regions [45, 80].
+113
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Inglezaki et al.
+Additionally, DLTs provide a robust mechanism for registering
+assets like land titles on the blockchain, overcoming the inefficien-
+cies and susceptibility to fraud of traditional land registry systems
+[2]. This enhances land ownership verification and enables farmers
+to leverage their land as collateral for financing [ 23]. In governance
+and ecosystem management, DAOs represent a transformative ap-
+proach [ 69]. They automate governance and operational processes
+within agroecological systems governed by pre-set rules. A notable
+example is Terra0, an artistic prototype developed on the Ethereum
+network, which speculates about the potential implementation of
+DAOs to underpin technologically enhanced ecosystems capable of
+autonomous economic actions, contributing to their resilience and
+sustainability [69].
+This decentralized approach can empower farmers by giving
+them more autonomy and reducing reliance on top-down models
+that have historically marginalized certain groups and reinforced
+inequitable practices. By integrating blockchain technology with
+agroecology, we can create more resilient and equitable agricultural
+systems that support sustainable practices and community-based
+decision-making, addressing both socio-economic and environmen-
+tal challenges in the agricultural sector.
+The concept of sociomateriality, which examines the entangle-
+ment between the social and the material in organizational life,
+provides a valuable framework for understanding the integration
+of DAOs in agriculture [ 51]. Sociomateriality focuses on how hu-
+man and technological elements are intertwined and shape each
+other [ 60]. In the context of DAOs, this perspective highlights the
+conjoined agency of humans and machines, where advanced infor-
+mation technologies like blockchain and AI transform traditional
+agricultural practices and organizational structures [ 69]. DAOs,
+through their decentralized and automated nature, embody this
+sociomaterial entanglement, offering new ways to manage and
+govern agricultural ecosystems that are both efficient and resilient
+[69].
+4 AGROECOLOGY AS A PRACTICE OF CARE
+Agroecology is at once a scientific discipline, a movement and a
+practice [ 83]. The term "agroecology" emerged at the beginning
+of last century in the scientific publications of Basil M. Benzin [ 9],
+a Russian agronomist who used the term to describe the use of
+ecological methods in research on commercial crop plants. In the
+following years many related publications were produced with-
+out the use of agroecology in the title and instead they referred
+to agricultural zoology [ 27], ecology, and crop physiology [ 46].
+Through the 1960s and 1970s the Green Revolution enabled a great
+increase in the production of food grains around the world and
+created greater intensification of production. At the same time,
+public awareness on the impact of human intervention over nature
+started coming to the fore after Rachel Carson’s Silent Spring set
+the foundations of modern ecology with her meticulous descrip-
+tion of how DDT, the most powerful pesticide the world had ever
+known, entered the food chain and accumulated in the fatty tissues
+of animals, including human beings, and caused cancer and genetic
+damage[ 13]. It wasn’t until the 1980s that agroecology emerged as
+a practice with its own distinct conceptual framework and guide-
+lines to design and manage sustainable agroecosystems [ 3]. Fourmain properties of agroecosystems were developed by Conway
+[16]: productivity, stability, sustainability and equity. As theories
+of sustainability and ecology were further explored, agroecology
+started gaining ground as a scientific discipline and moved from
+focusing on individual agroecosystems to a wider focus on the food
+system, defined as a global network of food production, distribution
+and consumption [ 32]. Agroecology has grown into a transdisci-
+plinary field that includes the ecological socio-cultural, economic,
+and political dimensions of agro-systems, from production to the
+very consumption. Systems-thinking through holistic approaches
+is needed to address the complex interdependencies that derive
+from human activities in natural terrestrial ecosystems.
+Depending on the context, agroecological studies might still fo-
+cus on the agroecosystem scale. Rural landscapes can be divided
+into observable and measurable units based on agroecosystem age,
+management purposes, economic need, or land use compatibility.
+Productive units are divided into plots and agroecosystems, which
+can be the same or vastly different. The plot is essentially a man-
+agement unit and the agroecosystem contains sets of plants serving
+a certain purpose. Plots are areas demarcated by either constructed
+boundaries (fences and hedges) or natural (streams, hills, etc.). A
+plot can consist of a single agroecosystem or a group of agroe-
+cosystems that perform a common function within the limits of
+the demarcated area. The agroecosystem is the central unit in any
+given landscape and is defined by its design role since all compo-
+nent plants are used to achieve a set of objectives (production, water
+retention, erosion control, etc.). The aim of our project, however,
+is to see agroecology as a holistic and integrated approach while
+applying both ecological and social concepts to the design and
+management of sustainable food systems. A system’s optimization
+cannot be viable without taking into account the need for socially
+equitable conditions within which people can choose what they
+cultivate, how much, and how it is produced. The intrinsic relation-
+ship between people and the planet, and in particular the role of
+food systems, is at the basis of the 2030 Agenda for Sustainable
+Development. Providing food security (SDG number number 2) and
+ending poverty (SDG number 1) while responsibly managing the
+available natural resources are pillars of sustainability and can only
+be feasible through holistic approaches that comply with human
+rights.
+Contemporary theories of ecology and posthumanism enforced
+by feminist theories are calling for a shift from extractive practices
+to regenerative alternatives of human and natural work through
+the notion of care. The work of Maria Puig de la Bellacasa and her
+matters of care is the most notable example of ethico-political recon-
+figurations of ecological relations. De la Bellacasa disrupts visions
+of innovation in technoscience through practices of “maintenance”
+and “repair”. Care work becomes better when it is done again and
+again, as an everyday mundane, repetitive work[ 20]. The ecological
+turn is also part of soil science which in recent years has introduced
+the notion of "living soil", meaning that soil is not just a habitat
+for plants and organisms but it can only exist with and through
+a multispecies community biota that makes it. Such soil-friendly
+care practices are embedded in permaculture, an agroecological
+movement which is defined as "consciously designed landscapes
+which mimic the patterns and relationships found in nature, while
+yielding an abundance of food, fibre and energy for provision of
+114
+Agroecology as a Practice of Care supported by Blockchain and DAOs Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+local needs[ 39]. Although being an international movement with
+a great number of practitioners, it has not been discussed widely
+in the scientific literature. Permaculture has become the founda-
+tion of many successful community-based projects for neglected
+communities, meaning, populations that systematically do not re-
+ceive enough services from the government and are susceptible to
+diseases and water pollution due to waste and organic residues[ 5].
+One such example is the Bucket Revolution Project (BRP) in the
+region of Florianópolis in Brazil. The Comunidade Chico Mendes is
+one of the most vulnerable communities in the region and has dealt
+with poor management of organic waste and infestations of rats,
+cockroaches, mosquitos, and other disease vectors. The initiative
+of local actors to discuss urban agriculture in schools and among
+communities attracted 95 families taking part in the project already
+six months after it started [ 28]. By implementing permaculture
+principles they engaged in composting practices by turning food
+“waste” into compost, transforming the organic residues into pre-
+cious nutrients back to the soil. The basic mechanism of the project
+is based on the distribution of buckets to the families living in the
+community which they filled with household organic waste and
+then brought them to the “ponto de entrega voluntária”, the site for
+collecting the organic waste[67].
+4.1 A speculative future for the Campo de
+Cartagena territory
+Since farming is a primary economic activity in the entirety of the
+region of Murcia and there is already a great investment interest
+in the land, the strategies presented here are working in line with
+this fact, attempting to restructure the kinds of cultivation and
+export as a means to moderate the existing intensive models and
+to pay respect to the natural systems they are based on. To develop
+the design strategies, the factors that have been used as a design
+framework are mainly the climatological classification of the re-
+gion, the extent of the floodplain and its annual cycles, the zones
+of high nitrate concentration, and the orchards that are mainly
+producing this pollution. The first strategy entails reforestation
+with nitrogen-fixing trees and nitrogen management practices. Ni-
+trogen (N) is considered one of the most essential elements for the
+growth of plants and can significantly benefit agriculture. Nitrogen
+fertilizers are responsible for feeding approximately 48 percent of
+the global population [ 64] but a large part of them is lost to the
+environment because nitrogen is a very mobile nutrient. Nitrogen
+can be transferred to the atmosphere, in the form of N2O, N2, and
+NH3 and can become a pollutant in surface waterways in the form
+of nitrate, encouraging eutrophication processes that result in a loss
+of biodiversity and loss in water quality, and in aquifers[ 33] as in
+the case of Mar Menor. Spanish agriculture is characterized by high
+inputs of fertilizers and high nutrient emissions to the environment
+[33], posing a threat to water quality, therefore it is imperative to
+manage the N cycle to prevent nitrate leaks.
+Using organic and mineral fertilizers has successfully reduced
+N losses, improved N use efficiency (NUE), and reduced N surplus.
+N surplus is the difference between field N input and output. N
+surplus has been suggested as an indicator of the potential loss of
+N to the environment [39]. Besides N surplus, several crop and soil
+management practices can influence the N losses. Various species oflegumes have been observed for their beneficial effects in agronomic
+systems. These legumes form symbiotic associations with bacteria
+called rhizobia which fix atmospheric N into biologically useful
+forms [ 41] (see Fig.4). In intercropping systems where legumes are
+the main component, the main sources of nitrogen are the atmo-
+spheric nitrogen fixed by the legume, the nitrogen available from
+the soil in organic or inorganic form, and the nitrogen contained in
+applied fertilizers. Nitrogen loss occurs through harvested material,
+principally seed, and denitrification, leaching, and volatilization. By
+and large, intercropping with a legume will maintain the system in
+a positive nitrogen balance and if there has been good growth of the
+legume, the nitrogen contribution can be significant. Intercropping
+is the cultivation of two or more crop species in the same field for
+the whole or a part of their growing period [ 41]. It contributes to
+high yields and high land use efficiency due to complementarity in
+resource requirements between plant species [ 87]. Intercropping
+legumes in fruit orchards is a method of sustainable land inten-
+sification providing a second crop in the alleys between the fruit
+trees[10].
+Figure 4: Schematic section of how intercropping legumes
+with fruit trees can improve the nitrogen cycle.
+The second strategy introduces potential crops for production in
+flood-risk areas. The main crops suggested here comprise a tuber
+(taro), grasses (aleman grass, flood-tolerant sugarcane, and rice).
+Flooded biomass crops have a potential for production in large
+areas and can be distributed in large markets throughout Europe,
+given the proper economic conditions. The crops that are proposed
+here vary widely in yield and nutrient uptake. Rice, for example,
+can only thrive in low phosphorus conditions, whereas aleman
+grass may require additional phosphorus mineralization. Crops
+that thrive in oligotrophic conditions and those requiring large
+amounts of nutrients can be significantly useful in water quality
+management. Aleman grass can effectively reduce the phosphorus
+115
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Inglezaki et al.
+content from previously cultivated fields with crops that left behind
+large concentrations of chemicals (such as vegetables and fruits).
+Rice is also proven to decrease the chemical contents to levels of
+natural conditions. What is also important here is the low operating
+cost of such cultivations since periodic flooding helps with pest
+control [76].
+•Sugarcane (Sacchantm spp. and related genera) are grasses
+that yield large amounts of biomass. In addition, their high
+sucrose content may facilitate a more rapid and economical
+conversion of biomass to other forms of fuel. Several acces-
+sions of the Saccharurn complex are well adapted to riparian
+habitat.
+•Taro is a commercially important root crop in many parts of
+the world, including Egypt, the Philippines, the South Pacific,
+and Hawaii, which grows well under flooded conditions. One
+of the major expenses of taro production is weed control,
+which can account for as much as 47% of total production
+costs. Lowland cultivars would presumably have fewer weed
+and insect problems because of flooding [76].
+•Alemangrass is an aquatic perennial that is used for grazing,
+silage, and hay, mainly in South America. It is adapted to
+infertile soil but responds well to nitrogen. It is a deep-water
+plant, tolerating floods up to 1 m in depth for short periods
+[84]. Indications are that two or three harvests per year
+result in greater yields than a single harvest at season’s end.
+Alemangrass, because of its greater biomass yield per hectare,
+has far greater energy potential than the other crops of the
+proposal. However, sugarcane and taro have higher rates
+of biomass conversion than alemangrass. The energy value
+of a crop of alemangrass is estimated to be 350 MJ ha-1 of
+total yield, and 70 Mg ha-1 yield from two harvests per year).
+The energy value of taro tops is estimated to be 145 MJ ha-l
+of total yield, and 1’45 Mg ha-1 yield from three harvests
+per year). Methane production of flood-tolerant sugarcane
+ranges from 22 to 330 MJ ha-1 [44].
+•Rice is an important crop worldwide. Rice production bene-
+fits the soil by reducing the rate of soil loss, and may improve
+yields and water quality when grown in rotation with other
+crops. In addition, the demand for water from rice planted
+in the spring coincides more closely with the rainy season
+than other crops in the region. It has also been suggested
+that rice grown in rotation with vegetables may improve the
+water quality of vegetable drainage [4].
+The third strategy introduces new agro-settlements. The strate-
+gic locations for new settlement insertions have been chosen based
+on existing urbanization patterns and transportation connections.
+The logic of the strategy aims to create semi-autonomous settle-
+ments in close connection to existing urban areas to accomplish
+the social integration of the migrant communities and reverse the
+currently segregated status quo. The agro-settlement acts as a cul-
+tural repository, preserving knowledge and restoring the depleted
+rural lands to build healthy communities. Social interactions are
+cultivated on three different scales: i) individual - residents culti-
+vate their plots to supply their food; ii) household - groups of 8
+households share the responsibility for the maintenance of common
+productive land; ii) neighborhood - communities come together
+Figure 5: Phasing of the project implementation process.
+to manage, harvest, and process the crops. Each new settlement
+develops along a central transportation axis between two existing
+urban areas. At the very core is a central square with a commer-
+cial center; around the various housing typologies unfold about
+smaller public spaces and at the edges of the settlement we can find
+manufacturing and processing facilities.
+4.2 Blockchain Technologies for
+Agro-ecological Support
+Digital technologies support innovative agroecological interven-
+tions, such as reforestation with nitrogen-fixing trees, introducing
+potential crops for flood-risk areas, and establishing new agro-
+settlements. AI can analyze satellite imagery and drone data to
+identify optimal reforestation areas by considering soil type, ni-
+trate concentration, and existing vegetation. Machine learning algo-
+rithms can predict the impact of different species of nitrogen-fixing
+trees on local ecosystems, optimizing the selection and planting pro-
+cess to maximize nitrogen fixation and minimize adverse ecological
+impacts. DLTs ensure transparency and traceability of renatural-
+ization processes, enabling stakeholders to monitor plants’ origins,
+growth, and health. DAOs can create technologically augmented,
+more resilient ecosystems and operate within a predetermined set
+of rules in the economic sphere as agents. According to several au-
+thors, while theoretically promising, blockchain technology faces
+significant implementation challenges. In the case of cooperative
+agroecological supermarkets, despite blockchain’s potential for
+116
+Agroecology as a Practice of Care supported by Blockchain and DAOs Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+transparency, traceability, and trust, the high costs and complexity
+of integration and the lack of technical expertise and regulatory
+frameworks have often proved insurmountable [ 65]. Despite these
+challenges, the proposed strategies remain viable. For reforestation
+with nitrogen-fixing trees, DAOs could automate the monitoring
+and managing these trees, tracking their growth and nitrogen-
+fixation rates and adjusting planting strategies based on real-time
+data. Intelligent contracts could trigger actions based on specific
+ecological indicators, ensuring that reforestation reduces nitrogen
+surplus and enhances soil fertility [ 8].For crops in flood-risk areas,
+DAOs could manage distribution and cultivation across identified
+regions. Leveraging the DAO’s capabilities could facilitate resource
+allocation, monitor flood patterns, and optimize crop rotations and
+planting schedules to maximize yield while minimizing environ-
+mental impact. Smart contracts could automatically adjust crop
+choices and management practices in response to changing flood
+risks and water quality data, ensuring sustainable agricultural pro-
+duction [8, 65]. In establishing new agro-settlements, DAOs could
+integrate these settlements within a decentralized network manag-
+ing production, resource allocation, and social integration efforts.
+Smart contracts could enforce agreements regarding land use, crop
+selection, and resource sharing, fostering cooperative management
+and ensuring these settlements’ social and ecological sustainabil-
+ity. DLTs acting as agents within economic spheres could support
+financial viability by automating transactions, such as the sale of
+produce or profit distribution among community members, enhanc-
+ing resilience and autonomy [ 8,65]. While the past years have
+shown that blockchain development faces material and financial
+challenges, the potential for innovative agroecological interven-
+tions remains significant. By learning from previous projects and
+addressing scalability and regulatory issues, blockchain solutions
+can still be realized to support sustainable and resilient agricul-
+tural practices. As highlighted by Rocas-Royo, the key is to focus
+on practical applications and incremental adoption, ensuring that
+technological solutions align with the organizational capabilities
+and socio-economic contexts of agroecological initiatives [8, 65].
+4.3 A Provotype DAO in Support of
+Agro-ecological Regeneration
+4.3.1 DAO Structure and Objective. Purpose: The primary aim
+of the DAO would be to regenerate and preserve the ecological
+balance of the Mar Menor lagoon. Stakeholders: Include local
+farmers, environmental NGOs, government bodies, researchers,
+and local communities. Governance: Token-based voting system
+where decisions are made based on stakeholder consensus. Different
+tokens might represent different groups (e.g., farmers, researchers,
+etc.) to balance influence, ensuring that diverse voices are heard
+and reducing the risk of dominance by any single group [52, 69].
+4.3.2 Smart Contract Applications. Resource Management Con-
+tracts: Automate the allocation and monitoring of water resources
+to optimize usage and reduce excessive nutrient loading, which
+leads to eutrophication. By using immutable ledgers, transparency
+and accountability are ensured [ 45,86].Subsidy Distribution:
+To minimize runoff, distribute subsidies or financial incentives to
+farmers who adopt sustainable practices such as reduced chemical
+usage, cover cropping, and buffer strips. Compliance Monitoring:Implement contracts that automatically monitor and report data
+from IoT devices or sensors placed in agricultural areas to ensure
+compliance with environmental standards. This addresses the need
+for reliable and real-time data to make informed decisions [ 60].
+Ecological Impact Credits: Create a system of ecological impact
+credits where businesses and tourists can purchase credits. The
+funds from these credits would be used for conservation activities,
+and the credits themselves could be traded or sold, creating an
+economic incentive for ecological preservation.
+4.3.3 Technology Integration. IoT Integration: Use IoT sensors
+to collect real-time data on water quality, soil moisture, and nu-
+trient levels. This data would feed into smart contracts to enforce
+or adjust practices quickly, ensuring adaptive management of re-
+sources [ 51,86].Blockchain for Transparency: Use blockchain
+technology to ensure that all transactions, data logs, and decisions
+are recorded permanently and transparently, making it difficult
+to tamper with data or misrepresent compliance, fostering trust
+among stakeholders [42, 43].
+4.3.4 Challenges and Considerations. Technical Complexity: Man-
+aging the integration of diverse technologies (IoT, blockchain, smart
+contracts) and ensuring they work seamlessly across different actors
+requires substantial technical expertise and coordination. Stake-
+holder Buy-in: Ensuring that all relevant parties are on board
+and understand the benefits and workings of the DAO, which re-
+quires extensive education and possibly demonstration projects
+to showcase the DAO’s potential and functionality. Legal and
+Regulatory Compliance: Aligning the DAO’s operations with
+local and national laws might involve navigating complex regula-
+tory environments. Proactive engagement with regulatory bodies
+can help in crafting compliant frameworks [ 43].Initial Funding:
+Could be sought from environmental grants, governmental sup-
+port, or crowdfunding within the crypto-community. Emphasizing
+the DAO’s potential for positive environmental impact can attract
+diverse funding sources. Continual Operation: Transaction fees
+within the DAO or voluntary contributions from stakeholders (like
+tourism operators who benefit from a clean and vibrant ecosys-
+tem) could support ongoing operations. Establishing a sustainable
+financial model is essential for long-term success.
+4.3.5 Addressing Critiques. Critiques highlight that blockchain
+projects often face ethical and political issues, such as perpetuating
+colonial legacies and technological abstraction that undermines lo-
+cal sovereignty [ 42,43]. To counter these critiques the development
+of the DAO should follow:
+•Inclusive Design: Ensure that the DAO is designed with
+input from local communities to avoid imposing external
+solutions and to respect local knowledge and practices.
+•Transparent Communication: Maintain open and trans-
+parent communication channels with all stakeholders to
+build trust and ensure mutual understanding.
+•Ethical Framework: Develop and adhere to an ethical
+framework that prioritizes the needs and rights of local com-
+munities, ensuring that technological interventions do not
+exacerbate existing inequalities [19].
+By addressing these challenges and critiques proactively, the pro-
+posed DAO can serve as a robust model for sustainable management
+117
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Inglezaki et al.
+and agro-ecological regeneration, potentially offering solutions to
+similar ecological challenges worldwide.
+5 CONCLUSION
+This paper has navigated the intricate landscape of agroecological
+regeneration, emphasizing the critical intersections where human
+and non-human actors converge within the hydro-social context of
+Murcia’s Mar Menor. By employing theoretical frameworks such as
+cyborg theory, actor-network theory, and political ecology, we have
+examined the intertwined dynamics of agricultural commodifica-
+tion, ecological degradation, technocentrism, and the socio-political
+forces at play. The case of Mar Menor underscores the detrimental
+impacts of intensive agricultural practices and the pressing need
+for sustainable alternatives that prioritize ecological health and re-
+silience. The proposed speculative spatial strategies for the Campo
+de Cartagena territory represent a holistic approach to agroecolog-
+ical regeneration, integrating traditional knowledge with advanced
+technologies to restore ecological balance and promote social equity.
+Restoring the nitrogen cycle is crucial for the ecological balance
+of any agroecosystem and can be easily applied by utilizing inter-
+cropping practices in the right combinations of crops. Mitigating
+floods in high-risk areas by making use of the floodplain to cultivate
+flood-tolerant crops such as taro, aleman grass, rice, and sugarcane
+can relief the territory greatly of the increased pressure it has been
+receiving in the last decades with high torrential rains that are
+mainly transported through the Rambla del Albujón canal. Lastly,
+constructing new settlements to house agricultural workers can
+act as a cultural repository of agroecology, preserving knowledge
+and building a closer bond between people and the land while
+providing the right to housing for migrant communities. These
+strategies, informed by blockchain and DAOs’ potential, serve as
+a blueprint for reimagining agricultural landscapes as spaces of
+care, cooperation, and sustainable production. In exploring DLTs
+and DAOs conceptually, we have identified potential pathways for
+enhancing inclusivity, efficiency, and sustainability in agricultural
+value chains. While DAOs have been primarily used in technical
+and financial domains, this paper proposes them as speculative
+prototypes—conceptual tools rather than fully realized technical
+implementations. This approach allows us to critically assess and
+imagine how these technologies might be applied to agroecological
+contexts, facilitating improved traceability, secure transactions, and
+equitable resource access. Projects like Terra0 underscore the spec-
+ulative nature of this exploration, which illustrates the potential for
+automated, resilient, and self-regulating agroecosystems. However,
+it is crucial to recognize that these ideas are still conceptual and
+require further development and empirical testing.
+Moving forward, there is a need for continued interdisciplinary
+research, policy-making, and community engagement to harness
+the synergies between technology, ecology, and society. The path to
+agroecological regeneration is fraught with complexities and chal-
+lenges, but it also presents abundant opportunities for innovation,
+collaboration, and transformative change. The future of ecology
+calls for cooperation between humans and non-humans, and em-
+bracing computational systems can help us foster multispecies re-
+lationships. This paper contributes a speculative yet credible visionfor a more sustainable, equitable, and resilient future for agricul-
+tural landscapes and the communities that depend on them while
+problematizing the agency of technology in our changing world.
+ACKNOWLEDGMENTS
+This research was funded by LARSyS (Project UIDB/50009/2020).
+In addition, it benefited from the BIG ERAChair EU-funded project
+through Grant agreement ID: 952226 and the Blockchain.PT PRR
+Agenda PC644918095-00000033.
+REFERENCES
+[1]Yoko Akama, Ann Light, and Takahito Kamihira. 2020. Expanding Participation to
+Design with More-Than-Human Concerns. In Proceedings of the 16th Participatory
+Design Conference 2020 - Participation(s) Otherwise - Volume 1 . ACM, Manizales
+Colombia, 1–11. https://doi.org/10.1145/3385010.3385016
+[2]Ashraf Alam. 2022. Platform Utilising Blockchain Technology for eLearning
+and Online Education for Open Sharing of Academic Proficiency and Progress
+Records. In Smart Data Intelligence , R. Asokan, Diego P. Ruiz, Zubair A. Baig, and
+Selwyn Piramuthu (Eds.). Springer Nature Singapore, Singapore, 307–320. https:
+//doi.org/10.1007/978-981-19-3311-0_26 Series Title: Algorithms for Intelligent
+Systems.
+[3]Miguel A. Altieri. 1989. Agroecology: A new research and development paradigm
+for world agriculture. Agriculture, Ecosystems & Environment 27 (1989), 37–46.
+https://api.semanticscholar.org/CorpusID:52059376
+[4]D. L. Anderson, D. B. Jones, and G. H. Snyder. 1987. Response of a Rice-
+Sugarcane Rotation to Calcium Silicate Slag on Everglades Histosols1.Agron-
+omy Journal 79, 3 (May 1987), 531–535. https://doi.org/10.2134/agronj1987.
+00021962007900030026x
+[5]Modupe Stella Ayilara, Oluwaseyi Samuel Olanrewaju, Olubukola Oluranti Ba-
+balola, and Olu Odeyemi. 2020. Waste Management through Composting: Chal-
+lenges and Potentials. Sustainability 12, 11 (2020). https://doi.org/10.3390/
+su12114456
+[6]Karen Michelle Barad. 2007. Meeting the universe halfway: quantum physics and
+the entanglement of matter and meaning . Duke University Press, Durham. OCLC:
+ocm71189745.
+[7]Alyssa Battistoni. 2017. Bringing in the Work of Nature: From Natural Capital to
+Hybrid Labor. Political Theory 45, 1 (Feb. 2017), 5–31. https://doi.org/10.1177/
+0090591716638389
+[8]Véronique Bellon Maurel, Pascal Bonnet, Isabelle Piot-Lepetit, Ludovic Brossard,
+Pierre Labarthe, Pierre Maurel, and Jean-Yves Courtonne. 2022. Digital technology
+and agroecology: opportunities to explore, challenges to overcome. Agriculture
+and Digital Technology: Getting the most out of digital technology to contribute to
+the transition to sustainable agriculture and food systems (2022).
+[9]B.M. Benzin. 1925. Agroecological Characteristics Description and Classifica-
+tion of the Local Corn Varieties-chorotypes . https://books.google.pt/books?id=
+AffJtgAACAAJ
+[10] M. Blair, Xingbo Wu, Devendra Bhandari, Xiaoyan Zhang, and Junjie Hao. 2016.
+Role of Legumes for and as Horticultural Crops in Sustainable Agriculture . Vol. 9.
+Springer International Publishing, pp 185–211. https://doi.org/10.1007/978-3-
+319-26803-3_9
+[11] Carolina Boix-Fayos, Javier Martínez-López, Juan Albaladejo, and Joris De Vente.
+2023. Finding common grounds for conflict resolution through value analysis
+of stakeholders around the socio-ecological crisis of the Mar Menor coastal
+lagoon (Spain). Landscape and Urban Planning 238 (Oct. 2023), 104829. https:
+//doi.org/10.1016/j.landurbplan.2023.104829
+[12] Juan D Borrero. 2019. Sistema de trazabilidad de la cadena de suministro
+agroalimentario para cooperativas de frutas y hortalizas basado en la tecnología
+Blockchain. CIRIEC-España, revista de economía pública, social y cooperativa 95
+(April 2019), 71. https://doi.org/10.7203/CIRIEC-E.95.13123
+[13] R. Carson. 1962. Silent Spring . Hamish Hamilton. https://books.google.pt/books?
+id=YXDEvgEACAAJ
+[14] Roberto Cibin, Sarah Robinson, Nicola J. Bidwell, Conor Linehan, Laura Maye,
+Nadia Pantidi, and Maurizio Teli. 2021. Land, Water and Sun: Tuning into Socio-
+Ecological Relations in Radio Design. In Designing Interactive Systems Conference
+2021. ACM, Virtual Event USA, 1954–1969. https://doi.org/10.1145/3461778.
+3462104
+[15] Logan Thrasher Collins. 2024. CyberGaia: Earth as cyborg. Humanities and Social
+Sciences Communications 11, 1 (2024), 1–7.
+[16] Gordon R. Conway. 1987. The properties of agroecosystems. Agricultural Systems
+24, 2 (1987), 95–117. https://doi.org/10.1016/0308-521X(87)90056-4
+[17] Aykut Coskun, Nazli Cila, Iohanna Nicenboim, Christopher Frauenberger, Ron
+Wakkary, Marc Hassenzahl, Clara Mancini, Elisa Giaccardi, and Laura Forlano.
+2022. More-than-human Concepts, Methodologies, and Practices in HCI. In CHI
+118
+Agroecology as a Practice of Care supported by Blockchain and DAOs Mindtrek ’24, October 08–11, 2024, Tampere, Finland
+Conference on Human Factors in Computing Systems Extended Abstracts . ACM,
+New Orleans LA USA, 1–5. https://doi.org/10.1145/3491101.3516503
+[18] Paul Coulton and Joseph Galen Lindley. 2019. More-Than Human Centred
+Design: Considering Other Things. The Design Journal 22, 4 (July 2019), 463–481.
+https://doi.org/10.1080/14606925.2019.1614320
+[19] Jillian Crandall. 2023. Living on the block: How equitable is tokenized equity?
+Big Data & Society 10, 2 (2023), 20539517231208455.
+[20] Maria Puig de la Bellacasa. 2015. Making time for soil: Technoscientific futurity
+and the pace of care. Social Studies of Science 45, 5 (2015), 691–716. https://doi.
+org/10.1177/0306312715599851 arXiv:https://doi.org/10.1177/0306312715599851
+PMID: 26630817.
+[21] Olivia Doggett, Kelly Bronson, and Robert Soden. 2023. HCI Research on Agricul-
+ture: Competing Sociotechnical Imaginaries, Definitions, and Opportunities. In
+Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems .
+ACM, Hamburg Germany, 1–24. https://doi.org/10.1145/3544548.3581081
+[22] Hamid Ekbia and Bonnie Nardi. 2015. The political economy of computing:
+the elephant in the HCI room. Interactions 22, 6 (Oct. 2015), 46–49. https:
+//doi.org/10.1145/2832117
+[23] Feng Tian. 2016. An agri-food supply chain traceability system for China based
+on RFID & blockchain technology. In 2016 13th International Conference on Service
+Systems and Service Management (ICSSSM) . IEEE, Kunming, China, 1–6. https:
+//doi.org/10.1109/ICSSSM.2016.7538424
+[24] Marta Ferreira, Miguel Coelho, Valentina Nisi, and Nuno Jardim Nunes. 2021.
+Climate Change Communication in HCI: a Visual Analysis of the Past Decade.
+InProceedings of the 13th Conference on Creativity and Cognition (Virtual Event,
+Italy). Association for Computing Machinery, New York, NY, USA, Article 5,
+16 pages. https://doi.org/10.1145/3450741.3466774
+[25] Marta Ferreira, Nuno Nunes, and Valentina Nisi. 2021. Interacting with climate
+change: a survey of HCI and design projects and their use of transmedia story-
+telling. In International Conference on Interactive Digital Storytelling . Springer,
+338–348.
+[26] Marta Galvão Ferreira, Nuno Jardim Nunes, and Valentina Nisi. 2024. Towards
+Relatable Climate Change Data: Untangling Tensions in Engaging with a Hyper-
+object. In Proceedings of the 2024 ACM Designing Interactive Systems Conference
+(IT University of Copenhagen, Denmark) (DIS ’24) . Association for Computing
+Machinery, New York, NY, USA, 3029–3045. https://doi.org/10.1145/3643834.
+3661606
+[27] K. Friederichs, L.O. Howard, E.C.W. Martini, and H.B. Prell. 1930. Die grundfragen
+und gesetzmässigkeiten der land- und forst-wirtschaftlichen zoologie insbesondere
+der entomologie, unter mitwirkung: Wirtschaftlicher Teil . P. Parey. https://books.
+google.pt/books?id=9oQcAQAAMAAJ
+[28] Mara Gama. [n. d.]. Revolução dos Baldinhos vira destaque mundial em
+agroecologia. Folha de São Paulo ([n. d.]). https://www1.folha.uol.com.br/
+colunas/maragama/2019/01/revolucao-dos-baldinhos-vira-destaque-mundial-
+em-agroecologia.shtml
+[29] Salvador García-Ayllón. 2023. Correlation between Land Transformation and
+Climate Change with Flooding Vulnerability: Nature-Based Solutions (NBS)
+Applied in the Mar Menor Mediterranean Watershed. In The 7th International
+Electronic Conference on Water Sciences . MDPI, 88. https://doi.org/10.3390/ECWS-
+7-14240
+[30] Joshua C. Gellers. 2021. Earth system law and the legal status of non-humans
+in the Anthropocene. Earth System Governance 7 (March 2021), 100083. https:
+//doi.org/10.1016/j.esg.2020.100083
+[31] Elisa Giaccardi and Johan Redström. 2020. Technology and More-Than-Human
+Design. Design Issues 36, 4 (Sept. 2020), 33–44. https://doi.org/10.1162/desi_a_
+00612
+[32] S.R. Gliessman. 2007. Agroecology: The Ecology of Sustainable Food Systems . CRC
+Press. https://books.google.pt/books?id=1ofOdCFaP5IC
+[33] Manuel González de Molina, David Soto Fernández, Gloria Guzmán Casado,
+Juan Infante-Amate, Eduardo Aguilera Fernández, Jaime Vila Traver, and Roberto
+García Ruiz. 2020. Environmental Impacts of Spanish Agriculture’s Industrialization .
+Springer International Publishing, Cham, 153–179. https://doi.org/10.1007/978-
+3-030-20900-1_5
+[34] Donna Jeanne Haraway. 1991. Simians, cyborgs, and women: the reinvention of
+nature . Routledge, New York.
+[35] Donna Jeanne Haraway. 2008. When species meet . Number 3 in Posthumanities.
+University of Minnesota Press, Minneapolis. OCLC: ocn156975211.
+[36] Donna J. Haraway. 2016. Staying with the Trouble: Making Kin in the Chthulucene .
+Duke University Press. https://doi.org/10.1215/9780822373780
+[37] Sara Heitlinger, Lara Houston, Alex Taylor, and Ruth Catlow. 2021. Algorithmic
+Food Justice: Co-Designing More-than-Human Blockchain Futures for the Food
+Commons. In Proceedings of the 2021 CHI Conference on Human Factors in Com-
+puting Systems . ACM, Yokohama Japan, 1–17. https://doi.org/10.1145/3411764.
+3445655
+[38] Sebastián Hernandis, Fiz Da Costa, Ángel Hernández-Contreras, and Marina
+Albentosa. 2023. Hatchery seed production of flat oysters from the Mar Menor
+lagoon. Frontiers in Marine Science 10 (Sept. 2023), 1231686. https://doi.org/10.
+3389/fmars.2023.1231686[39] D. Holmgren. 2002. Permaculture: Principles & Pathways Beyond Sustainability .
+Holmgren Design Services. https://books.google.pt/books?id=g1ofAQAAIAAJ
+[40] Lara Houston, Sara Heitlinger, Ruth Catlow, and Alex Taylor. 2023. Algorithmic
+Food Justice . Bristol University Press. 379–396 pages. https://doi.org/10.46692/
+9781529239560.026
+[41] Pietro P. M. Iannetta, Mark Young, Johann Bachinger, Göran Bergkvist, Jordi
+Doltra, Rafael J. Lopez-Bellido, Michele Monti, Valentini A. Pappa, Moritz Reck-
+ling, Cairistiona F. E. Topp, Robin L. Walker, Robert M. Rees, Christine A. Watson,
+Euan K. James, Geoffrey R. Squire, and Graham S. Begg. 2016. A Comparative Ni-
+trogen Balance and Productivity Analysis of Legume and Non-legume Supported
+Cropping Systems: The Potential Role of Biological Nitrogen Fixation. Frontiers
+in Plant Science 7 (2016). https://doi.org/10.3389/fpls.2016.01700
+[42] Olivier Jutel. 2021. Blockchain imperialism in the Pacific. Big Data & Society 8, 1
+(2021), 2053951720985249.
+[43] Olivier Jutel. 2022. Blockchain humanitarianism and crypto-colonialism. Patterns
+3, 1 (2022).
+[44] Jorge L. Juárez, Jimmy D. Miller, Héctor Orozco, Edgar Solares, Peter Y. P. Tai,
+Jack C. Comstock, Barry Glaz, José L. Quemé De León, Werner Ovalle, Serge J.
+Edmé, Neil C. Glynn, and Christopher W. Deren. 2008. Registration of ‘CP
+88-1165’ Sugarcane. Journal of Plant Registrations 2, 2 (May 2008), 102–109.
+https://doi.org/10.3198/jpr2007.12.0670crc
+[45] Andreas Kamilaris, Agusti Fonts, and Francesc X. Prenafeta-Boldu. 2019. The
+rise of blockchain technology in agriculture and food supply chains. Trends in
+Food Science & Technology 91 (Sept. 2019), 640–652. https://doi.org/10.1016/j.tifs.
+2019.07.034
+[46] Karl H. W. Klages. 1928. Ecological Crop Geography . The Macmillan Company.
+[47] Helen Kopnina, Haydn Washington, Bron Taylor, and John J Piccolo. 2018. Anthro-
+pocentrism: More than Just a Misunderstood Problem. Journal of Agricultural and
+Environmental Ethics 31, 1 (Feb. 2018), 109–127. https://doi.org/10.1007/s10806-
+018-9711-1
+[48] Bruno Latour. 2018. Down to earth: politics in the new climatic regime (english
+edition ed.). Polity, Cambridge, UK ; Medford, MA.
+[49] Bruno Latour and Bruno Latour. 1994. We have never been modern (3. print. ed.).
+Harvard Univ. Press, Cambridge, Mass.
+[50] Bruno Latour and Catherine Porter. 2017. Facing Gaia: eight lectures on the new
+climatic regime . Polity, Cambridge, UK ; Medford, MA.
+[51] Krithika LB. 2022. Survey on the Applications of Blockchain in Agriculture.
+Agriculture 12, 9 (2022), 1333.
+[52] Jen Liu and Phoebe Sengers. 2021. Legibility and the legacy of racialized dis-
+possession in digital agriculture. Proceedings of the ACM on Human-Computer
+Interaction 5, CSCW2 (2021), 1–21.
+[53] Szu-Yu (Cyn) Liu, Shaowen Bardzell, and Jeffrey Bardzell. 2019. Symbiotic Encoun-
+ters: HCI and Sustainable Agriculture. In Proceedings of the 2019 CHI Conference
+on Human Factors in Computing Systems . ACM, Glasgow Scotland Uk, 1–13.
+https://doi.org/10.1145/3290605.3300547
+[54] Eleonora Mencarini, Christina Bremer, Chiara Leonardi, Jen Liu, Valentina Nisi,
+Nuno Jardim Nunes, and Robert Soden. 2023. HCI for Climate Change: Imagining
+Sustainable Futures. In Extended Abstracts of the 2023 CHI Conference on Human
+Factors in Computing Systems (Hamburg, Germany) (CHI EA ’23) . Association
+for Computing Machinery, New York, NY, USA, Article 352, 6 pages. https:
+//doi.org/10.1145/3544549.3573833
+[55] Eleonora Mencarini, Valentina Nisi, Christina Bremer, Chiara Leonardi,
+Nuno Jardim Nunes, Jen Liu, and Robert Soden. 2024. Imagining Sustainable
+Futures: Expanding the Discussion on Sustainable HCI. Interactions 31, 2 (feb
+2024), 39–43. https://doi.org/10.1145/3643493
+[56] Yoan Molinero-Gerbeau, Ana López-Sala, and Monica S,erban. 2021. On the
+Social Sustainability of Industrial Agriculture Dependent on Migrant Workers.
+Romanian Workers in Spain’s Seasonal Agriculture. Sustainability 13, 3 (Jan.
+2021), 1062. https://doi.org/10.3390/su13031062
+[57] Jason W. Moore. 2015. Capitalism in the web of life: ecology and the accumulation
+of capital . Verso, London.
+[58] Félix Navarro Buitrago. 2023. Biohacking Mar Menor y el Campo de Cartagena.
+Aurelian Biotech S.L. and ASAJA Murcia (2023).
+[59] Nuno Jardim Nunes. 2024. The Bauhaus of the Seas: A Manifesto for the New
+European Bauhaus. Design Issues 40, 2 (April 2024), 90–97. https://doi.org/10.
+1162/desi_a_00758
+[60] Wanda J Orlikowski. 2007. Sociomaterial practices: Exploring technology at
+work. Organization studies 28, 9 (2007), 1435–1448.
+[61] Youssef M. Ouled. 2021. Migrant Seasonal Workers in Spain: Between Violence,
+Exploitation, and Silence. The Funambulist (2021). Issue 11.
+[62] Ricardo Perez-Solero. 2020. Can Spain fix its worst ecological cri-
+sis by making a lagoon a legal person? The Guardian (2020).
+https://www.theguardian.com/environment/2020/nov/18/can-spain-fix-
+its-worst-ecological-disaster-by-making-a-lagoon-a-legal-person
+[63] Louis Rice. 2018. Nonhumans in participatory design. CoDesign 14, 3 (July 2018),
+238–257. https://doi.org/10.1080/15710882.2017.1316409
+119
+Mindtrek ’24, October 08–11, 2024, Tampere, Finland Inglezaki et al.
+[64] Hannah Ritchie. 2017. How many people does synthetic fertilizer feed? Our World
+in Data (2017). https://ourworldindata.org/how-many-people-does-synthetic-
+fertilizer-feed.
+[65] Marc Rocas-Royo. 2021. The Blockchain That Was Not: The Case of Four Coop-
+erative Agroecological Supermarkets. Frontiers in Blockchain 4 (2021), 624810.
+[66] T. Rodríguez-Estrella. 2012. The problems of overexploitation of aquifers in
+semi-arid areas: the Murcia Region and the Segura Basin (South-east Spain) case.
+https://doi.org/10.5194/hessd-9-5729-2012
+[67] T. Rodríguez-Estrella. 2012. The problems of overexploitation of aquifers in
+semi-arid areas: the Murcia Region and the Segura Basin (South-east Spain)
+case. Hydrology and Earth System Sciences Discussions 9 (05 2012), 5729–5756.
+https://doi.org/10.5194/hessd-9-5729-2012
+[68] Alessia Romani, Francesca Casnati, and Alessandro Ianniello. 2022. Codesign
+with more-than-humans: toward a meta co-design tool for human-non-human
+collaborations. European Journal of Futures Research 10, 1 (Dec. 2022), 17. https:
+//doi.org/10.1186/s40309-022-00205-7
+[69] Carlos Santana and Laura Albareda. 2022. Blockchain and the emergence of
+Decentralized Autonomous Organizations (DAOs): An integrative model and
+research agenda. Technological Forecasting and Social Change 182 (2022), 121806.
+[70] Sabrina Scuri, Marta Ferreira, Nuno Jardim Nunes, Valentina Nisi, and Cathy
+Mulligan. 2022. Hitting the Triple Bottom Line: Widening the HCI Approach to
+Sustainability. In CHI Conference on Human Factors in Computing Systems . ACM,
+New Orleans LA USA, 1–19. https://doi.org/10.1145/3491102.3517518
+[71] Michel Serres. 1995. The Natural Contract . University of Michigan Press, Ann
+Arbor, MI. https://doi.org/10.3998/mpub.9725
+[72] Hira Sheikh, Peta Mitchell, and Marcus Foth. 2023. More-than-human smart
+urban governance: A research agenda. Digital Geography and Society 4 (2023),
+100045.
+[73] Hira Sheikh, Peta Mitchell, and Marcus Foth. 2023. Reparative futures of smart
+urban governance: A speculative design approach for multispecies justice. Futures
+154 (Dec. 2023), 103266. https://doi.org/10.1016/j.futures.2023.103266
+[74] Tiago Silva, Valentina Nisi, and Nuno Jardim Nunes. 2023. Harnessing the power
+of transient Non-fungible Tokens in support of preserving natural landscapes
+as heritage in the face of climate change. In Proceedings of the 15th Biannual
+Conference of the Italian SIGCHI Chapter (Torino, Italy) (CHItaly ’23) . Association
+for Computing Machinery, New York, NY, USA, Article 19, 6 pages. https://doi.org/10.1145/3605390.3605392
+[75] Neil Smith. 2007. NATURE AS ACCUMULATION STRATEGY. Socialist Register
+(2007).
+[76] R. Grotjahn and B.A. Faber Snyder, R.L. 1987. Agricultural weather forecast needs
+in California. Applied Agric. Research 2, 5 (1987).
+[77] Isabelle Stengers. 2010. Cosmopolitics . Number 9-10 in Posthumanities. University
+of Minnesota Press, Minneapolis. OCLC: ocn591770291.
+[78] E. (Erik) Swyngedouw. 2015. Liquid power: water and contested modernities in
+Spain, 1898-2010 . The MIT Press, Cambridge, Massachusetts.
+[79] Nicholas B. Torretta, Mariana Pestana, Frederico Duarte, Cristiano Predroso-
+Roussado, Luisa Metelo Seixas, Valentina Nisi, and Nuno Jardim Nunes. 2024.
+Navigating Problematic Bauhaus Inheritances: Critiques, Implications, and Ques-
+tions from the Bauhaus of the Seas NEB Lighthouse. Design Issues 40, 3 (2024),
+105–117. https://doi.org/10.1162/desi_a_00770
+[80] Mischa Tripoli and Josef Schmidhuber. 2018. Emerging Opportunities for the
+Application of Blockchain in the Agri-food Industry . FAO and ICTSD.
+[81] Shuai Wang, Wenwen Ding, Juanjuan Li, Yong Yuan, Liwei Ouyang, and Fei-Yue
+Wang. 2019. Decentralized autonomous organizations: Concept, model, and
+applications. IEEE Transactions on Computational Social Systems 6, 5 (2019),
+870–878.
+[82] Kevin Werbach, Primavera De Filippi, Joshua Tan, and Gina Pieters. 2024.
+Blockchain Governance in the Wild. Cryptoeconomic Systems (2024).
+[83] A. Wezel, Stéphane Bellon, T. Doré, Charles Francis, Dominique Vallod, and
+Christophe David. 2009. Agroecology as a Science, a Movement and a Practice.
+http://dx.doi.org/10.1051/agro/2009004 29 (12 2009), 503–515. https://doi.org/10.
+1007/978-94-007-0394-0_3
+[84] John H. Wildin and David G. Chapman. 1987. Ponded pasture systems - capitalising
+on available water . Rockhampton, Qld. : Queensland, Dept. of Primary Industries.
+[85] Langdon Winner. 1980. Do Artifacts Have Politics? Daedalus 109, 1 (1980).
+[86] Sachin Yele and Ratnesh Litoriya. 2024. Blockchain-based secure dining: En-
+hancing safety, transparency, and traceability in food consumption environment.
+Blockchain: Research and Applications (2024), 100187.
+[87] Yang Yu, Tjeerd-Jan Stomph, David Makowski, Lizhen Zhang, and Wopke Van
+Der Werf. 2016. A meta-analysis of relative crop yields in cereal/legume mixtures
+suggests options for management. Field Crops Research 198 (Nov. 2016), 269–279.
+https://doi.org/10.1016/j.fcr.2016.08.001
+120

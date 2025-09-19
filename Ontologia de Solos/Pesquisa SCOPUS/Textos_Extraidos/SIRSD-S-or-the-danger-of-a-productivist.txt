@@ -1,0 +1,894 @@
+Revista de Geografía Norte Grande, 88: 1-23 (2024)  
+Artículos
+Recibido el 10 de mayo del 2023 / Aprobado el 14 de noviembre del 2023 / Publicado el 01 de agosto de 2024 ISSN 0718 3402
+El SIRSD-S o los riesgos de una 
+problematización productivista de los 
+suelos degradados
+SIRSD-S or the danger of a productivist problematization 
+of degraded soils
+Sebastián Ureta1 , Álvaro Oteagui2 y Miriam Llona3 
+RESUMEN
+Diversos estudios han mostrado un nivel de degradación alarmante de los suelos en Chi -
+le, pilar fundamental de la biodiversidad y la producción de alimentos. Este reconoci -
+miento ha llevado en las últimas décadas a implementar una gobernanza del suelo, a 
+través de la cual se pueda empezar a revertir esta situación. Adoptando un marco analí -
+tico de los estudios sociales de los suelos, este artículo analiza el principal instrumento 
+público generado con este fin, el “Sistema de Incentivos para la Recuperación de Suelos 
+Degradados” (SIRSD-S). A través del seguimiento a su historia e implementación en la 
+Región de Atacama, el artículo presenta al SIRSD-S como enmarcado en una problema -
+tización productivista. Desde este enfoque los suelos agrícolas tienden a ser entendidos 
+como una infraestructura inerte para la producción de alimentos y forraje, especialmente 
+bajo un modelo agroindustrial del monocultivo orientado a la exportación. Como resul -
+tado, el SIRSD-S tiende a dar primacía a planes de acción enfocados en la introducción 
+de enmiendas técnicas singulares enfocadas en mantener la productividad actual de los 
+suelos. Al dejar de lado cualquier reconocimiento a los suelos como parte de socio-eco -
+logías complejas, estas medidas no lidian realmente con las condiciones que llevaron a 
+la degradación de estos suelos. En las conclusiones vamos a explorar algunos cambios 
+en esta política que podrían ayudar a realmente lograr su objetivo inicial de reducir los 
+niveles de degradación de los suelos agrícolas en Chile.
+Palabras claves: suelos, degradación, problematización, productivismo, Chile.
+ABSTRACT
+Multiple studies have shown an alarming level of soil degradation in Chile, a fundamental 
+pillar of biodiversity and food production. This recognition has led in recent decades to 
+the implementation of soil governance programs, through which this situation can begin 
+to be reversed. Adopting an analytical framework from the social studies of soils, this 
+article analyzes the main public instrument generated for this purpose, the “Incentive 
+System for the Recovery of Degraded Soils” (SIRSD-S). By following its history and imple -
+mentation in the Atacama Region, the article presents SIRSD-S as framed within a pro -
+ductivism problematization. From this perspective, agricultural soils tend to be unders -
+tood mainly as an inert infrastructure for food and fodder production, especially under 
+a monoculture export-oriented agro-industrial model. As a result, SIRSD-S tends to give 
+1 Institución: College UC & Instituto para el Desarrollo Sustentable, Universidad Católica de Chile. Correo electrónico: sureta@uc.cl
+2 Institución: Departamento de Sociología, Universidad Alberto Hurtado. Correo electrónico: alvaro.otaegui@gmail.com
+3 Institución: ONG Suelo Sustentable. Correo electrónico: miriam.llona.carrasco@gmail.com
+2
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+primacy to action plans focused on the introduction of singular technical amendments 
+focused on maintaining the current productivity of soils. By neglecting any recognition 
+of soils as part of complex socio-ecologies, these measures do not really deal with the 
+conditions that led to the degradation of these soils. In the conclusions we are going to 
+explore some changes that could really help SIRSD-S to achieve its original object, to 
+reduce the degradation levels on Chilean agricultural soils.
+Keywords: soils, degradation, problematization, productivism, Chile.
+Introducción
+A mediados de octubre de 2017, al adentrarnos en la oficina regional del Servicio Agrícola 
+Ganadero (SAG) ubicada en la ciudad de Copiapó, tropezamos con una estantería que contenía 
+información sobre programas implementados por este servicio. Entre estos encontramos folletos 
+referidos al “Sistema de Incentivos para la Sustentabilidad de los Suelos Agropecuarios” (SIR -
+SD-S). Estos folletos indicaban que el objetivo del programa era recuperar el potencial producti -
+vo de suelos agropecuarios degradados y mantener los niveles de mejoramiento ya alcanzados, 
+mediante la implementación de planes de manejo sustentable de los predios beneficiarios. Junto 
+a estos párrafos explicativos, los folletos contenían imágenes de áridos paisajes, hombres sobre 
+tractores, vacas pastando, funcionarios estatales, verdes praderas y contemplativos agricultores 
+apreciando los suelos (imágenes 1 y 2). Aunque las verdes praderas y las vacas parecían fuera de 
+contexto dada la extrema aridez que rodea Copiapó, lo que en ese momento llamó nuestra aten -
+ción fue el título de estos folletos: “Devuélvale la mano a la tierra”, explícitamente invitando a los 
+agricultores a retribuirle al suelo algo que le estaban quitando.
+Figuras N° 1 y 2.  
+Portadas de folletos SIRSD-S.
+Fuente SAG, 2017.
+En el último siglo los procesos de industrialización, el aumento de la población, la expansión 
+del desarrollo urbano, la contaminación ambiental, la intensificación de la minería industrial y la 
+agroindustria –por nombrar sólo algunos– han incrementado de forma sustantiva las presiones 
+3
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+sobre los suelos mundiales (Lin 2014). Al menos desde el fenómeno de los dust bowls en Estados 
+Unidos en los 1930s existe bastante consenso entre los técnicos del área respecto a la gravedad 
+de los desbalances ecológicos que enfrentan los suelos (Baveye et al. 2011). Actualmente, este 
+tema se suele problematizar a través del concepto de la “degradación” de los suelos.
+Siguiendo la definición de la Food and Agriculture Organization (FAO) de las Naciones Uni -
+das, la degradación puede entenderse como “un cambio en la salud del suelo resultando en una 
+disminución de la capacidad del ecosistema para producir bienes o prestar servicios para sus 
+beneficiarios”4, tanto seres humanos como otros seres vivos. Existe bastante claridad entre los 
+expertos que esta degradación es causada por la interrelación de múltiples elementos como la 
+pérdida de nutrientes, salinización, acidificación, polución, compactación y degradación física, 
+entre otros (Lal 2001). El reporte de la FAO “Status of the World’s Soil Resources” (FAO 2015), el 
+primer análisis global del tema, afirma que la degradación es la principal amenaza que enfrentan 
+los suelos a nivel mundial, estimando que afecta a un cuarto de los suelos mundiales, concen -
+trándose especialmente en países en vías de desarrollo. Por esto sus efectos negativos tienden a 
+ser experimentados de manera preferente por las poblaciones de menores ingresos, sumándose 
+a una serie de otros problemas y acrecentando su desprotección, especialmente en zonas rurales 
+del sur global (Gambella et al. 2021).
+Desde los años 1970s, la conciencia de este problema ha llevado al desarrollo de múltiples 
+políticas y planes para lidiar con la degradación de suelos (Lal 2001), siendo su principal manifes -
+tación en Chile el SIRSD-S. Estas políticas han sido relativamente efectivas en lograr que diversos 
+suelos, siguiendo la definición de la FAO, hayan podido continuar “produciendo bienes … para sus 
+beneficiarios”, especialmente en términos de sostener una creciente producción agroindustrial. 
+Para un número creciente de autores y organizaciones, sin embargo, el énfasis en este “paradig -
+ma productivista” (De Schutter 2014) ha ido en desmedro de una preocupación real por el bienes -
+tar en el mediano y largo plazo de los suelos. La intensificación de la degradación de suelos pese 
+a décadas de medidas al respecto parece señalar que el problema no es solamente una falta  de 
+políticas respecto a los suelos degradados. Paradójicamente, este parece residir en las mismas 
+políticas que se han generado para lidiar con el tema, especialmente en las formas productivistas 
+en las cuales estas problematizan a los suelos degradados y sus potenciales soluciones.
+De manera de contribuir a un entendimiento más acabado de este problema la pregunta que 
+guía este artículo es qué es , precisamente, lo que se termina “devolviendo” a los suelos cuando 
+se los problematiza desde instrumentos como el SIRSD-S. Tomando un acercamiento desde los 
+nacientes estudios sociales sobre los suelos (para una introducción ver Salazar et al. 2020), en 
+particular nos interesa explorar de qué formas especificas este programa ha recreado el tema de 
+los suelos degradados en Chile y sus posibles soluciones, entendiendo que estas formas de pro -
+blematización tienen importantes repercusiones para el combate contra los efectos negativos del 
+actuar humano sobre los suelos. De manera de localizar este análisis, analizaremos en particular 
+la implementación del SIRSD-S durante 2017 y 2019 en la cuenca del Rio Copiapó, norte de Chile5.
+4 Fuente: https://www.fao.org/soils-portal/soil-degradation-restoration/es/  
+5 El trabajo de campo de esta investigación se realizó principalmente en la provincia de Copiapó, Chile, de manera intermitente, entre di -
+ciembre de 2017 y abril de 2019. En total, se realizaron cinco campañas de trabajo en Copiapó, cada una aproximadamente de 5 a 6 días de 
+duración. Durante este periodo se llevaron a cabo una serie de entrevistas en profundidad con actores relacionados al SIRSD-S. En particular, 
+se entrevistaron a (1) funcionarios públicos encargados de fiscalizar la aplicación de esta política en la Región de Atacama, (2) técnicos consul -
+4
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+El productivismo como problematización
+En su nivel más básico, el SIRSD-S corresponde a un instrumento de gobernanza del suelo. 
+Tal como lo entienden Juerges y Hansjürgen (2018, 1629), esta gobernanza puede ser definida 
+como “la suma de todas las instituciones formales e informales … que se refieren a los procesos 
+de toma de decisiones de actores estatales y no estatales relacionados con el suelo, en todos los 
+niveles de toma de decisiones”. Para un número sustantivo de autores (para un resumen ver Tironi 
+et al. 2020, 20) el principal énfasis detrás de buena parte de la gobernanza de los suelos contem -
+poránea es el paradigma productivista. Siguiendo la influyente conceptualización de Thompson 
+(1994, 67), el productivismo puede ser definido como “una visión para la cual la productividad 
+es el criterio necesario y suficiente para la evaluación ética de la agricultura”. Por productividad 
+de los suelos usualmente se entiende su capacidad de generar cultivos y sostener ganado que 
+puedan ser transados en el mercado, idealmente a nivel internacional. En términos más amplios, 
+el productivismo puede ser visto como la manifestación agraria de la creencia en la posibilidad 
+de un crecimiento eterno, sin frenos sociales o ecológicos (Naredo 1996). En países del sur global 
+como Chile, este paradigma es defendido como una forma de romper la dependencia externa y 
+generar un balance comercial positivo mediante la exportación de alimentos (Fouilleux, Bricas, y 
+Alpha 2017, 1672).
+Antes de materializarse en una amplia gama de medidas, el productivismo emerge como una 
+particular problematización  de los suelos como degradados. Basado en trabajos previos del autor 
+principal (Ureta 2015; 2022; Ossandón y Ureta 2019), y adoptando elementos de los estudios de 
+ciencia, tecnología y sociedad (CTS), la problematización será entendida simplemente como el 
+proceso mediante el cual “una anomalía es representada como materia de interés y acción públi -
+ca” (Ureta 2022, 40). Una anomalía responde más que nada a una situación que es evaluada como 
+errónea o maligna por algún grupo social, desde individuos a colectivos. Obviamente, el mundo 
+está lleno de situaciones consideradas anómalas por diferentes grupos, pero solo una fracción 
+de estas termina siendo objeto de una política pública. De modo de justificar esta intervención 
+– especialmente los costos monetarios y temporales, incluso emocionales, que implicará – la 
+problematización nunca tiene un fin solamente descriptivo, sino que también retórico, dado que 
+busca también convencer a múltiples audiencias. Asumiendo la forma de diferentes artefactos 
+de corte técnico, con frecuencia estas problematizaciones tienen una lógica dual: por un lado, 
+hacer un diagnóstico  respecto a una anomalía de urgente resolución por parte del Estado y, por 
+el otro, la elaboración de planes de acción  a través de los cuales se espera solucionarla. Ambos 
+mecanismos, ciertamente, pueden ser encontrados en la problematización productivista de los 
+suelos degradados.
+Ocupando el modelo retórico de la “crisis” (Hay 1999), el productivismo de los suelos como 
+problematización comienza desarrollando dramáticas narrativas sobre los graves problemas, in -
+tores encargados de implementar sus medidas en terreno y (3) agricultores beneficiarios del programa. Estas personas fueron seleccionadas 
+mediante la técnica “bola de nieve” buscando cubrir los diferentes perfiles de actores técnicos y beneficiarios que contemplaba el programa. 
+El principal criterio de selección fue que la persona estuviera participando en la campaña 2018 del programa. Además de las entrevistas, las 
+prácticas de recuperación, los predios agrícolas, y las oficinas gubernamentales fueron sujeto de observación, utilizando notas de campo y 
+fotografías. Se recopiló también información de fuentes secundarias (como folletos, evaluaciones sobre el programa, entre otros) los cuales 
+entregaron un marco que permitió ordenar la información cualitativa de mejor manera. Toda la información recopilada fue sistematizada en 
+torno a nodos temáticos claves, para posteriormente ser analizada.
+5
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+cluso el inminente colapso, de los suelos mundiales y sus devastadores efectos sobre la produc -
+ción de alimentos y el bienestar de la población. Al centro de esta crisis se ubica a la masiva “de -
+gradación” que están experimentando estos suelos. Pese a que “el entendimiento científico de la 
+degradación de suelo es aun altamente fragmentado” (Andersson, Brogaard, y Olsson 2011, 296), 
+se tiende a presentar a la ciencia como apoyando abiertamente estas narrativas catastrofistas, 
+con lo cual se busca dotar a los argumentos de un sustento técnico.
+Estos diagnósticos usualmente manifiestan un bajo nivel de reflexividad, especialmente en 
+relación con el carácter abiertamente productivista de los estándares que se utilizan para argu -
+mentar sobre el inminente colapso de los suelos debido a su degradación. Como señala Engel-Di 
+Mauro (2014, 61), “epistemológicamente... considerar que un suelo está degradado es presumir la 
+superioridad o inferioridad del suelo basándose en nociones de lo que constituye un uso óptimo”. 
+Un suelo está o no degradado en función de algo, de un estándar o línea de base con la cual se 
+lo compara (Ureta, Lekan, y Graf von Hardenberg 2020). En tiempos de agroindustrias enfocadas 
+en la exportación, esta línea de base se asume como equivalente a un suelo que permite la pro -
+ducción industrializada de cultivos y forraje. Todo se enfoca en aumentar de forma permanente 
+“este “rendimiento” [de los suelos] y en la gestión eficiente del presente para producirlo” (Puig 
+de la Bellacasa 2015, 700). Cualquier variación de este estándar – incluso, paradójicamente, en el 
+caso de suelos que se reserven para reintroducir flora nativa – bien puede considerarse como una 
+forma de degradación. En consecuencia, muchas veces los diagnósticos sobre la degradación ha -
+cen análisis simplistas, omitiendo diversos factores socio-ecológicos claves detrás del problema 
+(como procesos simbióticos con otras especies o los modelos de propiedad y manejo) y terminan 
+siendo usados como herramientas para censurar y/o descartar maneras tradicionales de usar los 
+suelos, como ha ocurrido en relación al tema de la desertificación en el sur global (Davis, 2018).
+A partir de estos diagnósticos, se proponen planes de acción usualmente enfocados única -
+mente en aumentar este rendimiento productivo. En la actualidad la versión más popular de estos 
+planes gira en torno al concepto de intensificación sustentable , entendido como “el llamado a 
+aumentar la producción de alimentos a partir de terrenos agrícolas existentes de forma que se 
+ejerza una presión mucho menor sobre el medio ambiente y no se socave nuestra capacidad de 
+seguir produciendo alimentos en el futuro” (Garnett et al. 2013, 33). Pese a su creciente populari -
+dad entre organismos internacionales y gobiernos, este concepto ha recibido numerosas críticas 
+(Constance y Moseley, 2018; Mahon et al., 2017; Rietveld, Groot, y van der Burg, 2021; Godfray, 
+2015; Janker, Mann, y Rist, 2018).
+Cuando es aplicado en países del sur global como Chile, la intensificación sustentable se 
+materializa usualmente como el intento de imponer a pequeños agricultores las prácticas y tec -
+nologías de la agricultura industrial occidental (Godfray 2015, 202). En términos concretos, estos 
+programas se traducen usualmente en la aplicación de agroquímicos al suelo, de manera de incre -
+mentar y/o mantener su productividad. Como resultado, “el suelo se convierte en un mero sustra -
+to para plantas seleccionadas que son alimentadas con fertilizantes artificiales sin tener en cuenta 
+los efectos ecológicos más amplios” (Müller 2021, 10). Por tanto, el objetivo final no es regenerar 
+los suelos, sino que “la producción de mejores condiciones para la mercantilización de los cul -
+tivos a través del trabajo metabólico-ecológico realizado por la biota del suelo” (Krzywoszynska 
+2020, 13). En términos sociales, estas intervenciones “contribuyen a socavar los sistemas agro -
+ecológicos campesinos diversificados, transformándolos en sistemas simplificados y orientados 
+6
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+a la exportación, despojando así a las comunidades campesinas de la capacidad de satisfacer sus 
+propias necesidades” (Vega-Leinert y Clausing 2016, 65). Como resultado, la implementación de 
+políticas basadas en la intensificación sustentable suele ser simplemente “una continuación de la 
+agricultura industrial bajo otro nombre” (Anderson y Rivera-Ferre 2021, 19).
+De manera de explorar las consecuencias concretas de estas lógicas, en el resto del artículo 
+analizaremos las problematizaciones que han acompañado la implementación del SIRSD-S y sus 
+efectos en el cuidado de suelos agrícolas en Chile. De manera de cubrir sus diferentes manifesta -
+ciones espaciales, estas problematizaciones serán estudiadas en tres escalas. En primer lugar, y 
+dado su carácter de política pública nacional, estas se referirán a los suelos agrícolas de todo el 
+país. Posteriormente, se pasará a analizar su existencia a escala regional, para finalmente llegar 
+al nivel micro de los sitios a ser intervenido. En cada una de estas escalas, el SIRSD-S realiza una 
+problematización de los suelos agrícolas como críticamente degradados y requiriendo de una 
+intensificación sustentable, la cual tiene importantes consecuencias para su conservación en el 
+largo plazo.
+Escala nacional: Ley del SIRSD-S
+El 25 de junio de 1996 marcó un hito en la historia económica de Sudamérica. A través del 
+Acuerdo de Complementación Económica (ACE), Argentina, Brasil, Chile, Paraguay y Uruguay 
+establecieron una amplia área de libre comercio, reduciendo o eliminando centenares de barreras 
+arancelarias. La apertura comercial de las importaciones de carnes, leche y grano desde otros 
+países produjo, sin embargo, impactos negativos a ciertos sectores de la industria agropecuaria 
+chilena, quienes se vieron desfavorecidos por la pérdida de competitividad que sufrieron sus pro -
+ductos (Domínguez, Errázuriz, y Muchnik 1996). Respondiendo a las demandas de compensación 
+de los grandes agricultores del sur de Chile, a finales de 1996 el Ministerio de Agricultura (MINA -
+GRI) implementó un instrumento denominado “Bonificación al Establecimiento y Mejoramiento 
+de Praderas en las regiones del Biobío, de la Araucanía y de Los Lagos”, el cual tenía por finalidad 
+el compensar monetariamente a los agricultores de estas regiones por la pérdida de ingresos 
+derivadas del ACE.
+Para evitar potenciales acusaciones por parte de otros países u organismos internacionales de 
+que estas medidas eran un subsidio a la producción, un año más tarde las autoridades deciden 
+darle a este instrumento un “matiz ambiental” (Grez 2010). Este nuevo foco partió haciendo una 
+problematización de los suelos del país como críticamente degradados, especialmente debido a 
+la escasa disponibilidad de fósforo y exceso de acidez debido a su origen volcánico. Esta primera 
+problematización permitió transformar lo que era, en la práctica, un subsidio en un programa espe -
+cífico de rehabilitación de suelos. De esta manera, el año 1997 el instrumento de bonificación pasó 
+a denominarse “Plan de Recuperación de la Productividad de los Suelos”, cuyo propósito era explí -
+citamente productivista, al buscar “apoyar la estrategia productiva de los agricultores, por la vía de 
+mejorar la competitividad de sus productos frente a los productos importados” (Grez, 2010, p. 6).
+En vista de la evaluación positiva de los resultados alcanzados por estos instrumentos –medi -
+dos a través de indicadores como la cobertura de hectáreas beneficiadas, aumentos de produc -
+ción y de ingresos para los beneficiarios – se propuso ampliar e institucionalizar legalmente estas 
+7
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+medidas de compensación. Como resultado en 1999 este programa adquiere un marco legal a 
+través de la Ley Nº 19.604, dando origen al “Sistema de Incentivos para la Recuperación de Suelos 
+Degradados” (SIRSD). Desde el discurso gubernamental, la nueva versión de este instrumento de 
+bonificación se constituye como “una de las herramientas más importantes para estimular y pro -
+veer el desarrollo de la pequeña agricultura campesina y la conservación de la productividad de 
+los suelos” (EMG 2002, 12). Con extensión nacional y ejecutado por el Servicio Agrícola Ganadero 
+(SAG) y el Instituto de Desarrollo Agropecuaria (INDAP), el SIRSD inicialmente tenía como propósi -
+to “recuperar la condición productiva de los suelos con degradación a fin de contribuir a que pro -
+ductores agrícolas adopten sistemas de producción sostenible en sus predios” (MINAGRI, 2009).
+Más allá de su cambio de nombre, el entendimiento productivista de los suelos y sus proble -
+mas se mantuvo inalterado en esta primera encarnación del programa. Esto fue evidente cuando 
+se hicieron las primeras evaluaciones sobre sus impactos y la potencial necesidad de continuar -
+lo. La primera de estas evaluaciones, encargada en 2001 por la Oficina de Estudios y Políticas 
+Agrarias (ODEPA) del MINAGRI a la consultora EMG (2002), da cuenta de tres problemas funda -
+mentales de esta política. En primer lugar, no existen datos precisos sobre la población potencial 
+y el objetivo del programa, es decir, productores y superficie. En segundo lugar, la cobertura 
+del programa es baja (menos del 30% de la superficie total), enfocándose en la mantención del 
+potencial productivo de suelos sin degradación o degradación leve. Así también, el mayor gasto 
+presupuestario se utiliza en lidiar con problemas pertinentes a las regiones del sur de Chile (como 
+son la mejora del fósforo o la enmienda de praderas), en desmedro de los suelos del resto del país. 
+Finalmente, aunque se registran algunos impactos significativos de recuperación de suelos, este 
+impacto positivo sólo se registra para los casos de pequeños agricultores. En líneas generales, los 
+consultores concluyen que “existe una ambivalencia general por dos visiones respecto al objetivo 
+del programa por un lado el objetivo explícito de detener o revertir procesos de degradación del 
+suelo y por otro el objetivo de compensar costos al sector agropecuario a raíz del ingreso al MER -
+COSUR” (EMG 2002, 10); imponiéndose el segundo objetivo por sobre el primero.
+Pese a que algunos de estos problemas trataron de ser corregidos cuando el SIRSD se trans -
+formó en un programa público en 1999, una segunda evaluación de sus primeros 10 años de 
+funcionamiento encargada también por el MINAGRI en 2009 (Gaymer et al. 2009), es también 
+abiertamente crítica de sus efectos ambientales. En primer lugar, este estudio critica “la aplica -
+bilidad del concepto de “recuperación” a suelos que no han perdido una condición original, sino 
+son de por sí limitados en algún aspecto, como el contenido de fósforo aprovechable o el grado 
+de acidez” (p. 10). Derivada de esta ambigüedad conceptual, el estudio cuestiona “el impacto real 
+de las intervenciones” (p. 12), señalando que muchas de las mejoras señaladas en los informes 
+técnicos probablemente habrían ocurrido igual sin el programa. Como resultado, la gran mayoría 
+de las intervenciones se basan en “componentes que mejoran, en muchos casos puntual y no 
+permanentemente, suelos originariamente limitados, más que incentivar la preservación y recu -
+peración de los suelos que han experimentado degradación” (p. 11). En paralelo, tampoco existiría 
+“evidencia de un cambio en el grado de conciencia de los agricultores sobre problemas ambien -
+tales y de suelos” (p. 114). Como resultado se concluye que el programa no había realmente con -
+tribuido a “recuperan los suelos degradados… [sino que operaba en la práctica como] una forma 
+de subsidio destinado a bajar los costos de producción de los agricultores” (p. 11), por lo cual “no 
+posee justificación técnica que valide su continuidad” (p. 13).
+8
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+Ignorando estas evaluaciones abiertamente críticas, durante el año 2009 las autoridades bus -
+caron prolongar la vida útil del SIRSD6. Como devela el análisis de la historia de la ley correspon -
+diente (HDL Nº20.412, 2009), este proceso partió por asumir a la degradación de suelos como un 
+hecho. En las decenas de horas que se dedica a discutir el proyecto de ley en el congreso nacio -
+nal, nunca se presenta una real evaluación de la gravedad o extensión del problema en Chile, con 
+datos o alguna otra forma de prueba de corte técnico. Por el contrario, se usan argumentaciones 
+de corte emocional para presentar el problema, como el diputado José Pérez quien hablara del 
+“dolor como se deterioran nuestros suelos, cómo avanzan los desiertos y cómo se erosionan 
+algunos suelos por malos manejos” (HDL Nº20.412, 2009, p.228). Las características y alcances 
+concretos del problema, por tanto, devienen en un hecho indiscutible (en el sentido textual del 
+término, que no merece ser discutido). Dado este carácter, se termina afirmando simplemente 
+que “es esencial establecer prácticas e incentivos y otorgar determinados beneficios económicos 
+en aras de preservar el recurso suelo” (p. 245) por medio de una infraestructura legal.
+En paralelo, se argumenta que la primera versión del programa fue “muy exitoso en la recupe -
+ración de suelos degradados” (HDL Nº20.412, 2009, p.217). Desoyendo completamente las evalua -
+ciones críticas, se usan una serie de indicadores cuantitativos específicos para presentar al SIRSD 
+como una solución satisfactoria al problema de la degradación y su impacto en la productividad. 
+Una buena parte de los legisladores comenzaba sus intervenciones recalcando cuantificaciones 
+como la valoración positiva de los agricultores, la cantidad de hectáreas beneficiadas y los mi -
+llones de pesos gastados en intervenciones, en desmedro de argumentaciones más sustantivas 
+sobre el impacto de la política en términos de la recuperación de los suelos, como los planteados 
+por los estudios ya mencionados. Ocupando una estrategia usual en la evaluación de políticas 
+agrícolas, este enfático proclamar del éxito del programa funcionó como “una forma de prote -
+gerlo de un escrutinio y evaluación critica normal” (Sumberg, Thompson, y Woodhouse 2013, 83).
+En términos de su plan de acción, y pese que se reconoce que “no todos los suelos en Chile 
+son iguales” (HDL Nº20.412, 2009, p.63), se identifican solamente seis tipos de medidas cuya apli -
+cación puede ser bonificada por el programa:
+· Incorporación de fertilizantes de base fosforada.
+· Incorporación de elementos químicos esenciales.
+· Establecimiento de una cubierta vegetal en suelos descubiertos o con cobertura deterio -
+rada.
+· Empleo de métodos de intervención del suelo, entre otros la rotación de cultivos, orienta -
+dos a evitar su pérdida y erosión y a favorecer su conservación.
+· Eliminación, limpieza o confinamiento de impedimentos físicos o químicos.
+Como se puede observar, sólo cuatro de los componentes abordan directamente la degra -
+dación de los suelos, mientras que los componentes “fertilización fosfatada” y “enmienda calcá -
+rea” son instrumentos de fomento productivo que apuntan, en general, a compensar limitaciones 
+productivas naturales de los suelos del sur de Chile (aunque no los del norte, como veremos en 
+relación con el valle del rio Copiapó).
+6 Las razones de fondo sobre este interés por mantener el SIRSD nunca son explicitadas, aunque uno podría especular que este subsidio oculto 
+ya había sido normalizado por los agricultores y, especialmente, sus asociaciones gremiales.
+9
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+Varias de estas medidas pueden resultar, incluso, en un detrimento del bienestar de los sue -
+los en el mediano y largo plazo. Por ejemplo, los fertilizantes fosfatados contienen elementos 
+contaminantes como metales pesados (Bonomelli, Bonilla, y Valenzuela 2003; Martí, Burba, y Ca -
+vagnaro, 2002), los cuales pueden provocar deterioros sustantivos en las condiciones químicas 
+y biológicas del suelo. Por otra parte, incorporar en exceso fertilizantes nitrogenados y fosfata -
+dos en el mediano plazo puede intensificar procesos de eutrofización de aguas subterráneas 
+y superficiales (o su excesivo enriquecimiento con nutrientes). En términos más sistémicos, el 
+proponer medidas individuales y diferenciadas olvida que los suelos son sistemas de relaciones, 
+ecosistemas complejos en cuya generación múltiples entidades –químicas y biológicas, incluso 
+sociales– participan activamente. Problemas como la degradación de suelos, por tanto, también 
+son multicausales e imposibles de ser realmente enfrentados con enmiendas singulares como 
+las propuestas. Es decir, si bien algunas de estas medidas pueden ser efectivas para mantener la 
+productividad de los suelos en relación con aspectos específicos en el corto plazo, es altamente 
+probable que en el mediano y largo plazo redunden en efectos negativos para los ecosistemas de 
+los cuales estos suelos dependen y sustentan.
+Finalmente, en abril de 2010 se promulga la Ley Nº20.412 extendiendo el programa por otros 
+12 años bajo el nombre “Sistema de Incentivos para la Sustentabilidad Agroambiental de los Sue -
+los Agropecuarios” (SIRSD-S). Al igual que en su encarnación anterior, la recuperación y man -
+tención del “potencial productivo” de los suelos continuaría siendo el núcleo del programa. Esto 
+es evidente en tanto se define como sustentabilidad  la “capacidad de los suelos para mantener 
+sus condiciones físico químicas fundamentales, necesarias para sostener los procesos de pro -
+ducción agropecuaria”. Si los suelos no son capaces de sostener esta producción agropecuaria 
+convencional, por tanto, se entiende que están experimentando degradación y requiriendo ser 
+intervenidos. El fin último de esta intervención, no es necesariamente el bienestar de los suelos 
+sino solamente llevarlos “al nivel mínimo técnico para enfrentar adecuada y sosteniblemente el 
+proceso productivo”. Cualquier desvío del productivismo – incluso en el caso de suelos que se 
+dejaran en barbecho o que se usaran para proyectos de reforestación de flora nativa – bien podía 
+ser entendido como requiriendo acciones correctivas.
+Escala regional: el SIRSD-S en Atacama
+Una vez que el SIRSD-S es promulgado, viene el proceso de empezar a aplicarlo a nivel regio -
+nal. Como ya vimos, en sus primeras encarnaciones este programa estaba pensado exclusiva -
+mente para regiones del sur de Chile, pero en el proceso de convertirse en ley fue ampliado para 
+incluir a todo el país. El principal sustento de esta ampliación era el supuesto básico de que la 
+degradación de suelos tenía cobertura nacional. Este supuesto estaba apoyado por diversos estu -
+dios (Universidad de Chile 2012; OCDE-CEPAL 2016), los cuales hablaban de la degradación como 
+un problema que cruza toda la extensión del país. Sin embargo, hay un elemento clave en estos 
+estudios que esta problematización no considera: el hecho de que la degradación tiene múltiples 
+manifestaciones en las diferentes regiones del país, debido a la amplia diversidad de sus suelos 
+(Casanova et al. 2013).
+Al realizar un acercamiento a zonas agrícolas como la cuenca del Rio Copiapó el entendimien -
+to universal y homogéneo de la degradación detrás del SIRSD-S aparece como cuestionable. La 
+10
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+cuenca del río Copiapó es un estrecho valle situado en la Región de Atacama, unos 800 km al 
+norte de Santiago. Como su nombre indica, esta región se encuentra en el borde mismo del de -
+sierto de Atacama, que suele describirse como el lugar más seco del planeta (Bull et al. 2016). En 
+consecuencia, los suelos agrícolas de este valle son entidades altamente frágiles, siempre cerca 
+de absorbidas por el desierto que las rodea (CIREN 2007). Este valle es especialmente interesante 
+para estudiar la efectividad de un instrumento como el SIRSD-S dado que es una de las zonas más 
+expuestas a una de las causas principales de la degradación de suelos a nivel mundial y en Chile: 
+la desertificación. En un contexto nacional ampliamente amenazado por crecientes niveles de 
+desertificación producto del cambio climático (INAP 2016), este valle bien puede ser visto como 
+un ejemplo de la agricultura por venir en el país.
+Estos antecedentes fueron ocupados para argumentar sobre la necesidad del SIRSD-S en la 
+región. Un ejemplo de esto es el contenido de una presentación hecha por una funcionaria del 
+SAG Atacama en mayo de 2018. Enfocada en promocionar el programa entre potenciales benefi -
+ciarios de la región, esta presentación partía planteando una serie de “antecedentes” que hacían 
+necesaria la aplicación de esta política (figura 3). Ocupando datos de un estudio realizado por 
+CIREN (2010), se nos ofrece una dramática imagen de los suelos regionales como ampliamente 
+erosionados, especialmente en las comunas que forman el valle del rio Copiapó (Copiapó y Tierra 
+Amarilla).
+Figura N°3.  
+Presentación de charla sobre SIRSD-S en Atacama
+Fuente: https://casub.s3.amazonaws.com/media/documentos/Charla_SIRSD-S.pdf
+El uso de estos datos para argumentar sobre la necesidad del SIRSD-S en la región, sin embar -
+go, es engañoso. Según la FAO, la erosión del suelo es claramente diferente de la degradación, 
+refiriéndose a “las pérdidas absolutas de suelo de la capa superficial y nutrientes del suelo”7. Es 
+decir, la erosión se centra directamente en el suelo – no en los ecosistemas en los cuales estos 
+participan (incluidos los cultivos agrícolas) – y con frecuencia no tiene necesariamente un com -
+7 Ver https://www.fao.org/soils-portal/soil-degradation-restoration/es/
+11
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+ponente antropogénico. Como la bien conocida controversia sobre el concepto de desertifica -
+ción lo ha demostrado (Reynolds y Stafford, 2002), con frecuencia puede pasar que fenómenos 
+de erosión que se pensaban como causados por seres humanos en la práctica responden más 
+a cambios generalizados en las condiciones ambientales8. Entonces, bien puede pasar que los 
+suelos de la Región de Atacama estén ampliamente erosionados, pero eso puede no tener mucho 
+que ver con las acciones de actores locales, especialmente los agricultores. De hecho, un análisis 
+de la información existente sobre los efectos de la acción humana sobre los suelos agrícolas de 
+este valle revela una situación directamente opuesta.
+Como exploramos en una publicación anterior (Ureta y Otaegui 2021), poco hay de natural 
+en los suelos agrícolas de este valle. A diferencia de otras zonas hacia el norte, el valle del rio 
+Copiapó posee una regular disponibilidad de agua de deshielo, tanto a nivel superficial como sub -
+terráneo. Esta disponibilidad de agua ha permitido el desarrollo de la agricultura desde tiempos 
+precolombinos (como también una intensa actividad minera), tradicionalmente a pequeña escala 
+y enfocada principalmente en una producción diversificada para el consumo local (Niemeyer, 
+Cervellino, y Castillo, 1998). Desde finales de los años 1970s este sector ha experimentado un 
+masivo boom agrícola, especialmente relacionado con la producción industrial de uva de mesa 
+para la exportación (Utrilla y Veliz, 2010). Este boom se deriva del hecho de que esta uva llega a 
+mercados internacionales (especialmente a los Estados Unidos) en una época de alta demanda y 
+poca competencia, lo cual la hace alcanzar altos precios. Esta alto valor ha gatillado el desarrollo 
+explosivo de una agricultura industrial de monocultivo, altamente tecnificada y de gran escala en 
+el valle en las últimas décadas, correspondiendo hoy el 82,5% de su producción a uva de mesa 
+para exportación (ODEPA y CIREN, 2018).
+Como señala Luzio (2010, p. 59) desde un punto de vista pedológico, los suelos naturales de 
+esta zona presentan una “escasa evolución pedogénica, … [con] una estructura débil [y] … abun -
+dante pedregosidad en superficie y en el perfil”. En términos químicos, estos suelos “presentan 
+alta salinidad, pH básico, CE alta, presencia de boro, sodio y cloro, entre otros” (Castro et al. 2009, 
+88). La salinidad de estos suelos es especialmente problemática en términos agrícolas, con una 
+mayoría de los suelos presentando “contenidos salinos considerados muy altos, mayores de 8,0 
+dS/m, lo que implicaría una disminución de rendimiento de la mayoría de los cultivos.” (Sierra, 
+Cespedes, y Osorio 2001, p. 8). Es decir, naturalmente son suelos extremadamente frágiles, pe -
+dregosos y salinos, en su mayoría no aptos para una actividad agrícola incluso de subsistencia, 
+menos aún un monocultivo industrial intensivo como el que se da en la actualidad.
+Antes de realizar cualquier forma de actividad agrícola estos suelos tienen que ser interveni -
+dos de maneras sustantivas, incluso (re)creados por completo. Este proceso, en primer lugar, con -
+siste en la introducción de tecnologías y prácticas que buscan transformar la estructura química y 
+composición biológica de los frágiles suelos disponibles, buscando reducir la salinidad y aumen -
+tar las concentraciones de materia orgánica y macronutrientes. Además de una transformación 
+de los suelos preexistentes, este proceso conlleva la creación de suelos completamente nuevos, 
+especialmente en las laderas de las colinas circundantes (Castro et al. 2009). Esta extensión hacia 
+8 Obviamente, este cambio en las condiciones ambientales generales usualmente tiene un componente antropogénico – como el cambio 
+climático – pero estas no pueden atribuirse solamente acciones de actores locales, como si ocurre con buena parte de los fenómenos de 
+degradación. 
+12
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+zonas sin presencia previa de suelos aptos para la agricultura “ha sido un mecanismo habitual de 
+ampliación de superficie de las grandes explotaciones [en el valle]” (Utrilla y Veliz 2010, p. 75). 
+Como resultado de estas prácticas los suelos agrícolas del valle crecieron sustantivamente en 
+las últimas décadas, pasando de 7.000 hectáreas en 1990 a más de 15.000 en 2015 (Rinaudo y 
+Donoso 2019, p. 5).
+Este masivo proceso de transformación antropogénica pone en duda la problematización de 
+que los suelos del valle del Rio Copiapó estén siendo afectados por un proceso de degradación  
+masiva. Por el contrario, la actividad humana ha agregado  nuevos suelos agrícolas a los ecosiste -
+mas del valle. Sin duda estos nuevos suelos presentan múltiples problemas, como la infiltración 
+de la salinidad (Castro et al., 2009, p. 89), una importante afectación de la flora y fauna nativa 
+(Jorquera-Jaramillo, 2008) y un “aumento de la vulnerabilidad de la cuenca ante precipitaciones 
+concentradas” (Castro et al. 2009, p. 98)9. Estos problemas, sin embargo, no corresponden ne -
+cesariamente a aquellos asociados a la degradación de los suelos sobre los que originalmente 
+buscaba actuar el SIRSD-S.
+Escala local: los planes de manejo
+Finalmente, a escala local el SIRSD-S realiza una problematización enfocada en los predios de 
+propiedad individual que postulan a ser beneficiarios de esta política. Esta se realiza a través de 
+un instrumento conocido como plan de manejo, el cual es definido en la ley del SIRSD-S como una 
+“descripción pormenorizada de las actividades mediante las cuales el productor se compromete 
+a conseguir los objetivos de elevar la condición actual del suelo, asegurando su sustentabilidad 
+medioambiental”. En la orgánica del SIRSD-S, la elaboración del plan de manejo funciona como lo 
+que Callon (1986) llama un “punto de paso obligatorio”, es decir una etapa crítica e ineludible para 
+cualquier implementación concreta de la política. Una vez aprobado, este sirve como guía de las 
+acciones a realizar y que condicionan la bonificación.
+Como se describe en el instructivo oficial, el plan de manejo consta de una serie de secciones 
+prefijadas, las cuales tienen que estar completas para que sea aceptado como válido. De manera 
+de explorar en profundidad estas secciones a continuación analizaremos un plan de manejo ela -
+borado en 2019 por el agrónomo Félix Meza10 para una empresa agrícola propietaria de un predio 
+de más de 100 hectáreas, localizada en la sección alta del valle de Rio Copiapó. Esta empresa bus -
+caba usar la bonificación para remediar una parcela de 2 hectáreas en la cual se pensaba plantar 
+parrones de uva de mesa para exportación. Al igual que otros mecanismos de problematización, 
+este plan de manejo parte haciendo un diagnóstico del estado de degradación de los suelos del 
+predio bajo consideración, para después pasar a proponer un plan de acción para reducirlo.
+El diagnostico parte afirmando que el suelo debe ser considerado como un “recurso no re -
+novable para la producción agrícola” (p. 2), cuyo mantenimiento y mejora continua es de “vital 
+importancia para seguir teniendo producciones sostenibles de uva de mesa a lo largo del tiempo” 
+9 Como ocurrió recientemente en los aluviones de marzo de 2015 y mayo de 2017.
+10 Todos los nombres de las personas entrevistadas y las empresas mencionadas en este estudio han sido cambiados por seudónimos para 
+mantener su anonimato. 
+13
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+(p.2). Posteriormente se pasa a describir las características y problemas de los suelos cuya inter -
+vención espera ser financiada por el SIRSD-S. Esta descripción se basa en visitas previas de Meza 
+al predio de manera de obtener información de primera mano sobre este. Un componente central 
+de esta visita fue la realización de una calicata, o una excavación de alrededor de 1.5 metros de 
+profundidad que permitió develar los horizontes11 de los suelos locales. A través de la calicata los 
+suelos se abren, literalmente, al “mirar profesional” (Goodwin,1994) del agrónomo, quien la utiliza 
+para realizar una descripción de suelos a “nivel pedogénico, de terreno y topo-geográfico” (p. 4), 
+buscando identificar con ello su composición y evolución. Rompiendo con su clausura e interco -
+nexión, la calicata hace aparecer al suelo como una entidad claramente diferenciable en horizon -
+tes, los cuales pueden ser intervenidos de maneras singulares para lograr los efectos deseados.
+En los planes de manejo la información entregada por la calicata busca cumplir una doble fun -
+ción. No solamente tiene que presentar a los suelos como degradados, sino que también como re -
+cuperables a través de las enmiendas reconocidas por el SIRSD-S. La información e imágenes in -
+sertadas en este diagnóstico deben describir equilibradamente no sólo suelos en problemas, sino 
+también posibilitados de ser recuperados. Como nos señalara una funcionara del SAG regional al 
+respecto, usualmente ellos tendían a rechazar planes de manejo que incluían “…un suelo que no 
+es suelo, … suelos que no tienen características adecuadas para ser postulados ”. Desde el punto 
+de vista del programa, los únicos “suelos que son suelos” son aquellos que pueden ser devueltos a 
+su función productiva, y esto tiene que quedar claro en la presentación de los predios candidatos.
+Para representar un “suelo que sea suelo”, es decir, que tenga las características “adecuadas” 
+para ser restaurado, operadores como Meza deben orientar la descripción mediante una tabla re -
+sumen estandarizada. En esta tabla, la información recogida a través de la calicata es organizada 
+en torno a cuatro horizontes del suelo, desde el más superficial (de 0 a 9 centímetros de profun -
+didad) al más profundo (de 57 a 110 centímetros). Para cada uno de estos se presenta una serie de 
+indicadores, como la estructura, la presencia de raíces, o su nivel de fragmentación, a los cuales 
+se adjunta valores, códigos o descripciones someras. Siguiendo con el mandato de presentar a 
+este predio como poseyendo un “suelo que sea suelo”, estos valores y descripciones presentan a 
+los suelos como compuestos frágiles, pero perfectamente capaces de sustentar actividad agríco -
+la y, por tanto, receptivos a una posible intervención como la propuesta por el SIRSD-S. La omisión 
+de algunas características clave de los suelos – como los niveles de nitrógeno, fósforo y potasio 
+(N-P-K), materia orgánica (MO), o la conductividad eléctrica (CE) – ayuda a simplificar de manera 
+sustantiva la descripción, dando centralidad a aspectos que pueden ser directamente afectados 
+por la potencial intervención.
+A través de este ejercicio, el plan de manejo termina problematizando a estos suelos como 
+ciertamente degradados, pero con un relevante potencial productivo, solo necesitando un pe -
+queño empujón para materializarlo. Como se concluye,
+Los suelos poseen una baja capacidad de entrega de elementos químicos nutritivos para 
+las plantas (nitrógeno y otros macro y micro elementos) debido a que poseen texturas 
+11 Derivado de desarrollos conceptuales de las ciencias del suelo, cada “horizonte” corresponde a una capa de suelo horizontal a la superficie 
+que presenta características físicas y biológicas relativamente homogéneas. Por lo general, se distinguen entre tres y cinco horizontes en la 
+mayoría de los suelos. 
+14
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+gruesas y clases texturales arenosas combinadas con un elevado porcentaje de clastos 
+en el horizonte (piedras que no acumulan agua ni nutrientes ni materia orgánica). De esta 
+forma tampoco acumulan agua y su resistencia a ser erosionados es muy baja. Son suelos 
+muy fáciles de erodar y volátiles para ser trabajados como superficie agrícola, por lo que 
+es ideal aplicaciones de materia orgánica en altas dosis que ayuden a la formación pedo -
+génica de suelos, fuertemente desde un inicio de la plantación, que ayuden a estabilizar 
+los horizontes superficiales y que desencadenen procesos físicos de mayor acumulación 
+de agua y procesos químicos de mayor disponibilidad de nutrientes para las plantas (p. 3).
+Esta descripción calza con los estudios pedológicos hechos con anterioridad en la región 
+(CIREN, 2010), como vimos en la sección anterior. Sin embargo, en vez de aceptar que esta es 
+la realidad de los suelos locales, se propone como fin de la intervención el “reponer la fertilidad 
+natural del suelo” (p. 4), asumiendo la existencia de una fertilidad “ natural ” que análisis científicos 
+de la zona ponen en entredicho.
+A partir de este diagnóstico, el documento pasa a proponer un plan de acción para lidiar con 
+la problemática identificada. La selección de estas potenciales soluciones no se deriva solamente 
+de la naturaleza de los problemas del suelo descritos. En paralelo, hay dos factores claves que 
+operadores como Meza tienen que considerar. En primer lugar, como vimos, la ley del SIRSD-S 
+establece un número limitado de acciones que se pueden implementar. La gran mayoría de estas 
+están enfocadas en mejorar en potencial productivo inmediato de los suelos, incluso si este pro -
+ceso puede terminar provocando daños al suelo en el mediano y largo plazo. En segundo lugar, se 
+encuentra un documento llamado “Tabla de Costos del SIRSD-S”. Publicada una vez al año, esta 
+tabla establece los procedimientos que se van a financiar en cada región del país y los precios 
+máximos a financiar para cada uno de estos. Más allá de consideraciones particulares, esta tabla 
+define los límites de lo posible en cada aplicación concreta de esta política. Como nos mencionó 
+Meza, la tabla de costos aparece para ellos como “ una camisa de fuerza ”, limitando severamente 
+su capacidad de acción12.
+En el caso del plan de manejo bajo análisis, la Tabla de Costos que se aplicó fue la correspon -
+diente al año 2015 (figura N° 4). El efecto de esta tabla sobre el plan de manejo es evidente. Por un 
+lado, hay diversos procedimientos que no pueden ser seleccionados. Por ejemplo, la cero labran -
+za de suelos – proceso que ha sido identificado como benéfico para el bienestar de los suelos en 
+la zona (Sierra y Olivares 2010) – no tiene precio, por lo cual queda excluida de las medidas posi -
+bles de implementar. Por el otro lado, las diferentes bonificaciones generan incentivos a escoger 
+ciertos procesos, con independencia de los efectos que estos pudieran tener en la degradación 
+de los suelos. Como reconoce Meza en el plan de manejo, muchos procedimientos idealmente 
+deseables terminan siendo “ muy restrictivos en cuanto a costos ” (p. 5).
+12 En teoría, los operadores del SIRSD-S pueden proponer al SAG nuevos procedimientos a ser financiados, servicio que podría evaluar la po -
+sibilidad de introducir la práctica en la tabla de costos, especialmente si está siendo usada en otra zona agroecológica se corre con mayor 
+ventaja de incluirla porque “ ya está estudiada ”, como nos comentaba un operador. Sin embargo, en la práctica esto raramente ocurre.
+15
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+Figura N°4.  
+Tabla de Costos SIRSD-S 2015 (detalle).
+Fuente Diario Oficial, 17 de junio de 2015.
+Tomando en consideración ambas limitantes, el plan de manejo argumenta que la recupera -
+ción del de los suelos postulados será materializada principalmente a través de la aplicación de 
+guano “semi-seco agrícola y no avícola” (p. 2), sin especificar la procedencia (purines de porcino, 
+bovino, caprino, etc.) o el tipo de estabilización (aeróbica o anaeróbica)13. Para justificar esta elec -
+ción se argumenta que este guano provocará beneficios en “la acumulación de agua, la nutrición 
+vegetal de las plantas y la resiliencia de los suelos frente a eventos erosivos” (Ibid.)14. Además, se 
+reconoce que esta solución “es la materia orgánica que posee la relación costo/beneficio/calidad 
+más ventajosa de todas” (p. 3). Mientas que por cada tonelada de este guano aplicada se reci -
+ben $38.000, procedimientos similares como el guano aviar ($23.000 por tonelada) o compost 
+($37.200 por metro cúbico) se bonifican menos.
+Finalmente, para calcular la cantidad de guano a aplicar por hectárea se utiliza otro documento 
+con valores estándares tabulados por el SAG para huertos de uva de mesa. Estos valores han sido 
+calculados en función de la demanda de nitrógeno de parronales para la producción industrial 
+de uva, por tanto, estos cultivos devienen en la línea de base para fijar las necesidades del suelo. 
+Como se indica en el plan de manejo, lo que se busca es que la “demanda del huerto [… sea] supli -
+da en su mayoría por nitrógeno aplicado en forma de fertilizantes salinos, a lo largo de la tempora -
+13 La ambigüedad respecto a estas características específicas de los guanos que se busca aplicar implica que no se puede calcular realmente 
+su mineralización (Pinochet, Cárdenas, y Carrasco 2017).
+14 En términos del bienestar del suelo, tampoco se menciona la existencia de estudios que han demostrado que el uso excesivo de guano como 
+fertilizante puede terminar contaminando el suelo en el mediano plazo (Posmanik et al. 2011; Qin et al. 2020).
+16
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+da” (p. 4). Finalmente, para distribuir este guano se plantea pasar maquinaria pesada abriendo una 
+zanja de 25 centímetros en el suelo todo a lo largo de cada una de las futuras hileras de parronales.
+En el proceso de presentar esta medida como la adecuada, no solamente se describen sus 
+detalles e impactos esperados. En paralelo la plausibilidad de este plan de acción se basa en la 
+exclusión estratégica de los potenciales efectos negativos sobre el bienestar del suelo que podría 
+tener esta medida, varios de ellos bien documentados en la literatura. No se menciona, por ejem -
+plo, que una alta concentración de nitrógeno podría causar contaminación en los suelos y aguas 
+subterráneas. Tampoco se clarifican los procesos fisiológicos de los cultivos esperados, dado que 
+los requerimientos nutricionales son diferentes dependiendo de cada etapa (crecimiento, flora -
+ción, cosecha) ya que lo que no consume la planta queda en el suelo y es propicio a la lixiviación. 
+En paralelo, y pese a que uno de los objetivos del SIRSD-S es fomentar el desarrollo de prácticas 
+sustentables entre los agricultores, el plan no hace ninguna mención sobre posibles medidas 
+de manejo sustentables que se podrían implementar junto con la enmienda (o, más en general, 
+ningún aspecto de índole social o cultural). Así mismo, no se detalla un plan de seguimiento en el 
+tiempo de estas medidas tanto en el suelo como en el cultivo, lo cual es fundamental dado que 
+los procesos edafogénicos y las consecuencias de la aplicación de enmiendas naturales como 
+guanos tienden manifestarse solamente en el mediano y largo plazo (Llona y Faz 2006).
+A través de esta “ignorancia estratégica” (McGoey 2012), el plan de manejo termina simplifi -
+cando de manera extrema la situación de los suelos locales y su posible solución. Más que parte 
+de un plan integral de manejo sustentable, el guano deviene simplemente en lo que se conoce 
+como un “arreglo técnico” (techno-fix), o una solución técnica que se espera que automáticamen -
+te (y en solitario) vaya a reducir la degradación de estos suelos. Como una larga historia de fra -
+casos de estos arreglos técnicos en el área ambiental ha demostrado (Huesemann y Huesemann 
+2011), la probabilidad de que esta intervención no cumpla este objetivo es bastante alta.
+Conclusión
+¿Qué es lo que el SIRSD-S devuelve a los suelos agrícolas degradados de Chile? A partir de 
+las tres escalas de problematización identificadas en este artículo – nacional, regional y local – 
+podemos concluir con certeza que esta devolución no apunta en la dirección de una restauración 
+o conservación de sus funciones socio-ecológicas. Ni siquiera, y de forma más concreta, esta 
+devolución busca realmente disminuir la degradación de estos suelos, de manera de generar una 
+agricultura sustentable en el mediano plazo. El fin último de esta política es mantener el producti -
+vismo actual de los suelos agrícolas chilenos, y cualquier proceso –biológico, químico, social- que 
+se interponga en el logro de este objetivo será estratégicamente ignorado. Desde las métricas 
+normalmente usadas para evaluar este programa, este fin probablemente fue logrado. Posible -
+mente algunas de sus intervenciones lograron mantener los niveles de producción agrícolas de 
+los suelos intervenidos (o, al menos, no las empeoraron). Sin embargo, en aras del logro de esta 
+meta se perdió la oportunidad de generar una intervención de mayor densidad y trascendencia 
+sobre el problema de la degradación de los suelos productivos en Chile.
+Como vimos a lo largo del artículo, las formas en las cuales los suelos degradados fueron 
+problematizados durante el desarrollo e implementación del SIRSD-S explica buena parte de este 
+17
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+resultado. Por un lado, estas problematizaciones se basan en diagnósticos parciales, que estra -
+tégicamente dejan fuera muchos aspectos claves para poder realmente entender y actuar sobre 
+la degradación de suelos. A nivel nacional, esto se materializa en un proceso que no hace un real 
+catastro del problema (no teniendo, posteriormente, una línea de base para comparar su efectivi -
+dad), abusa de conceptos como la “sustentabilidad” sin realmente considerar sus alcances y que 
+estratégicamente desoye las críticas a su operar. Este acercamiento tiene como consecuencia 
+que, cuando se aplica a un territorio como el valle del rio Copiapó, el diagnostico solamente se 
+limita a universalizar la degradación, sin considerar que las reales causas de los problemas de los 
+suelos del valle son otras. Finalmente, a nivel local, la imposición de que solo se puede actuar so -
+bre el “suelo que sea suelo (productivo)” obliga a realizar una lectura sumamente parcializada de 
+estos, enfatizando su potencial productivo y dejando de lado una amplia gama de factores clave 
+para entender y actuar sobre su potencial degradación.
+En relación con los planes de acción, por el otro lado, la imposición de “arreglos técnicos” indi -
+viduales obliga a dejar de lado cualquier consideración a intervenciones de índole más sistémica 
+y extendida, las únicas que pueden ser realmente efectivas en relación con la degradación de los 
+suelos agrícolas. Además, el exclusivo énfasis productivista de las medidas concretas a financiar 
+hace imposible considerar una amplia gama de formas de intervención que no necesariamente 
+tendrán un impacto productivo inmediato pero que ciertamente pueden contribuir de manera 
+más sustantiva al bienestar de estos suelos en el mediano y largo plazo. A nivel local, las múltiples 
+“camisas de fuerza” impuestas por el sistema reducen el rango de opciones posibles de seleccio -
+nar, lo cual fuerza a los actores locales a proponer enmiendas de efecto limitado y cuyos posibles 
+efectos negativos en el mediano y largo plazo son estratégicamente ignorados. En suma, estas 
+problematizaciones implican que la implementación del SIRSD-S en territorios como el valle del 
+rio Copiapó termina operando como vehículo para una progresiva homogenización productivista 
+de los suelos agrícolas, entendiéndolos y actuando sobre estos como meros componentes inertes 
+de plantaciones agroindustriales de monocultivo, orientadas a la exportación y enfocadas en la 
+obtención de ganancias en el corto plazo.
+Dadas las múltiples presiones existentes sobre los suelos en un contexto de la actual crisis 
+socioambiental creemos que es fundamental repensar instrumentos de política pública como el 
+SIRSD-S. En particular, es necesario reformar sustantivamente las problematizaciones que estos 
+hacen de los suelos degradados. Junto a los factores productivos – los cuales son, ciertamente, 
+centrales para cualquier política agrícola – es necesario considerar otros elementos y sensibilida -
+des, especialmente aquellos que puedan ofrecernos una mirada más integral y densa sobre los 
+suelos agrícolas y sus problemas en un contexto de crisis ambiental. Estos nuevos elementos a 
+considerar no solamente deben ser de orden químico y biológico, sino que también social y po -
+lítico. Para ser efectiva, cualquier política agraria sobre suelos degradados tiene necesariamente 
+que considerar aspectos sociales, desde patrones culturales de cultivo hasta temáticas de justicia 
+y participación.
+Siguiendo el modelo analítico propuesto en este artículo, este cambio tiene que pasar por 
+reformar tanto los diagnósticos como los planes de acción incluidos en estas problematizaciones. 
+Por un lado, para avanzar hacia diagnósticos más densos y variados es fundamental sumar a su 
+realización diferentes perspectivas y sensibilidades, tanto desde nuevas experticias (como las 
+ciencias del suelo, la agroecología o las ciencias sociales) como aquellas que provienen desde 
+18
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+los conocimientos locales, especialmente los que poseen los mismos agricultores que van a ser 
+beneficiarios de estas políticas. Por el otro lado, es necesario avanzar hacia el desarrollo de planes 
+de acción de corte sistémico, en donde las soluciones aportadas por el programa se integren den -
+tro de proyectos integrales de transformación agraria hacia la sustentabilidad y la justicia. Estos 
+proyectos deben contemplar un seguimiento y acompañamiento en el mediano y largo plazo, de 
+manera de que las intervenciones puedan sustentarse en el tiempo. Más que solamente apoyar la 
+introducción de arreglos técnicos, estos proyectos debieran buscar el establecimiento de nuevos 
+sistemas de relaciones y cuidados de los suelos agrícolas, las personas que los trabajan y los múl -
+tiples seres vivos que interactúan con estos. Solamente de esta forma, se empezará a devolver a 
+los suelos lo que les ha quitado la incesante actividad humana.
+Referencias bibliográficas
+Anderson, Molly D, y Marta Rivera-Ferre. 2021. “Food System Narratives to End Hunger: Extractive 
+versus Regenerative”. Current Opinion in Environmental Sustainability  49 (abril):18–25. https://doi.
+org/10.1016/j.cosust.2020.12.002
+Andersson, Elina, Sara Brogaard, y Lennart Olsson. 2011. “The Political Ecology of Land Degrada -
+tion”. Annual Review of Environment and Resources  36 (1): 295–319. https://doi.org/10.1146/annu -
+rev-environ-033110-092827
+Baveye, Philippe C., David Rangel, Astrid R. Jacobson, Magdeline Laba, Christophe Darnault, Wil -
+fred Otten, Ricardo Radulovich, y Flavio A. O. Camargo. 2011. “From Dust Bowl to Dust Bowl: Soils 
+Are Still Very Much a Frontier of Science”. Soil Science Society of America Journal 75 (6): 2037–48. 
+https://doi.org/10.2136/sssaj2011.0145
+Bonomelli, Claudia, Carlos Bonilla, y Adriana Valenzuela. 2003. “Efecto de la fertilización fosfora -
+da sobre el contenido de cadmio en cuatro suelos de Chile”. Pesquisa Agropecuária Brasileira 38 
+(octubre):1179–86. https://doi.org/10.1590/S0100-204X2003001000007
+Bull, Alan T., Juan A. Asenjo, Michael Goodfellow, y Benito Gómez-Silva. 2016. “The Atacama De -
+sert: Technical Resources and the Growing Importance of Novel Microbial Diversity”. Annual Re -
+view of Microbiology 70 (1): 215–34. https://doi.org/10.1146/annurev-micro-102215-095236
+Callon, M. 1986. “The Sociology of the Actor-Network: the Case of the Electric Vehicle”. En Map -
+ping the Dynamics of Science and Technology: Sociology of Science in the Real World. London: 
+Macmillan. https://doi.org/10.1007/978-1-349-07408-2_2
+Casanova, M., O. Salazar, O. Seguel, y W. Luzio. 2013. The Soils of Chile. New York: Springer. ht-
+tps://doi.org/10.1007/978-94-007-5949-7
+CASTRO CORREA, C P et al. Impacto en la geodinámica actual del valle de Nantoco, cuen -
+ca del río Copiapó, asociado a la reconversión productiva. Rev. geogr. Norte Gd. [online]. 
+2009, n.42, pp.81-99. Disponible en: <http://www.scielo.cl/scielo.php?script=sci_arttext&pi -
+19
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+d=S0718-34022009000100006&lng=es&nrm=iso>. ISSN 0718-3402. http://dx.doi.org/10.4067/
+S0718-34022009000100006
+CIREN.. Estudio Agrológico Valle del Copiapó y Valle del Huasco, III Región. Descripciones de 
+suelos, Materiales y símbolos. (Pub. CIREN N°135). Santiago: Centro de Información de Recursos 
+Naturales. 2007. http://bibliotecadigital.ciren.cl//handle/123456789/17343
+CIREN.. Determinación de la erosión actual y potencial de los suelos de Chile - Atacama. Santiago: 
+Centro de Información de Recursos Naturales, 2010. https://bibliotecadigital.ciren.cl/items/2a0d -
+dcc5-c065-4141-8bd5-e8ed89e4a1fe
+Constance, D., y A. Moseley.. “Agrifood Discourses and Feeding the World : Unpacking Sustainable 
+Intensification”. En Contested Sustainability Discourses in the Agrifood System, 59–74. London: 
+Routledge, 2018. https://doi.org/10.4324/9781315161297-4
+Davis, Diana K. “Desertification”. En Companion to Environmental Studies. London: Routledge, 2018. 
+https://www.taylorfrancis.com/chapters/edit/10.4324/9781315640051-6/desertification-diana-davis
+De Schutter, Olivier. “The Specter of Productivism and Food Democracy”. Wisconsin Law Review 
+2014:199. https://www.researchgate.net/publication/287288905_The_specter_of_productivism_
+and_food_democracy
+Domínguez, F. Errázuriz, y E. Muchnik.. “Efectos de la asociación de Chile al Mercosur en el sector 
+agrícola y agroindustrial”. Estudios Públicos, no 63 (junio), 1996. https://www.estudiospublicos.cl/
+index.php/cep/article/view/1132
+EMG. Estudio del impacto del sistema de incentivos para recuperación de suelos degradados. 
+Santiago: EMG Consultores, 2002. https://hdl.handle.net/20.500.12650/2458
+Engel-Di Mauro, S.. Ecology, Soils, and the Left: An Eco-Social Approach. New York: Pallgrave, 
+2014. https://doi.org/10.1057/9781137350138
+FAO.. Status of the World’s Soil Resources. Rome, 2015. URL: https://knowledge4policy.ec.europa.
+eu/publication/status-worlds-soil-resources-main-report_en
+Fouilleux, Eve, Nicolas Bricas, y Arlène Alpha.. “‘Feeding 9 billion people’: global food security de -
+bates and the productionist trap”. Journal of European Public Policy 24 (11): 1658–77, 2017. https://
+doi.org/10.1080/13501763.2017.1334084
+Gambella, Filippo, Giovanni Quaranta, Nathan Morrow, Renata Vcelakova, Luca Salvati, Antonio Gi -
+menez Morera, y Jesús Rodrigo-Comino.. “Soil Degradation and Socioeconomic Systems’ Comple -
+xity: Uncovering the Latent Nexus”. Land 10 (1): 30, 2021. https://doi.org/10.3390/land10010030
+Garnett, T., M. C. Appleby, A. Balmford, I. J. Bateman, T. G. Benton, P. Bloomer, B. Burlingame, et 
+al.. “Sustainable Intensification in Agriculture: Premises and Policies”. Science 341 (6141): 33–34, 
+2013. https://doi.org/10.1126/science.1234485
+20
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+Gaymer, M., D. Arenas, E. Salgado, y G. Valdebenito. Informe final de evaluación - Programa Recu -
+peración de Suelos Degradados. Santiago de Chile: Ministerio de Agricultura - Gobierno de Chile, 
+2009.
+Godfray, H. Charles J.. “The Debate over Sustainable Intensification”. Food Security 7 (2): 199–208, 
+2015. https://doi.org/10.1007/s12571-015-0424-2
+Goodwin, Charles.. “Professional Vision”. American Anthropologist 96 (3): 606–33, 1994. https://
+doi.org/10.1525/aa.1994.96.3.02a00100
+Grez, H.. “Análisis de un instrumento de política agrícola : El programa para la recuperación de 
+suelos degradados (SIRSD)”. Tesis de Maestría, Concepción, Chile: Universidad de Concepción, 
+2010.   http://hdl.handle.net/10469/6589
+Hay, C. “Crisis and the structural transformation of the state: interrogating the process of chan -
+ge”. British Journal of Politics and International Relations 1 (3): 317–44, 1999. https://doi.or -
+g/10.1111/1467-856X.0001
+Huesemann, M., y J. Huesemann. 2011. Techno-Fix: Why Technology Won’t Save Us Or the Environ -
+ment. Toronto: New Society Publishers.
+INAP. 2016. Informe País - Estado del Medio Ambiente en Chile. Comparación 1999-2015. Santiago: 
+Instituto de Asuntos Públicos - Universidad de Chile.
+Janker, Judith, Stefan Mann, y Stephan Rist. 2018. “What Is Sustainable Agriculture? Critical Analy -
+sis of the International Political Discourse”. Sustainability 10 (12): 4707. https://doi.org/10.3390/
+su10124707.
+Jorquera-Jaramillo, C. 2008. “Agricultura y Flora Nativa en la Región de Atacama:¿Es Posible Pro -
+ducir y Conservar?” En Libro Rojo de la Flora Nativa y de los Sitios Prioritarios para su Conserva -
+ción: Región de Atacama, editado por F.A. Squeo. La Serena: Ediciones Universidad de La Serena.
+Juerges, Nataly, y Bernd Hansjürgens. 2018. “Soil Governance in the Transition towards a Sustai -
+nable Bioeconomy – A Review”. Journal of Cleaner Production 170 (enero):1628–39. https://doi.
+org/10.1016/j.jclepro.2016.10.143.
+Krzywoszynska, A. 2020. “Nonhuman labor and the making of resources : making soils a resource 
+through microbial labor”. Environmental Humanities.
+Lal, R. 2001. “Soil Degradation by Erosion”. Land Degradation & Development 12 (6): 519–39.
+Lin, H. 2014. “A new worldview of soils”. Soil Science Society of America Journal 78 (6): 1831–44.
+Llona, M., y A. Faz. 2006. “Efectos en el Sistema Suelo-Planta Después de Tres Años de Apli -
+cación de Purín de Cerdo como Fertilizante en un Cultivo de Brócoli (Brassica oleracea L.)”. 
+21
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+Revista de la ciencia del suelo y nutrición vegetal 6 (1): 41–51. https://doi.org/10.4067/S0718-
+27912006000100005
+Luzio, W., ed. 2010. Suelos de Chile. Santiago de Chile: Editorial Universitaria.
+Mahon, Niamh, Ian Crute, Eunice Simmons, y Md. Mofakkarul Islam. 2017. “Sustainable Intensifi -
+cation – ‘Oxymoron’ or ‘Third-Way’? A Systematic Review”. Ecological Indicators 74 (marzo):73–97. 
+https://doi.org/10.1016/j.ecolind.2016.11.001
+Martí, L., J. N. Burba, y M. Cavagnaro.. “Metales pesados en fertilizantes fosfatados, nitrogenados 
+y mixtos”. Rev Fac Cienc Agrar. 34 (2): 43–48, 2002.   https://bdigital.uncu.edu.ar/2829 .
+McGoey, Linsey. “Strategic unknowns: towards a sociology of ignorance”. Economy and Society 
+41 (1): 1–16. 2012. https://doi.org/10.1080/03085147.2011.637330
+Müller, Birgit. “Glyphosate—A Love Story. Ordinary Thoughtlessness and Response-Ability in Indus -
+trial Farming”. Journal of Agrarian Change 21 (1): 160–79. . 2021 https://doi.org/10.1111/joac.12374
+Naredo, José Manuel. “Sobre el origen, el uso y el contenido del término ‘sostenible’”. Documen -
+tación social, no 102, 129–48, 1996. http://habitat.aq.upm.es/select-sost/aa1.html
+Niemeyer, H., M. Cervellino, y G. Castillo.. Culturas Prehistóricas de Copiapó. Copiapó, Chile: Mu -
+seo Regional de Atacama, 1998. https://www.surdoc.cl/sites/default/files/library_file/culturas_pre -
+historicas_de_copiapo.pdf
+OCDE-CEPAL.. Evaluaciones de desempeño ambiental - Chile 2016. Santiago. https://repositorio.
+cepal.org/server/api/core/bitstreams/81773534-351c-4e0d-81b1-36f4543714c8/content
+ODEPA, y CIREN. Catastro Frutícola Región de Atacama. Principales Resultados. Santiago de Chi -
+le: Oficina de Estudios y Políticas Agrarias - Ministerio de Agricultura, 2018. https://bibliotecadigi -
+tal.odepa.gob.cl/bitstream/handle/20.500.12650/71149/Catastro-Fruticola-Atacama-2018.pdf
+Ossandón, J, y Ureta, S.. “Problematizing markets: market failures and the government of collec -
+tive concerns”. Economy and Society 48 (2): 175–96, 2019. https://doi.org/10.1080/03085147.201
+9.1576433
+Pinochet, D., C. Cárdenas, y J. Carrasco.. “ ¿Cambia la mineralización del nitrógeno desde abonos 
+orgánicos compost, bokashi y biol provenientes del mismo guano de gallina?” Agro sur 45 (2): 
+47–56, 2017. https://doi.org/10.4206/agrosur.2017.v45n2-05
+Posmanik, Roy, Boaz Bar Sinay, Ramy Golan, Ali Nejidat, y Amit Gross.. “Reuse of Stabilized Fowl 
+Manure as Soil Amendment and Its Implication on Organic Agriculture Nutrition Management”. 
+Water, Air, & Soil Pollution 216 (1): 537–45, 2011. https://doi.org/10.1007/s11270-010-0551-5
+Puig de la Bellacasa, M.. “Making Time for Soil: Technoscientific Futurity and the Pace of Care”. 
+Social Studies of Science, 2015. https://doi.org/10.1177/0306312715599851
+22
+Re v i sta  d e GeoG Ra f í a NoRt e GRaNd e
+Qin, Xuechao, Shufang Guo, Limei Zhai, Junting Pan, Benyamin Khoshnevisan, Shuxia Wu, Hon -
+gyuan Wang, Bo Yang, Jinghong Ji, y Hongbin Liu. “How Long-Term Excessive Manure Application 
+Affects Soil Phosphorous Species and Risk of Phosphorous Loss in Fluvo-Aquic Soil”. Environmen -
+tal Pollution 266 (noviembre):115304, 2020. https://doi.org/10.1016/j.envpol.2020.115304
+Reynolds, J., y M. Stafford. “Do Humans Cause Deserts?” En Global Desertification: Do Humans 
+Cause Deserts? Berlin: Dahlem University Press, 2002. https://www.researchgate.net/publica -
+tion/238220665_Do_Humans_Cause_Deserts
+Rietveld, Anne M., Jeroen C. J. Groot, y Margreet van der Burg. 1. “Predictable patterns of unsustai -
+nable intensification”. International Journal of Agricultural Sustainability 0 (0): 1–17, 2021. https://
+doi.org/10.1080/14735903.2021.1940731
+Rinaudo, Jean-Daniel, y Guillermo Donoso. 2019. “State, market or community failure? Untangling 
+the determinants of groundwater depletion in Copiapó (Chile)”. International Journal of Water Re -
+sources Development 35 (2): 283–304, 2019. https://doi.org/10.1080/07900627.2017.1417116
+Salazar, Juan Francisco, Céline Granjou, Matthew Kearnes, Anna Krzywoszynska, y Manuel Tironi. 
+Thinking with Soils: Material Politics and Social Theory. London: Bloomsbury Academic. 2020. 
+https://www.researchgate.net/publication/340092763_Thinking_with_Soils_Material_Politics_and_
+Social_Theory
+Sierra, C., R. Cespedes, y A. Osorio.. “Caracterización de la salinidad de los suelos y aguas 
+del valle del río Copiapó.” Boletín INIA N°70, 2001. https://bibliotecadigital.ciren.cl/hand -
+le/20.500.13082/32126
+Sierra, C., y R. Olivares. “Cero labranza con manejo de residuos en frutales y vides: aporta mas 
+materia orgánica y requiere menos fertilizantes”. Tierra Adentro 90:14–16.
+Sumberg, James, John Thompson, y Philip Woodhouse. 2013. “The Changing Politics of Agronomy 
+Research”. Outlook on Agriculture 42 (2): 81–83, 2010. https://doi.org/10.5367/oa.2013.0122
+Thompson, P.. The Spirit of the Soil: Agriculture and Environmental Ethics. 2a ed. New York: Rout -
+ledge, 1994. https://doi.org/10.4324/9781315559971
+Tironi, M., M. Kearnes, J. Salazar, C. Granjou, y A. Krzywoszynska. . “Soil Theories: Relational, 
+Decolonial, Inhuman”. En Thinking with Soils- Social Theory and Material Politics, 40. London: 
+Bloomsbury Academic, 2020. https://hal.inrae.fr/hal-02609906
+Universidad de Chile. Informe país estado del medio ambiente en Chile 2012. Santiago de Chile: 
+LOM / Universidad de Chile, 2012. https://uchile.cl/publicaciones/106526/estado-de-medio-am -
+biente-en-chile-2012
+Ureta, S. Assembling Policy: Transantiago, Human Devices and the Dream of a World-Class Socie -
+ty. Cambridge Mass.: MIT Press, 2015. https://doi.org/10.7551/mitpress/9654.001.0001
+23
+El SIRSD-S o loS R I E S g oS D E u n a pRo b l Em at Iz ac Ió n pRoDu ct IvI Sta 
+D E loS SuEloS D EgRaDaDoS
+Ureta, S. Experimentos Políticos: Repensando la implementación de políticas públicas. Santiago, 
+Chile: Ediciones Universidad Alberto Hurtado, 2022. https://ediciones.uahurtado.cl/producto/ex -
+perimentos-politicos/
+Ureta, S., T. Lekan, y W. Graf von Hardenberg. “Baselining Nature: An Introduction”. Environment 
+& Planning E: Nature and Space 3 (1): 3–19, 2020.
+Ureta, S., y A. Otaegui. 2021. “Seeing Copiapósols: Anthropogenic Soils, Strategic Unknowing, 
+and Emergent Taxonomies in Northern Chile”. Agriculture and Human Values 38 (4): 881–92. ht-
+tps://doi.org/10.1007/s10460-021-10191-4 .
+Utrilla, S., y J. Veliz. “Desarrollo de la viticultura y servicios para la producción en el valle de 
+Copiapó (Chile)”. Revista de geografía Norte Grande 46:67–84, 2010. http://dx.doi.org/10.4067/
+S0718-34022010000200004
+Vega-Leinert, Anne Cristina de la, y Peter Clausing.. “Extractive Conservation: Peasant Agroeco -
+logical Systems as New Frontiers of Exploitation?” Environment and Society 7 (1): 50–70, 2016. 
+https://doi.org/10.3167/ares.2016.070104

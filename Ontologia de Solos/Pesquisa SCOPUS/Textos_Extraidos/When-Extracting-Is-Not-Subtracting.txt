@@ -1,0 +1,870 @@
+Thematic Collection Article
+When Extracting
+Is Not Subtracting:
+Accounting for
+Organism-technologies
+as Stakeholders
+in Microbial Resource
+Extraction through
+an Experiment
+in Discursive Biomimicry
+Erika Amethyst Szymanski1
+Abstract
+This paper concerns how digitizing biological resources enables disen-
+tangling information technologies from biological bodies and, thus, from
+response-abilities among creatures from which they are derived. Extracting
+(digital) information from (biological) bodies makes it possible to stabilize,
+freeze, circulate, and control that information independently from crea-
+turely activities—multiplying, not subtracting from the originating material.
+Such extractions tend to attenuate human interdependencies with other
+1Colorado State University, Fort Collins, CO, USA
+Corresponding Author:
+Erika Amethyst Szymanski, Colorado State University, Williard O. Eddy Hall 345, 1773
+Campus Delivery, Fort Collins, CO 80523, USA.
+Email: erika.szymanski@colostate.eduScience, Technology, & Human Values
+2024, Vol. 49(3) 555-577
+ªThe Author(s) 2022
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/01622439211035449
+journals.sagepub.com/home/sth
+
+creatures even while expanding the scope of their utility as resources, to
+the effect of limiting those who have a stake in their development to humans
+alone. Where conventional natural resource extraction does violence to
+places and those interdependent with them, digital resource extractions
+may instead do violence to human capacities to recognize and act on
+multispecies interdependencies. Here, I argue that choosing to realize
+connections among organisms and organismal resources makes it possible
+to envision how creatures may be stakeholders in their own development,
+with joined ethical and epistemic consequences. I trace that possibility
+through a case study of the essential laboratory yeast Saccharomyces cere-
+visiae via the physical metaphor of snowflake yeast, an S. cerevisiae variant
+that maintains multicellular connections as it reproduces.
+Keywords
+microbes, extraction, multispecies, yeast, bioeconomy
+Introduction
+The phrase “resource extraction” tends to bring up images of such ecolo-
+gical atrocities as giant pits in the ground and long lines of scraped logs
+leaving scarred land. Extraction also tends to bring up critical perspectives
+on how extractivism entails violence to lands and people indigenous to
+them. Yet, in an era in which many resources are neither physical nor
+necessarily coupled to land, the question arises: to what extent do theoriza-
+tions of natural resource extraction apply to “extracted” information
+resources?
+Biodiversity is becoming Norway’s “new oil,” with deep fjords mined
+for new microbes—not for use as raw materials, but for genomes that might
+encode the next breakthrough antibiotic (see Delgado’s article in this col-
+lection; Taffel 2021). Scientists from the United States and Europe go
+bioprospecting in exotic locations for novel microbial functions to funnel
+into drug discovery pipelines. Meanwhile, more familiar microbes are being
+exploited as “chassis,” or physical housings for genetic parts, toward devel-
+oping a theoretically endless array of products and applications designed to
+replace established technology with biotechnology.
+In a (bio)economy in which fossil fuels are out and genes are in, such
+modes of generating value are readily slotted into established economic
+paradigms as evident equivalents for their predecessors (Birch 2017).556 Science, Technology, & Human Values 49(3)
+Bioengineers have been criticized as wanting to revolutionize production
+while changing nothing about consumption (Endy and Ginsberg 2020).
+Meanwhile, Birch and Tyfield (2013) have pointed to “the fetishization
+of all things ‘bio’” (p. 301) through which bio-driven reconfigurations of
+actors are sometimes theorized without adequately considering how bio-
+based modes of value generation differ from their predecessors along basic
+economic lines. Their argument is that bio-assets and bio-commodities
+often invoke fundamentally different financial paradigms. We should simi-
+larly expect that biological materials made valuable as informational
+resources will involve different material paradigms, compared to biological
+materials made valuable as physical resources.
+Information resources are decoupled from physical bodies, but informa-
+tion is never entirely disembodied (Hayles 1999). Rather than construing
+informational resources as representative of material things, we might
+instead consider them as re-mediations, abstractions in a different modality
+with different affordances. Through this lens, we might also ask how or
+even whether these medializations are connected. A material-semiotic
+response—consistent with the idea t hat information is never merely a
+one-to-one translation or representation—is that they are connected when
+those who enact them do the work to connect them, to associate them as
+being or being about “the same thing” (Mol 2002). That is, there are choices
+to be made.
+My argument here is that doing the work to maintain connections among
+creatures and resources that bud from them allows that creatures might
+themselves have a stake in their own development. I further argue that
+discussions of how to responsibly develop digital resources should keep
+such possibilities open because this move opens a route toward realizing
+questions about the “goods” of technology development as more-than-
+human concerns (Latour 2004; Szymanski, Smith, and Calvert 2021). Mak-
+ing decisions with the interests and well-being of other creatures in mind
+requires listening to them—only possible if we first remember that deci-
+sions involve creatures to whom we can listen—and then cultivating com-
+municative capabilities with them. Und erstanding bio-informational
+resource development as multiplying the practices through which we con-
+nect with them affords possibilities toward bringing other-than-human
+voices into conversations organized through Western worldviews, with
+ethical and epistemic consequences.
+I mobilize “extraction” as an actor’s category employed by social scien-
+tists. Conventional resource extraction diminishes the supply of a material
+at its origin and increases supplies of the resource derived from it. The sameSzymanski 557
+does not hold for informational resources, wherein a microscopic quantity
+of the original material may suffice to generate any quantity of associated
+value. Joseph Millum (2010) observes that markets therefore apply to
+genetic resources in a qualitatively different way because the first person
+to sell an informational resource substantially reduces the value of the same
+information owned by others. Focusing on the originating material rather
+than the market system suggests an additional difference. Instead of sub-
+tracting, these extractions add. They displace and transform bio-re-
+mediations which add to the instantiations of a bio-informational thing,
+or what we might do the work to make coherent as an organism-technology.
+The voice of the “bio” is notably absent in discussing whose interests
+count in the valuation and development of bio-resources, at least through
+Western lenses of responsible research and fair benefits-sharing (contrast
+Millum 2010 with Gudynas 2019). Other worldviews for organizing con-
+versations about value—the Latin American concepts collectively known as
+buen vivir, for example (Gudynas 2011; 2019)—make multiple varieties of
+value legible, including those grounded in the perspectives of other-than-
+humans. These strategies could inf orm modes of accounting for social
+dimensions of information-based technologies, particularly given defini-
+tions of “society” not restricted to humans exclusively (Latimer and Miele
+2013). However, those connections are unlikely or impossible if creatures
+are not connected with informational resources from which the “bio” has
+been distanced. In contrast, maintaining connections among organisms and
+the information technologies they promulgate ramifies conditions of possi-
+bility for accounting for more-than-human modes of knowledge and care,
+even within Western framings of “responsible” biotechnology develop-
+ment. We do different things with organisms than with technologies, so
+realizing something as an organism-technology has practical consequences.
+Accomplishing this move requires choosing to hold onto living organ-
+isms as the context for biotechnology development wherein biological parts
+are defined in relation to biological wholes. I employ snowflake yeast, a
+form of the budding yeast Saccharomyces cerevisiae with a distinctive
+growth habit (Ratcliff et al. 2015), as a physical metaphor for how
+organism-technologies as assembla ges may be traced. Budding yeast’s
+development, when viewed as a “multicellular” snowflake, exemplifies
+how living things may simultaneously function as organisms, cells, tech-
+nologies, physical and digital resources.
+I begin by introducing snowflake yeast as a biological phenomenon.
+Thereafter, my argument is organized as a series of buds, inspired by the
+growth habits of budding snowflake yeast wherein each bud extends from558 Science, Technology, & Human Values 49(3)
+and remains connected to its parent, aggregating without necessarily pro-
+ceeding in straight lines or a single direction. To be clear, I am adamantly
+not suggesting that humans should not manipulate yeast to extract value
+from it. Rather, I am suggesting that the myriad technologies derived from
+living things should not be cut apart to disentangle and commodify bio-
+information resources at the expense of developing “simultaneously ethical
+and epistemic” (Candea 2013, 107) capacities for realizing multispecies
+interdependence in a bioeconomy-driven age (Calvert 2008; Frow 2013).
+Snowflake Yeast
+Budding yeasts, as a group, contrast with fission yeasts. Fission yeasts
+reproduce by splitting down the midd le to form independent rod-shaped
+cells. Budding yeasts, in contrast, re produce by pinching off bits of cyto-
+plasm to form a small daughter cell that usually disconnects cleanly from
+the mother cell.1Some genetic mutations, ho wever, lead to mother and
+daughter cells remaining connected, g eneration after ge neration, forming
+“snowflakes” that expand outward from a central progenitor (Ratcliff et al.
+2015). Budding yeast does not bud in perfectly straight lines, and while
+buds reliably emerge from one and only one end of a cell, a yeast snow-
+flake as a multicellular entity grows in multiple directions, occupying
+space as a clump rather than moving purposefully in one direction. Snow-
+flake yeast are, in this way, an apt physical metaphor for how yeast has
+expanded and aggregated as yeast-based resources have been extracted.
+Snowflake yeast are a means of thinking through the shape of yeast devel-
+opment without imputing either a singl e progressive trajectory to where its
+development is going or any kind of subtraction upon the development of
+something new.
+Where the initiative in this association lies is not straightforward, for
+yeast have domesticated humans as much as humans have domesticated
+yeast (Katz 2012).2Many humans have become adept at caring for yeast,
+and some—bakers, brewers, and winemakers, among others—have become
+uniquely attuned to yeast’s needs. Such established human–yeast relations
+have continued to change through bioengineering and its neighboring bio-
+technologies. Employing yeast as a platform, a cell factory, and a chassis (as
+is often the case in metabolic engineering and synthetic biology) tends to
+position yeast as the thing being worked upon, not a thing doing work.
+Imagining yeast as a computer program (Szymanski 2018a), as in the syn-
+thetic yeast project discussed below, positions yeast as a source of infor-
+mation, not a source of physical material and physical labor as yeast are inSzymanski 559
+brewing and baking. These shifts have largely been enabled by genomics,
+whole-genome sequencing, and the apparatuses of control produced
+through the perception of comprehensive biological understanding they
+afford (Stevens 2013; Szymanski, Vermeulen, and Wong 2019). Simulta-
+neously, yeast’s “metabolic labor” (Beldo 2017) has done the heavy lifting
+not only in traditional food and beverage production but in other industrial
+fermentations to produce pharmaceutic als, biofuels, or alternative food
+proteins. Yeast genomes have been extracted from yeast bodies, and
+yeast-derived genetic parts from yeast genomes, to ramify additional value
+chains. One yeast-working repertoire (Leonelli and Ankeny 2015) buds
+from another.
+As yeast is mobilized in differen t forms—as new buds emerge from
+parents—the results are additive, not s ubtractive. Digitizing yeast, relo-
+cating its genome from cells in Petri dishes to online databases, changes
+the shape of yeast and possibilities for working with it everywhere.3
+Simultaneously, these additions neither eliminate nor override the possi-
+bility of working with yeast in ways that do not depend on genomics, even
+as work with physical yeast bodies mus t be seen differently in relation to
+these developments. Separating “y east” from yeast bodies expands the
+r a n g eo fp e o p l ew h ow o r kw i t hy e a s t .T h es a m em o v em a k e si te a s i e r
+to reduce yeast solely to their inst rumental value as defined through a
+particular use. Disconnecting yeast’s value from yeast’s creatureliness
+makes it easier to disco nnect human goods (or, properly, the goods of
+specific humans) from oth er-than-human interdepe ndencies. In contrast,
+retaining the conceptual morphology of the snowflake, so as to understand
+organism-technologies as assemblages of diverse morphological
+instances, enables holding onto human goods as necessarily entangled
+with other-than-human goods.
+The central progenitor in this particular snowflake is called S288C.
+S288C is a standard laboratory strain of S. cerevisiae developed in the
+late 1950s in Berkeley, California, by Robert Mortimer, then a young
+medical physicist. Through Mortimer’s willingness to share and the
+yeast’s winning personality—relia ble, easy to grow, undemanding—
+S288C became a cornerstone of the yeast genetics community and the
+foundation of its later digital instantia tions (Langer 2016). S288C is itself
+a daughter of many mothers with a family tree that includes bakers and
+brewers’ yeasts, yeasts found on disc arded fruit in domestic orchards, and
+yeasts brought back on the rinds and peels of exotic produce from overseas
+trips—a good reminder t hat microbes in the laboratory always connect to
+microbes elsewhere.560 Science, Technology, & Human Values 49(3)
+Bud—Digitizing Yeast by Sequencing the Yeast
+Genome Enables Moving “Yeast” Online
+When sequencing the complete genome of a eukaryote became a reasonable
+technical proposition in the 1980s, yeast was an obvious choice.4S288C
+had become a laboratory standard in the 1970s, fueled by Mortimer’s “stock
+center,” which provided uniform cultures to researchers, such that geogra-
+phically and temporally distant yeast researchers could share resources and
+collate findings as if working on “the exact same cell” (Boone 2014, 436).
+Sharing strains and resources facilitated the expansion of a community
+working with that cell, plus collective resources that linked physical cells
+with shared tools: genetic maps, biochemical markers, modes of molecular
+manipulation, and specialized strains, among others. Such collective
+resources encouraged the conceptual and physical organization of an inter-
+national “yeast community” oriented around what could be described as a
+single project: “the ‘solution’ of the organism” (Johnston 2000, 617).
+Sequencing the yeast genome seemed possible not only because of the
+traction obtained by the standardized cell but—as in so many model organ-
+ism communities—because of the existing coordination of yeast labora-
+tories around common resources and the ethos of cooperation firmly
+established among them (Leonelli and Ankeny 2013). Extracting genome
+from cell was, however, compelling in different ways to different agendas.
+In the United States, yeast was seen as a pilot for the Human Genome
+Project—a means of developing technologies to sequence a much larger and
+more important genome with more speed and less expense. For the European
+Community’s science directorate, where the project initially germinated,
+yeast genome sequencing became an ideal solution to the perceived problem
+that Europe was failing to compete with American and Japanese biotechnol-
+ogy. As a “capacity building exercise” (Parolini 2018) distributed among
+many European yeast laboratories, yeast could coordinate scientists across
+Europe and provide steady work to nurture nascent private sequencing com-
+panies, all while facilitating research–industry ties by developing an organ-
+ism with clear economic value. And in Japan, yeast became tied to supporting
+a state-of-the-art seque ncing center at RIKEN, Japan’s largest biology
+research institute (Cook-Deegan 1994).
+These three initially independent efforts became an intercontinental col-
+laboration when leaders of the European project chose to prioritize com-
+pleting a reference genome on time over completing a reference genome by
+themselves (Langer 2016). What resulted was a complete and remarkably
+high-quality reference genome for (more or less)5S288C and, through theSzymanski 561
+initiative of the American contributors, a digital database providing access to
+that sequence. From its release in 1996, the Stanford-based Saccharomyces
+Genome Database (SGD) has maintained the reference sequence and collated
+and curated a steadily expanding range of yeast genome-associated resources,
+all fully accessible, freely shared, and entirely online. Where the locus of
+yeast’s collective physical resources had been Mortimer’s physical repository
+of yeast strains, the locus of yeast’s digital resources became the SGD.
+Bud: Extracting the Genome from the Cell Enables
+“Yeast” to Live Apart from Yeast Bodies
+Subsequent to publication of the reference genome sequence, “the yeast
+genome” came to index three distinct but connected phenomena: a physical
+set of molecules housed within cells, a digital text available online, and a
+historic event referenced as an important cultural touchstone in the scien-
+tific literature (Szymanski, Vermeulen, and Wong 2019). In contrast to
+working with a physical set of molecules, working with the digitized gen-
+ome did not tie researchers to cells with any definite temporal or geographic
+location. The S288C reference sequence was compiled from fragments
+generated by nearly 600 (credited) individuals in ninety-four laboratories
+across nineteen countries using varied techniques from manual Sanger and
+Maxam-Gilbert sequencing to then-advanced automated ABI sequencers.
+Those fragments were generated from several different cosmid and yeast
+artificial chromosome (YAC) libraries built from distinct and geographi-
+cally distant yeast cultures. Not until 2010, when researchers affiliated with
+the SGD “resequenced” S288C from a single colony growing in Palo Alto,
+could the reference genome be said to refer to any one physical yeast
+community (Engel et al. 2013). The reference sequence did not represent
+a set of physical molecules located in a yeast culture. It was a separate
+informational resource with a life of its own, lived apart from yeast cells, a
+“yeast” lineage that continued to replicate, expand, and diverge in silico
+through maintenance work and other activities of humans and software
+oriented around the sequence rather than any group of cells.
+Bud: Extracting a Standardized Yeast Cell from Yeast
+Bodies Enables Yeast to Become a Universal Cell
+Yeast is widely used as an explanatory model for human and other eukar-
+yotic cells, but also sometimes stands in for whole organisms; in aging
+experiments, for example, prolong ing the life of a single yeast cell is562 Science, Technology, & Human Values 49(3)
+sometimes interpreted in terms of prolonging human lives (e.g., Oliveira
+et al. 2017). The “yeast group” active at Cold Spring Harbor Laboratory
+through the 1970s and 1980s championed their organism as suitable for
+studying any biological question—including, in their later careers, handed-
+ness and hair growth patterns (Klar 2003). Ira Herskowitz, their contempo-
+rary at the University of California San Francisco, called yeast “the
+universal cell”—experimentally tractable, malleable, and able to model
+virtually any eukaryotic phenomenon (Herskowitz 1985).
+Hannah Landecker (2007), in Culturing Life , traces how cells of human
+and other multicellular organisms have been separated from bodies to
+become technologies with distinct temporalities (e.g., through freezing)
+such that, through cell culture, many scientists can study “the same cell”
+in disparate times and places. Yeast may seem to already be single-celled,
+but laboratory yeast has likewise needed to be separated from the larger
+body in which it typically lives. Clonal populations have been extracted and
+isolated from yeast as it typically liv es in heterogenous communities.
+S288C and other standardized laboratory strains must be temporally frozen,
+maintained as evolutionarily inert standards, to be aligned as “the same
+cell” across time and space. Standard ized laboratory ye ast has distinct
+capacities and characteristics; it becomes a different organism in compar-
+ison to yeast in the brewery or bakery (Borneman and Pretorius 2015).
+Simultaneously, each remains connected to and continues to influence the
+development of the other, as is evident, for example, in the lists of compa-
+nies and trade organizations for which prominent yeast geneticists were
+asked to provide advice (Langer 2016; Ira Herskowitz Papers 1974-2003).
+Landecker’s work suggests mammalian cell culture as a necessary pre-
+dicate to understanding yeast as the universal eukaryotic cell, insofar as cell
+culture enabled envisioning and manipulating cells as physically separate
+from whole organisms. By separating cells from bodies, yeast, human, and
+myriad other cells can be lined up, made equivalent to each other, and so
+used as models for one another. Similarly, by separating genomes from
+bodies, digitized genomes can be fixed in time, lined up, and compared
+as functional and structural equivalents.
+Bud: Extracting Tools as Objects from Creatures as
+Living Things Distances Technologies from Organisms
+Scientific uses of yeast as tools are often not organized around the “whole”
+yeast, and even whole yeast bodies do not yield the same fleshy reminders
+of their aliveness as mice, zebrafish, or other model organisms typicallySzymanski 563
+studied intact. On the contrary, yeast is often employed as a container—a
+bag of chromosomes or genes that are themselves the objects of scientific
+interest, and which may or may not have originated in yeast. The SGD is
+organized around genes and around open reading frames, promoters, and
+other fragments of DNA that can be handled as if they were genes. Genes
+are the handles one holds while moving through the database’s resources;
+cell type or strain becomes background, noticeable only if you look for it.
+Whole yeast cells appear in the guise of phenotypes—single-dimension,
+often binary behaviors invoked to characterize genes. The whole cell
+appears in the SGD logo where, evocatively, a budding yeast cell is the
+blank container within which the “SGD” resides.
+Much scholarship around biotec hnology and model organisms has
+addressed how organisms become t echnologies. Yeast, however, was
+already a human technology long before it began its career in laboratory
+science such that, for example, the boundaries that bio-objectification relies
+on being transgressed by biotechnology were less sharp and arguably absent
+in yeast’s case even before biotechnology intervened (Holmberg, Schwen-
+nesen, and Webster 2011). Yeast is described in and outside of scientific
+communities as a friend of humanity and a pillar of civilization, an old tool
+being further refined, and a source of medical therapeutics such that scien-
+tists not only canbutshould continue to engineer yeast without meddling
+with “nature.”
+Yeast is both a tool itself and a source of other tools, which retain their
+yeastiness by virtue of name and lineage even when separated from yeast
+bodies. Yeast artificial chromosomes (YACs), for example, are constructed
+with telomeres, centromeres, and autonomous replicating sequences (ARS)
+from yeast, even while the backbone or starting point for the construct is a
+plasmid from bacteria (Murray and Szostak 1983). The DNA stored in the
+YAC—the reason for its construction—may originate anywhere and des-
+tined for many other cell types. Scientific activities to extract tools from
+yeast expand what “yeast” is and distance yeast resources from yeast bod-
+ies. This distancing makes it easier to work with yeast as a technology
+without also working with it as an organism.
+Bud: Extracting Genomes from Organisms Enables
+Putting Them Back Again
+Where the SGD takes yeast apart, the synthetic yeast project aims to put
+yeast back together.6The synthetic yeast project, or Saccharomyces cere-
+visiae 2.0, is the first effort in synthetic biology to construct a complete564 Science, Technology, & Human Values 49(3)
+eukaryotic genome7entirely from algorithmically redesigned, laboratory-
+synthesized DNA. In synthetic biology, yeast and other cells are most often
+“chassis” or “platforms” on or within which engineering takes place. The
+organism may be entirely absent from discussions concerned with engineer-
+ing genetic pathways or circuits, and cellular responses to intracellular
+engineering are routinely construed as interruptions or “bugs” that need
+to be engineered away. The synthetic yeast project is a notable exception
+to this general pattern (Calvert and Szymanski 2020). This project is about
+re-placing a digital yeast genome: editing an informational text on a com-
+puter, transforming that in silico text into physical molecules, and convin-
+cing yeast to take up and incorporate those molecules into the physical
+genome it already contains. Yeast must be convinced to perform this final
+step of making the digital physical again, and their responses to redesigned
+DNA are the ultimate criteria by which the success of synthetic biologists’
+design work is assessed (Szymanski 2018b). Yeasts’ capacity for action and
+response brings the liveliness of the tool back into the scientific picture,
+making yeast’s creaturely characteristics impossible to ignore.
+The synthetic yeast project revolves around chromosomes rather than
+“genetic parts” with defined functions, as do most synthetic biology proj-
+ects oriented around specific applications. Yeast, however, has not always
+been characterized by the sixteen chromosomes now being redesigned. As
+late as 1986, Hershel Roman, a leading yeast geneticist at the University of
+Washington, reported that yeast might have sixteen or seventeen chromo-
+somes—“the number hasn’t been settled to everyone’s satisfaction”
+(Roman 1986, 3). Chinese scientists mapping chromosome V in 1992 still
+reported the number as “about seventeen” (Zhu and Kuang 1992). Four
+years later, following the cooperative work of the yeast genome sequencing
+project, yeast’s chromosome count was stably fixed at sixteen (Goffeau
+et al. 1996).
+Fixing the chromosome count makes it possible to change it again, in
+that possessing a complete map of the yeast genome enables rearranging its
+geography. Among other changes, the synthetic yeast genome extracts all
+tRNA genes—essential for translating messenger RNA into chains of amino
+acids—from their typical locations scattered around the genome and con-
+solidates them into a wholly new “neochromosome” (Richardson et al.
+2017). Endeavoring to keep tRNA genes from moving has called for insu-
+lating them with DNA fragments extracted from other yeast species, which
+become part of S. cerevisiae through context and function when sequence
+alone would indicate a different p arentage (Walker 2017). This planSzymanski 565
+embodies a central design principle of the project, improving yeast genome
+stability so that the genome changes if and only if a scientist changes it.
+To maintain the same chromosome count in the finished synthetic yeast
+cell, two of the smallest chromosomes will be linked to compensate for the
+addition of the neochromosome. At the project’s outset, it remained an open
+question whether chromosome count matters to yeast in the same way that it
+matters to humans. It now appears that it does not, as viable yeasts have
+been constructed with the entire genome consolidated into a single giant
+chromosome (Shao et al. 2018). This example demonstrates how yeast
+might be considered users of rede signed DNA, whose responses about
+which designs support growth and survival must be taken into account
+before any additional applications ca n occur further downstream (Szy-
+manski 2018b).
+The synthetic yeast project envisions yeast as a computer program to be
+edited, refactored, and debugged (Szymanski 2018a). Its anticipated end
+users and stakeholders are biotech entrepreneurs, pharmaceutical compa-
+nies, Silicon Valley start-ups, and scientific innovators. Looking down into
+the lab rather than outside it, however, we might see that yeast itself is a
+stakeholder with a “say” insofar as it is being asked to change and may
+refuse to do so. What is a resource to be mined (see: https://yeastmine.yea
+stgenome.org/yeastmine/begin.do), a participant to be involved, or a stake-
+holder who may accept or refuse a new technology? Responses to this
+question depend on where one draws the line between creature and tech-
+nology or, alternately, where (as I suggest here) one does not.
+Bud: Whose Labor Generates Value?
+Jenny Bellon has worked as an expert in yeast mating at the Australian
+Wine Research Institute, constructing new yeast hybrids by mixing speci-
+mens of different yeast species in the same tube and waiting.8Rare yeast
+matings occur, rarely, when two cells whose genetic disparities mean that
+they would not ordinarily mate sit on top of each other for long enough.
+Bellon’s work chiefly concerns developing precise experimental conditions
+that permit separating rare-mating progeny from cells which have not mated
+(Bellon et al. 2018). We might say that the yeast, whom Bellon sometimes
+describes as her children, do much of the work.
+Yeast works across biotechnology. Crucially, while synthetic biologists
+have numerous options for linking bits of DNA, the most reliable strategy
+for difficult construction projects is assembly in yeasto (Mitchell et al.
+2015). Yeast are experts at a construction technique called homologous566 Science, Technology, & Human Values 49(3)
+recombination, lining up matching sequences on separate DNA fragments
+and integrating them via a mechanism that scientists have yet to compre-
+hensively describe or functionally mimic. Employing homologous recom-
+bination involves transforming yeast with appropriately designed sections
+of DNA—a simple procedure—and waiting; the scientist’s primary work is
+identifying cells that have correctly assembled the DNA construct. In this
+process, yeast play the role of coworkers more than tools, being active
+participants in creating what could be called the surplus value extracted
+from their bodies: DNA sequences and resulting metabolic products that are
+far more valuable than the sugars on which yeast are fed.
+Les Beldo (2017) has suggested that we consider the excess over and
+above what humans invest in obtaining value from animals and plants as the
+product of those creatures’ “metabolic labor.” Beldo uses this phrase to
+direct attention to the “exploitation at the center of human-animal relations
+of production” (p. 118) by making animal labor analogous to the exploited
+labor of working human classes. I wonder, however, what bringing other
+creatures into anthropogenic, anthropocentric conceptions of labor does for
+structuring multispecies relationships.
+“Metabolic labor” usefully points to violence that occurs when animals
+are made to live for human use. Less helpfully, it constructs an equivalence
+between how human lives are understood to involve work and how animal
+lives are understood to involve work. In Beldo’s example of the wretched
+Cornish rock broiler chicken, producing protein from grain becomes the
+work of the chicken. The analogy demands that work be separated from
+living when the process of living is exploited, such that thinking about the
+chicken as a creature needs to be separated from thinking about the chicken
+as an edible body.
+Michael Pollan (2006) portrays a different view of living as labor in his
+stories about Polyface Farm, where the human-in-chief, Jack Salazar, says
+that cows and chickens do most of the work. Here, ascribing work is a way
+of assigning value to the life of the cow and the chicken—a view enabled,
+perhaps, by Salazar’s obvious disinclination to distinguish his own life and
+work in a way that would enable a corporation to extract one from the other.
+The Cornish rock broiler chicken was developed entirely for the sake of
+being an edible body and is poorly suited to being a living creature. Salazar
+would have no use for this chicken that cannot walk well enough to perform
+a chicken’s job at Polyface Farm—cleaning up the grubs from cow-trodden
+fields—and that can never satisfy Salazar’s end goal for chickens, of living
+so as to express their creaturely distinctiveness. A Cornish rock broiler
+chicken cannot work for him because it cannot work well by living well.Szymanski 567
+Beldo identifies a prejudice against animal labor not being understood as
+labor. That prejudice could equally be understood in reverse, as a prejudice
+toward applying labor to all creatures with the presumption that they must
+be not only like humans, but like a narrow subset of humans. While the first
+error is a form of human exceptionalism, the second is a different form of
+human exceptionalism in the guise of human universalism—that what
+applies to a subset of human animals can and should be extended to under-
+standing all other animals and that human experience is representative of
+animal experience.
+Microbial life may be put to work, but to say that microbial labor is
+exploited speaks to a particular view of how microbes should be as much as
+to what humans do with them. Metabolic labor makes human relating with
+other species wholly about production and seems to offer the laboring
+animal the limited options of either passively complying or actively resist-
+ing.Work affords more diverse possibilities, beyond compliance or refusal,
+allowing that yeast may productively contribute new information in
+response to human demands (or requests, or invitations, or stories). Syn-
+thetic biologists may work on, with, in, or for yeast. Many examples of
+human working practices with sourdough starters, artisan winemaking, or
+craft brewing—multispecies working practices which at least sometimes
+exist outside of highly standardized industrial contexts oriented around
+maximizing surplus value—involve attitudes of seeking understanding, of
+care, and of living with and working with. These are not utopian practices.
+They involve death, loss, and frustration (e.g., Brice 2014). They also
+involve being responsive in the daily specificities of multispecies work.
+Metabolic labor implies that we should not exploit the lives of other
+creatures. This position is impractical if plants are understood to be crea-
+tures and extracting value from bodies is understood to be exploitation. It is
+equally untenable with respect to microbes, some of whom—in their life
+and their death—indispensably contribute to the functional integrity of
+human bodies. The alternative suggested by Haraway (2008; 2016), Puig
+de la Bellacasa (2015), Krzwoszynsk a (2019), and others interested in
+multispecies care , is to ask how we may live well with other creatures,
+enabling more productive lines of thought about how the chicken and the
+human, or the yeast and the human, might have good lives together. There is
+no question that the miserable meat-production chickens Beldo describes do
+not live well. One compassionate response might be not to eat chicken and
+to advocate that others do the same. Another might be to raise delicious
+chickens that can live good chicken lives at farms where care is taken for all
+creatures—Salazar’s approach.568 Science, Technology, & Human Values 49(3)
+Beldo (2017) acknowledges stretch ing the concept of labor to the
+extremes of what it can do, but argues that labor is the most apt term for
+animal vitality “within the existing vocabulary of capitalist production”
+(p. 125). This statement leaves wide open the possibility of developing
+more satisfactory alternatives outside the existing vocabulary of capitalist
+production. Rather than finding an analytic to apply to existing practice,
+I am more interested in opening up possibilities with respect to new prac-
+tices, an interest made possible by the relatively open-to-experimentation
+fields with which I engage—synthetic biology, microbiomes, winemaking
+(all in contrast to factory farming)—and by an organism unlikely to incite
+ethical concerns (in contrast to chickens). This is, to me, a very good reason
+to work with creatures such as yeast because they afford such possibilities.
+Bud: Yeast as a Good for Whom?
+Whom and what are yeast good for? These are logical questions if we
+imagine yeast as a resource whose extraction and development will be good
+for some humans, but not for all equally. These questions also suggest that
+those important to extracting value from yeast are the users of yeast-based
+resources, eliding the possibility that yeast might itself be considered a
+stakeholder in its own development. The question that would seem to fol-
+low—what is good for yeast?—might also seem to advocate for an ethics of
+microbes (see Cockell 2004), or a utopian attitude toward more-than-human
+friendship. However, to suggest the possibility of caring for, about, and with
+microbes is not at all to suggest that this form of care resembles that
+appropriately applied to humans and other macrofauna—just as character-
+izing yeast and chickens as coworkers is not to suggest that we should bring
+them coffee or assign them human-appropriate offices. Living well means
+very different things for different creatures. Creatures may be seen as inter-
+ested parties in the bioeconomic systems in which humans interpolate them
+without imagining that all creatures therefore occupy chairs of equal size
+and shape around some ideal imaginary multispecies table.
+Being a stakeholder begins with having a voice. Having a voice requires
+being recognized as capable of communicating, inviting the possibility that
+others may listen. Humans do violence to their owncapacity to learn from and
+be enriched by the voices of others when they make creatures tools and tools
+alone that can have no voice. By divorcing organism-derived technologies
+from organisms, we humans may cultivate capacities to forget our inevitable
+interdependences across more-than-human worlds and may attenuate capa-
+cities to be responsive to others in the daily specificities of our work.Szymanski 569
+In lieu of asking whose “good” yeast resource extraction serves, we
+might instead ask: what does it mean to live and work well with creatures
+who are simultaneously tools? Kelly Donati (2019) suggests multispecies
+conviviality—con-vivial, literally, to live with—as a strategy for consider-
+ing what it is to eat well with creatures we also eat. Donati argues that
+creatures who are and who are not human should all have a voice in what it
+means to live well on a multispecies farm. For the sheep and dogs on whom
+she focuses, that means having space to express their needs to humans who
+consider the farm itself as an organism, the parts of which variously support
+the whole. Sheep, as farm animals who may be coworkers, technologies,
+and dinner, need to be accounted for as stakeholders whose voice matters in
+the sustainability of the farm system.
+Working with yeast and other creatures as both creatures and tools need
+not be contradictory if yeast can be multiple and multiplied. On the con-
+trary, improving human capacities to “listen” to other creatures’ voices—to
+attend, to cultivate the capacity to respond, to become response-able—
+should also improve research outcomes. As has been noted by many multi-
+species scholars, being response-able to research organisms’ participation
+as creatures travels with becoming open to observations beyond resear-
+chers’ initial expectations, yielding b oth ethical and epistemic benefits
+(Candea 2013; Despret 2013; 2014). Questioning what it means to live and
+work and indeed eat well with creatures who are also tools and technologies
+is about locating perspectives from which humans may themselves be cow-
+orkers rather than always only controllers of other species, even when
+multispecies interactions are oriented around extracting value from living
+things for human benefit.
+Conclusion
+Because their material entanglements differ, critiques that appropriately
+apply to the extraction of material resources do not necessarily apply to
+the extraction of digital resources, not because the latter are not material,
+but because they are differently material. Digital resources are nevertheless
+subject to one of the same propensities as material resources—disentangle-
+ment from their origins—yet to different effect (Junka-Aikio and Cortes-
+Severino 2017). In the digital case, such disentanglements are liable to limit
+opportunities to realize (in both senses of the word) how biotechnical
+developments invoke more-than-human worlds. Cutting genome sequences
+and other digital resources away from creatures makes them wholly about
+the human choices made in their extraction, closing off consideration of570 Science, Technology, & Human Values 49(3)
+how these creatures may participate in their own development: to listen to,
+be response-able with, and learn from them. An understanding of the tech-
+nology—the digital genome, for instance—might be mistaken for an under-
+standing of the creature such that the creature’s capacity to surprise,
+respond, or interrupt (Buller 2015) beyond the scope of the abstracted
+digital resource, is curtailed. Creaturely capacities to remind that they hold
+stakes in human well-being, and vice-versa, are similarly curtailed.
+Extraction is about transformation, about making a resource. As Junka-
+Aikio and Cortes-Severino (2017) have observed in arguing for why cul-
+tural studies should attend to “extractivism,” “the discursive construction of
+something as a ‘resource’ always entails ...regulat[ing] how the relation-
+ship between nature and society is imagined and enacted” (p. 180)—or, we
+might say, how relationships among humans and other-than-humans are
+enacted. Doing the work to maintain connections among remedializations
+of creatures that become resources, I argue, may open up relationships that
+digital extractivism otherwise shuts down, leaving human societies more
+permeable to their more-than-human dimensions. In practical terms, envi-
+sioning organism-technologies enables the possibility of asking what it
+means to care for and to live well with tools that are also creatures. This
+framing differs substantially from envisioning laboring creatures from
+whom surplus value is extracted. While the latter suggests that creatures
+are exploited and that we have a moral obligation in the name of multi-
+species social justice to stop exploiting them, the former invites investigat-
+ing what it means to live well with the variety of creatures upon whom our
+collective well-being depends.
+Snowflake yeast interrupts yeast geneticists because it sticks to the walls
+and orifices of culture vessels; it refuses to lose its attachments and so gloms
+up equipment built with better-behaved cells in mind. I suggest that STS
+researchers should allow snowflake yeast to interrupt us for similar reasons.
+We do different things with creatures than with tools. They mandate dif-
+ferent ethical concerns and raise different matters of care (Puig de la Bel-
+lacasa 2011) because creatures are concerned with their own interests while
+tools are built to serve the purposes of others. Creatures such as S. cerevi-
+siae fit both descriptions: they have been constructed to serve specific
+purposes, and they have lives of their own. As yeast-based technologies
+are extracted from recognizably living yeast bodies, entanglements across
+the things we do with tools and the interests of other creatures become more
+difficult to see. That is an ethical problem, for the violence thereby enabled
+against other creatures and against humans in our many-faceted interdepen-
+dences with them. It is also an epistemic problem, in that removing theSzymanski 571
+organism from the picture means that it can no longer interrupt, surprise,
+and challenge.
+My larger point is that natural resource extractions raise different con-
+cerns when the concerning resources are chiefly informational, in contrast
+to conventional extractions of physical materials. How the materials of
+“digital” bio-extractions travel and form connections means that their loci
+of concern require re-examining apart from established extractivist cri-
+tiques. Observers with critical eyes should not assume that theorizations
+of natural resource extraction apply to “extracted” information resources,
+any more than we should assume that no violence is done because different
+kinds of violence pertain.
+Acknowledgments
+I thank the Engineering Life and TRANSGENE research teams at the University of
+Edinburgh for their collegiality and intellectual support, along with participants in
+the workshop hosted by Ana Delgado at the University of Oslo that prompted this
+manuscript. I am grateful for feedback from Ana Delgado, Susanne Bauer, and the
+two anonymous reviewers, all of which led to substantial improvements.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support for the research,
+authorship, and/or publication of this article: This article received funding from
+European Union Horizon 2020 (Grand ID: 678757), European Research Council
+(Grand ID: ERC 616510-ENLIFE), and T he Biological and Biotechnological
+Sciences Research Council (Grant ID: BB/M005690/1, ERASynBio-IESY).
+ORCID iD
+Erika Amethyst Szymanski https://orcid.org/0000-0002-6321-8897
+Notes
+1. Yeast are always female, by disciplinary convention because they can all give
+rise to daughter cells.
+2. See Larson and Fuller 2014, for a discussion of the multiple domestication path-
+ways supported by archaeological and genetic evidence, including pathways
+initiated by creatures who are not human. See Baker et al. 2015, for a discussion
+of the likelihood that baker’s and brewer’s yeasts came into domestic relation-
+ships with humans on numerous, separate occasions.572 Science, Technology, & Human Values 49(3)
+3. For example, new yeast strains for producing beer and wine have been enabled
+by detailed studies of yeast genomics t hat map relationships among strains
+domesticated to particular purposes, and identify potential untapped reservoirs
+of genetic diversity (Gallone et al. 2016).
+4. The research described in this and the following two sections came about through
+a European Research Council-funded project on the history of yeast, human, and
+pig genome sequencing (TRANSGENE: Medical translation in the history of
+modern genomics, led by Miguel Garcia-Sancho) during which I reviewed pri-
+mary scientific literature, conducted oral history interviews, and visited several
+archives pertaining to significant yeast genomicists.
+5. Though the reference sequence is “of” S288C, it was created through compiling
+sequence data from several closely related strains (Engel et al. 2013).
+6. The research described in this and the following section stems from my work as a
+postdoctoral STS researcher with the synthetic yeast project, funded through a
+grant (BB/M005690/1, ERASynBio-IESY) from the Biological and Biotechno-
+logical Sciences Research Council co-led by a key synthetic biologist-member of
+the synthetic yeast consortium and a social scientist. I spent one or two days each
+week working with a synthetic yeast lab, conducted interviews of about twenty
+scientists contributing to the project, and participated in numerous conferences,
+workshops, and other events.
+7. Eukaryotic genomes, in comparison to prokaryotic genomes belonging to bac-
+teria and archaea, are (often much) larger and divided up into multiple
+chromosomes.
+8. I visited with Bellon at the Australian Wine Research Institute to discuss her
+yeast mating work in November 2016.
+References
+Baker, Emily Clare, Bing Wang, Nicolas Bellora, David Peris, Amanda Beth Hul-
+fachor, Justin A. Koshalek, Marie Adams, Diego Libkind, and Chris Todd Hit-
+tinger. 2015. “The Genome Sequence of Saccharomyces Eubayanus and the
+Domestication of Lager-brewing Yeasts.” Molecular Biology and Evolution 32
+(11): 2818-31.
+Beldo, Les. 2017. “Metabolic Labor Broiler Chickens and the Exploitation of Vital-
+ity.” Environmental Humanities 9 (1): 108-28.
+Bellon, Jennifer R., Christopher M. Ford, Anthony R. Borneman, and Paul J. Cham-
+bers. 2018. “A Novel Approach to Isolating Improved Industrial Interspecific
+Wine Yeasts Using Chromosomal Mutations as Potential Markers for Increased
+Fitness.” Frontiers in Microbiology 9 (July): 1442.Szymanski 573
+Birch, Kean. 2017. “Rethinking Value in the Bio-economy: Finance, Assetization,
+and the Management of Value.” Science, Technology, & Human Values 42 (3):
+460-90.
+Birch, Kean, and David Tyfield. 2013. “Theorizing the Bioeconomy: Biovalue,
+Biocapital, Bioeconomics or ...What?” Science, Technology, & Human Values
+38 (3): 299-327.
+Boone, Charles. 2014. “Yeast Systems Biology: Our Best Shot at Modeling a Cell.”
+Genetics 198 (2): 435-37.
+Borneman, Anthony R., and Isak S. Pretorius. 2015. “Genomic Insights into the
+Saccharomyces Sensu Stricto Complex.” Genetics 199 (2): 281-91.
+Brice, Jeremy. 2014. “Killing in More-than-human Spaces: Pasteurisation, Fungi,
+and the Metabolic Lives of Wine.” Environmental Humanities 4 (1): 171-94.
+Buller, Henry. 2015. “Animal Geographies II Methods.” Progress in Human Geo-
+graphy 39 (3): 374-84.
+Calvert, Jane. 2008. “The Commodification of Emergence: Systems Biology, Syn-
+thetic Biology and Intellectual Property.” BioSocieties 3 (4): 383-98.
+Calvert, Jane, and Erika Szymanski. 2020. “A Feeling for the (Micro)Organism?
+Yeastiness, Organism Agnosticism and Whole Genome Synthesis.” New Genet-
+ics and Society 39 (4): 385-403.
+Candea, Matei. 2013. “Habituating Meerkats and Redescribing Animal Behaviour
+Science.” Theory, Culture & Society 30 (7–8): 105-28.
+Cockell, Charles S. 2004. “The Rights of Microbes.” Interdisciplinary Science
+Reviews 29 (2): 141-50.
+Cook-Deegan, Robert. 1994. The Gene Wars: Science, Politics, and the Human
+Genome . New York: W. W. Norton.
+Despret, Vinciane. 2013. “Responding Bodies and Partial Affinities in Human–
+Animal Worlds.” Theory, Culture & Society 30 (7–8): 51-76.
+Despret, Vinciane. 2014. Domesticating Practices: The Case of Arabian Babblers .
+New York: Routledge International Handbooks.
+Donati, Kelly. 2019. “‘Herding Is His Favourite Thing in the World’: Convivial
+World-making on a Multispecies Farm.” Journal of Rural Studies 66 (February):
+119-29.
+Endy, Drew, and Alexandra Daisy Ginsberg. 2020. “Must We Revolutionize Noth-
+ing?” Live online with Ferment TV by Gingko Bioworks, 1 July 2020. Accessed
+July 1, 2020. https://faberfutures.com/projects/ferment-tv/ferment-tv-05-must-
+we-revolutionize-nothing/.
+Engel, Stacia R.Fred S. Dietrich, Dianna G. Fisk, Gail Binkley, Rama Balakrishnan,
+Maria C. Costanzo, Selina S. Dwight, et al. 2013. “The Reference Genome
+Sequence of Saccharomyces Cerevisiae: Then and Now.” G3: Genes|Genomes|-
+Genetics 4 (3): 389-98.574 Science, Technology, & Human Values 49(3)
+Frow, Emma K. 2013. “Making Big Promises Come True? Articulating and Realiz-
+ing Value in Synthetic Biology.” BioSocieties 8 (4): 432-48.
+Gallone, BrigidaJan Steensels, Troels Pra hl, Leah Soriaga, Veerle Saels, Beatriz
+Herrera-Malaver, Adriaan Merlevede , et al. 2016. “Domestication and Diver-
+gence of Saccharomyces Cerevisiae Beer Yeasts.” Cell 166 (6): 1397-410.
+e16.
+Goffeau, A.B. G. Barrell, H. Bussey, R. W. Davis, B. Dujon, H. Feldmann, F.
+Galibert, et al. 1996. “Life with 6000 Genes.” Science 274 (5287): 546-67.
+Gudynas, Eduardo. 2011. “Buen Vivir: Today’s Tomorrow.” Development 54 (4):
+441-47.
+Gudynas, Eduardo. 2019. “Value, Growth, Development: South American Lessons
+for a New Ecopolitics.” Capitalism Nature Socialism 30 (2): 234-43.
+Haraway, Donna J. 2008. When Species Meet . Minneapolis: University of Minne-
+sota Press.
+Haraway, Donna J. 2016. Staying with the Trouble: Making Kin in the Chthulucene .
+Durham, NC: Duke University Press.
+Hayles, N. Katherine. 1999. How We Became Posthuman: Virtual Bodies in Cyber-
+netics, Literature, and Informatics . Chicago, IL: University of Chicago Press.
+Herskowitz, Ira. 1985. “Cell Biology: Yeast as the Universal Cell.” Nature 316
+(6030): 678-79.
+Holmberg, Tora, Nete Schwennesen, and Andrew Webster. 2011. “Bio-objects and
+the Bio-objectification Process.” Croatian Medical Journal 52 (6): 740-42.
+Ira Herskowitz Papers. 1974-2003. San Francisco, CA: University of California, San
+Francisco Library Archives & Special Collections.
+Johnston, Mark. 2000. “The Yeast Genome: On the Road to the Golden Age.”
+Current Opinion in Genetics & Development 10 (6): 617-23.
+Junka-Aikio, Laura, and Catalina Corte s-Severino. 2017. “Cultural Studies of
+Extraction.” Cultural Studies 31 (2–3): 175-84.
+Katz, Sandor Elix. 2012. The Art of Fermentation . White River Junction, VT:
+Chelsea Green.
+Klar, Amar J. S. 2003. “Human Handedness and Scalp Hair-whorl Direction
+Develop from a Common Genetic Mechanism.” Genetics 165 (1): 269-76.
+Krzywoszynska, Anna. 2019. “Caring for Soil Life in the Anthropocene: The Role
+of Attentiveness in More-than-human Ethics.” Transactions of the Institute of
+British Geographers 44 (4): 661-75.
+Landecker, Hannah. 2007. Culturing Life: How Cells Became Technologies . Cam-
+bridge, MA: Harvard University Press.
+Langer, Erika Michelle. 2016. “Molecular Ferment: The Rise and Proliferation of
+Yeast Model Organism Research.” PhD diss . San Francisco: University of
+California.Szymanski 575
+Larson, Greger, and Dorian Q. Fuller. 2014. “The Evolution of Animal Domes-
+tication.” Annual Review of Ecology, Ev olution, and Systematics 45 (1):
+115-36.
+Latimer, Joanna, and Mara Miele. 2013. “Naturecultures? Science, Affect and the
+Non-human.” Theory, Culture & Society 30 (7–8): 5-31.
+Latour, Bruno. 2004. “Why Has Critique Run Out of Steam? From Matters of Fact to
+Matters of Concern.” Critical Inquiry 30 (2): 225-48.
+Leonelli, Sabina, and Rachel A. Ankeny. 2013. “What Makes a Model Organism?”
+Endeavour 37 (4): 209-12.
+Leonelli, Sabina, and Rachel A. Ankeny. 2015. “Repertoires: How to Transform a
+Project into a Research Community.” BioScience 65 (7): 701-08.
+Millum, Joseph. 2010. “How Should the Benefits of Bioprospecting Be Shared?”
+The Hastings Center Report 40 (1): 24-33.
+Mitchell, Leslie A.James Chuang, Neta Agmon, Chachrit Khunsriraksakul, Nick A.
+Phillips, Yizhi Cai, David M. Truong, et al. 2015. “Versatile Genetic Assembly
+System (VEGAS) to Assemble Pathways for Expression in S. Cerevisiae.”
+Nucleic Acids Research 43 (13): 6620-30.
+Mol, Annemarie. 2002. The Body Multiple: Ontology in Medical Practice . Durham,
+NC: Duke University Press.
+Murray, Andrew W., and Jack W. Szostak. 1983. “Construction of Artificial Chro-
+mosomes in Yeast.” Nature 305 (5931): 189-93.
+Oliveira, Ana V., Rita Vilac ¸a, Cl´ audia N. Santos, V´ ıtor Costa, and Regina Menezes.
+2017. “Exploring the Power of Yeast to Model Aging and Age-related Neuro-
+degenerative Disorders.” Biogerontology 18 (1): 3-34.
+Parolini, Giuditta. 2018. “Building Human and Industrial Capacity in European
+Biotechnology: The Yeast Genome Sequencing Project (1989–1996).” dx.doi:
+10.14279/depositonce-6693.
+Pollan, Michael. 2006. The Omnivore’s Dilemma: A Natural History of Four Meals .
+New York: Penguin.
+Puig de la Bellacasa, Maria. 2011. “Matters of Care in Technoscience: Assembling
+Neglected Things.” Social Studies of Science 41 (1): 85-106.
+Puig de la Bellacasa, Maria. 2015. “Making Time for Soil: Technoscientific Futurity
+and the Pace of Care.” Social Studies of Science 45 (5): 691-716.
+Ratcliff, William C., Johnathon D. Fankhauser, David W. Rogers, Duncan Greig,
+and Michael Travisano. 2015. “Origins of Multicellular Evolvability in Snow-
+flake Yeast.” Nature Communications 6:6102.
+Richardson, Sarah M.Leslie A. Mitchell, Giovanni Stracquadanio, Kun Yang,
+Jessica S. Dymond, James E. DiCarlo, Dongwon Lee, et al. 2017. “Design of
+a Synthetic Yeast Genome.” Science 355 (6329): 1040-44.576 Science, Technology, & Human Values 49(3)
+Roman, Herschel. 1986. “The Early Days of Yeast Genetics: A Personal Narrative.”
+Annual Review of Genetics 20 (1): 1-14.
+Shao, YangyangNing Lu, Zhenfang Wu, Chen Cai, Shanshan Wang, Ling-Li Zhang,
+Fan Zhou, et al. 2018. “Creating a Functional Single-chromosome Yeast.”
+Nature 560 (7718): 331-35.
+Stevens, Hallam. 2013. Life Out of Sequence: A Data-driven History of Bioinfor-
+matics . Chicago, IL: University of Chicago Press.
+Szymanski, Erika Amethyst. 2018a. “Remaking Yeast: Metaphors as Scientific
+Tools in Saccharomyces Cerevisiae 2.0.” BioSocieties 14 (7): 416-37.
+Szymanski, Erika Amethyst. 2018b. “Who Are the Users of Synthetic DNA? Using
+Metaphors to Activate Microorganisms at the Center of Synthetic Biology.” Life
+Sciences, Society and Policy 14 (1): 15.
+Szymanski, Erika Amethyst, Robert D. J. Smith, and Jane Calvert. 2021.
+“Responsible Research and Innovation Meets Multispecies Studies: Why RRI
+Needs to Be a More-than-human Exercise.” Journal of Responsible Innovation .
+doi: 10.1080/23299460.2021.1906040.
+Szymanski, Erika Amethyst, Niki Vermeulen, and Mark Wong. 2019. “Yeast: One
+Cell, One Reference Sequence, Many Genomes?” New Genetics and Society 38
+(4): 430-50.
+Taffel, Sy. 2021. “Data and Oil: Metaphor, Materiality and Metabolic Rifts.” New
+Media & Society . doi: 10.1177/14614448211017887.
+Walker, Roy Scott Kamla. 2017. “De Novo Biological Engineering of a tRNA
+Neochromosome in Yeast.” PhD diss . Edinburgh, UK: University of Edinburgh.
+Zhu, Yiwen, and Darren Kuang. 1992. “Construction of the Physical Map of Yeast
+(Saccharomyces Cerevisiae) Chromosome V*.” Cell Research 2 (1): 25-34.
+Author Biography
+Erika Szymanski is an assistant professor of rhetoric of science at Colorado State
+University. Her research concerns words as scientific tools, particularly as they
+participate in what microbes become through what humans do with them, with a
+current focus on genome synthesis and engineering microbiomes.Szymanski 577

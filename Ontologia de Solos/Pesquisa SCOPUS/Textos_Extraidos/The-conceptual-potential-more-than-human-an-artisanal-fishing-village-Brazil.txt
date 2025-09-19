@@ -1,0 +1,1189 @@
+Geo: Geography and Environment. 2024;11:e00159.     | 1 of 25
+https://doi.org/10.1002/geo2.159
+wileyonlinelibrary.com/journal/geo2Received: 11 March 2024 | Revised: 21 October 2024 | Accepted: 8 November 2024
+DOI: 10.1002/geo2.159  
+ARTICLE
+The conceptual potential of ‘more- than- human care’: 
+A reflection with an artisanal fishing village in Brazil
+Adriana Ressiore C.1 |   David Ludwig1 |   Charbel El- Hani2,3
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any 
+medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2024 The Author(s). Geo: Geography and Environment published by the Royal Geographical Society (with the Institute of British Geographers) and John Wiley & Sons 
+Ltd.The information, practices and views in this article are those of the author(s) and do not necessarily reflect the opinion of the Royal Geographical 
+Society (with IBG). 1Knowledge, Technology and 
+Innovation Chair Group, Wageningen 
+University, Wageningen University, 
+Wageningen, The Netherlands
+2National Institute of Science and 
+Technology in Interdisciplinary and 
+Transdisciplinary Studies in Ecology 
+and Evolution (INCT IN-  TREE), 
+Salvador, Brazil
+3Institute of Biology, Federal University 
+of Bahia, Salvador, Brazil
+Correspondence
+Adriana Ressiore C., Knowledge, 
+Technology and Innovation Chair 
+Group, Wageningen University, 
+Wageningen, The Netherlands.
+Email: adriana.ressiorecampodonio@
+wur.nl
+Funding information
+Sociale en Geesteswetenschappen, 
+NWO, Grant/Award Number: V1.
+Vidi.195.026; European Research 
+Council, Grant/Award Number: 
+851004; Instituto Nacional de Ciência e 
+Tecnologia da Criosfera, Grant/Award 
+Number: 307223/2021- 3, 423948/2018- 0 
+and 465767/2014- 1Abstract
+As dominant approaches to biodiversity loss and climate change continue to 
+fail in mitigating current socio- environmental crises, scholars and activists are 
+exploring novel conceptual frameworks to drive transformative change in con-
+servation. Among these, more- than- human care has emerged as a concept at 
+the intersection of feminist debates about care and post- humanist discussions 
+around the more- than- human. Although more- than- human care is increasingly 
+referenced in the literature, it remains sparsely situated in the Global South. 
+This article investigates the concept's potential to articulate care relations that 
+can foster more plural, respectful, and transformative biodiversity conservation 
+practices in local communities. Our research is situated in an artisanal fishing 
+village in Brazil, where we engaged with both human and non- human members 
+of the community to engage with their perspectives on more- than- human care 
+and its relevance to their local concerns. From our analysis, four key dimensions 
+emerged: the vital and everyday nature of caring; the relationality between hu-
+mans and non- humans; reciprocity; and the fostering of flourishing for as many 
+as possible. Our core argument is that the interaction between community prac-
+tices and care theory enables new perspectives that center on daily and recipro-
+cal care relations often overlooked in mainstream conservation approaches. By 
+situating the conceptual potential of more- than- human care within the Global 
+South, we underscore its ability to make the invisible visible and to inspire action 
+for transformative change.
+KEYWORDS
+Brazil, care, fishing village, more- than- human care, participatory action research, reciprocity, 
+transformative change
+
+2 of 25 |   
+RESSIORE CAMPODONIO et al.
+1 | INTRODUCTION
+The biodiversity crisis is causing alarm around the world, resulting in the creation of conventions, panels, and a lively 
+interdisciplinary debate between critical geography, political ecology, multispecies studies, biology, and environmental 
+humanities, among other fields (e.g. Braverman,  2014; Butt et al.,  2018; Menon & Karthik,  2017; Root- Bernstein,  2016; 
+Thomsen & Thomsen,  2021). While biodiversity has become a global research and policy concern (IPBES,  2022), there is 
+also increasing recognition that current conservation regimes are failing to curb biodiversity loss and create sustainable 
+futures (Global Witness, 2015; Petchkaew, 2023; Reddy, 2023).
+Given the failures of fenced and fortress conservation approaches (Rai et al.,  2021; Rodary,  2008), many alternative 
+proposals have emerged that challenge the strict separation of humans and non- humans in terms of conviviality (Büscher 
+& Fletcher,  2019), commons (Agrawal & Chhatre,  2006; Persha et  al.,  2010), and socio- biodiversity (Menezes,  2021), 
+among others. These approaches emphasise that humans and non- humans,1 as well as natural and social factors, cannot 
+be fully separated (Adams et al.,  2004) and that centering on the coexistence of humans and non- humans is essential for 
+creating respectful, plural, and transformative conservation. This paper investigates the concept of more- than- human 
+care,2 which refers to care relations between humans and non- humans. Our core argument is that the interplay between 
+community practices and care theory produces new theoretical and empirical insights for redefining relationships in 
+biodiversity conservation.
+To engage with this concept, we put feminist and post- humanist care theories in conversation with daily community 
+practices. While the term more- than- human care is used in various academic contexts (Barnett,  2023; Barnett et al.,  2021, 
+2024; Cañada et al.,  2022; Chen & Pschetz,  2024; Chua,  2021; Just,  2022; Margulies,  2022; Perdibon & McSherry,  2023; 
+Puig de la Bellacasa,  2017; Ressiore,  2022; Silberzahn,  2024; Slater,  2021; Søndergaard,  2023; Yates,  2021), definitions and 
+examples of its conceptual potential in Global South settings remain sparse (Raghuram,  2016). This scarcity limits our 
+collective ability to envision care that extends beyond humans (Silberzahn, 2024).
+Authors such as Puig de la Bellacasa (2017), Krzywoszynska (2019, 2015), Silberzahn (2024), Pitt (2018), Dunkley (2023), 
+Adams (2020), Barnett (2023), Weitzman et al. (2024) and Maizza and Oliveira (2022), among many others, are concerned 
+with more- than- human care, some using and others not using the term. Puig de la Bellacasa has been influential in de -
+centering the human from care activities, sharing the understanding that ‘care is everything we do to maintain, continue, 
+and repair our world’ (Fisher & Tronto,  1990, p. 40) and it must explicitly involve humans and non- humans (Puig de la 
+Bellacasa, 2017; Silberzahn, 2024).
+Concerns about care, respect, and plurality in conservation policies and actions require that processes, projects, and 
+decision- making become more plural (De La Rosa et al.,  2024; IPBES,  2022; Massarella et al.,  2022). This means involving 
+stakeholders in transdisciplinary processes, especially knowledge and practices of Indigenous and local communities, as 
+they are crucial to maintaining biodiversity worldwide (Thaman et al.,  2013) and hold ‘in-  depth and time-  depth knowl-
+edge about biodiversity and ecosystems’ (UNEP,  2012). However, in biodiversity conservation, a lack of attention to daily, 
+relational, and reciprocal care can invisibilise relations and practices fundamental to a conservation process that is more 
+plural while not ‘flat’ in denying ontological differences.
+Our study is situated in Siribinha (Conde, in Bahia, Brazil), a fishing village with mangroves, river, sea, rich artisanal 
+fishing practices, and knowledge (Figure  1). Siribinha is the site of collaboration between the authors and community 
+members. This research was part of a broader research project focused on the community's social, educational, and envi-
+ronmental challenges, including conservation efforts and the preservation of local ecosystems and fishing practices. Over 
+eight years, researchers have built care, friendship, and trust relations with community members (Bollettin et al.,  2023; 
+De La Rosa et al., 2024; Rocha et al., 2020).
+With daily interactions between humans and non- humans, influenced by local culture and practices, Siribinha is a rel-
+evant location for reflections and practices of more- than- human care. The community is simultaneously a place of abun-
+dance and lack of care. While the intertwined histories of the socio- biodiversity context create a rich web of care relations, 
+this fishing village's economic and social marginalisation also exposes a lack of institutional and structural care. Basic 
+care from the State is often absent, while violent forms of development (Escobar,  1994; Porto-  Gonçalves,  2019; Ziai,  2020) 
+linked to environmentally impactful tourism and gentrification processes threaten lives and hinder care practices.
+To interplay the field experiences in Siribinha with insights from feminist and post- humanist care debates, we sur -
+veyed the literature on more- than- human care. From examining the literature, we question this concept's meaning and 
+investigate its potential by situating it in the local relationships between humans and non- humans. What emerges from 
+more- than- human care within the local community? What are the potentials of the more- than- human care concept for 
+biodiversity conservation practices?
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 3 of 25
+RESSIORE CAMPODONIO et al.
+We first discuss the necessary theoretical framework and literature regarding more- than- human care to carry out this 
+study. Then, we present the feminist and participatory methods used in the field for data collection and analysis. This 
+is followed by a detailed introduction to Siribinha's context. Next, our analysis involves an interplay of empirical and 
+theoretical reflections on the four dimensions of more- than- human care that emerged: daily, relational, reciprocal, and 
+flourishing. In our discussion, we reflect on the wideness and plurality of care meanings and practices while we specify 
+it with theoretical, empirical, and biodiversity conservation insights. We conclude by synthesising the more- than- human 
+care concept, referring to its interdisciplinary contributions, and inviting future research.
+2 | MORE-  THAN- HUMAN CARE
+To understand the concept of more- than- human care, we must refer to care and more- than- human debates. Theoretical 
+debates about care have become increasingly prominent in academic settings (Lindén & Lydahl,  2021; Mol et al.,  2015; 
+Moriggi,  2021). These debates are multiple, involving health care (Mol et al.,  2011), unpaid domestic labour (Weeks,  2011), 
+politics (Chatzidakis et al.,  2020; Cox,  2010; IDAS,  2023; Tronto,  2013), ethics (Barnes,  2012; Conradi,  2015; Gilligan,  2011; 
+Kuhnen,  2014), among others. Feminist scholars highlight that despite this attention, care relations remain at the margins of 
+many academic and public debates, often still taken to be of secondary importance or a private matter (Mol & Hardon,  2020, 
+p. 186; Lindén & Lydahl,  2021). Although care is a work that sustains life and drives the economy, it is often invisibilised in 
+our society (Laugier,  2021). While feminists have shown that care is essential to maintaining life, they have also discussed 
+the economic, political, and social burdens associated with daily care often disproportionately fall on marginalised groups 
+such as women, people of colour, and immigrants (Akotirene, 2019; Barnes, 2012; Case, 2000; Laugier, 2021).
+Care necessities diverge strongly depending on intersectional conditions (Crenshaw,  2017), such as context, iden-
+tities, social positions, agendas, and struggles (Esteves & Maia,  2021). Still, they are an existential condition for every -
+one at some point in life (Cox,  2010). While care remains relevant as a human conceptualisation of certain practices, 
+it has become crucial to discuss together its human and non- human elements as parts of a shared ecology (Cañada 
+et al.,  2022). Accordingly, Puig de la Bellacasa (2017), Moriggi, Soini, Bock, and Roep (2020); Moriggi, Soini, Franklin, 
+and Roep (2020), Maizza and Oliveira (2022), Adams (2020), Silberzahn (2024), Krzywoszynska (2019), Dunkley (2023) 
+and others argue that we need to think of care beyond human- human relations, recognising non- humans as powerful FIGURE 1 Left: Siribinha's location in the municipality of Conde, Bahia, northeastern Brazil. Figure from Renck et al. (2022, modified 
+from Guimarães et al., 2020). Right: A view from the community of Siribinha from above shows its location between the Itapicuru River 
+estuary and the Atlantic Ocean. Photo: José Amorim Reis Filho, reproduced under permission (CC- BY- NC).
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4 of 25 |   
+RESSIORE CAMPODONIO et al.
+agents and essential parts of the life-  sustaining web that allows humans to exist in the first place. In other words, care 
+cannot be conceived without the non- humans.
+Care as a web of interdependence connects to the different meanings of more- than- human. It is not just to ‘question or 
+critique the hegemony of humans over non- humans, [it is to] undermine the very possibility of thinking about humanity as 
+autonomous and self-  determined’ (Jaque et al.,  2021, p. 6). However, the concept ‘more- than- human’ is also used very loosely 
+in different ways, for example, to refer to a synonym of nature (Just,  2022), to geological, atmospheric, hydrological, and bi-
+ological kin (Yates,  2021), as a synonym for other- than- human or non- humans (Bonner & Abdelmalik,  2008; Wright,  2015); 
+among other uses (Reis-  Castro, 2021). In this article, we understand it as a concept that goes beyond a ‘human-  only’ sphere 
+(Tsing et al.,  2021), changing the usual focus from human-  centric to beyond human, thus to a more- than- human-  centric per -
+spective. In the more- than- human world, ‘bodies, objects, arrangements are always in- the- making’ and humans ‘are always 
+in composition with’ the non- humans, breaking down barriers and going beyond one or the other (Whatmore,  2006, p. 603). 
+Hence, making both interdependence3 and collectivity important aspects of more- than- human relations.
+To think with a more- than- human lens is to actively blur the lines of what for centuries has been separated by di-
+chotomies between ‘humans’ and ‘non- humans’ (Elton,  2022; Descola,  2013). As Whatmore (2002) argues, humans and 
+non- humans are co-  constituted, or they become together, as Isaacs (2020) states. As stressed above, more- than- human 
+relations form a web, a network of life that demands a mode of inquiry that goes beyond discourse (Haraway,  1988; 
+Whatmore,  2006). In this sense, the concept allows many senses to come together so that humans can connect with their 
+insides and outsides (Abram, 2012; Ressiore, 2022).
+According to Krzywoszynska (2019), more- than- human approaches are about forging relations that can make the 
+world more accommodating, friendly, convivial, and flourishing (see also Barker,  2008; Bingham,  2006; Haraway,  2008; 
+Hinchliffe & Whatmore,  2006). Ergo, our research emphasises that thinking, researching, and reflecting about others is 
+not what we do. What we do is with the ‘others’ —whether human or non- human (Haraway,  2016; Turnhout et al.,  2013).
+Through an integrative literature review4 (Snyder,  2019) focused on the term ‘more- than- human care,’ we learned 
+about the multiplicity and diversity of studies around it. For example, research on green care (e.g. Garcia- Llorente 
+et al.,  2018; Hassink & Van Dijk,  2006; Moriggi,  2021; Steigen et al.,  2016) and environmental care (e.g. Johns- Putra,  2013; 
+Salazar-  Ordóñez & Sayadi,  2011; Simanjuntak et  al.,  2023) is plentiful. Further, there has been recent discussion on 
+politicising more- than- human care as a step for socio-  ecological regeneration (Silberzahn,  2024). Some argue for the 
+importance of attentiveness within more- than- human care, which can result in reflexivity, such as thinking about care as 
+a systemic project rather than an individual responsibility (Krzywoszynska, 2019).
+Our integrative literature review identified still sparse cases in Brazil grounded in care reflection within local, Indigenous, 
+and traditional practices. From the ones found, Maizza and Oliveira (2022), Losito (2022), Weitzman et al. (2024), Bispo 
+dos Santos (2023), and Krenak (2020) were the main inspirations for our analysis and discussion. In such work, care con-
+nects to movement: a dynamic and disruptive practice (Maizza & Oliveira,  2022; Weitzman et al.,  2024). It also connects 
+to cure, respect, and connection with non- humans and enchanted beings (Weitzman et al.,  2024). The literature also 
+refers to asking permission and engaging with enchanted beings (ibid.). Indigenous and local practices have shown how 
+living well with non- humans is possible, inspiring many flourishing possibilities for many (Krenak,  2020; Losito,  2022). 
+The literature also highlights that care is intuitive (Krzywoszynska,  2019) and not linear (Bispo dos Santos,  2023). Care is 
+messy and full of constant iterations (Moriggi, Soini, Bock, & Roep, 2020).
+Thinking with more- than- human care can make visible a web of interconnectedness where humans are part of an 
+interdependent world – this web that can be powered and informed by reciprocity between humans and non- humans 
+(Kimmerer,  2014). Surveying care literature is challenging due to its breadth and diversity, we learned that countless as -
+pects of care practices, definitions of care, and elements of caring relations exist. In this section, we highlight, in italics, 
+the aspects that influenced our analysis. These are burdens, daily, agency, collectivity, dependence, convivial, attentive -
+ness, responsibility, respect, connection, asking permission, flourishing, interconnectedness, reciprocity, and maintenance. 
+Although this is not an exhaustive list, we discuss these theoretical aspects with empirical reflections from shared experi-
+ences in the local context to understand their potential for respectful, plural, and transformative conservation efforts.
+3 | METHODS, DATA COLLECTION AND ANALYSIS
+The research methodology for data collection and analysis draws on principles of Participatory Action Research (PAR) 
+(Gorelick,  1991; Kindon et al.,  2007; MacDonald,  2012) and feminist methodologies (Harcourt et al.,  2022; Harding,  1993). 
+Following these principles, four main methods were performed: semi- structured interviews (Roulston & Choi,  2018), 
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 5 of 25
+RESSIORE CAMPODONIO et al.
+autoethnography (Ellis et  al.,  2011), focus groups (Chiu,  2003) (Figure  2), and participant observation (Flick,  2009) 
+(Figure  3). These approaches emphasise embodied research and consider that the ‘researcher is transformed in the 
+process of research—influenced and taught by her respondent participants as she influences them’ (Gorelick,  1991, p. 
+469). The variety of methods allowed for adaptation, improvisation, and flexibility, which are essential characteristics of 
+research aiming to be inclusive, participatory, and careful.
+Using the methods mentioned above, the field research was embedded in a long- term collaboration between the authors 
+and the community. Fieldwork conducted by the first author over three consecutive months in 2022 and three weeks in 
+2023 focused on building trust, friendships, and mutual understanding with the community (Caxaj,  2015; Milberg,  2021; 
+San Pedro & Kinloch,  2017). Sharing the daily life of the fishing community was essential for building relationships, under -
+standing the context, and adjusting the interview questions to the community members' reality (DeVault & Gross,  2007). 
+This included finding the correct vocabulary and reflecting on ways of talking about more- than- human care that would 
+make sense to participants. To talk about such a complex concept, the first author's first weeks were essential to identify 
+the best words to represent or better translate more- than- human care into Portuguese. The main words used were cuidado  
+or cuidar, which translates into care. However, the study was conducted in a generative and dialogical format that aimed 
+at understanding first what the participants thought those words meant and then thinking of care between humans and 
+non- humans (cuidado entre humanos e natureza,5 in Portuguese). The following questions, in Portuguese, were essential 
+to discuss more- than- human care: Does nature care? Does nature care for you? Do you care for nature? Do you feel con-
+nected to Siribinha? Why? How do you relate to specific non- human beings6? All questions are available in Annex 1. Being 
+Brazilian and a native Portuguese speaker facilitated the capacity to navigate the nuances of the language and its meanings.
+The first author engaged a diverse group of people regarding age, gender, and roles for the semi-  structured interviews 
+(Table  1). Initially, researchers familiar with the village introduced her to many participants, and, later, community mem-
+bers advised her on others they considered relevant or interested in the topic. Before each interview, she would get to 
+know most of them through informal conversations. Reflecting on feminist insights into how PAR can be unsettling and 
+challenge participants' comfort, the interview approach was mindful of the interpersonal complexity of answering what 
+many considered unusual questions—they involved tuning into the creativity, intuition, and emotions of the participants 
+(DeVault & Gross, 2007; Harcourt et al., 2022; Roulston & Choi, 2018). In total, 35 interviews were performed.
+To capture the diverse influences on human and non- human relationships in Siribinha, the first author interviewed 
+community members, researchers, and local policymakers,7 all possessing crucial influence on the relations and practices 
+of more- than- human care, which included humans and non- humans (van den Berg & Rezvani, 2022).
+During the transcription of semi-  structured interviews, essential quotes were translated from Portuguese into English 
+(original quotes, Annex 2). The analysis uses quotations to provide a broad account of the participants' experiences, in-
+sights, and knowledge. When quoting, we place the pseudonyms and the acronym of the ‘group’ the participant belonged 
+to between brackets (Table  1). Given Siribinha's small size, minimal details about the participants are disclosed to prevent 
+identification and respect their privacy. We highlight that the use of quotations does not aim to give a full spectrum of a 
+unified view of all research participants.
+Throughout the more- than- human care integrative literature review (Snyder,  2019), preparation for fieldwork, field-
+work, and data analysis, cycles of action and reflection occurred (Cahill,  2007, p. 182)—inspired and informed by PAR 
+FIGURE 2 Focus group with researchers and community members, February 2022. Photo: Mariana Batista (reproduced under 
+permission—CC- BY- NC – Permission to share image granted by workshop participants).
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+6 of 25 |   
+RESSIORE CAMPODONIO et al.
+(Gorelick,  1991; Kindon et al.,  2007; MacDonald,  2012). During these cycles, inductive and deductive processes focused 
+on prominent theoretical concepts and lived experiences of more- than- human care in the community. While performing 
+the analysis, the authors concentrated on what was prominent in the lived experience, questioning what more- than- 
+human care meant and how it structured relations in the community. A wide range of patterns emerged from the analy -
+sis, including non- humans as agents and capable of caring, the everyday character of care, reciprocity between humans 
+and non- humans, fears about the present and future, care as a burden, care as cleaning and not polluting, and prefigura-
+tive thoughts for Siribinha. Considering these topics, the first author returned to the theory (feminists and post- humanist 
+care theories and the indigenous, local, and traditional care knowledge and practices literature), then back to the data, 
+finding common, diverging, and complementing lines. An outcome of this critical and dynamic analysis was the identi-
+fication of four main more- than- human care dimensions (Section 5).
+The process of action and reflection (Kindon et al.,  2007) also involved gathering participant feedback to refine the 
+interview protocol and focus group dynamics. In the subsequent fieldwork in 2023, the first author returned with the 
+selected—included in this article—and discussed them with community members (CMs). This activity was called Caring 
+with Siribinha focus group (Annex 3). The initial plan was motivated by the responsibility and desire to bring back 
+some research participant insights and share parts of what the first author learned with them. However, reflections and 
+questions from CMs on the quotes and the dimensions developed through the analysis contributed significantly to the 
+analysis and conclusion of this article (Cahill, 2007).
+4 | SIRIBINHA
+Anna Tsing argues that it ‘takes concrete stories to make any concept come to life’ (Tsing,  2015, p. 66). With that in mind, 
+we introduce Siribinha, an artisanal fishing village home to around 500 inhabitants (Renck et al.,  2022; Tng et al.,  2021) FIGURE 3 Navigating through the mangroves. Community members invited researchers to gather fruits from restinga. (Shrubby 
+thicket- like forests growing on sand dunes) March 2022. Photo: First author's own.
+TABLE 1 Information on semi- structured interviews with research participants.
+Group Group acronym Number of interviews
+Community members (varied group)aCM 24
+PolicymakersbPM 3
+Researchers R 7
+Tourist T 1
+aNote that defining people under the umbrella of community members (CM) is quite difficult as it involves a good variety of identities, interests, professions, 
+and stories. Under the umbrella of CM, we have considered: the younger generation (5 people); seasonal inhabitants, people who have houses in the 
+community but are not from there (3); CMs who are also involved in policy- making (2); elderly who used to be fisherman or fisherwomen (3); currently 
+fishermen (5); currently fisherwomen (3); community teacher (1); other varied activities (5). With few exceptions, most of them are involved in tourism- related 
+activities such as owning a little hotel, having a bar/restaurant, and doing boat rides for tourists, housekeeping for veranistas (seasonal tourists that own houses 
+in Siribinha), etc.
+bThe first author interviewed 5 policymakers, who are employed by the Secretary of Environment and Economic Development of Conde municipality. 
+However, two of them are also part of the community and were, thus, counted as CMs in the Table. In the text they are referred as CM/PM.
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 7 of 25
+RESSIORE CAMPODONIO et al.
+who mostly share four main surnames. Community members know each other well; many grew up and fish together. 
+The houses are usually colourful and close to each other, mainly on the same main street that crosses the whole village 
+(Figure  3). The landscape of the fishing village is characterised by many small fishing boats (Figure  4), fishing nets, 
+aratu8 peels, massunim9 shells, a football field, a little blue church, some bars and restaurants, some little shops, two 
+piers, among other features (Figure 5).
+Siribinha is a village situated in the municipality of Conde whose economy primarily relies on coconut plantations, 
+cattle raising, and, particularly in coastal communities: fishing, and tourism (Demasi,  2023; Renck et  al.,  2022; Tng 
+et al.,  2021). While the municipality grapples with native vegetation suppression, the Itapicuru estuarine environment 
+maintains good conservation. Conde is in Bahia, part of Brazil's Northeast region, which has the highest concentration 
+of poverty and inequalities in educational opportunities (IBGE,  2022a, 2022b). Disenfranchisement and marginalisation 
+are key factors to understanding many traditional communities in the Northeast region, where access to public services 
+is often less available than in the other areas of the country, such as the South and the Southeast. However, where there 
+is struggle, there is also resistance. This area holds a history of resistance to colonisation, slavery, and land exploitation 
+by European and Brazilian elites (Ferretti, 2019).
+Siribinha is abundant in beauty, life diversity, histories and tales, faith, touristic areas, and extensive mangroves that 
+hold their mysteries and serve as a nursery for marine life, restinga fruits, among other features. Siribinha is also abun-
+dant in knowledge. Previous research documented knowledge on artisanal fishing practices (Renck et al.,  2022), fishers' 
+explanation about ecological patterns and dynamics (El- Hani et al.,  2022), local plants and their uses (Tng et al.,  2021), 
+educational practices (Fonseca, 2021; Silva, 2022), etc.
+Since 2016, the inter- transdisciplinary research project led by investigators from Universidade Federal da Bahia and the 
+National Institute of Science and Technology in Interdisciplinary and Transdisciplinary Studies in Ecology and Evolution 
+built trust and personal bonds with the fishing community (De La Rosa,  2020; De La Rosa et al.,  2024; El- Hani et al.,  2022; 
+Milberg,  2021). The researchers' ongoing presence in the community (i) enabled the first author to build friendships and 
+establish trust in a relatively brief period and (ii) positioned the researchers as advantaged actors in understanding more- 
+than- human care relations in Siribinha.
+In 2018, the municipality established a top-  down conservation policy, creating the Siribinha Peninsula Natural 
+Monument in the Itapicuru estuary as part of a planned mosaic of protected areas. However, most community members 
+were unaware of this process (De La Rosa et al.,  2024). While the policy could benefit local communities by conserv -
+ing vital ecosystems, their exclusion from decision- making diminished their agency in managing their territories. The 
+research team mentioned above has been advocating for a bottom- up conservation process co-  created with the CMs 
+to encourage them to participate in conservation decisions. The team's efforts face significant challenges due to the 
+local government's limited commitment to incorporating local knowledge and interests, favouring top-  down approaches 
+(Bollettin et al., 2023; De La Rosa et al., 2024).
+‘Siribinha can be understood as a village at the crossroads where effort and conflict over conservation and development 
+meet’ (Milberg et al.,  2024, p. 4). The community faces challenges such as silting of rivers, lack of waste management, 
+FIGURE 4 Siribinha's main street. Behind the tree, the colourful houses. March 2022. Photo: Beatriz Demasi A. (reproduced under 
+permission – CC- BY- NC).
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+8 of 25 |   
+RESSIORE CAMPODONIO et al.
+pressure from semi- industrial fishing, decrease in fish and shellfish populations, and limited access to public health and 
+schooling, alongside the large-  scale oil spill that affected the Brazilian shore in 2019 and 2020 (Fonseca,  2021; Lourenço 
+et al.,  2020). These issues highlight the social and environmental injustices affecting the community and its wider con-
+text (Sections  5 and 6). In the region, predatory and poorly managed tourism is growing. The ‘advance of real estate 
+construction attracts people from large urban centers, displacing local dwellers and increasing the price of houses and 
+land (gentrification)’ (Demasi,  2023, p. 10). Communities on the north coast of Bahia, including in Siribinha, are at risk 
+of displacement and cultural erosion due to tourism-  driven development. The stakes are high, as tourism ‘put[s] coastal 
+strips in danger, displaying cruel and explicit segregation. Gentrification in these territories transcends physical and spa-
+tial issues. Supported by the public authorities, foreign capital becomes the main protagonist of these changes’ (Mello 
+et al.,  2016, p. 4). Almost every coastal area of Bahia is at risk of gentrification and real estate speculation. While some 
+people and communities try to resist, many see no other choice but to change their lifestyles, which endangers traditional 
+fishing cultures and the good conservation status of the environments they depend on. In Siribinha, such processes have 
+been happening slowly, but their dangers knock at the doors of the community and become increasingly present in the 
+daily lives of the fishers.
+5 | MORE-  THAN- HUMAN CARE DIMENSIONS REFLECTED WITH  
+SIRIBINHA
+The interplay of theory and practice through qualitative and participatory methods allowed for in- depth dialogues about 
+care relations, from which four dimensions emerged that were discussed with the care literature. These dimensions do 
+not aim to be universal but reflexive of the context of Siribinha while also providing learning opportunities for other loca-
+tions. Our analysis follows the premise that concepts are tools because ‘they should not impose themselves on the analyst 
+but serve the analysis’ (Mol & Hardon,  2020, p. 199). From this premise, we identify the aspects that emerge from what 
+is known in the literature based on the interpretation of the data.
+5.1 | The vital and everyday- activity character of caring
+Community members in Siribinha emphasised the vital and daily character of care. For example, Santiago and Margarida 
+said:
+We care every day, right? Care is daily; if we want to be here in the future, we must care. 
+(Santiago, CM)FIGURE 5 Boats used for fishing in the river. March 2022. Photo: First author's own.
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 9 of 25
+RESSIORE CAMPODONIO et al.
+Care is in the small gestures of daily life. 
+(Margarida, R)
+This daily care was often connected to how they frequently discussed conservation, avoiding pollution, and trash 
+cleanup when asked about caring for and with non- humans.
+I don't throw [trash in nature]; sometimes I pick up from others, put it in the right place. 
+(Santiago, CM)
+[to care] primarily is not throwing trash in the street. And, for example, when the garbage collection comes, I 
+put my trash out right away. However, if I go and put my trash away tomorrow but the collection comes only 
+on Wednesday, the animals will come, destroy and spread everything, and then everything will be messy and 
+dirty there. If you let that happen, you are polluting. 
+(Clarice, CM)
+This reflects their awareness of how the waste impacts themselves, their neighbours, other living beings, and their 
+livelihoods. The routine of putting out the trash on the correct collection day illustrates this daily care practice, linked to 
+responsibility, maintenance, repair, and attentiveness to others' needs, which refers to what Mia said:
+…if we care for it, we cultivate it, right? And if we cultivate, we'll always have it. So, if we take care of every -
+thing, we'll always have something. It will always remain/maintain, but if we're not careful, we'll never have 
+anything, right? Nothing will ever remain. 
+(Mia, CM/PM)
+Based on this argument, we can reflect on how care ensures the community's continuity, reinforcing the idea of care 
+as maintenance that requires responsibility and daily action.
+CMs frequently raised concerns about trash, emphasising the importance of raising awareness among themselves 
+and tourists. Through participant observation and workshops, an example of daily and collective care emerged: CMs 
+suggested organising cleanup days and creating collective signs (Box  1). They acknowledged that while these activities 
+are crucial for fostering a sense of community, they also highlight the unequal burdens of care — where some individuals 
+take responsibility for cleaning while others continue to pollute.
+Despite these complexities, conflicts, and dilemmas that come with care (Bartos,  2018; Cox,  2010; Ressiore 
+et al.,  2024; Weitzman et al.,  2024), daily acts of care are prominent in how shellfish gatherers relate to the man-
+grove. CMs emphasised the importance of not breaking or cutting down the mangrove trees and respecting them (see 
+Pitt,  2018). In the mangroves, the shellfish gatherers sing, whistle, and make noise to fish aratu because they say, 
+‘Aratu likes a party’. The daily fishing practice aims primarily to provide for their families but also reflects a long- term 
+commitment to sustainable fishing. For example, if an aratu or a fish is too small or unnecessary, they often return 
+it to the mangrove or river.
+Care is both vital and daily. It involves small, often unnoticed gestures that keep everything functioning, like putting 
+the trash out on time or being attentive to human and non- human neighbours' needs. This understanding resonates with 
+the feminist academic care literature, as Mol and Hardon (2020, p. 188) explain: ‘The whole of society is constituted by it. 
+Teachers care for their pupils’ growth, bakers for those who eat their bread, and customers show care by paying. Calling 
+these activities care foregrounds interpersonal relations and mutual dependence’. This perspective, echoed by Puig de la 
+Bellacasa (2015), suggests that care involves maintaining a web of relations crucial for ecosystem vitality that extends 
+beyond human-  centric benefits.
+5.2 | More- than- human: Human and Non- Human Relationality
+To better understand the more- than- human aspect of care, it is essential to look at its potential to enable and un-
+derstand connections. Hence, this dimension involves the human and non- human relations in Siribinha. ‘Care is 
+embedded in the practices that maintain webs of relationality and is always happening in between’ (Puig de la 
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+10 of 25 |   
+RESSIORE CAMPODONIO et al.
+Bellacasa,  2017, p.166). Care is a form of relationship that creates relationality while allowing us to move away from 
+binaries (Harcourt et al., 2022).
+Relationality becomes clear when one observes practices; still, the knowledge shared orally revealed much about their 
+more- than- human (dis)connections and (dis)respect. Research participants’ responses to questions about their connec-
+tion to Siribinha, whether they felt nature cared for/with them, and their thoughts/feelings/relationships with the man-
+grove, sea, fish, and other non- humans were highly relevant for reflecting on this dimension.BOX  1 Autoethnographic reflection on the dilemmas of everyday care in Participatory Action 
+Research.
+Everyday care dilemmas in PAR
+During the first fieldwork, Gabriela De La Rosa and the first author developed activities that involved focus 
+groups inspired by PAR and art- based methods. One suggestion from the community was to create signs to 
+raise awareness about pollution and littering in the mangrove, the beach, and the community. As researchers, 
+we considered the resources, time, and materials available in the neighbourhood for making the signs with the 
+community.
+Despite the challenge of finding materials in the region around the village, we acquired and brought wooden 
+plaques, acrylic paint, and sealant for wood, hoping to make the signs durable. In March 2022, after producing 
+the signs together, community members and researchers placed them in strategic locations based on community 
+members' suggestions (Figures 6 & 7).
+By July 2022, some signs had already disappeared. By April 2023, only three remained standing (Figure  8). Some 
+signs had fallen, termites ate some, and others, we just do not know their whereabouts. These wooden signs high-
+lighted unresolved dilemmas in participatory research practice and the everyday character of care.
+Did the short lifespan of the signs indicate a lack of care on our part? Did we fail to choose appropriate materials 
+or consider maintenance adequately? Although we designed and built the signs with the community, should we 
+have planned the entire process more thoroughly before and after installation? Did we miss an essential daily 
+step? What could we have done differently in that situation? How do we reconcile more- than- human care with 
+the practical challenges faced during fieldwork? Does caring in the moment imply a commitment to permanent 
+care? As Mol and Hardon (2020, p.199) note, ‘caring (…) is not rule- driven; it is not invested in principles. Instead, 
+it draws on varied resources that may all work, even if in different ways’. We learned that while ‘practice and 
+completion of care is paramount’ (Raghuram,  2016, p. 520), maintaining care involves dilemmas that must be 
+continually negotiated and re- negotiated over time.
+FIGURE 6 Most signs produced during the focus group in March 2022. A total of 11 signs were produced. Photo: First author's own.
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 11 of 25
+RESSIORE CAMPODONIO et al.
+FIGURE 7 In August 2022, one of the still- standing signs. April 2023, sign was gone. Photo: Julia Turska (reproduced under permission 
+– CC- BY- NC).
+FIGURE 8 One of the three still- standing signs in July 2023. Photo: Fabiana M. C. Santos (reproduced under permission—CC- BY- NC).
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+12 of 25 |   
+RESSIORE CAMPODONIO et al.
+During the interviews, CMs like Malu and João suggested that tourism and money undermined respectful relational 
+practices in Siribinha.
+… tourism brought a lack of respect 
+(João, CM)
+When tourism arrived, it brought the money, you start working, you start making money, and when you 
+make money, you become someone else, so you lose that essence. 
+(Malu, CM)
+João's statement underscores the negative influence of activities, like tourism, on Siribinha's traditional care practices. 
+It is an external pressure that disrupts established respectful relationships between humans and non- humans. Both he 
+and Malu mentioned that tourism brought changes that catalyse negative developments in how they relate to other non- 
+human beings—especially the river, sea, and mangroves. João expressly referred to disrespect in human- human relations 
+and human–non- human interactions. While tourism provides essential income from visitors buying drinks and food at 
+local bars, which supports many CMs' livelihoods, many expressed concerns about its negative impacts.
+Through participant observation and informal, often nostalgic conversations, Malu shared that Siribinha used to 
+be calmer, with fewer outsiders, a friendlier atmosphere, and less greed. João and another fisher, Bruno, frequently 
+echoed this sentiment: they noted that respect between humans and non- humans had diminished. We understood that 
+they believe that tourism and profit- making are affecting possibilities for respectful, more- than- human care relations 
+(Krzywoszynska, 2015; Weitzman et al., 2024).
+Another evident aspect is Sara's (CM) explanation of how, when people want to plant a coconut tree or a lemon tree or 
+‘mess’ with nature, they must ask for nature's permission. ‘Asking for permission’ as a form of acknowledging the agency 
+of non- humans while also understanding the human and non- humans’ interconnectedness can also be another more- 
+than- human aspect present in community members (Puig de la Bellacasa,  2017; Weitzman et al., 2024).
+For other research participants, human–non- human relationality concerns interdependence and interconnectedness.
+Nature takes a lot of care of us. I can't explain how, but nature takes much care of us. We live through 
+nature. If it wasn't for nature, we wouldn't survive. Everything we have depends on nature. 
+(Adele, CM)
+Yes, of course [nature cares for us]. The air we breathe, without nature, there is no life… We are also nature; 
+humans are part of nature; we have nature in our physiognomy. In our existence and life…. 
+(Alegra, PM)
+While Adele understands there is a dependency on nature for survival, Alegra challenges traditional humans and non- 
+humans' dualities arguing for a more relational position of humans in the web of interdependent lives.
+Engagement between humans and non- humans influences other's actions, knowledge, and practices, providing the 
+basis for understanding relationality (Dupuis et al.,  2022). Connecting theory and practice, we learn that research par -
+ticipants exemplify how care is fundamentally a relational, interdependent, and respectful practice (Barnes,  2012; Puig 
+de la Bellacasa,  2017; Tronto,  2013). For care to occur, it must often consider non- human agency and, as we see below, 
+demand reciprocity.
+5.3 | Reciprocity
+Reciprocity extends beyond mere action or interaction; it involves an experience (Ojeda et al., 2022; Kimmerer,  2014) and 
+a process of learning that reflects on encounters between both humans and non- humans (Ojeda et al., 2022). Reflecting 
+on relations between both in Siribinha, we were surprised by how much research participants emphasied reciprocity in 
+understanding care relations. Insights about reciprocity emerged especially from questions like: When I say the word care, 
+what comes to mind? When do you feel cared for? When do you feel lack of care? More than half of the interviewed research 
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 13 of 25
+RESSIORE CAMPODONIO et al.
+participants shared that they follow the principle of treating others as they wish to be treated, believing that if people do 
+good, good comes back to them. This reciprocity is expressed through statements like: ‘…[nature] cares for us if we care 
+for her’ (Bianca, CM). A response that can indicate that participants view care as a relation. For example:
+To the mangrove, we go to work, search for our sustenance. It gives to us, and we must give to it as well. How? 
+Caring for it as well…. 
+(João, CM)
+If we take care of nature, it takes care of us. Yeah… but if we don't take care, there's no way it can care for us. 
+If we don't take care of nature, we're mistreating it. 
+(Caetana, CM)
+These quotes can indicate the iterative care relations in the exchange between humans and non- humans. Exemplifying 
+that for them caring for non- humans is directly connected to their well- being, however, this principle extends beyond 
+traditional care literature, aligning with Indigenous ideas of reciprocity (Kuokkanen,  2006; Losito,  2022). It involves em-
+pathy and considers the perspectives/needs of both humans and non- humans.
+João said that he does his best to keep the mangrove clean, respects the closed fishing periods, and tries to engage 
+other CMs in collective action, again evoking respect and interdependence. However, reciprocity can also be troubling:
+From when we sleep to when we get up, we breathe nature. When we open the window and feel the fresh 
+air, [in] all these moments we are being helped by nature. Right? Nature cares for us when we go to the man-
+grove and catch crabs to eat. Or when we need a good tide to fish, and the tides are in our favor, understand? 
+We are always counting on nature. (…) here we depend a lot on nature. (…) many times, due to nature, New 
+Year and Carnival parties here had to get canceled. If it rains too much, and it blocks the roads (…) sometimes 
+I think she [nature] gets revolted and punishes people. It is like a mother. 
+(Cauê, CM)
+Cauê's reflections illustrate a more nuanced view of reciprocity. He thinks nature is similar to a mother who cares 
+but sometimes also gets angry and punishes her human sons and daughters. Hence, based on his perspective, reciprocity 
+goes beyond a simple transaction, we understand that it is essential to consider non- human agency and respect nature. 
+Santiago also touches upon a nuanced view on reciprocity by saying:
+[nature care] is something you don't see but feel. If you take care of her, she takes care of you. Well, if you 
+plant a coconut tree, it will reap; if you plant a plant, you will be sitting in its shade later, and it will protect 
+you from the sun. This way, it cares for us; it protects us…. 
+(Santiago, CM)
+Santiago's quote highlights how reciprocity is related to different temporalities but also questions the ideal of equal ex -
+change. While care relations typically involve unequal positions of power, this does not mean that reciprocal acts cannot 
+occur. Many CMs explained that reciprocity is about appreciating what is received and acknowledging that they should, 
+somehow, give something back. This is not always symmetrical, balanced, or proportional, but something is given back 
+(Kramm, 2020; Mauss, 2003; Ojeda et al., 2022; Van de Pavert & Ressiore, 2023).
+We also observed that researchers such as Aurora and Arthur often link relationality, reciprocity, self-  care, and planet 
+care as interconnected and interdependent concepts. For example, Aurora states, ‘…we are nature, aren't we? Nature gives 
+us what we give to her’ (Aurora, R). She understands that we are nature, troubling human–non- human. For her, being 
+human is about being an integral part of nature. In that sense, she continues arguing that self-  care and ‘planet-  care’ or 
+‘non- human care’ are closely related and can even be seen as the same activity. During the interview, she blurs the lines 
+between humans and non- humans (Elton,  2022; Jaque et al.,  2021), going beyond interdependence or dependence but 
+suggesting a shared existence shaped by the agency of many beings in the more- than- human world.
+Based on the interview with Aurora, we understand that her sense of relationality and reciprocal thinking has also 
+been influenced by her years of work in Siribinha, where she formed close bonds with human and non- human entities. 
+Other participants also echo her ideas; for example, Ana expresses a similar perspective:
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+14 of 25 |   
+RESSIORE CAMPODONIO et al.
+… if you care for something or someone, you don't do it for others… you do it for yourself as well. 
+(Ana, CM)
+Here, Ana emphasises that care is not a one-  way action but a reciprocal interaction, highlighting how the boundaries 
+between self and others—whether human or non- human—are blurred in acts of care. Care is not purely altruistic; as you 
+care for another being, you are simultaneously caring for yourself, contributing to your own well- being. Ana illustrated 
+this by describing how caring for the plants in her garden is a form of self-  care. Similarly, Arthur states
+… when you do not care, you are not only harming another person, you harm the planet, and you harm 
+yourself. 
+(Arthur, R)
+This reinforces that the well- being of the self, others, and the planet are inseparable. Both quotes illustrate that like 
+Aurora's viewpoint, caring for others is inherently intertwined with caring for oneself, thereby challenging the dichotomy 
+between human and more- than- human and promoting a holistic understanding of interconnectedness. When learning 
+with more- than- human care relations in Siribinha, we have observed that reciprocity involves interdependence, respect, 
+non- human agency, different temporalities, and blurring the lines between humans and nature. However, in this context 
+and more broadly in a world filled with injustices, reciprocity serves as a reminder that care is often marked by asymme -
+tries of power, ability, and resources (Adams, 2020; Ressiore et al., 2024).
+5.4 | Fostering flourishing for many
+The previous three dimensions all contribute to fostering flourishing for many. Although more- than- human care 
+occurs daily, relationally and reciprocally, it is grounded in the shared objective of both humans and non- humans 
+to live well together. Our use of flourishing for many derives from the definition of care—to maintain, continue, and 
+repair the world to live in it as well as possible (Fisher & Tronto,  1990). With connotations of organic growth, di-
+versity, and mutual support, flourishing resonates with the notion that care is integral to achieving justice and sup-
+porting sustainable relations beyond mere survival or instrumental gain (Barnes,  2012; Puig de la Bellacasa,  2017). 
+Our understanding of the concept is further informed by Indigenous and local practices, which demonstrate the 
+potential for flourishing and survival despite continuous threats (Krenak,  2020; Losito,  2022; Ressiore et al.,  2024; 
+Rodríguez et al., 2024).
+In Siribinha, flourishing—living well together—connects to both abundant care as well as carelessness (see Puig de 
+la Bellacasa,  2018). In our observations, Siribinha's abundance relates to, for example, the importance of uniting the 
+community when someone is sick.
+Siribinha for me is my home, my shelter… it's a peaceful and quiet place. (…) The river runs through my back -
+yard and across the street is the sea. It's a small community, built by very hospitable people where everyone 
+helps everyone. Especially if someone has health issues everyone comes together to help. 
+(Elisa, CM)
+Despite personal conflicts, they collectively combine economic, material, and spiritual strengths to help those in need. 
+This unity includes and is supported by the non- human world through the medicinal use of plants (Tng et al.,  2021) and 
+the ‘healing air’ of Siribinha mentioned by many community members.10
+Another example of flourishing for many in Siribinha comes from Cristal (CM), who said during the interview that 
+both she and the mangrove—if it could speak—would ask policymakers (PM) to preserve the environment by caring for 
+it, avoiding pollution, and reducing plastic waste. In informal conversations, some CMs expressed their hopes that the 
+mangrove and local non- humans remain as well-  conserved and beautiful in the future as they are now. In our observa-
+tion, this hope goes beyond sitting and waiting; in Siribinha, it motivates action and informs the current transformative 
+practices of care (Anderson, 2006; Bispo dos Santos, 2023).
+As Malu explains, hope is in the relation with the non- human:
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 15 of 25
+RESSIORE CAMPODONIO et al.
+… the mangrove of Siribinha is a hope. It is hope because it is green. Hope. When you go close to a tree like 
+this, you feel it. The mangrove is the freshness of the mud. That freshness of the wind on the person, so, for 
+me, mangrove is hope. 
+(Malu, CM)
+Malu's use of senses like the ‘freshness of the wind and mud’ shows that for her, hope is embodied in specific places 
+and beings, like the mangrove. Her quote illustrates that hope is not an abstract concept but tangible, tied to human–non- 
+human interaction.
+Although abundant hope and care foster flourishing, other forms of care are lacking. As discussed, care is a crucial as -
+pect of flourishing, but focusing on its abundance is insufficient for a comprehensive analysis. It was necessary to reflect 
+on what impairs such flourishing, as more- than- human care is sometimes understood through its absence. Some CMs 
+seemed to find it easier to talk about the care absences than about care- full relations, especially in informal conversation. 
+While some expressed resignation to these lack(s), many have stated that they feel forgotten, feel a lack of attention, and 
+feel like they are not being heard. For example, Bianca's struggles:
+[I feel cared for] when we speak, and people listen… [I don't feel cared for] because I'm weak because if I were 
+a rich person, but as I'm poor, black, there's no order, nobody respects. 
+(Bianca, CM)
+Bianca's experience reflects systemic inequality and racism, felt through neglect and disrespect—issues that hinder 
+flourishing for many. Her statement highlights how care and respect are unequally distributed, challenging the commu-
+nity's capabilities to nurture more- than- human care relations. In a more- than- human context, such issues flow between 
+humans and extend their consequences to non- humans. Therefore, when analysing more- than- human carelessness, we 
+see that lack of attention and respect can lead to a lack of representation and disenfranchisement, which are intertwined 
+challenges that affect both humans and non- humans. Lack of care manifests in problems like trash in rivers, declining 
+fish populations, and feelings of distrust and lack of representation among CMs. Additionally, while Siribinha's peaceful 
+landscape attracts tourism, disordered tourism and overfishing by larger boats pose serious threats to local biodiversity, 
+accelerating species extinction and disrupting ecological processes (Lima et al., 2011).
+Despite threats and carelessness, the flourishing aspect of more- than- human care remains alive in Siribinha. Bento 
+reminds us that hope resides in collective actions.
+Caring doesn't have to come only from the other person; it's a web. If only one person takes care, it doesn't 
+work. It breaks apart. 
+(Bento, PM)
+The web that Bento mentions, along with the local hopes and lack(s) of care, encourages us to think beyond the local 
+context, illustrating that flourishing for many is challenging and intertwined with structural issues. Despite numerous 
+struggles and exploitation, the community's self-  organised more- than- human care practices highlight the interdepen-
+dence between human and non- human flourishing.
+6 | MORE-  THAN- HUMAN CARE POTENTIALS
+Our open- ended and exploratory approach to more- than- human care offered heterogeneous responses rather than one 
+unifying understanding. Reflecting with Siribinha, more- than- human care became broader and flowed in many direc-
+tions (see Figure  9), yet it also became situated (Haraway,  1988). Siribinha offered a broad spectrum of more- than- human 
+care examples, inspiring re- imagination of more- than- human care amidst local social and biodiversity conservation chal-
+lenges. Through the feminist, participatory- inspired interplay of theory and practice, four dimensions of care were identi-
+fied and discussed. These dimensions reflect the unique context of Siribinha and provide insights for broader applications.
+To reflect on the conceptual potentials of more- than- human care, we divided the contributions from our study into three 
+main sectors: (a) Theoretical Insights, (b) Empirical Insights, and (c) Contributions to Biodiversity Conservation.
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+16 of 25 |   
+RESSIORE CAMPODONIO et al.
+6.1 | Theoretical Insights
+Our research on more- than- human care shows its capability to make invisible relations visible. Our work with Siribinha 
+CMs revealed much about implicit practices and care relations between humans and non- humans that often go unno-
+ticed in academic research. More- than- human care not only contributes to reflexivity in the community but also, when 
+combined with collective efforts to do research based on PAR, encourages the research team to transform its own rela-
+tionship with the community. This transformation involves being reflexive about the methods used, paying attention to 
+CMs needs and comfort, viewing care relations as an essential aspect of research, considering differing temporalities of 
+research and community, and discussing research limitations (see also Long et al.,  2016). These insights highlight the 
+significance of more- than- human care in rethinking research practices and addressing entrenched inequalities between 
+human and non- human actors.
+Our findings resonate with anthropological and critical geography theories that question strict human/non- 
+human dualism and highlight the potential to bridge this divide through more- than- human relations (Descola,  2013; 
+Plumwood,  2003; Whatmore,  2002). At the same time, our findings also provide nuance and local specificity to these 
+wider ontological claims and theoretical debates about more- than- human approaches. One persistent concern about 
+more- than- human approaches relates to their ‘flat ontology’ (Ash,  2020). Targeting entrenched dualisms of human/non- 
+human and culture/nature also creates an inverted risk of blurring ontological differences to the degree that everything 
+becomes blurred, and no legitimate distinctions remain (Boersma,  2022). For example, Isaacs (2020, p. 3) summarises a 
+range of challenges towards flat ontologies as ‘obscuring social differences (e.g. race, class, species) and structure (e.g. co -
+lonialism, capitalism),’ invisibilising distinctly human concerns, and misleading reasoning through universalising claims 
+of sameness.
+Linking more- than- human approaches with feminist and post- humanist care theory reveals a more nuanced picture 
+than a ‘flat ontology’ with universalising claims of sameness. Care is not flat but socially differentiated, structured by so -
+cial systems including capitalism, colonialism, and patriarchy (Bartos,  2018; Lugones,  2014, 2020; Ressiore et al.,  2024). 
+For example, care burdens are unequally distributed and often involve power differentials between givers and receivers 
+of care (Akotirene,  2019; Barnes,  2012; Case,  2000). More- than- human care centers on complex relations involving 
+diverse humans and non- humans, but it by no means suggests flatness. How care is differentiated, rather than flat, be -
+comes salient through community practice in Siribinha. Since the community is a disenfranchised rural and Black com-
+munity in one of the economically poorest regions of the country, the lack of care for the community is structured by 
+the class and racial orders of Brazilian society. Caregiving in the community is also unevenly distributed—both in terms 
+of unequal burdens of human care labour and in terms of more- than- human relations. While reciprocity emerged as 
+one of the key dimensions, CMs did not say that humans and non- humans care in the same ways. Their understanding 
+of care stressed power differentials in the relationship between giving and receiving care. Reflecting with Siribinha, the 
+four more- than- human care dimensions challenge a simple human/non- human dualism by pointing towards complex 
+relational entanglements. However, they also point towards intersectional social, geographical, economic, and racial FIGURE 9 Word cloud generated with Atlas.ti based on translated answers from the question: When I say the word care, what comes to 
+mind?
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 17 of 25
+RESSIORE CAMPODONIO et al.
+differentiation and stratification of these relations rather than suggesting a flat ontology in which relevant differences 
+between actors become lost.
+Rather than replacing universal dualism with universal flatness, our reflections with Siribinha point towards the 
+importance of critical geography, post- humanism, and feminism for understanding the diverse expressions of ontologies 
+and care practices. The care relations we described are by no means universal, but they are grounded in a particular place 
+and time. Geographies of care are needed to show the particular care practices' constellations and their connections 
+with local livelihoods. Importantly, this also requires recognition of ontological diversity across different geographies. 
+‘Southern Ontologies’ (Ludwig et al.,  2024) are not unified as one universal flat ontology that is contrasted with a univer -
+salist human/non- human dualism but, instead, emerge through different concepts, practices, and relations that require 
+geographical and local specificity.
+6.2 | Empirical Insights
+While many authors stress that care cannot be separated from practice (Barnes,  2012; Krzywoszynska,  2015; Mol 
+et al.,  2011; Moriggi, Soini, Bock, & Roep,  2020; Tronto,  2013), we truly learned about the importance of practice with the 
+community. The ‘Caring with Siribinha’ focus group demonstrated how CMs challenge dominant academic views that 
+separate humans from non- humans. This perspective aligns with the ideas of academic thinkers such as Haraway (2016) 
+and Bispo dos Santos (2023), as well as indigenous cosmologies like those of Krenak (2020) and in Losito's book (2022), 
+among others. CMs articulated that the reflections about more- than- human care mattered for inspirational factors, but 
+only when connected to action. Cristal (CM) remarked, ‘Yes, these are all nice things we said [during interviews], but 
+people need not only to say. They also need to do!’. This sparked immediate discussion on actions. Suggestions included: 
+(i) another cleanup day, (ii) a performance or strike to raise awareness, (iii) art made with plastic and waste for strategic 
+display, (iv) a workshop to create public trash bins from recycled materials, and (v) more signs encouraging people not 
+to pollute.
+The urge to act challenged us. The first author initially saw the ‘Caring with Siribinha’ focus group as a research cycle 
+closing, but CMs reminded her of PAR's cycles of action and reflection (Kindon et al.,  2007). Brazilian quilombola thinker 
+Nego Bispo says we are in constant ‘start, middle, start’ (início, meio, início) (Bispo dos Santos,  2023; Bispo dos Santos & 
+Mayer,  2020). This non- linear approach aligns with PAR and feminist care cycles (Moriggi, Soini, Bock, & Roep,  2020; 
+Van de Pavert & Ressiore,  2023) in their ongoing iterations. In that sense, the focus group reminded us that more- than- 
+human care is constant and iterative. Action calls for reflection, and reflection calls for action.
+6.3 | Insights for Biodiversity Conservation
+Conservation failures often arise as a result of, to name a few, top- down decision- making, colonial legacies, and the 
+exclusion of local and traditional knowledge and relationships (Boogaard,  2021; Rodary,  2008). The concept of more- 
+than- human care, however, offers a framework that dialogues with local knowledge and practices and challenges con-
+ventional dichotomised conservation approaches (Ressiore,  2019). We learned that reflecting on more- than- human care 
+with CMs reveals that merely discussing and documenting ideas is insufficient. The reality of care between humans and 
+non- humans in conservation and beyond is complex and messy requiring strategies to manage conflict, incorporate di-
+verse perspectives, and foster empathy. This messy reality can become fertile ground to invite people to put themselves 
+in the shoes of others while developing novel biodiversity conservation practices.
+Learning from and integrating care practices can contribute to a plural, respectful, and transformative approach to 
+conservation. We highlight their essential role in living well together by placing more- than- human care practices at the 
+centre. This approach differs from traditional notions of control or protection (Bartos,  2018; Singleton,  2010; Weitzman 
+et al.,  2024) by emphasising political and collective dimensions of care (Diver et al.,  2024). Our investigation into more- 
+than- human care in Siribinha highlights its transformative potential in challenging the status quo of environmental 
+and economic exploitation threatening humans and non- humans alike and their complex relations in practices such as 
+artisanal fishing.
+While the conceptual potential of more- than- human care lies in imagining, re- imagining, and practising alternative 
+relations, we also acknowledge new challenges it may introduce. For instance, it raises complex questions about the role 
+of human livelihoods and social justice in human–non- human relations (Tsing et al.,  2019). These tensions are widely 
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+18 of 25 |   
+RESSIORE CAMPODONIO et al.
+discussed in human-  wildlife conflict literature (Hodgson et al.,  2020). However, in our case, more- than- human care did 
+not center on non- human needs at the expense of human needs. Instead, it emphasised the interconnectedness of human 
+and non- human needs, such as the shared fate of local fishing practices and the conservation of the Itapicuru estuarine 
+ecosystems.
+More- than- human care invites ‘an openness to new and other ways of being a “we”’ (Krøijer & Rubow,  2022, p. 381), 
+emphasising reciprocity and flourishing for many. This points to a redefined ‘we’ grounded in cooperation, respect, mu-
+tual aid, and empathy.
+7 | CONCLUDING THOUGHTS
+Based on our findings, we propose a synthesised and situated summary of this complex concept: more- than- human care 
+is vital; it is based on daily practices and grounded on relations of interdependence and connection between humans 
+and non- humans. The concept can support approaches that amplify the gaze on human and non- human care relations, 
+allowing the invisible to become visible. More- than- human care is permeated by reciprocity—which is not free of power 
+asymmetries. In theory and practice, the concept aims towards flourishing for as many as possible.
+To enact and research with more- than- human care, we invite you to pay attention to and engage with stories, lives, 
+and relations that are not yours. This means looking through the eyes of someone or something else but seeing with your 
+own eyes from a position that is not your own (Arendt,  1989; Ormond & Vietti,  2022; Ressiore,  2022), allowing partial 
+glimpses into a plurality of perspectives and ways of being and caring.
+The conceptual potential of more- than- human care lies in its capacity to inspire imagination and instigate action for 
+transformation beyond frames where humans and non- humans are treated as competitors with incompatible interests 
+or treated as equals based on a flat ontology. Emphasising the hopeful character of more- than- human care does not deny 
+the complexity of aligning the diverse needs of actors involved. Instead, it calls us to imagine a future that embraces 
+reciprocity as a foundation for flourishing—a ‘future that needs, with effort, to be identified, imagined, and pursued’ 
+(Cooper, 2014, p. 220). A future is not only to be imagined but claimed through collective action.
+Our research highlights the importance of geographical and interdisciplinary studies in consistently making room, 
+recognising, and valuing marginalised care practices—both human and non- human. We argue that more- than- human 
+care represents a significant avenue in opening this space to instigate conservation efforts to become more plural, respect -
+ful, and transformative. This potential lies in understanding humans and non- humans as reciprocal agents, inviting us 
+to rethink biodiversity conservation practices, and integrating community perspectives and care as guiding principles. 
+Thus, more- than- human care could allow marginalised human and non- human perspectives to also influence conserva-
+tion decision- making and practices.
+Future research could further investigate the diverse scope of more- than- human care, which spans between multiple 
+concepts, theories, practices, and fields of knowledge. Its diversity offers broad potential but also presents challenges. 
+To avoid overgeneralisations that might undermine the political relevance of care debates, we recommend three key 
+approaches: (a) situate studies within the feminist care literature, acknowledging the foundational work that enables the 
+discussion, theorisation, and application of various care approaches and insights; (b) by focusing on specific cases make 
+sure power dynamics of care become visible rather than obscured; (c) pursue studies on specific aspects of more- than- 
+human such as affect, conflict, reciprocity, power, maintenance, protection, among others.
+ACKNOWLEDGEMENTS
+We are grateful to all community members who actively participated in shaping this research, generously sharing 
+time, knowledge, care, and interest. Their contributions have enriched both our lives and the research process. 
+Additionally, we appreciate the support and feedback of all our research colleagues from LEFHBio & GEOS projects. 
+Thank you, Esther Turnhout, for the supervision and revisions of the manuscript. Thank you, Angela Moriggi, for 
+critically reflecting on the content and the initial stages of the manuscript. Special thanks to Gabriela De La Rosa, 
+Beatriz Demasi, Nina Prado and Julia Turska for sharing home, insights, and support during the fieldwork. We 
+are grateful for the feedback from the anonymous reviewers that immensely improved our manuscript. Finally, we 
+would like to dedicate this work to Dona Patricia, an incredibly caring, thoughtful, and loving person. Thank you 
+for teaching us how care transcends words. Rest in peace, Dona Patricia; you are missed in Siribinha, but you are 
+present in our hearts.
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 19 of 25
+RESSIORE CAMPODONIO et al.
+FUNDING INFORMATION
+Ressiore and Ludwig's research projects are funded by the Dutch Research Council NWO Vidi Grant (V1.Vidi.195.026 
+ETHNOONTOLOGIES) and the European Research Council (ERC) Starting Grant (851004 Local Knowledge). El- Hani 
+is funded by CNPq (grant number 465767/2014–1) and FAPESB (grant number INC0006/2019). In addition, he is also 
+supported by CNPq in a project on intercultural education as a dialogue between knowledge systems (grant number 
+423948/2018–0), and productivity in research grant (grant number 307223/2021–3).
+CONFLICT OF INTEREST STATEMENT
+No conflicting interests to declare.
+DATA AVAILABILITY STATEMENT
+Data are available on request due to privacy/ethical restrictions.
+ORCID
+Adriana Ressiore C.   https://orcid.org/0000-0002-2283-815X 
+David Ludwig   https://orcid.org/0000-0002-2010-5120 
+Charbel El- Hani   https://orcid.org/0000-0002-2308-3983 
+ENDNOTES
+ 1 In this article, the term ‘non- humans’ refers to both biotic and abiotic elements of nature. Our intention is not to reinforce the human-  
+nature dichotomy or overlook the important debates around the culture- nature divide (as discussed by Descola,  2013; Plumwood,  2003). 
+Instead, we use ‘non- human’ for the sake of clarity for both the reader. While alternative terms like ‘nature,’ ‘earthlings,’ or ‘other-  
+than- humans’ could have been used, our choice for the article aligns with the feminist post- humanist care literature. As demonstrated 
+throughout the article, the boundaries between humans and non- humans become increasingly blurred, with care occurring between 
+and through these interconnected entities.
+ 2 Reflecting on this concept, we draw on the idea that concepts act as ‘devices that draw on the complexities of the empirical world to open our 
+theoretical imagination to things as they might be’ (Cooper,  2014, p. 26; see also Deleuze & Guattari,  1994; Gane,  2009). Concepts help understand 
+and communicate about the world, producing knowledge with stabilising or destabilising effects (Cooper,  2014). In the movement between imag -
+ination and actualisation (ibid.), we explore the conceptual potential of more- than- human care.
+ 3 We use interdependence to give a sense of both dependence and interdependence.
+ 4 We conducted an integrative literature review that focused on the term ‘more- than- human care’ as well as the combination ‘more- than- human 
+AND care,’ using Scopus and Google Scholar as search engines. Research Rabbit was employed to uncover further connections between the iden-
+tified literature. To ensure relevance, we applied filters to exclude references related to healthcare, nursing, intensive care, and medical studies, 
+aligning the results with the scope of our research. While we recognize that terms like ‘ecologies of care,’ ‘ecological care,’ ‘care ecologies,’ ‘green 
+care,’ ‘multispecies care,’ and ‘non- human care’ offer valuable insights, our review prioritised works that directly referenced ‘more- than- human 
+care.’ Nevertheless, some of the relevant literature under these related terms was also reviewed and they are mentioned in this article. In addition 
+to the English- language search, we conducted further research in Portuguese to identify both academic and non- academic works that discuss care 
+within the context of human and non- human relationships. For this, we used the terms cuidado and cuidar, applying similar healthcare- related 
+filters. In Portuguese, the search was more effective when we examined the references within the limited articles and books that addressed care 
+in human and non- human interactions.
+ 5 During conversations and interviews with research participants the word non- human (não humano in Portuguese) was less tangible and 
+too abstract, therefore a choice was made to use the word ‘nature’ or ‘nature being’ (natureza or seres da natureza, in Portuguese) to refer 
+to non- humans.
+ 6 Before this question the first author would often ask them to mention a nature being they liked or that they related with a lot in Siribinha. The 
+beings most chosen were sea, shark, birds, mangrove, crabs, dolphin, moon, river, coconut tree, fish, etc.
+ 7 Interviewing local policymakers was crucial due to their involvement in the creation of a municipal protected area classified as a natu-
+ral monument according to the Brazilian National System of Units for Nature Conservation (SNUC, Law no 9.985, July 18th, 2000), the 
+Natural Monument Peninsula of Siribinha. According to SNUC, ‘a Natural Monument can be composed of a private or public area, with 
+the objective of preserving rare, singular places or places of great scenic beauty’ (De La Rosa,  2020:16). UFBA researchers collaborate with 
+the local communities of Siribinha and Poças to empower their participation in conservation policy development, advocating for bot -
+tom- up decision- making processes by the Secretary of Environment and Economic Development. However, limitations arise as the local 
+government's commitment to including local knowledge and interests remains relatively weak, leaving many CMs feeling unheard regard-
+ing the conservation area and its implementation; more details about this process refer to De La Rosa (2020) and De La Rosa et al. (2024).
+ 8 ‘Aratu’ refers to various crabs of the Sesarmidae family. More specifically, Goniopsis cruentata is the species fished, consumed and often present 
+in Siribinha's daily life.
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+20 of 25 |   
+RESSIORE CAMPODONIO et al.
+ 9 ‘Massunim’ (scientific name: Anomalocardia brasiliana) is a shellfish found at the confluence of seawater and freshwater, such as in river estuar -
+ies or lagoons. It is seasonally gathered in the Itapicuru river, near the mangroves and consumed by the community of Siribinha.
+ 10 Several community members, including Malu, shared that before moving to Siribinha, she suffered from asthma and rhinitis, but believes the air 
+there healed her. Eleven other CMs echoed this idea of ‘healing air’ in interviews.
+REFERENCES
+Abram, D. (2012) The spell of the sensuous: Perception and language in a more- than- human world. New York, NY: Vintage.
+Adams, R. (2020) The art of interspecies care. New Literary History, 51(4), 695–716.
+Adams, W.M., Aveling, R., Brockington, D., Dickson, B., Elliott, J., Hutton, J. et al. (2004) Biodiversity conservation and the eradication of 
+poverty. Science, 306(5699), 1146–1149. Available from: https:// doi. org/ 10. 1126/ scien ce. 1097920
+Agrawal, A. & Chhatre, A. (2006) Explaining success on the commons: Community forest governance in the Indian Himalaya. World 
+Development, 34(1), 149–166. Available from: https:// doi. org/ 10. 1016/j. world dev. 2005. 07. 013
+Akotirene, C. (2019) (2019) Interseccionalidade; Feminismos plurais [intersectionality; plural feminism]. São Paulo: Sueli Carneiro. Editora Pólen.
+Anderson, B. (2006) “Transcending without transcendence”: Utopianism and an ethos of hope. Antipode, 38(4), 691–710. Available from: 
+https:// doi. org/ 10. 1111/j. 1467-  8330. 2006. 00472. x
+Arendt, H. (1989) Lectures on Kant's political philosophy. Chicago, IL: University of Chicago Press.
+Ash, J. (2020) Flat ontology and geography. Dialogues in Human Geography, 10(3), 345–361. Available from: https:// doi. org/ 10. 1177/ 20438 
+20620 940052
+Barker, K. (2008) Flexible boundaries in biosecurity: Accommodating gorse in Aotearoa New Zealand. Environment and Planning A, 40, 
+1598–1614. Available from: https:// doi. org/ 10. 1068/ a4062 
+Barnes, M. (2012) Care in everyday life: An ethic of care in practice. Bristol: Policy Press.
+Barnett, A., Pienaar, K., Lubman, D.I., Arunogiri, S., Phan, V., Hayes, V. et al. (2024) The dynamics of more- than- human care in depot bu-
+prenorphine treatment: A new materialist analysis of Australian patients' experiences. International Journal of Drug Policy, 127, 104399. 
+Available from: https:// doi. org/ 10. 1016/j. drugpo. 2024. 104399
+Barnett, A., Savic, M., Pienaar, K., Carter, A., Warren, N., Sandral, E. et al. (2021) Enacting 'more- than- human' care: Clients' and counsellors' 
+views on the multiple affordances of chatbots in alcohol and other drug counselling. International Journal of Drug Policy, 94, 102910. 
+Available from: https:// doi. org/ 10. 1016/j. drugpo. 2020. 102910
+Barnett, J. (2023) Imagining more- than- human care: From multispecies mothering to caring relations in finding the mother tree. Journal of 
+Ecohumanism, 2(1), 9–20. Available from: https:// doi. org/ 10. 33182/  joe. v2i1. 2861
+Bartos, A.E. (2018) The uncomfortable politics of care and conflict: Exploring nontraditional caring agencies. Geoforum, 88, 66–73. Available 
+from: https:// doi. org/ 10. 1016/j. geofo rum. 2017. 11. 006
+Bingham, N. (2006) Bees, butterflies, and bacteria: Biotechnology and the politics of nonhuman friendship. Environment and Planning A, 38, 
+483–498. Available from: https:// doi. org/ 10. 1068/ a37262
+Bispo dos Santos, A. (2023) A terra dá, a terra quer. Revista Anômalas, 3(1), 100–103.
+Bispo dos Santos, A. & Mayer, J. (2020) Início, meio, início: Conversa com Antônio Bispo dos Santos. Indisciplinar, 6(1), 52–69. Available from: 
+https:// doi. org/ 10. 35699/  2525-  3263. 2020. 26241 
+Boersma, K. (2022) The Anthropocene as the end of nature? Why recognizing interventionism is key in coming to terms with the Anthropocene. 
+Environmental Ethics, 44(3), 195–219. Available from: https:// doi. org/ 10. 5840/ envir  oethi cs202 292643
+Bollettin, P., Ludwig, D. & El- Hani, C.N. (2023) Challenges of symmetrical dialogue. Ethnobiology Letters, 14(2), 47–55 Available from: https:// 
+www. jstor. org/ stable/ 48766099
+Bonner, N. & Abdelmalik, S. (2008) Becoming (more- than- ) human: Ecofeminism, dualisms and the erosion of the colonial human subject & 
+(untitled illustrations). UnderCurrents: Journal of critical. Environmental Studies, 17, 12–16. Available from: https:// doi. org/ 10. 25071/  
+2292-  4736/ 37678 
+Boogaard, B.K. (2021) Epistemic injustice in agricultural development: Critical reflections on a livestock development project in rural 
+Mozambique. Knowledge Management for Development Journal, 16(1), 28–54. Available from: https:// doi. org/ 10. 4314/ km4dj. v16i1. 3
+Braverman, I. (2014) Conservation without nature: The trouble with in situ versus ex situ conservation. Geoforum, 51, 47–57. Available from: 
+https:// doi. org/ 10. 1016/j. geofo rum. 2013. 09. 018
+Büscher, B. & Fletcher, R. (2019) Towards convivial conservation. Conservation and Society, 17(3), 283–296. Available from: https:// doi. org/ 10. 
+4103/ cs. cs_ 19_ 75
+Butt, N., Shanahan, D.F., Shumway, N., Bekessy, S.A., Fuller, R.A., Watson, J.E. et al. (2018) Opportunities for biodiversity conservation as cities 
+adapt to climate change. Geo: Geography and Environment, 5(1), e00052. Available from: https:// doi. org/ 10. 1002/ geo2. 52
+Cahill, C. (2007, 2007) Participatory data analysis: Based on work with the fed up honeys. In: Kindon, S., Pain, R. & Kesby, M. (Eds.) Participatory 
+action research approaches and methods. Abingdon: Routledge, pp. 207–213.
+Cañada, A.J., Sariola, S. & Butcher, A. (2022) In critique of anthropocentrism: A more- than- human ethical framework for antimicrobial resis -
+tance. Medical Humanities, 48(4), e16. Available from: https:// doi. org/ 10. 1136/ medhu m-  2021-  012309
+Case, M.A. (2000) How high the apple pie? A few troubling questions about where, why, and how the burden of care for children should be 
+shifted. Chicago- Kent Law Review, 76, 1753. Available from: https:// doi. org/ 10. 2139/ ssrn. 229634
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 21 of 25
+RESSIORE CAMPODONIO et al.
+Caxaj, S. (2015) Indigenous storytelling and participatory action research: Allies toward decolonization? Reflections from the peoples' 
+international health tribunal. Global Qualitative Nursing Research, 2015, 1–12. Available from: https:// doi. org/ 10. 1177/ 23333 93615  
+589680
+Chatzidakis, A., Hakim, J., Littler, J. & Rottenberg, C. (2020) The care manifesto: The politics of interdependence. London: Verso Books.
+Chen, Y. & Pschetz, L. (2024) Microbial revolt: Redefining biolab tools and practices for more- than- human care ecologies. In: Proceedings of 
+the CHI conference on human factors in computing systems. New York: ACM, pp. 1–16. Available from: https:// doi. org/ 10. 1145/ 35445 48. 
+3580950
+Chiu, L.F. (2003) Transformational potential of focus group practice in participatory action research. Action Research, 1(2), 165–183. Available 
+from: https:// doi. org/ 10. 1177/ 14767 50303 0012006
+Chua, L. (2021) Evaluations of more- than- human care. Editors' forum: Theorizing the contemporary. Multispecies Care in the Sixth Extinction. 
+Society for Cultural Anthropology https:// culan th. org/ field sights/ evalu ation s-   of-  more-  than-  human -   care
+Conradi, E. (2015) Redoing care: Societal transformation through critical practice. Ethics and Social Welfare, 9(2), 113–129. Available from: 
+https:// doi. org/ 10. 1080/ 17496 535. 2015. 1005553
+Cooper, D. (2014) Everyday utopias: The conceptual life of promising spaces. Durham, NC: Duke University Press.
+Cox, R. (2010) Some problems and possibilities of caring. Ethics, Place and Environment, 13(2), 113–130. Available from: https:// doi. org/ 10. 
+1080/ 13668 79100 3778800
+Crenshaw, K.W. (2017) On intersectionality: Essential writings. New York, NY: The New Press.
+De La Rosa, G. (2020) Planejamento Estratégico e Conservação com base em participação comunitária no Estuário do Itapicuru, Conde- BA. 
+Master's thesis, Universidade Federal da Bahia.
+De La Rosa, G., Milberg Muñiz, E., El- Hani, C.N. & Ludwig, D. (2024) Navigating between promises and realities of transdisciplinary research 
+for environmental conservation. Human Ecology, 52(1), 1–12. Available from: https:// doi. org/ 10. 1007/ s1074 5-  023-  00361 -  2
+Deleuze, G. & Guattari, F. (1994) What is philosophy? New York City: Columbia University Press.
+Demasi, B.A. (2023) Human- nature relationships in the fishing community of Siribinha, Conde, Bahia, Brazil: An investigation through the de-
+velopment and application of a new tool. Master's thesis, University of São Paulo (USP).
+Descola, P. (2013) Beyond nature and culture. Chicago, IL: University of Chicago Press.
+DeVault, M.L. & Gross, G. (2007) Feminist interviewing: Experience, talk, and knowledge. In: Hesse- Biber, S.N. (Ed.) Handbook of feminist 
+research: Theory and praxis. London: Sage Publications, pp. 173–198. Available from: https:// doi. org/ 10. 4135/ 97814 12984 270. n9
+Diver, S., Blaich Vaughan, M. & Baker- Medard, M. (2024) Collaborative care in environmental governance: Restoring reciprocal relations and 
+community self-  determination. Ecology and Society, 29(1), 7. Available from: https:// doi. org/ 10. 5751/ ES- 14488- 290107
+Dunkley, R. (2023) Ecological kin- making in the multispecies muddle: An analytical framework for understanding embodied environmental 
+citizen science experiences. Transactions of the Institute of British Geographers, 48(4), 781–796. Available from: https:// doi. org/ 10. 1111/ 
+tran. 12613 
+Dupuis, C., Harcourt, W., Gaybor, J. & van den Berg, K. (2022) Introduction: Feminism as method—Navigating theory and practice. In: 
+Harcourt, W., van den Berg, K., Dupuis, C. & Gaybor, J. (Eds.) Feminist methodologies: Experiments, collaborations and reflections. New 
+York: Springer International Publishing, pp. 1–20. Available from: https:// doi. org/ 10. 1007/ s1076 4-  018-  0036-  8
+El- Hani, C.N., Poliseli, L. & Ludwig, D. (2022) Beyond the divide between indigenous and academic knowledge: Causal and mechanistic ex -
+planations in a Brazilian fishing community. Studies in History and Philosophy of Science, 91, 296–306.
+Ellis, C., Adams, T.E. & Bochner, A.P. (2011) Autoethnography: An overview. Historical Social Research/Historische Sozialforschung, 36(4), 
+273–290 Available from: https:// direct. mit. edu/ leon/ artic le/ 55/4/ 332/ 108654/ The-   Algae  -  Socie ty-  BioAr t-  Desig n-  Lab-  Explo ring
+Elton, S. (2022) More- than- human: How does a more- than- human lens change the way we understand the food we eat? In: Showing Theory to 
+Know Theory, Open Library, online. https:// doi. org/ 10. 22215/  stkt/ es66
+Escobar, A. (1994) Encountering development: The making and unmaking of the third world. Princeton, NJ: Princeton University Press.
+Esteves, L.M. & Maia, L.V. (2021) Trabalho Doméstico não remunerado e a crise do cuidado: uma visão feminista sobre os efeitos da Covid- 19. 
+Revista de Gênero, Sexualidade e Direito, 7(1), 58–74.
+Ferretti, F. (2019) Decolonizing the northeast: Brazilian subalterns, non- European heritages, and radical geography in Pernambuco. 
+Annals of the American Association of Geographers, 109(5), 1632–1650. Available from: https:// doi. org/ 10. 1080/ 24694 452. 2019.  
+1578297
+Fisher, B. & Tronto, J. (1990) Toward a feminist theory of caring. In: Abel, E.K. & Nelson, M.K. (Eds.) Circles of care: Work and identity in 
+Women's lives. Albany, NY: SUNY Press, pp. 35–62.
+Flick, U. (2009) An introduction to qualitative research, 4th edition. London: SAGE Publications.
+Fonseca, J.O. (2021) “Pescando mudanças”: embarcações, artes de pesca e educação intercultural na comunidade das poças, Conde- BA. Master's 
+thesis, Teaching, Philosophy and History of Science at UFBA.
+Gane, N. (2009) Concepts and the new empiricism. European Journal of Social Theory, 12(1), 83–97. Available from: https:// doi. org/ 10. 1177/ 
+13684 31008 099647
+Garcia- Llorente, M., Rubio-  Olivar, R. & Gutierrez- Briceno, I. (2018) Farming for life quality and sustainability: A literature review of green 
+care research trends in Europe. International Journal of Environmental Research and Public Health, 15(6), 1282. Available from: https:// 
+doi. org/ 10. 3390/ ijerp h1506 1282
+Gilligan, C. (2011) Ethics of care. Interview by Webteam, in Ethics of Care: Sharing Views on Good Care. Available from: https:// ethic sofca re. 
+org/ carol -   gilli gan/ 
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+22 of 25 |   
+RESSIORE CAMPODONIO et al.
+Global Witness. (2015) Virunga: UK company bankrolled soldiers accused of bribery and violence in quest for oil in Africa's oldest national 
+park. Available from: https:// www. globa lwitn ess. org/ en/ campa igns/ democ ratic -  repub lic-   congo/  soco-  in-   virun ga/ 
+Gorelick, S. (1991) Contradictions of feminist methodology. Gender and Society, 5(4), 459–477. Available from: https:// doi. org/ 10. 1177/ 08912 
+43910 05004005
+Guimarães, L.M., De França, E.J., de Arruda, G.N. & Albergaria- Barbosa, A.C.R. (2020) Historical inputs of polycyclic aromatic hydrocarbons 
+in the preserved tropical estuary of the Itapicuru River, Bahia, Brazil. Marine Pollution Bulletin, 156, 111218. Available from: https:// doi. 
+org/ 10. 1016/j. marpo lbul. 2020. 111218
+Haraway, D.J. (1988) Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 
+575–599. Available from: https:// doi. org/ 10. 2307/ 3178066
+Haraway, D.J. (2008) When species meet. Minneapolis, MN: University of Minnesota Press.
+Haraway, D.J. (2016) Staying with the trouble. Durham, NC: Duke University Press.
+Harcourt, W., van den Berg, K., Dupuis, C. & Gaybor, J. (Eds.). (2022) Feminist methodologies: Experiments, Collaborations and Reflections. New 
+York: Springer International Publishing.
+Harding, S. (1993) Rethinking standpoint epistemology: What is strong objectivity. In: Alcoff, L. & Potter, E. (Eds.) Feminist Epistemologies. 
+London: Routledge, pp. 49–82.
+Hassink, J. & Van Dijk, M. (Eds.). (2006) Farming for health: Green-  care farming across Europe and The United States of America, Vol. 13. New 
+York: Springer Science & Business Media.
+Hinchliffe, S. & Whatmore, S. (2006) Living cities: Towards a politics of conviviality. Science as Culture, 15(2), 123–138. Available from: https:// 
+doi. org/ 10. 1080/ 09505 43060 0707988
+Hodgson, I.D., Redpath, S.M., Sandström, C. & Biggs, D. (2020) In: O'Neill, M. & Villat, J. (Eds.) The state of knowledge and practice on human- 
+wildlife conflicts. Gland, Switzerland: The Luc Hoffmann institute.
+IBGE. (2022a) Censo 2022. Taxa de analfabetismo. Available from: https:// agenc iaden otici as. ibge. gov. br/ agenc ia-  notic ias/ 2012-  agenc ia-   de-  
+notic ias/ notic ias/ 40098 -   censo  -  2022-  taxa-   de-  analf abeti smo-   cai-  de-  9-  6-  para-  7-  0-   em-  12-  anos-  mas-   desig ualda des-  persi stem
+IBGE. (2022b) Censo 2022. Pobreza. Available from: https:// agenc iaden otici as. ibge. gov. br/ agenc ia-  notic ias/ 2012-  agenc ia-   de-  notic ias/ notic 
+ias/ 38545 -  pobre za-   cai-  para-  31-  6-   da-  popul acao-   em-  2022-  apos-  alcan car-  36-  7-   em-  2021
+IDAS. (2023) Los Cuidados también son políticos: Agenda por la transversalizacíon de los cuidados en el quehacer de las mujeres activistas 
+de Oaxaca.
+IPBES. (2022) In: Balvanera, P., Pascual, U., Christie, M., Baptiste, B. & González- Jiménez, D. (Eds.) Methodological assessment report on the di-
+verse values and valuation of nature of the intergovernmental science- policy platform on biodiversity and ecosystem services. Bonn, Germany: 
+IPBES secretariat. Available from: https:// doi. org/ 10. 5281/ zenodo. 6522522
+Isaacs, J.R. (2020) More- than- human geographies. In: Richardson, D., Castree, N., Goodchild, M.F., Kobayashi, A., Liu, W. & Marston, R.A. 
+(Eds.) International encyclopedia of geography.Hoboken: John Wiley & Sons, Ltd. Available from: https:// doi. org/ 10. 1002/ 97811 18786 352. 
+wbieg 2041
+Jaque, A., Octero Verzier, M. & Pietroiusti, L. (2021) More- than- human. Rotterdam, Netherlands: Het Nieuwe Instituut.
+Johns- Putra, A. (2013) Environmental care ethics: Notes toward a new materialist critique. Symploke, 21(1), 125–135. Available from: https:// 
+doi. org/ 10. 1353/ sym. 2013. 0009
+Just, J. (2022) Cultivating more- than- human care: Exploring bird watching as a landscaping practice on the example of sand martins and 
+flooded gravel pits. Frontiers of Architectural Research, 11, 1205–1213.
+Kimmerer, R.W. (2014) Returning the gift. Minding. Nature, 7(2), 18–24.
+Kindon, S., Pain, R. & Kesby, M. (2007) Participatory action research approaches and methods: Connecting people, participation and place. 
+London: Routledge.
+Kramm, M. (2020) When a river becomes a person. Journal of Human Development and Capabilities, 21(4), 307–319. Available from: https:// 
+doi. org/ 10. 1080/ 19452 829. 2020. 1817947
+Krenak, A. (2020) A vida não é útil. Companhia das Letras, São Paulo — SP.
+Krøijer, S. & Rubow, C. (2022) Introduction: Enchanted ecologies and ethics of care. Environmental Humanities, 14(2), 375–384. Available 
+from: https:// doi. org/ 10. 1215/ 22011 919-  9890241
+Krzywoszynska, A. (2015) What farmers know: Experiential knowledge and care in vine growing. Sociologia Ruralis, 56(2), 289–310.
+Krzywoszynska, A. (2019) Caring for soil life in the Anthropocene: The role of attentiveness in more- than- human ethics. Transactions of the 
+Institute of British Geographers, 44(4), 661–675. Available from: https:// doi. org/ 10. 1111/ tran. 12308 
+Kuhnen, T.A. (2014) A ética do cuidado como teoria feminista. Simpósio Gênero e Políticas Públicas, 3, 1–9.
+Kuokkanen, R. (2006) The logic of the gift: Reclaiming indigenous Peoples' philosophies. In: Botz- Bornstein, T. & Hengelbrock, J. (Eds.) Re- 
+Ethnicizing the minds? Leiden: Brill, pp. 251–271.
+Laugier, S. (2021) Paradoxes in the invisibility of care work. Philosophical Topics, 49(1), 61–79. Available from: https:// doi. org/ 10. 5840/ philt 
+opics 20214915
+Lima, P.C., Lima, R.C.F.R. & Lima- Neto, T.N.C. (2011) A biodiversidade do Litoral Norte da Bahia e o impacto da especulação imobiliária. I° 
+Seminário Espaços Costeiros.
+Lindén, L. & Lydahl, D. (2021) Care in STS. Nordic Journal of Science and Technology Studies, 9(1), 3–12.
+Long, J.W., Ballard, H.L., Fisher, L.A. & Belsky, J.M. (2016) Questions that won't go away in participatory research. Society & Natural Resources, 
+29(2), 250–263.
+Losito, L., (2022) Mulheres de terra e de água [Women of earth and water]. São Paulo, 1st edition. Editora: Elefante.
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 23 of 25
+RESSIORE CAMPODONIO et al.
+Lourenço, R.A., Combi, T., Alexandre, M.R., Sasaki, S.T., Zanardi- Lamardo, E. & Yogui, G.T. (2020) Mysterious oil spill along Brazil's northeast 
+and southeast seaboard (2019–2020). Marine Pollution Bulletin, 156, 111219.
+Ludwig, D., Banuoku, D.F., Boogaard, B., El- Hani, C.N., Guri, B.Y., Kramm, M. et al. (2024) Southern ontologies: Reorienting agendas in social 
+ontology. Journal of Social Ontology, 10(2), 51–79.
+Lugones, M. (2014) Rumo a um feminismo descolonial [Towards a decolonial feminism]. Estudos Feministas, Florianópolis, 22(3), 935–952 
+set./dez. 2014. [Seção] Debates. Disponível em: https:// perio dicos. ufsc. br/ index. php/ ref/ artic le/ view/ 36755 . Acesso em: 15 fev. 2019
+Lugones, M. (2020) Colonialidade e gênero [Gender & Coloniality]. In: HOLLANDA, Heloisa Buarque de (org.). Pensamento feminista hoje: 
+perspectivas decoloniais. Rio de Janeiro: Bazar Do Tempo, 2020, 53–83.
+MacDonald, C. (2012) Understanding participatory action research: A qualitative research methodology option. The Canadian Journal of 
+Action Research, 13(2), 34–50. Available from: https:// doi. org/ 10. 33524/  cjar. v13i2. 37
+Maizza, F. & Oliveira, J.C.D. (2022) Narrativas do Cuidar: mulheres indígenas e a política feminista do compor com plantas. Mana, 28, e282102. 
+Available from: https:// doi. org/ 10. 1590/ 1678-  49442 022v2 8n2a102
+Margulies, J. (2022) A political ecology of desire: Between extinction, anxiety, and flourishing. Environmental Humanities, 14(2), 241–264. 
+Available from: https:// doi. org/ 10. 1215/ 22011 919-  9890204
+Massarella, K., Krauss, J.E., Kiwango, W. & Fletcher, R. (2022) Exploring convivial conservation in theory and practice: Possibilities and chal-
+lenges for a transformative approach to biodiversity conservation. Conservation and Society, 20(2), 59–68. Available from: https:// doi. org/ 
+10. 4103/ cs. cs_ 200_ 22
+Mauss, M. (2003) Ensaio da dádiva: Forma e razão da troca nas sociedades arcaicas [1925] [The Essay of the Gift: form and reason of exchange 
+in archaic societies]. Sociologia e Antropologia. São Paulo: Cosac Naify.
+Mello, M.M.C., Silva, A.M. & Faria, G.A. (2016) Vila de Pescadores de Praia do Forte entre Processos de Gentrificação e Resistência. International 
+Congress: Contested_Cities.
+Menezes, H. (2021) O que é sociobiodiversidade? Blog SOS Amazônia. Available from: https:// sosam azonia. org. br/ tpost/  lb65m 0vse1 -   o-  que-  
+socio biodi versi dade
+Menon, A. & Karthik, M. (2017) Beyond human exceptionalism: Political ecology and the non- human world. Geoforum, 79, 90–92. Available 
+from: https:// doi. org/ 10. 1016/j. geofo rum. 2016. 11. 018
+Milberg, E. (2021) Research as a mangrove: Understanding the complexities of participatory research In the Fisher Village of Siribinha, BA, Brazil. 
+MSc Thesis Environmental Policy Group, Wageningen University.
+Milberg Muñiz, E., Ludwig, D. & El- Hani, C.N. (2024) Research as a Mangrove: Emancipatory science and the messy reality of transdiscipli-
+narity. International Review of Qualitative Research, 0(0), 0–23. Available from: https:// doi. org/ 10. 1177/ 19408 44724 1260446
+Mol, A. & Hardon, A. (2020) Caring. In: Bowen, J.F., Dodier, N., Duyvendak, J.W. & Hardon, A. (Eds.) Pragmatic inquiry. Abingdon, Oxon; 
+New York, NY: Routledge.
+Mol, A., Moser, I., Piras, E.M., Turrini, M., Pols, J. & Zanutto, A. (2011) Care in practice. On normativity, concepts, and boundaries. 
+Tecnoscienza: Italian Journal of Science & Technology Studies, 2(1), 73–86. Available from: https:// doi. org/ 10. 6092/ issn. 2038-  3460/  
+16996  
+Mol, A., Moser, I., & Pols, J. (2015). Care in practice: On tinkering in clinics, homes and farms. Bielefeld, Germany: Transcript Verlag
+Moriggi, A. (2021) Green care practices and place- based sustainability transformations: a participatory action-  oriented study in Finland. [PhD 
+Thesis]. Wageningen University and Research.
+Moriggi, A., Soini, K., Bock, B.B. & Roep, D. (2020) Caring in, for, and with nature: An integrative framework to understand green care prac-
+tices. Sustainability, 12(8), 3361. Available from: https:// doi. org/ 10. 3390/ su120 83361 
+Moriggi, A., Soini, K., Franklin, A. & Roep, D. (2020) A care- based approach to transformative change: Ethically- informed practices, relational 
+response- ability & emotional awareness. Ethics, Policy & Environment, 23(3), 281–298. Available from: https:// doi. org/ 10. 1080/ 21550 085. 
+2020. 1829413
+Ojeda, J., Salomon, A.K., Rowe, J.K. & Ban, N.C. (2022) Reciprocal contributions between people and nature: A conceptual intervention. 
+Bioscience, 72(10), 952–962.
+Ormond, M. & Vietti, F. (2022) Beyond multicultural ‘tolerance’: Guided tours and guidebooks as transformative tools for civic learning. 
+Journal of Sustainable Tourism, 30(2–3), 533–549. Available from: https:// doi. org/ 10. 1080/ 09669 582. 2021. 1894785
+Perdibon, A. & McSherry, A. (2023) The mother herb: Plant Storywork, Grief & More-  Than- Human Care in compromised times. Journal of 
+Ecohumanism, 2(1), 39–53. Available from: https:// doi. org/ 10. 33182/  joe. v2i1. 2086
+Persha, L., Fischer, H., Chhatre, A., Agrawal, A. & Benson, C. (2010) Biodiversity conservation and livelihoods in human-  dominated land-
+scapes: Forest commons in South Asia. Biological Conservation, 143(12), 2918–2925. Available from: https:// doi. org/ 10. 1016/j. biocon. 
+2010. 05. 007
+Petchkaew, K. (2023) ‘You don't kill people to protect forests’: New Thai parks chief raises alarm. Available from: https:// news. monga bay. com/ 
+2023/ 02/ you-   dont-  kill-  peopl e-  to-  prote ct-  fores ts-  new-  thai-  parks  -  chief -  raise s-  alarm/  
+Pitt, H. (2018) Questioning care cultivated through connecting with more- than- human communities. Social & Cultural Geography, 19(2), 
+253–274. Available from: https:// doi. org/ 10. 1080/ 14649 365. 2016. 1274415
+Plumwood, V. (2003) Feminism and the mastery of nature. Abingdon, Oxon; New York, NY: Routledge.
+Porto-  Gonçalves, C.W. (2019) Dos Cerrados e de suas Riquezas: de saberes vernaculares e de conhecimento científico. Rio de Janeiro e Goiânia: 
+FASE e CPT.
+Puig de la Bellacasa, M. (2015) Making time for soil: Technoscientific futurity and the pace of care. Social Studies of Science, 45(5), 691–716. 
+Available from: https:// doi. org/ 10. 1177/ 03063 12715 599851
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+24 of 25 |   
+RESSIORE CAMPODONIO et al.
+Puig de la Bellacasa, M. (2017) Matters of care: Speculative ethics in more than human worlds. Minneapolis, MN: University of Minnesota 
+Press.
+Puig de la Bellacasa, M. (2018) Care in Spite of carelessness. In: van Tuinen, S. (Ed.) To mind is to care. Rotterdam: NAi/V2 Publishers, pp. 
+24–41.
+Raghuram, P. (2016) Locating care ethics beyond the global north. ACME: An International Journal for Critical Geographies, 15(3), 511–533. 
+Available from: https:// doi. org/ 10. 14288/  acme. v15i3. 1353
+Rai, N.D., Devy, M.S., Ganesh, T., Ganesan, R., Setty, S.R., Hiremath, A.J. et al. (2021) Beyond fortress conservation: The long- term integration 
+of natural and social science research for an inclusive conservation practice in India. Biological Conservation, 254, 108888.
+Reddy, G. (2023) Bullets and Biodiversity: African National Parks as a Key Counterterrorism Strategy. https:// www. lawfa remed ia. org/ artic le/ 
+bulle ts-  and-  biodi versi ty-  afric an-  natio nal-  parks  -  as-  a-  key-   count  erter roris m-   strategy
+Reis-  Castro, L. (2021) Becoming without: Making transgenic mosquitoes and disease control in Brazil. Environmental Humanities, 13(2), 
+323–347. Available from: https:// doi. org/ 10. 1215/ 22011 919-  9320171
+Renck, V., Ludwig, D., Bollettin, P. & El- Hani, C.N. (2022) Exploring partial overlaps between knowledge systems in a Brazilian fishing com-
+munity. Human Ecology, 50(4), 633–649. Available from: https:// doi. org/ 10. 1007/ s1074 5-  022-  00343 -  5
+Ressiore, A.C. (2019) Looking at IUCN inside a dichotomous development world. Master thesis: Institut d'Urbanisme et de Géographie alpine 
+international development studies: Sustainability, participation and innovation, Universitè Grenoble-Alpes.
+Ressiore, C.A. (2022) What is more- than- human care? And what can it do? The Anthropocene and More-  Than- Human World Writing 
+Workshop Series. https:// anthr  opoce neand themo retha nhuma nworl dwrit ingwo rkshop. com/ 2022/ 02/ 19/ what-  is-  more-  than-  human 
+-  care-  and-   what-   can-  it-   do/ 
+Ressiore, C.A., Lima, C.L.S. & Turnhout, E. (2024) Care narratives: Babassu breakers and mother palm trees. Geoforum, 156, 104109. Available 
+from: https:// doi. org/ 10. 1016/j. geofo rum. 2024. 104109
+Rocha, P.L.B.D., Pardini, R., Viana, B.F. & El- Hani, C.N. (2020) Fostering inter- and transdisciplinarity in discipline-  oriented univer -
+sities to improve sustainability science and practice. Sustainability Science, 15, 717–728. Available from: https:// doi. org/ 10. 1007/  
+s11625- 019- 00761- 1
+Rodary, E. (2008) Développer la Conservation ou Conserver le Développement? Quelques considérations historiques sur les deux termes et les 
+moyens d'en sortir. CAIRN. info . 2008/1 n° 141 | pages 81 à 9. De Boeck Supérieur
+Rodríguez, T.R., Ressiore, A.C., Coyotecatl-  Contreras, J.M., Morales, A.E., González- Duarte, C. & Dicenta, M. (2024) Un/repairing 
+through more- than- human Care in Latin America: Conversatorio. Engagement the online journal of the anthropology and envi-
+ronment society. https:// aesen gagem ent. wordp ress. com/ 2024/ 08/ 29/ un-  repai ring-  throu gh-  more-  than-  human -   care-  in-  latin -  ameri  
+ca-  conve rsato rio/  
+Root- Bernstein, M. (2016) Personal reflections on natural history as common ground for interdisciplinary multispecies socio-  ecological re -
+search. Geo: Geography and Environment, 3(1), e00015.
+Roulston, K. & Choi, M. (2018) Qualitative interviews. In: The SAGE handbook of qualitative data collection. Thousand Oaks, CA: SAGE, pp. 
+233–249.
+Salazar-  Ordóñez, M. & Sayadi, S. (2011) Environmental care in agriculture: A social perspective. Journal of Agricultural and Environmental 
+Ethics, 24(3), 243–258.
+San Pedro, T. & Kinloch, V. (2017) Toward projects in humanization: Research on Co-  creating and sustaining dialogic relationships. American 
+Educational Research Journal, 54(1_suppl), 373S–394S. Available from: https:// doi. org/ 10. 3102/ 00028 31216 67121 
+Silberzahn, L. (2024) Care, ecology, and the crisis of eco-  social reproduction: Politicizing more- than- human care. Hypatia. Published online, 
+1–21. Available from: https:// doi. org/ 10. 1017/ hyp. 2024. 16
+Silva, A.A. (2022) Educação intercultural e diálogo entre diferentes saberes: Desafios e possibilidades práticas no ensino de ciências na escola 
+básica. Master's thesis History, Philosophy, and Science Teaching, Federal University of Bahia.
+Simanjuntak, M., Nafila, N.L., Yuliati, L.N., Johan, I.R., Najib, M. & Sabri, M.F. (2023) Environmental care attitudes and intention to purchase 
+green products: Impact of environmental knowledge, word of mouth, and green marketing. Sustainability, 15(6), 5445. Available from: 
+https:// doi. org/ 10. 3390/ su150 65445 
+Singleton, V. (2010) Good farming: Control or care. In: Care in practice: On tinkering in clinics, homes and farms. Bielefeld, Germany: Transcript 
+Verlag, pp. 235–256. Available from: https:// doi. org/ 10. 1515/ trans cript. 97838 39414 477. 235
+Slater, J. (2021) Ambiguous care: More- than- human Care at the Beehive. Journal of Animal Ethics, 11(2), 42–52. Available from: https:// doi. 
+org/ 10. 5406/ janim aleth ics. 11.2. 0042
+Snyder, H. (2019) Literature review as a research methodology: An overview and guidelines. Journal of Business Research, 104, 333–339. 
+Available from: https:// doi. org/ 10. 1016/j. jbusr  es. 2019. 07. 030
+Søndergaard, M.L.J. (2023) What mosses can teach us about design fabulations and feminist more- than- human care. Human Computer 
+Interaction, 1–22. Available from: https:// doi. org/ 10. 1080/ 07370 024. 2023. 2269893
+Steigen, A.M., Kogstad, R. & Hummelvoll, J.K. (2016) Green care services in the Nordic countries: An integrative literature review. European 
+Journal of Social Work, 19(5), 692–715. Available from: https:// doi. org/ 10. 1080/ 13691 457. 2016. 1150627
+Thaman, R., Lyver, P., Mpande, R., Perez, E., Cariño, J. & Takeuchi, K. (2013) The contribution of indigenous and local knowledge systems to 
+IPBES: Building synergies with science. IPBES Expert Meeting Report, UNESCO/UNU. Paris: UNESCO, p. 49.
+Thomsen, B. & Thomsen, J. (2021) Multispecies livelihoods: Partnering for sustainable development and biodiversity conservation. In: 
+Partnerships for the Goals. Cham: Springer, pp. 758–768. Available from: https:// doi. org/ 10. 1007/ s4297 6-  021-  00015 -  2
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 25 of 25
+RESSIORE CAMPODONIO et al.
+Tng, D.Y., Apgaua, D.M.G., Lisboa, M.M. & El- Hani, C.N. (2021) Gender differences in plant use knowledge within a traditional fishing com-
+munity in northeastern Brazil. Ethnobotany Research and Applications, 21, 1–36.
+Tronto, J.C. (2013) Caring democracy: Markets, equality, and justice. New York, NY: New York University Press.
+Tsing, A.L. (2015) The mushroom at the end of the world. Princeton, NJ: Princeton University Press.
+Tsing, A.L., Keleman, A.S. & Zhou, F. (2021) Feral atlas: The more- than- human Anthropocene. Redwood City, CA: Stanford University Press.
+Tsing, A.L., Mathews, A.S. & Bubandt, N. (2019) Patchy Anthropocene: Landscape structure, multispecies history, and the retooling of anthro -
+pology. Current Anthropology, 60(S20), S186–S197. Available from: https:// doi. org/ 10. 1086/ 703928
+Turnhout, E., Waterton, C., Neves, K. & Buizer, M. (2013) Rethinking biodiversity: From goods and services to “living with”. Conservation 
+Letters, 6, 154–161. Available from: https:// doi. org/ 10. 1111/ conl. 12012 
+UNEP. (2012) Functions, operating principles and institutional arrangements of the intergovernmental science- policy platform on biodiversity and 
+ecosystem services (IPBES). Nairobi, Kenya: United Nations Environment Program (UNEP).
+Van de Pavert, M. & Ressiore, A.C. (2023) Caring with the non- human: Reciprocity in market gardening. Exchanges: The Interdisciplinary 
+Research Journal, 10(2), 163–176. Available from: https:// doi. org/ 10. 31273/  eirj. v10i2. 972
+van den Berg, K. & Rezvani, L. (2022) Senses of discomfort: Negotiating feminist methods, theory and identity. In: Harcourt, W., van den Berg, 
+K., Dupuis, C. & Gaybor, J. (Eds.) Feminist methodologies: Experiments, collaborations and reflections. New York: Springer International 
+Publishing, pp. 21–45. Available from: https:// doi. org/ 10. 1007/ 978-  3-  030-  82654 -  3_ 2
+Weeks, K. (2011) The problem with work: feminism, marxism, antiwork politics, and postwork imaginaries. In: The Problem with Work. 
+Durham, NC: Duke University Press. Available from: https:// doi. org/ 10. 1515/ 97808 22394723
+Weitzman, R., Godoi, E.P.D. & Lovo, A.R. (2024) Modos de cuidar e se movimentar: experiências etnográficas entre indígenas, quilombolas e 
+agricultoras familiares. Revista de Antropologia, 67, e205162. Available from: https:// doi. org/ 10. 11606/  1678-  9857. ra. 2022. 205162
+Whatmore, S. (2002) Geographies of/for a more than human world: Towards a relational ethics. In: Hybrid geographies: Natures cultures spaces. 
+London: Sage Publications, pp. 146–167.
+Whatmore, S. (2006) Materialist returns: Practising cultural geography in and for a more- than- human world. Cultural Geographies, 13(4), 
+600–609. Available from: https:// doi. org/ 10. 1191/ 14744 74006 cgj377oa
+Wright, S. (2015) More- than- human, emergent belongings: A weak theory approach. Progress in Human Geography, 39(4), 391–411. Available 
+from: https:// doi. org/ 10. 1177/ 03091 32514 53713 
+Yates, A.M. (2021) Transforming geographies: Performing indigenous- Māori ontologies and ethics of more- than- human care in an era of eco -
+logical emergency. New Zealand Geographer, 77(2), 101–113. Available from: https:// doi. org/ 10. 1111/ nzg. 12302 
+Ziai, A. (2020) ‘I am not a post- Developmentalist, but…’ The influence of post-  development on development studies. In: The development dic-
+tionary. London: Routledge, pp. 173–188.
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the Supporting Information section at the end of this article.
+Annex 1. Questions that guided semi-  structured interviews.
+Annex 2. Original and translated quotes.
+Annex 3. Caring With Siribinha Focus Group (Cuidar com Siribinha, Cuidar em Siribinha) -  2/5/2023.
+How to cite this article: Ressiore C., A., Ludwig, D. & El- Hani, C. (2024) The conceptual potential of ‘more- 
+than- human care’: A reflection with an artisanal fishing village in Brazil. Geo: Geography and Environment, 11, 
+e00159. Available from: https://doi.org/10.1002/geo2.159
+ 20544049, 2024, 2, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.159 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

@@ -1,0 +1,1094 @@
+Received: 30 October 2023 Accepted: 26 December 2023
+DOI: 10.1002/vzj2.20308
+Vadose Zone Journal
+ORIGINAL ARTICLE
+Special Section: Tribute to Rien van Genuchten, Recipient of the 2023 Wolf Prize for Agriculture
+Exploring the artistic dimensions of soils in the vadose zone
+Gerd Wessolek1Alexandra Toland2
+1Institute of Ecology, Technische
+Universität Berlin, Berlin, Germany
+2Chair of Arts and Research,
+Bauhaus-Universität Weimar, Weimar,
+Germany
+Correspondence
+Gerd Wessolek, Institute of Ecology,
+Technische Universität Berlin, Berlin,
+Germany. Email: wessolekgerd@gmail.com
+Assigned to Associate Editor Quirijn de
+Jong van Lier.Abstract
+The rise of industrialized agriculture, coupled with a global demographic shift toward
+urbanization, has marginalized every-day connections between individuals and soils.
+This societal shift has led to a decline in the appreciation of and cultural identity
+with soils. Amid a broader movement aimed at fostering soil awareness and environ-
+mental action, many artists and designers have been instrumental in bringing soils
+to the cultural mainstream, figuring their esthetic, social, political, and ecological
+dimensions. Contemporary artists place great importance on the underlying idea of
+animating soils through artistic practice, often transcending the physical artifact itself
+to assign agency to soils and the myriad beings that occupy them. Artists harness a
+multitude of media to articulate human-soil relationships. From the early environ-
+mental art movements of the 1960s and 1970s to contemporary works centered on
+urban and industrial brownfields, soils’ multifaceted roles in CO2transformation,
+water and nutrient cycling, agriculture, and as living bodies buffering against pollu-
+tion have become ground for public discourse. What could this mean for the vadose
+zone in terms of reflecting on material flows in porous media beyond understandings
+of soil physics? In this paper, we draw on over 20 years of experience in studying the
+portrayal of soil in various arts genres to deliberate the potential of creative thinking
+about and thinking with the vadose zone.
+1 INTRODUCTION
+Study of the vadose zone seeks to understand the material
+dimensions of soils as they are expressed by the laws of
+physics. Historically, these dimensions have been mathemat-
+ically modeled using remote sensing and geospatial data to
+enhance understanding of processes in the soil profile that
+fluctuate between phases of saturation. We believe there are
+other ways of observing, interpreting, and thinking with such
+processes, that there are esthetic and philosophical dimen-
+sions to material ebbs and flows, and that processes of wetting
+and drying, leaching, and capillary rise encompass a poesy
+and aesthesis as well as mathematical truth.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided
+the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+©2024 The Authors. Vadose Zone Journal published by Wiley Periodicals LLC on behalf of Soil Science Society of America.Throughout human history, esthetic applications of soil
+have left indelible marks by diverse cultures. The cultural
+utilization of soil materials as a medium of craft and symbolic
+and esthetic expression, be it as pigment (as explored by
+Ugolini et al. [ 2010 ]) or as structural material, has a history
+predating its use in agriculture. However, the advent of
+industrialized agriculture and urbanization resulting from
+violent settler-colonial expansion has all but obscured cul-
+tural connections to soils and their material and ecological
+properties. Most members of contemporary societies have
+been cut off from regular interaction with soils, failing
+to recognize flows within the soil unless they appear as
+catastrophic mudslides or flooded streets. In this detachment
+from ancestral, agricultural, spiritual, or material-structural
+Vadose Zone J. 2024;23:e20308. wileyonlinelibrary.com/journal/vzj2 1o f1 4
+https://doi.org/10.1002/vzj2.20308
+
+2o f1 4 WESSOLEK AND TOLAND Vadose Zone Journal
+ties to the land, the esthetic and cultural significance of
+soil has dwindled, leading to a sensory gap between many
+humans and the Earth. Soil, as material body and habitat
+teeming with life and meaning, is often reduced to “dirt.”
+Klingan et al. ( 2014 , p. 25) lament that “the leakage of open
+mining pits and hydraulic fracking of rocks,” among other
+calamities, have turned the permeable, life-supporting safe
+space of the critical zone into a “mud zone.”
+Paradoxically, despite this waning appreciation, contem-
+porary soil protection paradigms predominantly rely on soil
+scientific evidence, sidelining cultural values and local knowl-
+edge and conservation strategies that could reinvigorate
+human perception of soils and foster better treatment of terres-
+trial landscapes under the current pressures of climate change
+and land degradation. Other publications have addressed this
+disparity, advocating for stronger integration of soil science
+into education at all levels (as proposed by Herrmann [ 2006 ]
+and Smiles et al. [ 2000 ]) and the development of more
+accessible public resources (as exemplified by van Baren
+et al. [ 1998 ]). Other authors have argued that soils must be
+considered based on their social, political, and cultural dimen-
+sions (as championed by Greenland [ 1991 ]; Lyons [ 2020 ];
+Meulemans et al. [ 2018 ]; Puig de Bellacasa [ 2015 ]; Salazar
+et al. [ 2020 ]; and Winiwarter [ 2006, 2019 ]). Additionally,
+these and other authors underscore the potential role of art as
+a tool for environmental communication and consciousness-
+raising (explored by Feller et al. [ 2010 ], Toland & Wessolek
+[2010a ,2010b ]; Toland et al. [ 2018 ]; Ugolini et al. [ 2010 ]; and
+van Breemen [ 2010 ]). It is this latter point that has formed the
+core of our inquiries over the last 20 years. While soil scien-
+tific research offers lawmakers and the public a foundation of
+numerical analyses and expert projections, art plays a pivotal
+role in conveying environmental issues to a broader audience,
+acknowledging other forms of material and cultural knowl-
+edge and local soil expertise. Art thrives as a realm of free
+experimentation where ideas can be independently and criti-
+cally tested before entering mainstream discourse, reflecting
+on shifts in cultural understanding of soils as well as actively
+reimagining “soil literacy” in public spaces.
+The significance of art and design in science, technology,
+engineering, and mathematics (STEM) fields such as infor-
+mation technology, robotics, and materials science, but also
+environmental engineering and earth sciences is evident at
+renowned festivals such as Ars Electronica in Linz, Austria;
+Transmediale in Berlin, Germany; Pixelache in Helsinki, Fin-
+land; and RIXC Art Science Festival in Riga, Latvia, among
+others. Wilson ( 2002a ) suggests that art and science encom-
+pass intersecting cultural duties, working together to promote
+environmental consciousness. It is thus a cultural necessity
+for both scientists and artists working with soils to bridge
+communication gaps, enhance public awareness, and develop
+more inclusive approaches to soil conservation.
+In the past, Bouma and Hartemink ( 2002 ) have under-
+scored the necessity for interdisciplinary research programsCore Ideas
+∙Soil scientists need to actively engaging with
+artists, designers, and cultural practitioners to
+bring soil topics to a wider audience.
+∙We support fostering teaching collaboration across
+disciplines and transdisciplinary exchange.
+∙We aspire to reform the structure of research
+funding.
+to facilitate communication among soil scientists, planners,
+policymakers, and other stakeholders. Yaalon ( 1996 ) similarly
+emphasized the transfer of soil technology between industri-
+alized and developing nations. Establishing robust research
+partnerships is crucial for the effective exchange of knowl-
+edge between scientific and artistic disciplines. Organizations
+like the Leonardo International Society for the Arts, Sciences
+and Technology, the Art and Science Collaborations Inc., and
+the arts and ecology programs at educational institutions of
+all levels attempt to bridge communication divides. In addi-
+tion to the international festivals mentioned above, long-term
+initiatives such as Cape Farewell and the 350.org campaign,
+the Anthropocene Curriculum and Commons of the Max
+Planck Institute and House of World Cultures, the alternative
+public pedagogies of Floating Berlin, and the internationally
+touring exhibition “an example to follow/ETF!” have suc-
+cessfully brought together artists, scientists, and educators
+over many years to raise awareness about climate change,
+including the many challenges facing soils. Most significantly,
+the 2015 UN International Year of Soils and 2015–2024
+Decade of Soils provided a momentous opportunity for many
+interdisciplinary institutions, public programs, and individual
+protagonists to address soil conservation on a broader cultural
+scale. Since 2015, soils can be found on most agendas at cul-
+tural institutions of all sizes and levels of prominence, from
+neighborhood-run galleries and community gardens to major
+museums and festivals. Through interdisciplinary engage-
+ment and a general sense of urgency, soils have (re-)entered
+the mainstream.
+This paper serves as one step in a process of reverse knowl-
+edge transfer, introducing examples of soil art to a primarily
+scientific audience. Conversely, we are intrigued by the cre-
+ative facets of scientific research and how they can enrich
+artistic practice. Our overarching goal is to encourage collab-
+orative endeavors between scientists and artists, aiming not
+only to enhance public understanding but also to pool method-
+ological know-how in confronting issues of contamination,
+erosion, and lobbying for legal protection. By amalgamat-
+ing the insights gleaned from several contextual reviews and
+opinion papers we have coauthored over the last 10–15 years,
+our work as both commissioners and co-commissioners of the
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+WESSOLEK AND TOLAND 3o f1 4 Vadose Zone Journal
+German Soil Science Society’s Commission on Soils in Soci-
+ety and Education (2011–2015) and Alexandra Toland’s work
+as co-commissioner of IUSS Commission 4.5 History, Philos-
+ophy, and Sociology of Soil Science (2022–2026), as well as
+several innovative field experiments of our own and with stu-
+dents, we reflect on different opportunities for collaboration
+between and across disciplines dedicated to understanding
+soils. Our ambition is thus to foster a deeper appreciation for
+the interplay between the arts and sciences, a combination that
+holds much potential in advancing appreciation for the vadose
+zone and for soil protection practices more broadly.
+1.1 Authors’ motivation
+Gerd’s professional background is soil physics and hydrology,
+complemented by studying fine art techniques and art his-
+tory. Alexandra’s background is rooted in the visual arts and
+environmental humanities, complimented by an engineering
+degree in landscape planning. Their collaborative research is
+uniquely shaped by the integration of art and design methods,
+drawing inspiration from fine art painting, which inherently
+explores the dynamics of flows and material transformations
+and performative and conceptual art, which situates soil as
+subjective and social entity. Their experiences and interests
+are rooted in an urban ecological context, emphasizing not
+only the dynamics of moisture, nutrients, and pollutants but
+also delving into the realms of site-specific history and pol-
+itics. They explore how these factors impact both human
+and more-than-human populations. Specifically, both authors
+look at how artists appropriate scientific ideas in their work
+and how these in turn resurface in scientific debates on the
+vadose zone. How can art contribute to the protection of
+soils and the safeguarding of water resources in soils, not
+merely by fostering public comprehension and elevating cul-
+tural appreciation, but also by devising innovative approaches
+to confronting complex challenges of climate change, water
+retention in landscapes, and energy transformation? And how
+can such approaches be integrated into teaching and research?
+Drawing on insights from several renowned artworks as well
+as our own artistic experimentations, we argue that art plays
+an integral role in generating dialogue between soil science
+and society at large, which could innovate new understandings
+of the vadose zone.
+2 SOIL IN CONTEMPORARY ART
+Depictions of soil and geologic forms may be identified in
+almost all major artistic genres. From landscape painting
+spanning works of Renaissance painter Pieter Bruegel the
+Elder all the way to Grant Wood’s farmlands of the 20th
+century, from Chinese shan shui ink paintings to JapaneseDorodango mud balls, from the Land Art movement of the
+1960s and 1970s to contemporary media art experiments to
+sonify and digitize soil environments, to more recent envi-
+ronmental and ecological art, it is important to distinguish
+between artworks that utilize a symbolic reference to “earth,”
+and those that contextualize “soil” as a distinct geophysical
+and biochemical body. In past writings, we have thus defined
+soil art as “art consciously in or with soil or about soil conser-
+vation issues, expressed via a wide range of artistic disciplines
+resulting in a multisensory esthetic experience” (Toland &
+Wessolek, 2010a ,2010b ). Multisensorial approaches to soil
+art include, for example, artists working with soil scent, soil,
+and terroir; cultural practices of eating clays (geophagy);
+soil sounding and sonification; and multisensorial sculpture
+(Toland & Wolter, 2023 ).
+Two main approaches to soil art can be articulated as fol-
+lows: artwork that is primarily concerned with the formal
+esthetic and material properties of soils, for example, as they
+are dealt with in ceramics, architectural practice and pig-
+ment making, and artwork that is ecologically restorative and
+recognizes the many roles and functions of soils in the envi-
+ronment. Matilsky ( 1992 ) makes a similar distinction between
+artists who have “proposed or created ecological artworks that
+provide solutions to the problems facing natural and urban
+ecosystems” and artists who hone their skills to attract atten-
+tion or create awareness of environmental issues by “framing
+the problems through a variety of media.” The early land
+artists, for example, were mainly occupied with material
+forms, importing a visual vocabulary from the minimalist and
+post-modern movements into remote natural settings. Artists
+such as Michael Heizer, Walter de Maria, Robert Morris, and
+Robert Smithson, for example, provoked new ways of perceiv-
+ing the environment by bulldozing monumental shapes into
+the landscape and exhibiting heaps of soil and rocks that were
+intended to be seen as sculptural works. Several contemporary
+artists have emerged in recent years to highlight the material
+qualities of soils. Notably, Lara Almarcegui’s installation at
+the Vienna Secession in 2010, Delcy Morelos’ installation of
+“Earthly Paradise” at the 59th La Biennale di Venezia in 2022,
+and Daniel Lie’s “Unnamed Entities” at the New Museum,
+New York, in 2022 use tons of soil and construction fill in
+large-scale room installations that provoke viewers to rethink
+the value and meaning of soil as living materials in constant
+cultural circulation.
+Around the same time as the Land Art movement, begin-
+ning in the late 1960s and 1970s, a more reactionary group
+of environmental artists, including Alan Sonfist, Newton and
+Helen Mayer Harrison, Agnes Denes, and Joseph Beuys,
+began focusing their artistic efforts on repairing and restoring
+ecosystems and creating attention to environmental degra-
+dation. In both of these conceptual approaches, soils are
+imagined otherwise, providing new perspectives on soils in
+the environment and our relations to it. Different artistic
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4o f1 4 WESSOLEK AND TOLAND Vadose Zone Journal
+motifs speculate the essence of specific soil functions that
+can be related back to soil scientific understanding of soil
+functions. For instance, concepts of fertility are dealt with
+in the works of Charles Simonds, Ana Mendieta, Shai Zakai,
+Roxanne Swentzell, Annie Sprinkle, and Beth Stephens. The
+archival and heritage function of soils are prominent in the
+projects of Betty Beier, Marianne Greve, Cannupa Hanska
+Luger, Mandy Martin, and Ekkeland Götze. Despite “a pro-
+fusion of terms” (Bower, 2009 ), including land art, earth
+art, environmental art, and now soil art, the term eco-art
+historically refers to art with and for nature as opposed to
+art simply about or in nature (Aagerstoun, 2007 ). In areas
+with weak mitigation policies, eco-art has come to fill a
+planning void in degenerate landscapes. Land remediation
+and mitigation is disguised as sculpture and performance
+art. Some interdisciplinary projects are unique in that they
+are either initiated by or include artists in solving local
+and regional environmental problems. For example, the Acid
+Mine Drainage & Art project (1994–2005) in Vintondale,
+PA, is a tribute to the cultural and environmental heritage
+of the mining region. Artist Stacy Levy designed a passive
+water treatment system, or “Litmus Garden,” to help com-
+municate soil processes of buffering and filtration. Initiated
+by art professors Tim Collins, Reiko Goto, and Bob Bingham
+formerly of the Carnegie Mellon Studio for Creative Inquiry,
+the Nine Mile Run greenway restoration project in Pitts-
+burg, PA, also addresses complex soil remediation processes.
+On a smaller scale, artist Georg Dietzler has confronted
+soil contamination issues by using myco-remediation (i.e.,
+remediation facilitated by fungi) in his long-term installa-
+tion projects. In works such as Self-Decomposing Laboratory
+(1999) and Moveable Oyster Mushroom Patch (1996–1997),
+Dietzler makes use of the edible oyster mushroom ( Pleurotus
+ostreatus ) to break down organic pollutants such as polychlo-
+rinated biphenyls. In a similar bioremediation project, the
+“Revival Field” (1990–1993), artist Mel Chin planted a field
+of heavy metal-absorbing “hypo-accumulators” at the Pig’s
+Eye Landfill in Minnesota. In another project, “Paydirt,” Chin
+launched a public awareness campaign about the high lead
+content in New Orleans’ soils, a problem that has increased
+long after the floodwaters of Hurricane Katrina receded.
+The following works in particular stand out as “vadose zone
+artworks” in our opinion, because of the ways they esthet-
+ically and symbolically deal with the physical materiality
+of urban soils, as public urban intervention, as time-based
+works, and as multisensory social experience. In the first
+example, permeable pavements, bioswales, berms, and basins
+serve as sculptural mediums to draw attention to urban soils
+and water cycles in public space. In the early 1980s, Gary
+Riveschl showcased the imperative need for opening pave-
+ments to provide nature an opportunity to rejuvenate and to
+allow rainwater more space for infiltration in his series of
+groundbreaking (literally) “break out” installations and sculp-
+FIGURE 1 Gary Rieveschl, Breakout, 1981.
+tural interventions in cities (Figure 1). During this period,
+political advocates from green parties began advocating for
+the restoration of natural hydrological systems within cities.
+Over the past two decades, designing rainwater infiltration
+solutions for urban areas has evolved into a standard prac-
+tice, aimed at closing the hydrologic cycle. In the last decade,
+city planners have embraced the concept of “sponge cities”
+to design increased rainwater retention that can better buffer
+the extreme runoff of intense rainfall events. Cities are now
+expected to retain as much rainwater as possible for the pur-
+pose of cooling urban environments and allowing for better
+tree transpiration and more green space. Riveschl’s work was
+a pioneering call for more pockets of unpaved soils in cities,
+suggesting that rainwater infiltration and soil hydrology is not
+only a topic for urban planners and soil cartographers but for
+everyone who lives in cities and is affected by climate change
+and its effects on the hydrologic cycle.
+The second example focuses on the time-based phenomena
+of soils, bringing to life moisture flows within the vadose zone
+through practices of listening. Fluxus artist Dick Higgins, as
+cited in Dezeuze ( 2014 ), “Origins of the Fluxus Score,” once
+suggested that “musical activity takes place in time, and . . .
+anything that just breaks up time happening in it, absorbing
+it, is musical.” Toland ( 2023 ) has argued that according to
+this logic, the events that take place in a single pedon are
+musical. The musical score of an individual soil biography
+is written down in soil horizons, which detail recognizable
+patterns of chemical and physical events in the distribution
+of various materials. Works that sonify these events are
+particularly interesting for studying the vadose zone in
+that they open soil physics and hydrology to the fields of
+acoustic ecology and media art. Notably, the Waterviz project
+(https://hubbardbrook.org/waterviz/ ) at Hubbard Brook
+merges hydrology, art, music, and data design to collect real-
+time hydrologic data like precipitation, streamflow, soil water,
+and groundwater from the Hubbard Brook Experimental
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+WESSOLEK AND TOLAND 5o f1 4 Vadose Zone Journal
+Forest in New Hampshire. Using digital sensors that transmit
+high-frequency data wirelessly to an internet-connected
+computer model, water cycle components are calculated
+and used for visualization and sonification. The resulting
+artistic visuals and soundscapes accurately represent current
+hydrological processes. Conceived by Dr. Lindsey Rustad,
+artist Xavier Cortada, musician and sound artist Marty
+Quinn, and research assistant Torrin Hallett, Waterviz offers
+a unique opportunity to intuitively experience the ongoing
+water dynamics in a forested watershed, intertwining science,
+art, and music for a transformative listening experience.
+In a further example that uses real-time data to capture the
+acoustic phenomenology of soils, the “Sounding Soil” project
+stands out in both its scientific precision and esthetic quality.
+From 2017 to 2020, Swiss artist Marcus Maeder led a 20-
+member team as part of a research consortium between the
+Zurich University of the Arts ZHdK (Institute for Computer
+Music and Sound Technology), the Swiss Federal Institute
+for Forest, Snow and Agriculture Research, the Swiss Federal
+Institute of Technology Zurich, the National Soil Monitoring
+Office, and the Biovision Foundation for Ecological Develop-
+ment to develop methods for acoustic analysis of biological
+activity in topsoils. In 2017, Maeder and colleagues chose 20
+test sites based on land use and humus types and set up piezo-
+electric sensors that converted soil vibrations into electrical
+signals, captured as sounds. Recordings were taken 30-cm
+deep and 60-cm wide, representing the biologically active part
+of the soil. Soil samples at the recording sites were taken
+with a puncture cylinder and then analyzed in the lab using
+the Berlese and Winkler method, soil fauna was extracted,
+taxonomically identified, and counted (Maeder et al., 2019 ).
+In October 2018, an immersive installation at the Paul Klee
+Centre in Bern featured a converted shipping container with
+a green roof and dimly lit listening room with light and
+sound that represented the recording sites at different depths.
+The soil sounds included clicks, taps, vibrations, hisses, and
+mechanical scratching that were augmented with weather and
+aboveground sounds to create holistic listening experience,
+inviting visitors to reimagine soil as a soundscape. The inter-
+disciplinarity of sounding soil and Waterviz further invites
+soil scientists to work with time-based media artists in explor-
+ing what Sterne ( 2012 ) describes the “acoustic environment as
+a field of study, just as we can study the characteristics of a
+given landscape.”
+Finally, the American artist Asad Raza combines social
+interaction, relational esthetics, scientific recommendations,
+and technogenic soil substrates in his work. Often exploring
+dialogical exchanges and rejecting disciplinary boundaries,
+Raza conceives of his art as a metabolic, active experience.
+The installation work, “ Absorption ,” in which a group of
+so-called “cultivators” tend to a room full of “neosoil,” has
+been shown at the 34th Kaldor Public Art Project in Sydney,
+Australia, in 2019, at Gropius Bau in Berlin in 2020, at theRuhr Biennale in Essen, 2021, at the “Down to Earth exhi-
+bition” in Dresden, Germany, in 2022, and at the “We are
+Compost/Composting the We” exhibition at the Centre for
+Contemporary Art in Glasgow, UK, in 2022, on the occa-
+sion of the 22nd World Congress of Soil Science. Keynote
+speaker Suzi Huff Theodoro and other soil scientists debated
+the potentials and limitations of human-made soils in cities
+and other disturbed areas. All iterations of the exhibitions,
+including podium discussions and other dialogic events, were
+organized and conceptually realized in cooperation with soil
+scientists from local universities.
+Figure 2shows an example of the “Down to Earth” exhibi-
+tion at the Gropius Bau in Berlin, Germany. A locally unique
+“neosoil” manufactured out of local materials such as food
+waste from local cafeterias, coffee grinds, cocoa husks, hair
+from salons, and construction sand and other fill was mixed
+together and carefully installed within the gallery space, cared
+for by the “cultivators” throughout the duration of the exhibi-
+tion, who explained basic soil properties such as texture and
+pH, raking it, and finally giving it away to visitors to use in
+their own gardens. The project allowed visitors to experience
+the soil as a living body that is constantly changing and react-
+ing to its myriad inputs and interactions. More than anything,
+as the title, Absorption , alludes, both the soil and its cultivators
+act as a conduit for conversation and community. Not only is
+water absorbed, but also sound, smell, memory, and attention.
+A smaller scale but similarly thought-provoking work,
+“Pieces of meadow” by Veronika Pfaffinger (Figure 3),
+demonstrates the living and virtual dimensions of soils.
+Pfaffinger’s work was exhibited at the Technische Uni-
+versität Dresden (TUD) Down to Earth exhibition, initi-
+ated by Prof. Karl-Heinz Feger, the former President of
+the German Soil Science Society, in cooperation with
+Gwendolin Kremer, curatorial director of the “Kustodie”
+of the TUD. ( https://tu-dresden.de/tu-dresden/nachhaltigkeit/
+termine/rahmenprogramm-down-to-earth ).
+3 VADOSE ZONE ART
+While the uppermost layer of topsoil is a rich place teeming
+with life, its lowermost edge hangs over a wet roof of interwo-
+ven capillaries that suck up the ground water into pore spaces
+like millions of tiny cocktail straws dipped into the life-spring
+below. The capillary rise of water against the force of grav-
+ity in the intricate capillary fringe is determined by the size
+and distribution of the pore spaces. These are determined by
+the size and aggregation of soil particles, which in turn are
+determined by the age and origin of parent materials present in
+the subsoil. A gravelly glacial sand, for example, makes for a
+coarser fringe than an aeolic loess, sticky clay, or muddy peat.
+As a rule of thumb, the smaller the pore diameter, the higher
+the capillary rise. Depending on the girth of the vadose zone,
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+6o f1 4 WESSOLEK AND TOLAND Vadose Zone Journal
+FIGURE 2 Left: Asad Raza, Absorption, Down to Earth. Climate Art Discourse unPlugged, Gropius Bau, Berlin, 2020. Photo by Ray Stonada
+(courtesy of the artist); Right: Asad Raza, Absorption, installation view Down to Earth. Climate Art Discourse unPlugged, Gropius Bau, Berlin,
+2020. Copyright Berliner Festspiele/Immersion, photo by Eike Walkenhorst (courtesy of the artist).
+FIGURE 3 Sculptures “Pieces of meadow” (each 40 cm ×40 cm
+×220 cm) by Veronika Pfaffinger as part of the exhibition “Down to
+Earth” (2022) at the Technische Universität in Dresden (TUD),
+Germany (photo: courtesy of the artist).
+from just a few centimeters to many meters thick, depend-
+ing on the topography of the landscape and the depth of the
+groundwater, the capillary fringe can fluctuate daily, such as
+in soils of floodplains. It can also hold distant memories of
+time-based moisture, such as for soils on semiarid plains. In
+many ways, we can understand the vadose zone as a kind of
+moisture storage bank for all life on earth—a place where
+precious water is deposited, stored, drained, and refilled as
+it slowly travels to the groundwater aquifer.
+Interest in vadose zone topics began for the author Gerd
+Wessolek already as a PhD student. While his scientificresearch focused on soil hydraulic and thermal properties,
+hydro-pedo-transfer functions, and water and solute transport,
+he felt it was important to explore these topics in free-style
+visualizations that captured the essence of the flows and leaks
+in the vadose zone. In 1995, he ventured into vadose zone
+research through watercolor painting, itself another mate-
+rial practice of the study of flows, stickiness, and leakages.
+This endeavor coincided with a surge in water consump-
+tion in Germany, leading to the construction of new wells
+in the northern regions of Hannover to meet the growing
+demand. The wells were often installed in landscapes with
+gleyic soils used as grassland or meadow because of the shal-
+low groundwater table. As a reaction of water pumping, the
+water table dropped, and capillary rise became zero. The for-
+mer grassland sites became much drier and, consequently,
+were ploughed and transformed to arable land. This transfor-
+mation process resulted in an increasing groundwater recharge
+and high nitrate mineralization losses of the soil organic mat-
+ter passing down to the groundwater. This scientific story is
+summarized in Figure 4showing four typical land use situa-
+tions for the same site. The arrows indicate the direction of
+water and solute transport in a textbook style but with esthetic
+elements. This picture is an example of soil science art (SSA)
+used as cover page for a scientific report that was financed
+by the German Research Foundation (DFG). The scientific
+results were originally published in Renger et al. ( 1986 ) and
+Strebel et al. ( 1989 ).
+The next example shows two artworks reflecting on how
+soil aggregation determines soil classification, proposing that
+there is an esthetic dimension to soil physics (Figure 5).
+The left image contains an original soil profile fixed in the
+middle of the canvas, combined with fundamental equations
+used in soil physics and hydrology. On the right side, soil
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+WESSOLEK AND TOLAND 7o f1 4 Vadose Zone Journal
+FIGURE 4 Effects of groundwater lowering on soil organic
+matter (SOM) mineralization, water, and nitrate transport to the
+groundwater—Gerd Wessolek’s watercolor painting from 1995 featured
+as the cover page of a research report financed by the German Research
+Foundation (DFG).
+mapping as well as soil classification criteria are depicted.
+Both components of the image underscore the fundamental
+necessity of mapping to translate the intricate nature of soil
+into tangible soil physical and hydrological units. The artwork
+on the right depicts two fundamental soil hydraulic func-
+tions: water retention and hydraulic conductivity. However,
+soil physics encounters difficulties in integrating soil structure
+and aggregation criteria. Both artworks pay homage to Rien
+van Genuchten, recognized for his contributions in modern-
+izing soil physics as an environmental discipline. They also
+stand as examples of a science-art methodology that could be
+called SSA. The artworks convey that both soil mapping and
+soil physics serve as formal instruments for comprehending
+soil, yet they remain somewhat removed from the actuality
+of the soil. Just as with all natural phenomena, neither sci-
+ence nor art can fully elucidate it. Consequently, the lingering
+question posed by the image is: How can we reconcile these
+diverse perspectives?
+Similarly, the coauthor’s (Alexandra Toland) interests in
+the vadose zone also began as a PhD student at the Tech-
+nical University Berlin (TUB). With formal training in the
+humanities, visual arts, and landscape planning, she pursued
+her doctoral research on soil and art in the DFG-funded grad-
+uate research cluster for urban ecology. In 2015, she used
+street dust collected from sealed areas in Berlin to create a
+wall map of soil sealing in Wedding, Berlin, a district with
+decreased green space and higher rates of air and soil pollu-
+tion. Envisioning streets and sidewalks as an infrastructural
+grind mill in which urban surfaces are subject to the same
+forces of weathering as mountains and seashores, the author
+placed soil-sealing maps on the soles of shoes and welcomed
+visitors to the Art Laboratory Berlin to explore their own
+neighborhoods and imagine less asphalt. The goal of the work
+was to explore topics of soil sealing as they affect the environ-ment and human well-being: How does “imperviosity” affect
+individuals and communities? How do humans overcome
+concrete barriers to reconnect with soils?
+Over the past two decades, the vadose zone has also fea-
+tured prominently in university teaching at the TUB. In
+courses and seminars such as “Urban Ecology” and “Soil
+Functions,” artistic approaches were integrated alongside sci-
+entific topics like soil sealing, water retention in cities, sponge
+city design concepts, and the planning and evaluation of
+ecosystem services provided by street trees. These endeavors
+included (i) collaborations with artists, (ii) seminars focused
+on the creation of soil-related movies, which can be accessed
+on YouTube under the channel “MediaSoil” ( https://www.
+youtube.com/@MediaSoil ), and (iii) providing opportunities
+for students to engage in creative soil-art projects and field
+exercises. One of the student-produced films featured a whim-
+sical depiction of the urban water cycle, narrating the tale of
+two raindrops, Willy and Wilma, as they descend onto the
+urban terrain of Berlin. Along their hydrological journey, they
+fall in love, lose track of each other, traverse distinct urban
+paths, and ultimately reunite as they evaporate. The above-
+mentioned creative field exercises were conducted, among
+others, in an overgrown urban lot adjacent to the TUB campus.
+Students specializing in landscape planning and environ-
+mental engineering were encouraged to not only paint their
+impressions but also to integrate artifacts discovered within
+the soils into their artwork (Figure 6). At the conclusion of
+the seminar, discussions extended beyond the artworks them-
+selves, delving into the significance of urban discoveries in
+relation to contamination risks and methods for decontam-
+inating and repurposing the soil, considering its potential
+uses on the site. This kind of teaching enables the devel-
+opment of new criteria for seeing, teaching, mapping, and
+evaluating soils and landscapes, effectively—and attractively
+highlighting soil-related aspects.
+Figure 7(left) displays familiar soil esthetic criteria, while
+the painting on the right illustrates a designated soil alphabet.
+Each letter symbolizes a soil-related topic, representing both
+scientific and artistic narratives.
+4 THE IMPORTANCE OF DIALOGUE
+In 2018, Toland, Noller, and Wessolek published “Field to
+Palette: Dialogues on Soil and Art in the Anthropocene,”
+which is a dialogic investigation of the cultural meanings, rep-
+resentations, and values of soil in a time of planetary change.
+The book offers critical reflections on some of the most
+challenging environmental problems of our time, including
+land take, groundwater pollution, desertification, and biodi-
+versity loss, as seen through the perspectives of different soil
+practitioners. At the same time, the book celebrates diverse
+forms of resilience in the face of such challenges, beginning
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+8o f1 4 WESSOLEK AND TOLAND Vadose Zone Journal
+FIGURE 5 Left: “soil physics meets soil classification”; right: “soil structure enters soil physics.” Both tribute to Rien van Genuchten and his
+input in soil physics, painted by Gerd Wessolek in 2002.
+FIGURE 6 Field exercises with students fixing soil and artifacts on canvas (photos by Wessolek).
+with its title as a way of honoring locally controlled food pro-
+duction methods championed by “field to plate” movements
+worldwide. By focusing on concepts of soil functionality,
+the book weaves together different disciplinary perspectives
+in a collection of dialogue texts between artists and scien-
+tists, interviews by the editors and invited curators, essays
+and poems by earth scientists and humanities scholars, soil
+recipes, maps, and do-it-yourself experiments. With contri-
+butions from over 100 internationally renowned researchers
+and practitioners, “Field to Palette” presents a set of artistic
+methodologies and worldviews that expand our understanding
+of soil and encourage readers to develop their own interpre-
+tations of the ground beneath our feet. More than anything,the book aims to facilitate dialogue about soil and encourage
+exchange across and beyond disciplines.
+Expanding on this dialogic work, we look back on two of
+our own long-term transdisciplinary projects that have been
+central to our understanding of the vadose zone. The first,
+more recent project is the WindNODE research collaboration
+from the years 2018–2021, funded by Federal Ministry of
+Education and Research. The partnership was established
+between (i) energy companies, (ii) soil scientists, and (iii)
+artists and designers. The research project “WindNODE”
+(https://www.windnode.de/en ) focused on the energy
+transformation to renewable sources (wind parks) in Ger-
+many and their little-known effects on soil resources. On a
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+WESSOLEK AND TOLAND 9o f1 4 Vadose Zone Journal
+FIGURE 7 Left: soil esthetic criteria; right: soil alphabetic topics, both painted by Wessolek in the context of a soil-art teaching exercise, 2007.
+4000-km-long high-voltage energy terrace, a 360 kV cable
+line was installed in the soil for transferring electric power
+from the northern, windy part of Germany to the south with
+a high energy demand. In a teaching collaboration in 2017,
+Toland and Wessolek teamed up with Professor of Elemental
+Design, Myriel Milicevic, from the FHP Potsdam, and
+research assistant Dr. Björn Kluge for the interdisciplinary
+“Electric Avenue” project. Environmental engineering and
+landscape planning students and design students collected
+data on energy uses, leaks, and potentials in energy diaries,
+visited sites in Berlin and Brandenburg and worked together
+to develop project ideas that addressed the soil-energy nexus.
+Results of this “Energy meets Art” project were published by
+Wessolek and Kluge ( 2020 ). Artist Betty Beier was part of
+this interdisciplinary research project. Betty Beier has spent
+over 20 years documenting soils found on contested sites of
+major infrastructural projects around the world. Concerned
+with the rising yearly loss of soil due to urban and industrial
+development, Beier explores the loss of landscape in the
+series “Erdschollen Archive” (Earth Print Archive). Within
+this context, she prepared an “earth print” (1 m ×1m )o ft h e
+soil surface to preserve a square meter of soil as it was before
+the digging started (Figure 8,l e f t ) .
+Because of implanting cable liner, soil properties and
+functions are impacted as shown in Figure 9. Before the
+intervention, soil formation development of soil structure
+and nutrient translocation has been visible (Figure 9a). After
+installing the cable liners, however, only a uniform topsoil
+horizon and subsoil with cables remain (Figure 9b). Thus,
+not only the historical profile of the soil changed but also its
+functions from a pure agricultural land to an energy trans-
+port media. The main soil function is now hosting the cables
+safely and transferring cable-induced heat from the voltage
+transport to the soil environment to prevent high cable tem-
+peratures. Among others, a central question arose as to how to
+predict soil thermal conductivity using theoretical and empir-ical approaches. A cable cross-section and some basic heat
+transport equations are illustrated in Figure 9con a canvas
+by Wessolek (2019), and scientifically discussed in an article
+by Wessolek et al. ( 2023 ). Through our own artistic practice
+and insightful discussions with Betty Beier, we try to reflect
+on the science behind monitoring the environmental impacts
+of large infrastructure projects that form the literal backbone
+of the energy transition in Germany. As with Beier’s other
+earth prints, artistic archival shows that no major infrastruc-
+ture project can leave the soil intact. Scientific monitoring and
+artistic recordkeeping bear witness to anthropogenic change.
+The strength of the WindNODE project was that it placed
+research on the vadose zone within larger public debates on
+energy transition, energy security, and the politics of large
+infrastructure projects. The question remains as to how this
+work can influence public policy and legal frameworks. In
+working on the “Field to Palette” (2018) volume, we similarly
+invited authors to reflect on the sociopolitical concerns of soil
+study, from addressing industrial agriculture to soil pollution
+and waste management, to indigenous land use practices and
+rights. Through this work, we aimed to make visible the his-
+torical and political aspects that have influenced soil and art
+activities.
+The second vadose zone example picks up a human-made
+environmental pollution topic, namely, the long-term leaching
+of sulfate coming from huge rubble deposits of World War 2
+(WW2) in Berlin, leading to problems in groundwater quality.
+The research projects on this topic were financed by (i) the
+DFG and (ii) the Berlin Government in cooperation with the
+Berlin Water Works from 2010–2014.
+About 30 years after ending the “cold war” in 1990, the
+topic of war-effected soils came back while preparing this
+article; two significant conflicts erupted that have direct and
+long-lasting effects on not only world peace but the future
+of soils: the ongoing war between Russia and Ukraine, and
+the 75-year conflict between Palestine and Israel. In the
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+10 of 14 WESSOLEK AND TOLAND Vadose Zone Journal
+FIGURE 8 Energy long-distance transport by cable liner (left) Betty Beier preparing (middle) a “footprint” artwork (right) of the soil as part
+of her “soil archive” (photos by Wessolek).
+FIGURE 9 Soil profile before (left) and after cable laying (middle) and a picture of heat transport aspects (right), painted by Wessolek in 2019.
+words of former president of the International Union of Soil
+Science, Lal ( 2022 , p. 43) has argued that “soil degrada-
+tion and climate change are mutually reinforcing stressors,
+which strongly interact and undermine peace.” While sustain-
+able soil management and regenerative agriculture are vital
+for world peace, social equity, and human and more-than-
+human livelihood, military activities have extreme impacts
+on the soil through compaction from heavy vehicles, intro-
+duction of anthropogenic substrates from wartime debris and
+rubble, and long-term pollution through the leakage of chem-
+icals both associated with weaponry and the destruction of
+infrastructure.The consequences of these conflicts for people, their per-
+spectives on life, and the impact on soils and the environment
+are vividly apparent in all areas affected by war. Scientists
+and artists in the city of Berlin, Germany, have long been
+grappling with the aftereffects of war on the environment.
+For anyone interested in soils, these effects are exemplified
+by massive rubble heaps such as the “Teufelsberg” (Devil’s
+Mountain), an artificial hill constructed from building debris
+from WW2, which has been the focus of several research
+projects in the department of soil protection at the Techni-
+cal University Berlin for over 20 years. About 30% of all
+buildings in Berlin were destroyed during WW2. A portion
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+WESSOLEK AND TOLAND 11 of 14 Vadose Zone Journal
+FIGURE 10 Impressions of the former Central Intelligence Agency (CIA) buildings on the Devil’s Mountain (left), and the roof platform
+(right), both utilized for large size graffiti art, photos by Wessolek in 2023.
+of the 26 million m3of rubble was deposited from 1950 to
+1972 in a pyramidal shape according to plans by the renowned
+architect Hans Scharoun, who also created the Berlin Phil-
+harmonic. Additional components in the rubble include coal,
+ash, slag, and gypsum from former brick and mortar build-
+ings. Mineralogical, chemical, and numerical analyses lead to
+the prognosis that sulfate leaching will continue for a duration
+of over 3000 years. Thus, percolating water and ground-
+water exhibit significantly elevated sulfate concentrations of
+>750 mg L−1, leading to long-term challenges in pumping
+and purifying groundwater to meet drinking water quality
+standards. What a stark contrast: Hitler aimed to establish
+a 1000-year Reich called Germania, which, however, lasted
+only 12 years and sank into ruins, but the environmental
+problems his regime created will persist for the next 3000
+years, that is, 100 generations. Devastation to landscapes and
+built infrastructure in Ukraine, Syria, Palestine, Afghanistan,
+Iraq, Yemen, the Democratic Republic of Congo, and Dafur
+will similarly lead to the slow violence of groundwater
+contamination and soil degradation for generations to come.
+Currently, the reforested “Teufelsberg” is used as a recre-
+ational area for sports, and the former Central Intelligence
+Agency (CIA) budlings, which were erected during the “cold
+war,” are now used unofficially as a place for street art and
+temporary cultural interventions, as illustrated by Figure 10.
+The history of the Teufelsberg and its underground legacy
+have been recognized by artists, who have addressed the
+profound human suffering and the loss of homes. For exam-
+ple, Philip Topolovac’s project “Soil Samples” (Bodenproben,
+2005–2010) is an archive of hundreds of twisted jewels ofemerald and amber-colored glass that were collected in rub-
+ble soils in Berlin and serve as a material memory of loss.
+Notably, Dr. Lukasz Kosela, a Polish artist, has tackled this
+issue by portraying individuals who lost everything during
+the war with portraits printed on bricks sourced from rubble
+heaps.
+Figure 11gives impressions of the devastation in Berlin in
+1945 and a view of Devil’s Mountain, which includes the for-
+mer secretive CIA station of the United States. In the figure,
+a typical rubble soil profile is displayed along with Kosela’s
+artwork from 2002. More information on Devil’s Mountain,
+long-term sulfate leaching, and artistic approaches are given
+by Abel et al. ( 2015 ), Wessolek et al. ( 2011 ), and 2014. The
+problem of addressing soil memory and cultural heritage of
+war-affected soils in the context of cultural ecosystem services
+is dealt with in Wessolek and Toland ( 2017 ). In the interest
+of soil health and human well-being, we agree with Rattan
+Lal’s proposal for a “soil-peace” nexus and see the potential
+of art–science collaborations in not only addressing past con-
+flicts and healing cultural and environmental memory, but in
+working together to cultivate and restore healthy soils for the
+sake of a common future.
+5 SUMMARY AND OUTLOOK
+Because cities boast a concentration of cultural and artistic
+activity as well as acclaimed research and academic insti-
+tutions, urban soils can be considered a productive starting
+point for interdisciplinary collaboration. This is reflected in
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+12 of 14 WESSOLEK AND TOLAND Vadose Zone Journal
+FIGURE 11 Devil’s Mountain narrative. At the top: Berlin in ruins at the end of World War 2 (WW2) and the current view of the Devil’s
+Mountain, featuring the former Central Intelligence Agency (CIA) station of the United States. Below: A typical rubble soil profile and Lukasz
+Kosela’s artwork (2002) displaying photos of WW2 victims on bricks.
+the selection of artworks above, many of which were created
+in urban and industrial areas. While the field of soil science
+has traditionally focused on optimizing soil as a resource
+to produce food, fuel, and fiber, city soils have historically
+been evaluated on different terms, that is, as medium for
+buildings and infrastructure and place of water retention. An
+increase in urban ecological research has led to new forms of
+perception and environmental protection objectives in cities.
+For example, urban soils offer a unique perspective into his-
+tory. An archive of war, peace, cultural, and environmental
+change is preserved beneath our backyards and sidewalks.
+Urban agriculture and on-site rainwater harvesting have also
+become important topics for subsistence farmers in develop-
+ing nations as well as slow food movements in industrialized
+nations. Open soils are also an important habitat for myriad
+animals, insects, plants, and microbial life in cities. The diver-
+sity, dynamics, and vulnerability of urban soils demand a need
+for awareness, acceptance, and education and thus provide
+creative stimulus for artistic involvement.
+While artists can play a crucial role in sparking inter-
+est in soil protection, Stephen Wilson ( 2010 ) suggests that
+“artists can help researchers become aware of previously
+unrecognized perspectives and cognitive frameworks, while
+establishing connections with audiences beyond the research
+community.” The question that remains is whether scien-
+tific collaborators genuinely embrace new perspectives and
+alternative cognitive frameworks when collaborating with
+artists. How do scientists incorporate creative insights into
+their research, and can this integration be influenced by inter-
+disciplinary or cross-disciplinary collaborations? Lastly, dosuch collaborations typically arise from individual person-
+alities seeking specific skills or from institutional structures
+and funding opportunities for interdisciplinary research? To
+enhance collaboration between soil scientists and artists, it
+is imperative to revamp our traditional research funding
+programs and educational institutions. Otherwise, soil protec-
+tion will become increasingly one-sided and challenging to
+achieve as soil science sub-disciplines delve into highly spe-
+cialized topics that are not easily comprehensible or relevant
+to the public. It is true; scientists are not inherently trained
+in the realm of communication, but they could be through a
+more wholistic education that included units on soil esthetics,
+history, politics, and culture. In the context of contemporary
+integration of art and science, we must consistently explore
+the parallels that emerge between an ever-converging critical
+art world and a culturally literate scientific community. To
+engage in constructive dialogue, both domains must remain
+open and informed about each other’s methods of observ-
+ing and understanding the world. Deliberate cross-referencing
+and regular engagement are essential. This is not just an
+observation but a call to action. Professional artists, cultural
+theorists, historians, poets, and social scientists should be
+more frequently invited to soil science conferences, laborato-
+ries, and journals to contribute to engineering more actively,
+agricultural, and ecological discourse. Conversely, soil sci-
+entists have much to offer at environmental art symposiums,
+exhibitions, and seminars. And both have a responsibility to
+address policymakers and stakeholders, using their skilled
+expertise to make appeals for groundbreaking soil protection
+legislation.
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+WESSOLEK AND TOLAND 13 of 14 Vadose Zone Journal
+In lieu of a conclusion, the authors would like to draw atten-
+tion to the following points addressed to the soil science and
+vadose zone community:
+∙Need for interdisciplinary models : The vadose zone is
+undeniably a complex and dynamic system that plays a
+pivotal role in groundwater protection. To gain a deeper
+understanding for effective management, it is imperative to
+consider the development of interdisciplinary models that
+integrate different insights and sources of knowledge. Col-
+laborative research spanning these fields can provide a more
+holistic comprehension of vadose zone behavior.
+∙Need for transdisciplinary lectures : Let us develop new
+transdisciplinary and innovative teaching concepts to
+inspire students and members of the public for the topic of
+soil and vadose zone.
+∙Challenges in applying knowledge : Despite significant
+strides in vadose zone science, there can be a disconnect
+between scientific knowledge and practical implementa-
+tion. Efforts should be made to bridge this gap by actively
+engaging with stakeholders, policymakers, and local com-
+munities. This ensures that research findings are effectively
+applied to real-world scenarios. The author’s experiences in
+teaching and engaging with the public show how interdis-
+ciplinary cooperation can help bridging theory and practice
+for a better understanding of real-world problems.
+∙Breaking away from formulaic thinking : Conventional and
+formulaic approaches to vadose zone management and
+research should be challenged. Encourage innovative think-
+ing and the development of novel models that can address
+the unique challenges posed by human activities and
+climate change in the Anthropocene.
+∙Diverse data collection, analysis, and presentation : Incor-
+porate diverse data sources and analysis and presentation
+techniques. This may involve leveraging remote sensing,
+geospatial data, sensor networks, and machine learning
+algorithms to enhance our understanding of vadose zone
+processes. The fields of information design, media arts, and
+visual communications can help make vadose zone data
+more esthetic and more accessible.
+∙Improved communication and accessibility : Address limi-
+tations in communicating research findings. Explore com-
+munication strategies to make scientific knowledge more
+accessible to the wider community through clear and
+engaging communication, public outreach, and open-access
+publications. This facilitates better community engagement
+and informed decision-making.
+∙Water supply and memory : Investigate the relationship
+between water and memory within the vadose zone. How
+does the vadose zone store and release water, and what
+implications does this have for water, that is, groundwa-
+ter quality and management in future? Develop models that
+capture this intricate interplay.∙Humor and collaboration : Utilize humor and collaboration
+to foster interdisciplinary discussions. Sometimes, humor
+can break down barriers and encourage creative thinking.
+Collaboration among scientists from different fields can
+lead to fresh insights.
+∙Financing research : We must reevaluate our research poli-
+cies and programs. Instead of exclusively financing pure
+soil science projects, such as vadose zone research, let us
+actively cooperate with cultural agents, artists, designers,
+and science communicators. This collaboration could fos-
+ter innovation and represent a new form of research, helping
+our community to bring soil-related topics and messages to
+the people.
+AUTHOR CONTRIBUTIONS
+Gerd Wessolek : Conceptualization; data curation; funding
+acquisition; investigation; project administration; resources;
+supervision; validation; visualization; writing—original
+draft. Alexandra R. Toland : Conceptualization; data cura-
+tion; formal analysis; methodology; software; supervision;
+visualization; writing—original draft; writing—review and
+editing.
+ACKNOWLEDGMENTS
+The authors specially would like to thank Rien van Genuchten
+for encouraging Gerd Wessolek to invest in Soil & Art
+activities from the very beginning, Dr. Björn Kluge for his
+scientific support, and Prof. Myriel Milicevic for her co-
+teaching involvement within the WindNODE project. The
+authors are grateful to Betty Beier, Asad Raza, and Veronika
+Pfaffinger for their long-term artistic collaboration and artistic
+insights.
+ORCID
+Gerd Wessolek https://orcid.org/0000-0003-3374-3794
+REFERENCES
+Aagerstoun, M. J. (2007). Ecoart and Ecoartists .http://www.sfeap.org/
+ecoartecoartists.html
+Abel, A., Peters, A., Nehls, T., & Wessolek, G. (2015). Long-term release
+of sulfate from building rubble–composed soil: Lysimeter study and
+mumerical modeling. Soil Science ,180(4/5), 174–180.
+Bouma, J., & Hartemink, A. E. (2002). Soil science and society in the
+Dutch context. NJAS Wageningen Journal of Life Sciences ,50(2),
+133–140.
+Bower, S. (2009). A profusion of terms. Green Museum. https://www.
+lindagass.com/PDFs/Unity_June09.3.pdf
+Dezeuze, A. (2014). Origins of the fluxus score—From indeterminacy
+to the do-it-yourself artwork. Performance Research: A Journal of
+the Performing Arts ,7(3), 78–94.
+Feller, C., Chapuis-Lardy, L., & Ugolini, F. (2010). The representation
+of soil in the western art: From genesis to pedogenesis. In C. Feller,
+& E. Landa (Eds.), Soil and culture (pp. 3–21). Springer Science and
+Business Media B.V.
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+14 of 14 WESSOLEK AND TOLAND Vadose Zone Journal
+Feller, C., Landa, E. R., Toland, A., & Wessolek, G. (2015). Case studies
+of soil in art. Soilless ,1, 543–559. https://doi.org/10.5194/soil-1-543-
+2015
+Greenland, D. J. (1991). The contributions of soil science to society—
+past, present, and future. Soil Science ,151(1), 19–23.
+Herrmann, L. (2006). Soil education: A public need developments in
+Germany since the mid 1990s. Journal of Plant Nutrition and Soil
+Science ,169, 464–471.
+Klingan, K., Sepahvand, A., Rosol, C., & Scherer, B. M. (Eds.). (2014).
+Textures of the anthropocene: Grain vapor ray . MIT Press.
+Lal, R. (2022). Sustaining soil for advancing peace: World is one family.
+Journal of Soil and Water Conservation ,77(3), 43A–47A.
+Lyons, K. (2020). Vital decomposition: Soil practitioners and life
+politics . Duke University Press.
+Maeder, M., Gossner, M. M., Keller, A., & Neukom, M. (2019). Sound-
+ing soil: An acoustic, ecological & artistic investigation of soil life.
+Soundscape Journal ,18, 5–14.
+Matilsky, B. (Ed.) (1992). Ecological art: A response to environmental
+issues. In Fragile ecologies: ‘Contemporary artists’—Interpretations
+and solutions (pp. 56–60). Rizzoli International Publications, Inc.
+Meulemans, G., Legrand, M., Tondeur, A., Thibault-Picazo, Y., &
+Vergnes, A. (2018). Soil fictions: Addressing urban soils between
+art, soil ecology, and anthropology . Collaborative Anthropologies ,
+10(1–2), 20–44.
+Puig de la Bellacasa, M. (2015). Making time for soil: Technoscientific
+futurity and the pace of care. Social Studies of Science ,45(5), 691–
+716.
+Puig de la Bellacasa, M. (2019). Re-animating soils: Transforming
+human–soil affections through science, culture, and community. The
+Sociological Review ,67(2), 391–407.
+Renger, M., Strebel, O., Wessolek, G., & Duijnisveld, W. (1986).
+Evapotranspiration and groundwater recharge—A case study for
+different climate, crop patterns, soil properties and groundwater
+depth conditions. Journal of Plant Nutrition and Soil Science ,149,
+371–381.
+Salazar, J. F., Granjou, C., Kearnes, M., Krzywoszynska, A., & Tironi,
+M. (2020). Thinking with soils: Material politics and social theory .
+Bloomsbury.
+Smiles, D. E., White, I., & Smith, C. J. (2000). Soil science education
+and society. Soil Science ,165(1), 87–97.
+Sterne, J. (Ed.). (2012). The sound studies reader . Routledge.
+Strebel, O., Dujnisveld, W. H. M., & Böttcher, J. (1989). Nitrate pollu-
+tion of groundwater in western Europe. Agriculture, Ecosystems &
+Environment ,26, 189–214. https://www.sciencedirect.com/journal/
+agriculture-ecosystems-and-environment/vol/26/issue/3
+Toland, A., Stratton, J., & Wessolek, G. (Eds.). (2018). Field to palette:
+Dialogues on soil and art in the Anthropocene. CRC Press, Taylor &
+Francis Group.
+Toland, A. (2023). Soilkin: Relational exercises with soil and stones.
+Journal of Environmental Humanities ,15(3), 119–139.
+Toland, A., & Wessolek, G. (2010a). Merging horizons—Soil science
+and soil art. In E. Feller, & C. Landa (Eds.), Soil and culture (pp.
+45–66). Springer Science and Business Media B.V.
+Toland, A., & Wessolek, G. (2010b). Core samples of the sublime—On
+the aesthetics of dirt. In E. Feller, & C. Landa (Eds.), Soil and culture
+(pp. 239–257). Springer Science and Business Media B.V.
+Toland, A., & Wessolek, G. (2010c). Soil art: Bridging the com-
+munication gap. In M. Makki, & M. Frielinghaus (Eds.), BerlinerGeographische Arbeiten 117/Boden des Jahres 2010—Stadtböden .
+Humboldt Universität.
+Toland, A., & Wolter, D. (2023). Soil arts—Symbolic and sensory
+engagement with soils as common cultural good. In M. J. Goss, &
+M. A. Oliver (Eds.), Encyclopedia of soils in the environment (2nd
+ed.). Elsevier.
+Ugolini, F. (2010). Soil colors, pigments and clays in paintings. In E.
+Feller, & C. Landa (Eds.), Soil and culture (pp. 67–82). Springer
+Science and Business Media B.V.
+Van Baren, H., Muggler, C., & Bridges, M. (1998). Soil reference collec-
+tions and expositions at district level: Environmental awareness and
+community development. In Proceedings of the 16th World Congress
+of Soil Science . ISSS-AISS-IBG-SICS.
+van Breemen, N. N. (2010). Transcendental aspects of soil in contempo-
+r a r ya r t s .I nE .F e l l e r ,&C .L a n d a( E d s . ) , Soil and culture (pp. 37–43).
+Springer Science and Business Media B.V.
+Wessolek, G., Bohne, K., & Trinks, S. (2023). Validation of soil thermal
+conductivity models. International Journal of Thermophysics ,44, 20.
+https://doi.org/10.1007/s10765-022-03119-5
+Wessolek, G., & Toland, A. (2017). Devil in the sand—The case of
+the Teufelsberg Berlin and cultural ecosystem services provided by
+urban soils. In M. J. Levin, K.-H. J. Kim, & J. L. Morel, W. Burghardt
+(Eds.), Soils within cities. Global approaches to their sustainable
+management (pp. 231–240). IUSS working group SUITMA, Catena
+https://www.academia.edu/32624664/Soils_within_Cities_Global_
+approaches_to_their_sustainable_management
+Wessolek, G., Kluge, B., Toland, A., Nehls, T., Klingelmann, E., Rim,
+Y. N., Mekiffer, B., & Trinks, S. (2011). Urban soils in the vadose
+zone. In W. Endlicher (Ed.). Perspectives in urban ecology (pp.
+89–133). Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/
+978-3-642-17731-6_4
+Wessolek, G., & Kluge, B. (2020). Energy meets art report . Results of the
+Windnode research project. (in German). https://www.researchgate.
+net/publication/364959328_Energy_meets_Art_Katalogpdf
+Wilson, S. (Ed.). (2002a). Art and science as cultural acts: Similarities
+and differences between science and art. In Information arts: Inter-
+sections of art, science, and technology (pp. 18–20). Leonardo series.
+MIT Press.
+Wilson, S. (Ed.). (2002b). Ecological art: Questions raised by artis-
+tic interest in ecology. In Information arts: Intersections of art,
+science, and technology (pp. 130–131). Leonardo series. MIT
+Press.
+Wilson, S. (2010). Art+science now: How scientific research and tech-
+nological innovation are becoming key to 21st-century aesthetics (1st
+ed.). Thames & Hudson.
+Winiwarter, V. (2006). Soils and society—An environmental history of
+challenge and response. Die Bodenkultur ,57(4), 231–242.
+Yaalon, D. H. (1996). Soil science in transition: Soil awareness and soil
+care research strategies. Soil Science ,161(1), 3–8.
+How to cite this article: Wessolek, G., & Toland, A.
+(2024). Exploring the artistic dimensions of soils in
+the vadose zone. Vadose Zone Journal ,23, e20308.
+https://doi.org/10.1002/vzj2.20308
+ 15391663, 2024, 4, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/vzj2.20308 by Capes, Wiley Online Library on [18/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

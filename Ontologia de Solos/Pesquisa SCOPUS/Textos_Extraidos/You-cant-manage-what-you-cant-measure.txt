@@ -1,0 +1,791 @@
+“You can ’t manage what you
+can’t measure ”: Regenerative
+agriculture, farming by numbers,and calculability in soilmicrobiopolitics
+Anna Krzywoszynska
+University of Oulu, Finland
+Abstract
+Microbes are increasingly central to visions of sustainable and healthy futures, including in farming
+movements such as regenerative agriculture. In social science and environmental humanities schol-
+arship, (re)connecting with microbes is seen as a way to challenge, conceptually and practically, thevery ontology of human-nature separation which underpins the destruction and violence in human
+relations with other living beings and with environments. The crux of this onto-ethical potential is
+a shift towards relational modes of knowing microbes, rooted in localised, proximate, and sensu-ous practice, and expressed in embodied expertise. This paper engages critically with this promise
+by calling attention to persistence of calculability to people ’s self-governance within current micro-
+biopolitics. Through a case study of regenerative agriculture in the United Kingdom, I argue thatwhile embodied expertise of soil microbes is seen as crucial to soil health-oriented farming, it is
+also dismissed as an insuf ﬁcient in guiding farmers and shaping future practice, including by farmers
+themselves. Regenerative agriculture continues to function within “farming by numbers ”, an agri-
+biopolitical regime in which farmers ’and advisors ’subjectivity is that of calculating managers situ-
+ated in calculable environments. As a result, calculability acts as a ‘break ’on the development of
+alternative microbial onto-ethics, and regenerative agriculture practitioners look for ways to bringsoil microbes into the realm of calculability (e.g., through metagenomics). Consequently, the way
+microbes are being incorporated into future agri-environmental relations reinforces rather than
+threatens existing structures of biopolitical power. Overall, I argue that human-microbe research,potentially due to its empirical focus on alternative practices, has underplayed the importance of
+calculability to people ’s self-governance in relations with microbes. The struggle for a new micro-
+biopolitics, especially in agriculture and environmental management, will require addressing thecontinued importance of calculability, and a creative and socially relevant experimentation with
+alternative forms of expertise.
+Corresponding author:
+Anna Krzywoszynska, History, Culture and Communication Studies, University of Oulu, Pentti Kaiteran katu 1, 90570
+Oulu, Finland.Email: Anna.krzywoszynska@oulu. ﬁArticle
+EPE: Nature and Space
+2024, Vol. 7(4) 1691 –1710
+© The Author(s) 2024
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/25148486241246498
+journals.sagepub.com/home/ene
+
+Keywords
+Soil, microbes, regenerative agriculture, governmentality, calculation, farming, biopower
+Introduction
+There is a widespread concern with changing societal relations with microbes. Nowhere is this morevisible than in the context of soils: the shift in the perception of soils from passive materials to living
+ecosystems is having profound societal effects (Salazar et al., 2020). How to understand and interact
+with soils as living and agential has become a signi ﬁcant concern for agri-environmental, urban, and
+climatic governance and policy communities. Central to this signi ﬁcant shift is a focus on soil micro-
+biomes. Agriculture (Granjou and Phillips, 2018) as well as urban management (Pearson et al., 2019),
+landscape restoration (Robinson and Jorgensen, 2020), climate change mitigation (Granjou andSalazar, 2019), and human health (Wall et al., 2015) are amongst the areas being re-imagined in rela-
+tion to the capacities of soil microbes. Speci ﬁc groups, especially land managers and farmers, are
+being tasked by policymakers with addressing soils ’dysbioses, and bringing soil ecosystems
+(back) to health (Panagos et al., 2022). Soil-health oriented agriculture, now often called ‘regenerative
+agriculture ’(regen ag), is explicit in its focus on soil microbes (Krzywoszynska, 2020), and the move-
+ment is growing rapidly. However, there are only a few studies examining farming actors ’under-
+standings and practices of such microbes-based agriculture (Beacham et al., 2023; Cusworth et al.,
+2023; Gosnell, 2021; Kallio and LaFleur, 2023); this is the key empirical contribution of this paper.
+This paper ’s theoretical contribution lies in its analysis of the intersection between self-governance,
+expertise, and calculability in the making and unmak ing (micro)biopolitical regimes. The concept of
+microbiopolitics (Paxson, 2012a) has been central to the growing literat ure on human-microbe relations,
+which has been excited by the ontological and ethi cal implications of the way microbes trouble the
+culture/nature divide (Lorimer, 2020). Studies ha ve often explored practices and spaces of what can
+be called counter -microbiopolitics: loci of resistance to th e powerful interests organising human and
+microbial lives in ways which lead to social and e cological harm. The crux of this resistance is a
+shift in knowledge practices, with people moving a way from following the rules set by (distant)
+experts, and developing localized, embodied, and therefore affective e ngagements with microbes.
+Through the study of the emerging agrarian soil microbiopolitics in the UK, I problematise the
+hopes invested in these counter-microbiopolitical moments. Positive visions of human-microbe
+futures often hinge on a (re)claiming of microbial knowledge as a way to resist oppressive struc-
+tures; a shift of power from lab to ﬁeld, plate, body, or home. This (re)claiming is, further, often
+linked with the rising importance of embodied forms of knowing. I argue that to understand the
+potential of embodied relations for such a shift in epistemic and so ethical power, we need to inves-
+tigate more closely the mechanisms by which hegemonic biopower plays out in people ’s lives.
+Speci ﬁcally, by investigating how UK regenerative agriculture farmers and advisors struggle to
+incorporate embodied forms of knowing the soil microbiome into their practice, I argue for recog-
+nising the importance of calculability to people ’s self-governance within (micro)biopolitical
+regimes. I further show that developing localized microbial expertise does not necessarily challenge
+existing agrarian biopolitical paradigms. Indeed, re-imagining agriculture through relations with
+microbes is being used to strengthen rather than undermine what I term the ‘farming by
+numbers ’approach, reproducing the dominant agri-biological governance and its expert-led knowl-
+edge politics. By focusing on farmers ’self-governance as progressive farmers-managers, I argue
+that there is a strong relationship between expert knowledge, calculability, and hegemonic biopo-litics, and analyse the consequences this has for future agrarian microbiopolitics. In conclusions,
+I argue that human-microbe studies need to take the question of self-governance, calculability,
+and expertise more seriously in imagining microbiopolitical futures.1692 EPE: Nature and Space 7(4)
+(Re)connecting with microbes and the question of knowledge
+in microbiopolitics
+The microbial moment and counter-microbiopolitics
+How to (re)connect well with microbes is a current preoccupation. Whereas much of the modern
+project was enabled by the practices of separation from microbes as dangers, today such a dichot-
+omous, Pasteurian (Paxson, 2012b) division is decried. The present direction is rather towards(carefully) embracing microbes as positive for, and indeed foundational to, human and ecologicalwell-being. The damaging absence of microbial relations from social and ecological life is mani-
+fested in such phenomena as antimicrobial resistance, compromised physical and mental health
+in humans, and even ecosystem collapse (Hinchliffe, 2015). Finding ways to (re)connect withmicrobes is on the one hand seen as a logical conclusion of the scienti ﬁc observation that all life
+is symbiotic (Haraway, 2008): that organisms do not function as bounded entities, but rather as eco-systems constructed, inhabited, and interrelated by microbes (Hird, 2009).
+1More critically, pursu-
+ing microbial (re)connection is seen as a way to challenge conceptually and practically the veryontology of human-nature separation which underpins the destruction and violence in human rela-tions with other living beings and with environments. If ‘to be one is always to become with many ’
+(Haraway, 2008: 4), then a new ethic and practice of human-microbial relations is as much a moralas it is an existential issue (Latour, 2017).
+Many studies have investigated how the separation between human and microbes has been
+deployed to use human and non-human lives more effectively in capitalism, (neo)colonialism,
+and other oppressive regimes (Lyons, 2020; Münster, 2018; Zhang, 2021), producing differentforms of social and ecological damage. Consequently, there has been a growing interest in specu-lative and empirical explorations of af ﬁrmative microbial relations (Ironstone, 2019), where an
+attentiveness to and collaboration with microbes creates possibilities for improved human –nature
+relation. Scholars have argued that being with microbes differently can help us resist the ecologicaldestruction, animal violence, and social injustice embedded in industrial food production (Chartier,2021; Donati, 2022; Eriksson and Bull, 2017; Lyons, 2020; Münster, 2018; Puig de la Bellacasa,2015), realize communal forms of land management and ecological restoration (Kinnunen, 2021;Zhang, 2021), or bring about forms of healthcare based on a human and more-than-humancommons (Jasarevic, 2015).
+Crucial to much of this work is Paxson ’s (2012a) concept of microbiopolitics, the ‘means of
+social regulation carried out through control of microbial life ’(Paxson, 2012a: 160), which
+builds on Foucault ’s (2008) theory of biopolitics as an exercise of power through - not merely
+on–living beings (human and non-human). In her work, Paxson focuses on the tensions around
+different forms of microbial expertise as a locus of the struggle for a different kind of microbialrelations within agri-food. Her book (2012a) sees US artisan cheesemakers ’reclaiming of microbial
+knowledge as an example of a wider struggle for a new biopolitics of agriculture, from one based ona technoscienti ﬁc domination of nature, to one based on localised collaboration with non-human
+agencies. This contestation, between expert-led microbial knowledge as part of a regime ofpower structuring human-nature relations in damaging ways, and local, often embodied microbialknowledge as a counter to this regime, has become a central theme in human-microbe literature.
+If the dominant microbiopolitics are produced through a marriage between expert
+techno-sciences and governance (Hinchliffe et al., 2016), then resisting a universalizing and
+top-down logic of the scienti ﬁcally objective ‘view from nowhere ’(Haraway, 1988) is essential
+to building alternatives. Studies have explored how techno-sciences have supported microbiopoli-tical regimes which (re)produce colonialism (Münster, 2018), patriarchy (Jasarevic, 2015), or cap-italist extractivism (Puig de la Bellacasa, 2015), and proposed localised and embodied knowledgeKrzywoszynska 1693
+of microbes as the source of alternatives. Importantly, in building these alternatives techno-sciences
+are not wholly rejected, but rather (re)claimed in order to cultivate an alternative knowledge-form
+based not on a control of microbes, but on a care-full management of relations (Münster, 2018). In
+this, those who work with microbes are seen as blending different forms of knowledge to intensifylocal and value-laden engagement (O ’Brien, 2020; Wilde, 2022).
+These localised knowledge practices are seen to have ethical as well as ontological effects. In the
+emerging human-microbe literature, (re)claiming microbial knowledge as situated, localised, and/orembodied is argued to transform human-microbe relations from interactions between individualized
+entities, easily manipulable by the state or capital (Scott, 2008), to action as multispecies collec-
+tives. Through the focus on the body and the speci ﬁcity of encounter, localized microbe interactions
+are expected not only to widen the ﬁeld of action, but also transform it through affect. Making the
+inter-dependence of human and microbial lives palpable is argued to inspire ‘a sense connectedness
+that can further problematize abstractions and disengagements of (epistemological) distances, thebifurcation between subjects and objects, knowledge and the world, affects and facts, politics
+and science ’(Puig de la Bellacasa, 2017: 97). The values embedded in practices of labour,
+health, eating, etc. are transformed from anthropocentrism and towards bene ﬁting multispecies
+relations.
+Ultimately, the proposition is that such a shift from knowing-as-observing to knowing-as-relating
+disrupts humans ’location as central bene ﬁciaries of objecti ﬁed services. If current destructive socio-
+ecological regimes unfold through a microbiopolitics of control and exploitation, then cultivating
+practices of microbial collaboration and care is the seed of realities based on different values: cooper-
+ation rather than competition (Spackman, 2018), care rather than productivism (Puig de la Bellacasa,2015), attentiveness rather than negligence (Hird, 2012). If Pasteurian humans are a source of the
+planetary dysbiosis, a good dose of microbial relations is an ‘inoculation ’against tendencies to eco-
+logical violence.
+Human-microbes studies written in this vein often stress positive feelings associated with this
+transformation into ‘homo microbis ’(Helmreich, 2014). Positive affects are frequently highlighted
+in relation to the microbes themselves, with people invested in the well-being of ‘their’microbes
+even in the face of repulsion or disgust (Kinnunen, 2021; Wilde, 2022). Moreover, the process
+of becoming a microbial expert is also typically described in a positive way: engaging with the
+microbial world proceeds through joyful and empowering discovery. Learning about the capacitiesof microbes and exploring the consequences of this knowledge for everyday action is seen to
+broaden people ’sﬁeld of action in a positive way, be that through a closer understanding of
+their own bodies (Wilde, 2022), an extension of taste (Paxson, 2012a; Eriksson and Bull, 2017),a pride in artisan skill (Chartier, 2021), enactment of parental care (Nurmi, 2021), or building a dif-
+ferent farming practice (Münster, 2018).
+Microbiopolitics, self-governance and the role of expertise
+There are three critiques I wish to offer to this existing literature through the subsequent case-study
+of UK farmers ’and advisors ’knowledge practices of the soil microbiome. These require us to
+engage more deeply with Foucault ’s theories of governmentality and biopolitics. Overall, I argue
+for a greater focus on the role on calculability, and its relation to hegemonic expert knowledge,
+within people ’s microbiopolitical self-governance.
+Firstly, I wish to draw closer attention to the question of self-governance within (micro)biopo-
+litics. Foucault ’s governmentality theory posits that in modern administrative states, a shift has
+occurred from power as disciplinary and sovereign, to power as shaping individuals ’lives in
+such a way that “their development also fosters that of the strength of the state ”(Foucault, 1981:
+252). In contrast to disciplinary power, governmental power is not only exercised in a top-down1694 EPE: Nature and Space 7(4)
+manner: power is also internalised and enacted through individual ’s self-governance. Government
+as“the conduct of conduct ”thus includes both ‘the government of others (subjecti ﬁcation) and the
+government of one ’s self (subjectivation); on the one hand, the biopolitical governance of popula-
+tions and, on the other, the work that individuals perform upon themselves in order to becomecertain kinds of subjects ’(Hamann, 2009: 38) . This dimension of governmentality is enacted
+via‘the promotion in the governed population of speci ﬁc techniques of the self around such ques-
+tions as, for example, saving and providentialism, the acquisition of ways of performing roles likefather or mother, the development of habits of cleanliness, sobriety, ﬁdelity, self-improvement,
+responsibility and so on ’(Burchell, 1996: 26). Habits of self-governance are ingrained by training,
+fostering, inciting, and even coercing individuals to observe and self-regulate their behaviour(Huxley, 2008: 1640).
+When we are dealing with biopolitics, governmentality is extended from a focus only on human
+subjects to humans as embedded in vital environments, humans within the non-human world.Biopolitical governmentality both “makes visible as objects of knowledge the socio-biological pro-
+cesses of a population ”, and attempts to direct the interactions between humans as living bodies and
+the ecological, climatic, and hydrological etc. properties of the world (Huxley, 2008: 1639). In linewith the double logic of governmentality, biopower operates both as a power from without, as it
+‘seeks to act on the actions of others ’, and as a power from within, as self-governance, ‘the
+ways in which subjects act on themselves to produce particular bodily habits and attitudes to theself’(Huxley, 2008: 1635). When biopolitical governmentality concerns relations between
+humans and microbes –microbiopolitics –the importance of self-governance as a locus of
+power persists. However, in its enthusiasm for alternatives to the microbiopolitical hegemony,current research on human-microbe relations has not suf ﬁciently explored how most people self-
+govern in their relations with microbes, and the forms of knowledge which matter to this
+self-governance.
+Secondly, and following on from the point above, I wish to draw attention to the continued
+importance of experts and expertise, or what Foucault calls ‘political knowledge ’(Foucault,
+2007), in people ’s microbiopolitical self-governance, in particular through calculability. It is well
+documented that expert knowledge about the population, individuals, the national and colonial ter-
+ritory, etc. is central to the emergence and persistence of the modern state and its biopolitics (Li,
+2007; Mitchell, 2002; Scott, 2008). By helping to de ﬁne problems and delineate arenas for inter-
+vention, political knowledges make human-nature relations governable through claims to truth:
+“state agencies produce and proliferate forms of knowledge that enable them to act upon the gov-
+erned reality ”(Lemke, 2015: 28). Importantly, it is not only this top-down, descriptive knowledge
+which matters here, but also the ways in which these expert-led ‘grids of intelligibility ’shape indi-
+viduals ’everyday lives.
+‘…it would be a misunderstanding to reduce political knowledge to scienti ﬁc reasoning and rational
+argumentation since it is also embodied in routine action, cultural beliefs, and normative orientations.
+Thus, the state is not only a material structure and a mode of thinking, but also a lived and embodied
+experience, a mode of existence ’(Lemke, 2015: 28 –29, my emphasis).
+Calculation, and rendering calculable, is a particularly powerful tool for building such ‘grids of
+intelligibility ’which direct the behaviour of governmentality ’s subjects. Where quanti ﬁcation
+reduces objects to numbers, calculation goes further: it places objects within a pre-determined
+space (e.g., a spreadsheet), it creates relationships of value between the objects (e.g., a ranking),
+and it comes to a conclusion about these objects and about their relationships (Callon and Law,2005). Calculation, therefore, makes a judgement , both about the objects themselves and about
+their relations. Not only does it bring the world into the gaze of, for example, the state; calculabilityKrzywoszynska 1695
+alsocreates a world for individuals to act within . By indicating what counts as well as whyit counts,
+calculability makes it possible for individuals to monitor and direct their behaviour to bring it in line
+with hegemonic framings (Hamann, 2009). This makes calculation an instrument par excellence of
+governmentality, including biopolitics.2I argue that human-microbe studies should attend more
+closely to how political knowledge, and especially calculability, informs people ’s self-governance
+as the ‘right’kind of biopolitical subjects: good farmers, good parents, good patients.
+The two aspects I draw attention to here may have been overlooked due to the dominant empir-
+ical focus of human-microbe studies on alternatives: niche spaces and practices which resist or
+question expert-led microbiopolitics. Beyond these niches, however, we ﬁnd a far more ambiguous
+reaction to the idea of unsettling hegemonic microbial expertise. Notably, Lorimer et al. (2019)mention the anxiety which emerged amongst their research participants when a project on the
+domestic microbiome failed to provide clear instructions on how the participants should behave
+in relation to ‘their’microbiomes. The few studies which reference the importance of expert-led
+microbial management to people ’s self-governance as good parents (Wake ﬁeld-Rann et al.,
+2019), or good patients (Huttunen et al., 2021) similarly suggest that a wide-spread enthusiasm
+for overturning the top-down power of microbial expertise should not be assumed. Instead, Ishow in the following sections that due to their importance to people ’s self-governance, hegemonic
+forms of microbiopolitics are not necessarily seen as oppressive. In agriculture, the ideas of
+improvement and progress have long been linked with actuarial practices of making farms,agri-environments, and indeed farmers calculable (Fitzgerald, 2003). As the microbial dimension
+of agriculture becomes the new frontier of agricultural improvement, the need to make microbial
+lives and processes calculable is seen by farmers not only as an external demand of markets andgovernments, but as an internal requirement linked with their self-governance as progressive
+farmers-managers.
+Finally, I argue that we should not assume that the ontology of human-microbe interdependence
+is automatically productive of an ethic of microbial care; an ontological shift is not the same as an
+onto-ethical shift. While the ‘symbiotic sciences ’have been used to strengthen anti-anthropocentric
+theories in the social sciences (Lorimer, 2020), they are not inherently anti-anthropocentric. Indeed,mobilising the knowledge of ‘symbiotic sciences ’such as microbial ecology is already becoming a
+way to further exploit the natural world: via the ‘symbiotic engineering ’of the cow rumen (Folkers
+and Opitz, 2022), manipulation of the soil microbiome (Granjou and Phillips, 2018), or persona-lized healthcare (Kotliar and Grosglik, 2023). I argue that social sciences and environmental
+humanities need to pay much closer attention to the epistemological practices through which
+human-microbe interdependence is being realised in society, and investigate in those contextsthe mechanisms which provoke actual ethico-ontological transformations.
+3
+Methodology
+In 2018, a metagenomics soil analysis service was offered for the ﬁrst time to UK land managers.
+Metagenomics has been a revolutionary technology for soil science, making the life in soils legible
+in an unprecedented way (Granjou and Phillips, 2018). Metagenomics analysis detects and mapsthe DNA and RNA of organisms in samples taken directly from the environment. This method-
+ology employs vast databases and complex machine-learning algorithms which search for patterns
+in the data. Algorithms are not simple re ﬂections of a biological ‘reality ’; rather, they ‘bring the
+biological and the computational into new relationships, as biological materialities are restructured
+into databases ’(Stevens, 2013: 8 –10). For agricultural researchers, this new approach to analysing
+the soil microbiome is fuelling hopes of manipulating soil life to enhance outcomes for humans(Granjou and Phillips, 2018). There is now signi ﬁcant investment in developing soil metagenomic
+monitoring for a variety of applications.1696 EPE: Nature and Space 7(4)
+For this research, the introduction of this new service provided an experimental moment in
+which to investigate both the shape of established modes of attending to soils in UK farming,
+and to examine the challenges and pathways to their transformation. Proposed by a private agricul-
+tural research company, the new form of soil analysis used DNA data to identify top bacterial andfungal groups present in the samples, as well as key functional organisms.
+4The participating
+farmers were asked to sample their soils according to a standard protocol, and in exchange were
+offered a report which would provide a description of the their microbial communities, speci ﬁcally
+populations of bacteria and fungi, as well as benchmark their results against all the other samples.
+This paper draws on interviews and on-site visits with 19 individuals who signed up to the
+service, including 14 farmers, 3 farm managers, and 2 agronomists.5The service was widely adver-
+tised in farm print media and in farming conferences, and participants paid a fee for sample analysis.
+The individuals interviewed for this project belong to an emergent community of agricultural
+workers who operate within the mainstream, and who are intensifying their engagement withsoil ecosystems to develop new forms of agricultural practice, a group increasingly known as
+‘regenerative agriculture ’. Semi-structured interviews were undertaken in spring and summer
+2019 with the participants on the land they managed, including in- ﬁeld walking interviews (with
+the exception of two telephone interviews with the agronomists). The interviewees were involved
+in a range of land management activities, including arable cropping, woodland conservation, con-
+servation grazing, organic market garden farming, and mixed farming. All participants had an inter-est in soil restorative approaches to land management. The interviews lasted on average 1.5 h, and
+took part after the participants had sampled their soils for the metagenomics analysis, but before
+they had received any analysis results. They explored the participants ’practices and knowledges
+related to soils, with a particular focus on soil microbes, as well as expectations and perceptions
+of the metagenomics soil analysis project. The interviews were audio recorded, and then transcribed
+before being coded thematically in NVivo. While this paper focuses on this speci ﬁc set of inter-
+views, I am also drawing here on my ongoing mixed methods ethnographic research with the com-
+munity increasingly described as ‘regenerative agriculture ’in the UK and in the European Union.
+Since 2017, I have conducted over 70 on-farm and telephone interviews, undertaken participantobservation in a large number of farm cluster and farm group meetings, and participated in discus-
+sions with farmers and other experts in farming, agronomic, interdisciplinary, and soil science
+conferences.
+Farming by numbers: The biopolitics of agrarian soils and farmer
+self-governance
+An interest in soil microbes, and soil ecology more widely, is new to modern agriculture. The dom-
+inant focus of conventional farming practice is on the chemical and physical characteristics of soils,
+in line with the major research areas in agronomy as the science of modern farming (Jones, 2020;Marchesi, 2020). In the interviews, participants contrasted their new interest in soil microbes with
+their normal practices of knowing soils through their chemical properties. In line with agronomic
+best practice, soil fertility, or the “yield giving capacity ”(Patzel et al., 2000: 133) of a soil, is typ-
+ically approached through a measurement of macro (NPK: N nitrogen, P phosphorus, and K potas-
+sium), and, less often, micro nutrients which are key for plant development.
+6The relationship
+between the soil, the plant, and the farmer is focused on the circulation of nutrients: theirtake-up from the soil by the plant, their removal from the ﬁeld through harvest, and their
+re-introduction through e.g., fertilization. For a land manager, knowing and managing soils thus
+entails knowing and managing a nutrient “reservoir ”, and taking appropriate actions to keep it at
+the optimum level for chosen forms of plant life. The following description from a farmer partici-
+pant illustrates this typical practice:Krzywoszynska 1697
+Parker: “we sample once a rotation, like for the NP&K, and then from them on we then work out basic-
+ally a balance sheet. We know that from the yield monitor and the combine what we ’re taking off [as
+yield], and from you know the ﬁgures you know tonne of wheat removes x amount of NPK, so we know
+what to put back on to replace what we ’ve taken off, so that, in theory when we sample next time in a
+rotation it should be, the analysis shouldn ’t have moved much. ”
+Calculability is a central element of this normalised practice of soil management through
+manipulation of its chemical composition. The material reality of the ﬁeld and the ﬁnancial account-
+ing of the farm are placed in one calculable framework, producing a mode of agricultural govern-
+ance which I call “farming by numbers ”.7In farming by numbers, farm ﬁnancial accounting and
+the quanti ﬁcation of the agri-environment and of farmer labour are brought together into one grid of
+intelligibility. For example, changing nutrient levels in soils has both material (e.g., fertilizer,
+diesel) and labour costs. Therefore, managing soils in an optimal way includes a ﬁnancial calcula-
+tion of the cost of the operation vs the predicted pro ﬁt (yield +price) from a given piece of land/soil.
+The land which is not pro ﬁtable in terms of yield can still be ﬁnancially productive when used for
+example to accrue payments for ecosystem services or other subsidies. The ﬁeld, the worker(s), and
+the balance sheet become inseparable; what is enacted in one is re ﬂected in the other. While this grid
+of intelligibility certainly does not exhaust all the dimensions of land managers ’decision making,
+which includes non-calculable elements, it certainly represents the main reference point for under-
+standing and assessing farming practice.
+As an instrument of biopolitics, farming by numbers shapes both the governance of soils (and
+agri-environments) and, as will be explored in more detail later, farmers ’self-governance. “You
+can’t manage what you can ’t measure ”is a phrase I heard frequently in interviews and at
+farming conferences; a popular expression of the strong link between the ideas of agricultural pro-
+gress and the drive to make agri-environments calculable. Since the concept took root in eighteenth
+century Europe, calculability and improvement have gone hand-in-hand (Pawley, 2010). Theircoupling became particularly pronounced with the rise of agricultural accounting in the USA in
+early nineteenth century (Fitzgerald, 2003).
+8For farmers “accurate accounting became the
+emblem of a reassuring self-control, [as] correct accounts promised both personal discipline andcontrol over volatile circumstances ”(Pawley, 2010: 465 –466). Accounting, which links quanti ﬁca-
+tion with monetary value, became particularly important: to measure progress, both the assets
+(including natural resources) and the processes (including farmer labour) have to be madevisible on accounting balance sheets (Fitzgerald, 2003).
+9From the outset, agronomists were
+involved in the effort to bring the agri-environment into farm accounts (Depecker and Joly,
+2015), especially agricultural chemists, who used theories of the chemical nature of plant nutritionto translate ﬂows of matter within farms into ﬂows of money (Pawley, 2010). The idea of agricul-
+tural progress and improvement, and the effort to make nature ever more calculable, especially
+monetarily, have, therefore, a long-shared history.
+Indeed, in discussing their preference for certain ways of knowing soils over others, land man-
+agers told me they valued those practices and tools which improved their accounting: which helped
+them to better balance the spend-yield equation, and so to optimise their farming by numbers. Oneaspect was an interest in greater spatial accuracy in the quanti ﬁcation of both soil nutrient levels
+and yield potential. Here, precision farming in arable systems was often cited as exemplary. In pre-
+cision farming, ﬁelds are split into zones of similar mineral nutrient levels through advanced soil
+sampling. Combined with historical GPS yield maps, this data is used to produce a variable rate
+fertilizer application plan. This optimizes the spend-yield calculation.
+10Similarly, and acknowledg-
+ing the complexity of soil dynamics, land managers told me they were interested in knowledge toolsenabling a greater intervention accuracy . An optimum nutrient status alone does not guarantee soil
+productivity (Sims, 2000: D-113) as the capacity of the plants to take up and make the most use of1698 EPE: Nature and Space 7(4)
+these nutrients is also in ﬂuenced by other soil qualities, such as pH, water (over)availability, soil
+structure and compaction, levels of soil organic matter, and many more. Interviewees thus described
+pursuing ever more in- ﬁeld and laboratory soil tests and assessments to elucidate these additional
+variables and place them within the farm accounting. One of the farmers described this bestpractice:
+“We were doing all this progressive like stuff ( …) I had like 50 acres of spring barley on a seed contract
+and we were micromanaging every step, so we ’d do these detailed soil analysis then we ’d take tissue
+tests through the season, so we knew exactly what was going on, we knew exactly what was in the
+soil, what was in the plant. ”(Parson)
+In this approach, farming best practice –being a progressive farmer –means having an in-depth
+understanding of the input-output calculation, and an ability to act on it in a cost-effective and
+timely manner. A progressive farmer is able to accurately monitor the quality of the yield(output), and to maximize it through careful additions of chemicals, including pesticides and her-
+bicides (input); the job of the advisor is to assist in this process.
+My interviewees hoped that soil microbes could be harnessed to optimize this process even
+further. As Parson went on to explain in the same interview, he became interested in soil microbes
+in order to decrease his ‘input’column: a healthy soil ecology could make existing soil nutrient
+resources accessible to his crops, limiting the need for external inputs. This also changed thenature of his interest in soils, from knowing what is there to knowing how it works in soil ecologies:
+“it wasn ’t about how much of anything I had, it was about how available it was [to the crop] if you ’ve
+got like highly functioning soil eco-system that can exchange well with the plant ( …) so I moved away
+from this product space analysis to more like thinking about the soil, how did the soil function, okay,
+how do I maximise that ”(Parson).
+Soil life is positioned here as a way to enhance the resourcefulness of soils, increasing their prod-
+uctivity within established logics (Krzywoszynska 2020). Soil microbes, it is hoped, will open upnew nutrition pathways beyond inputs, and thus make farmers ’labour more ef ﬁcient/effective.
+Another farmer similarly stated that he hoped that soil microbial life will “improve our productivity,
+either produce more or produce more for less I suppose really ( …) what ’s the point of us ﬂying
+around with a tractor and all sorts of bits of kit if the soil will do some of that work for us ”
+(Henry). For the interviewees, soil microbes were, therefore, a missing piece of the puzzle of
+optimal farm productivity, a goal they strive towards as progressive farmers. In a powerful descrip-tion of his effort to catch up with the best, highest yielding farms, one farmer described soil
+microbes as the secret he needed to crack:
+“Well, the yields that we get here, are the most about 8 and a half tonnes [of wheat] per hectare, which is
+the same as the national average. And yet I regularly visit farmers who get 10 tonne plus yields ( …) and
+I’ve been to [Name] who ’s on the front of that magazine there and he ’s the world record holder and he ’s
+got 16 tonnes of wheat, and I see his soils, they look no different from my soils, and so and so you think
+to yourself, what is it that I ’m not doing. ( …) And that ’s the thing, you know, the secret must come from
+the soil ”(Anders).
+This is not to say that my interviewees were focused on yields to the exclusion of other aspects of
+agri-environmental management. However, it was the pro ﬁt margins from various land uses,
+including the provision of environmental services for public subsidies, which enabled them to
+maintain their livelihoods. As ‘cheap labour ’or‘cheap nature ’(Moore, 2015), soil microbesKrzywoszynska 1699
+presented a life-line for a farming sector in which producers are increasingly struggling to maintain
+a living, with one describing enrolling soil microbes as a way of “pulling back from the abyss, you
+know, where conventional agriculture is going ”(Baldwin).
+Embodied and localised knowledge of the soil microbiome
+Fulﬁlling this microbial promise requires knowledge tools which would allow farmers to under-
+stand the relationship between soil ecologies, farming practices, and farming outcomes (bothproduction-oriented and environmental). However, the knowledge tools available to land managers
+in relation to the soil microbiome are starkly different to the ones normalised by the
+farming-by-numbers paradigm. Farming by numbers establishes a strong link between calculationand action: the N status of soil is such, and it requires such an amount of fertiliser to achieve such an
+amount of wheat. Farming with soil microbes neither offers such calculation, nor such ready-made
+products. In farming with soil microbes, fertility becomes a question of optimizing an ecosystem inwhich chemical additions are only one part of the equation, and in which most entities, and relations
+between these entities, are unknown. In addition, measuring the status soil microbial life is indirect
+and qualitative; indicators of soil microbial health typically concern ‘soil health ’as a whole, and use
+qualitative assessments (e.g., soil structure).
+11As one farmer explained, “the chemical side, you
+can test for your own analysis of your NP&K, you can get that bit right, but the biology bit, that
+is more of muck in this way, than you don ’t, you know you can ’t put your ﬁnger on it so
+easily ”(Parker) .
+In seeking to improve the health of their soil microbiome, farmers and advisors therefore used
+embodied and experiential knowledge, developed mainly within peer networks and through indi-vidual experimentation. Senses played a key role: observation, touch, and smell of the soil were
+used, as well as widely recognized qualitative indicators of soil health such as the shape of
+roots, soil structure, or presence of earth-worms. As one interviewee described, “if I want to
+measure my soil health, I tend to just dig it up and then see how many worms are there and
+what it smells like and [where] the roots are going ”(Little). This embodied knowledge of the
+state of the soil microbiome was actionable on the scale of the farm; it informed how the land man-agers acted in their attempts to improve soil health. For example, one land manager ascribed dif-
+ference in soil biological activity to drought response in his ﬁeld crops and in grasses in the ﬁeld
+verges. Whereas “the native grasses ( …) were in associations with lots of soil biology underneath
+them, able to feed and grow ”, his struggling crops were “just sort of stick and straw in the soil solu-
+tion”, with access to nothing other than the chemical nutrition (Brice). Here, crop resilience to stress
+was understood as an outcome of soil biological processes. Another interviewee observed how themicrobial ecosystem was driving the creation of topsoil; whereas historically the sandy sections of
+hisﬁeld“would have just been orange and blowing away ”, after years of no-till farming “about that
+much [indicates 2 –3 inches] is now brown and it is aggregating and it has got roots in it ”(Bear).
+Another farmer noted the preference his livestock had for herbs, which tended to disappear when he
+used chemical nutrients on the pastures. He hypothesized this disappearance was due to a negative
+impact on root-associating soil fungi (mycorrhiza): “if you bang on the nitrogen and you bang on
+the phosphate we know that these things very quickly disappear ”(Merry). He therefore sought to
+avoid chemical nutrient additions so as to create more herbal forage for his animals, recognizing a
+relationality between livestock and soil fungi.
+Management, calculability, and the promise of metagenomics
+In contrast to the wide-spread celebration of embodied microbial expertise in human-microbes lit-
+erature, both farmers and advisors in my study were uncomfortable with relying on embodied and1700 EPE: Nature and Space 7(4)
+localised knowledge of soil microbes in directing farming practice. Across the interviews,
+embodied expertise was seen as Yale University Pran insuf ﬁcient knowledge basis for managing
+soil environments. This perceived insuf ﬁciency of embodied microbial knowledge, I argue, has
+much to do with the deep and continued importance of calculability to land managers ’self-
+governance as optimal subjects of agrarian biopolitics.
+Calculability and agricultural improvement have gone hand in hand since eighteenth century,
+and remain crucial to the current agri-environmental biopolitics (Hetherington, 2020; Patel,2013).
+12Crucially, calculability has been central not only the creation of top-down biopolitical
+instruments, but also to the creation of farming biopolitical subjects. As the improved, modern
+farm was modelled on the modern factory, so an improved and improving farmer was modelledon the ﬁgure of a factory manager (Fitzgerald, 2003). And for a manager, calculability is key
+(Miller, 1994). A manager is constantly subject to assessment: she or he are assessed externally,
+evaluated by powerful agencies of the government or the market, and internally, self-evaluatinghis or her activities against those of others. These kinds of assessments are greatly aided by calcu-
+lation. Calculation establishes equivalencies by creating abstract constructs which are then brought
+into relation with other abstract constructs, and ‘makes comparable activities and processes whose
+physical characteristics and geographical location may bear no resemblance whatsoever ’(Miller,
+1994: 246). This enables comparisons: between different practices, different places, and different
+subjects. Calculation thus furnishes the manager with the kind of evidence which enables valuationand comparability, and so helps them navigate both their relationship with the centres of power, and
+their self-assessment. The ideal manager is a ‘calculating self ’: a self-regulating subject who seeks
+to optimise their behaviour within in line with governance objectives (ibid, p. 245). As a calculatingself, a manager needs a calculable space: their performance can only be judged, and their value
+proven, when they can calculate their impact on their operating environment (Miller, 1994). As sub-
+jects of a farming by numbers agrarian biopolitics, land managers in my study sought to overcomethe dependence on embodied knowledge of soil microbes, and to render calculable both the (soil)
+environments, and their decision-making within these.
+Calculable soils
+A calculable environment supports managerial decision making by making signi ﬁcant entities and
+relationships visible and so actionable. Consequently, for my participants, the fact that soil ecol-ogies remained beyond the purview of calculability was a source of dif ﬁculty. While embodied
+knowledge enabled them to judge the overall change in soil ecologies, it was not suf ﬁcient to iden-
+tify and evaluate the state and change of speci ﬁcentities and relations. For example, one farmer who
+had changed his soil tillage and rotation regime worried about whether these changes were suf ﬁ-
+cient to generate a true improvement in his soil microbiome, or whether other aspects of his
+farming practice, inorganic fertilisers, were undoing his good work.
+“I don’t really understand all those processes, I just know that the more I can encourage that sort of thing
+the more likely I am to get some effect from that. But then the other thing is, to what extent am I dis-couraging those processes from developing by for example continuing to put on inorganic fertilisers? ”
+(Bard)
+With the current knowledge tools at his disposal, it was not possible for this farmer to separate
+the impacts of inorganic fertilisers on the soil microbiome from the effects of other practices, and so
+to fully direct his decision making. Other interviewees similarly expressed concern that basing theirdecisions on embodied assessments led to observational biases ( “maybe I ’m just seeing what I want
+to see ”, Baden) and limited their understanding ( “I’d like to see if anything I ’m doing isKrzywoszynska 1701
+unconsciously damaging the soil ”, Hacker). The inaccessibility of the microbial world was a shared
+frustration across interviews; land managers were concerned that they cannot ‘look’into the soil
+directly and ‘see’the microbes, and so determine directly how these may be responding. This
+was the principal reason for participating in the metagenomic testing trials. These, it was hoped,would make the microbial world more actionable by making both microbial entities and their
+changes perceivable through numbers. One farmer clearly expressed the difference between
+acting on the basis of his subjective, embodied knowledge of the overall soil health, and the object-ive truth represented by the metagenomic quanti ﬁcation:
+Bate: “We can look at the soil and say yes it ’s all kind of, you know we ’ve got some different, some
+reasonable size aggregates and they ’ve all populated nicely and it ’s got organic matter in and its
+dark and its roots and everything, but we don ’t know, we can ’t see, you can ’t see what the make-up
+of your soil is, you can ’t see the microbiology in there. ”
+Interviewer: “Yes and so that leads you into the logic of participating [in metagenomic testing]? ”
+Bate: “Yes, yes. We get the feeling, ( …) you have to do things on the, unfortunately on the instinct and
+feeling and you know ( …) you go out and you dig a hole and you smell the soil and you get a feeling for
+whether that ’s a healthy soil or not, but it ’s a subjective kind of thing obviously, it ’s not, it ’s not got it in
+ﬁgures. ”
+Metagenomic analysis, it was hoped, would provide the land managers with both a clearer
+description of the ‘what’of soil ecologies, and help them direct the ‘how’of their action. As
+one farmer described, metagenomic analysis should make soil ecology more legible and actionable
+than is possible through embodied observation:
+Bart: “it’s such a dynamic thing and we don ’t know, I mean worms are probably easier to assess, but the
+other soil biology, like mycorrhizal fungi and things like that, bacteria, that ’s where we ’re complete
+novices really ( …) we need guidance and if we can measure things like we, that ’s why we got the micro-
+scope, we ’re trying to see what ’s there, but it ’s very dif ﬁcult. ( …) you can observe (improvement) from
+the surface things like worm casts and how they walk ( …) but in no way have we cracked this you know,
+we’re just, we ’re stumbling along through in the dark really. Hopefully going towards the sort of dim
+light, and part of getting the [metagenomic] soil test was to try and shed a bit more light on it. ”
+The participants hoped that metagenomic soil analysis would enable them to go beyond
+embodied microbial expertise. In contrast to engaging with soil ecosystems through “judgement
+as a farmer ”(Hacker), based “unfortunately on instinct and feeling ”(Bear), the quanti ﬁcation pre-
+sented by the metagenomics analysis was seen as offering “a real result ”(Earey). Whereas
+embodied assessments acted holistically, metagenomic analysis promised to cut the world into sep-
+arate entities and processes which can be manipulated on a grid of calculability, in line with thelogic of farming by numbers. Instead of “general sort of mish-mash of what soil health is ”, soil
+metagenomics thus seemed to offer “a measurable outcome, not just the fact that the soil microbial
+activity has picked up ”(Dunajko).
+Calculating selves
+In a calculable environment, a manager can perceive and assess the impact of their decisions, and so
+direct their future behaviour. Making calculable is thus necessary to the way managers orient their
+practice so that certain criteria are met; in other words, it is central to their self-governance. Where1702 EPE: Nature and Space 7(4)
+the environment is not calculable, as in the case of soil ecologies, evidencing why one course of
+action is better than another becomes challenging. This issue becomes especially pertinent when
+a manager must justify a new practice, and prove that the new direction is nonetheless still
+meeting, or preferably exceeding, the objectives of the governance regime he or she functionsin. For my participants, the non-calculable, embodied knowledge of soils could not produce the evi-
+dence to justify their management decisions, and to communicate the value of those decisions to
+others.
+Theﬁrst dif ﬁculty was in evidencing the positive impact of soil health on the economic sustain-
+ability of the farm. Farms are businesses, and changing a farming system to improve soil health
+carries costs as well as risks. Justifying such costs and risks meant, for many, being able to calculatethe impact of soil microbial activity on yield. One farmer, a leader of a soil health-oriented farming
+group, admitted: ‘I am out there preaching “you must increase your microbial activity, this is the
+way forward ”, but unfortunately, the reality is, there needs to be a yield impact ”(Dunajko).
+Some of his best yielding land showed, in previous tests, that “microbial activity was below the
+level of commercial detection. Which is, you would think, oh my God, this is a desert, this is
+the end of the world according to everybody at the moment, when they talk about soil health.But it is the most productive and continues to be. ”For him, to continue ‘to count ’in his farming
+practice, soil microbial activity had to become countable in the realm of economic calculation.
+Other participants similarly explained that embodied, ‘anecdotal ’evidence was insuf ﬁcient as it
+did not ﬁt into economic calculations:
+“I think some of the improvements that I ’m doing, I can tell other farmers but it ’s just anecdotal, what
+I’m really interested in doing is like providing metrics for the changes that I ’m making, so I can provide
+the business case ( …) farmers don ’t want to change unless it goes back to this product drive, like we ’ve
+all been brought up, thinking an agronomist comes and he says this product costs 40 pound a hectare,and it will increase your yield by 4% and here ’s the trials data to prove it. ”(Prince)
+In agrarian biopolitics in the UK and indeed globally, there is a shift from an exclusive focus on
+yields to a wider consideration of farms as providers of environmental services. This is especiallyvisible in England, where payments of ‘public money for public goods ’are becoming enshrined in
+the post-Brexit agricultural governance. Under this regime, pro ﬁtability becomes more important
+than productivity, as farmers are (not-so-subtly) directed to combine income from commoditymarkets with environmental services payments (both private, such as carbon credits, and public,
+such as subsidies). This ‘green ’agrarian biopolitics, however, still requires that subjects evidence
+their adherence to the regime through calculability: within ‘farming by numbers ’, the“failure ”of
+one way of calculating costs and measuring performance tends prompted a new calculative regime
+rather than the abandonment of calculability (Miller 1994: 252). Consequently, in the ‘green ’agrar-
+ian biopolitics a farmer manager can well justify managing land for soil health if they can appro-priately evidence that their unconventional decisions lead to improved environmental processes. As
+with yields, however, such evidence should be calculable:
+“I think as an industry we need to, we need to come up with a measure, I ’m not sure that the two things
+ﬁt, but ideally you want a measure that shows that different practices are either sequestering carbon, or
+improving soil health or soil resilience, and therefore you can say or the government can say yes if youemploy these practices we will fund you for this, or whatever ”(Taylor).
+Making soil ecosystems calculable would also allow farm managers to compare the impacts of
+their decision-making with those of conventional farmers, and so to evidence that they were behav-
+ing as good biopolitical and economic subjects. As another interviewee explained, he neededKrzywoszynska 1703
+‘something tangible ’to convincingly compare the impacts of his farming practice with his uncle ’s
+existing traditional farming.
+“…this is going against what he ’s [my uncle ’s] done conventionally in the past, so if I ’m going to start
+changing things, I need to have some method of measuring whether I ’m making a positive tangible
+change or whether we ’re just actually spending money on cover crops that aren ’t getting us anywhere.
+(…) I need to prove that there ’saﬁnancial, or if not ﬁnancial, that there ’s some tangible bene ﬁt to what
+I’m doing ( …) make sure that I ’m getting bene ﬁt from the cover crop further down the line or I have to
+start questioning whether it ’s the right route for us to take. ”(Bulley)
+Another farmer described how he depended on smell in assessing the state of soil health, stating
+simply: “good ones smell, bad ones don ’t smell ”(Prince). However, he went on to explain that this
+sensory assessment is insuf ﬁcient to compare land management of a regenerative farmer, and of a
+good conventional farmer. It is therefore insuf ﬁcient to provide evidence in favour of regenerative
+farming practice:
+“you can go into two good soils and I couldn ’t tell you which one was better. You know? Or like even
+one which was ( …) like a perennial lay say, versus a farmer who is annual arable cropping, high input,
+but he ’s also doing a lot of good stuff, like applying a lot of manures, and just generally being a good
+farmer ( …) and that one will smell nice as well, so it ’s only a useful, it ’s like a reassuring measure, but
+it’s not a de ﬁnitive measure ”(Prince)
+In this light, the challenges of relying on embodied expertise of soil microbes become clear. If
+you can ’t manage what you can ’t measure, then you also can ’tb ea manager of an unmeasurable
+domain. Depending on a qualitative, localized, embodied mode of knowing the soil microbiome
+makes it hard for regenerative farmers not only to appropriately demonstrate the successful func-tioning of a farm system to external authorities. It also makes it hard for them to justify the
+value of their decisions to themselves and to others operating within the same agri-biopolitical
+regime. If soil microbes were calculable, land managers could relate their work on and withmicrobes to values embedded in the dominant agri-biopolitical paradigm: either, the productive
+economy, or the increasingly ﬁnancialized environmental governance. Managing farms in line
+with either of dimension of the ‘correct ’agri-biopolitical subjectivity, as ‘good economic citizens ’
+or as ‘good environmental citizens ’, are both seen to require calculability. Embodied knowledge of
+microbes is not seen as a basis for creating a new form of agrarian subjectivity; rather, it is some-
+thing to be overcome through technological advancements. Farm management of and through soilmicrobes could only be appropriately directed, some of the interviewees argued, through big-data
+science and machine intelligence. As one farmer foresaw,
+“at some point we ’re all going to have a very detailed analysis of all of our different soil samples and so
+on (…) and behind each soil sample there will be this massive, great big data set of all the organisms
+(…) There ’s no way that us as humans can actually interpret it so there will be AI bots or something that
+will work out exactly what you ’ve got in it and will work out then what you ’re supposed to do with it ”
+(Andrews).
+This vision is indeed driving the boom in automated agriculture (Carolan, 2019), and is shared
+by soil ecologists themselves (Granjou and Phillips, 2018). In this scenario, the embodied knowl-edge of soil microbes becomes further marginalised as a foundation for decision-making, and farm
+management becomes ever better aligned with the values of dominant agrarian microbiopolitics.1704 EPE: Nature and Space 7(4)
+Conclusions and ways forward for (soil) microbial research
+The way that microbes are understood and approached in social practices is changing. A Pasteurian
+microbiopolitics of separation (Paxson, 2012b) is giving place to an increasing acceptance of the
+presence of microbes as inevitable, and indeed desirable. In the social sciences and in environmen-tal humanities, this ontological shift towards ‘homo microbis ’(Helmreich, 2014) has been enthu-
+siastically embraced as a way to challenge the persisting rift between humans and the rest of nature,both practically and conceptually. The dynamic and open nature of microbial ecologies ﬁts awk-
+wardly with reductionist approaches, and in many contexts techno-sciences do not have the cap-
+acity to act directly on human-microbe or environment-microbe relations with a suf ﬁcient degree
+of certainty. As a result, people who work with microbes develop knowledge practices whichare embodied, open-ended, and place-based. In the social sciences and environmental humanities,such knowledge practices have been often interpreted as a de-coupling from the dominance of
+techno-scienti ﬁc, extractive epistemologies and ontologies, and seen as the basis for an alternative
+microbiopolitical future.
+In this paper, I argued that we need a more nuanced understanding of the knowledges and prac-
+tices emerging around microbes, and how power operates in and through these. Speci ﬁcally, I
+argued that the existing literature on microbiopolitics has insuf ﬁciently focused on how people self-
+govern under existing microbiopolitical realities, and what kinds of knowledges are employed in
+this self-governance, possibly because most studies have focused on niche post-Pasteurian groups.
+This is a crucial omission. My examination of microbial knowledge practices in UK regenerative
+agriculture showed that while embodied knowledge of the soil microbiome was seen as valuable,
+and even indispensable, it was also seen as lacking. The currently dominant practices of agriculturalsoil management, their governance, and their knowledge politics, were shaped by the developments
+in soil chemistry and farm accounting in the nineteenth century. From their coupling sprung
+‘farming by numbers ’, a powerful instrument of existing agri-biopolitical governance and self-
+governance which renders soils into calculable environments, and farmers into calculatingselves. For my UK regenerative land managers, depending on embodied microbial knowledge infarming practice was not leading to a rejection of existing agrarian biopolitics. Indeed, my partici-
+pants explicitly called for the development of tools and approaches which would render both the
+soil environments, and their managerial practices, more calculable. This would allow land managersto position their practice on the existing ‘grids of intelligibility ’, be that farm accounting or ecosys-
+tem service provision reporting. Through this, land managers felt they could not only respondappropriately to the ‘external ’power of governance institutions, but also appropriately direct
+their behaviour as self-governing subjects. Once rendered calculable, agrarian microbial practices
+would strengthen ‘the proper metabolism between multiple social and natural forces working in the
+interest of agricultural production ’(Moulton and Popke, 2017: 719). Therefore, instead of incubat-
+ing a counter-microbial politics, soil microbial knowledge was increasingly being brought in linewith the existing logic of ‘farming by numbers ’, which aims to bring both natures and farmers
+ever more tightly into the realm of governance.
+The open-ended, ecological nature of microbial life, does not necessarily motivate enchantment
+(Puig de la Bellacasa, 2015); it can also generate a search for closure. Knowing soil microbes intim-
+ately, I therefore argue, is not necessarily a crucible for counter-microbiopolitics. An ontologicaltransformation is not necessarily an ethico-ontological transformation. That microbes become
+objects of societal concern does not in itself challenge anthropocentric logics. How microbial
+lives are brought into society matters: who has the control over knowledge production, andwhose interests that knowledge production serves.
+The politics of soil microbial knowledge are heating up and will demand critical attention in
+years to come. There is a growing scienti ﬁc as well as institutional enthusiasm around toolsKrzywoszynska 1705
+which would enable a tighter control over microbial lives: through new scienti ﬁc understanding,
+soil microbes shall be ‘put to work ’more effectively, both within capital and within governance
+(Krzywoszynska, 2020). Knowledge development in the agri-food sector has long been steered
+by the interests of governments and agri-tech companies (Kloppenburg, 2010 [1991]). Thecurrent agri-tech business model tightly couples knowledge production (soil or plant analysis)
+and product sale (fertilizer, additive, or herbicide/fungicide). It is clear that the same mechanism
+which drove the dispossession of farmers from their crops and inputs is now underway in relationto the soil microbiome. Commercially produced, genetically engineered soil microbes are already
+being experimented with in US agriculture (Rock et al., 2023).
+Regenerative agriculture is right in the middle of these contestations as a heterogenous move-
+ment which draws simultaneously on US agrarian productivism, and on alternative and indigenous
+farming (Carlisle, 2022). Research on regen ag is only just emerging in the social sciences, and
+investigating the consequences of this dual heritage to the very dynamic knowledge politics ofagri-environmental sustainability will be especially important. Central to this are the politics of
+soil microbial knowledge itself. For example, the relevance of soil carbon, and so in soil microbes,
+to climate governance is spurring a huge investment in soil microbiome monitoring (Manach et al.,2023).
+As new tools of microbial knowledge proliferate, it will be crucial to investigate the logics and
+values they are being inscribed with, and the realities they give rise to. As we learn from the human-microbes literature, and more-than-human studies more broadly, scale and nature of encounters
+matters. Ownership and power matter. What are the logics shaping new microbial engagements,
+the logic of the relations? Microbial knowledges can become part of a development of locally rele-vant and actionable knowledge about the soil as a living foundation of sustainable farms and com-
+munities. Or they can make soil microbiome an exclusive arena of political knowledge and
+commercial action. It is clear that alternatives exist, and the microbial knowledge can be part ofonto-politics of care, a way to connect with the living eco-social relations which make a farm
+and its landscape (Kallio and LaFleur, 2023). However, we should not count on the generative
+power of encounters with microbes per se. Rather, we need to direct our attention to how microbialknowledge tools are being enrolled in broader onto-political struggles. As social sciences, and
+indeed research more broadly undertakes an ‘action ’turn, microbial scholars have an important
+opportunity not only to observe, but also to participate in these knowledge politics.
+Highlights
+In developing knowledge about soil microbes, UK farmers depend on embodied expertise but
+desire calculable metrics.
+This is because the dominant agrarian biopolitics of “farming by numbers ”requires farmers to
+behave as calculating selves situated within calculable environments.
+Creating alternative human-microbe relations requires addressing the self-governance dimension
+of current microbiopolitics and attention to the power of calculability.
+Acknowledgements
+This paper was long in the making. Thank you to the many colleagues who have engaged with this text in its
+different iterations, especially Rachel Macrorie (for the writing retreat that started it all!), Alexandra Toland,Ursula Münster, Daniel Münster, and Lesley Green. Thank you to my research participants, it was a pleasuredigging and thinking with you. Thank you to the reviewers and the editors for their close reading and trulyhelpful advice. And thank you to Yorkshire Tea! I ’d be a mess without you.
+Theﬁeldwork underpinning this paper was funded by Research England. The writing of this paper was
+made possible by the Biodiverse Anthropocenes Research Programme, supported by Research Council ofFinland PROFI6 funding, project number 336449.1706 EPE: Nature and Space 7(4)
+Declaration of con ﬂicting interests
+The author declared no potential con ﬂicts of interest with respect to the research, authorship, and/or publication
+of this article.
+Funding
+The author disclosed receipt of the following ﬁnancial support for the research, authorship, and/or publication
+of this article: The work was supported by The Research Council of Finland Pro ﬁ6 grant 336449.
+ORCID iD
+Anna Krzywoszynska https://orcid.org/0000-0002-8304-0440
+Notes
+1. The theory of symbiogenesis, the evolution of cellular life through cooperation rather than competition,
+and the science of the microbiome, the microbial ecologies inhabiting and constructing environments
+(including the human organism).
+2. In the same paper Callon and Law argue that non-quanti ﬁable metrics can also be included in cal-
+culability, and coin the term ‘qualculation ’; this is an important point to consider in further work on
+soil knowledges as embodied meas ures of soil quality become enro lled in biopolitical qualculative
+regimes.
+3. For an example of such an analysis within the wider context of agri-environmental knowledge, see Kallio
+and LaFleur (2023).
+4. The company and the research participants are anonymized in the paper.5. To our best knowledge, the 19 participants represent over 90% of the individual customers of the meta-
+genomic analysis service in 2018. The agronomist customers collected a large number of samples onbehalf of their clients. In the paper, the group is referred to overall as ‘land managers ’.
+6. Other factors (soil moisture, temperature, physical conditions, acidity, salinity and biotic stress) are under-
+stood in terms of supporting or limiting plant nutrient availability (Jones 2020). Regular soil nutrient sam-
+pling and analysis was a requirement for Common Agricultural Policy subsidies in the UK.
+7. Echoing Miller ’s (1994) “governing by numbers ”.
+8. see also Jones Jones PM (2016) Making chemistry the ‘science ’of agriculture, c. 1760 –1840. History of
+Science 54(2): 169 –194. on the discussion of similar processes and the UK, and Depecker T and Joly N
+(2015) Agronomists and accounting. The beginnings of capitalist rationalisation on the farm (1800 –1850).
+Agrónomos y contabilidad. Los comienzos de la racionalización capitalista de la explotación agrícola
+(1800 –1850). (65): 75 –94. on France.
+9. see also Jones Jones PM (2016) Making chemistry the ‘science ’of agriculture, c. 1760 –1840. History of
+Science 54(2): 169 –194. on the discussion of similar processes and the UK, and Depecker T and Joly N
+(2015) Agronomists and accounting. The beginnings of capitalist rationalisation on the farm (1800 –1850).
+Agrónomos y contabilidad. Los comienzos de la racionalización capitalista de la explotación agrícola(1800 –1850). (65): 75 –94. on France.
+10. The accounting element of this calculability is achieved through the use of farm accounting software
+packages such as GateKeeper, which are nowadays directly linked with farming machinery.
+11. See e.g. Agriculture and Horticulture Development Board ‘Soil Health Scorecard ’, available https://ahdb.
+org.uk/knowledge-library/the-soil-health-scorecard .
+12. See also Moulton and Popke (2017) on greenhouses, Stock and Gardezi (2021) on precision agriculture,
+and Wolff (2023) on integrated pest management for examples of speci ﬁc agricultural technologies
+employing calculability in the interest of agrarian biopower.Krzywoszynska 1707
+References
+Beacham JD, Jackson P, Jaworski CC, et al. (2023) Contextualising farmer perspectives on regenerative agri-
+culture: A post-productivist future? Journal of Rural Studies 102: 103100.
+Burchell G (1996) Liberal government and techniques of the self. In: Barry A, Osborne T and Rose N
+(eds) Foucault and Political Reason: Liberalism, Neo-liberalism and the Rationalities of Government .
+London: The University of Chicago Press, 19 –36.
+Callon M and Law J (2005) On qualculation, agency, and otherness. Environment and Planning D: Society and
+Space 23(5): 717 –733.
+Carlisle L (2022) Healing Grounds: Climate, Justice, and the Deep Roots of Regenerative Farming .
+Washington DC: Island Press.
+Carolan M (2019) Automated agrifood futures: Robotics, labor and the distributive politics of digital agricul-
+ture. The Journal of Peasant Studies 47: 184 –207.
+Chartier D (2021) The deplantationocene: Listening to yeasts and rejecting the plantation worldview. In:
+Brives C, Rest M and Sariola S (eds) With Microbes . Manchester: Mattering Press, 43 –63.
+Cusworth G, Lorimer J and Welden EA. (2023) Farming for the patchy Anthropocene: The spatial imaginaries
+of regenerative agriculture. The Geographical Journal :1–15.
+Depecker T and Joly N (2015) Agronomists and accounting. The beginnings of capitalist rationalisation on the
+farm (1800 –1850). Agrónomos y contabilidad. Los comienzos de la racionalización capitalista de la
+explotación agrícola (1800 –1850). Historia Agraria 65: 75 –94.
+Donati K (2022) Toward a ruminant gastronomy: Exploring the creaturely pleasures of feeding goats well.
+Environmental Humanities 14(2): 265 –283.
+Eriksson C and Bull J (2017) Place-making with goats and microbes: The more-than-human geographies of
+local cheese in jämtland, Sweden. Journal of Rural Studies 50: 209 –217.
+Fitzgerald D (2003) Every Farm a Factory: The Industrial Ideal in American Agriculture . New Haven and
+London: Yale University Press.
+Folkers A and Opitz S (2022) Low-carbon cows: From microbial metabolism to the symbiotic planet. Social
+Studies of Science 52(3): 330 –352.
+Foucault M (1981) Omnes et singulatim: Towards a criticism of ‘political reason ’. In: McMurrin S (eds) The
+Tanner Lectures on Human Values . Salt Lake City: University of Utah Press, 225 –254.
+Foucault M (2007) Security, Territory, Population: Lectures at the Collège de France, 1977 –78. New York: Palgrave.
+Foucault M (2008) The Birth of Biopolitics: Lectures at the Collège de France, 1978 –79. New York: Palgrave
+Macmillan.
+Gosnell H (2021) Regenerating soil, regenerating soul: An integral approach to understanding agricultural
+transformation. Sustainability Science 17: 603 –620.
+Granjou C and Phillips C (2018) Living and labouring soils: Metagenomic ecology and a new agricultural
+revolution? BioSocieties 14: 393 –415.
+Granjou C and Salazar JF (2019) The stuff of soil: Belowground agency in the making of future climates.
+Nature and Culture 14(1): 39 –60.
+Hamann TH (2009) Neoliberalism, governmentality, and ethics. Foucault Studies . (6): 37 –59. DOI: 10.22439/
+fs.v0i0.2471
+Haraway D (1988) Situated knowledges: The science question in feminism and the privilege of partial perspec-
+tive. Feminist Studies 14(3): 575 –599.
+Haraway DJ (2008) When Species Meet . Minneapolis, MN; London: U of Minnesota Press.
+Helmreich S (2014) Homo microbis: The human microbiome, ﬁgural, literal, political. Thresholds 42:
+52–59.
+Hetherington K (2020) Agribiopolitics: The health of plants and humans in the age of monocrops. Environment
+and Planning D: Society and Space 38(4): 682 –698.
+Hinchliffe S (2015) More than one world, more than one health: Re-con ﬁguring interspecies health. Social
+Science & Medicine 129: 28 –35.
+Hinchliffe S, Bingham N, Allen J, et al. (2016) Pathological Lives: Disease, Space and Biopolitics .1708 EPE: Nature and Space 7(4)
+Hird M (2009) The Origins of Sociable Life: Evolution After Science Studies . Basingstoke: Palgrave
+Macmillan.
+Hird MJ (2012) Knowing waste: Towards an inhuman epistemology. Social Epistemology 26(3–4): 453 –469.
+Huttunen K, Oinas E and Sariola S (2021) When cultures meet: Microbes, permeable bodies and the environ-
+ment. In: Brives C, Rest M and Sariola S (eds) With Microbes . Manchester: Mattering Press, 121 –142.
+Huxley M (2008) Space and government: Governmentality and geography. Geography Compass 2(5): 1635 –1658.
+Ironstone P (2019) Me, my self, and the multitude: Microbiopolitics of the human microbiome. European
+Journal of Social Theory 22(3): 325 –341.
+Jasarevic L (2015) The thing in a jar: Mushrooms and ontological speculations in post-Yugoslavia. Cultural
+Anthropology 30: 36 –64.
+Jones PM (2016) Making chemistry the ‘science ’of agriculture, c. 1760 –1840. History of Science 54(2): 169 –194.
+Jones S (2020) A novel farming knowledge cultures approach to the study of soil quality within the context of
+arable farming in the East Midlands of England .
+Kallio G and LaFleur W (2023) Ways of (un)knowing landscapes: Tracing more-than-human relations in
+regenerative agriculture. Journal of Rural Studies 101: 103059.
+Kinnunen V (2021) Knowing, living, and being with bokashi. In: Brives C, Rest M and Sariola S (eds) With
+Microbes . Manchester: Mattering Press, 64 –83.
+Kloppenburg J (2010 [1991]) Social theory and the De/reconstruction of agricultural science: Local knowledge
+for an alternative agriculture. Rural Sociology 56(4): 519 –548.
+Kotliar DM and Grosglik R (2023) On the contesting conceptualisation of the human body: Between
+‘homo-Microbis ’and‘homo-algorithmicus ’.Body & Society 29(3): 81 –108.
+Krzywoszynska A (2020) Nonhuman labor and the making of resources: Making soils a resource through
+microbial labor. Environmental Humanities 12(1): 227 –249.
+Latour B (2017) Facing Gaia: eight Lectures on the New Climatic Regime . London: Polity.
+Lemke T (2015) Foucault, governmentality, and critique . London: Routledge.
+Li T (2007) The will to Improve: Governmentality, Development, and the Practice of Politics . Durham, NC:
+Duke University Press.
+Lorimer J (2020) Probiotic planet .
+Lorimer J, Hodgetts T, Grenyer R, et al. (2019) Making the microbiome public: Participatory experiments with
+DNA sequencing in domestic kitchens. Transactions of the Institute of British Geographers 44: 524 –541.
+Lyons KM (2020) Vital Decomposition: Soil Practitioners and Life Politics . Durham: Duke University Press.
+Manach L, Guillemot H and Granjou C (2023) Engagements climatiques et modélisation du carbone des sols.
+Revue d ’anthropologie des connaissances 17-4.
+Marchesi G (2020) Justus von liebig makes the world: Soil properties and social change in the nineteenth
+century. Environmental Humanities 12(1): 205 –226.
+Miller P (1994) Accounting and objectivity: the invention of calculating selves and calculable spaces.
+In: Megill A (ed) Rethinking Objectivity . Durham: Duke University Press, 239 –264.
+Mitchell T (2002) Rule of Experts: Egypt, Techno-Politics, Modernity . Berkeley: Univ of California Press.
+Moore JW (2015) Capitalism in the Web of Life: Ecology and the Accumulation of Capital . London: Verso Books.
+Moulton AA and Popke J (2017) Greenhouse governmentality: Protected agriculture and the changing biopo-
+litical management of agrarian life in Jamaica. Environment and Planning D: Society and Space 35(4):
+714–732.
+Münster D (2018) Performing alternative agriculture: critique and recuperation in Zero Budget Natural
+Farming, South India. Journal of Political Ecology 25: 748 –764.
+Nurmi J (2021) Building ‘natural ’immunities: Cultivation of human-microbe relations in vaccine-refusing
+families. In: Brives C, Rest M and Sariola S (eds) With Microbes . Mancherster: Mattering Press, 100 –117.
+O’Brien AT (2020) Ethical acknowledgment of soil ecosystem integrity amid agricultural production in
+Australia. Environmental Humanities 12(1): 267 –284.
+Panagos P, Montanarella L, Barbero M, et al. (2022) Soil priorities in the European union. Geoderma Regional
+29: e00510.
+Patel R (2013) The long green revolution. The Journal of Peasant Studies 40(1): 1 –63.Krzywoszynska 1709
+Patzel N, Sticher H and DL K (2000) Soil fertility - phenomenon and concept. Journal of Plant Nutrition and
+Soil Science 163(2): 129 –142.
+Pawley E (2010) Accounting with the ﬁelds: Chemistry and value in nutriment in American agricultural
+improvement, 1835 –1860. Science as Culture 19(4): 461 –482.
+Paxson H (2012a) The Life of Cheese: Crafting Food and Value in America . Berkeley: Univ of California
+Press.
+Paxson H (2012b) Post-Pasteurian cultures: The microbiopolitics of raw-milk cheese in the United States.
+Cultural Anthropology 27(1): 15 –47.
+Pearson AL, Rzotkiewicz A, Pechal JL, et al. (2019) Initial evidence of the relationships between the human
+postmortem microbiome and neighborhood blight and greening efforts. Annals of the American Association
+of Geographers 109(3): 958 –978.
+Puig de la Bellacasa M (2015) Making time for soil: Technoscienti ﬁc futurity and the pace of care. Social
+Studies of Science 45(5): 691 –716.
+Puig de la Bellacasa M (2017) Matters of Care: Speculative Ethics in More Than Human Worlds . London:
+University of Minnesota Press.
+Robinson JM and Jorgensen A (2020) Rekindling old friendships in new landscapes: The environment –micro-
+biome –health axis in the realms of landscape research. People and Nature 2(2): 339 –349.
+Rock A, Carrillo Rincon AF, Cabebe G, et al. (2023) Liquid soil models for risk assessment of engineered
+organisms in soil. In: 3rd Global Soil Biodiversity Conference, Dublin.
+Salazar JF, Granjou C, Kearnes M, et al. (2020) Thinking with Soils: Material Politics and Social Theory .
+London: Bloomsbury.
+Scott JC (2008) Seeing Like a State . Yale: Yale University Press.
+Sims TJ (2000) Soil fertility evaluation. In: Sumner ME (ed) Handbook of Soil Science. CRC Press . Boca
+Raton, FL. London: CRC Press, D113 –D149.
+Spackman CCW (2018) Formulating citizenship: The microbiopolitics of the malfunctioning functional bev-
+erage. BioSocieties 13(1): 41 –63.
+Stevens H (2013) Life Out of Sequence: A Data-Driven History of Bioinformatics . Chicago, IL: University of
+Chicago Press.
+Stock R and Gardezi M (2021) Make bloom and let wither: Biopolitics of precision agriculture at the Dawn of
+surveillance capitalism. Geoforum; Journal of Physical, Human, and Regional Geosciences 122: 193 –203.
+Wake ﬁeld-Rann R, Fam D and Stewart S (2019) Microbes, chemicals and the health of homes: Integrating
+theories to account for more-than-human entanglements. BioSocieties 15: 182 –206.
+Wall DH, Nielsen UN and Six J (2015) Soil biodiversity and human health. Nature 528(7580): 69 –76
+Wilde D (2022) Shitty food-based world-making: Recasting human|microbiome relationships beyond shame
+and taboo. Futures 136: 102853.
+Wolff L (2023) Regulating pests —material politics and calculation in integrated pest management.
+Environment and Planning E: Nature and Space 6(1): 455 –472.
+Zhang A (2021) From immunity to collaboration: Microbes, waste, and antitoxic politics. Current
+Anthropology 62(S24): S298 –S310.1710 EPE: Nature and Space 7(4)

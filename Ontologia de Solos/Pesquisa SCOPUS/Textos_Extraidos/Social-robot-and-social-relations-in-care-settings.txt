@@ -1,0 +1,1170 @@
+Technology in Society 77 (2024) 102559
+Available online 22 April 2024
+0160-791X/© 2024 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-
+nc-nd/4.0/ ).‘Social ’ robot and social relations in care settings: Undefined positionality 
+and fixed temporality 
+Yuko Tamaki Welply , S˘ebastien Lechevalier* 
+Ecole des Hautes Etudes en Sciences Sociales-Institut de recherche interdisciplinaire sur les enjeux sociaux, Bkatiment Recherche Sud, 5 cours des Humanit ˘es, 93322 
+Aubervilliers cedex, France   
+ARTICLE INFO  
+Keywords: 
+Social robots 
+Eldercare 
+Script literature 
+Care ethics 
+Temporality ABSTRACT  
+Socially assistive robots in eldercare settings, i.e. ‘social ’ robots, are currently being promoted and studied, 
+particularly in Japan. Among these studies, clinical evaluation of their effectiveness in experimental research 
+predominates, while studies that critically and analytically describe relations between actors in long-term care 
+settings where robots are present are growing but still scarce. In this paper, we argue that understanding how 
+older adults facing the loss of autonomy and their caregivers interact with robots in relational terms is helpful to 
+explain the usage and non-usage of, and eventual resistance to social robots entering into care settings. This is 
+why, in order to understand human relationships with social robots in elder care homes, this paper combines a 
+‘script ’ approach and a ‘critical care’ one. Based on content analysis of a unique set of reports on trials of a social 
+robot in multiple care facilities in Japan from 2018 to 2020, as well as interviews with stakeholders and 
+ethnographic observations conducted in 2022, we answer two questions: 1) how do social robots shape social 
+relations of care? 2) how do social robots affect social relations between care professionals, care recipients and 
+robots? We proceed to discuss two of the characteristics emphasised in the ethics of care and examine them in 
+depth: the positional and temporal aspects. Our major result is that, while the robot was easily adaptable to care 
+environments because its position in relationships is not defined, embedded clock time flow in the robot was 
+objective and linear, which indicates that some robot-created situations were seen as problematic by actors in 
+care settings.   
+Statement of ethical approval: The ethics evaluation committee of 
+Inserm, the Institutional Review Board of the French Institute of medical 
+research and Health, gave ethical approval for this study (22–918). 
+This work was supported by a French government grant managed by 
+the Agence Nationale de la Recherche (ANR) under the France 2030 
+program, reference ANR-23-PAVH-0005 (INNOVCARE Project). It is 
+also part of an international doctoral research project which is funded 
+entirely by the French National Center of Scientific Research (CNRS) and 
+constitutes a result of the research stay funding by EHESS (Paris, 
+France), its China, Korea, and Japan (CCJ) research centre, the Tepsis 
+program, as well as Fondation France-Japon de l’EHESS. 1.Introduction 
+In the context of increasing life expectancy, the growing number of 
+older adults (OA) with cognitive impairment, as well as the scarcity of 
+caregivers, are increasingly recognised as a serious, worldwide public 
+concern, especially in industrialised countries [1]. There is rising opti-
+mism that technology will play a role in addressing these issues and the 
+effects of technology as well as robots on OA is an increasingly important 
+theme in geriatrics and gerontology. Some ‘social ’ robots, such as ani-
+maloid robots, are deemed to have the potential to complement or 
+replace pet therapy, a non-medical treatment of dementia care that the 
+Alzheimer ’s Association in the United States recommends [2].1 
+In Japan, since 2015, the government ’s ‘Society 5.0’ science and 
+technology policy strategy has suggested that technology, including big 
+*Corresponding author. 
+E-mail address: sebastien.lechevalier@ehess.fr (S. Lechevalier).   
+1 Despite the numerous studies on social robots, there is no widely accepted definition of social robots. As in the case of social robots, it may be due to differing 
+meanings of each term: ‘social ’ and ‘robot ’ [77]. 
+Contents lists available at ScienceDirect 
+Technology in Society 
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow �o�to~1m{y2w {mk�o2�oms�{ m!
+https://doi.org/10.1016/j.techsoc.2024.102559 
+Received 15 November 2023; Received in revised form 16 April 2024; Accepted 16 April 2024   
+Technology in Society 77 (2024) 102559
+2data and artificial intelligence, may well tackle the medical and care 
+difficulties of OA with cognitive impairment [3,4].2 Over the past 
+twenty years, Japanese society has seen increasingly rapid advances in 
+service robots and communication robots, contributing to the idea that 
+Japan is a world leader in the development of robotic technologies for 
+OA [5]. However, despite government initiatives and positive effects on 
+OA reported in research, robots have not proven to be widely employed, 
+at least in long-term care facilities (LTCF) [6].3 
+In this context, most studies in the field of geriatrics and gerontology 
+have focused on the effectiveness of robots on difficulties that OA face 
+[7–10]. Many of these studies have demonstrated the positive impact of 
+robots mainly on OA but also on caregivers, at the level of individuals 
+[11]. However, research so far has failed to resolve an important 
+paradox: whilst studies demonstrate a relatively high effectiveness of 
+robots, there remains a low rate of robot adoption in care settings. To 
+date, there has been little agreement on what role robots can play in care 
+settings. In particular, what is not yet clear is the impact on or the 
+transformations of care relations at the level of social groups [11], in 
+other words, caregivers and care receivers. This is because previous 
+studies did not properly take into account the perspective of a politics of 
+care as referring to both the act and relationship of arising survival needs 
+and responding to them in a particular context and situation [12]. Care 
+practices always involve at least two people: the person needing care (or 
+to whom needs are attributed) and the person responding to them [13]. 
+Our study aims to contribute to this growing area of research by 
+addressing this gap in the literature, by focusing on relationships be-
+tween care recipients, caregivers, and robots. This paper seeks to 
+examine neglected aspects of relationality and explores, in particular, 
+the position-related connectedness and the time-related connectedness 
+between these actors in the care setting by highlighting the position, 
+role/function differences of [14,15] and the tempo/rhythm differences 
+of people and things [16]. Taking ‘social’ robots as a focal point 
+throughout the paper and assuming that the inclusion of social robots 
+influences relations in long-term care practices, we explore the two 
+following research questions: ‘how do social robots shape social re-
+lations of care?’ and ‘how do social robots affect social relations between 
+care professionals, care recipients and robots?’. The first research 
+question focuses on the way the robot develops and fosters close re-
+lationships between actors in the care setting, while the second sheds 
+light on the effects of these relationships on care practices. We empha -
+size the relational nature of care in this paper since care is frequently 
+thought of as an act, yet care can only occur between two entities: one 
+that has needs and another that responds to those needs. The two 
+questions are closely connected, with the second being a direct 
+follow-up to the first main question. To investigate care practices 
+involving social robots, we draw on the notion of ‘script’ [17–19], 
+because, as evidenced by Science and Technology Studies (STS), it is 
+particularly significant for assessing the relationship between humans 
+and technologies without separating them and modifying the lexicon for 
+each. 
+Our empirical strategy is to try to answer these questions by focusing 
+on a case study of social robot trials in Japanese care settings. More 
+precisely, the research data in this paper is drawn from three main 
+sources; two-year trial reports obtained from a robot provider; semi- 
+structured interviews with robot providers; and participant observa -
+tion of trials conducted in LTCF. 
+This paper begins by introducing our theoretical approach. Then, it 
+dwells on our data and methodology. It is followed by our key findings, 
+which are organised according to the relationships as in the design and the relationships developed throughout the trial. Finally, in the discus -
+sion, in order to understand the actors’ relationality in care settings, 
+these findings are analysed through the notions of positionality and 
+temporality. 
+2.Theoretical background 
+To investigate the use of technology in eldercare, two different ap-
+proaches have been primarily adopted. The majority of studies have 
+been quantitative and are essentially based on clinical, laboratory, or 
+experimental investigations that study how technology might be used to 
+solve problematic conditions such as social isolation [20–22], poor 
+well-being [23–25] and depression [26]. For example, studies on ther-
+apeutic companion robots have found a rise in the frequency of inter-
+action among older persons at the micro level [27,28]. The perceptions 
+and the acceptability of OA and caregivers were also explored [29,30] 
+and it has been shown that perspectives among them have recently 
+shifted to the positive, with stronger hopes for telecare robotisation and 
+fewer concerns about care robots’ compatibility with personal values 
+[31]. These studies see technology as an interventionist solution [32,33] 
+and investigate human-robot relationships at the individual level [11].4 
+In contrast, there is a growing body of literature that draws on STS in-
+sights and the majority of investigations have been empirical and 
+observational in nature, including ethnographic inquiries into eldercare 
+contexts [34,35]. Several studies have demonstrated the diversity of 
+technology usage (and non-use) with respect to how one engages with 
+and through technologies according to one’s assumptions as well as 
+expectations [36,37]. They investigated the complex arrangement of 
+technologies, care professionals, and care recipients, contributing to the 
+accumulation of empirical data on technology use in relational terms 
+[38–40]. 
+Publications that concentrate on studying actors and their relation -
+ship with and through technologies tend to adopt a ‘script’ approach. 
+Possibly because if the relationship between caretakers, care recipients, 
+and technology is considered, each arrangement using technical 
+equipment requires distinct inspection in order to learn the forms of 
+social relations it delivers [41]. The notion of ‘script’ [17–19] offers a 
+fundamental methodological concept that helps explore and understand 
+the relationality of actors and non-human actors, including technolo -
+gies. Being an important and heuristic idea in social studies on the 
+relationship between technology and people in the context of care [38, 
+39,42–44], script is similar to a screenplay for a film or a play: the 
+relationship between technology and people can be analysed like a 
+script, a connection between technology and people envisioned by the 
+designer. Because technology is usually intended bearing human 
+behaviour in mind, the script framework can also provide insights into 
+the designers’ social values and norms. According to a detailed summary 
+provided by Akrich and Latour (17), this concept is based on the lin-
+guistic notions of ‘performance’ (the operation of using language) and 
+‘competence’ (the ability to conform to grammatical rules). It asserts 
+that competence and performance are endowed and distributed to 
+knowledge and artefacts, i.e. science and technology, and a crisis or a 
+trial can reveal the envisioned, prescribed functions of technologies. The 
+authors clarify the difference between the two by explaining that action 
+itself is ‘defined by a list of performances through trials; from these 
+performances are deduced a set of competencies with which the actant is 
+endowed’ [18]. They argue that scripts portray actors (or ‘actants’) and 
+their behaviour as envisioned by the innovators’ side and that 
+comparing performance to scripts through actual conflicts, confronta -
+tions, and problematic situations is relevant in studying socio-technical 
+relations. 
+There is a growing number of studies which use STS insights and 2 See Ref. [78] for a discussion on the use of social robots from a policy 
+standpoint.  
+3 It is important to highlight that, unlike the healthcare sector, other sectors 
+have seen an upward trend in robot use, as evidenced by international research 
+on delivery robots [79] and advising robots [80]. 4 For more studies on ethical concerns with socially assistive robots, see 
+Ref. [81]. Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+3describe the roles that technologies can play within these networks of 
+people and objects in care settings. Winance studied disabled persons in 
+the process of trying and selecting wheelchairs [45,46]. She analysed 
+relations between the disabled person and the wheelchair in their 
+context and implied that care entails adjusting the interaction and 
+balancing the positions of each member of the collective, which has led 
+to her proposition that care is shared work. Similarly, Pols and Moser 
+[47] investigated technologies for OA in need of care and looked into the 
+social ties forged between them, by targeting relevant representations 
+such as the coldness of technology and the warmth of care as the 
+research object. They have shown that technology is not necessarily 
+always cold and that some OA felt warmth from and affection for 
+technology, particularly social robots. Together, these studies, by chal-
+lenging the idea of humans and non-humans in the different realms of 
+existence in the way Latour did [48], show that the heterogeneous 
+character of relationality plays an important role in understanding 
+technologies in social settings. 
+However, recent studies have not been able to account for all aspects 
+of relationality in care involving technologies. Considering care as ‘an 
+affective state, a material vital doing, and an ethico-political obligation’ 
+[49], this study adopts a ‘critical care’ approach to study technology 
+[50,51], by examining ordinary and often neglected aspects of the re-
+lationships such as positional and temporal aspects of the care rela-
+tionship from the perspective of a politics of care [52].5 Positional 
+characteristics of the care relationship have been studied [12,14,15] to 
+explain how a symbolic power asymmetry might arise between those 
+who need care and those who provide care. This positional asymmetry is 
+regarded as unavoidable in the practice of care since individuals who 
+respond to needs frequently have the option of whether or not to 
+respond to those needs, whereas those who require care frequently do 
+not, according to Sen’s capacity perspective [53,54]. The temporal 
+component of care practice is seen as one of the most pressing challenges 
+in care practice. The reason for this is that care practice lasts (and it 
+should be) as long as the person in need is satisfied, whereas, in group 
+care, activities such as eating, bathing, and some recreational activities 
+are completed on a tight timetable, resulting in relative temporal ten-
+sions [16]. In a ‘critical care’ approach, the ’affective state’ of care can 
+be investigated by the positional aspects of the relationships, while ’the 
+material vital doing’ of care may be examined by taking account of the 
+temporal aspects of the relationships. Therefore, these two aspects 
+cannot be overlooked and are deemed heuristic for exploring the rela-
+tionship with and through robots.6 
+There are inspiring research examples in the field of social studies of 
+science and technology that scrutinise care practices through a critical 
+lens. Even though social robots show a certain degree of effectiveness in 
+solving individual problems such as depression, interactions between 
+humans and robots may yield some unexpected situations, resulting in 
+some resistance to technologies. For example, ethnographic work in 
+Japan provides evidence that this is because proponents of the tech-
+nology, including the government, anticipate robots to be omnipotent, 
+yet users in care settings perceive different realities of care from those of 
+the proponents and become even antagonistic to robots [55]. A socio -
+logical work in France reveals that this is because, in the precisely 
+located practice of care, robots do not always behave as expected, and 
+both care recipients and carers must exert significant effort to engage in 
+exchanges with the robot [56]. Overall, these studies highlight the need 
+for empirical knowledge to demonstrate the ambivalence of deploying 
+robots in care settings and a more nuanced discussion of what technologies can do in social life. 
+3.Data and methodology 
+We began by evaluating two-year reports on a small humanoid robot 
+trial drafted by a staff member of the digital promotion department in a 
+large for-profit Japanese telecommunication company. The reports were 
+obtained from the staff member during the time we carried out partic -
+ipatory observation of the usage and non-usage of robots in LTCF in the 
+Kanto region from April to July 2022. Contact with the robot provider 
+was made through an online visiting tour of LTCF that introduced caring 
+equipment and robots, organised in October 2021 as one of the public 
+initiatives undertaken by the Department of Social Welfare in the same 
+region. The aim of the document, according to the promotion staff 
+member, was to report the free trials of the robot to the head robot 
+development management team, and its production was a requirement 
+for acquiring a robot and implementing free trials for sales promotion: 
+there was no ‘checking or amendment of the report’. The opportunity to 
+have access to this information was highly valuable, and although such 
+procedures may be difficult to replicate in the future, it would be unwise 
+to dismiss such reports without considering them as an insightful source 
+of material. Besides, through the digital promotion staff member, we 
+obtained robot promotional material (one confidential, digital presen -
+tation material and one publicly available, printed material) and also 
+consulted the robot overview website and the robot instruction manual 
+website (which are both publicly available). 
+Trials were conducted before the pandemic, between April 2018 and 
+March 2020, at 13 different facilities (9 day-service centres, 1 special 
+care home, 1 geriatric health facility, 1 fee-based care home and 1 de-
+mentia group home). A single trial session was held at 11 different fa-
+cilities (8 outpatient day long-term cares, an LTCF, a group home for the 
+Table 1 
+List of eldercare facility participantsa.   
+Institution 
+code names Description of care 
+homes Service 
+operators Date of 
+trial 
+(YYYY- 
+MM-DD) 
+1 TY LTCF covered by public 
+aid providing long-term 
+care to the OA (Tokuyo) Social welfare 
+corporation 2018-04- 
+06 
+2 DS01 Outpatient day long- 
+term care (day service) Social welfare 
+corporation 2018-04- 
+18 
+3 DS02 Outpatient day long- 
+term care (day service) Social welfare 
+corporation 2018-04- 
+24 
+4 DS03 Outpatient day long- 
+term care (day service) Social welfare 
+corporation 2018-05- 
+16 
+5 DS04 Outpatient day long- 
+term care (day service) Social welfare 
+corporation 2018-06- 
+15 
+6 GH Group home for the OA 
+with dementia Social welfare 
+corporation 2018-07- 
+10 
+7 DS05 Outpatient day long- 
+term care (day service) Social welfare 
+corporation 2018-07- 
+18 
+8 DS06 Outpatient day long- 
+term care (day service) Medical 
+corporation 2019-01- 
+28 
+9 DS07 Outpatient day long- 
+term care (day service) For-profit 
+corporation 2019-02- 
+14 
+10 YRH Fee-based LTCF (Yuryo 
+Rojin Home) Medical 
+corporation 2019-03- 
+08 
+11 DS08 Outpatient day long- 
+term care (day service) For-profit 
+corporation 2019-03- 
+25 
+12 DS09-01 … 
+DS09-27 (27 
+times) Outpatient day long- 
+term care (day service) For-profit 
+corporation 2019-03- 
+28 … 2020- 
+03-26 
+13 RK-01 … RK- 
+13 (13 times) Long-term care health 
+facility (Roken) Medical 
+corporation 2019-11- 
+15 … 2020- 
+02-12  
+aSee the UN report on Japanese LTCF [84] for further information on the 
+various categories of care homes and service operators in Japan (we also used 
+the terminology described in the report). 5 For a discussion on ‘care studies’ in STS with several approaches other than 
+the ‘critical care’ approach, see Ref. [82].  
+6 It should be noted that the temporalities mentioned in this study will be 
+related to micro-interactional care activities. See Refs. [50,55,83] for discus -
+sions that examine another industrial or socio-technical inventive aspect of 
+temporality. Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+4OA with dementia and a fee-based LTCF), 27 sessions at an outpatient 
+day long-term care, and 13 at a long-term care health facility (see 
+Table 1). The 50-page reports included practical descriptions such as 
+operational details of an approximately 1-h trial session and reactions of 
+the prospective users, as well as the digital promotion staff member’s 
+thoughts (i.e. positive and negative judgements). The content was not a 
+formal report, but more of a memo-like record of the staff member’s own 
+struggles and mistakes. These records were processed by qualitative 
+content analysis and the corresponding code names were used for quo-
+tations from the reports (institution code followed by report element 
+code). It should be noted that by the time this report was finished, none 
+of the LTCFs had adopted the robot. No change has taken place as of the 
+time of writing of this paper. 
+To supplement this data, two semi-structured interviews were con-
+ducted: one with the digital promotion staff member who granted access 
+to the reports and the other with two of the robot’s designers. The in-
+terviews took place in May 2020 and lasted 60 min. Since the robot 
+promotion company (Kanagawa, Japan) and the robot design company 
+(Osaka, Japan) are different entities, interviews with the former were 
+conducted in the author’s office (Tokyo, Japan) and with the latter via 
+video call. 
+Interviews were recorded, transcribed, and converted to textual data. 
+A grounded theory approach [57] was used for these textual data as well 
+as for two-year trial reports to conduct inductive data analysis in order 
+for themes to emerge from the data. In other words, the analysis was 
+carried out using a form of thematic coding to classify and categorise the 
+data. 
+In addition, to supplement the trial reports with triangulation forms, 
+participant observations were conducted at sites where the robot was 
+introduced with the help of the digital promotion staff member from 
+April to July 2022. Four stints of participant observation were con-
+ducted, totalling 6 h in length. Two of them were performed at the 
+mentioned facilities in the reports: the day-service centre and the geri-
+atric health facility. We conducted the observation in the presence of the 
+digital promotion staff member. During observation, we had informal 
+conversations with care workers about the adoption of a robot but did 
+not manage to gather from care recipients their perceptions of the 
+interaction with robots. The authors translated trial reports, interview 
+transcription and fieldnotes from Japanese to English. 
+In order to use the company’s internal reports as research material, it 
+was necessary to anonymise the robot, the digital promotion staff 
+member and long-term care facilities. Thus, publications cannot be 
+directly cited or referred to, though summaries will be provided. The 
+names of the robot, Kuro and of the promotion staff member, Ken, are 
+pseudonyms. All quoted statements were accompanied by their 
+sources.7 
+4.Findings 
+4.1. Relationship between robots and care actors, ‘prescribed’ in the 
+design 
+The robot is intended to help care professionals with light exercise 
+and recreational activities and must be connected to the Internet, a set- 
+top box, and a TV screen that displays activity materials such as still 
+images and recorded video. In the robot’s ‘script’, the aims of encour -
+aging a group of care service users (usually at least four or more) to 
+conduct light physical activities and mental activities were transcribed 
+into the robot’s action such as gesticulating, talking loudly and shifting 
+attention in various directions. In particular, Kuro is configured to utter 
+words in line with the participant’s feelings, such as ‘it feels good,’ or 
+words that are concerned about the participant’s burden, such as ‘it’s indeed difficult’ [the printed material]. As stated in the ‘script’, this 
+might be required in order to ‘realise a completely new, people-centred 
+communication service’ [the robotic company website]. 
+Two significant themes emerged from the data on the robot sup-
+plier’s side. First, from the robotic company’s online materials, it is 
+apparent that technologies, in their own right, provide possible answers 
+to societal problems. The robot Kuro, a ‘table-top size’ that ‘enables 
+natural dialogue using words, gestures, and hand gestures’, was 
+designed with the goal of ‘realising a society where people and robots 
+can fully coexist’ [the robotic company’s website], which is essentially 
+identical to the strategy outlined in the Japanese government’s 5th Basic 
+Plan, dubbed Society 5.0 [3]. The script here projects that robots may 
+behave and act like persons to assist in resolving interpersonal problems. 
+Furthermore, as the following interview with a robot designer demon -
+strates, efforts and research have been carried out with the assumption 
+that robots will be a tool that can be used in care settings, in other words, 
+they can play an active role. In the interview, the robot designer said: 
+(My company and the company under the same group as the com-
+pany Ken works for) initially started a joint research project to 
+investigate whether it (a robot) could be used in the field of care and 
+developed the robot and its additional application service dedicated 
+to assisting with recreational activities in LTCF. [interview] 
+The script here shows the environment where the robot is assumed to 
+behave as an autonomous entity. The script portrays an ideal relation -
+ship in which the human gets assistance from the robot, but it does not 
+cover, for example, the relationship in which the human prepares the 
+robot for operation or sets the robot’s surroundings, which will be dis-
+cussed later. A human-robot social bond envisioned in the script is one 
+where the robot can act autonomously and assist the human in any 
+environment. 
+The second type of relationship in the script is focused on the 
+implementation of a collective endeavour such as recreation or reha-
+bilitation. It is of a type that disregards the conditions of implementa -
+tion, particularly the situation of the participants. Strong evidence of the 
+assumption of the habitual, if not mechanical, nature of recreational 
+time in institutional eldercare was found when the script emphasises the 
+robot’s automated process of interaction with humans. It is clear from 
+the following excerpt that recreation is envisioned in the scripts as a 
+unilateral action by the recreation executor. Data from the printed 
+promotional brochure show that: 
+(Kuro will) automatically conduct these [recreational] activities (in 
+care settings) by employing incorporated cameras, microphones, 
+speakers, and networking functions, as well as being highly inte-
+grated with IoT devices, cloud AI, and other devices. The service 
+content includes exercise sessions, brain training, music, reminis -
+cences, and games. [printed material] 
+Certainly, the use of robot-assisted recreation has a relatively posi-
+tive impact on recreation participants. This is clear from an ’improve -
+ment in the residents’ positive attitude towards interaction with others’, 
+according to findings of an empirical test conducted by a university 
+professor [confidential digital material]. This is also supported by 
+another trial, conducted from August to October 2015 by the company, 
+which have brought about some positive evaluations of the robot from 
+prospective users of 12 care professionals, resulting in three trans -
+formations in actual scenes of care: 
+reducing the burden (of recreational activity preparation) (for care 
+professionals), helping to solve the care staff shortage (for care fa-
+cility directors), and improving satisfaction (for care recipients). 
+[printed material] 
+However, in a setting where robots perform these recreational ac-
+tivities ’alone’ and ’automatically’, by ‘taking the place of staff’ 
+[confidential digital material], it is assumed that recreation is a routine, 
+an act that is repeated in institutional care, without taking into account 7 A swift check was conducted, and no robot named Kuro was identified, 
+therefore any reference to a robot called Kuro is accidental. Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+5the psychological and physical well-being of the resident who is the 
+participant of the recreational activities. Only the person in charge of 
+delivering the recreation is present in the script, rendering residents 
+somewhat invisible. 
+4.2. Partial ‘performance ’ of the script in care setting: limitations 
+‘described ’ throughout the trial 
+4.2.1. Harmonious but distant relation between the robot and recreation 
+participants 
+The theme of harmony and a sense of unity recurred in Ken’s report 
+and one element to establish harmonious relations was Kuro ’s sound. 
+This sense of unity might be simple to form, but it was evident from the 
+reports that it was also easy to be disturbed, depending on the vocal 
+sound of the ones who are spearheading the construction of together -
+ness. In two reports (trials done in April and May 2018), care pro-
+fessionals mentioned problems with Kuro ’s voice and associated 
+television sounds which were too low to convey messages as issues to 
+solve. 
+It would be better if it [Kuro] were mobile, because [as it is] it would 
+only reach about 10 participants around it. Because there are 20–30 
+people, in the day service [it] is difficult to implement [it]. Is it 
+possible to use multiple robots at once? DS03-F38 
+The sound volume/range is difficult to hear low volume DS03-F39. 
+Can it be used in multiple locations? TY01-F02 
+These points highlight how difficult it is for humans to adapt to the 
+low volume of the robot, particularly in spaces where large groups of 
+people spend time together, such as care settings. It also emphasises how 
+difficult it is for a robot to adapt to humans because it requires additional 
+equipment (for example speakers, as Ken recognised [DS01-F15]) and 
+must overcome numerous obstacles, such as material connections, as 
+discussed later. Taken together, even something as trivial as the volume 
+of a machine appears to play a vital impact in the development of 
+pleasant interactions that foster harmonious relations and a sense of 
+togetherness, in institutional eldercare. 
+Indifference, then, can be viewed as a detriment to establishing a 
+sense of unity. Ken was particularly interested in the robot ’s failure to 
+conduct the recreational activities according to the programme and 
+generate a ‘harmonious relationship ’ between the participants, that is, a 
+condition in which the participants perform the activities to the same 
+degree. There were situations among the participants without excite -
+ment or indication of heightened mood and the word ‘indifferently ’ was 
+often used in Ken’s reports [DS01-F12, DS03-E21, F23, F24, E35, DS04- 
+F56, GH-E73, D79]: 
+If (we) do not get a good start, a rec [ recreational activity] is done 
+indifferently. DS03F28 
+This usage underlines the fact that it was regarded as beneficial to do 
+activities together, with everyone who shared Kuro ’s presence partici -
+pating. Furthermore, indifference can cause some people to become 
+detached from recreational time, bringing about a discordant state in the 
+room. Ken wrote down situations where no prospective users, especially 
+no resident, responded in their interaction with Kuro. Ken was keenly 
+aware of the reactions of those around Kuro, as well as no reactions of 
+them which was deemed undesirable by Ken. This implies that partici -
+pating in recreational activities indifferently, such as when each person 
+behaves independently or does not respond to any proposed movement, 
+is deemed to limit the synchronisation of each participant ’s activity that 
+encourages togetherness and constitutes detached and distant relations. 
+(There are) about 2–3 people sleeping, although (they are) asymp -
+tomatic (service users of dementia). DS04-F49 
+(There are) three people who appear to have dementia, one of whom 
+is irritated by her leg pain, are unresponsive. YRH-F154 In establishing connections among seemingly indifferent partici -
+pants, the gaze of Kuro and of the residents was also decisive during the 
+observation. Kuro tried to engage in recreational activities in the same 
+way that a care professional would , by looking around at the people who 
+were closer to it. This was possible because Kuro was outfitted with a 
+camera and speakers, which allowed it to perceive the current situation 
+around it in a similar way that human eyes and ears do. The following is 
+an excerpt from the field notes during participant observations in April 
+2022. 
+Kuro, connected via a wireless connection to the TV screen, gave the 
+impression that it was paying attention to its surroundings by turning 
+its head to participants, in line with what a human instructor on a TV 
+screen was performing. [field notes] 
+It was apparent from the observation that although Kuro tried to look 
+at the people around it, the participants did not always look at the robot 
+or make eye contact with it and the majority of the participants ’ eyes 
+were, in fact, placed on the TV screen rather than the robot.8 The gaze of 
+Kuro was not met by the participants ’ gaze, which was difficult to 
+describe as an interactional, reciprocal, bi-directional gaze. It was un-
+clear whether this was due to the small size of the robot or the fact that 
+the explanations of the exercises to be performed were provided by the 
+video on the TV screen. 
+4.2.2. Pleasant but one-way communication between the robot and care 
+recipients 
+The theme of detachment was also found during the observation. 
+Certainly, some phrases mentioned above were heard from Kuro and 
+they were unquestionably meant to share emotions and make the robot 
+more pleasant and approachable. Nonetheless, neither OA facing the 
+loss of autonomy nor care professionals responded to the words Kuro 
+uttered. The following is an excerpt from the field notes during the 
+participant observation. 
+To get the rhythm going, the robot said ‘one, two, one, two’. Because 
+no one is speaking, its somewhat high-pitched, infantile voice stands 
+out in the room. [field notes] 
+One reason for this may be that Kuro ’s facial expressions remained 
+unchanged even when Kuro expressed emotions verbally. Kuro was 
+described in the promotional material as accompanying the recreational 
+activities through voice and words, but because of its one-way 
+communication, it was unclear how much the prospective users would 
+perceive that they were being accompanied (either by someone or by 
+something). 
+Ordinary conversations are frequently limited in group care facilities 
+among residents or between residents and care professionals, as in 
+hospitals and clinics. The following quotations from the reports show 
+expectations around the role robots play in communication. Ken even 
+hoped that Kuro ’s utterances would spark a conversation. It is apparent 
+from these quotations that, if communication is viewed as a means of 
+expressing emotions and relating to each other, an instrument expand -
+ing communication options is hoped for. 
+Next time, too, [if we can have] enough time for conversation, [it] 
+will make it [Kuro] more approachable DS03-G30 
+Kuro needs to be able to move around and interact with each person, 
+and everyone should be encouraged to respond during the rec [rec-
+reational activities] DS04-D42 
+Instead of Kuro indifferently presenting and answering questions, 
+[Kuro] should be used as a starting point for establishing a dialogue 
+(for example, what does this Chinese character mean? Tuna is the 
+8 It was a female instructor on the screen who explained exercises showing 
+actual body and hand gestures. Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+6answer. Do you enjoy tuna? Do you like sushi? Do you enjoy fishing? 
+[We should] enjoy various conversations while making the most of 
+the internet. DS04- D56, 
+F56 
+Spoken exchanges are usually based on verbal and mutual relations. 
+However, according to the report as well as the participant observation, 
+the robot struggled to establish them with humans. Both Ken and pro-
+spective users believed that a conversation with Kuro, which is claimed 
+to be a communication robot, would be effortless, probably considering 
+the ’prescribed’ relations outlined in 4.1. A situation was documented in 
+which a care professional as a prospective user cited the difficulty of 
+holding a conversation as one of the barriers to adopting Kuro, which 
+was also understood and shared by Ken. 
+The conversation [with Kuro] was not smooth; when users spoke 
+directly to Kuro, it did not receive an answer, and the dialogue was 
+conducted through the robot operator [Ken]. 
+[Ken’s response] As previously stated, Kuro found it difficult to 
+respond humanly, and it usually responds when the eyes are blue; 
+improvements are planned in the near future to enable seamless 
+dialogue. DS04-F609 
+This quotation illustrates that the difficulty of establishing verbal 
+and reciprocal relations between the robot and the human lies in the fact 
+that the human must speak when Kuro’s eyes are blue and modify his or 
+her way of talking in order for the robot to understand. The distinction 
+between such an attentional person and a person who requires long-term 
+care is significant because the latter frequently has communication 
+difficulties, particularly verbal communication due to hearing impair -
+ment. Since it was impossible for the robot to be adapted to the inter-
+locutor, it was nearly impossible for the robot to become an interlocutor. 
+The robot sought out familiar and everyday talks with residents, but 
+instead, there was one-way engagement from either side. 
+4.2.3. Mechanical and functional connections between the robot and care 
+professionals 
+One of the mechanical aspects of robots that automate recreational 
+activities is that they follow a programme, making it almost impossible 
+for them to adapt to the target audience. The duration of physical and 
+cognitive activity for each resident is highlighted as problematic in the 
+reports. 
+The following report quote from Ken’s point of view in May 2018 
+refers to how long people need to practise physical exercises. 
+[What we accomplished] was not merely a video recreation, but a 
+trial of Kuro’s presence (Kuro’s unique expression and space, as well 
+as its realization). However, continuing for more than 30 minutes 
+may be exhausting … DS03-F27 
+In addition, not taking into consideration the rhythm of a person’s 
+movement was also a concern. Both Kuro (with its dedicated service to 
+OA facing the loss of autonomy) and the instructor on the TV screen 
+were supposed to target them in LTCF, but there were still participants 
+who moved their bodies at a different, slower pace than the robot and 
+the instructor. Ken wrote in the report in replying to a care professional’s 
+comments on the difficultness of the exercises in the recreation: 
+(A)s long as we take into account previous trials, people with de-
+mentia cannot keep up with the exercises; it would be beneficial if 
+the pace of the exercises could be slowed. DS04-F64 
+Robots are frequently connected to a variety of other technological 
+objects. Although they can perform multiple roles and simulate human 
+behaviour, they need physical and technical connections to function. These links are usually established in material terms, yet they are often 
+considered problematic in specific situations. 
+While in most care settings, wheelchairs, walkers, and canes are 
+widespread, technical objects that consume energy and must be 
+recharged do not prevail, even though power plugs and cords are 
+commonplace in our daily activities as a result of technological 
+advancement and diffusion (such as personal mobile phones). Japanese 
+eldercare homes usually have at least one large-screen TV for enter -
+tainment, but adopting some other technical device such as a robot 
+appears quite a different matter and tricky. It is apparent from the 
+observation that the placement of a robot could affect care relationships 
+in which people go often from place to place, probably because a robot 
+could be placed in the middle of the space while a TV set usually cannot. 
+In the trial report, a care facility employee raised the following questions 
+after trial sessions carried out in March 2019. 
+The power outlet is in the way, and the feet [of caregivers] could get 
+mixed up with it, so it would be better if we could move the robot 
+using storage batteries (similar views were expressed at other facil-
+ities). DS08–23, F23 
+Technical issues, which may be considered minor in the first step, 
+can be perceived as a serious problem. When the person in charge of 
+caregiving breaks off the relationship with the person in need of care and 
+begins preparing to use the technology, it has an impact on the operation 
+of activities in care homes, particularly when bathing, eating, and other 
+activities take place at set times. Trial reports in June 2018 and January 
+2019 clearly showed the reasons for the difficulty of adopting the robot 
+in a day-service centre. 
+The time it took to start the rec [recreational activities], the impact 
+on work, and the fact that care is [provided] in time slots, and rec 
+[recreational activities], meals, bathing, and so on [are] arranged, so 
+the inability [for the robot] to start on time is a concern. DS-04, F58 
+(Kuro’s) recreation was occasionally cancelled because images could 
+not be displayed on a TV set (it [the TV] has an HDMI port, but data 
+distribution was not possible) DS06-F132. 
+5.Discussion 
+So far, we have displayed findings organised according to the re-
+lationships ‘prescribed’ in the design and ‘described’ throughout the 
+trial, through the methodological concept of ‘script’ [17–19]. As 
+mentioned in the theoretical background, relationality, in particular 
+positional asymmetry and temporal tensions, are crucial themes in the 
+studies of robots that adopt a ‘critical care’ approach [12,49,52]. Based 
+on this, the following section addresses the initial research questions, i.e. 
+how social robots shape social relations of care and how social robots 
+affect social relations between care professionals, care recipients and 
+robots, by focusing on positional and temporal aspects of the 
+relationships. 
+5.1. Relationship through positional aspects 
+First, this study showed that the robot’s script included establishing 
+interactions in care settings as a dialogue partner and a mood enhancer 
+to create a harmonious relationship and a sense of unity. Even though 
+the robot also unintentionally produced distance which was considered 
+uncomfortable by Ken, care recipients as well as care professionals 
+seemed to embrace the robot as a partner. A possible explanation for this 
+might be that recreational time in institutional care is related to the 
+notion of ‘activity’ and ‘participation’ rather than ‘body function and 
+structure’ as the health condition suggested in the International Classi -
+fication of Functioning, Disability and Health (ICF) by World Health 
+Organization [58]. This is in line with Pols and Moser’s findings that 
+older people sometimes have positive feelings towards robots [47]. The 
+observed non-refusal of both the caregiver and the care recipient may be 9 Ken said in the interview in May 2022 that no improvement were 
+implemented. Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+7accounted for by the symbolic positional asymmetry that inevitably 
+exists between caregivers and care recipients, as noted by care ethicists 
+[59], because accepting the robot as a partner may reduce the degree of 
+positional asymmetry for both parties by placing them in the same po-
+sition relative to the robot. 
+A second important finding is that everyone in the scene, including 
+residents and caregivers, was paying attention to the robot. Although 
+positioned as an assistant to the instructor on the TV screen, Kuro, as a 
+knowledgeable actor, takes a central rather than peripheral position 
+during light exercise. The nature of knowledge ranged from cognitive 
+quizzes or physical exercises, popular songs of yore, to historical events 
+(such as the Tokyo Olympics in 1964) that many people were familiar 
+with. This encyclopaedic knowledge favoured the robot’s central posi-
+tion as a mood enhancer, maybe leading to peaceful and pleasant re-
+lationships with actors in the scene of eldercare facilities. 
+At first glance, the presence of this apparent ‘helpful’ robot to 
+conduct collective activities seems to contradict Weber’s study [60], 
+which states that robots are usually designed to look helpless so that 
+they are easily accepted. Even though the robot does not look like one of 
+those artefacts ‘which are gender-stereotyped as helpless women’ [60], 
+this robot indeed looks somewhat ‘helpless’. While this robot looks 
+genderless like some models shown by Schiebinger et al. [61], it seems 
+to have been inspired by an infant because of its small size and its 
+high-pitched voice. The present study went a step further, revealing that, 
+despite its rather ‘helpless’ appearance, a helpful presence was assumed 
+given how the robot was used and therefore when the robot was placed 
+in front of the group of residents and care professionals, it became the 
+participants’ focal point. Care ethicists have recognised a similar posi-
+tional asymmetry that can be explained by placing the care receiver and 
+carer in a position that is either symbolically inferior or superior, with 
+the former frequently in a dependent state [59]. It should be highlighted 
+that our study has identified the symbolic and actual positions of the 
+centre and the peripheral, with the former, the robot in our study, 
+frequently drawing attention from the latter. 
+5.2. Relationship in temporal aspects, focusing on activities 
+The study found that the robot established a one-directional rela-
+tionship with care recipients by not adapting the duration and speed of 
+the exercises to the OA, causing problematic situations. Besides, the 
+robot’s script brought about functional relations with care professionals 
+and the robot preparations such as the robot’s material connections also 
+raised issues by influencing the time flow of the LTCF. The findings 
+confirm that providing care is first of all extremely context-dependent 
+activity [62–64]. Both problematic situations might not have been 
+viewed as such if the robot had gathered information about its own 
+context, specifically for whom [65] or where and with whom it was 
+doing what [66], rather than just acting on its own, based on its pro-
+gramme. It is all the more striking given that the definition of a robot 
+often refers to an intelligent mechanical system ‘with three technologies: 
+a sensor, an intelligence/control system, and a driving system’ [67], and 
+robots can be ‘viewed as socially helpful machines with three functions 
+of ‘feeling, thinking, and moving’’ respectively [68]. 
+These situations considered problematic support the view that the 
+time running through care practices is primarily subjective in nature and 
+cannot be measured, rather than objective time flow that can be 
+measured [16,55,69]. This is especially because OA in need of care in 
+LTCF can also be seen as an entity that, depending on the situation, can 
+experience a potentially very destabilising physical and cognitive con-
+dition, at a great, particular pace [70,71]. Thus, the reason why the 
+former situation of the robot’s inability to adapt was deemed problem -
+atic may be explained by the fact that the temporal dimension of the 
+robot dialogue was firmly based on objective and linear time. It was 
+difficult for the robot to reply depending on the time it takes for each 
+resident who could sometimes go through several phases of communi -
+cation. Of course, the robot might also foster this type of interaction through what Davis refers to as ‘process time,’ [16] or ‘kairological’ 
+time, a temporal aspect that is emphasised in care practices [69]. 
+Certainly, it is indeed possible for the robot to encourage the person to 
+spend less linear, more subjective time flow, as evidenced by the finding 
+where participants not only listened to Kuro’s chat about their youth but 
+also were prompted to engage in conversation around it, seemingly 
+losing track of time via the act of reminiscence. Kuro’s programmed chat 
+lasted only a few minutes, but the dialogues leading up to the narrative 
+of each participant began suddenly and were terminated somehow, with 
+no one noticing how long it lasted. Despite this, it should be noted that 
+the robot simply produced the ‘trigger’ that gave rise to the relationship 
+through process time, and the robot played a minor role on its own in 
+this relationship. This conflictual temporalities between the robot’s 
+linear and regular rhythm and the residents’ personal rhythm seem to be 
+consistent with the idea of the difficulties in ‘temporal alignment’ [50] 
+in socio-technical innovation and the idea of which rhythms adjust to 
+which (and whose rhythms to whose) [72]. 
+Furthermore, this study showed another nature of time in institu -
+tional care that flows through the rigorous schedule of carrying out 
+various, often physical, activities as suggested by the idea of measurable 
+and objective time flow in collective care [16,55].10 The second condi -
+tion of insufficient preparation for the robot was deemed problematic 
+probably because the time required to make the robot perform consisted 
+of, paradoxically, not straightforward, clear-cut time but compound 
+process time. This seems especially true for care professionals, because 
+of several back-and-forth steps to follow, which disrupted the linear time 
+of institutional care practice composed of several varied process time 
+related to each care act. One might propose that if there were no issues 
+with the robot’s preparation, there would exist a certain affinity in terms 
+of time flow between institutional long-term care considered routine and 
+the robot’s operations. However, this would be possible on the condition 
+that someone among care actors is ready to prepare, arrange and 
+manage the connection with the robot or to materially ‘take care of’ 
+robots [56,73], so that these actions do not conflict with the relationship 
+with the care receiver established in the process time. 
+5.3. Social relations and practices of care, affected by social robots, from 
+positional and temporal aspects 
+Even though these findings may be underpinned by the (constructed) 
+robot-friendly nature of Japanese culture [74] and therefore require 
+careful interpretation, it can be deduced from this that robots develop 
+relationships through positional and temporal elements of the re-
+lationships (Fig. 1). On the one hand, the robot was configured to 
+alternate between standing in the centre and aiming for an equal posi-
+tion as a dialogue partner. The robot was not designed to be placed in a 
+clear, observable position in a relationship. It was ‘inscribed’ into the 
+robot to build a relationship by freely adjusting the robot’s position 
+physically and symbolically. 
+On the other hand, it was also in the robot’s script to develop re-
+lationships in the execution of recreation and communication activities 
+through a relatively fast pace and regular rhythm. Certainly, the robot 
+was configured to occasionally provide some opportunities to create 
+social bonds between care professionals and care recipients through 
+slow and leisurely moments. However, the robot rarely generated 
+connectedness through the subjective and unpredictable rhythm in the 
+recreational activities aimed at meeting the residents’ socio- 
+psychological requirements. 
+It may come as a surprise that when care professionals were to set up 
+the robot for its function, they were unable to do so in a smooth time 
+10 This is also consistent with the view that modern labour stresses measurable 
+time and that such time is a central indicator of productivity that links labour 
+(action) and workers (people), with productivity being the dominant argument 
+for technology inclusion in care settings [85]. Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+8flow, and therefore constant and regular temporal elements in the re-
+lationships between the robot and the care professional were not 
+observed. However, in this situation, the robot occupied the position of 
+being ’cared for’ by the care professionals, establishing a relationship 
+with numerous stages of adjusting, connecting and modifying. This 
+seemed to necessitate almost a course of action for the care professional, 
+who currently lacks specialised expertise and experiential knowledge 
+compared to robot providers, meaning less linear time flow but more 
+processual time flow. Because an artefact ’s processual preparation time 
+was only marginally associated with one fragment of care procedures, 
+care professionals were unable to make room for it among other process 
+time flow of personal physical care especially. Although care practices 
+are already ‘problematic because it involves social interactions that 
+contain the potential for conflict ’ [75], this care arrangement with the 
+robot produced even more conflictual time flow in collective eldercare, 
+due to the excessively steady rhythm of the activity and the irregular and 
+unfamiliar time flow of the robot ’s maintenance. 
+Based on these findings, it seems obvious that the robot ’s incorpo -
+ration into care settings has caused even more difficulties in the tem-
+poral aspects of the relationships. As a result, it is possible to hypothesise 
+that the conditions for a robot ’s admission into this seemingly 
+straightforward but entangled care environment include not only 
+considering the relationality of care but also a malleable positional 
+relationship and a less observable and less predictable temporal 
+relationship. 
+6.Conclusion 
+The purpose of this paper was to contribute to the ongoing research 
+field on the use of socially assistive robots in eldercare settings. We have 
+argued that it is fruitful to look at the relationships between OA, their 
+caregivers and robots, by contrast to studies that focus on the individual scale. In order to understand human relationships with social robots in 
+eldercare homes, we have combined a ‘script ’ approach and a ‘critical 
+care’ one. Based on content analysis of a unique set of reports on trials of 
+a social robot in multiple care facilities in Japan from 2018 to 2020, as 
+well as interviews with stakeholders and ethnographic observations 
+conducted in 2022, we have tried to answer two questions: 1) how do 
+social robots shape social relations of care? 2) how do social robots affect 
+social relations between care professionals, care recipients and robots? 
+By analysing relationships ‘prescribed ’ in the design and ‘described ’ 
+throughout the trial and emphasising the positional and temporal as-
+pects of the care relation, we have obtained the following major result: 
+while robots are easier to adjust in terms of positionality because their 
+position is not defined, embedded clock time flow in the robot was 
+objective and linear, indicating that it was difficult to adjust in terms of 
+temporality. 
+However, the findings in this study are subject to some limitations. 
+First, the current study has mainly tackled the positional and temporal 
+aspects of the relationships focused on the robot, instead of care service 
+providers or recipients via the robot. It can only be speculated that, as 
+we briefly mentioned in the Discussion section, the robot ’s intervention 
+in conversation engagement may have sometimes increased the sense of 
+togetherness and solidarity in less asymmetrical relationships between 
+care providers and recipients as well as in less objective time flow. 
+Second, we have not sufficiently examined how power relation and 
+position are related to temporality in the case of technologies, as studies 
+in other settings identified the link between the temporal character of 
+actions and power in relationships [76].11 Third, given that care is a 
+selective form of attention, we could have addressed whether the social 
+Fig. 1.Two-axis analysis of positionality and temporality (and its degree).  
+11One classic study examining people in dominant positions and their tem-
+poralities is that of Bourdieu [86]. Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+9relations enacted by the robot cause some people or things to be 
+excluded [34,52], and if so, who and what things are excluded. Still, this 
+paper did not have the space to explore this topic. 
+Examining positional and temporal aspects of the relationships be-
+tween OA in need of care, their care provider, and the robot will help 
+identify the nature of their relationship and how it is affected by the 
+inclusion of robots. This should help to explain why robots are often 
+regarded favourably in studies at individual levels but not rated as such 
+at the level of social groups, in this case, care setting actors. A future 
+study investigating the interaction between OA in need of care and ro-
+bots striving to care, by considering these actors as relational entities 
+and focusing on their positionality and temporality in relationships, 
+would be insightful to explain the underutilization of, and consequent 
+resistance, to technologies. 
+CRediT authorship contribution statement 
+Yuko Tamaki Welply: Writing – review & editing, Writing – original 
+draft, Methodology, Formal analysis, Data curation, Conceptualization. 
+S˘ebastien Lechevalier: Writing – review & editing, Writing – original 
+draft, Methodology, Conceptualization. 
+Declaration of competing interest 
+The authors report no conflicts of interest relating to this study. 
+Data availability 
+The authors do not have permission to share data. 
+References 
+[1]United Nations, D. of E. and S. A., World Population Ageing 2019: Highlights, ST/ 
+ESA/SER.A/430), 2019 . 
+[2]S. Meeks, S. Fazio, D. Pace, B. Kallmyer, K. Maslow, S. Zimmerman, Alzheimer ’s 
+Association Dementia Care Practice Recommendations, 2018, pp. S1–S9, https:// 
+doi.org/10.1093/geront/gnx182 . 
+[3]Cabinet Office. (n.d.). Society 5.0. Retrieved 14 October 2022, from https://www8. 
+cao.go.jp/cstp/english/society5_0/medical_e.html (Accessed on 16 of October 
+2023). 
+[4]S. Lechevalier, Society 5.0 and new capitalism: complementarities and 
+contradictions, Asia Pacific Business Review 30 (2024) 467–484, https://doi.org/ 
+10.1080/13602381.2024.2320538 . 
+[5]C. Holroyd, K. Coates, Innovation Nation: Science and Technology in 21st Century 
+Japan (BNF), Palgrave Macmillan UK, 2007, https://doi.org/10.1057/ 
+9780230599451 . 
+[6]C. Care Work Foundation, Reiwa 2 nendo kaigo Rodo jittai chosa kekka hokokusyo 
+(results of the 2020 survey on the current situations of long-term care work at 
+workplaces in Japan). http://www.kaigo-center.or.jp/report/pdf/2021r01_chousa_ 
+jigyousho_kekka.pdf , 2020. (Accessed 8 October 2023). 
+[7]K. Obayashi, S. Masuyama, T. Ogata, Y. Okamoto, K. Tateno, T. Fudoda, S. Harada, 
+Y. Ishii, Does a communicative care robot in nursing homes improve older people ’s 
+activity performance? Non-randomised controlled trial using the icf framework, 
+Age Ageing 46 (2017), https://doi.org/10.1093/ageing/afx145.4 . 
+[8]K. Obayashi, N. Kodate, S. Masuyama, Socially assistive robots and their potential 
+in enhancing older people ’s activity and social participation, J. Am. Med. Dir. 
+Assoc. 19 (5) (2018) 462–463, https://doi.org/10.1016/j.jamda.2018.02.015 . 
+[9]T. Tamura, S. Yonemitsu, A. Itoh, D. Oikawa, A. Kawakami, Y. Higashi, 
+T. Fujimooto, K. Nakajima, Is an entertainment robot useful in the care of elderly 
+people with severe dementia? Journals of Gerontology Series A-Biological Sciences 
+and Medical Sciences 59 (1) (2004) 83–85. 
+[10] T. Shibata, K. Wada, Robot therapy: a new approach for mental healthcare of the 
+elderly – a mini-review, Gerontology 57 (4) (2011) 378–386, https://doi.org/ 
+10.1159/000319015 . 
+[11] S. Fox, C. Griffy-Brown, Ethical technology in society: technology in society 
+briefing, Technol. Soc. 72 (2023) 102209, https://doi.org/10.1016/j. 
+techsoc.2023.102209 . 
+[12] J.C. Tronto, Moral Boundaries: A Political Argument for an Ethic of Care, 
+Routledge, 1993 . 
+[13] M.E. Daly, ILO (International Labour Office), Care Work: the Quest for Security, 
+International Labour Office, 2001 . 
+[14] E.F. Kittay, The ethics of care, dependence, and disability, Ratio Juris 24 (2011) 
+49–58. 
+[15] J.C. Tronto, An ethic of care, Generations: Journal of the American Society on 
+Aging 22 (3) (1998) 15–20. [16] K. Davies, The tensions between process time and clock time in care-work: the 
+example of day nurseries, Time Soc. 3 (3) (1994) 277–303, https://doi.org/ 
+10.1177/0961463X94003003002 . 
+[17] M. Akrich, The description of technical objects, in: Shaping Technology/Building 
+Society. Studies in Sociotechnical Change, the MIT press, 1992, pp. 205–224. 
+[18] M. Akrich, B. Latour, A summary of a convenient vocabulary for the semiotics of 
+human and Nonhuman Assemblies, in: Shaping Technology/Building Society, 
+Studies in Sociotechnical Change, 1992, pp. 259–264. 
+[19] B. Latour, Where are the Missing Masses? The sociology of a few mundane artifacts, 
+in: Wiebe E. Bijker, Law John (Eds.), Shaping Technology/Building Society. Studies 
+in Sociotechnical Change, MIT Press, 1992, pp. 225–258. 
+[20] T.W. Bickmore, L. Caruso, K. Clough-Gorr, T. Heeren, ‘It’s just like you talk to a 
+friend ’ relational agents for older adults, Interact. Comput. 17 (6) (2005) 711–735, 
+https://doi.org/10.1016/j.intcom.2005.09.002 . 
+[21] M. Kanamori, M. Suzuki, M. Tanaka, Maintenance and improvement of quality of 
+life among elderly patients using a pet-type robot, Nippon Ronen Igakkai Zasshi. 
+Japanese Journal of Geriatrics 39 (2) (2002) 214–218, https://doi.org/10.3143/ 
+geriatrics.39.214 . 
+[22] K. Wada, T. Shibata, Social effects of robot therapy in a care house —change of 
+social network of the residents for two months, in: Proceedings 2007 IEEE 
+International Conference on Robotics and Automation, 2007, https://doi.org/ 
+10.1109/ROBOT.2007.363156 . 
+[23] M. Kanamori, M. Suzuki, H. Oshiro, M. Tanaka, T. Inoguchi, H. Takasugi, Y. Saito, 
+T. Yokoyama, Pilot study on improvement of quality of life among elderly using a 
+pet-type robot, Proceedings 2003 IEEE International Symposium on Computational 
+Intelligence in Robotics and Automation. Computational Intelligence in Robotics 
+and Automation for the New Millennium (Cat. No.03EX694) 1 (2003) 107–112, 
+https://doi.org/10.1109/CIRA.2003.1222072 . 
+[24] K. Wada, T. Shibata, Robot therapy in a care house —its sociopsychological and 
+physiological effects on the residents, in: Proceedings 2006 IEEE International 
+Conference on Robotics and Automation, 2006. ICRA 2006, 2006, pp. 3966 –3971, 
+https://doi.org/10.1109/ROBOT.2006.1642310 . 
+[25] K. Wada, T. Shibata, Living with seal robots —its sociopsychological and 
+physiological influences on the elderly, IEEE Trans. Robot. 23 (2007) 972–980, 
+2007 . 
+[26] K. Wada, T. Shibata, T. Saito, K. Tanie, Effects of robot assisted activity to elderly 
+people who stay at a health service facility for the aged, Proceedings 2003 IEEE/ 
+RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. 
+No.03CH37453) 3 (2003) 2847 –2852, https://doi.org/10.1109/ 
+IROS.2003.1249302 , 3. 
+[27] W. Moyle, C.J. Jones, J.E. Murfield, L. Thalib, E.R.A. Beattie, D.K.H. Shum, S. 
+T. O’Dwyer, M.C. Mervin, B.M. Draper, Use of a robotic seal as a therapeutic tool to 
+improve dementia symptoms: a cluster-randomized controlled trial, J. Am. Med. 
+Dir. Assoc. 18 (9) (2017) 766–773, https://doi.org/10.1016/j.jamda.2017.03.018 . 
+[28] W. Moyle, C. Jones, J. Murfield, L. Thalib, E. Beattie, D. Shum, B. Draper, Using a 
+therapeutic companion robot for dementia symptoms in long-term care: reflections 
+from a cluster-RCT, Aging Ment. Health 23 (3) (2019) 329–336, https://doi.org/ 
+10.1080/13607863.2017.1421617 . 
+[29] J. Pirhonen, L. Lolich, K. Tuominen, O. Jolanki, V. Timonen, “These devices have 
+not been made for older people ’s needs ” – older adults ’ perceptions of digital 
+technologies in Finland and Ireland, Technol. Soc. 62 (2020) 101287, https://doi. 
+org/10.1016/j.techsoc.2020.101287 . 
+[30] Y.-H. Wu, V. Cristancho-Lacroix, C. Fassert, V. Faucounau, J. de Rotrou, A.- 
+S. Rigaud, The attitudes and perceptions of older adults with mild cognitive 
+impairment toward an assistive robot, J. Appl. Gerontol. 35 (1) (2016) 3–17, 
+https://doi.org/10.1177/0733464813515092 . 
+[31] T. Turja, S. Taipale, M. Niemel a, T. Oinas, Positive turn in elder-care workers ’ 
+views toward telecare robots, International Journal of Social Robotics 14 (4) 
+(2022) 931–944, https://doi.org/10.1007/s12369-021-00841-2 . 
+[32] A. Peine, L. Neven, From intervention to Co-constitution: new directions in 
+theorizing about aging and technology, Gerontol. 59 (1) (2019) 15–21, https://doi. 
+org/10.1093/geront/gny050 . 
+[33] A. Peine, L. Neven, The co-constitution of ageing and technology – a model and 
+agenda, Ageing Soc. 41 (12) (2021) 2845 –2866, https://doi.org/10.1017/ 
+S0144686X20000641 . 
+[34] S. Brodersen, M. Hansen, H. Lindegaard, Script of healthcare technology: do 
+designs of robotic beds exclude or include users? Des. Issues 31 (2) (2015) 16–28. 
+[35] R.A. Søraa, P. Nyvoll, G. Tøndel, E. Fosch-Villaronga, J.A. Serrano, The social 
+dimension of domesticating technology: interactions between older adults, 
+caregivers, and robots in the home, Technol. Forecast. Soc. Change 167 (2021) 
+120678, https://doi.org/10.1016/j.techfore.2021.120678 . 
+[36] S. Frennert, H. Aminoff, B. Ostlund, Technological frames and care robots in 
+eldercare, International Journal of Social Robotics 13 (2) (2021) 311–325, https:// 
+doi.org/10.1007/s12369-020-00641-0 . 
+[37] A. Mol, I. Moser, J. Pols, Care in Practice: on Tinkering in Clinics, Homes and 
+Farms, transcript Verlag, 2010 . 
+[38] L. Neven, ‘But obviously not for me’: robots, laboratories and the defiant identity of 
+elder test users, Sociol. Health Illness 32 (2) (2010) 335–347, https://doi.org/ 
+10.1111/j.1467-9566.2009.01218.x . 
+[39] D. L˘opez G˘omez, Little arrangements that matter. Rethinking autonomy-enabling 
+innovations for later life, Technol. Forecast. Soc. Change 93 (2015) 91–101, 
+https://doi.org/10.1016/j.techfore.2014.02.015 . 
+[40] J. Pols, Towards an empirical ethics in care: relations with technologies in health 
+care, Med. Healthc. Philos. 18 (1) (2015) 81–90, https://doi.org/10.1007/s11019- 
+014-9582-9 . Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      
+Technology in Society 77 (2024) 102559
+10[41] J. Pols, D. Willems, Innovation and evaluation: taming and unleashing telecare 
+technology, Sociol. Health Illness 33 (3) (2011) 484–498, https://doi.org/ 
+10.1111/j.14679566.2010.01293.x . 
+[42] E.L. Hsu, A. Elliott, Y. Ishii, A. Sawai, M. Katagiri, The development of aged care 
+robots in Japan as a varied process, Technol. Soc. 63 (2020) 101366, https://doi. 
+org/10.1016/j.techsoc.2020.101366 . 
+[43] N.C.M. Nickelsen, J. Simonsen Abildgaard, The entwinement of policy, design and 
+care scripts: providing alternative choice-dependency situations with care robots, 
+Sociol. Health Illness 44 (2) (2022) 451–468, https://doi.org/10.1111/1467- 
+9566.13434 . 
+[44] B. Lipp, Robot drama: investigating frictions between vision and demonstration in 
+care robotics, Sci. Technol. Hum. Val. (2022) 01622439221120118, https://doi. 
+org/10.1177/01622439221120118 . 
+[45] M. Winance, Care and disability, in: A. Mol, P. Moser, J. Pols (Eds.), Care in 
+Practice. On Tinkering in Clinics, Homes and Farms, vol. 2010, Transcript, 2010, 
+pp. 93–117. 
+[46] M. Winance, Mobility in wheelchairs: bodily adjustment and practical 
+arrangements within the social and physical space, Politix 90 (2) (2010) 115–137. 
+[47] J. Pols, I. Moser, Cold technologies versus warm care? On affective and social 
+relations with and through care technologies, Alter 3 (2) (2009) 159–178, https:// 
+doi.org/10.1016/j.alter.2009.01.003 . 
+[48] B. Latour, We have Never Been Modern (C. Porter, Trans.), Harvard University Press, 
+1993 . 
+[49] M. Puig de la Bellacasa, Matters of Care: Speculative Ethics in More than Human 
+Worlds, University of Minnesota Press, 2017 . 
+[50] M. Puig de la Bellacasa, Making time for soil: Technoscientific futurity pace of care, 
+Soc. Stud. Sci. 45 (5) (2015) 691–716. 
+[51] C.J. Preston, F. Wickson, Broadening the lens for the governance of emerging 
+technologies: care ethics and agricultural biotechnology, Technol. Soc. 45 (2016) 
+48–57, https://doi.org/10.1016/j.techsoc.2016.03.001 . 
+[52] A. Martin, N. Myers, A. Viseu, The politics of care in technoscience, Soc. Stud. Sci. 
+45 (5) (2015) 625–641. 
+[53] A.K. Sen, Equality of what? in: McMurrin (Ed.), Tanner Lectures on Human Values 
+Cambridge University Press, 1979, pp. 197–220. 
+[54] A. Sen, Inequality Reexamined, Russell Sage Foundation ; Harvard University 
+Press, 1992 . 
+[55] J. Wright, Robots Won ’t Save Japan, Cornell University Press, 2023 . 
+[56] M. Chevallier, Staging Paro: the care of making robot(s) care, Soc. Stud. Sci. (2022) 
+03063127221126148, https://doi.org/10.1177/03063127221126148 . 
+[57] A. Strauss, J. Corbin, Basics of Qualitative Research: Techniques and Procedures 
+for Developing Grounded Theory, SAGE PUBLICATIONS, 2014 . 
+[58] World Health Organization, Towards a Common Language for Functioning, 
+Disability and Health ICF, World Health Organisation, Geneva, 2002 . 
+[59] E.F. Kittay, 6. The relationality and the normativity of an ethic of care, in: 6. The 
+Relationality and the Normativity of an Ethic of Care, Columbia University Press, 
+2018, pp. 120–141, https://doi.org/10.7312/ivan18298-009 . 
+[60] J. Weber, Helpless machines and true loving care givers: a feminist critique of 
+recent trends in human robot interaction, J. Inf. Commun. Ethics Soc. 3 (4) (2005) 
+209–218, https://doi.org/10.1108/14779960580000274 . 
+[61] Schiebinger, L., Klinge, I., Paik, H. Y., S˘anchez de Madariaga, I., Schraudner, M., 
+and Stefanick, M. (Eds.). (2011-20). Gendered Innovations in Science, Health & 
+Medicine, Engineering, and Environment. genderedinnovations.stanford.edu. 
+[62] M. Bessin, C. Gaudart, Les temps sexu˘es de l’activit ˘e: La temporalit ˘e au principe du 
+genre ? Temporalit ˘es, Revue de sciences sociales et humaines 9 (2009), https://doi. 
+org/10.4000/temporalites.979 . Article 9. 
+[63] A. DeFalco, Towards a theory of posthuman care: real humans and caring robots, 
+Body Soc. 26 (3) (2020) 31–60, https://doi.org/10.1177/1357034X20917450 . 
+[64] Y. Okano, Bridging the gap between the ethics of care and sociology of welfare: 
+through ontology and social theory of care, Journal of welfare sociology 12 (2015) 
+39–54 [in Japanese] . [65] S.L. Star, Power, technology and the phenomenology of conventions: on being 
+allergic to onions, in: J. Law (Ed.), A Sociology of Monsters: Essays on Power, 
+Technology, and Domination, Routledge, 1991 . 
+[66] S. Laugier, Le sujet du care: Vuln ˘erabilit ˘e et expression ordinaire, in: P. Molinier, 
+S. Laugier, P. Paperman (Eds.), Qu’est-ce que le care ?: Souci des autres, sensibilit ˘e, 
+responsabilit ˘e. Payot, 2009, pp. 159–200. 
+[67] MHLW (Ministry of Health, Economy and Industry of Japan), Promoting the 
+development and diffusion of care robots, https://www.mhlw.go.jp/stf/seisakun 
+itsuite/bunya/0000209634.html (Accessed on 22 of September 2023). 
+[68] Y. Crume, Japan ’s assistive devices revolution to promote independence for older 
+people, ILC-Japan (2018) [in Japanese], https://www.ilcjapan.org/study/doc/b 
+_2018.pdf . 
+[69] M. Bessin, Pr˘esences sociales: Une approche ph˘enom ˘enologique des temporalit ˘es 
+sexu˘ees du care, Temporalit ˘es. Revue de sciences sociales et humaines 20 (2014), 
+https://doi.org/10.4000/temporalites.2944 . Article 20. 
+[70] J.M. Gilliard, M. Marshall, J. McKillop, Time for Dementia: A Collection of Writing 
+on the Meanings of Time and Dementia, Hawker Publications Ltd, 2010 . 
+[71] F. Gzil, La maladie du temps. Sur la maladie d’Alzheimer, Presses Universitaires de 
+France, 2014. Cairn.info, https://www.cairn.info/la-maladie-du-temps–97821306 
+21430.htm . 
+[72] S.J. Jackson, D. Ribes, A. Buyuktur, G.C. Bowker, Collaborative rhythm: temporal 
+dissonance and alignment in collaborative scientific work, in: Proceedings of the 
+ACM 2011 Conference on Computer Supported Cooperative Work, 2011, 
+pp. 245–254, https://doi.org/10.1145/1958824.1958861 . 
+[73] B. Lipp, Caring for robots: how care comes to matter in human-machine 
+interfacing, Soc. Stud. Sci. 53 (5) (2023) 660–685, https://doi.org/10.1177/ 
+03063127221081446 . 
+[74] M.S. Kim, E.J. Kim, Humanoid robots as ‘The Cultural Other ’: are we able to love 
+our creations? AI Soc. 28 (3) (2013) 309–318, https://doi.org/10.1007/s00146- 
+012-0397-z . 
+[75] B. Fisher, J. Tronto, Towards a feminist theory of care, in: Circles Of Care, State 
+Univ. of New York Press, 1990, pp. 35–62. 
+[76] M. Darmon, D. Dulong, E. Favier, Time and power, Actes de la recherche en 
+sciences sociales 226227 (1) (2019) 6–15. 
+[77] S. Brucksch, F. Schultz, Ageing in Japan. Domestic healthcare technologies. A 
+qualitative interview study on care robots, monitoring sensor systems, and 
+ICTbased telehealth systems. https://www.dijtokyo.org/wpcontent/uploads/2018 
+/09/Final_Report-30.08.2018.pdf , 2018. 
+[78] H.S. Sætra, The foundations of a policy for the use of social robots in care, Technol. 
+Soc. 63 (2020) 101383, https://doi.org/10.1016/j.techsoc.2020.101383 . 
+[79] V. Tiberius, R. Gojowy, M. Dabi ˘c, Forecasting the future of robo advisory: a three- 
+stage Delphi study on economic, technological, and societal implications, Technol. 
+Forecast. Soc. Change 182 (2022) 121824, https://doi.org/10.1016/j. 
+techfore.2022.121824 . 
+[80] X.-J. Lim, J.Y.-S. Chang, J.-H. Cheah, W.M. Lim, S. Kraus, M. Dabi ˘c, Out of the way, 
+human! Understanding post-adoption of last-mile delivery robots, Technol. 
+Forecast. Soc. Change 201 (2024) 123242, https://doi.org/10.1016/j. 
+techfore.2024.123242 . 
+[81] J.P. Boada, B.R. Maestre, C.T. Genís, The ethical issues of social assistive robotics: a 
+critical literature review, Technol. Soc. 67 (101726) (2021), https://doi.org/ 
+10.1016/j.techsoc.2021.101726 . 
+[82] L. Lind˘en, D. Lydahl, Editorial: care in STS, Nordic Journal of Science and 
+Technology Studies (2021) 3–12, https://doi.org/10.5324/njsts.v9i1.4000 . 
+[83] S. Lechevalier. Innovation beyond technology: Science for society and 
+interdisciplinary approaches, Springer, 2019 . 
+[84] UNESCAP (Economic and Social Commission for Asia and the Pacific), Long-term 
+care of older persons in Japan. https://www.unescap.org/resources/long-term-ca 
+reolder-persons-japan , 2016. (Accessed 16 October 2023). 
+[85] H. Hirata, P. Zarifian, Travail (le concept de), in: H. Hirata, F. Laborie, H. Le Doar ˘e, 
+D. Senotier (Eds.), Dictionnaire critique du f˘eminisme, PUF, 2000, pp. 230–235, 
+coord . 
+[86] P. Bourdieu, M˘editations Pascaliennes, Seuil, 1997 . Y. Tamaki Welply and S. Lechevalier                                                                                                                                                                                                      

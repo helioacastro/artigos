@@ -1,0 +1,416 @@
+Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis
+Journal for Technology Assessment in Theory and Practice
+22RESEARCH ARTICLE
+Careful handling of marine plastic litter :
+Technology assessment and care
+Sarah Maria Schönbauer*, 1
+Abstract Waste is a core concern of today’s societies. A prominent ex-
+ample is marine plastic litter, which has devastating impacts on ocean
+ecosystems. But: How can technology assessment (TA) support a careful
+handling of plastic waste in the sea? And what can care concepts con-tribute to the practice of TA in this context? In this article, I show that
+care concepts can help understand the complexity of waste manage-
+ment as well as the environments involved, regulation processes, andtechnical innovations. Moreover, care concepts could beneﬁt TA practiceby sensitizing it not only to cultural, regional, and global concerns, but
+also to the distribution of responsibility and marginalization processes.
+Sorgsamer Umgang mit marinem Plastikmüll : Technikfolgen-
+abschätzung und Fürsorge
+Zusammenfassung Abfall ist ein zentrales Problem der heutigen Ge-
+sellschaft. Ein prominentes Beispiel ist der Plastikmüll in den Meeren,
+der verheerende Auswirkungen auf die Ökosysteme der Ozeane hat. Aber:
+Wie kann Technikfolgenabschätzung (TA) einen sorgsamen Umgang mitPlastikmüll im Meer unterstützen? Und was können Fürsorge-Konzepte
+dabei zur TA-Praxis beitragen? In diesem Artikel zeige ich, dass Kon-
+zepte der Fürsorge helfen können, die Komplexität der Abfallproblema-tik sowie die damit verbundenen Umwelten, Regulierungsprozesse und
+technischen Innovationen zu verstehen. Darüber hinaus könnten die-
+se Konzepte nützlich für die TA-Praxis sein, indem sie sie für kulturelle,regionale und globale Belange, aber auch für die Verteilung von Verant-wortung und Marginalisierungsprozesse sensibilisieren.
+Keywords global TA, care, plastic waste, marine litter
+*Corresponding author: sarah.schoenbauer@tum.de
+1Department of Science, Technology and Society, TU München, Munich, DE
+2025 by the authors; licensee oekom. This Open Access article is published
+under a Creative Commons Attribution 4.0 International Licence (CC BY).
+https:/ /doi.org/10. 14512/tatup.7170
+Received: 16. 08. 2024; revised version accepted: 13. 01. 2025; published online: 21. 03. 2025
+(peer review)This article is part of the Special topic “Practices and concepts of care in
+sustainability transformations: Critical perspectives in technology as-
+sessment,” edited by S. Hackfort, J.-L. Reinermann, and D. Gottschlich.
+https:/ /doi.org/10.14512/tatup.7173
+Introduction
+Waste is a core concern in today’s societies. One example for
+waste is waste in the ocean. The marine area has gained promi-
+nence lately as part of the UN Ocean Decade which started in2021. Marine waste, also called marine litter or marine debris,
+consists of variously sized objects, such as ropes, bottles, cans,
+ﬁsh nets and plastic and microplastic particles, the latter rep-resenting a substantial fraction of marine waste. Marine litterﬂoatsanddriftsaround–seeminglyendlesslyasitissubmerged
+and diluted within the vastness of the deep oceans – before it
+ends upin thedeepsea orontheshorelines. Thus,marine litteris not conﬁned to one area but dispersed throughoutthe oceans
+on earth, creating a global problem. At the same time, marine
+litterisnotalwaysnecessarilyvisibletohumansasasubstantialamount resides in spaces largel y inaccessible to human inter-
+vention, such as the deep sea. In this article, I highlightmarine
+plastic litter, a material which has undoubtedly risen to somefameinthelastdecadeandargue,thatcarecanserveasatoolintechnologyassessment(TA)practicetoreﬂectonthecomplexity
+ofglobalenvironmentalproblems.Hereis why:
+Estimations claim thattheglobalhuman-mademass of plas-
+ticexceedsthelivingbiomassbydouble(Elhachametal.2020).
+These and other estimations (report from World Economic Fo-
+rumetal.2016)havebroughtplasticintoaquestionablelimelightof attention and characterized it as remnant of socio-technicalinnovation. Plastic objects are produced as part of a promising
+innovationandarepartofavarietyofinfrastructuresandrelated
+practices,fromhouseholditemstomobilitytechnologies.Atthesametime,plasticobjectsoftenenduponlandﬁlls,inriversand
+lastbutnotleast,inthesea.Onceinwaterordeepinsoil,plastic
+ishardifnotimpossibletotraceorrecycle.Forexample,assoonas plastic litter enters the marine environment, it interacts with
+the marine ecosystem and marine life. It is often ingested by
+·Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis 34/1 (2025): 22–27  ACCESS
+SPECIAL TOPIC · PRACTICES AND CONCEPTS OF CARE IN SUSTAINABILITY TRANSFORMATIONS
+23marinelifeorentangledwithit,forexamplewhenropesorpack-
+ages lead to physical harm or when small plastic particles exert
+ecotoxicological eﬀects due to leaching its components. Based
+onthis,leadingmarinescientistshaveframedmarineplasticlit-ter as a coreglobalenvironmentalproblem(Napper et al.2021;Bergmann et al. 2015). Similarly, societal stakeholders, non-
+governmental organizations, policy makers and citizen groups
+identiﬁedmarine plastic litteras highlyproblematic.This prob-lematization has led to political incentives and to a plethora of
+technological innovations focused on cleaning the ocean, rivers
+and streams. ‘Horizon’, the European Union’s Research and In-novation Magazine featured some technological innovations in2022, among them cleaning robots for picking up waste on the
+shorelines, cleaning technologies for big and small plastic ob-
+jects or mobile application for the detection of litter (Willmer2022).Butalthoughtechnicalinnovationsforcombatingmarine
+litterareassessed(Bellouetal.2021),itstillneedstobeﬁgured
+out which solutions might work best and for whom and where,who are the societal stakeholdersthat care aboutmarine plastic
+litterandhowthiscan bedoneinaglobalmanner.
+All these contexts make marine litter an important case for
+TApracticeanditsfocusonpoliticaldecision-makingprocesses,enabling a broad societal discourseon technical innovation and
+theireﬀects,amongthemforexamplethroughparticipatorypro-
+cessesincludingdiﬀerentsocietalstakeholdergroups(Grunwald2002). This is even more so for TA practice that explicitly dis-
+cusses human-made problems on a global scale (Böschen et al.
+2021;Hennenetal.2023).Theglobaldimensionofmarineplas-tic litter also resembles otherwaste debates, amongthem in TA
+practice and its concern with nuclear waste (Töpfer and Ufer
+2019; Hansson 2022), concerns that involve various stakehold-ers dealing with environmental concerns. The global characterof marine litter, its diﬀerent forms and formats and its presence
+in diﬀerent ecosystems such as the ocean surface or the deep
+sea,as well as its diﬀerent sources,howevercreate a conceptualchallenge,thatIsuggestcanbetackledwiththeconceptofcare.
+Ia s k :
+How can technology assessment scholars care for
+marine plastic litter and what can care concepts add to
+technology assessment practices?
+I highlight care as my conceptual take for the enrichment of
+TApracticesbythinkingalongthecomplexityofmarineplastic
+litter, eﬀorts for its regulation and socio-technical innovations
+for its removal. Speciﬁcally, I argue that a focus on care canbe particularly fruitful for TA practice that focusses on global
+environmentalproblems suchas marine plasticlitter. Care con-Leadingmarinescientistshaveframedmarineplasticlitter
+asacoreglobalenvironmentalproblem.cepts are capable of attending to marginalized places, spaces
+and voices (Puig de la Bellacasa 2010, 2011, 2015) and allow
+to thinkabout“everythingthat we do tomaintain, continueand
+repair ‘our world’ so that we can live in it as well as possible”(Tronto 1993, p. 103). Attending to care is insofar relevant, asthe ocean is currently featured as carbon storage space crucial
+for humankind and its survival. This scenario is however only
+possiblewithanoceanthatisnotconstantlypollutedandindan-gerbutanoceanthatisresilient.Newtechnologicalinnovations,
+global alliances and policy measures for a less polluted ocean
+will needtobereﬂected onbyTAscholarsinthefuture.
+Conceptualizations of care
+Carerepresentsacoreconcerninmanysocialsciencedisciplines.
+Prominent scholars, such as Mol (2008), Moser and Pols (Mol
+etal.2010)andPuigdelaBellacasa(2010;2011),havebroughtthenotionof‘care’intothecenterofinterestindiﬀerentcommu-
+nities,amongthemScienceandT echnologyStudies,ascientiﬁc
+communityon whosework I largely draw on.Aprime example
+of work on care and its conceptual impact is that of Puig de laBellacasa who demands an understandingof care that allows to
+see“howthingswouldbediﬀerentiftheygeneratedcare”(2011,
+p.96).Incallingforaspeculativecommitmentfor“situatedandpositionedvisionsofwhataliveableandcaringworldcouldbe”
+(2011, p. 96), she calls for engagementbeyondnormativeinter-
+ventionsandawarenessforoppressedandneglectedexperiencesthatcreate oppositionalpositions.Thereby, PuigdelaBellacasa
+aims to unpack relationships alonga focus onmarginalized and
+excluded voices, in order to “not only (to) expose or reveal in-visible labors of care, but also to generate care” (2011, p. 94).In this sense, care not only allows to analyze care practices but
+also unpacks who engages in care practices, who is left out or
+marginalized.Appliedtothecaseofmarinelitter,theconceptofcarecanopenupwhatoftenstayshidden,suchastheoccurrence
+of marine litter in diﬀerent spaces, the deep sea or the ocean
+surface,spacesthatneeddiﬀerentinterventionsandregulations.Moreover,marinelittercomesindiﬀerentshapesandsizeswhilerepresenting afundamentalglobalphenomenon.Hence,afocus
+oncare can notonlymonitorwhois aﬀectedbutalsowhocares
+and how. This speculative commitmentcould then re-orient re-search onand technologicalinnovationsto combatmarine litter
+asitcouldunpackthecomplexityofmarinelitter.
+Next to this conceptual sensitivity, Murphy (2015, p. 721)
+characterizescarealongfourmainmeanings:“[F]irst,itrefersto
+thestateof beingemotionallyattachedto orfondofsomething;
+https://doi.org/10.14512/tatup.7170 ·Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis 34/1 (2025): 22–27
+SPECIAL TOPIC · PRACTICES AND CONCEPTS OF CARE IN SUSTAINABILITY TRANSFORMATIONS
+24second, it means to provide for, look after, protect, sustain, and
+be responsible for something; third, it indicates attention and
+concern,tobecareful,watchful,meticulous,andcautious;while
+its fourth meaning [...] is to be troubled, worried, sorrowed,uneasy, and unsettled.” Taking up Murphy’s characterization ofcare, Ihavepreviouslydevelopedthenotion environmentalcare
+(Schönbauer2024),aconceptthatallowstounderstandcare for
+environmental changes on individual and collective level basedon the premises of emotional attachment, responsibility, atten-
+tion and concern as well as the worries and uneasiness that
+environmental harm invokes for those studying them and thoseaﬀected by it. In thissense, care can providea speculative com-mitment for aﬀectedness, for relationships with an empirical
+concern, for researcher responsibility and attentiveness towards
+aglobalphenomenonandits complexramiﬁcations.
+Marine plastic litter as a concern for TA
+Since marine plastic litter is a global problem that cannot beconﬁnedinplacenortime,itsglobalcharacterresonateswithre-centcalls from TAscholars,namelythatTApracticeconcernedwith environmental problems needs a global agenda. Böschen
+andcolleagues(2021)identifytheneedtoaccountfortheglobal
+dimensionsand complexityofglobalhuman-madeproblemsasacorechallengeforTApractice. Hennenandcolleagues(2023)
+also argue that the inherent global characters of many current
+problems call for international connection to reﬂect on techno-
+logical innovations. The need for international connection that
+TA scholars argue for, is tangible for example in political reg-ulation processes for marine plastic litter. The identiﬁcation of
+marine areas in need of protection already happened in 1974,
+when theUnitedNations EnvironmentProgramme(UNEP) haslaunchedaRegionalSeasProgrammeinordertoprotectmarineandcoastalenvironments.Thisprogrammebroughttogethervar-
+ious stakeholders and also addressed marine litter. Later on in
+2022, UNEP adopted a resolution to develop a legally bind-ing mechanism to stop plastic pollution, the so-called ‘Plastics
+Treaty’, a resolution which was considered a break-through for
+thefutureoftheocean(UNEP 2022).
+ConnectedtotheneedforglobalalliancesinglobalTA,Hahn
+andLadikas(2021)callfornewconceptualandmethodological
+approaches thatassisttheneed for “urgentglobalcoordination”
+and“identify,assess,discussandregulatetheimpacts(e.g.soci-etal,environmental,ethicalorlegal)”oftechnologicalinnovation
+(Hennen et al. 2023, p. 5). I argue that care can serve as a tool
+inTApracticetoreﬂectthecomplexityofglobalenvironmentalproblems. Care can for example help to make sense of marine
+plasticlitterspeciﬁcities,suchasitsinaccessibilityinsomeareasCarecanprovideaspeculativecommitment foraﬀectedness.and its occurrence in diﬀerent shapes and sizes, but it can also
+help tounderstandthediﬃculties ofregulatory processesin the
+marine area. In the following, I will attend to some aspects of
+marineplasticlitterthatshowcaseitscomplexityandhowitcanbeunderstoodwith care.
+Marine plastic litter: a complexity
+Marine plastic litter often resides in spaces that are not imme-diately accessible for humans. Objects dis- and re-appear from
+theglobalecosystemandtravelintimeandspacewithaninher-
+entthere-but-not-therequality.Aprominentexampleformarineplastic litter is the Great Paciﬁc Garbage patch, a huge accu-mulation of marine litter in the Paciﬁc. It is a space that is out
+of reach for most humans while full of marine life and plastic
+objects.DeWolﬀ(2014)hasforexampleshownhowmarinelifeusesplasticobjectsashabitatintheopensea.Fishandotheran-
+imalsﬁndshelterintheseobjectsandsmallplasticobjectstravel
+withthem.Atthesametime,plasticlitterhastoxicandharmfuleﬀects on this ocean sphere. Based on the entangled nature of
+marine plastic litter and marine life, Bergmann (2019) has ar-
+guedthat care isa crucial conceptto thinkwith. Care can meanto relieve the ocean ecosystem from an anthropogenic markerwhen removing plastic litter. Yet, care can also result in marine
+life being denied an infrastructure that it got used to. Thinking
+with care then means to focus on the relationships that marineplastic littercreates withmarine life.
+Connected to care for marine life and litter entanglements,
+carecanalsoopenupaﬀectedness.Thinkingalongmarineplas-
+tic litter with care needs to take into account human and more-
+than human entities, both being aﬀected diﬀerently by plasticobjects. If taking into account marine life and its entanglement
+withmarineplasticlitteraswellasenvironmentsoutofhuman-
+inhabitedworlds,carecanmeantofocusonaﬀectednessbeyondhuman-centered interpretations (Lindén and Lydahl 2021), animportant reframing for environmental problems. Thereby, TA
+scholarscan attendtoemotionalattachment,protectionandres-
+ponsibility,attentionandconcern,butalsotakeintoaccountwhois being troubled and worried by the presence of marine plastic
+litter. This shift in focus could serve TA practitioners to attend
+to the complexity of aﬀected marine life, to the relations beingmade. Marine plastic litter then results as a complexity ratherthanisolatedproblem.
+Connected to these sensibilities is the existence of marine
+plasticlitterondiﬀerentscales:smallandbig.Considerablepro-portions of marine plastic litter exist invisibly as microplastics
+(Thompsonetal.2004;Liboiron2019;Bergmann2021).While
+slowly breaking down to microscopic size, plastic residues ofvarious origins become not only invisible, but also untraceable
+and descend to considerable oceanic depths. Meanwhile, big
+·Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis 34/1 (2025): 22–27 https://doi.org/10.14512/tatup.7170
+SPECIAL TOPIC · PRACTICES AND CONCEPTS OF CARE IN SUSTAINABILITY TRANSFORMATIONS
+25plastic objects can potentially be removed from the ocean, al-
+though only in extremely costly undertakings (Galgani et al.
+2010). An example for this is the Ocean Cleanup, an organiza-
+tion featuring a technologicaldeviceinventedby a team aroundDutchentrepreneurBoyanSlat(TheOceanCleanup2024).Thisapproach has been criticized by marine scientists based on the
+entanglement of marine life with marine waste and the lack of
+discrimination between individualplasticobjects andthosethatareinhabitedbymarinelife. Whilesuchtechnoﬁxescontainthe
+illusionofre-gainedpurity,theycomeatprofoundcostswhennot
+includingamorethanhumanreﬂexivity.Thereby,marineplasticlitteralso challengesWesternconceptsofpollution,speciﬁcally
+those of repair and purity (Shotwell 2016; Liboiron 2016) and
+demandsdiﬀerentformsoftechnologicalinnovationbeyondhu-man-centered imaginationsonan environmentalproblem.
+These sensibilities connect to arguments in global TA that
+urge TA practice to move beyond traditional Western concepts.
+For one, Ely and colleagues (2011, p. 21) state, that TA has tobecomemore“transnational,networked,virtualandﬂexible”in
+ordertostayattentivetoglobalenvironmentalproblemsandthat
+Western concepts do not necessarily ﬁt into every cultural andregional context. On the other hand, Hahn and Ladikas (2021)similarly formulate a main challenge for globalTA: to dedicate
+worktonationalaswellasglobalcontextsandregionalconcerns.
+Oneexamplewhenthinkingwithcarealongmarineplasticlitteristheattentiontowardsdiﬀeringculturalpractices.Forexample,
+plastic waste can land on shorelines andbe consideredaestheti-
+cally distortive,thereby becomingpart of puriﬁcation measuressuchasbeachcleanups.Atthesametime,plasticcontainerscan
+beusedwithextremecare,suchasinhouseholdpractices,when
+theyarerepurposedtocontainfoodsourcesandtherebycreatingsocio-material conﬁgurations and novel relational possibilities(Dey and Michael 2021). Thinking with care can open up a re-
+ﬂection on plastic objects in relation to powerful asymmetrical
+relationships, those created by international commodity chainsand international and national waste infrastructures. Thinking
+with care also allows to reﬂect on marine plastic litter and its
+diﬀerentforms,formatsandinhabitedenvironmentsandtherebyhighlight the relations plastic objects build before entering theocean, when landing on the shorelines, or when residing in in-
+accessibleoceanicdepths.
+Marine plastic litter and regulation
+Connectedtomarineplasticlitteranditscomplexities,TAprac-
+titioners and care scholars argue, that marginalized voices andcommunities often stay invisible but might be aﬀected most,
+such as by residues of waste. An example for an event whichThinkingwithcarethenmeanstofocusontherelationships
+thatmarineplasticlitter createswithmarinelife.took into accountmarginalized voices is the ﬁfth session of the
+UN Environment Assembly (UNEA-5.2) which took place in
+March 2022. UNEA-5.2 was historic insofar as it was the ﬁrst
+step towards creating a binding agreement for the regulation ofplasticwaste–includingthemarinearea.Laterin2022,amulti-stakeholderforumwas being implemented,includingscientists,
+ﬁnance sector representatives, civil society groups, indigenous
+people and youth representatives. This also resonates with thewritten resolution published in March 2022 stating the impor-
+tancetorecognize“workersininformalandcooperativesettings
+tothecollecting,sortingandrecyclingofplasticsinmanycoun-tries”(UNEP 2022,p.3), suchas wastepickers,islandcommu-
+nities and ﬁsheries. The involvement of marginalized voices is
+symbolic for how waste resembles a global matter yet needs tobe reﬂected along regional and cultural contexts. For example,it is crucial to highlight the diﬀerent contexts of aﬀected com-
+munities. Fishers working on the shorelines are economically
+dependent on their profession and the well-being of ﬁsh habi-tat, while waste pickers are exposed to toxic chemicals when
+caring for inland recycling infrastructures, often informal ones
+(Schlitz 2020).Andisland communitiesare particularly vulner-able to marine plastic litter (Lachmann et al. 2017) as they arechallenged with its ecological eﬀects, are dependent on coastal
+tourism or limited in their prevention strategies. Hence, emo-
+tional attachments vary as well as measures for protection, res-ponsibility distributions and how the diﬀerent communitiesare
+troubledandby what.
+Along these diﬀerences, the negotiation processes of
+UNEA-5.2 oﬀers insights into the challenge to include societal
+stakeholders along their diﬀerent aims. For example, Melanie
+Bergmann,aGermanmarinescientist,attendedthefourthmeet-inginOttawainspring2024.Shenarratedthediﬃcultyofinclud-ingthewholelifecycleofplastics,suchasderivativesandchem-
+icals, into regulation practice and the importance yet marginal-
+ization of voices from scientiﬁc communities (Bergmann n.d.).Hence, not only aﬀected communities but also those research-
+ing the impact of marine plastic litter are challenged for their
+expertise being heard. This is also based on the diﬀerent keymotivationstotackleplasticpollutiondependentonagendapri-oritizationsfromsocietalstakeholders,posingchallengesforthe
+development of a binding instrument (Knoblauch and Meder-
+ake 2024). Hence, there is no uniﬁed interpretation of care formarine plastic litter yet. Related to this struggle, TA scholars
+arguethatdiﬀerentformsofexpertiseneedtobeaccounted,that
+diﬀerentstakeholdersandsocialgroupsneedtobeincludedandthatreﬂexivityneedstobeeﬀectivelyintegratedinTAprocesses
+(Ladikas and Stamm 2023). A focus on care can add to this
+https://doi.org/10.14512/tatup.7170 ·Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis 34/1 (2025): 22–27
+SPECIAL TOPIC · PRACTICES AND CONCEPTS OF CARE IN SUSTAINABILITY TRANSFORMATIONS
+26reﬂexivity and help understand whose voice (and research) is
+marginalized and which stakeholders remain absent from envi-
+ronmentalregulation processes.
+Anotherdimensionoftenleftasideistheaﬀectivedimension.
+As “attentive experimentation” (Mol et al. 2010, p. 13), careopens up a feministstandpointof sociotechnical issues, as they
+demand a particular “thinkpolitics” (Puig de la Bellacasa 2011,
+p. 94) that includes a socio-political diagnosis of the aﬀectivedimension.Highlightingtheaﬀectivedimensionmeanstofocus
+on an “aﬀectively charged sensibility characterized by worry,
+attentiveness, and thoughtfulness” (Martin et al. 2015, p. 629).This sensibilitycan then mean toengage closely with neglectedtoxinsandinvisiblechemicalresiduesleachingfromplasticlitter
+asproposedbythescientists,orincludingvoicesofnon-govern-
+mental organizations and communities of local ﬁsheries withdiﬀering worries. It also means to take into account and relate
+regional, national and international concerns and foster future
+meetings and regulation practices that include various societalstakeholders, showcase their expertise, but also their (varying)
+environmentalconcerns.
+Conclusion
+I have started by asking: How can TA scholars care for marine
+plastic litter and what can care concepts add to TA practices?
+I argue, that marine plastic litter demands a notion of care that
+takes into account diﬀerent voices, spaces, times, governanceregimes, policies, regional, national and international contexts.Marineplasticlitteralsodemandsasensitivitytoitsappearance
+in diﬀerent forms, formats and spaces, its large inaccessibility
+and invisibility but also its omnipresence, characteristics thatmake regulation processes and just technological innovations
+diﬃcult.
+I have shown that thinking with care on this matter allows
+to understand the complexities of an environmental problem,
+suchasmore-thanhumanrelationships,there-deﬁnitionofpol-
+lution in the omnipresence of plastic objects, and aﬀectednessin and marginalization of socialgroups. A focus on care is thusimportant to understand technologicalinnovations that promise
+to tackle marine plastic litter, in order to see whom they help,
+whose voices and concerns they leave out. This could for ex-ample mean to challenge current plastic production processes
+anddemandpoliciesforjustandeﬀectivecleaningtechnologies
+(Bergmann et al. 2023)or to think aboutalternative productin-novationandtorethinkcommoditychains.Thinkingwithcareisalso important regarding regulation practices and aﬀected com-
+munities and to reﬂect on the potential selective attention that
+regulation processes bring with. I argue, thatintegrating care asconceptual tool responds to the call for conceptual enrichment
+in TA practice of how we can best attend to the socio-techni-
+cal challenges of future times (Böschen and Dewald 2018). Anenvironmental care for marine plastic litter could open up “the
+complexities of caring in turbulent times with regards to po-tential catastrophic events lingering in the future and cases of
+destructionor variable harmthatreside inthepastand present”
+(Schönbauer 2024, p. 18). Reﬂecting with care and focusing
+onenvironmental care could assist TA practitioners by helping
+to sensitize TA practice towards emotional attachment, respon-sibility, attention and concern and environmental uneasiness,
+core characteristics of care that open up “neglected experiences
+thatcreateoppositionalstandpoints”(PuigdelaBellacasa2011,p.96).
+It seems imperativefor globalenvironmentalproblems to be
+reﬂected alongcare conceptsandanalyzenegotiationprocesses,marginalizedandpresentactors,butalsothedistributedrespon-sibilities, aﬀectedness and worries that they bring with. This is
+all the more important in view of the global nature of marine
+plastic litter and the debates on environmentaljustice at global,international, nationalandregionallevel.
+Funding This work received no external funding.
+Competing interests The authors declare no competing interests.
+References
+Bellou, Nikoleta et al. (2021): Global assessment of innovative solutions to tackle
+marine litter. In: Nature Sustainability 4 (6), pp. 516–524. https:/ /doi.org/10.1038/
+s41893-021-00726-2
+Bergmann, Melanie (n.d.): En route to a global UN agreement against the plastic
+ﬂood. Available online at https:/ /www.awi.de/en/focus/marine-litter/un-plas
+tics-treaty.html, last accessed on 31.01.2025.
+Bergmann, Melanie; Gutow, Lars; Klages, Michael (eds.) (2015): Marine anthropogenic
+litter. Cham: Springer. https:/ /doi.org/10.1007/978-3-319-16510-3
+Bergmann, Melanie et al. (2023): Moving from symptom management to upstream
+plastics prevention. The fallacy of plastic cleanup technology. In: One Earth 6
+(11), pp. 1439–1442. https:/ /doi.org/10.1016/j.oneear.2023.10.022
+Bergmann, Sven (2019): Die Sorge um verwickelte Dinge von Belang. Plastik im Ozean
+und im Alltag. In: Beate Binder et al. (eds.): Care. Praktiken und Politiken der
+Fürsorge. Leverkusen: Budrich, pp. 247–262. https:/ /doi.org/10.2307/j.ctvg5bt2t.17
+Bergmann, Sven (2021): Dawn of the plastisphere. An experiment with unpredictable
+effects. In: Trisia Farrelly, Sy Taffel and Ian Shaw (eds.): Plastic legacies. Pollution,persistence, and politics. Athabasca: Athabasca University Press, pp. 79–100.
+Böschen, Stefan; Dewald, Ulrich (2018): TA als Kontextualisierungsexpertise. Zwischen
+einfachem und reﬂexivem Modus. In: TAT uP - Journal for Technology Assessment
+in Theory and Practice 27 (1), pp. 34–39. https:/ /doi.org/10.14512/tatup.27.1.34
+Böschen, Stefan; Grunwald, Armin; Krings, Bettina-Johanna; Rösch, Christine (eds.)
+(2021): Technikfolgenabschätzung. Handbuch für Wissenschaft und Praxis. Baden-
+Baden: Nomos Verlag.
+De Wolff, Kim (2014): Gyre plastic. Science, circulation and the matter of the Great
+Paciﬁc Garbage Patch (Dissertation). San Diego, CA: University of California. Avail-
+able online at https:/ /escholarship.org/content/qt21w9h64q/qt21w9h64q_no
+Splash_b1fea94f663b391f3a7ece6aa12a4f77.pdf, last accessed on 31.01.2025.
+Dey, Tridibesh; Michael, Mike (2021): Plastic possibilities. Contrasting the uses of plas-
+tic ‘waste’ in India. In: Anthropology Today 37 (3), pp. 11–15. https:/ /doi.org/10.
+1111/1467-8322.12652
+Elhacham, Emily et al. (2020): Global human-made mass exceeds all living biomass.
+In: Nature 588 (7838), pp. 442–444. https:/ / doi.org/10.1038/s41586-020-3010-5
+·Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis 34/1 (2025): 22–27 https://doi.org/10.14512/tatup.7170
+SPECIAL TOPIC · PRACTICES AND CONCEPTS OF CARE IN SUSTAINABILITY TRANSFORMATIONS
+27Ely, Adrian; Van Zwanenberg, Patrick; Stirling, Andrew (2011): New models of technol-
+ogy assessment for development. Sussex: University of Sussex. Available online
+at https:/ /hdl.handle.net/10779/uos.23383811.v1, last accessed on 31.01.2025.
+Galgani, Francois et al. (2010): Marine strategy framework directive. Task group 10
+report marine litter. Luxembourg: Ofﬁce for Ofﬁcial Publications of the Euro-pean Communities. Available online at https:/ /mcc.jrc.ec.europa.eu/documents/
+201406241437.pdf, last accessed on 31.01.2025.
+Grunwald, Armin (2002): Technikfolgenabschätzung. Eine Einführung. Berlin: edition
+sigma.
+Hahn, Julia; Ladikas, Miltos (2021): Auf dem Weg zu Global Technology Assessment.
+In: Böschen et al. (eds.) Technikfolgena bschätzung. Handbuch für Wissenschaft
+und Praxis. Baden-Bade n: Nomos, pp. 457–466.
+Hansson, Sven (ed.) (2022): Editorial. In: TATuP - Journal for Technology Assessment
+in Theory and Practice 31 (3). https:/ /doi.org/10.14512/tatup.31.3.3
+Hennen, Leonhard et al. (2023): Technology assessment in a globalized world. Facing
+the challenges of transnational technology governance. Cham: Springer. https:/ /
+doi.org/10.1007 /978-3-031-10617-0
+Knoblauch, Doris; Medera ke, Linda (2024): The missing consensus. An analysis of
+problem deﬁnitions and key motivations in the ﬁrst zero draft for a global plas-
+tics treaty. In: Cambridge Prisms: Plastics 2 (22), pp. 1-12. https:/ /doi.org/10.1017/
+plc.2024.29
+Lachmann, Florina et al. (2017): Marine plastic litter on Small Island Developing States
+(SIDS). Impacts and measures. Gothenburg: Swedish Institute for the Marine En-
+vironment. https:/ /doi.org/10.13140/RG.2.2.16168.37121
+Ladikas, Miltos; Stamm, Andreas (2023): Technology assessment in a multilateral
+science, technology and innovation system. In: Leonhard Hennen et al. (eds.):
+Technology assessment in a globalized world. Facing the challenges of transna-
+tional technology governance. Cham: Springer, pp. 31–50. https:/ /doi.org/10.1007/978-3-031-10617-0_3
+Liboiron, Max (2016): Redeﬁning pollution and action. The matter of plastics. In:
+Journal of material culture 21 (1), pp. 87–110. https:/ /doi.org/10.1177/135918351562
+2966
+Liboiron, Max (2019): Waste is not “matter out of place”. In: Discard Studies, 09.09.
+2019. Available online at https:/ /discardstudies.com/2019/09/09/waste-is-not-
+matter-out-of-place/, last accessed on 31.01.2025.
+Lindén, Linda; Lydahl, Doris (2021): Care in STS. In: Nordic Journal of Science and
+Technology Studies 9 (1), pp. 3-12. https:/ /doi.org/10.5324/njsts.v9i1.4000
+Martin, Aryn; Myers, Natasha; Viseu, Ana (2015): The politics of care in technoscience.
+In: Social Studies of Science 45 (5), pp. 625–641. https:/ /doi.org/10.1177/0306312715602073
+Mol, Annemarie (2008): The logic of care. Health and the problem of patient choice.
+New York, NY: Routledge.
+Mol, Annemarie; Moser, Ingunn; Pols, Jeannette (2010): Care in practice. On tinker-
+ing in clinics, homes and farms. Bielefeld: transcript. https:/ /doi.org/10.1515/
+transcript.9783839414477
+Murphy, Michelle (2015): Unsettling care: Troubling transnational itineraries of care in
+feminist health practices. In: Social Studies of Science 45 (5), pp. 717–737. https:/ /
+doi.org/10.1177/0306312715589136
+Napper, Imogen; Pahl, Sabine; Thompson, Richard (2021): Marine litter. Are there so-
+lutions to this global environmental problem? In: Trisia Farrelly, Sy Taffel and
+Ian Shaw (eds.): Plastic legacies. Pollution, persistence, and politics. Athabasca:Athabasca University Press, pp. 25–40. htt ps:/ /doi.org/10.152 15/aupress/97817719
+93272.01
+Puig de la Bellacasa, María (2010): Ethical doings in naturecultures. In: Ethics Place
+and Environment 13 (2), pp. 151–169. https:/ /doi.org/10.1080/13668791003778834
+Puig de la Bellacasa, María (2011): Matters of care in technoscience. Assembling ne-
+glected things. In: Social Studies of Science 41 (1), pp. 85–106. https:/ /doi.org/10.
+1177/0306312710380301
+Puig de la Bellacasa, María (2015): Making time for soil. Technoscientiﬁc futurity and
+the pace of care. In: Social Studies of Science 45 (5), pp. 691–716. https:/ /doi.org/
+10.1177/0306312715599851
+Schlitz, Nicolas (2020): Environmental change and the informal plastic recycling net-
+works of Kolkata. In: Singapore Journal of Tropical Geography 41 (3), pp. 450–467.https:/ /doi.org/10.1111/sjtg.12324
+Schönbauer, Sarah (2024): Environmental care. How scientists relate to environmen-
+tal changes. In: Minerva, pp. 1-21. https:/ /doi.org/10.1007/s11024-024-09538-y
+Shotwell, Alexis (2016): Against purity. Living ethically in compromised times. Min-
+neapolis, MN: University of Minnesota Press.
+The Ocean Cleanup (2024): The largest cleanup in history. Available online at https:/ /
+theoceancleanup.com, last accessed on 31.01.2025.
+Thompson, Richard et al. (2004): Lost at sea. Where is all the plastic? In: Science 304
+(5672), p. 838. https:/ /doi.org/10.1126/science.1094559
+Töpfer, Klaus; Ufer, Ulrich (2019): Globale Umweltpolitik. Interview mit Klaus Töpfer.
+In: TATuP – Journal for Technology Assessment in Theory and Practice 28 (2),
+pp. 64–68. https:/ /doi.org/10.14512/tatup.28.2.s64
+Tronto, Joan (1993): Moral boundaries. A political argument for an ethic of care. New
+York, NY: Routledge. https:/ /doi.org/10.4324/9781003070672
+UNEP – United Nations Environment Programme (2022): UNEA resolution 5/14 enti-
+tled “End plastic pollution. Towards an international legally binding instrument”.Available online at https:/ /nicholasinstitute.duke.edu/sites/default/ﬁles/plastics-policies/50011_I_2022_UNEA_5.1 4.pdf, last accessed on 31.01.2025.
+World Economic Forum; Ellen MacArthur Foundation; McKinsey & Company (2016):
+The new plastics economy. Rethinking the future of plastics. Available online athttps:/ /www.ellenmacarthurfoundation.org/the-new-plastics-economy-rethink
+ing-the-future-of-plastics, last accessed on 31.01.2025.
+Willmer, Gareth (2022): Beach bots, sea ‘raptors’ and marine toolsets mobilised to
+get rid of marine litter. In: Horizon – The EU Research & Innovation Magazine,
+09.02.2022. Available online at https:/ /projects.research-and-innovation.ec.euro
+pa.eu/en/horizon-magazine/beach-bots-sea-raptors-and-marine-toolsets-mobilised-get-rid-marine-litter, last accessed on 31.01.2025.
+DR. SARAH MARIA SCHöNBAUER
+is teaching and researching at the Technical Universityof Munich since 2022. She focusses on the social andpolitical dimensions of (micro)plastics and is part of
+the DFG funded researcher network ‘Waste in Motion’.
+During her Erwin Schrödinger fellowship (FWF Austria),she started researching marine sciences and how
+scientists relate to environmental changes.
+https://doi.org/10.14512/tatup.7170 ·Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis 34/1 (2025): 22–27

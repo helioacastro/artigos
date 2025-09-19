@@ -1,0 +1,670 @@
+Citation: Rodríguez-Espinosa, T.;
+Pérez-Gimeno, A.; Almendro-Candel,
+M.B.; Navarro-Pedreño, J.
+Constructing Soils to Mitigate Land
+Occupation by Urban Expansion and
+Metabolism to Improve Healthy
+Cities. Land 2024 ,13, 1383.
+https://doi.org/10.3390/
+land13091383
+Academic Editors: Kleomenis
+Kalogeropoulos, Andreas Tsatsaris,
+Nikolaos Stathopoulos, Demetrios
+E. Tsesmelis, Nilanchal Patel and
+Xiao Huang
+Received: 24 July 2024
+Revised: 20 August 2024
+Accepted: 27 August 2024
+Published: 28 August 2024
+Copyright: ©2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+land
+Review
+Constructing Soils to Mitigate Land Occupation by Urban
+Expansion and Metabolism to Improve Healthy Cities
+Teresa Rodr íguez-Espinosa
+ , Ana P érez-Gimeno
+ , Mar ía Bel én Almendro-Candel
+ and Jose Navarro-Pedreño *
+Department of Agrochemistry and Environment, University Miguel Hern ández of Elche, 03202 Elche, Spain;
+maria.rodrigueze@umh.es (T.R.-E.); aperez@umh.es (A.P .-G.); mb.almendro@umh.es (M.B.A.-C.)
+*Correspondence: jonavar@umh.es
+Abstract: The number of city residents worldwide is increasing at the same that soil consumption
+around cities, which can be mitigated using technosols. Urban areas need to provide a healthy
+environment for residents, but this is threatened by climate change. Mitigating the adverse impacts
+of climate change does not involve one-size-fits-all global solutions; cities face varying economic and
+social contexts. Cities need to offer ecosystem services in order to operate as healthy urban ecosystems.
+The urban soils’ environmental services are often overlooked, leading to public administrations
+having little to no awareness about land management policies and ecosystem services. Technosols,
+artificial or human altered soils, have the potential to provide the same ecosystem benefits as natural
+soils and do not require as much time to develop in order to perform their functions. Additionally,
+technosols have the potential to enhance the circular economy using waste materials. In this sense,
+policy makers should incorporate urban technosols as a strategy to enhance the health of cities and
+address climate change. Our perspective on soils in urban areas needs to be altered, as technosols
+should be included in urban policies, have the potential to serve as a crucial component in providing
+ecosystem services and acting as a carbon sink and enhance urban well-being.
+Keywords: ecosystem services; soil sealing; urban environments; urban well-being; zero wastes
+1. Introduction
+Population is increasing and, at the same time, the increment of urban inhabitants
+along the world is growing. Today, some 56% of the world population (4.4 billion inhabi-
+tants) are living in cities and the projection given by the World Bank is that 7 of 10 people
+will live in cities by 2050 [ 1]. Changes in the size of human population as well as changes
+in the activity of sectors such as transport and tourism may lead to urban expansion and
+infrastructure construction [ 2]. The expansion of cities is basically built consuming soils
+in peri-urban areas affecting soils with greater agricultural potential [ 3]. Cities typically
+adhere to a disperse or compact land use model centered around a core area, often based
+on topography and transportation routes, among other considerations (Figure 1). In huge
+cities, a polyhedric model is conformed based on the same premises, considering several
+cores. Nickayin et al. [ 4] indicated that an inverse relationship between land take intensity,
+and soil and climate quality indexes, provides evidence that compact and dense settlements
+can be considered a more sustainable urban growth model than discontinuous, dispersed
+settlements. In general, there is an agreement that compact and dense urban areas are
+critical in combating climate change and inequality [ 5]. One of the reasons may be that soil
+consumption is reduced as well as urban sprawling, leaving free land that can exercise its
+environmental functions.
+Urban areas are characterized by the need of resources and the production of wastes,
+which is basically known as urban metabolism. Derrible et al. [ 6] defined urban metabolism
+as it is fundamentally an accounting framework whose goal is to quantify the inflows,
+outflows, and accumulation of resources (such as materials and energy) in a city. However,
+Land 2024 ,13, 1383. https://doi.org/10.3390/land13091383 https://www.mdpi.com/journal/land
+Land 2024 ,13, 1383 2 of 14
+it is important to attend to the wastes generated and soil consumption. In fact, people
+living in urban areas have the same necessities that those living everywhere: clean air,
+safe water, enough food and other materials, energy and land. Urban systems exchange
+materials both among the components of the system and between the system and its
+external environment [ 7]. The material impact of global urbanization was estimated from
+40 billion tons in 2010 to 90 billion tons by 2050 [ 8]. As a consequence, many resources are
+required for future urbanization. Analyses of an urban metabolism and its sustainability
+must therefore consider the utilization of energy and materials within a hierarchy of spatial
+scales [ 9]. Urbanization is not the only challenge; However, the movement of people and
+goods between cities and the infrastructure necessary for this mobility are also important.
+All of them are associated with land consumption in urban, peri-urban and inter-urban
+areas.
+Figure 1. Compact versus disperse land occupation.
+The supply of resources to urban areas is a complex task, because it is necessary an
+uninterrupted supply of energy, materials and water that produce a great impact, favoring
+climate change, mostly in disperse cities (i.e., by road transport). The activities that take
+place in or around cities consume about 75 per cent of global primary energy and emit
+between 50 and 60 per cent of the world’s total greenhouse gases [ 10]. As mentioned above,
+cities have to tend to be compact and reduce energy consumption to combat the negative
+effects of climate change, in a future scenario in which great urban development is expected.
+As previous reports indicated [ 9,10], hierarchized, compacted and organized cities can
+help to mitigate greenhouse emissions, favored the internal mobility and reduce energy
+consumption.
+However, cities should be a safe and healthy area for their inhabitants, and this
+is mostly based on a healthy environment. The design of urban environments and the
+interventions in urban fabrics should be achieved through the application of an integrated
+and multisectoral, multistakeholder approach, guided by policy frameworks that ensure
+that human and environmental health go hand in hand [ 11]. Herick de Sa et al. [ 11]
+indicated that identifying key challenges and opportunities for interventions is crucial
+to improve the health and wellbeing gains of urban dwellers and reducing exposure to
+stressors, shocks, and hazards, while also contributing to fostering wellbeing and reducing
+health inequalities. The environmental factors in a community significantly impact its
+residents, affecting their well-being and access to resources. Furthermore, this significantly
+impacts the promotion of sustainable practices relying on local resources.
+Many strategies can be adopted to reduce the impact of cities and their growth,
+diminishing the carbon and water footprint and adapting cities for climate change. Among
+them, local food supply, reduction of water consumption, the increment of the use of public
+Land 2024 ,13, 1383 3 of 14
+transport systems and implementation of renewable energy sources are considered as major
+topics, among others. However, it is very important to contextualize each area, looking for
+the synergies with the environment and considering critical the land occupation.
+This concept of synergy represents an important step to increase and facilitate our
+adaptation. It is very common to identify the complementarity of human activities with
+land resources to indicate that the actions can be done accepting low impact and being
+sustainable. This approach considers that the solutions to mitigate climate change are not
+global solutions because every region or country starts from very different economic and
+social situations. As they have limited availability of resources, energy, water, food . . ., it
+is necessary to know the regional geographical context [ 11,12]. Nevertheless, it is almost
+obligatory to look for synergies between human activities and the environment to have
+success. Complementarity, is not sufficient to address the existing and projected impacts of
+climate change, especially in the land use and management. Thus, climate policy should
+start looking at the next possibility, synergy, which has often been overlooked or sometimes
+confused with complementarity [ 13]. Synergy favors the win-win strategies, which are
+basic for sustainable social, economic and environmental development. Furthermore, it
+is a way to promote the comprehensive development of the territory. Lack of adaptation
+action is costly. Currently, it is about economically quantifying the effects of not adopting
+climate change adaptation policies [ 14]. In the same way, the cost of caring for diseases
+derived from living in unhealthy environments is studied. Cities must offer such healthy
+environments.
+A healthy city should be able to supply resources and wellbeing to the inhabitants.
+Apparently, the way forward is for cities to function as healthy urban ecosystems that
+provide ecosystem services. When humanity is considered a part of nature, cities themselves
+can be regarded as a global network of ecosystems [ 15]. The need for clean air, optimal
+urban hydrological cycles that store water as a key resource and the improvement in
+the production and use of energy, with the implementation of renewable energies, are
+fundamental tasks that must be incorporated into municipal policies. Furthermore, they
+must be assumed by citizens and required of administrations. Nonetheless, it seems
+to be a common trend in both developed and developing nations that environmental
+services within city limits are often overlooked or neglected in urban, regional, and national
+policies. The environmental benefits provided by urban soils are often overlooked by public
+administrations, leading to a lack of awareness about policies concerning land management
+and ecosystem services. Because of their growing significance, urban planners should
+view soils as valuable assets. Indeed, soils are expected to be multifunctional to ensure
+sustainable development of human societies and to resist major environmental issues [ 16].
+Soils are a one of the keys to mitigate climate change, as it is recognized by many
+international administrations and organizations [ 17,18]. It is well known that natural soils
+offer ecosystem services [ 19] in the four major categories: provisioning, regulating, cultural
+and supporting services [20,21].
+The development of a natural soil needs a lot of time, although it is variable, depend-
+ing on environmental conditions and forming factors. It is mentioned that in optimum
+conditions and a mild climate, it takes between 200–400 years to form 1 cm of new soil, and
+that’s if you don’t try to grow anything in it. In wet, tropical areas soil formation is faster;
+here you can create 1 cm in a mere 200 years and soil profile has a low development [ 22]. It
+is therefore clear that soil loss is a serious problem and we must implement solutions that
+limit this issue.
+All life on Earth depends on the top 20 cm of soil, and we are losing soil at an alarming
+rate [ 22]. With urban expansion projected to increase in the coming years, soil in urban
+and peri-urban areas will be depleted due to occupation and sealing. Urban areas are
+unprepared to support and enhance natural soils despite planning strategies shifting
+towards promoting the inclusion of green infrastructures. With the objective of making
+cities healthy, the role of soils is critical to keep healthy environments. For instance, less
+vegetated surfaces lead to a decrease in evaporative cooling, whilst an increase in surface
+Land 2024 ,13, 1383 4 of 14
+sealing results in increased surface runoff [ 23]. It is essential to seek out policies that can
+supply soil for urban areas, delivering ecosystem services. From this perspective, the
+European Union’s policies regarding land are advancing in several aspects that will be key
+for the future. Among them the following stand out by 2050: (a) all EU soil ecosystems
+are healthy and more resilient and can therefore continue to provide their crucial services,
+(b) there is no net land take and soil pollution is reduced to levels that are no longer harmful
+to people’s health or ecosystems, (c) protecting soils, managing them sustainably and
+restoring degraded soils is a common standard [24].
+The urban growth and city metabolism consume soil [ 8], sprawling the urban area and
+most of the times sealing soils, provoking changes transforming soils from a natural state
+to an anthropized, under unsustainable policies [ 2]. Urban environments cannot naturally
+develop soils due to the lengthy time required for the process. So, new strategies should be
+applied to recover land urban ecosystems based on soil. Urban areas must restore the health
+of city soils and their capabilities and functions. It is essential to consider the development
+of technosols in urban areas to resemble natural soils because of the difficulty of the task. It
+is crucial to comprehend the operation and application of designed and custom-made soils,
+technosols, with several types of materials, in urban areas to function as natural soils.
+In this work, we highlight the need to increase functional soils in urban areas, which
+can offer environmental services and generate healthier cities for citizens. The strategy
+presented is to promote the implementation of technosols, based on our experience and
+recent literature, as well as on the initiatives that have been put into practice by various
+international organizations in the last decade, soils built with a specific purpose or purposes,
+adapted to the environment where they will operate and based on the use of residual
+materials, uncontaminated wastes, produced during urban metabolism and the supplied
+materials for the development of the cities.
+In this article, technosols are described, starting for their current and prospective
+recognition in the main soil classification systems, considering that soils have a key role
+in the environment. Moreover, they are presented as a tool that can help to mitigate
+climate change and promote the incorporation into urban planning policies, under the main
+strategies derived from main international organizations and specially from the European
+Union. However, it is important to keep natural soils, warnings about soil’s exhaustion
+and endangered ecology raise concerns marked by fears of gloomy environmental futures,
+prompting scientists and soil practitioners urgently to develop better ways of taking care of
+soils [25].
+2. What Is a Technosol?
+Several materials have the ability to partially perform some of the functions of soils,
+i.e., inert materials supporting plants in a hydroponic system, others that can supply
+nutrients for plant development via slow release like some fertilizers, etc., but they should
+not be considered like a soil. However, when we are talking about technosols, we refer to
+a substrate that is functioning as a natural soil, keeping all the functionality, but it has a
+strong human influence. Technosols were defined by the presence of technogenic materials,
+or artefacts, which are substances made or strongly altered by human activities, like bricks,
+concrete, and steel mill sludge, or brought to the surface, like excavated bedrock [26].
+These can be done mixing diverse materials or can be the result of several human
+processes that change the surface of the Earth, for instance, accumulating artifacts or wastes.
+In fact, a technosol has or can be made by different materials in such a manner that they
+can work as a natural soil. However, this general concept must be qualified, considering
+the most important soil classification systems. In fact, considering the World Reference
+Base (WRB) for Soil Resources in the last review of 2022 [ 27], technosols formed as a group
+of soils that accomplished with the characteristics mentioned in the Table 1.
+Land 2024 ,13, 1383 5 of 14
+Table 1. Key to the Reference Soil Groups: Technosols in the WRB.
+Other Soils:
+1. with all of the following:
+a. one or both of the following:
+i. having ≥20% (by volume, weighted average, related to the whole soil)
+artefacts in the upper 100 cm from the soil surface or to a limiting layer,
+whichever is shallower; or
+ii. having a layer, ≥10 cm thick and starting ≤50 cm from the soil surface,
+with≥80% (by volume, weighted average, related to the whole soil) artefacts;
+and
+b. not having a layer containing artefacts that qualifies as an argic, duric, ferralic, ferric,
+fragic, hydragric, natric, nitic, petrocalcic, petroduric, petrogypsic, petroplinthic,
+pisoplinthic, plinthic, spodic or vertic horizon starting ≤100 cm from the soil surface,
+unless buried;
+and
+c. not having a limiting layer, unless consisting of artefacts, starting ≤10 cm from the soil
+surface;
+or
+2. having a continuous, very slowly permeable to impermeable, constructed geomembrane
+of any thickness or technic hard material
+starting ≤100 cm from the soil surface.
+Sometimes, it is not easy to classify the “constructed or built soils” inside a soil
+classification system, even in one of the two main classification system used worldwide.
+Notwithstanding, there is an important effort to include this type of soils in these systems.
+For instance, Galbraith proposed a new soil order “Artesols”, for the Soil Taxonomy as it is
+available in the Natural Resources Conservation Service [28]. As this researcher proposes,
+humans have become a major soil forming factor, and the extent of human modification of
+soil is growing. So, significantly altered soils should be recognized in a new soil order. The
+justification of the name is given in Table 2.
+Table 2. Artesols as proposed by Galbraith as a new order for the Soil Taxonomy.
+Artesols
+Name Artesols (from Latin phrase arte factum made with skill). Formative element: art.
+ReasonSoils in the Artesols order form in human-altered soils or in human-transported
+material following intentional human activity. They are made with skill and
+many contain artifacts that are also made with skill. The art formative element
+starts with a vowel and fits well linguistically with the suborder formative
+elements. The art formative element is different enough from existing formative
+elements to avoid confusion in pronunciation.
+Despite the problems that a mixture of materials that behave and act like a soil can
+present regarding the soil classification systems, we consider that those mixed is prepared
+expressly to function as a soil. It tries to imitate soil properties and functions so, we will
+consider them as built or technical soils, or technosols. Moreover, the objectives of this
+constructed soils, most of the times, are to reproduce and recover the environmental services
+that a natural soil can do at the same time that they are configuring and transforming the
+space where they are used and applied.
+Form the point of view of forming factors and soil processes, technosols are (i) man-
+made soils, (ii) created under a relatively warm and humid climate favorable for soil
+evolution, (iii) surprisingly biologically active, (iv) generally developed on flat land surfaces
+showing high heterogeneity in depth, (v) relatively young, and (vi) with reactive artefacts
+as parent materials [ 29]. Pedogenic processes observed in technosols are similar to those
+occurring in more natural soils; however, they are associated in unusual assemblages and
+generally seem to act rapidly, generating a quicker soil evolution [ 29]. The constructed
+technosols have their own evolution and, similarly to natural soils, technogenic parent
+materials are transformed by pedogenic factors contributing to their evolution. Evidences
+Land 2024 ,13, 1383 6 of 14
+of original pedogenic processes have been highlighted that could be considered as a general
+diagnostic characteristic of Technosols [ 30]. However, the temporal dynamics of these soils
+remains scientifically uncertain.
+3. Making Technosols
+A natural soil is composed by solids and fluids (air and water). As a common rule,
+most of the Soil Science manuals state that the ideal volume proportion between soil solids,
+soil water and air would be approximately 50:25:25 expressed in percentage (Figure 2).
+Considering the solid fraction of the soil, the estimation is that 45% corresponds with
+mineral matter and 5% organic matter [31].
+Figure 2. Typical soil fractions (in volume) in an idealized natural soil.
+Under this idea in mind, the first step to construct a technosol should be to prepare a
+mixture of materials (some examples in Figure 3), following the basic proportion presented
+in Figure 2. It seems necessary to have inorganic materials as the mineral matter of the
+soils (45%), organic materials to form the “soil organic matter” (5%) and lead a porous
+space close to the 50% of the total volume, to be occupied by air and water, in a proportion
+that will depend on environmental conditions and soil management. This part is the soil
+porosity which is needed for the movement, exchange and availability of water and air
+for plants. The behavior and quality of soils depend on an interconnected and adjustment
+between physical, chemical, and biological aspects [ 32], and this should be considered for
+making a technosol.
+Figure 3. Some inorganic and organic materials that can be part of a technosol: volcanic crushed rock,
+perlite, gravel limestone rock, sewage sludge compost, hay straw and crushed palm leaf, from left to
+right (photographs taken by the authors).
+Land 2024 ,13, 1383 7 of 14
+Nevertheless, the process of making technosols appears straightforward, focusing
+only on achieving a balanced mix of organic and inorganic components. However, this is
+far from simple. Soil is an intricate environment and various factors must be considered. It
+is important to prioritize the destination and functions of the soil for their intended use,
+basically the creation should follow the order of soil use and ecosystem services targeted.
+It is very different to prepare a technosol to supply nutrients for plant growth [ 33] or to
+have a soil acting as a filtration system to reduce the presence of pollutants and recovery
+degraded areas [ 34]. The use of the technosols is a priority criterion to prepare them as a
+main function is being sought, without underestimating the rest of the functions that a soil
+performs. Technosols are defined as deliberate mixtures of organic and mineral wastes and
+by-products constructed to meet specific requirements [35].
+For instance, if the soil is going to be constructed in a temperate region and the
+main functions are going to be plant support and nutrient supply, probably, the inorganic
+fraction should be close to that of a textural class that allow an appropriate plant nutrition,
+because texture influenced numerous soil properties including: drainage, water holding
+capacity, aeration, susceptibility to erosion, organic matter content, cation exchange capacity
+(CEC), pH buffering capacity and soil tilth [ 36]. It could be, for instance, a loam soil. In
+general, the size of the inorganic particles is important and specially, those forming the fine
+earth for plant nutrition (under 2 mm of apparent diameter). Moreover, the possibilities
+of forming clay-humus complex with the organic matter should be critical to keep and
+provide nutrients for the plants (cation exchange capacity) and soil aggregation [37].
+Although, it is necessary to take into account the specific plant nutrition of the different
+types of plants that are going to be supported by the soil, the local environment and their
+characteristics are also relevant. If the main role of a technosol would be the facilitation
+of the infiltration of water, i.e., to store water from rain and surface runoff, functioning as
+sustainable urban drainage systems, the sand fraction has a key role to facilitated the flow
+and leaching of water through the profile and the presence of coarse fragments [ 38]. In this
+situation, artificial soils could be used either as a part or constitute entirely the sustainable
+urban drainage systems.
+However, technosols serve a similar purpose as a natural soil but can be more targeted
+in their intended function, so they must be carefully constructed with a balance of properties.
+These are some of the findings obtained from multiple experiments conducted in recent
+years, involving the preparation and testing of technosols [ 39]. Notwithstanding the
+foregoing, the composition and balanced between fractions should be considered as a first
+step to prepare functional technosols.
+As Fabri et al. [ 40] shown, technosols appear to be a good solution to the problems of
+land degradation and urban green if using recycled wastes or by-products. Nevertheless,
+waste use requires analysis to ensure the salubrity of the starting materials. Moreover,
+materials produced on site or nearby minimize the cost and the environmental impact of
+transport, thus the involvement of local stakeholders in the urban land management must
+be encouraged [ 40]. As urban metabolism generated different types of wastes, those can be
+used to prepare àla carte soils to perform different functions that are necessary within cities,
+mainly focused in the ecosystem services that technosols can provide, although technosols
+can also fulfill and promote aesthetic functions in cities that should not be undermined.
+These services must not only be complementary, but must seek the existence of synergies
+with the urban environment and human activities that favor their implementation.
+4. Technosols, Wastes and Policy Makers
+Urban metabolism leads to the generation of common city waste that must be properly
+managed and recycled when feasible. These are premises for the adoption of a circular
+economy and the zero waste regulations put in place by the European Union. Those are the
+way to be followed and adopted, and, at the same time, cities can be adapted to climate
+change and minimize greenhouse gases emissions by these strategies [41].
+Land 2024 ,13, 1383 8 of 14
+Technosols should be considered by policy makers and are having a crucial role in the
+European Green Deal [ 39]. Inside the Zero Waste Masterplan for cities, soils and technosols
+should be included inside the strategies to achieve the targets of the circular economy.
+However, they are not included, as it can be seen [ 42], and this is a mismanagement.
+Climate Change and land use are closely connected as well as the zero-waste strategy and
+circular economy. They can also be linked to the beneficial practice of creating technosols
+when natural soils are degraded and disappeared.
+Technosols can be constructed by using many urban wastes, but not all of them can be
+useful. In general, the selected wastes can be used after an appropriate preparation and
+determining first the place and functionality desired. Some of the most common wastes
+that can be used are demolition and construction waste [ 43], municipal solid waste [ 44],
+wastewater treatment sludge [ 45], and urban pruning remains [ 46], among others (Figure 3).
+Most of the times, these great variety of wastes, among others, should be prepared in many
+ways, but basically: drying, composting, cutting, grinding, sieving and selecting the
+components that will constitute the new soil. Their prior characterization is necessary to
+know if they have contaminating elements, in addition to knowing their properties that
+can be decisive for the formulation of the technosols.
+Technosols can help to improve circular economy as they can be constructed by using
+appropriate wastes, linked the zero-waste strategy. This constitutes, in fact, a synergy
+between urban metabolism and soil formation (Figure 4). Policy makers should include
+the urban technosols as one of the strategies to improve healthy cities. It should be
+considered that the World Health Organization (WHO) defined a “healthy city as one
+that is continually creating and improving those physical and social environments and
+expanding those community resources which enable people to mutually support each other
+in performing all the functions of life and in developing to their maximum potential” [ 47].
+Since soil is essential for life, even in urban areas, technosols could play a role in the health
+strategies of cities, although integrating them into local policies remains difficult.
+Figure 4. Linking circular economy and zero waste strategy with land use and climate change and
+technosols.
+Land 2024 ,13, 1383 9 of 14
+5. Technosol Functions for Healthy Cities
+Few references include direct indicators of soil quality to evaluate urban health [ 48],
+some about urban agricultural soils [ 49] or urban landscape [ 50] and consequently, less
+information can be found about technosols. However, it would be considered that the same
+indicators used for a soil can be applied for a technosol in urban environments. Zambon
+et al. [ 51] chose soil quality index to analyze urban footprint of land consumption. Based
+on the need to include soils within cities, the European Commission proposes a list of
+soil health indicators for achieving the Sustainable Development Goals (SDGs) [ 52]. The
+European Environmental Agency (EEA) currently uses several indicators to answer key
+policy questions, and there are a set about land and soil, but related to soil pollution [ 53].
+There is no doubt about the importance of controlling and remediate the soil pollution, but
+it is necessary to take a step forward to improve the functionality of urban spaces through
+the appropriate land use. One of the indicators included in this scope is the progress of
+management of contaminated sites and concludes that in 2011, the main sources of soil
+contamination in Europe were waste disposal and treatment (38.1%), and industrial and
+commercial activities, that usually take place in urban or periurban settings. The most
+common soil pollutants in Europe are heavy metals (34.8%) and mineral oils (23.8%) [ 53],
+both possible associated with industrial development. Currently, microplastics would be
+also considered as an important soil pollutant [ 54]. This showcases a significant focus on
+soil pollution; however, the goal should be to promote overall soil health.
+A healthy soil definition can be found in the EU Soil Strategy for 2030 [ 24]. Soils are
+healthy when they are in good chemical, biological and physical condition, and thus able
+to continuously provide as many of the following ecosystem services as possible, which
+can be provide by healthy technosols as many recent research is demonstrating:
+• provide food and biomass production, including in agriculture and forestry [55];
+• absorb, store and filter water and transform nutrients and substances, thus protecting
+groundwater bodies [56];
+• provide the basis for life and biodiversity, including habitats, species and genes;
+• act as a carbon reservoir [57,58];
+• provide a physical platform and cultural services for humans and their activities [ 59];
+• act as a source of raw materials [33];
+• constitute an archive of geological, geomorphological and archaeological heritage [ 60].
+Following the EU policy and to measure soil health, the European Commission estab-
+lished 8 indicators [ 52]: presence of soil pollutants, excess nutrients and salts, soil organic
+carbon stock, soil structure including soil bulk density and absence of soil sealing and
+erosion, soil biodiversity, soil nutrients and acidity (pH), vegetation cover, landscape het-
+erogeneity and forest cover. The same soil functions that are typically seen in natural soil
+can also be observed in technosols, making these indicators applicable to both types of
+soil. The assessment of soil health should be taken into consideration when evaluating the
+restoration of land using these artificial soils. Soil health, a cutting-edge global concern
+for sustainable development [ 61], is the consideration of soil capacity to sustain functions
+across landscape and temporal scales.
+6. Technosol and Ecosystem Services
+Ecosystem services should be implemented in urban environments by improving the
+urban soils and providing new soils made. Soil is the soft cover on the earth’s surface,
+providing ecosystem services of storage and purification of water for diverse lives besides
+soil fertility and C sequestration [ 62]. Without any doubt, carbon sequestration and storage
+are of major concern. Technosols have the potential to act as carbon sinks by storing carbon
+in both organic and inorganic forms within the soil. Not only agricultural or forest soils
+can be sinks for carbon dioxide although many strategies are centered in these soils [63].
+However, water purification and storage have a great significance in urban environ-
+ments. That is because through soil structure development, soil provides retention and
+storage of water, organic carbon and nutrients for plant growth and diverse life conserva-
+Land 2024 ,13, 1383 10 of 14
+tion [ 64]. As a particular benefit of this function, soil mediates the quality of aquifers, which
+have been traditionally used as municipal water sources such as wells in many alluvial
+plains across the world. Thus, saving our soil, preventing land sealing, soil compaction
+and erosion, is a priority for conserving water and life on earth. Nature-based solutions
+(NbS) should be prioritized as long as there is a thorough understanding of water reten-
+tion, provisioning, and global cycling. Among the well-recognized NbSs, rice terraces
+in mountain areas in humid zones reflects human intelligence for highly efficient water
+resource conservation and utilization for food production and human wellbeing [ 65]. The
+development of NbS in urban environments with the preparation of technosols to recover
+the functionality of land to conserve water resources for sustainable human life should be
+one of the main objectives pursued inside the cities.
+It is necessary to consider the role of soils as support of plants. The importance of
+keeping substrates that can be the support of plants of different height and weight, is not
+a trivial matter. The aerial parts of trees start to vibrate in response to wind excitation
+and trees, as well as other plants, can suffer damage [ 65,66]. Urban areas provided with
+vegetation require that plants, in addition to being healthy and well cared for, have good
+anchoring to the ground to predict risks associated with the wind.
+Technosols act as a source of plant nutrients and soil biota, a role essential for ecosystem
+services. Just because a soil has nutrients in it, doesn’t mean those nutrients are available
+to the plants. To be available they need to be soluble, soil-water-plant system. Soluble
+nutrients require organic matter to break down over a long time. To make a soil fertile takes
+around 3000 years, so we really need to look after the soil we have [ 17,18]. There is one key
+to prepare fertile technosols, the organic matter and the interaction with inorganic fraction.
+Cleaning pollution is another service, not only associated to the water cycle in cities.
+The atmospheric deposition and the presence of hydrocarbons and metals in urban envi-
+ronments affected the soils, both in wet and dry deposition [ 67]. Technosols can play a role
+reducing the atmospheric pollution interacting with these pollutants.
+It is reasonable to think about payment for ecosystem services [ 68]. Although it is a
+topic that leads to a complicated discussion about who has to pay. Notwithstanding that it
+has been demonstrated that the conversion of construction land to arable land increased
+carbon storage [ 69]. Most scholars focus on forest carbon sinks and carbon emissions from
+urban construction land [ 70–72], but we should think about urban areas as places that can
+be carbon sinks as well as forest areas can be source of carbon emissions when they are
+disturbed, when trees burn or death to old age, even more if forest suffers deforestation [ 73].
+It is necessary to consider that soils are a fundamental component of green infras-
+tructure [ 74], and a none common solution for the urban needs [ 75]. Moreover, urban
+soils frequently exhibit poor biological, physical, and chemical conditions that directly
+affect plant growth and reduce their ability to provide multiple ecological functions [ 76].
+Constructed soils can be prepared to improve soil quality of urban areas.
+7. Conclusions
+Urban areas are going to grow and without any doubt, this process is going to consume
+natural soils of periurban areas. This process is opposite to the strategies to mitigate climate
+change as soil has the potential ability of carbon store.
+So, it is necessary to adopt strategies recovering soils in urban areas, both natural soils
+and making new soils that can supply environmental services. The technosols prepared
+would have a composition close to natural soils as a first approach. But the intended main
+function can affect the composition looking for efficiency. However, technosols can be
+used to alleviate and improve the situation of areas affected by anthropogenic activities
+or where natural soil has been lost, but they should not be considered as substitutes for
+natural soils since they have the capacity to offer a wide variety of services. ecosystems,
+which is probably lower in constructed soils made for a specific purpose.
+Land 2024 ,13, 1383 11 of 14
+To have a positive impact in the wastes derived from urban metabolism, these materials
+should be considered as a priority to prepare urban soils, participating positively in the
+strategy zero waste.
+We need to change our mind regarding soils and urban areas, and technosols can be
+the key providing ecosystem services in urban areas and become a carbon sink that can
+help us to mitigate climate change and improve city health.
+Author Contributions: Conceptualization, T.R.-E. and J.N.-P .; methodology, T.R.-E., A.P .-G., M.B.A.-
+C.; formal analysis, T.R.-E., M.B.A.-C. and J.N.-P .; investigation, T.R.-E., A.P .-G., M.B.A.-C. and J.N.-P .;
+resources, T.R.-E., A.P .-G., M.B.A.-C. and J.N.-P .; writing—original draft preparation, T.R.-E. and
+J.N.-P .; writing—review and editing, T.R.-E., A.P .-G., M.B.A.-C. and J.N.-P .; supervision, J.N.-P .; project
+administration, J.N.-P . All authors have read and agreed to the published version of the manuscript.
+Funding: This research was funded by own research resources of the University Miguel Hern ández
+of Elche under the Efficient Management of the Program of Activities Associated with Remnants
+(PAR/CAR).
+Data Availability Statement: The original contributions presented in the study are included in the
+article, further inquiries can be directed to the corresponding author.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1. World Bank. Urban Development. Last Updated: 3 April 2023. 2023. Available online: https://www.worldbank.org/en/topic/
+urbandevelopment (accessed on 19 June 2024).
+2. Scalancghe, R.; Marsan, F.A. The anthropogenic sealing of soils in urban areas. Landsc. Urban Plan. 2008 ,90, 1–10. [CrossRef]
+3. Rodríguez-Espinosa, T.; Navarro-Pedreño, J.; G ómez Lucas, I.; Almendro-Candel, M.B. Land recycling, food security and
+technosols. J. Geogr. Res. 2021 ,4, 44–50. [CrossRef]
+4. Nickayin, S.S.; Perrone, F.; Ermini, B.; Quaranta, G.; Salvia, R.; Gambella, F.; Egidi, G. Soil Quality and Peri-Urban Expansion of
+Cities: A Mediterranean Experience (Athens, Greece). Sustainability 2021 ,13, 2042. [CrossRef]
+5. Phillips, M. Dense, more compact cities help combat climate change, inequality. Urban Land Magazine . 8 February 2016. Available
+online: https://urbanland.uli.org/planning-design/dense-compact-cities-help-combat-climate-change-inequality (accessed
+on 19 June 2024).
+6. Derrible, S.; Cheah, L.; Arora, M.; Yeow, L.W. Urban Metabolism. In Urban Informatics ; The Urban Book Series; Shi, W., Goodchild,
+M.F., Batty, M., Kwan, M.P ., Zhang, A., Eds.; Springer: Singapore, 2021; pp. 85–114. [CrossRef]
+7. Zhang, Y.; Yang, Z.; Yu, X. Urban Metabolism: A Review of Current Knowledge and Directions for Future Study. Environ. Sci.
+Technol. 2015 ,49, 11247–11263. [CrossRef] [PubMed]
+8. Swilling, M.; Hajer, M.; Baynes, T.; Bergesen, J.; Labb é, F.; Musango, J.K.; Ramaswami, A.; Robinson, B.; Salat, S.; Suh, S.; et al.
+The Weight of Cities: Resource Requirements of Future Urbanization. A Report by the International Resource Panel ; United Nations
+Environment Programme: Nairobi, Kenya, 2018. Available online: https://www.resourcepanel.org/reports/weight-cities
+(accessed on 19 June 2024).
+9. Pincetl, S.; Bunje, P .; Holmes, T. An expanded urban metabolism method: Towards a systems approach for assessing the urban
+energy processes and causes. Landsc. Urban Plan. 2012 ,107, 193–202. [CrossRef]
+10. UN-HABITAT. Urban Energy. Available online: https://unhabitat.org/topic/urban-energy (accessed on 19 June 2024).
+11. de Sa, T.H.; Mwaura, A.; Vert, C.; Mudu, P .; Roebbel, N.; Tran, N.; Neira, M. Urban design is key to healthy environments for all.
+Lancet Glob. Health 2022 ,10, e786–e787. [CrossRef]
+12. Navarro-Pedreño, J. Mitigation of climate change: Too little or too much. J. Geogr. Res. 2022 ,5, 55–56. [CrossRef]
+13. Duguma, L.A.; Minang, P .A.; van Noordwijk, M. Climate Change Mitigation and Adaptation in the Land Use Sector: From
+Complementarity to Synergy. Environ. Manag. 2014 ,54, 420–432. [CrossRef]
+14. European Environment Agency. Assessing the Costs and Benefits of Climate Change Adaptation. 2023. Available online:
+https://www.eea.europa.eu/publications/assesing-the-costs-and-benefits-of (accessed on 21 June 2024).
+15. Bolund, P .; Hunhammar, S. Ecosystem services in urban areas. Ecol. Econ. 1999 ,29, 293–301. [CrossRef]
+16. Blanchart, A.; Consal ès, J.N.; S éré, G.; Schwartz, C. Consideration of soil in urban planning documents—A French case study. J.
+Soils Sediments 2019 ,19, 3235–3244. [CrossRef]
+17. Mishra, U.; Torn, M.S.; Masanet, E.; Ogle, S.M. Improving regional soil carbon inventories: Combining the IPCC carbon inventory
+method with regression kriging. Geoderma 2012 ,189–190 , 288–295. [CrossRef]
+18. Navarro-Pedreño, J.; Almendro-Candel, M.B.; Zorpas, A.A. The Increase of Soil Organic Matter Reduces Global Warming, Myth
+or Reality? Science 2021 ,3, 18. [CrossRef]
+19. Daily, G.C. Nature’s Services: Societal Dependence on Natural Ecosystems ; Inland Press: Washington, DC, USA, 1997; p. 392.
+Land 2024 ,13, 1383 12 of 14
+20. Alcano, J.; Ash, N.J.; Butler, C.D.; Callicot, J.B.; Capistrano, D.; Carpenter, S.R.; Castilla, J.C.; Cambers, R.; Chopra, K.; Cropper, A.;
+et al. Ecosystems and Human Well-Being: A Framework for Assessment/Millennium Ecosystem Assessment ; Inland Press: Washington,
+DC, USA, 2003; p. 245.
+21. Adhikari, K.; Hartemink, A.E. Linking soils to ecosystem services—A global review. Geoderma 2016 ,262, 101–111. [CrossRef]
+22. Hern ández-Soriano, M.C.; Junod, M.F. Soil: The foundation of life on Earth. The John Innes Centre Magazine Advances . 2020.
+Issue 32 (winter 2019–2020). Available online: https://www.jic.ac.uk/advances/soil-the-foundation-of-life-on-earth/#:~:
+text=In%20optimum%20conditions%20and%20a,in%20a%20mere%20200%20years (accessed on 23 June 2024).
+23. Gill, E.E.; Handley, J.F.; Ennos, A.R.; Pauleit, S. Adapting cities for climate change: The role of the green infrastructure. Built
+Environ. 2007 ,33, 115–133. [CrossRef]
+24. Brussels, 17.11.2021 COM(2021) 699 Final Communication from the Commission to the European Parliament, the Council, the
+European Economic and Social Committee and the Committee of the Regions EU Soil Strategy for 2030. Reaping the Benefits of
+Healthy Soils for People, Food, Nature and Climate {SWD(2021) 323 Final}. Available online: https://environment.ec.europa.eu/
+publications/eu-soil-strategy-2030_en (accessed on 25 June 2024).
+25. Puig de la Bellacasa, M. Making time for soil: Technoscientific futurity and the pace of care. Soc. Stud. Sci. 2015 ,45, 691–716.
+[CrossRef] [PubMed]
+26. IUSS Working Group WRB. World reference base for soil resources 2014. In International Soil Classification System for Naming Soils
+and Creating Legends for Soil Maps, World Soil Resources Reports ; FAO, Working Group WRB: Rome, Italy, 2014; Volume 106.
+27. IUSS Working Group WRB. World Reference Base for Soil Resources. In International Soil Classification System for Naming Soils and
+Creating Legends for Soil Maps , 4th ed.; International Union of Soil Sciences (IUSS): Vienna, Austria, 2022; p. 236.
+28. Galbraith, J.M. Soil Order Proposal–HAHT Soils (Artesols) ; 22nd Draft; USDA: Washington, DC, USA, 23 May 2022. Available
+online: https://www.nrcs.usda.gov/sites/default/files/2023-01/Artesols-Order-Proposal.docx (accessed on 25 June 2024).
+29. Leguédois, S.; S éré, G.; Auclerc, A.; Cortet, J.; Huot, H.; Ouvrard, S.; Watteau, F.; Schwartz, C.; Morel, J.L. Modelling pedogenesis
+of Technosols. Geoderma 2016 ,262, 199–212. [CrossRef]
+30. Séré, G.; Schwartz, C.; Ouvrard, S.; Renat, J.-C.; Watteau, F.; Villemin, G.; Morel, J.L. Early pedogenic evolution of constructed
+Technosols. J. Soils Sediments 2010 ,10, 1246–1254. [CrossRef]
+31. Kalev, S.D.; Toor, G.S. The Composition of Soils and Sediments. In Green Chemistry ; Török, B., Dransfield, T., Eds.; Elsevier:
+Amsterdam, The Netherlands, 2018; pp. 339–357. [CrossRef]
+32. Lal, R. Restoring Soil Quality to Mitigate Soil Degradation. Sustainability 2015 ,7, 5875–5895. [CrossRef]
+33. Firpo, B.A.; Weiler, J.; Schneider, I.A.H. Technosol made from coal waste as a strategy to plant growth and environmental control.
+Energy Geosci. 2021 ,2, 160–166. [CrossRef]
+34. Gonçalves, J.O.; Fruto, C.M.; Barranco, M.J.; Oliveira, M.L.S.; Ramos, C.G. Recovery of Degraded Areas through Technosols and
+Mineral Nanoparticles: A Review. Sustainability 2022 ,14, 993. [CrossRef]
+35. Séré, G.; Schwartz, C.; Ouvrard, S.; Sauvage, C.; Renat, J.-C.; Morel, J.L. Soil construction: A step for ecological reclamation of
+derelict lands. J. Soils Sediments 2008 ,8, 130–136. [CrossRef]
+36. Cornell University, Cooperation Extension. Soil texture. Agron. Fact Sheet Ser. 2007 ,29, 1–2. Available online: http://nmsp.cals.
+cornell.edu/publications/factsheets/factsheet29.pdf (accessed on 3 July 2024).
+37. Kumar, D.; Purakayastha, T.J.; Das, R.; Yadav, R.K.; Shivay, Y.S.; Jha, P .K.; Singh, S.; Aditi, K.; Prasad, P .V .V . Long-Term Effects of
+Organic Amendments on Carbon Stability in Clay–Organic Complex and Its Role in Soil Aggregation. Agronomy 2023 ,13, 39.
+[CrossRef]
+38. Shkaruba, A.; Skryhan, H.; Likhacheva, O.; Katona, A.; Maryskevych, O.; Kireyeu, V .; Sepp, K.; Shpakivska, I. Development of
+sustainable urban drainage systems in Eastern Europe: An analytical overview of the constraints and enabling conditions. J.
+Environ. Plan. Manag. 2021 ,64, 2435–2458. [CrossRef]
+39. Rodríguez-Espinosa, T.; Navarro-Pedreño, J.; G ómez-Lucas, I.; Jord án-Vidal, M.M.; Bech-Borras, J.; Zorpas, A.A. Urban areas,
+human health and technosols for the green deal. Environ. Geochem. Health 2021 ,43, 5065–5086. [CrossRef]
+40. Fabbri, D.; Pizzol, R.; Calza, P .; Malandrino, M.; Gaggero, E.; Padoan, E.; Ajmone-Marsan, F. Constructed Technosols: A Strategy
+toward a Circular Economy. Appl. Sci. 2021 ,11, 3432. [CrossRef]
+41. Watkins, E.; Meysner, A. European Circular Economy Policy Landscape Overview ; Institute for European Environmental Policy:
+Brussels, Belgium, 2022; p. 87. Available online: https://ieep.eu/wp-content/uploads/2022/11/European-Circular-Economy-
+policy-landscape-overview.pdf (accessed on 23 June 2024).
+42. EU. ZeroWasteCities. Available online: https://zerowastecities.eu/ (accessed on 3 July 2024).
+43. Azevedo-Lopes, T.; Melo Queiroz, H.; Ruiz, F.; Asensio, V .; Duim Ferreira, A.; Cherubin, M.R.; Os ório Ferreira, T. From waste to
+soil: Technosols made with construction and demolition waste as a nature-based solution for land reclamation. Waste Manag.
+2024 ,186, 153–165. [CrossRef] [PubMed]
+44. Rokia, S.; S éré, G.; Schwartz, C.; Deeb, M.; Fournier, F.; Nehls, T.; Damas, O.; Vidal-Beaudet, L. Modelling agronomic properties of
+Technosols constructed with urban wastes. Waste Manag. 2014 ,34, 2155–2162. [CrossRef]
+45. Kharytonov, M.; Martynova, N.; Babenko, M.; Rula, I.; Ungureanu, N.; S,tefan, V . Production of Sweet Sorghum Bio-Feedstock on
+Technosol Using Municipal Sewage Sludge Treated with Flocculant, in Ukraine. Agriculture 2023 ,13, 1129. [CrossRef]
+46. Grard, B.J.; Manouchehri, N.; Aubry, C.; Frascaria-Lacoste, N.; Chenu, C. Potential of Technosols Created with Urban By-Products
+for Rooftop Edible Production. Int. J. Environ. Res. Public Health 2020 ,5, 3210. [CrossRef]
+Land 2024 ,13, 1383 13 of 14
+47. WHO. Health Promotion Glossary ; WHO/HPR/HEP/98.1; World Health Organization: Geneva, Switzerland, 1998; Available
+online: https://www.who.int/publications/i/item/WHO-HPR-HEP-98.1 (accessed on 14 July 2024).
+48. Séré, G.; Le Guern, C.; Bispo, A.; Layet, C.; Ducommun, C.; Clesse, M.; Schwartz, C.; Vidal-Beaudet, L. Selection of soil health
+indicators for modelling soil functions to promote smart urban planning. Sci. Total Environ. 2024 ,924, 171347. [CrossRef]
+49. Salomon, M.J.; Watts-Williams, S.J.; McLaughlin, M.J.; Cavagnaro, T.R. Urban soil health: A city-wide survey of chemical and
+biological properties of urban agriculture soils. J. Clean. Prod. 2020 ,275, 122900. [CrossRef]
+50. Schindelbeck, R.R.; van Es, H.M.; Abawi, G.S.; Wolfe, D.W.; Whitlow, T.L.; Gugino, B.K.; Idowu, O.J.; Moebius-Clune, B.N.
+Comprehensive assessment of soil quality for landscape and urban management. Landsc. Urban Plan. 2008 ,88, 73–80. [CrossRef]
+51. Zambon, I.; Serra, P .; Salvati, L. The (Evolving) urban footprint under sequential building cycles and changing socio-demographic
+contexts. Environ. Impact Assess. Rev. 2019 ,75, 27–36. [CrossRef]
+52. EC. Caring for Soil Is Caring for Life. Ensure 75% of Soils Are Healthy by 2030 for Food, People, Nature and Climate. Report of
+the Mission Board for Soil Health and Food 2020, Brussels. 2020. Available online: https://op.europa.eu/en/publication-detail/
+-/publication/4ebd2586-fc85-11ea-b44f-01aa75ed71a1/ (accessed on 19 July 2024).
+53. EEA. Indicator Assessment Progress in Management of Contaminated Sites ; European Environment Agency: Copenhagen, Denmark,
+2019; Available online: https://www.eea.europa.eu/data-and-maps/indicators/progress-in-management-of-contaminated-
+sites-3/assessment (accessed on 19 July 2024).
+54. Sajjad, M.; Huang, Q.; Khan, S.; Khan, M.A.; Liu, Y.; Wang, J.; Lian, F.; Wang, Q.; Guo, G. Microplastics in the soil environment: A
+critical review. Environ. Technol. Innov. 2022 ,27, 102408. [CrossRef]
+55. Prado, B.; Mora, L.; Abbruzzini, T.; Flores, S.; Cram, S.; Ortega, P .; Navarrete, A.; Siebe, C. 2020, Feasibility of urban waste for
+constructing Technosols for plant growth. Rev. Mex. Cienc. Geol. 2020 ,37, 237–249. [CrossRef]
+56. Bilibio, C.; Retz, S.; Schellert, C.; Hensel, O. Drainage properties of technosols made of municipal solid waste incineration bottom
+ash and coal combustion residues on potash-tailings piles: A lysimeter study. J. Clean. Prod. 2021 ,279, 123442. [CrossRef]
+57. Gardi, C.; Jeffery, S. Soil Biodiversity ; Office for Official Publications of the European Communities ©European Communities:
+Luxembourg, 2009; p. 27. [CrossRef]
+58. Allory, V .; S éré, G.; Ouvrard, S. A meta-analysis of carbon content and stocks in Technosols and identification of the main
+governing factors. Eur. J. Soil Sci. 2022 ,7381 , e13141. [CrossRef]
+59. Gonz ález-M éndez, B.; Ch ávez-Garc ía, E. Re-thinking the Technosol design for greenery systems: Challenges for the provision of
+ecosystem services in semiarid and arid cities. J. Arid Environ. 2020 ,179, 104191. [CrossRef]
+60. Huot, H.; Faure, P .; Biache, C.; Lorgeoux, C.; Simonnot, M.O.; Morel, J.L. A Technosol as archives of organic matter related to past
+industrial activities. Sci. Total Environ. 2014 ,487, 389–398. [CrossRef]
+61. Lehmann, J.; Bossio, D.A.; Kögel-Knabner, I.; Rillig, M.C. The concept and future prospects of soil health. Nature reviews. Earth
+Environ. 2020 ,1, 544–553. [CrossRef]
+62. Zhao, Z.; Liu, C.; Yan, M.; Pan, G. Understanding and enhancing soil conservation of water and life. Soil Sci. Environ. 2023 ,2, 9.
+[CrossRef]
+63. COWI; Ecologic Institute; IEEP . Manual de Orientaci ón Técnica: Creaci ón y Aplicaci ón de Mecanismos de Captura de Di óxido de
+Carbono en Suelos Agr ícolas Basados en Resultados en la UE Informe a la Comisi ón Europea. DG Acci ón Por el Clima 2021,
+en el Marco del Contrato n. ºCLIMA/C.3/ETU/2018/007. COWI, Kongens Lyngby. Available online: https://op.europa.eu/
+es/publication-detail/-/publication/b7b20495-a73e-11eb-9585-01aa75ed71a1/language-es/format-PDF/source-335776661 (ac-
+cessed on 6 July 2024).
+64. Shen, Q.; Pan, G. Inaugural editorial: Soil Science and Environment. Soil Sci. Environ. 2022 ,1, 1. [CrossRef]
+65. Schindler, D.; Bauhus, J.; Mayer, H. Wind effects on trees. Eur. J. For. Res. 2012 ,131, 159–163. [CrossRef]
+66. Gardiner, B. Wind damage to forests and trees: A review with an emphasis on planted and managed forests. J. For. Res. 2021 ,26,
+248–266. [CrossRef]
+67. Azimi, S.; Rocher, V .; Muller, M.; Moilleron, R.; Thevenot, D.R. Sources, distribution and variability of hydrocarbons and metals
+in atmospheric deposition in an urban area (Paris, France). Sci. Total Environ. 2005 ,337, 223–239. [CrossRef]
+68. Derissen, S.; Latacz-Lohmann, U. What are PES? A review of definitions and an extension. Ecosyst. Serv. 2013 ,6, 12–15. [CrossRef]
+69. Gao, F.; Xin, X.; Song, J.; Li, X.; Zhang, L.; Zhang, Y.; Liu, J. Simulation of LUCC Dynamics and Estimation of Carbon Stock under
+Different SSP-RCP Scenarios in Heilongjiang Province. Land 2023 ,12, 1665. [CrossRef]
+70. Ge, J.; Lin, B. Convergence or divergence? Unraveling the global development pattern of forest carbon sink. Environ. Impact
+Assess. Rev. 2024 ,105, 107442. [CrossRef]
+71. Mo, L.; Zohner, C.M.; Reich, P .B.; Liang, J.; De Miguel, S.; Nabuurs, G.J.; Renner, S.S.; van den Hoogen, J.; Araza, A.; Herold, M.;
+et al. Integrated global assessment of the natural forest carbon potential. Nature 2023 ,624, 92–101. [CrossRef]
+72. Lv, T.; Geng, C.; Zhang, X.; Li, Z.; Hu, H.; Fu, S. Impact of the intensive use of urban construction land on carbon emission
+efficiency: Evidence from the urban agglomeration in the middle reaches of the Yangtze River. Environ. Sci. Pollut. Res. Int. 2023 ,
+30, 113729–113746. [CrossRef] [PubMed]
+73. van der Werf, G.; Morton, D.; DeFries, R.; Olivier, J.G.J.; Kasibhatla, P .S.; Jackson, R.B.; Collatz, G.J.; Randerson, J.T. CO 2emissions
+from forest loss. Nat. Geosci. 2009 ,2, 737–738. [CrossRef]
+74. Deeb, M.; Groffman, P .; Joyner, J.L.; Lozefski, G.; Paltseva, A.; Lin, B.; Mania, K.; Cao, D.L.; McLaughlin, J.; Muth, T.; et al. Soil
+and microbial properties of green infrastructure stormwater management system. Ecol. Eng. 2018 ,125, 68–75. [CrossRef]
+Land 2024 ,13, 1383 14 of 14
+75. Deeb, M.; Groffman, P .M.; Blouin, M.; Egendorf, S.P .; Vergnes, A.; Vasenev, V .; Cao, D.L.; Walsh, D.; Morin, T.; S éré, G. Using
+constructed soils for green infrastructure—Challenges and limitations. Soil2020 ,6, 413–434. [CrossRef]
+76. Morel, J.L.; Chenu, C.; Lorenz, K. Ecosystem services provided by soils of urban, industrial, traffic, mining, and military areas
+(SUITMAs). J. Soils Sediments 2014 ,15, 1659–1666. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
