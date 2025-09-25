@@ -16,14 +16,14 @@ def categorize_summaries_with_gemini_and_update_planilha(caminho_planilha, categ
     # --- Configuração da API do Gemini ---
     # VOCÊ DEVE INSERIR SUA CHAVE DE API AQUI!
     # Obtenha sua chave em https://makers.google.com/
-    GEMINI_API_KEY = "AIzaSyAfY6q29S7c4wcsEQeYhBnGMwZDZkRdvG4" # Substitua por sua chave de API real!
+    GEMINI_API_KEY = "AIzaSyAEtQ_KAMM-Sl7SEqVJktE7X49WbV5BgQY" # Substitua por sua chave de API real!
     
     if not GEMINI_API_KEY:
         print("ERRO: A chave da API do Gemini não foi configurada. Por favor, insira sua chave em GEMINI_API_KEY.")
         return
 
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-2.0-flash') # Usando gemini-2.0-flash para categorização
+    model = genai.GenerativeModel('gemini-2.5-flash') # Usando gemini-2.0-flash para categorização
 
     print(f"Carregando planilha de: {caminho_planilha}")
     try:
