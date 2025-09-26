@@ -2,6 +2,8 @@ import pandas as pd
 import os
 import google.generativeai as genai # Importa a biblioteca do Gemini
 import sys # Importa o módulo sys para obter o caminho do script
+import os 
+from dotenv import load_dotenv
 
 def generate_summaries_with_gemini_and_update_planilha(caminho_planilha):
     """
@@ -10,16 +12,20 @@ def generate_summaries_with_gemini_and_update_planilha(caminho_planilha):
     Args:
         caminho_planilha (str): O caminho completo para o arquivo Excel da planilha.
     """
+
+    # Carrega as variáveis do arquivo .env
+    load_dotenv()    
     # --- Configuração da API do Gemini ---
     # VOCÊ DEVE INSERIR SUA CHAVE DE API AQUI!
     # Obtenha sua chave em https://makers.google.com/
-    GEMINI_API_KEY = "AIzaSyAEtQ_KAMM-Sl7SEqVJktE7X49WbV5BgQY" # Substitua por sua chave de API real!
-    
-    if not GEMINI_API_KEY:
+    # GEMINI_API_KEY = "Substitua por sua chave de API real!"
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
+
+    if not gemini_api_key:
         print("ERRO: A chave da API do Gemini não foi configurada. Por favor, insira sua chave em GEMINI_API_KEY.")
         return
 
-    genai.configure(api_key=GEMINI_API_KEY)
+    genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel('gemini-2.5-flash') # Usando gemini-2.0-flash para geração de texto
 
     print(f"Carregando planilha de: {caminho_planilha}")
