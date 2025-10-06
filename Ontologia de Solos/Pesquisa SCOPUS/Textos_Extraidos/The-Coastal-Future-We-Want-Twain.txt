@@ -1,0 +1,1124 @@
+Citation: Hsu, K.; Chen, J.-L. The
+Coastal Future We Want:
+Implications of Coastal People’s
+Perceptions on Satoumi Actions and
+Sustainable Development in
+Northeastern Taiwan. Sustainability
+2023 ,15, 7919. https://doi.org/
+10.3390/su15107919
+Academic Editor: Tim Gray
+Received: 15 March 2023
+Revised: 10 May 2023
+Accepted: 10 May 2023
+Published: 11 May 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+The Coastal Future We Want: Implications of Coastal People’s
+Perceptions on Satoumi Actions and Sustainable Development
+in Northeastern Taiwan
+Kang Hsu1,2
+and Jyun-Long Chen1,3,*
+1Marine Fisheries Division, Fisheries Research Institute, Council of Agriculture, Keelung 202301, Taiwan;
+khsu@mail.tfrin.gov.tw
+2Department of Bio-Industry Communication and Development, National Taiwan University,
+Taipei 106216, Taiwan
+3General Education Center, National Taiwan Ocean University, Keelung 202008, Taiwan
+*Correspondence: jlchen@mail.tfrin.gov.tw
+Abstract: Satoumi is advocated for coastal sustainability under the Convention on Biological Diversity
+(CBD) and the International Partnership for the Satoyama Initiative (IPSI), and has provided a basis for
+countries around the world to formulate national biodiversity strategies and action plans. Given the
+signiﬁcant impact of environmental changes and socio-economic decline, relevant policy directions
+and practices are urgently required to promote the sustainable development of ﬁshing communities
+in Taiwan. However, local residents and communities are not sufﬁciently aware of or involved in
+this concept to facilitate the development of a holistic Satoumi implementation strategy. Therefore,
+this study integrates the concepts of Satoumi actions and Sustainable Development Goals (SDGs)
+and has adopted a questionnaire survey to investigate the perceptions of 202 ﬁshing community
+residents in the Gongliao District of New Taipei City and Yilan County towards these concepts. The
+standpoint and perception of the ﬁshing community residents regarding Satoumi actions and SDGs
+provided a valuable reference. The results of the perception of Satoumi actions revealed that all of
+the respondents recognized Satoumi actions. However, the ranking demonstrated the urgency for
+some actions (e.g., clear marine litter), and measures that have been implemented in Taiwan but
+still need improvement (e.g., ﬁsh stocking practices). Satoumi actions were associated with two
+key factors that affect the perception of residents at Satoumi: “Empowerment through community-
+based industry and environmental education”, and “Conservation of crucial biological resources and
+habitats”. For the SDGs perceptions, the two factors were “Marine socio-economic sustainability”
+and “The sustainable use of marine ecological resources”. This study also adopted cluster analysis
+and identiﬁed three characteristically different groups of residents: The Conservation Priority Group,
+Industry–Society Priority Group, and Balanced Development Group. According to the major research
+ﬁndings, policies implemented in coastal areas of Taiwan have aligned with global sustainability
+trends. However, the attitude of the Industry–Society Priority Group, which has the largest sample
+size, should be changed to that held by the Balanced Development Group, in order to formulate a
+strategy for a balanced development that secures existing livelihoods and aligns with expectations on
+environmental sustainability. This study suggests that methodologies that encourage stakeholder
+interactions, dialogues, and consensus-building should be utilized to develop strategies for future
+work. Furthermore, policy tools related to coastal management should be analyzed to establish a
+comprehensive toolkit for coastal governance. Finally, Satoumi requires public–private collaboration
+to achieve both biodiversity conservation and transformative change towards more sustainably and
+equitably social, environmental, and economic coastal development.
+Keywords: Satoumi; Sustainable Development Goals (SDGs); residents’ perceptions; questionnaire
+survey; segmentation; coastal development; Taiwan
+Sustainability 2023 ,15, 7919. https://doi.org/10.3390/su15107919 https://www.mdpi.com/journal/sustainability
+Sustainability 2023 ,15, 7919 2 of 19
+1. Introduction
+The adoption of the Convention on Biological Diversity (CBD) at the Earth Summit in
+1992 marked a new age, in which countries around the world began working together to
+promote biodiversity conservation. After nearly two decades, the Aichi Biodiversity Targets
+were proposed at the Tenth Conference of the Parties to the Convention on Biological Diver-
+sity (CBD-COP10) in 2010. CBD-COP10 outlined the speciﬁc goal: “By 2050, biodiversity is
+valued, conserved, restored and wisely used, maintaining ecosystem services, sustaining a
+healthy planet and delivering beneﬁts essential for all people”. The Satoyama Initiative
+was also presented at the CBD-COP10, placing emphasis on the economic, cultural, and
+natural aspects of sustainable development [ 1], while also focusing on the concept of Socio-
+ecological Production Landscapes and Seascapes (SEPLS). The purpose of the Satoyama
+Initiative was to promote the maintenance and use of SEPLS in various localities (agricul-
+ture, forestry, ﬁshery, livestock farming) by improving community resilience to achieve
+sustainability. For this reason, the United Nations University also launched the Interna-
+tional Partnership for the Satoyama Initiative (IPSI) as the centerpiece for reaching the Aichi
+Biodiversity Targets and achieving the goals of biodiversity conservation, preservation
+of local traditional knowledge, and community development [ 2]. In line with the global
+trend of mainstreaming biodiversity, Taiwan drafted a Biodiversity Promotion Program
+in 2001 and adopted the Aichi Biodiversity Targets to revise its Biodiversity Sustainable
+Development Action Plan in 2012.
+The hydrosphere (e.g., sea, ocean) is an integral component of the earth’s life support
+system and also a key asset that creates opportunities for human sustainability. As the
+Satoyama Initiative garnered increasing attention, the promotion and development of
+Satoumi became the key approach for coastal ﬁshing communities to live in harmony with
+the coastal socio-ecological systems. In particular, efforts under Satoumi and the 2015
+Sustainable Development Goals (SDGs) are both concerned with the social, economic, and
+environmental aspects of sustainability with Goal 14 of the SDGs being to conserve and
+sustainably use the oceans, seas and marine resources for sustainable development. In
+addition, Goals 8 (sustained and inclusive economic growth), 11 (sustainable society and
+communities), and 12 (responsible production and consumption patterns) are also aligned
+with the core concept of Satoumi, which covers ecosystem services, traditional knowledge
+and modern science, nature conservation, and environmental and economic sustainability
+through human–nature interaction (management) [ 3]. Taking Japan as an example, the birth
+place of the Satoyama and Satoumi concepts, the local residents of Shiretoko Peninsula in
+Hokkaido have become a vital part of the traditional water ecosystem in the area, positively
+maintaining the interactive effects between humans and the natural ecosystem [ 4]. A study
+of the Sekisei Lagoon in southwest Japan revealed that in the local lagoon socio-ecological
+systems, all stakeholders are closely connected at the socio-ecological level and completely
+linked to the lagoon’s ecosystem services, where traditional users have a critical role to
+play in the sustainability of socio-ecological systems [ 5]. Therefore, the sea or ocean and
+coastal ecosystems have a close and complex connection with local users. Furthermore, the
+Japanese government has been proactive in adopting the SDGs in its National Strategies for
+Promoting Biodiversity of Japan, and including the Satoumi approach as the main means
+of integrated coastal management and restoring estuaries and bays to drive beneﬁts for
+ecosystem services [6].
+The Food and Agriculture Organization (FAO) of the United Nations reported that
+small-scale ﬁsheries can generate sufﬁcient income to support ﬁshing families, but income
+stability and sustainability will be a major challenge in sustainable development [ 7]. The
+coast of Taiwan is typically bustling with ﬁshing activities, providing a source of protein
+and job opportunities for Taiwanese citizens along the coast. Previously, there were over
+250 ﬁshing harbors in Taiwan, forming ﬁshing settlements in nearby areas. However,
+ﬁshing communities are mostly located in rural areas, which have been affected by a
+multitude of sustainability problems, such as an exodus of young people, aging of residents,
+job scarcity, aging of labor population, and a lack of public facilities and infrastructure
+Sustainability 2023 ,15, 7919 3 of 19
+services [ 8,9]. In addition, coastal ﬁsheries are facing climate change, overﬁshing, and
+depletion of resources, among other problems, all of which not only inﬂuence the economic
+development of ﬁsheries but also worsen the decline of ﬁshing communities. Thus, new
+policy directions and practices are urgently required to drive the sustainable development
+of ﬁshing communities. There has been a dearth of research in Taiwan exploring how ﬁshing
+community residents perceive public affairs, the development of ﬁshing communities, and
+sustainability issues [ 8–10]. There still is, nevertheless, limited or a lack of comprehensive
+understanding of the perception of ﬁshing community residents. Numerous policies have
+been enforced to date, providing a basis for policy makers and decision makers to slowly
+understand the needs of local communities. However, the Satoumi approach is a concept
+based on the international Satoyama Initiative for promoting coastal sustainability. The
+local residents and communities are not sufﬁciently aware or involved to facilitate the
+development of a holistic Satoumi implementation strategy. For this reason, the objectives
+of this study were to adopt a questionnaire survey and quantitative analysis methods to
+investigate the perceptions of ﬁshing community residents in the Northeast Coast of Taiwan,
+regarding Satoumi initiatives and SDGs, and to analyze the diverse characteristics of ﬁshing
+community residents. Subsequently, by reviewing coastal development policy trends in
+Taiwan and relevant research ﬁndings in this study, suggestions were provided for the
+formulation of speciﬁc coastal development strategies for sustainable coastal management
+in northeastern Taiwan.
+2. Satoumi Development in Taiwan
+As mentioned in the introduction, Satoyama and Satoumi were advocated under
+the CBD and provided a basis for countries around the world to formulate their national
+biodiversity strategies and action plans. Japan, as the birthplace of Satoyama and Satoumi,
+has accumulated many cases since the Aichi Biodiversity Targets. Taiwan and Japan are
+both located in East Asia with similar social environments, industry patterns, and ﬁshing
+villages along their coastlines. Taiwan has also referred to Japan’s related policies in the
+past [ 11]. Therefore, ﬁshing villages in Taiwan’s coastal areas that are facing unsustainable
+development conditions, in terms of socio-economy and ecological environment, need to
+consider corresponding strategies. The guidance and case studies provided by Satoumi
+have the potential to be applied in Taiwan. This section will introduce the concept of the
+Satoumi in more detail and how it can inﬂuence Taiwan’s related policies.
+2.1. Satoumi Concept
+Satoumi can be understood to be landscapes and seascapes formed by human–nature
+interaction (i.e., between houses, settlements, or communities and estuaries, lagoons, coasts,
+bays, and other ecosystems). The Satoumi concept originated from the concept of Satoyama.
+Satoyama refers to mosaic landscapes composed of various ecosystems including wetlands,
+grasslands, woodlands, farmlands, paddy ﬁelds, and settlements resulting from the long-
+term interaction between rural residents and their surrounding environment [ 12]. As the
+Satoyama Initiative garnered increasing attention since the CBD-COP10, the promotion and
+development of Satoumi became the key approach for coastal sustainability. Yanagi [ 13]
+proposed the concept of Satoumi, deﬁning it as a coastal area with high productivity and
+biodiversity due to human activities or human–nature interaction. Satoumi is considered a
+multifaceted concept. In simple terms, Satoumi represents the ideal relationship created
+between humans and the sea or ocean. It is also a coastal management system, combining
+traditional knowledge, modern science, and the contributions of varying stakeholders to
+sustain the desired state of coastal zones through adaptive management. Finally, Satoumi
+reﬂects a socio-ecological context that changes with time and place [ 1,14]. In light of this,
+Satoumi can serve as a new approach to promoting sustainable ﬁshery management [15].
+Under the guidance of national policies, the Ministry of Environment (MOE) of Japan
+devised a three-year plan in 2008 to support the creation of Satoumi. They called for
+applications from local governments and launched a series of community-based projects
+Sustainability 2023 ,15, 7919 4 of 19
+aimed at protecting the marine coastal environmental system and realizing the vision
+of humans in harmony with the sea or ocean. Small-sum subsidies are also provided
+to support local activities that align with the Satoumi concept. The MOE surveyed the
+diverse range of Satoumi activities in Japan, subsequently releasing the Satoumi Manual of
+Japan in 2011. The manual details of various Satoumi activities, including the restoration
+of seaweed forests, clearing of marine litter, environmental survey and monitoring, ﬁsh
+stocking, marine or ﬁshery experience activities, removal of alien species, and collection
+of data on educational activities. The Satoumi creation initiative by the MOE of Japan is
+focused on ﬁve elements: (1) substance circulation (nutrient salts, water quality, and bottom
+sediment), (2) ecosystems (diversity, productivity, resource management), (3) contact with
+people (regional cooperation, coexistence with nature), (4) activity spheres (ﬁshing villages,
+cities, watershed), and (5) entities that perform activities (ﬁshers, residents, or relevant
+stakeholders). The ﬁrst three elements are diversity elements that require preservation
+and regeneration, and the last two elements are related to Satoumi activities that are key
+to ensuring the sustainability of Satoumi creation [ 16]. Further investigation of activi-
+ties that support Satoumi creation shows that 65% of Satoumi activities are performed
+mainly by local entities, which included residents (23%), ﬁshers (17%), and local public
+organizations (25%), while 35% are performed by educational organizations (12%), research
+institutions (6%), the state (8%), and others (9%) [ 17]. These statistics highlight not only the
+importance of the local involvement in Satoumi practices [18], but also the need to design
+a “mechanism” consisting of the aforementioned elements to promote Satoumi creation.
+Therefore, solving the accelerated loss of biodiversity and ecosystem services requires a
+community-based approach to sustainably use and manage natural resources and linking
+diverse stakeholders, as well as making collaborative decisions during the process [ 19].
+Satoumi is an initiative which advocates for a stakeholder-engaged approach to performing
+activities under a socio-ecological view. Because the linkages and interactions of local
+life, local industries, local culture, biodiversity, and environmental sustainability must be
+considered, the standpoint and perception of local entities regarding Satoumi activities will
+provide a valuable reference.
+2.2. Relevant Policy in Taiwan
+Taiwan currently has 222 ﬁshing harbors along the coast. The construction of ﬁsh-
+ing harbors has attracted ﬁshers to settle nearby, thus forming ﬁshing settlements and
+communities. Traditionally, ﬁshing communities are mostly located in remote or rural
+areas. In 1949, the Taiwan government began making construction and policy plans for
+rural communities, but these plans never came to fruition. It was only until 1993—the
+year a government-funded ﬁshing community development project was launched—that
+policy planning for the construction of ﬁshing communities was carried out to beautify
+ﬁshing communities as a whole and build a ﬁshing settlement that is characterized by
+special landscapes, unique customs, and ﬁshery culture. Under the notion of community
+development, the development of ﬁshing communities slowly shifted from a government-
+dominated top-down approach to a bottom-up approach that consolidates the collective
+awareness and value concepts of local residents on the basis of farming/ﬁshing settlements
+or communities. In 2010, the Taiwan government launched the Rural Rejuvenation Program
+and enforced the Rural Rejuvenation Act, empowering community residents to propose
+plans that improve community environment, boost industry economy, and retain local
+characteristics in a regulated manner. To address the exodus of rural farming and ﬁshing
+populations, the National Development Council implemented the local placemaking policy
+in 2019, hoping to facilitate balanced urban–rural development and promote local pros-
+perity. According to the policy, 134 areas are prioritized for placemaking promotion due
+to their severe population loss and relative disadvantages; 41 of these areas are coastal
+regions, which implies that coastal ﬁshing communities are in dire need of development.
+The sustainable development of ﬁshing communities involves diverse stakehold-
+ers [10]. Coastal management in Taiwan is assigned across various ministerial departments
+Sustainability 2023 ,15, 7919 5 of 19
+with each paying increasingly more attention in recent years to the adoption of the Satoumi
+approach for coastal zone management and sustainable development. For example, in
+2020, the Ocean Conservation Administration launched the community-based marine
+conservation program, which aims to guide local organizations on marine conservation
+measures and help them use localization methods to protect the sea and ocean. In the
+same year, the National Academy of Marine Research launched a Satoumi settlement
+support program, uniting local youths in coastal areas to boost industrial development.
+Additionally, the Construction and Planning Agency of the Minister of the Interior initiated
+a locally integrated coastal management program; the Soil and Water Conservation Bureau
+of the Council of Agriculture launched a rural rejuvenation program to guide farming and
+ﬁshing communities on autonomous planning; the Forestry Bureau and Fisheries Research
+Institute of Council of Agriculture promoted the regional development of Satoumi by using
+socio-ecological systems to consolidate perspectives; and the Fisheries Agency focused on
+the development of ﬁshing industries and hardware infrastructure.
+Based on the above reviews of relevant policies, Taiwan has seen a large number of
+coastal residents involved in community affairs, local development, industrial promotion,
+and sustainable development policies. This trend reveals the spirit of the Satoumi concept
+that advocates a stakeholder-engaged approach. However, the conservation of the marine
+and coastal ecosystems should be considered under Satoumi development, and a holistic,
+integrated thinking approach should also be more actualized.
+3. Research Method
+3.1. Research Scope
+The scope of this study included the Gongliao District and Yilan County on the north-
+eastern coast of New Taipei City in Taiwan. Coastal ﬁsheries are particularly prosperous in
+these areas, leading to the formation of many ﬁshing settlements. As of March 2023, the
+local population is as follows: approximately 11,177 people in the Gongliao area, and a total
+of 137,483 people in the coastal towns and villages of Yilan County, including 28,409 people
+in Toucheng, 24,445 people in Zhuangwei, 40,774 people in Wujie, 37,760 people in Su’ao,
+and 6095 people in Nan’ao [ 20]. Fishing harbors and communities in the Gongliao District
+include Longdone, Hemei, Meiyanshan, Aodi, Longmen, Fulong, Mao’ao, and Magang.
+Those in Yilan County include Shihcheng, Tongpanku, Dali, Daxi, Fanshuliao, Gengfang,
+Wushi, Wuweigang, Nanfang’ao, Fenniaolin, and Nan’ao (Figure 1).
+Sustainability  2023 , 15, 7919  6 of 19 
+ 
+ communit ies has become a critical research topic that requires academic attention and in-
+tervention.  
+ 
+Figure 1. Study sites.  
+3.2. Questionnaire Content  
+This study adopted  a questionnaire survey to investigate the perceptions of fishing 
+community residents regarding the promotion of Satoumi. A three -part questionnaire was 
+designed with reference to the Satoumi Manual of Japan  [16] and the Japan Satoyama 
+Satoumi Assessment [22 ]. The first part, Satoumi Actions dimension, comprised 14 items 
+which were derived from the Satoumi activities undertaken in various parts of Japan as 
+described in the Satoumi Manual of Japan. The second part, SDGs Perceptions dimension, 
+comprised 7 items . The third part was background information, which was designed to 
+collect data on the respondents’ gender, place of residence, education level, occupation, 
+income, age, and whether they are local. The first and second parts of the questionnaire 
+were score d using the Likert 5 -point scale to indicate the level of perception. The third 
+part provided information for subsequent analysis of residents’ characteristics. After the 
+questionnaire was designed, a pretest was conducted on it by experts in July 2020. An y 
+ambiguous wordings were revised to increase the reliability and validity of the question-
+naire, and then the official questionnaire was distributed.  
+3.3. Sampling  
+The questionnaire survey was conducted on local residents and fishers of communi-
+ties along t he coast of  the Gongliao District through to Yilan County. Because the liveli-
+hoods of fishing community residents mostly depend on fishing -related industries, a ma-
+jority of their time is typically spent working at sea or on preparatory works, which made 
+random sampling difficult. This study , therefore,  selected convenience sampling using the 
+snowball sampling method. Due to t he limitation  of sampling, the formal survey was con-
+ducted by in -person, and some questionnaires were delivered with the assistance of  com-
+munity development associations, fishers’ associations, and fishing community residents. 
+The survey took place between August and October in 2020. In total, 202 valid question-
+naires were retrieved, after excluding invalid questionnaires with incomplete  answers.  
+  
+Figure 1. Study sites.
+Sustainability 2023 ,15, 7919 6 of 19
+Regarding the research scope, which are the coastal ﬁshing villages in counties in
+northeastern Taiwan, it is worth noting that Taiwan’s early development was primarily
+reliant on the coastal and offshore ﬁsheries. In terms of the coastal and offshore ﬁsheries
+production in Taiwan in 2021, Yilan County, Keelung City, and New Taipei City were
+the primary contributors [ 21], highlighting the importance of the coastal and offshore
+ﬁsheries industry in northeastern Taiwan [ 10]. Nevertheless, in recent years, coastal and
+offshore ﬁsheries have suffered from the depletion of resources, resulting from factors
+such as overﬁshing, ﬁsh habitat destruction, environmental pollution, and climate change.
+During the 1970s, the annual production was over 400,000 tonnes. However, by 1981, the
+production had dropped to under 400,000 tonnes. As of 2007, the yield had further declined
+to below 200,000 tonnes. Currently, the production ranges from 160,000 to 180,000 tonnes
+annually [21].
+Coastal villages in Taiwan have been greatly impacted by Taiwan’s economic devel-
+opment and industrial restructuring as well. These rural communities face a myriad of
+challenges, such as limited employment opportunities, population outﬂow, an aging ﬁshing
+demographic, inadequate public facilities and infrastructure, and stagnating progress in im-
+proving production and living environments [ 9], all of which impede their ability to achieve
+sustainable development. As a result, the sustainable development of ﬁshing communities
+has become a critical research topic that requires academic attention and intervention.
+3.2. Questionnaire Content
+This study adopted a questionnaire survey to investigate the perceptions of ﬁshing
+community residents regarding the promotion of Satoumi. A three-part questionnaire
+was designed with reference to the Satoumi Manual of Japan [ 16] and the Japan Satoyama
+Satoumi Assessment [ 22]. The ﬁrst part, Satoumi Actions dimension, comprised 14 items
+which were derived from the Satoumi activities undertaken in various parts of Japan as
+described in the Satoumi Manual of Japan. The second part, SDGs Perceptions dimension,
+comprised 7 items. The third part was background information, which was designed to
+collect data on the respondents’ gender, place of residence, education level, occupation,
+income, age, and whether they are local. The ﬁrst and second parts of the questionnaire
+were scored using the Likert 5-point scale to indicate the level of perception. The third
+part provided information for subsequent analysis of residents’ characteristics. After the
+questionnaire was designed, a pretest was conducted on it by experts in July 2020. Any am-
+biguous wordings were revised to increase the reliability and validity of the questionnaire,
+and then the ofﬁcial questionnaire was distributed.
+3.3. Sampling
+The questionnaire survey was conducted on local residents and ﬁshers of communities
+along the coast of the Gongliao District through to Yilan County. Because the livelihoods
+of ﬁshing community residents mostly depend on ﬁshing-related industries, a majority of
+their time is typically spent working at sea or on preparatory works, which made random
+sampling difﬁcult. This study, therefore, selected convenience sampling using the snowball
+sampling method. Due to the limitation of sampling, the formal survey was conducted
+by in-person, and some questionnaires were delivered with the assistance of community
+development associations, ﬁshers’ associations, and ﬁshing community residents. The
+survey took place between August and October in 2020. In total, 202 valid questionnaires
+were retrieved, after excluding invalid questionnaires with incomplete answers.
+3.4. Statistical Analysis Method
+To provide a proﬁle of the research samples, the ﬁrst stage of the statistical analysis
+involved analyzing the sample demographics by using descriptive statistics, including
+frequency distribution and percentage. The perception of the respondents in Gongliao
+and Yilan regarding Satoumi actions was subsequently analyzed, using mean, frequency
+distribution, and ranking to describe how each action was perceived.
+Sustainability 2023 ,15, 7919 7 of 19
+The second stage of the statistical analysis was focused on exploring the effects that
+the characteristics of residents at Satoumi have on the perception of Satoumi actions and
+SDGs. Regarding statistical operations, exploratory factor analysis (EFA) was employed
+in combination with principal components analysis (PCA) to streamline the items under
+both of the questionnaire dimensions into smaller perception variables [ 23]. A principal
+component method combined with the varimax rotation technique was used to identify
+and name the key perception variables. Cluster analysis was employed to classify the
+respondents into several groups [ 24]. Hierarchical clustering, based on the residents’
+perception of Satoumi actions, was performed to select the number of clusters, and then
+K-means clustering was adopted to distinguish respondents with different perceptions.
+After the number of clusters of respondents was determined, analysis of variance
+(ANOVA) was employed to analyze differences between the perception of each variable
+under both dimensions. Any signiﬁcant differences were further analyzed using Scheffe’s
+method (post-hoc test). Finally, the chi-squared test for cross-analysis was used to analyze
+the differences between the basic attributes of resident clusters who had different perceptions.
+4. Results
+4.1. Ranking of Satoumi Action Perceptions
+In general, the top three actions perceived as the most important by all of the re-
+spondents were as follows: “clear marine litter”, “promote environmental education”,
+and “conserve priority species”. The three actions perceived as the least important by the
+respondents were as follows: “marine and land resource surveys”, “remove alien species”,
+and “ﬁsh stocking practices” (Table 1).
+Table 1. Ranking the respondents’ perception of Satoumi Actions.
+ItemsSamples ( n= 202)
+Level of Perception S.D. Ranking
+Clear marine litter 4.56 0.63 1
+Promote environmental education 4.47 0.66 2
+Conserve priority species 4.41 0.65 3
+Protect and manage ﬁshing ground 4.32 0.68 4
+Fishery revitalization and innovation 4.29 0.72 5
+Build a database for Satoumi promotion 4.28 0.72 6
+Organize Satoumi exchange activities 4.28 0.72 6
+Fishing community development 4.27 0.73 8
+Protect and create habitats 4.27 0.71 8
+Survey and preserve local knowledge 4.24 0.74 10
+Launch ocean experience activities 4.22 0.67 11
+Survey marine and land resource 4.21 0.69 12
+Remove alien species 4.13 0.81 13
+Fish stocking practices 4.06 0.89 14
+Note: For more information on the survey dataset, please see Supplementary Materials.
+4.2. Results of Factor Analysis
+This study adopted a principal component method in conjunction with the varimax ro-
+tation technique to determine key perception variables under the two dimensions: Satoumi
+Actions and SDGs Perceptions. For items under the Satoumi Actions dimension, the
+Kaiser–Meyer–Olkin (KMO) value was 0.867 and the Bartlett’s test was signiﬁcant at the
+0.01 level ( x2= 1703.616, p< 0.01). For items under the SDGs Perceptions dimension, the
+KMO value was 0.801, and the Bartlett’s test was signiﬁcant at the 0.01 level ( x2= 652.947,
+p< 0.01). The results indicate that both dimensions were appropriate [25].
+The factors under each dimension, with an eigenvalue greater than one, were re-
+tained, and items with a factor loading greater than 0.65 were retained. For both dimen-
+sions, all of the factors had a Cronbach’s alpha of greater than 0.8, indicating that the
+internal reliability of factors is excellent. Based on the respondents’ response, two per-
+Sustainability 2023 ,15, 7919 8 of 19
+ception factors were selected from the Satoumi Actions dimension: (1) Empowerment
+through community-based industry and environmental education (eigenvalue = 3.071,
+proportion = 38.39 , Cronbach’s a = 0.888), and (2) Conservation of crucial biological re-
+sources and habitats ( eigenvalue = 2.855 , proportion = 35.69, Cronbach’s a = 0.868) (Table 2).
+Two perception factors were also selected from the SDGs Perceptions dimension: (1) Ma-
+rine socio-economic sustainability (eigenvalue = 2.495, proportion = 41.59, Cronbach’s
+a = 0.818 ), and (2) The sustainable use of marine ecological resources (eigenvalue = 1.933,
+proportion = 32.21, Cronbach’s a = 0.885) (Table 3).
+Table 2. Result of the PCA for the perception of Satoumi Actions.
+Item Description of Satoumi Actions (SA) FL CA EV Proportion
+Empowerment through community-based industry and
+environmental education (SA-Empowerment)0.888 3.071 38.39
+Organize Satoumi exchange activities (e.g., seminars or workshops) 0.889
+Fishery revitalization and innovation 0.860
+Fishing community development 0.843
+Promote environmental education 0.756
+Conservation of crucial biological resources and habitats
+(SA-Conservation)0.868 2.855 35.69
+Coastal and seabed habitat protection and creation 0.867
+Conserve priority species 0.864
+Fish farm protection and management 0.804
+Marine and land environmental/resource surveys 0.722
+Table 3. Result of the PCA for SDGs Perceptions.
+Item Description of SDGs Perceptions FL CA EV Proportion
+Marine socio-economic sustainability (SDGs-Socio-economic) 0.818 2.495 41.59
+Ensure employment opportunities for ﬁshing communities and the
+sustainable development of the industry0.848
+Ensure that ﬁshery households have the right to catch and sell ﬁsh 0.773
+Protect local marine culture and natural heritage 0.761
+Ensure that Taiwanese citizens learn the required knowledge and
+skills to promote ocean sustainability0.651
+The sustainable use of marine ecological resources (SDGs-Ecological) 0.885 1.933 32.21
+Conserve and sustainably use ocean and coastal ecological resources 0.938
+Ensure the sustainable management and wise use of ﬁshery resources 0.868
+4.3. The Results of Cluster Analysis and Discriminant Analysis
+Clustering of residents was based on the items under the Satoumi Actions dimension,
+which were selected using factor analysis in the preceding section. Subsequently, a two-
+stage cluster analysis [ 26] was performed. First, this study identiﬁed three clusters by using
+hierarchical clustering. Then, K-means clustering was used to distinguish residents who
+had different perceptions. The results revealed that Clusters I, II, and III had 34, 89, and
+79 participants, respectively. In addition, a discriminant analysis was employed to test the
+results of the cluster analysis, and the results showed that 94.5% of the initial observed
+values can be accurately grouped into each cluster, implying that the results of cluster
+analysis were acceptable (Table 4).
+Sustainability 2023 ,15, 7919 9 of 19
+Table 4. Result of clustering analysis and discriminant analysis.
+Prediction Total
+Cluster I II III
+I Number 33 1 3 34
+Percentage (%) 97.1 2.9 0 100.0
+II Number 2 87 0 89
+Percentage (%) 2.2 97.8 0 100.0
+III Number 5 4 70 79
+Percentage (%) 6.3 5.1 88.6 100.0
+4.4. Types of Residents
+For this section, the types of respondents were determined. Based on the ANOVA
+and Scheff é’s test results (Table 5, Figure 2), each cluster was classiﬁed according to the
+perceptions of Satoumi actions and SDGs, and the clusters were subsequently named.
+Based on the results for the perception of Satoumi actions, Clusters I and II exhibited a
+non-signiﬁcant difference in their perception regarding the factor “Empowerment through
+community-based industry and environmental education (SA-Empowerment)”, whereas
+Clusters I and III exhibited a non-signiﬁcant difference in their perception regarding the
+factor “Conservation of crucial biological resources and habitats (SA-Conservation)”. Based
+on the results for the perception of SDGs, Clusters I and II exhibited non-signiﬁcant
+difference in their perception regarding the factor “Marine socio-economic sustainability
+(SDGs-Socio-economic)”, whereas Clusters I and III exhibited a non-signiﬁcant difference
+in their perception regarding the factor “The sustainable use of marine ecological resources
+(SDGs-Ecological)”. These three clusters were then assigned a name to facilitate the strategic
+planning for target populations in the future.
+Table 5. Result of ANOVA and Scheff é’s multiple range tests.
+Cluster I: Cluster II: Cluster III:
+F-ValueScheffe Multiple Range Test
+(p-Value)Conservation
+Priority
+GroupIndustry–
+Society Priority
+GroupBalanced
+Development
+Group
+(n= 34) ( n= 89) ( n= 79) I-II I-III II-III
+Satoumi Actions (SA)
+Empowerment through
+community-based industry and
+environmental education
+(SA-Empowerment)3.86 4.08 4.80 0.00 ** 0.07 0.00 ** 0.00 **
+Conservation of crucial biological
+resources and habitats
+(SA-Conservation)4.63 3.77 4.77 0.00 ** 0.00 ** 0.11 0.00 **
+SDGs Perceptions (SDG)
+Marine socio-economic
+sustainability (SDG-Social &
+Economic)4.13 4.07 4.79 0.00 ** 0.73 0.00 ** 0.00 **
+The sustainable use of marine
+ecological resources
+(SDG-Ecological)4.63 3.89 4.83 0.00 ** 0.00 ** 0.10 0.00 **
+** Signiﬁcant at 1% conﬁdence level.
+(1) Cluster I—Conservation Priority Group: This cluster consisted of 34 respondents
+(16.83%) and was named Conservation Priority Group because the respondents in this
+cluster had a higher level of perception on marine conservation factors (SA-Conservation,
+SDG-Ecological factors) (perception level > 4.5) than on factors related to industrial devel-
+opment (SA-Empowerment, SDG-Social & Economic).
+Sustainability 2023 ,15, 7919 10 of 19
+(2) Cluster II—Industry–Society Priority Group: 89 respondents (44.06%) were clus-
+tered into this group because they exhibited a higher level of perception (>4.0) on factors
+related to industrial promotion (SA-Empowerment) and socio-economic development
+(SDG-Social & Economic). This cluster was thus named Industry–Society Priority Group.
+(3) Cluster III—Balanced Development Group: 79 respondents (39.11%) were clustered
+into this group. They exhibited a high level of perception (mean score > 4.5) on four factors
+under the two dimensions of Satoumi Actions and SDGs Perception. This cluster was
+therefore named Balanced Development Group.
+Sustainability  2023 , 15, 7919  10 of 19 
+ 
+ Table 5. Result of ANOVA and Scheffé’s multiple range tests.  
+ Cluster I:  Cluster II:  Cluster III:  
+F-Value  Scheffe Multiple 
+Range Test (p-
+Value ) Conservation 
+Priority Group  Industry –
+Society Priority 
+Group  Balanced 
+Development 
+Group  
+ (n = 34) (n = 89) (n = 79)  I-II I-III II-III 
+Satoumi  Actions (SA)      
+Empowerment through 
+community -based industry and 
+environmental education  
+(SA-Empowerment)  3.86  4.08  4.80  0.00 ** 0.07  0.00 ** 0.00 ** 
+Conservation of crucial 
+biological resources and habitats 
+(SA-Conservation)  4.63  3.77  4.77  0.00 ** 0.00 ** 0.11  0.00 ** 
+SDGs Perceptions (SDG)      
+Marine socio -economic 
+sustainability (SDG -Social & 
+Economic)  4.13  4.07  4.79  0.00 ** 0.73  0.00 ** 0.00 ** 
+The sustainable use of marine 
+ecological resources (SDG -
+Ecological)  4.63  3.89  4.83  0.00 ** 0.00 ** 0.10  0.00 ** 
+** Significant at 1% confidence level.  
+ 
+Figure 2. Radar chart for comparing perceptions among clusters.  
+4.5. Cross-Analysis Results  
+Cross-analysis and chi -squared tests are used to ascertain the demographic differ-
+ences among each cluster of residents. The cross -analysis results of socio -economic de-
+mographics are summarized in Table 6 and Figure 3. In comparing the gender of the 
+Figure 2. Radar chart for comparing perceptions among clusters.
+4.5. Cross-Analysis Results
+Cross-analysis and chi-squared tests are used to ascertain the demographic differences
+among each cluster of residents. The cross-analysis results of socio-economic demographics
+are summarized in Table 6 and Figure 3. In comparing the gender of the residents in
+each cluster, the analysis results revealed statistically signiﬁcant differences ( x2= 7.904 ,
+p = 0.019 * ). Male residents made up the majority of the Conservation Priority Group
+(70.6%), and the Industry–Society Priority Group and Balanced Development Group com-
+prised mainly female residents (57.3% and 53.2%, respectively). In comparing the place of
+residence across each cluster, the analysis results revealed statistically signiﬁcant differences
+(x2= 16.985 ,p = 0.009 ** ). In total, 70.6% of the residents in Conservation Priority Group
+lived in Gongliao (35.3%) and southern Yilan (35.3%), whereas most of the residents in
+the Industry–Society Priority Group took up residence in Gongliao (46.1%) and a majority
+in the Balanced Development Group lived in southern Yilan (46.8%). Regarding the resi-
+dents’ education level, the results indicated statistically signiﬁcant differences ( x2= 39.863 ,
+p = 0.000 ** ). The Conservation Priority Group was made up of residents with a bachelor’s
+degree (44.1%); nearly half of the residents in the Industry–Society Priority Group have
+completed primary and junior high school (49.4%); and the Balanced Development Group
+was composed of residents with a bachelor’s degree (40.5%). The occupation of each resi-
+dent across all clusters showed statistically signiﬁcant differences ( x2= 25.551 ,p = 0.000 ** ).
+Sustainability 2023 ,15, 7919 11 of 19
+Providing industrial/commercial services was the occupation of most of the respondents in
+the Conservation Priority Group (50.0%), followed by public services (29.4%). Users of natu-
+ral resources formed the majority in the Industry–Society Priority Group (37.1%), followed
+by industrial/commercial service providers (30.3%). Providing industrial/commercial
+services (41.8%) followed by public services (24.1%) was the occupation of most of the
+respondents in the Balanced Development Group. In examining residents’ income across
+clusters, the results showed statistically signiﬁcant differences ( x2= 11.489 ,p = 0.022 * ). A
+majority of residents in the Conservation Priority Group (52.9%) and the Balanced Develop-
+ment Group (48.1%) earned an annual income of NT$360,000–NT$710,000; while residents
+in the Industry–Society Priority Group mostly earned an annual income below NT$360,000
+(55.1%). In analyzing the residents’ age across clusters, the results also showed statistically
+signiﬁcant differences ( x2= 20.627 ,p = 0.002 ** ). The Conservation Priority Group was made
+up of younger residents, aged 35 years or younger (32.4%) and 35–49 years-old (26.5%); the
+Industry–Society Priority Group comprised older residents, aged 65 years or older (38.2%)
+and 50–64 years-old (31.5%); and the Balanced Development Group consisted of mostly
+middle-aged residents, aged 35–49 years-old (35.4%) and 50–64 years-old (30.4%).
+Table 6. Personal characteristics of three-type residents.
+Conservation
+Priority GroupIndustry–Society
+Priority GroupBalanced
+Development
+GroupTotal
+n= 34 % n= 89 % n= 79 % n %
+Gender x2= 7.904 ,p = 0.019 *
+Male 24 70.6 38 42.7 37 46.8 99 49.0
+Female 10 29.4 51 57.3 42 53.2 103 51.0
+Place of Residence x2= 16.985 ,p = 0.009 **
+Gongliao 12 35.3 41 46.1 30 38.0 83 41.1
+Northern Yilan 8 23.5 20 22.5 4 5.1 32 15.8
+Southern Yilan 12 35.3 23 25.8 37 46.8 72 35.6
+Others 2 2.5 5 5.6 8 10.1 15 7.4
+Education Level x2= 39.863 ,p = 0.000 **
+Primary and junior high school 3 8.8 44 49.4 13 16.5 60 29.7
+Senior high school 6 17.6 22 24.7 20 25.3 48 23.8
+Bachelor’s degree 15 44.1 18 20.2 32 40.5 65 32.2
+Graduate degree or above 10 29.4 5 5.6 14 17.7 29 14.4
+Occupation x2= 25.551 ,p = 0.000 **
+Natural resource user 6 17.6 33 37.1 17 21.5 56 27.7
+Public servant 10 29.4 7 7.9 19 24.1 36 17.8
+Industrial/ commercial service
+provider17 50.0 27 30.3 33 41.8 77 38.1
+Unemployed 1 2.9 22 24.7 10 12.7 33 16.3
+Income x2= 11.489 ,p = 0.022 *
+<NT$360,000 15 44.1 49 55.1 27 34.2 91 45.0
+NT$360,000–710,000 18 52.9 30 33.7 38 48.1 86 42.6
+>NT$720,000 1 2.9 10 11.2 14 17.7 25 12.4
+Age x2= 20.627 ,p = 0.002 **
+<35 11 32.4 7 7.9 13 16.5 31 15.3
+35–49 9 26.5 20 22.5 28 35.4 57 28.2
+50–64 8 23.5 28 31.5 24 30.4 60 29.7
+65 or older 6 17.6 34 38.2 14 17.7 54 26.7
+Are you a local? x2= 3.654 ,p = 0.161
+Yes 24 70.6 75 84.3 59 74.7 158 78.2
+No 10 29.4 14 15.7 20 25.3 44 21.8
+* Signiﬁcant at 5% conﬁdence level; ** Signiﬁcant at 1% conﬁdence level.
+Sustainability 2023 ,15, 7919 12 of 19
+Sustainability  2023 , 15, 7919  12 of 19 
+ 
+ Graduate degree or above  10 29.4 5 5.6 14 17.7 29 14.4 
+Occupation  x2 = 25.551 , p = 0 .000 ** 
+Natural resource user  6 17.6 33 37.1 17 21.5 56 27.7 
+Public servant  10 29.4 7 7.9 19 24.1 36 17.8 
+Industrial/   
+commercial service provider  17 50.0 27 30.3 33 41.8 77 38.1 
+Unemployed  1 2.9 22 24.7 10 12.7 33 16.3 
+Income  x2 = 11.489 , p = 0 .022 * 
+<NT$360,000  15 44.1 49 55.1 27 34.2 91 45.0 
+NT$360,000 –710,000  18 52.9 30 33.7 38 48.1 86 42.6 
+>NT$720,000  1 2.9 10 11.2 14 17.7 25 12.4 
+Age x2 = 20.627 , p = 0 .002 ** 
+<35  11 32.4 7 7.9 13 16.5 31 15.3 
+35–49 9 26.5 20 22.5 28 35.4 57 28.2 
+50–64 8 23.5 28 31.5 24 30.4 60 29.7 
+65 or older  6 17.6 34 38.2 14 17.7 54 26.7 
+Are you a local?  x2 = 3.654, p = 0.161 
+Yes 24 70.6 75 84.3 59 74.7 158 78.2 
+No 10 29.4 14 15.7 20 25.3 44 21.8 
+* Significant at 5% confidence level; **  Significant at 1% confidence level . 
+  
+  
+         
+                           
+                  
+                                 
+            
+                        
+                
+                    
+          
+                  
+                          
+                         
+                               
+                                 
+            
+                        
+                
+                    
+              
+              
+                
+                
+                          
+                           
+                         
+         
+                                 
+            
+                        
+                
+                         
+     
+        
+           
+                
+             
+                 
+                         
+                  
+                         
+                  
+                                 
+            
+                        
+                
+                        
+           
+          
+                
+              
+                
+              
+Sustainability  2023 , 15, 7919  13 of 19 
+ 
+   
+Figure 3. Personal characteristics of different gender ( a), location ( b), education ( c), occupation ( d), 
+income ( e), and age ( f) of three-type stakeholders.  
+5. Discussion and Policy Implications  
+The value of Satoumi  lies in the realization of a society in harmony with ecosystems 
+through an awareness of local needs and acquiescence to diverse opinions and contribu-
+tions. Therefore,  whether relevant policies introduced by the government are enforced 
+under the opinions a nd awareness of the majority is imperative [27] . The discussion of this 
+study is presented in two aspects.  
+5.1. The Trend Observed Based on Coastal Residents’ Perceptions  
+5.1.1. Ranking of the Perception of Satoumi Actions  
+The ranking of the perception of Satoumi actions revealed that all of the respondents 
+recognized Satoumi actions, attaching particular importance to the actions, “clearing ma-
+rine litter ( m = 4.56)”, “promoting environmental education ( m = 4.47)”, and “conserving 
+priority species ( m = 4.41)”. This result may be attributed to the global impact of marine 
+litter on the coastal environment or fisheries in recent years, which is an emerging marine 
+conservation issue that has also made the general public and local residents who rely on 
+the ocean for their livelihoods realize the urgency of marine environmental education.  
+For actions  that ranked in the middle -range priority, respondents attached the im-
+portance of intervention measures for contexts in the Northeast Coast of Taiwan, particu-
+larly for crucial livelihood resources (e.g., “protect and manage fishing ground, m = 4.32”) 
+and related environments (e.g., “protect and create habitats, m = 4.27”). On the other hand, 
+due to the predominance of traditional industries in the study area, negative pe rceptions 
+of the traditional industries and the outflow of human resources caused by urbanization 
+have resulted in the declining trend of coastal industries. Respondents’ emphasis on “fish-
+ery revitalization and innovation ( m = 4.29)” may be due to their desire for new develop-
+ment through  a new means to bring  about socio-economic benefits [28]. However, to find 
+available resources or draw up a development direction, the involvement of local stake-
+holders is required, and “fishing community development  (m = 4.27)” is one of the key 
+drivers of these actions. Similar experiences, cases, and discourses have also been found 
+in other Satoumi cases [3,28]. Although actions related to “build a database for Satoumi 
+promotion ( m = 4.28)” or “organize Satoumi exc hange activities ( m = 4.28)” were not 
+highly prioritized by respondents, these actions still hold the potential for strengthening 
+the relationship between the sea and people , and enhancing ocean literacy [29], which is 
+crucial for cultivating potential sup porters for ocean conservation and sustainable devel-
+opment in the future.  
+The finding reveals an important insight in to lower-ranked priority actions, indicat-
+ing not to overlook fundamental works such as resource investigation (e.g., “survey and 
+preserve l ocal knowledge, m = 4.24”; “survey marine and land resource, m = 4.21”), espe-
+cially under the deteriorating trend of  the erosion of traditional knowledge and practices,  
+                  
+                           
+                
+                  
+                                 
+            
+                        
+                
+           
+              
+           
+       
+                 
+         
+                        
+                          
+                          
+                  
+                                 
+            
+                        
+                
+                         
+     
+     
+      
+Figure 3. Personal characteristics of different gender ( a), location ( b), education ( c), occupation ( d),
+income ( e), and age ( f) of three-type stakeholders.
+5. Discussion and Policy Implications
+The value of Satoumi lies in the realization of a society in harmony with ecosystems
+through an awareness of local needs and acquiescence to diverse opinions and contributions.
+Therefore, whether relevant policies introduced by the government are enforced under the
+opinions and awareness of the majority is imperative [ 27]. The discussion of this study is
+presented in two aspects.
+5.1. The Trend Observed Based on Coastal Residents’ Perceptions
+5.1.1. Ranking of the Perception of Satoumi Actions
+The ranking of the perception of Satoumi actions revealed that all of the respondents
+recognized Satoumi actions, attaching particular importance to the actions, “clearing marine
+litter (m = 4.56)”, “promoting environmental education (m = 4.47)”, and “conserving
+Sustainability 2023 ,15, 7919 13 of 19
+priority species (m = 4.41)”. This result may be attributed to the global impact of marine
+litter on the coastal environment or ﬁsheries in recent years, which is an emerging marine
+conservation issue that has also made the general public and local residents who rely on
+the ocean for their livelihoods realize the urgency of marine environmental education.
+For actions that ranked in the middle-range priority, respondents attached the impor-
+tance of intervention measures for contexts in the Northeast Coast of Taiwan, particularly
+for crucial livelihood resources (e.g., “protect and manage ﬁshing ground, m = 4.32”) and
+related environments (e.g., “protect and create habitats, m = 4.27”). On the other hand, due
+to the predominance of traditional industries in the study area, negative perceptions of the
+traditional industries and the outﬂow of human resources caused by urbanization have
+resulted in the declining trend of coastal industries. Respondents’ emphasis on “ﬁshery
+revitalization and innovation (m = 4.29)” may be due to their desire for new development
+through a new means to bring about socio-economic beneﬁts [ 28]. However, to ﬁnd avail-
+able resources or draw up a development direction, the involvement of local stakeholders
+is required, and “ﬁshing community development (m = 4.27)” is one of the key drivers
+of these actions. Similar experiences, cases, and discourses have also been found in other
+Satoumi cases [ 3,28]. Although actions related to “build a database for Satoumi promotion
+(m = 4.28)” or “organize Satoumi exchange activities (m = 4.28)” were not highly prioritized
+by respondents, these actions still hold the potential for strengthening the relationship be-
+tween the sea and people, and enhancing ocean literacy [ 29], which is crucial for cultivating
+potential supporters for ocean conservation and sustainable development in the future.
+The ﬁnding reveals an important insight into lower-ranked priority actions, indicating
+not to overlook fundamental works such as resource investigation (e.g., “survey and pre-
+serve local knowledge, m = 4.24”; “survey marine and land resource, m = 4.21”), especially
+under the deteriorating trend of the erosion of traditional knowledge and practices, which
+emphasize the maintenance, use, and transmission of traditional knowledge as an active
+cultural resource in society [ 30]. Using “launch ocean experience activities (m = 4.22)” as an
+example, it is highly suitable to integrate the knowledge of local ﬁshermen, residents, and
+experts regarding the local environment and biology of ﬁshing villages into the design of
+the experiential activities, in order to enhance civic interaction and interest in the ocean [ 16].
+As the promotion of Satoumi is based on the local ecology and local actors, a comprehensive
+inventory is necessary to understand and identify the complex relationships and potential
+issues or opportunities that may arise from the interactions between social and ecological
+actors [31].
+Compared to other actions, “remove alien species (m = 4.13)” ranks second to last.
+This may be due to the issue not currently causing signiﬁcant livelihood difﬁculties for
+respondents and is therefore not considered an urgent matter. However, this does not
+mean that the issue is unimportant. There have been anecdotal reports of religious release
+activities in Taiwan involving species such as Tiger grouper, Epinephelus fuscoguttatus x
+Epinephelus lanceolatus , but their ecological impact remains to be investigated. Additionally,
+escapes of aquaculture species (e.g., red drum, Sciaenops ocellatus ) may also have potential
+impacts on marine ecosystems [ 32]. In the case of Okinawa in Japan, ﬁshermen took
+proactive measures to remove the crown-of-thorns starﬁsh, which was found to have an
+impact on the coral reef ecosystem [ 33]. Our study’s ﬁndings differ from other cases in the
+current context. Previous research indicates that marine invasive alien species receive less
+attention, and their impacts are not adequately recorded. Therefore, there is a need for the
+systematic monitoring and management of invasive alien species, particularly in marine
+and tropical regions [34].
+“Fish stocking practices (m = 4.06)” were perceived as the least important among
+respondents living in Yilan and Gongliao, so the next important step is thinking of ways to
+raise residents’ awareness of the beneﬁts of ﬁsh stocking practices. Previously, a Japanese
+study presented various evidence showing that ﬁsh stocking is unnecessary (because of low
+recapture rate and the low economic efﬁciency of stocking). However, stock enhancement
+programs cannot be easily terminated because they play an important role in having
+Sustainability 2023 ,15, 7919 14 of 19
+ﬁshers recognize the importance of ﬁshery management. Nevertheless, Japan overcame
+this problem by contributing released ﬁsh to total landings, which enables ﬁshers to be
+personally involved in conservation efforts while effectively utilizing ﬁshery resources and
+understanding the importance of ﬁshery management [ 35]. This approach can serve as a
+reference for Taiwanese authorities.
+5.1.2. Personal Characteristics of Three-Type Residents
+Past studies showed that socio-economic factors inﬂuenced the environmental aware-
+ness, attitudes, and behaviors of residents. For example, a study observed that uneducated
+populations were unsupportive of conservation efforts compared with the educated pop-
+ulations [ 36]. Masud and Kari [ 37] reported that younger people were more aware of
+environmental problems than their counterparts because young people have easier access
+to information, such as the mass media and social networks. Income is also a key factor
+inﬂuencing environmental awareness [ 37,38]. According to the result of cluster analysis, the
+clusters were characteristically the same as the results of the aforementioned studies. For ex-
+ample, the Industry–Society Priority Group which has the highest number of people ( n= 89)
+differed characteristically from the respondents in the Conservation Priority Group and
+Balanced Development Group. Speciﬁcally, the Conservation Priority Group and Balanced
+Development Group consisted mainly of respondents with a higher education level (44.1%
+and 44.5% have a bachelor’s degree, respectively), providers of industrial/commercial
+services (50.0% and 41.8%, respectively), and moderate income earners (52.9% and 48.1%,
+respectively). In comparison, the Industry–Society Priority Group mainly consisted of
+respondents with primary and junior high school education (49.4%), low income earners
+(55.1%), users of natural resources (37.1%), and older respondents (38.2%). Based on this
+empirical study and the researcher’s current observation of coastal ﬁshing communities in
+Taiwan, residents of ﬁshing communities are generally older and capable of tapping into the
+wisdom they have gained throughout their life to utilize coastal resources. The respondents
+in the Industry–Society Priority Group highly valued the factor “empowerment through
+community-based industry and environmental education” probably because of their at-
+tempt to search for diverse resources to strengthen their industrial competency in order to
+tackle the challenges arising from marine pollution and the depletion of marine resources.
+The respondents in this group also recognized the importance of “marine socio-economic
+sustainability”, which further highlights how much they valued employment opportu-
+nities for ﬁshing communities, sales and marketing channels, cultural preservation, and
+acquisition of knowledge and skills. The Conservation Priority Group highly valued the
+“conservation of crucial biological resources and habitats” and “sustainable use of marine
+ecological resources.” After the lifting of martial law in 1987, coastal areas in Taiwan were
+frequently used to engage in various activities, particularly water recreational activities
+related to the service sector [ 39]. However, the service sector is not only a user of marine
+resources, but also a provider of tourism travel services. Therefore, stakeholders in this
+sector tend to use the environment and natural resources more wisely because of their
+industry characteristics. Finally, the Balanced Development Group held a high level of
+perception toward socio-economic development and environmental protection. According
+to the ﬁndings of this study and the results of relevant empirical research, individual
+beliefs or governmental policies have demonstrated a shift from the emphasis on absolute
+development or restrictions among other binary approaches to a commitment to marine
+conservation and the stability of social and economic development [8,40,41].
+5.2. Consideration of Diverse Opinions Facilitates the Balanced Development of Coastal Areas
+The observation of this study, with respect to the larger sample size of the Balanced
+Development Group, revealed that to a certain extent, most of the residents along the
+northeastern coast of Taiwan have hoped to consider the balanced development between
+the economy, environment, and society when thinking about coastal actions and sustain-
+ability issues. There is actually a development context in which such a result occurs. In
+Sustainability 2023 ,15, 7919 15 of 19
+line with the global trend of mainstreaming biodiversity, Taiwan also drafted a Biodiversity
+Promotion Program in 2001 and adopted the Aichi Biodiversity Targets to revise its Biodi-
+versity Sustainable Development Action Plan in 2012. Drawing on the foundation of the
+Taiwan Ecological Network, the Council of Agriculture of Executive Yuan built a network
+of partnerships and collaborative governance for Satoumi landscapes and the ecological
+blue way. Based on the foundation of its afﬁliated agencies, the Fisheries Agency and
+Fisheries Research Institute, the Council of Agriculture embraced the support of the coastal
+and ocean sustainable partners (e.g., local residents, NGOs, and local governments), joining
+forces across regions to govern watersheds, mountains, and other areas in Taiwan [ 40,41].
+Therefore, the concept of Satoumi, deﬁned as “coastal sea-used sustainably in order to
+support life of local people” [ 3,6], has been internalized into the sustainable development
+strategy for coastal regions of Taiwan.
+For residents in the Conservation Priority Group, the government is becoming more
+inclusive of the voices of local residents, as evidenced by the launch of community-based
+marine conservation programs by the Ocean Conservation Administration. These programs
+offer small-sum subsidies as a means of encouraging local communities and organizations
+to invest resources in various marine conservation efforts, such as ecosystem restoration,
+ocean citizen science, friendly ﬁshing activities, marine conservation promotion, and ocean
+clean-up activities. Following the promulgation of the Coastal Zone Management Act
+in 2015, the Minister of the Interior initiated a locally integrated coastal management
+program aimed at interlinking coastal management and development organizations in
+counties and cities to build a local coastal management mechanism in 2019. In 2017, the
+Environmental Protection Administration of Executive Yuan established the Taiwan Marine
+Debris Management Platform in collaboration with civic environmental organizations.
+Each party recognizes the complex nature of marine debris and the limited capability of
+a single agency or organization, and feels the urgency of taking environmental actions at
+all levels. Therefore, the Environmental Protection Administration united both the private
+and public sectors, inviting relevant agencies to engage in discussions and continuously
+encourage stakeholders to raise public awareness and support environmental actions to
+reduce the generation and impact of marine debris.
+In this study, the Industry–Society Priority Group had the largest sample size, which
+likely implies that the opinions of this group of people will be mainstream among coastal
+residents of Taiwan. Previously, Taiwanese authorities had responded to the Blue Economy
+trend during 2015–2018. For example, the Fisheries Agency (afﬁliated to the Council
+of Agriculture of Taiwan) launched the Coastal Blue Economy Growth Program [ 42],
+adopting community-based sea farming projects to promote ocean productivity and the
+economic development of coastal areas [ 8]. With the rise in environmental conservation
+awareness, in reality, ﬁshers as a key stakeholder are also asked to join ocean conservation
+action networks, compelling them to face trade-offs between catering to the needs of the
+ocean and continuing production for their livelihoods, which is associated with increased
+ﬁsheries costs due to regulatory restrictions or limited access to resources (e.g., marine
+protected areas). This conﬂicts with the productionist orientation of some industrialized
+forms of agriculture [ 43]. We should therefore align the attitude of the Industry–Society
+Priority Group with that held by the Balanced Development Group or enforce policies and
+relevant regulations so that environmental protection and livelihoods are integrated. To
+this end, relevant authorities must develop an innovative model that balances the value
+of environmental protection and the associated costs, and enables all participants in the
+entire system (e.g., ﬁsheries, aquatic products) to understand and provide their support.
+Thus, to develop coastal areas, the principle of the wise use of resources [ 44,45] must still
+be adhered to when formulating a strategy that secures existing livelihoods and meets
+expectations on environmental protection.
+Finally, this study examined the mainstream policies implemented by the Taiwanese
+government for coastal zone development, and found that Satoumi contents have been
+internalized in governmental policies for ﬁsheries, ocean conservation, marine studies,
+Sustainability 2023 ,15, 7919 16 of 19
+coastal management, and rural development. Locals of coastal communities should be ap-
+propriately empowered to learn the Satoumi concept and develop the ability to participate
+in decision-making and understand what governmental resources are available. In doing
+so, when the socio-ecological sustainability of a place is threatened, then industries, the
+government, academia, community residents, and NGOs will have the opportunity to take
+collective actions and collaborate to solve predicaments, thereby creating a mechanism that
+promotes a bottom-up approach and collaborative governance [ 8,28,41,46]. This process
+will help strengthen the SEPLS and community resilience of coastal areas.
+6. Conclusions
+This study conducted a questionnaire survey of coastal residents in the context of
+northeastern Taiwan for investigating the standpoint and perception of residents regarding
+Satoumi actions and SDGs to provide suggestions for the formulation of speciﬁc coastal
+development strategies. By analyzing the perceptions of Satoumi actions, it was found that
+all respondents had a high level of agreement towards Satoumi actions. Furthermore, rank-
+ing Satoumi action perceptions demonstrated the residents’ perceived priorities for these
+actions in the context of northeastern Taiwan. Through factor analysis, Satoumi actions
+were associated with two factors: “Empowerment through community-based industry and
+environmental education”, and “Conservation of crucial biological resources and habitats”.
+In addition, the SDGs Perceptions dimension consisted of two factors, “Marine socio-
+economic sustainability” and “The sustainable use of marine ecological resources”. The
+results of cluster analysis showed that three-type stakeholders were identiﬁed according to
+their perception toward economic development and ocean conservation. The three groups
+were named Industry–Society Priority Group, Conservation Priority Group, and Balanced
+Development Group.
+Based on Taiwan’s current experience, policies on biodiversity mainstreaming and
+sustainability concepts have been implemented in the development of coastal areas. These
+policy tools allow stakeholders with various perspectives to have voices and the right to
+take action. However, coastal residents in this study still have considerable opinions that
+are focused on industries and the society. This ﬁnding echoes the current global trend of
+ﬁnding a balance between economic development needs and environmental protection in
+coastal zone development [ 47]. Therefore, it is suggested that any policy related to coastal
+environmental or economic development should make good use of tools and methods that
+encourage stakeholder interaction, dialogue, and consensus-building. Furthermore, future
+research should focus on further analyzing various coastal management policy tools to
+establish a comprehensive toolkit for sustainable coastal governance.
+Finally, given that the 2010–2020 Strategic Plan for Biodiversity failed to halt the trend
+of ecological degradation, the United Nations’ COP 15 in 2022 proposed a new global
+biodiversity framework that emphasizes the participation of diverse stakeholders in addi-
+tion to the conservation and sustainable use of biodiversity [ 48]. Through the perspective
+of local residents, this study revealed that respondents held a high level of agreement
+towards various Satoumi actions. The results of the ranking also indicated the urgency of
+certain Satoumi actions and identiﬁed measures that have been implemented in the current
+context in Taiwan but still require improvement. The Satoumi approach, which emphasizes
+conservation and sustainable use of coastal resources without excluding human activities,
+requires a holistic concept when applied as an approach to the sustainable governance of
+Taiwan’s coastal areas. More efforts need to be invested in to explore the needs of various
+stakeholders, and to promote collaboration and coordination among them. Therefore, it is
+recommended that the Satoumi concept relies on public–private collaboration to initiate
+and sustain its application for sustainable development of coastal SEPLS. It is expected to
+provide greater protection for biodiversity and bring about transformative change in society,
+toward more sustainable and equitable social, environmental, and economic development.
+Sustainability 2023 ,15, 7919 17 of 19
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/su15107919/s1, Table S1: Respondents’ perception on Satoumi
+Actions. Table S2. Respondents’ perception on SDGs. Table S3. Correlation Matrix of Pearson
+Correlation Coefﬁcients of Satoumi Actions (SA) Variables. Table S4. Correlation Matrix of Pearson
+Correlation Coefﬁcients of SDGs Variables.
+Author Contributions: K.H. participated in data collection and processing, edited, and drafted
+the manuscript; J.-L.C. developed the conceptualization of this study and interpreted some of the
+results and edited the manuscript. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This work was supported by ”the Taiwan Ecological Network”—the program of the
+Council of Agriculture of Taiwan.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Data sharing is not applicable to this article.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Duraiappah, A.; Nakamura, K. The Japan Satoyama Satoumi Assessment: Objectives, Focus and Approach. In Satoyama-Satoumi
+Ecosystems and Human Well-Being, Socio-Ecological Production Landscapes of Japan ; United Nations University Press: Tokyo, Japan,
+2012; pp. 1–16, ISBN 978-921-055-290-5.
+2. Kozar, R.; Galang, E.; Alip, A.; Sedhain, J.; Subramanian, S.; Saito, O. Multi-level networks for sustainability solutions: The case of
+the International Partnership for the Satoyama Initiative. Curr. Opin. Environ. Sustain. 2019 ,39, 123–134. [CrossRef]
+3. Mizuta, D.D.; Vlachopoulou, E.I. Satoumi concept illustrated by sustainable bottom-up initiatives of Japanese Fisheries Coopera-
+tive Associations. Mar. Pol. 2017 ,78, 143–149. [CrossRef]
+4. Makino, M.; Matsuda, H.; Sakurai, Y. Expanding ﬁsheries co-management to ecosystem-based management: A case in the
+Shiretoko World Natural Heritage area, Japan. Mar. Pol. 2009 ,33, 207–214. [CrossRef]
+5. Makino, M.; Hori, M.; Nanami, A.; Hori, J.; Tajima, H. Mapping the Policy Interventions on Marine Social-Ecological Systems: Case
+Study of Sekisei Lagoon, Southwest Japan. In Managing Socio-Ecological Production Landscapes and Seascapes for Sustainable Communities
+in Asia: Mapping and Navigating Stakeholders, Policy and Action ; Springer: Singapore, 2020; pp. 11–29, ISBN 981-151-132-2.
+6. Yanagi, T. Chapter 1—Introduction. In Integrated Coastal Management in the Japanese Satoumi ; Elsevier: Amsterdam, The Nether-
+lands, 2019; pp. 1–14, ISBN 012-813-060-1.
+7. Tietze, U. Technical and Socio-Economic Characteristics of Small-Scale Coastal Fishing Communities, and Opportunities for Poverty Alleviation
+and Empowerment ; Food and Agriculture Organization of the United Nations: Rome, Italy , 2016; ISBN 978-92-5-109230-9.
+8. Chen, J.-L.; Hsu, K.; Chuang, C.-T. How do ﬁshery resources enhance the development of coastal ﬁshing communities: Lessons
+learned from a community-based sea farming project in Taiwan. Ocean Coast. Manag. 2020 ,184, 105015:1–105015:9. [CrossRef]
+9. Chen, C.-L.; Chang, Y.-C. A transition beyond traditional ﬁsheries: Taiwan’s experience with developing ﬁshing tourism. Mar.
+Pol. 2017 ,79, 84–91. [CrossRef]
+10. Hsiao, Y.J.; Chen, J.L. Different perspectives of stakeholders on the sustainable development of ﬁshery-based communities in
+Northeast Taiwan. Mar. Pol. 2021 ,130, 104576:1–104576:11. [CrossRef]
+11. Chen, J.-L. Comparison of the development of nearshore ﬁsheries and ﬁshing villages between Taiwan and Japan, and policy
+implications. Agric. Ext. Anthol. 2020 ,65, 147–160. (In Chinese)
+12. Takeuchi, K.; Ichikawa, K.; Elmqvist, T. Satoyama landscape as social–ecological system: Historical changes and future perspective.
+Curr. Opin. Environ. Sustain. 2016 ,19, 30–39. [CrossRef]
+13. Yanagi, T. Establishment of Sato-Umi in the coastal sea. J. Jpn. Soc. Water Environ. 1998 ,21, 703. (In Japanese)
+14. Uehara, T.; Mineo, K. Regional sustainability assessment framework for integrated coastal zone management: Satoumi, ecosystem
+services approach, and inclusive wealth. Ecol. Indic. 2017 ,73, 716–725. [CrossRef]
+15. Yanagi, T. Sato-Umi: A New Concept for Sustainable Fisheries, Fisheries for Global Welfare and Environment. In Proceedings of
+the 5th World Fisheries Congress, Yokohama, Japan, 20–25 October 2008; pp. 352–358.
+16. Ministry of the Environment of Japan. Satoumi Manual. Available online: https://www.env.go.jp/water/heisa/satoumi/
+common/satoumi_manual_all.pdf (accessed on 22 July 2020).
+17. Ministry of the Environment of Japan. The Survey of Satoumi Creation Activities (in 2018). Available online: https://www.env.
+go.jp/content/900501225.pdf (accessed on 16 September 2020).
+18. Berque, J.; Matsuda, O. Coastal biodiversity management in Japanese satoumi. Mar. Pol. 2013 ,39, 191–200. [CrossRef]
+19. IPBES. Summary for Policymakers of the Assessment Report on Biodiversity and Ecosystem Services for Asia and the Pa-
+ciﬁc (Summary for Policy Makers). Available online: https://zenodo.org/record/3237383#.ZF2ay6VByUk (accessed on 29
+March 2021).
+Sustainability 2023 ,15, 7919 18 of 19
+20. Ministry of the Interior. Number of Households and Population in Each Township. Available online: https://www.ris.gov.tw/
+app/portal/346 (accessed on 14 April 2023).
+21. Fisheries Agency. Taiwan Area Fisheries Yearbook 2021. Fisheries Agency, Council of Agriculture, Executive Yuan. Available
+online: https://www.fa.gov.tw/view.php?theme=FS_AR&subtheme=&id=21 (accessed on 14 April 2023).
+22. Japan Satoyama Satoumi Assessment (JSSA). Satoyama-Satoumi Ecosystems and Human Well-Being: Socio-Ecological Production
+Landscapes of Japan-Summary for Decision Makers ; United Nations University: Tokyo, Japan, 2010; ISBN 978-928-084-513-6.
+23. Henson, R.K.; Roberts, J.K. Use of exploratory factor analysis in published research: Common errors and some comment on
+improved practice. Educ. Psychol. Meas. 2006 ,66, 393–416. [CrossRef]
+24. Dolnicar, S. Using cluster analysis for market segmentation-typical misconceptions, established methodological weaknesses and
+some recommendations for improvement. Australas. J. Mark. Res. 2003 ,11, 5–12.
+25. Hair, J.F.; Anderson, R.E.; Tatham, R.L.; Black, W.C. Multivariate Data Analysis ; Prentice Hall International: Englewood Cliffs, NJ,
+USA, 1998; ISBN 013-894-858-5.
+26. Punj, G.; Stewart, D.W. Cluster analysis in marketing research: Review and suggestions for application. J. Mark. Res. 1983 ,20,
+134–148. [CrossRef]
+27. Sakurai, R.; Ota, T.; Uehara, T. Sense of place and attitudes towards future generations for conservation of coastal areas in the
+Satoumi of Japan. Biol. Conserv. 2017 ,209, 332–340. [CrossRef]
+28. Toyoshima, J.; Fujii, I.; Maekawa, M.; Tsunoda, T.; Kamada, N.; Hidaka, H.; Tojo, Y.; Ikeda, K. Assessing effectiveness of
+satoumi activities in Japanese coastal areas from ecological and socioeconomic perspectives. Ocean Coast. Manag. 2022 ,230,
+106354:1–106354:10. [CrossRef]
+29. Uehara, T.; Sakurai, R.; Tsuge, T. Cultivating relational values and sustaining socio-ecological production landscapes through
+ocean literacy: A study on Satoumi. Environ. Dev. Sustain. 2020 ,22, 1599–1616. [CrossRef]
+30. Cetinkaya, G. Challenges for the Maintenance of Traditional Knowledge in the Satoyama and Satoumi Ecosystems, Noto
+Peninsula, Japan. Hum. Ecol. Rev. 2009 ,16, 27–40.
+31. Schultz, L.; Folke, C.; Olsson, P . Enhancing ecosystem management through social-ecological inventories: Lessons from Kris-
+tianstads Vattenrike, Sweden. Environ. Conserv. 2007 ,34, 140–152. [CrossRef]
+32. Liao, Y.-C.; Chen, L.-S.; Shao, K.-T. The predatory Atlantic red drum, Sciaenops ocellatus , has invaded the western Taiwanese coast
+in the Indo-West Paciﬁc. Biol. Invasions 2010 ,12, 1961–1965. [CrossRef]
+33. Higa, Y.; Takeuchi, A.; Yanaka, S. Connecting Local Regions and Cities through Mozuku Seaweed Farming and Coral Reef
+Restoration: Onna Village, Okinawa. In Satoumi Science: Co-Creating Social-Ecological Harmony between Human and the Sea ; Kakuma,
+S., Yanagi, T., Sato, T., Eds.; Springer: Singapore, 2022; pp. 193–215, ISBN 978-981-16-7490-7.
+34. Tricarico, E.; Junqueira, A.O.R.; Dudgeon, D. Alien species in aquatic environments: A selective comparison of coastal and inland
+waters in tropical and temperate latitudes. Aquat. Conserv. Mar. Freshw. Ecosyst. 2016 ,26, 872–891. [CrossRef]
+35. Tomiyama, T.; Watanabe, M.; Fujita, T. Community-Based Stock Enhancement and Fisheries Management of the Japanese
+Flounder in Fukushima, Japan. Rev. Fish. Sci. 2008 ,16, 146–153. [CrossRef]
+36. Pietrzyk-Kaszy ´ nska, A.; Cent, J.; Grodzi ´ nska-Jurczak, M.; Szyma ´ nska, M. Factors inﬂuencing perception of protected areas—The
+case of Natura 2000 in Polish Carpathian communities. J. Nat. Conserv. 2012 ,20, 284–292. [CrossRef]
+37. Masud, M.M.; Kari, F.B. Community attitudes towards environmental conservation behaviour: An empirical investigation within
+MPAs, Malaysia. Mar. Pol. 2015 ,52, 138–144. [CrossRef]
+38. Shen, J.; Saijo, T. Reexamining the relations between socio-demographic characteristics and individual environmental concern:
+Evidence from Shanghai data. J. Environ. Psychol. 2008 ,28, 42–50. [CrossRef]
+39. Tan, W.J.; Yang, C.F.; Ch âteau, P .A.; Lee, M.T.; Chang, Y.C. Integrated coastal-zone management for sustainable tourism using a
+decision support system based on system dynamics: A case study of Cijin, Kaohsiung, Taiwan. Ocean Coast. Manag. 2018 ,153,
+131–139. [CrossRef]
+40. Chen, J.-L.; Hsu, K. Satoumi Areas and Networks in Taiwan: The Integrity and Connection among Forests, Rivers, Human Settle-
+ment and Seas. Available online: https://satoyama-initiative.org/case_studies/test-satoumi-areas-and-networks-in-taiwan-
+the-integrity-and-connection-among-forests-rivers-human-settlement-and-seas/?fbclid=IwAR0o9k-aMwlRhSfGFWc7q7IE5
+ZZISwy5N-_Pd20gRXiaOtxcO_ﬂLzFOScU (accessed on 7 July 2022).
+41. Chen, J.-L.; Hsu, K.; Liao, C.-P .; Hsiao, Y.-R.; Liu, E.-Y. Engaging Local People in Conserving the Socio-Ecological Production
+Landscape and Seascape by Practicing Collaborative Governance in Mao’ao Bay, Chinese Taipei. In Ecosystem Restoration through
+Managing Socio-Ecological Production Landscapes and Seascapes (SEPLS) (Satoyama Initiative Thematic Review Volume 8) ; Nishi, M.,
+Subramanian, S.M., Eds.; Springer: Singapore, 2023; in press , ISBN 978-981-991-291-9.
+42. Lee, K.T. On the Promotion of Demonstration Area of Fish Farming in the Coastal Waters of Taiwan ; Research Report; Fishery Agency,
+Council of Agriculture: Taiwan, China, 2015. (In Chinese)
+43. Puig de la Bellacasa, M. Making time for soil: Technoscientiﬁc futurity and the pace of care. Soc. Stud. Sci. 2015 ,45, 691–716.
+[CrossRef]
+44. Finlayson, C.M.; Davidson, N.; Pritchard, D.; Milton, G.R.; MacKay, H. The Ramsar Convention and Ecosystem-Based Approaches
+to the Wise Use and Sustainable Development of Wetlands. J. Int. Wildl. Law Policy 2011 ,14, 176–198. [CrossRef]
+Sustainability 2023 ,15, 7919 19 of 19
+45. Walker, J.E.; Ankersen, T.; Barchiesi, S.; Meyer, C.K.; Altieri, A.H.; Osborne, T.Z.; Angelini, C. Governance and the mangrove
+commons: Advancing the cross-scale, nested framework for the global conservation and wise use of mangroves. J. Environ.
+Manag. 2022 ,312, 114823:1–114823:17. [CrossRef]
+46. Li, Y.; Westlund, H.; Zheng, X.; Liu, Y. Bottom-up initiatives and revival in the face of rural decline: Case studies from China and
+Sweden. J. Rural Stud. 2016 ,47, 506–513. [CrossRef]
+47. OECD. Greening the Ocean Economy: Summary Report. Green Growth and Sustainable Development Forum. Available online:
+https://www.oecd.org/greengrowth/GGSD_2017_Summary%20Report_WEB.pdf (accessed on 11 October 2022).
+48. CBD. Nations Adopt Four Goals, 23 Targets for 2030 in Landmark UN Biodiversity Agreement. Available online: https:
+//www.cbd.int/article/cop15-cbd-press-release-ﬁnal-19dec2022 (accessed on 8 April 2023).
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

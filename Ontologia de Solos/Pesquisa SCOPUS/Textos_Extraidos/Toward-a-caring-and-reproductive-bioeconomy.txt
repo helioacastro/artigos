@@ -1,0 +1,1440 @@
+Sustainability: Science, Practice and Policy
+ISSN: 1548-7733 (Online) Journal homepage: www.tandfonline.com/journals/tsus20
+Toward a caring and (re)productive bioeconomy?
+A feminist analysis of socio-technical innovations
+and sustainability shortcomings
+Sarah Hackfort & Anna Saave
+To cite this article: Sarah Hackfort & Anna Saave (2024) Toward a caring and (re)productive
+bioeconomy? A feminist analysis of socio-technical innovations and sustainability
+shortcomings, Sustainability: Science, Practice and Policy, 20:1, 2375808, DOI:
+10.1080/15487733.2024.2375808
+To link to this article:  https://doi.org/10.1080/15487733.2024.2375808
+© 2024 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 22 Jul 2024.
+Submit your article to this journal 
+Article views: 1380
+View related articles 
+View Crossmark data
+Citing articles: 5 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tsus20
+SuStainability: Science, Practice and Policy
+2024, Vol. 20, no . 1, 2375808
+Toward a caring and (re)productive bioeconomy? A feminist analysis of 
+socio-technical innovations and sustainability shortcomings
+Sarah Hackfort  and Anna Saave 
+agricultural and Food Policy Group, d epartment of a gricultural e conomics, Humboldt-universitat zu b erlin, b erlin, Germany
+ABSTRACT
+The bioeconomy is touted as an innovative economic approach to make economies more 
+sustainable through the use of biological resources and processes. In many bioeconomy 
+policies, the expansion of biomass is key and is enabled by new biotechnologies and precision 
+agriculture (PA). We respond to the demand for critical approaches to sustainability and ask: 
+How can feminist (sustainability) research – specifically feminist ecological economics and 
+feminist science and technology studies – help to assess the sustainability shortcomings of 
+socio-technical innovations in the bioeconomy? We have drawn from these two fields to 
+construct a framework of analysis and illustrate its application by looking at the field of PA, 
+which has emblematic socio-technical innovations for biomass production in the agricultural 
+bioeconomy. We illustrate how this analytical framework can reveal manifold sustainability 
+shortcomings linked to these innovations, such as the reinforcement of power relations; the 
+promotion of productivism; the undermining of precaution, sufficiency, and cooperation in 
+technology development; the fetishization of data; and the delegitimization of local knowledge. 
+While the application of the analytical framework is only exemplary, it shows how such an 
+analysis allows for a fine-grained and multifaceted assessment of a specific field of innovations 
+in the bioeconomy and how it can draw attention to structural and systemic sustainability 
+shortcomings which are often overlooked.
+Introduction
+The bioeconomy has been propagated by European 
+Union (EU) institutions, industries, and policymakers 
+as an innovative economic concept that aims to pro -
+vide a response to key sustainability challenges (EC 
+2018 ). The goal of bioeconomy strategies worldwide, 
+although with different emphases, is the transition 
+from a fossil-based to a bio-based economy. The 
+expansion of biomass use, such as energy crops or 
+residues from the timber industry, and the increase 
+of yields and productivity of biomass production 
+enabled by new biotechnologies and precision agri -
+culture (PA), are key in many bioeconomy policies. 
+The belief in increased productivism and growth 
+through established and new high technologies plays 
+an important role (Boyer et  al. 2022 ; Eversberg et  al. 
+2023 ), which is why current articulations of the bio -
+economy could even be termed high-tech bioecon -
+omy. Political and technological developments related 
+to the bioeconomy shape society-nature relations and 
+social organization, especially in the field of agricul -
+ture (Tittor 2021 ; Puder and Tittor 2023 ), which is why researchers need conceptual tools to assess their 
+sustainability.
+Technology, knowledge, and innovation politics in 
+the bioeconomy tend to have a rather narrow focus 
+that insufficiently accounts for social, ecological, and 
+political implications (Backhouse 2021 ; 
+Ramcilovic-Suominen 2023 ). As a response to such 
+narrow notions of innovation, feminist scholars have 
+highlighted important factors such as asymmetric 
+knowledge politics, unequal power relations, and 
+dependencies (e.g., Haraway 1988 ; Preston and 
+Wickson 2016 ). These are important to consider for 
+more holistic assessments of the sustainability of 
+innovations (social as well as technological) within 
+(bioeconomy) transformations. In response to the 
+demand for approaches that allow for critical inte -
+grated assessments of sustainability, we have devel -
+oped a feminist framework to analyze sustainability 
+shortcomings related to socio-technical innovations 
+in the bioeconomy. We will illustrate the application 
+of the framework using the example of PA as a field 
+with a number of emblematic socio-technical innova -
+tions for biomass production in the agricultural 
+© 2024 the a uthor(s). Published by i nforma uK limited, trading as taylor & Francis GroupCONTACT  Sarah Hackfort  sarah.hackfort@hu-berlin.de   agricultural and Food Policy Group, d epartment of a gricultural e conomics, 
+Humboldt-universitat zu b erlin,  unter den linden 6, 10099 b erlin,  Germanyhttps://doi.org/10.1080/15487733.2024.2375808
+this is an o pen a ccess article distributed under the terms of the c reative c ommons attribution-nonc ommercial license ( http://creativecommons.org/licenses/by-nc/4.0/ ), 
+which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. the terms on which this article 
+has been published allow the posting of the a ccepted Manuscript in a repository by the author(s) or with their consent.ARTICLE HISTORY
+Received 8 February 2024
+Accepted 28 June 2024
+KEYWORDS
+precision agriculture; care; 
+precaution; science and 
+technology studies; 
+feminist critical 
+sustainability sciences; 
+analytical frameworkRESEARCH ARTICLE
+2 S. HACKFORT AND A. SAAVE
+bioeconomy. The key question of this article is: How 
+can feminist (sustainability) research – specifically 
+feminist ecological economics and feminist science 
+and technology studies – help to assess the sustain -
+ability shortcomings of socio-technical innovations 
+in the bioeconomy?
+With socio-technical innovations, we include in 
+our focus technological innovations together with 
+the related social practices around their development 
+and use. In doing so, we account for the fact that 
+technological innovations are not separate from their 
+societal context (Winner 1980 ). Our aim is to pro -
+vide a framework to better understand innovations, 
+including the practices and paradigms in which they 
+are embedded, and their implications. We investigate 
+sustainability shortcomings, since bioeconomy inno -
+vations, and also specifically PA, are developed with 
+narratives and claims of sustainability.
+Our investigation addresses a question which has 
+been partly dealt with in bioeconomy research, that 
+of the sustainability of such an envisioned transition. 
+Here, bioeconomy policies have been criticized as a 
+continuation of ecological modernization due to 
+their growth- and technology-centered solution-  
+seeking and related optimism, and for their econo -
+mistic reductions regarding notions of innovation, 
+technology, risk, and the economy. The growing 
+demand for biomass creates conflicts between pro -
+duction and nature conservation, while new technol -
+ogies lead to socio-ecological tensions and conflicts 
+over the valorization of nature (Boyer et  al. 2022 ; 
+Eversberg et  al. 2023 ; Hackfort 2024 ). The substitu -
+tion of fossil raw materials in the Global North 
+requires enormous – and increasing – quantities of 
+biomass, which further increases the pressure on soil 
+and ecosystems, not only in the Global South. To 
+make biomass use possible at a large scale and the 
+production profitable, costs are externalized, with 
+major social and ecological consequences, especially 
+in the South and in the global peripheries (Backhouse 
+et  al. 2021 ; Tittor 2021 ).
+As a response, the focus of many bioeconomy 
+policies is not only on expanding biomass produc -
+tion but also on increasing eco-efficiency. However, 
+efficiency does not solve the sustainability problems 
+inherent in finite production spaces; at best, it shifts 
+them temporally or spatially (Boyer et  al. 2022 ). The 
+paradoxical outcomes of bioeconomy policies, despite 
+claims of sustainability, have led some scholars to 
+characterize the bioeconomy as a “failing project” 
+(Lühmann and Vogelpohl 2023 ).
+Feminist research echoes some of the critical per -
+spectives on society-nature relations in the bioecon -
+omy, especially the critique of ecological 
+modernization and the green economy as sustainability strategies (Salleh 1997 ; Gottschlich 
+et  al. 2014 ; Harcourt and Nelson 2015 ; Wichterich 
+2015 ; Barca 2020 ). Feminist perspectives are an eye 
+opener for underlying dynamics of externalization 
+(Saave 2022 ), power, and inequalities related to inno -
+vation and technology policies (Haraway 1988 ; 
+Wajcman 2010 , Nelson, Faxon, and Ehlers 2024 ; 
+Saave, Brinckmann, and Hackfort 2024 ). Some of 
+these issues and challenges have been addressed in 
+debates about “responsible research and innovation” 
+(RRI), such as the inclusion of laypeople in 
+decision-making, anticipation in the sense of system -
+atic thinking, reflexivity as a critical examination of 
+assumptions, and responsiveness as a willingness to 
+adapt an innovation to societal reactions (e.g., 
+Stilgoe, Owen, and Macnaghten 2013 ). Feminist sci -
+ence and technology studies (STS) has taken debates 
+and concepts developed in RRI to the next level. 
+Instead of responding to exclusion with inclusion in 
+existing unequal systems and structures of knowl -
+edge production, for instance, they question the 
+underlying discursive and material power relations 
+that enable exclusion in the first place (e.g., Campbell 
+2009 ; Grzanka, Brian, and Bhatia 2023 ).
+This is why we assume that the fields of feminist 
+ecological economics and feminist STS can help us 
+to better understand and assess the sustainability 
+shortcoming of innovations in the agricultural bio -
+economy. We will draw from debates in these two 
+fields to construct our framework of analysis and 
+then illustrate its application by looking at 
+socio-technical innovations in PA. While much of 
+earlier critical feminist work on precision technolo -
+gies centered around genetically modified organisms 
+(GMOs) (see, for example, Wickson et  al. 2017), we 
+focus on PA as a more recent development that has 
+to date received scant attention. However, both tech -
+nological developments are manifestations of 
+high-tech agriculture and have much in common 
+(Hackfort 2024 ).
+PA refers to the use of digital technologies such 
+as sensors, satellite imagery, and connected data-based 
+tools and platforms in agricultural production to 
+monitor and optimize agricultural production pro -
+cesses (Miles 2019 ). PA includes, for example, the 
+application of variable rate technology to apply fer -
+tilizers and pesticides with digital data-based spray -
+ing systems or big data-based recommendations for 
+seeding and solutions for automatic weeding. With 
+this comes a constantly growing collection of agri -
+cultural data stored on platforms and clouds, which 
+is expected to enhance knowledge of the needs of 
+plants or the soil. PA is expected to enable a more 
+precise use of inputs and increase efficiency  
+and crop yields, while supposedly decreasing 
+SuSTAINAbILIT y: SCIENCE , PRACTICE  AND  POLIC y 3
+environmental externalities and costs. As postulated 
+in the German bioeconomy strategy, through “preci -
+sion farming, land productivity can be increased in 
+an economically and environmentally sustainable 
+way” (BMBF and BMEL 2020 , 41, own translation). 
+Behind these PA innovations stand specific under -
+standings of economy, productivity, and sustainabil -
+ity that merit closer examination. It is necessary to 
+scrutinize the sustainability claims related to the 
+recent trend of digitalization in agriculture as part of 
+the agricultural high-tech bioeconomy which, accord -
+ing to the relevant policies, aims for a sustainability 
+transformation.
+This article contributes to filling a gap by high -
+lighting such sustainability shortcomings. Surprisingly, 
+the rich diversity of feminist thinking has not yet 
+been harnessed in the analysis of the socio-technical 
+innovations of PA in the bioeconomy (with just a 
+few exceptions, e.g., Nelson, Faxon, and Ehlers 2024 ). 
+Y et, feminist research enables such a critical analysis, 
+as it sheds light on the omissions of policies and 
+innovations related to dominant sustainability claims.
+By sustainability, we refer to a critical emancipa -
+tory feminist understanding thereof, wherein care 
+and justice are highlighted as essential elements. 
+This implies thinking of society and nature not as 
+polar opposites, but instead acknowledging their 
+hybrid and relational character, and viewing sustain -
+ability as a highly contested and power-laden con -
+cept (Gottschlich and Bellina 2017 ; Boyer et al. 2022 ).
+The article is structured as follows. Based on 
+established feminist critiques of dominant sustain -
+ability discourses, economic systems. and technolog -
+ical innovations, we have developed a framework to 
+analyze the sustainability shortcomings within 
+socio-technical innovations in the agricultural bio -
+economy. We then illustrate what our framework 
+brings into view by looking at PA as a growing trend 
+in the agricultural bioeconomy, using examples from 
+empirical research in this field. We will lastly derive 
+some conclusions on transformation perspectives for 
+sustainable technology policy and economy, thereby 
+pointing to possibilities of a caring and reproductive 
+bioeconomy.
+Theoretical reconstruction: Analyzing socio-
+technical innovations in the bioeconomy 
+from a feminist perspective
+We developed our analytical framework by recon -
+structing key ideas from feminist ecological econom -
+ics (to delineate a critique of economic thinking and 
+its sustainability) and from feminist STS (which 
+focuses on innovations and risk assessment). As the 
+bioeconomy is both a project of transition toward new forms of doing economy and an approach to 
+achieving sustainability centered around technologi -
+cal innovations processes, we believe that the 
+strengths of these two approaches complement each 
+other for a feminist analysis of this transformation.
+(Re)productivity as an economic and 
+sustainability critique
+Among the ecological feminisms that have emerged 
+since the 1960s (for an overview see Salleh 1997 ; 
+Saave 2023 ), an approach called the “caring econ -
+omy” ( Vorsorgendes Wirtschaften  in German) has 
+developed a specific critique of sustainability, with 
+roots in feminist ecological economics. Its goal is to 
+make the connection between economy, ecology, and 
+social issues visible, understandable, and thus socially 
+shapable. We select this approach from the broader 
+field of feminist ecological economics (Perkins 2007 ), 
+because of its strength in connecting the analysis of 
+society-nature relations with more applied research 
+and policy proposals for dealing with nature more 
+sustainably. This approach includes in its economic 
+theory the areas of social provisioning and 
+co-production with nature (TVW 2000 , 27). And it 
+seeks answers to multiple current crises by develop -
+ing new concepts that would enable a democratic, 
+socially, and ecologically sustainable economy. The 
+approach offers fundamental critical perspectives on 
+the economy but can also be applied to the bioeco -
+nomy specifically (as for instance already done by 
+Brüll 2020 ). While other ecological feminisms place 
+greater focus on, for example, commodification 
+(Oksala 2018 ) or a critique of capitalist accumula -
+tion (Saave 2023 ), the caring economy approach 
+combines both critical perspectives on externaliza -
+tion dynamics of the economy and analyses of 
+society-nature relations.
+Core critique of economy and notions of 
+sustainability
+Social and ecological crises share a common cause, 
+which is rooted in capitalist market economies 
+(Biesecker and Hofmeister 2010 ). Such economies 
+are characterized by a separation between produc -
+tion and reproduction: paid labor productivity and 
+reproductive activities, such as unpaid care work and 
+the productivity of nature, are viewed and valued as 
+separate. This leads to a contradictory situation, 
+where reproductive activities are considered a natu -
+ral resource, and are exploited and used to create 
+profits, but are not valued accordingly (Biesecker 
+and Hofmeister 2010 ). The caring economy approach 
+instead emphasizes that economic practices are in 
+fact embedded in reproductive processes and 
+4 S. HACKFORT AND A. SAAVE
+activities. In doing so, the caring economy approach 
+offers analytical tools to dismantle the unsustainabil -
+ity of the current economy. With this analysis they 
+build on earlier work by the Bielefeld subsistence 
+theorists (Mies, Bennholdt-Thomsen, and von 
+Werlhof 1988 ) but emphasize in their analysis the 
+separation of productive from reproductive processes 
+and respective understandings of productivity.
+Classifications and devaluations around what is 
+considered reproductive are often gender-specific 
+and therefore reinforce a sexist social order, which 
+the caring economy approach also strives to move 
+beyond. Unlike the economic mainstream, a caring 
+economy does not consider the so-called reproduc -
+tive as a self-evident and infinitely available resource. 
+From this feminist ecological critique thus follows 
+an expansion of the sustainability discourse to 
+include this reproductive dimension. Furthermore, 
+and on a more practical level, this perspective argues 
+that caring economies need to be built on three 
+principles: precaution ( Vorsorge  in German1), coop -
+eration, and orientation toward what is necessary for 
+life (TVW 2000 ).
+From productivity to (re)productivity
+To address the conceptual omission of reproductive 
+processes within economics, as well as within business 
+practices in capitalist economies, caring economy 
+scholars propose the concept of (re)productivity. (Re)
+productivity denotes the undivided unity of all pro -
+ductive processes in nature and society. While unity is 
+not separated by devaluations regarding the reproduc -
+tive, it does acknowledge differences between produc -
+tive processes (Biesecker and Hofmeister 2006 , 19). 
+The term refers to the often-forgotten fact that in 
+every production process, processes of restoration and 
+renewal through human or natural reproduction are 
+already included. As a new category, (re)productivity 
+replaces existing conceptual separations between pro -
+ductive and reproductive processes and activities. It 
+ultimately strives to enable a more sustainable 
+social-ecological metabolism that builds on more 
+appropriate mediations rather than separations 
+between what is currently considered reproductive or 
+productive, as both areas are actually productive. We 
+take from this that productive and reproductive activ -
+ities and processes are always interlinked and cannot 
+be separated from each other.
+This perspective allows for a critique of the econ -
+omy that does not actively co-create reproductivity 
+but instead takes it for granted. As a result, nature is 
+both a product of natural productivity as well as a 
+product of the economy and society. This is import -
+ant to note since oftentimes nature is conceived as 
+something outside of society that needs to be preserved (Biesecker and Hofmeister 2010 ; see also 
+Mölders 2019 ; Gottschlich and Katz 2020 ). However, 
+there is no such nature (anymore) and the bioecon -
+omy contributes to this by also creating a hybrid 
+product-like nature (Brüll 2020 , 95).
+Implications for the bioeconomy: Ensuring 
+renewability and precaution
+Adopting a (re)productivity perspective is key for 
+biomass production. From this perspective, it 
+becomes evident that it is not automatic that 
+so-called renewable resources like biomass are actu -
+ally renewed. Regrowth depends on the permanent 
+regeneration of suitable growth conditions, such as 
+soil fertility and nutrient availability, biological diver -
+sity, and so forth., and these conditions are in ques -
+tion globally today (Brüll 2020 , 94). Maintaining the 
+conditions for reproduction is a major sustainability 
+challenge under the current capitalist mode of pro -
+duction. From a (re)productivity perspective, the key 
+aim of sustainable biomass use is to ensure that bio -
+mass is not only extracted, but that the reproductive 
+conditions ensuring that this resource is renewable 
+are maintained. In adopting a precautionary princi -
+ple with regard to sustainable biomass production, it 
+becomes clear that biomass cannot be extracted end -
+lessly. We take from this that a sustainable bioecon -
+omy must ensure that the reproductive conditions of 
+biomass production are renewed, not depleted.
+From a (re)productivity perspective, sustainability 
+is facilitated by an orientation toward the three prin -
+ciples of a caring economy (precaution, cooperation, 
+and orientation toward what is necessary for life), 
+which replace the dominant principles of aftercare, 
+competition, and orientation toward monetary mea -
+sures. Importantly, the third strategic principle points 
+to sufficiency as a sustainability strategy, which dif -
+fers from current emphases on eco-efficiency and 
+technological optimism within the bioeconomy and 
+unlocks new routes for the sustainable organization 
+of society. Employing precaution implies for any 
+economy that “prediction and control make way for 
+Vorsorge , the caring concern for the future present of 
+others” (Adam 2013 , 126). Sociologist Barbara Adam 
+further notes that
+[Vorsorge]…entails that we extend both knowledge 
+and concern to encompass our implication in poten -
+tial outcomes, as they are stretched across space and 
+time. Importantly, we are allowing concerns about 
+what is right  and just (rather than cost effective) to 
+enter considerations (Adam 2013 , 123–124).
+This attention to time reveals the underpinnings 
+of dominant economic thinking and dominant 
+understandings of sustainability, including their 
+underlying narratives of the control and domination 
+SuSTAINAbILIT y: SCIENCE , PRACTICE  AND  POLIC y 5
+of nature and innovation, as rather limited. From 
+this it follows that bioeconomy projects need to be 
+aware of a future present and recognize the temporal 
+dimension of sustainability, which can be taken care 
+of by adopting an attitude of precaution.
+Knowledge in technology development
+Another relevant aspect within feminist research more 
+generally, that of contested knowledge production, is 
+also echoed in the caring economy framework. It is 
+important to address knowledge production when 
+moving toward more sustainable ways of “doing econ -
+omy. ” To redesign (re)production processes, some 
+authors of caring economy approach advocate, for 
+instance, for socio-ecological technology and product 
+development that includes not only male “expert 
+knowledge” but also the “everyday knowledge of all 
+affected actors” (Biesecker and Hofmeister 2013 , 154; 
+see also Röhr and Weller 2021 ). According to these 
+authors, such equal consideration would also alter 
+previous gender relations. More sustainable, (re)pro -
+ductive bioeconomies would “produce, maintain and 
+sustain reproductive functions with the help of sci -
+ence, local knowledge, and design, as far as possible” 
+(Brüll 2020 , 96; own translation). We derive from this 
+insight that diverse and also non-hegemonic forms of 
+knowing about natures and (re)productivity should be 
+a basis for technology development.
+A second feminist research tradition is interesting 
+and fruitful for our framework: the field of feminist 
+STS, specifically work engaged with the ethics of 
+care. At present, forging the bioeconomy follows a 
+predominantly technology-centered way of doing 
+economy. Therefore, it is important to complement a 
+critique of the economy and sustainability with a 
+critique of technology and innovation processes.
+Ethics of care as a critique of innovation and 
+technology
+While the (re)productivity perspective aims to cri -
+tique the unsustainability of economic models and 
+processes, a care perspective, as developed in femi -
+nist research, offers important insights to critically 
+assess innovations at the intersection of society, 
+nature, and technology: In ecofeminism and feminist 
+sustainability research, care serves as an ethical prin -
+ciple for individual actions and as a transformative 
+principle for a sustainable – in terms of just and 
+precautionary – democracy (Plumwood 1991 ; Tronto 
+2013 ; Gottschlich et  al. 2014 ). For our framework, 
+we now particularly refer to STS scholars who have 
+identified key features of a care perspective on tech -
+nologies, especially assessing the risks and implica -
+tions of biotechnology and GMOs (e.g., Groves 2015 ; Martin, Myers, and Viseu 2015 ; Preston and Wickson 
+2016 ; Puig de la Bellacasa 2011 ; Whittingham and 
+Wynberg 2021 ). Our aim is to make this work fruit -
+ful for the analysis of other precision technologies in 
+a next step.
+Social and socio-ecological relations
+Care perspectives emphasize the importance of rela -
+tionality. They direct attention to how innovations 
+influence relationships among humans – such as 
+farmer-farmer inter-reliance – and to society-nature 
+interactions (Puig de la Bellacasa 2015 ). The exam -
+ple of GMOs is illustrative here, as the technology 
+shows how property rights have created new and 
+longstanding dependencies for producers and con -
+sumers of biomass and food, and thus how a tech -
+nology can alter existing relationships and create 
+new social and ecological relationships (Preston and 
+Wickson 2016 , 53). Traditionally, farmers maintained 
+a close bond with seeds, saving and choosing them 
+meticulously over generations. This connection 
+allowed both crops and farming methods to evolve 
+together. However, the introduction of commercial 
+hybrid and genetically modified seeds disrupted this 
+relationship, demanding annual purchases for consis -
+tent results; they are patented, necessitating yearly 
+seed buying and contractual agreements that forbid 
+replanting or further research. Moreover, patented 
+GMOs can strain relationships among farmers, 
+affecting collaborations, and can lead to conflicts 
+between farmers and the farming community, for 
+instance over the challenges of the coexistence of 
+GMO and GMO-free production (Friedrich et  al. 
+2019 ). This example illustrates the importance of 
+paying attention to how the introduction of innova -
+tions can transform relations within society and 
+socio-ecological systems.
+Context and risk
+With care it is argued that many approaches to 
+innovation policy remain within limited technology 
+and risk-assessment frameworks, which do not ade -
+quately consider the existing particularities of spe -
+cific contexts, including their complexities and 
+scientific uncertainties across space and time. They 
+are thus too narrow to account for unintended 
+effects beyond a positivistic understanding of risks 
+in (natural) science (Preston and Wickson 2016 , 49). 
+“Just as other technologies, GM [genetically modi -
+fied] crops do not exist in a vacuum but operate as 
+socio-technical and eco-social systems. They are 
+shaped by the interests, values, goals and visions 
+that arise from their contexts of development and 
+deployment” (Preston and Wickson 2016 , 50). This 
+means, for example, that in addition to the potential 
+6 S. HACKFORT AND A. SAAVE
+effects of GMOs on human health or the environ -
+ment, a care approach as developed by Preston and 
+Wickson demands that socio-economic or political 
+factors be included in the assessment of the hazards 
+and sustainability of innovations. This includes the 
+influence of economic interests and the tightening 
+of control of a few powerful actors over food pro -
+duction and the technologies that shape it. From 
+this observation we identify the need to broaden 
+understandings of context to include ecological but 
+also social and economic risks in assessing the sus -
+tainability shortcomings of precision technologies in 
+biomass production.
+Dependence, power, and vulnerability
+A care approach focuses on uneven relationships 
+and directs attention to the interconnected depen -
+dencies and power relations within economic or 
+agricultural systems (Whittingham and Wynberg 
+2021 , 5). It is important to note that dependence 
+itself is not inherently problematic; it is an inherent 
+aspect of relationality, life, and economic systems 
+(Preston and Wickson 2016 , 52). For our assessment 
+of sustainability shortcomings, it is important to 
+direct attention toward asymmetric and longstanding 
+dependencies together with power asymmetries in 
+agriculture and food production that benefit some 
+actors more than others. From the past, we know 
+how control over the development and use of tech -
+nologies like GMOs by a few powerful actors – mul -
+tinational corporations, for instance, which claim 
+ownership of GM crops as patented property – might 
+intensify vulnerabilities and dependencies for organic 
+farming systems, as well as for both producers and 
+consumers (Friedrich et  al. 2019 ). In the context of 
+agriculture, technologies like pesticides, fertilizers, 
+and technical support systems are well-known exam -
+ples of how innovations can increase the reliance of 
+farmers and consumers on a small but powerful 
+group of corporate actors (Shiva 1991 ; Clapp 2021 ). 
+Herbicide-tolerant GMO crops designed by former 
+chemical companies, to be used in conjunction with 
+specific chemicals owned by these same firms, raise 
+significant concerns about the sustainability of new 
+innovations, the underlying motivations behind the 
+fostering of such relationships, and whether the 
+actors behind these innovations are “engaged in  
+the relationship in a caring and nurturing manner or 
+whether the relation is extractive, profit-driven, and 
+destructive” (Preston and Wickson 2016 , 52). A care 
+approach urges us to consider structural dependen -
+cies, vulnerabilities, and concentrations of power and 
+control that systemically privilege some while mar -
+ginalizing others in the context of food and biomass 
+production.Affects and emotions
+A care perspective considers the affects and emo -
+tions associated with technology use, whether they 
+are perceived as legitimate or not, in political pro -
+cesses and public debate. Feminist perspectives 
+emphasize that individual and collective 
+decision-making also has emotional elements, that 
+societies are not governed by fully rational and 
+autonomous individuals and decisions (Preston and 
+Wickson 2016 ; Gottschlich and Katz 2020 ). Both 
+rational and emotional logics are at play, which is 
+why calling for the acknowledgement of affects does 
+not mean excluding reason from decision-making, 
+but rather including otherwise neglected aspects. 
+The debate about GMOs shows how important these 
+neglected aspects are, as “gut reactions or moral 
+doubts are highly important and often ‘act as a veto 
+irrespective of people’s views on use and risk’” 
+(Preston and Wickson 2016 , 54). A care approach 
+does not argue for the perception of affective aspects 
+and emotions as sacrosanct or that they should 
+replace other forms of assessment. It rather calls for 
+the inclusion of more diverse – and currently often 
+excluded – forms of experience in the development 
+and assessment of innovations. From this we derive 
+that concerns raised by lay persons or the public are 
+nottoo emotional” but are legitimate and could 
+inform innovation agendas, and thus deserve atten -
+tion and further investigation (Whittingham and 
+Wynberg 2021 , 6).
+Narratives and knowledge
+A care perspective calls for listening to a diversity 
+of narratives and “providing room for the voice of 
+those who might ordinarily be excluded” from 
+innovation development, use, and assessments 
+(Preston and Wickson 2016 , 54). A care approach 
+thus aims for a more democratic and inclusive pro -
+cess in innovation politics that reflects the “multi -
+plicity of scientific and academic voices but also 
+the voices of the marginalized” (Whittingham and 
+Wynberg 2021 , 3). Feminist STS has pointed out 
+that the claim of objectivity is problematic as every 
+theory and innovation is based on assumptions, 
+and knowledge production, including in the natural 
+sciences, is always situated, embedded in society, 
+and inevitably influenced by societal power dynam -
+ics (Haraway 1988 ). Assumptions must be made 
+transparent, different standpoints need to be nego -
+tiated, and diverse actors should be included to 
+avoid the exclusion of forms of knowledge and to 
+achieve something approaching objectivity. A care 
+perspective builds on this by highlighting the legit -
+imacy of different knowledge forms and problema -
+tizes the existence of patriarchal, technocratic power 
+SuSTAINAbILIT y: SCIENCE , PRACTICE  AND  POLIC y 7
+relations in knowledge production, as well as in 
+innovation development and related policy 
+decision-making. From this it follows to ask what 
+kinds of narratives and knowledges are associated 
+with innovations, and which are marginalized or 
+excluded in innovation development, use, and 
+assessment.
+A framework for a feminist analysis of 
+sustainability shortcomings related to  
+socio-technical innovations
+While the (re)productivity perspective aims to cri -
+tique the unsustainability of economic models and 
+processes, a care perspective, as we have carved out 
+from feminist STS, asks us, as Whittingham and 
+Wynberg 2021 , 1) write,
+[T]o broaden the framing of risk, to consider differ -
+ent knowledges, to re-imagine ourselves as social, 
+rather than economic beings, to tap into the capac -
+ity of socio-ecological relations and to recognize 
+and dismantle power structures…Such an approach 
+broadens the scope of what constitutes risk and 
+acknowledges the complexities present in our 
+socio-ecological environment.
+In synthesizing these two fields into our frame -
+work of analysis for assessing sustainability short -
+comings related to socio-technical innovations in 
+the bioeconomy, we discovered some important 
+areas of overlap. We found that both approaches 
+emphasize the mediation of socio-technical innova -
+tions with ecological processes ((re)productivity, 
+renewability, and relations). While the STS care 
+perspective places a focus on relations among actors and impacts on socio-ecological systems, the  
+(re)productivity perspective highlights more the 
+material implications of these relations and nature’s 
+renewability. We found that the care perspective 
+describes aptly the importance of an awareness of 
+context and risk, while the (re)productivity per -
+spective provides guidance for dealing with them 
+(e.g., precaution, cooperation, and sufficiency strat -
+egies). The insights provided by the STS care per -
+spective regarding dependence, power, vulnerabilities, 
+and affect and emotions are not as much mirrored 
+in the (re)productivity approach. However, both 
+approaches show some overlaps regarding the top -
+ics of knowledge production and narratives. Based 
+on these commonalities, differences and overlaps, 
+we synthetized some of the categories to build our 
+framework dimensions and to derive key questions 
+for analysis (presented in Table 1  and illustrated in 
+the following section using the empirical exam -
+ple of PA).
+Framework application: socio-technical 
+innovations in precision agriculture
+We now illustrate our framework by looking into 
+socio-technical innovations in the field of PA as a 
+key sector of the bioeconomy. For each dimension, 
+we will give examples of the development and use of 
+innovations from PA literature and from our own 
+research in the field including literature reviews, 
+participant observation in workshops, farm visits, 
+and interviews to demonstrate how they shed light 
+on possible shortcomings in sustainability policies 
+and discourse.
+Table 1.  Framework for analysis of the sustainability shortcomings of socio-technical innovations.
+Synthetized d imensionderived from  
+(re)productivity 
+concept and/or 
+from care discourse Questions to analyze the sustainability shortcomings of socio-technical innovations
+(re)Productivity and 
+renewability(re)Productivity How do innovations make a transformation of the economy toward mediation, instead of 
+separation, between productive and reproductive more or less likely?
+How do innovations reproduce patterns that undermine or enhance nature’s renewability?
+Social and Socio-ecological 
+relationscare How do innovations transform and disrupt relations among humans within society and in 
+socio-ecological systems?
+context, Precaution, and 
+cooperationcare and (r e)
+Productivitydo innovations account for the particularities of specific contexts, including their effects in distant 
+spaces and times/the future?
+are innovations developed with consideration for precaution and their social, economic or 
+political implications?
+are innovations developed and used based on, or to advance, cooperation and sufficiency, rather 
+than only economic growth and profit?
+dependence, Power, and 
+Vulnerabilitycare do innovations emerge from, reproduce, or transform incumbent power relations and 
+dependencies among stakeholders?
+do innovations reinforce the vulnerability and marginalization of some individuals, actors, or 
+systems more than others?
+affect and emotions care What kind of affective reactions to innovations can be observed?
+How are the reactions perceived and integrated into innovation policy agenda setting and public 
+political debates?
+narratives and Knowledges care and (r e)
+ProductivityWhat kinds of knowledges are integrated into innovation development?
+are certain narratives marginalized or excluded in the process of innovation development, use, 
+and assessment?
+8 S. HACKFORT AND A. SAAVE
+(Re)productivity and renewability
+Most existing PA applications – such as geographical 
+positioning system (GPS)-enabled smart land 
+machines2 or digital farm-management platforms – 
+are tailored toward the needs of agro-industrial 
+farming linked to a productivist paradigm (Miles 
+2019 ; Montenegro de Wit and Canfield 2023 ), a 
+term that denotes “the process by which a logic of 
+production overdetermines other activities of value” 
+(Puig de la Bellacasa 2015 , 699). This implies under -
+standing agriculture primarily as a productive, 
+efficiency-oriented business, with the maximization 
+of biomass yields through technologies at the center, 
+and thus neglecting the long-term reproductive 
+requirements, such as healthy soils as a precondition 
+for growing. Reproductive processes are thereby 
+excluded from consideration, which does not help to 
+mediate production and reproduction as (re)produc -
+tive processes. Moreover, this model comes with 
+negative impacts on ecological and social reproduc -
+tive capacities, including biodiversity loss and high 
+carbon-dioxide (CO2) emissions (Sampson 2018 ). PA 
+technologies such as data-based variable rate applica -
+tions for chemical pesticides and synthetic fertilizers 
+come with ambitious promissory claims. While they 
+are marketed as potentially contributing to the 
+reduction of farm inputs that are harmful for the 
+environment, biodiversity, and the climate, empirical 
+evidence about significant environmental gains is 
+lacking. Current data about input reductions is 
+rather scanty and points toward only small gains, 
+rather than a fundamental reversal of currents trends 
+of high petrochemical use (for the German example, 
+see Kehl, Meyer, and Steiger 2021 , 119; Kliem et  al. 
+2022 , 45). This suggests that under productivism, 
+the problems of structural unsustainability in agri -
+culture, such as biodiversity loss or overfertilization, 
+cannot be solved through PA. Furthermore, due to 
+current techno-economic path dependencies and 
+lock-in effects, PA innovations actually reproduce an 
+agro-industrial productivism that undermines nature’s 
+renewability and makes a structural agroecological 
+transformation of agri-food systems less rather than 
+more likely (Hackfort 2023 ).
+Social and socio-ecological relations
+In the context of PA, asymmetric relations and exist -
+ing inequalities between agri-business and farmers, 
+as well as among farmers, are reproduced. This is 
+particularly the case between large-scale and 
+small-scale farmers, between those who follow a 
+productivist model and those who do not. The more 
+technologies diffuse into agriculture at large, the 
+more small farmers are under pressure to adapt 
+(Hackfort 2021 ). With digital innovations, social relationships are altered, making farmers even more 
+dependent on corporate technology and service-  
+provider companies such as John Deere. This is the 
+case when farmers are not allowed (legally) or are 
+not able to fix their “smart” machines but need to 
+wait for the company’s digital maintenance team. 
+Other examples are farm-data platforms and artifi -
+cial intelligence (AI)-generated seed recommenda -
+tions, which replace the knowledge and experience 
+of farmers. Even if such innovations do not impact 
+relationships as much as other precision technologies 
+such as GMOs, they create new and disrupt existing 
+social relationships, such as when earlier ties between 
+advisors and farmers are complemented by AI sys -
+tems and information-technology specialists 
+(Comi 2020 ).
+Context, precaution, and cooperation
+PA innovations based on current patterns are devel -
+oped toward and confined by the productivist 
+agro-industrial paradigm. Expensive “smart” land 
+machines or farm-management platforms are 
+designed for large-scale agriculture by leading 
+agri-business and agri-technology firms. Mostly used 
+on farms following a rationality of increasing yields 
+and economic growth, many innovations are not 
+made for diverse farming contexts, including 
+small-scale or sufficiency-oriented production. 
+Designed primarily to serve capital-intensive indus -
+trial agriculture, such innovations help reproduce the 
+future path dependencies of unsustainable and poorly 
+precautionary production models (Hackfort 2023 ; 
+Miles 2019 ). Moreover, many innovations are char -
+acterized by legal or technological lock-ins, often 
+built into products by technology and service pro -
+viders, that hinder farmers to freely choose other 
+software or hardware equipment according to their 
+needs. These lock-ins reinforce existing power rela -
+tions and farmers’ dependence on corporate technol -
+ogies and services, and eventually on the 
+agro-industrial farming model. Such proprietary sys -
+tems offered by corporate technology firms to main -
+tain their market position and profits stand in 
+contrast to the principles of cooperation and suffi -
+ciency (Fraser 2021 ; Hackfort 2023 ).
+Dependence, power, and vulnerabilities
+The PA sector is characterized by monopoly struc -
+tures, market concentration, and corporate power, 
+with big agri-business companies such as Syngenta 
+and Bayer/Monsanto and agri-technology firms such 
+John Deere as leading innovation developers. 
+Corporate power determines control over the tech -
+nology and the distribution of benefits and economic 
+value created (e.g., from the collected data). Through 
+SuSTAINAbILIT y: SCIENCE , PRACTICE  AND  POLIC y 9
+in-built sensors in their tractors that measure soil or 
+crop conditions, and crop yields, or incentives for 
+the direct upload of farm data to their cloud plat -
+forms, companies like John Deere collect and control 
+large sets of big data, including the intellectual prop -
+erty rights via the license agreements. Companies 
+benefit from the data that farmers provide, usually 
+without being compensated, while the firms retain 
+the profits generated from that data, for instance 
+through using it for their product and service devel -
+opment. Based on that data, as with the sale of gly -
+phosate and the corresponding GM-resistant seeds 
+in a bundle, Bayer/Monsanto is now selling 
+data-based recommendations (predictive seeding) 
+together with its own company-  
+owned seeds (Hackfort, Marquis, and Bronson 2024 ). 
+Through such incentives farmers are likely to become 
+path-dependent on the technological systems of the 
+companies whose machinery and software they ini -
+tially purchase. Agribusinesses have historically used 
+a variety of mechanisms to corner the market on 
+agricultural inputs and machinery, establish exclusive 
+relationships with farmers, and create different kinds 
+of lock-ins and forms of dependency from their eco -
+nomic–technical ecosystems. Such practices 
+strengthen ties between farmers and specific compa -
+nies, eventually working as lock-ins for farmers and 
+perpetuate oligopoly within agriculture.
+Reducing farmers’ vulnerability and achieving sus -
+tainability transformation requires more than curb -
+ing corporate power. However, farms using PA based 
+on these current patterns risk a reliance on innova -
+tions that only aim at incremental changes through 
+seemingly efficient technologies, instead of fostering 
+a necessary structural transformation toward food 
+sovereignty and agroecology-oriented food and bio -
+mass production. Such alternative strategies, based 
+on different understandings of sustainability and 
+approaches that prioritize concepts like food sover -
+eignty and agroecology, tend to be disregarded by 
+policymakers and deprived of funding and invest -
+ment (Clapp and Ruder 2020 ; Lajoie-O’Malley 
+et  al. 2020 ).
+Affect and emotions
+In addition to scientific assessments based solely on 
+reason and rationality, a care perspective also con -
+siders the diverse emotions associated with innova -
+tions as legitimate and important, rather than 
+ignoring or disregarding them as “an obstacle to 
+perceived objectivity” (Whittingham and Wynberg 
+2021 , 5). This perspective contrasts with technologi -
+cal rationalism, which views emotions and affects 
+influencing values and preferences as something to 
+avoid. From a care perspective, any affective hesitance and resistance regarding the use of PA 
+innovations can be understood as a legitimate form 
+of what has been termed ‘technological sovereignty’ 
+(Montenegro de Wit 2021 ). This includes farmer’s 
+decisions to opt against PA and prefer low-tech 
+methods, for instance, when farmers may find drones 
+“threatening” or have “no desire” to delegate tasks to 
+machines, because they “enjoy touching the earth or 
+observing why a particular plant is so prevalent this 
+year” (unpublished interviews 2022; own translation).
+Knowledge production and narratives
+Feminist research asks what forms of knowledge are 
+associated with technologies, and whether certain 
+narratives are marginalized or excluded by their 
+development. It emphasizes the cultural and ecolog -
+ical relevance of the diversity of local, situated 
+knowledges (Haraway 1988 ). These include agroeco -
+logical practices which may not be included in the 
+standardized data-knowledge bases of the algorithms 
+underlying PA innovations (e.g., for pest control). In 
+contrast to modern industrial agriculture that 
+involves heavy use of synthetic inputs aimed at 
+increasing soil productivity, permaculture and other 
+forms of agroecological farming involve slow and 
+labor-intensive practices that draw upon the “inferi -
+orized” knowledges of farmers and farm workers 
+(Puig de la Bellacasa 2017 , 169–216). However, with 
+PA, data-driven predictions, recommendations, and 
+platforms appear to be more objective and reliable 
+than human experiential knowledge and intuition 
+(Bronson 2022 ). This is what Miles ( 2019 , 5) calls 
+“algorithmic epistemology, ” referring to the fetishiza -
+tion of data that affects notions of legitimate knowl -
+edge, such that traditional and local knowledge 
+about plants and pests may be delegitimized. Farmers 
+may no longer trust their own experience, but 
+instead increasingly rely on algorithms and data-based 
+predictions as expert knowledge, which obscures the 
+fact that there are human decisions and prioritiza -
+tions behind algorithms (Heimstädt 2023 ).
+Discussion
+We have combined two strands of feminist research 
+to offer a framework of analysis that can help to 
+identify sustainability shortcomings in the high-tech 
+bioeconomy which claims to lead to more sustain -
+ability. All of these steps have inherent challenges, 
+which we reflect upon in this discussion.
+First, the two strands come from different disci -
+plinary backgrounds (feminist ecological economics 
+and feminist STS) and thus focus on different fields 
+of application (economy and sustainability critique, 
+and innovation and technology development).  
+10 S. HACKFORT AND A. SAAVE
+We have therefore had to interpret them in ways 
+that make their common ground intelligible, even 
+though they use different terminology. For example, 
+feminist ecological economics focuses on the relation 
+of productivity and reproductivity, exemplified in the 
+term (re)productivity, which we interpret as being 
+closely linked to the idea from feminist care ethics 
+in STS that innovation is embedded in social and 
+ecological relations. Furthermore, both approaches 
+aim to bring awareness to relatedness (of society and 
+nature) and embeddedness (of economies).
+On one hand, each approach emphasizes specific 
+aspects that the other does not (or not to the same 
+extent). For instance, feminist STS draws explicit 
+attention to power relations and the affective aspects 
+regarding innovations, which is not foregrounded as 
+much in the caring economy approach. This second 
+approach, on the other hand, places emphasis on 
+the materiality of nature, including the renewability 
+of ecological resources that cannot be taken for 
+granted. It also emphasizes the reproductive founda -
+tion of any economic process. These are two aspects 
+that are not at the forefront of feminist STS 
+considerations.
+Using the case of PA, we have illustrated how our 
+analytical framework can reveal manifold sustain -
+ability shortcomings linked to these innovations such 
+as the reinforcement of productivism; the lack of 
+precaution, sufficiency, and cooperation in technol -
+ogy development; the fetishization of data; and the 
+delegitimization of local knowledge. While the appli -
+cation of the analytical framework was only exem -
+plary, it shows how such an analysis allows for a 
+fine-grained and multifaceted assessment of a spe -
+cific field of innovations in the bioeconomy and how 
+it can draw attention to structural and systemic sus -
+tainability shortcomings in reaching more sustain -
+able outcomes which often get overlooked.
+The sustainability shortcomings identified above 
+are effects of what could be summarized under the 
+term “precision productivism. ” This characterizes 
+society-nature relations in the high-tech bioeconomy 
+as denoting a specific articulation of ecological mod -
+ernization, which has now taken a specific form in 
+centering around precision technologies, such as 
+those in PA studied here. Other technologies that 
+belong to precision productivism include precision 
+breeding (also known as genome editing) and preci -
+sion fermentation, key innovations that are being 
+promoted in the bioeconomy with the claim of mak -
+ing economic systems (e.g., energy, agriculture) more 
+sustainable through an increase in productivity based 
+on a higher degree of precision in production tech -
+niques. At the same time, the underlying mecha -
+nisms of separating production from reproduction, as well as dominant production and consumption 
+patterns – which are actually the root causes of the 
+problems that these technologies are aiming to solve 
+– are left untouched. Precision productivism as a 
+paradigm in the bioeconomy hence does not steer in 
+the direction of fundamental sustainability transfor -
+mations; it rather reveals that established relations of 
+power and (corporate) control in innovation devel -
+opment and knowledge production in the bioecon -
+omy are being reproduced.
+A limitation of our study is that our illustration 
+remains rather general in its focus on both technol -
+ogy development and the use of PA innovations. 
+However, this was reasonable considering our more 
+modest aim of illustrating the application possibilities 
+of the analytical framework. As the bioeconomy spans 
+from biotechnology and agriculture to forestry, the 
+possible applications of this framework are manifold.3 
+Future research using our framework might focus on 
+one aspect of socio-technical innovations (e.g., design 
+or implementation) to deepen analytical insights.
+Conclusion: toward a caring and (re)
+productive bioeconomy
+Since the bioeconomy is a project that has been 
+characterized as centering around techno-fixes and 
+as another expression of ecological modernization, it 
+warrants precise analysis to assess its sustainability. 
+We have shown how feminist perspectives can help 
+to assess the sustainability shortcomings of 
+socio-technical innovations in the bioeconomy. We 
+had two objectives: to derive an analytical frame -
+work from existing research and to illustrate it using 
+empirical examples to show its usefulness. Through 
+its application, we found that PA is embedded within 
+solutions that are commonly focused on technologi -
+cal innovations. Power imbalances – for instance, 
+regarding inclusive knowledge and participation in 
+technology development or key challenges such as 
+ensuring the renewability of biomass production – 
+remain insufficiently considered, which provokes sig -
+nificant drawbacks on the path to sustainability. 
+From this, we conclude that the transformation from 
+a fossil-based to a bio-based economy by means of 
+the high-tech bioeconomy might be a solution for 
+substituting individual products or processes. 
+However, the potential of the bioeconomy as a 
+socio-ecological transformation project is low if it 
+leaves untouched the technology- and growth-centered 
+consumption and production patterns, with their 
+negative effects on human and non-human nature 
+and their reproductivity.
+The feminist literature we have synthesized points 
+to the necessities and possibilities of doing economy, 
+SuSTAINAbILIT y: SCIENCE , PRACTICE  AND  POLIC y 11
+and especially of doing biomass production, differ -
+ently. It emphasizes the importance of recognizing 
+the relationality and interdependence of society and 
+nature and the need for caring practices and princi -
+ples as a counterproject to a precision productivism 
+that lies at the heart of the current bioeconomy. 
+Such caring practices and principles would counter -
+act the externalization dynamics at play that threaten 
+sustainability, especially in the long run. In fact, 
+feminist perspectives on the bioeconomy point to an 
+entirely different understanding of the economy and 
+sustainability, bringing into view the entire social 
+metabolism with nature, using new concepts such as 
+(re)productivity.
+These critical insights lead to the question of 
+what a caring, reproductive bioeconomy could be. 
+First, there is a need for different and expanded 
+understandings, terminology, and practices of inno -
+vation and technology development. On one hand, 
+this includes alternative, emancipatory (digital) tech -
+nologies that are based, for example, on less propri -
+etary and more commons-based and open-source 
+principles. On the other hand, it requires political 
+and economic policies that go beyond innovation 
+politics, such as anti-trust laws to curb corporate 
+power in the agri-food system and to create more 
+diversity and space for alternative actors, movements, 
+and (low) technologies. Policy makers and other 
+stakeholders concerned with innovation policy and 
+technological development must understand and 
+advance agriculture as a reproductive system.
+Second, a feminist perspective illuminates that in 
+addition to better technical solutions (efficiency), 
+strategies for reducing the use of resources (suffi -
+ciency) and the precautionary caring for natural 
+resources and nature’s productivity must be at the 
+center of sustainability. In particular, the temporal 
+aspect of maintaining the conditions of reproduction 
+is often missing in the technology-centered debates 
+on the bioeconomy and related innovations.
+Finally, we conclude that any type of technolog -
+ical innovation, assessment, economic activity, and 
+political governance in the bioeconomy that is not 
+linked to the perspectives of care and (re)produc -
+tivity – that is not designed to foster reproductive 
+capacities and account for embeddedness – will 
+ultimately prove unable to achieve sustainability. As 
+long as bioeconomy projects, regardless of their 
+technical manifestation, are unable to maintain the 
+reproductive conditions of biomass production, 
+even a bio-based economy cannot be sustainable. 
+We find that a sustainable bioeconomy needs to be 
+a (re)productive bioeconomy, with innovations that 
+are guided by and oriented toward care and 
+precaution.Notes
+ 1. The German term Vorsorge  translates to precaution 
+and to caring for.
+ 2. Tractors that contain built-in sensors that stream 
+data, for example, about soil and crop conditions, to 
+cloud-based data-collection infrastructures.
+ 3. In the case of forestry, for example, the framework 
+could be used to assess the sustainability shortcom -
+ings or potentials of digital applications such as 
+LiDAR imaging for forest inventories or satellite-  
+based data for planning forestry roads, which might 
+have complex effects beyond the forestry firm.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+ORCID
+Sarah Hackfort  http://orcid.org/0000-0001-6678-8759
+Anna Saave  http://orcid.org/0000-0003-4922-1501
+References
+Adam, B. 2013 . “Sustainability through a Temporal Lens: 
+Time, Future, Process. ” In Netzwerk Vorsorgendes 
+Wirtschaften (Network of Caring Economy),   Edited by 
+Wege Vorsorgenden Wirtschaftens (Ways of Caring 
+Economy),  115–132. Marburg: Metropolis-Verlag.
+Backhouse, M. 2021 . “Global Inequalities and Extractive 
+Knowledge Production in the Bioeconomy. ” In 
+Bioeconomy and Global Inequalities: Socio-Ecological 
+Perspectives on Biomass Sourcing and Production , edited 
+by M. Backhouse, R. Lehmann, K. Lorenzen, M. 
+Lühmann, J. Puder, F. Rodríguez, and A. Tittor, 25–44. 
+London: Palgrave Macmillan
+Backhouse, M., R. Lehmann, K. Lorenzen, M. Lühmann, J. 
+Puder, F. Rodríguez, and A. Tittor, Eds. 2021 . Bioeconomy 
+and Global Inequalities: Socio-Ecological Perspectives on 
+Biomass Sourcing and Production . London: Palgrave 
+Macmillan. doi: 10.1007/978-3-030-68944-5 .
+Barca, S. 2020 . Forces of Reproduction: Notes for a Counter-  
+Hegemonic Anthropocene . Cambridge: Cambridge 
+University Press.
+Biesecker, A, and S. Hofmeister, Eds. 2006 . Die 
+Neuerfindung Des Ökonomischen: Ein (Re)Produktions-
+theoretischer Beitrag Zur Sozial-Ökologischen Forschung 
+(The Reinvention of the Economic: A (Re)Production-  
+Theoretical Contribution to Socio- Ecological Research) . 
+München: Oekom-Verlag.
+Biesecker, A., and S. Hofmeister. 2010 . “Focus: (Re)
+Productivity. Sustainable Relations Both between Society 
+and Nature and between the Genders. ” Ecological 
+Economics  69 (8): 1703–1711. doi: 10.1016/j.ecolecon.  
+2010.03.025 .
+Biesecker, A., and S. Hofmeister. 2013 . “(Re)Produktivität 
+Als Kategorie Vorsorgenden Wirtschaftens ((Re)
+Productivity as a Category of Caring Economy). ” In 
+Netzwerk Vorsorgendes Wirtschaften (Network of Caring 
+Economy),  Edited by Wege Vorsorgenden Wirtschaftens   
+(Ways of Caring Economy),   137–158. Marburg: 
+Metropolis-Verlag.
+12 S. HACKFORT AND A. SAAVE
+Bundesministerium für Bildung und Forschung (BMBF), 
+and Bundesministerium für Ernährung und 
+Landwirtschaft (BMEL). 2020 . Nationale Bioökonomi -
+estrategie: Bundesministerium Für Bildung Und Forschung 
+(BMBF) Und Bundesministerium Für Ernährung Und 
+Landwirtschaft (National Bioeconomy Strategy: Federal 
+Ministry of Education and Research and Federal Ministry 
+of Food and Agriculture).  Berlin: BMBF and BMEL.
+Boyer, M., F. Kusche, S. Hackfort, L. Prause, and F. 
+Engelbrecht-Bock. 2022 . “The Making of Sustainability: 
+Ideological Strategies, the Materiality of Nature, and 
+Biomass Use in the Bioeconomy. ” Sustainability Science  
+18 (2): 675–688. doi: 10.1007/s11625-022-01254-4 .
+Bronson, K, Ed. 2022 . The Immaculate Conception of Data: 
+Agribusiness, Activists, and Their Shared Politics of the 
+Future . Montreal: McGill-Queen’s University Press.
+Brüll, A. 2020 . “Die Zwei Naturen Der Biomasse–Eine 
+Komplementäre Perspektive Für (Re) Generative 
+Landschaften (The Two Natures of Biomass – A 
+Complementary Perspective for (Re)Generative 
+Landscapes). ” In Nachhaltigkeit (Re)Produktiv Denken: 
+Pfade Kritischer Sozial-Ökologischer Wissenschaft  
+(Thinking Sustainability (Re)Productively: Paths of 
+Critical Socio-Ecological Science) , edited by T. Mölders, 
+A. Thiem, C. Katz, 92–102. Leverkusen: Verlag Babara 
+Budrich.
+Campbell, N. 2009 . “Reconstructing Science and 
+Technology Studies: Views from Feminist Standpoint 
+Th e o r y.”  Frontiers: A Journal of Women Studies  30 (1): 
+1–29. https://www.jstor.org/stable/40388704 . doi: 10.1353/
+fro.0.0033 .
+Clapp, J., and S. Ruder. 2020 . “Precision Technologies for 
+Agriculture: Digital Farming, Gene-Edited Crops, and 
+the Politics of Sustainability. ” Global Environmental 
+Politics  20 (3): 49–69. doi: 10.1162/glep_a_00566 .
+Clapp, J. 2021 . “Explaining Growing Glyphosate Use: The 
+Political Economy of Herbicide-Dependent Agriculture. ” 
+Global Environmental Change  67: 102239. doi: 10.1016/j.
+gloenvcha.2021.102239 .
+Comi, M. 2020 . “The Distributed Farmer: Rethinking US 
+Midwestern Precision Agriculture Techniques. ” 
+Environmental Sociology  6 (4): 403–415. doi: 10.1080/232
+51042.2020.1794426 .
+European Commission 2018 . A Sustainable Bioeconomy for 
+Europe: Strengthening the Connection between Economy, 
+Society and the Environment . Brussels: Publications 
+Office. https://eur-lex.europa.eu/legal-content/EN/TXT/?
+uri=CELEX%3A52018DC0673 .
+Eversberg, D., P . Koch, R. Lehmann, A. Saltelli, S. 
+Ramcilovic-Suominen, and Z. Kovacic. 2023 . “The More 
+Things Change, the More They Stay the Same: Promises 
+of Bioeconomy and the Economy of Promises. ” 
+Sustainability Science  18 (2): 557–568. doi: 10.1007/
+s11625-023-01321-4 .
+Fraser, A. 2021 . “‘Y ou Can’t Eat Data’? Moving Beyond the 
+Misconfigured Innovations of Smart Farming. ” Journal 
+of Rural Studies  91: 200–207. doi: 10.1016/j.jrur -
+stud.2021.06.010 .
+Friedrich, B., S. Hackfort, M. Boyer, and D. Gottschlich. 
+2019 . “Conflicts over GMOs and Their Contribution to 
+Food Democracy. ” Politics and Governance  7 (4): 165–
+177. doi: 10.17645/pag.v7i4.2082 .
+Gottschlich, D., S. Roth, U. Röhr, S. Hackfort, D. Segebart, 
+C. König, and A. Härtel. 2014 . “Nachhaltiges 
+Wirtschaften im Spannungsfeld von Gender, Care und Green Economy Debatten – Schnittstellen – blinde 
+Flecken (Sustainable Business in Tension between 
+Gender and Care and Green Economy Debates – 
+Interfaces – Blind Spots. ” CaGE Texts, No. 1. Berlin: 
+Bundesministerium für Bildung und Forschung. https://
+www.genanet.de/fileadmin/user_upload/dokumente/
+Care_Gender_Green_Economy/CaGE-Texte_1-2014.pdf
+Gottschlich, D., and L. Bellina. 2017 . “Environmental 
+Justice and Care: Critical Emancipatory Contributions 
+to Sustainability Discourse. ” Agriculture and Human 
+Values  34 (4): 941–953. doi: 10.1007/s10460-016-9761-9 .
+Gottschlich, D., and C. Katz. 2020 . “Caring with Nature/s: 
+Zur Transformativen Bedeutung Von Care in More than 
+Human Worlds (Caring with Nature/s: On the 
+Transformative Meaning of Care in More than Human 
+Worlds). ” Gender < ed > Thoughts. ” Working Paper Series 
+1: 1–29. doi: 10.3249/2509-8179-GTG-11 .
+Grzanka, P ., J. Brian, and R. Bhatia. 2023 . “Intersectionality 
+and Science and Technology Studies. ” Science, 
+Technology, & Human Values.  doi: 10.1177/016224  
+39231201707 .
+Groves, C. 2015 . “Logic of Choice or Logic of Care? 
+Uncertainty, Technological Mediation and Responsible 
+Innovation. ” NanoEthics  9 (3): 321–333. doi: 10.1007/
+s11569-015-0238-x .
+Hackfort, S. 2021 . “Patterns of Inequalities in Digital 
+Agriculture: A Systematic Literature Review. ” 
+Sustainability  13 (22): 12345. doi: 10.3390/su132212345 .
+Hackfort, S. 2023 . “Unlocking Sustainability? The Power of 
+Corporate Lock-Ins and How They Shape Digital 
+Agriculture in Germany. ” Journal of Rural Studies  101: 
+103065. doi: 10.1016/j.jrurstud.2023.103065 .
+Hackfort, S., S. Marquis, and K. Bronson. 2024 . “Harvesting 
+Value: Corporate Strategies of Data Assetization in 
+Agriculture and Their Socio-Ecological Implications. ” 
+Big Data & Society  11 (1): 1–15. doi: 10.1177/205395172  
+41234279 .
+Hackfort, S. 2024 . “Democratization through Precision 
+Technologies? Unveiling Power, Participation, and 
+Property Rights in the Agricultural Bioeconomy. ” 
+Frontiers in Political Science  6: 1363044. doi: 10.3389/
+fpos.2024.1363044 .
+Haraway, D. 1988 . “Situated Knowledges: The Science 
+Question in Feminism and the Privilege of Partial 
+Perspective. ” Feminist Studies  14 (3): 575–599. doi:  
+10.2307/3178066 .
+Harcourt, W ., and I. Nelson, Eds. 2015 . Practising Feminist 
+Political Ecologies: Moving Beyond the “Green Economy. ”  
+London: Zed Books. 
+Hawkins, R., and I. Nelson. 2022. “Where Are Rooted 
+Networks in Digital Political Ecologies?” Frontiers in Human 
+Dynamics  4 (4): 89387. doi: 10.3389/fhumd.2022.989387 .
+Heimstädt, C. 2023 . “Making Plant Pathology 
+Algorithmically Recognizable. ” Agriculture and Human 
+Values  40 (3): 865–878. doi: 10.1007/s10460-023-10419-5 .
+Kehl, C., R. Meyer, and S. Steiger. 2021 . Digitalisierung der 
+Landwirtschaft: gesellschaftliche Voraussetzungen, 
+Rahmenbedingungen und Effekte. Teil II des Endberichts 
+zum TA-Projekt  (Digitalization of Agriculture: Societal 
+Prerequisites, Framework Conditions and Effects. Part II 
+of the Final Report on the TA Project.) . Berlin: Büro für 
+Technikfolgen – Abschätzung beim Deutschen 
+Bundestag. doi: 10.5445/IR/1000142951 .
+Kliem, L., J. Wagner, C. Olk, L. Keßler, S. Lange, T. 
+Krachunova, and S. Bellingrath-Kimura. 2022 . 
+SuSTAINAbILIT y: SCIENCE , PRACTICE  AND  POLIC y 13
+“Digitalisierung Der Landwirtschaft – Chancen Und 
+Risiken Für Den Natur- Und Umweltschutz. ” In 
+Schriftenreihe Des IÖW (Digitalization of Agriculture – 
+Opportunities and Risks for Nature Conservation and 
+Environmental Protection) . Berlin: IÖW . https://www.
+ioew.de/fileadmin/user_upload/BILDER_und_
+Downloaddateien/Publikationen/Schriftenreihen/IOEW_
+SR_222__Digialisierung_der_Landwirtschaft.pdf .
+Lajoie-O’Malley, A., K. Bronson, S. van der Burg, and L. 
+Klerkx. 2020 . “The Future (s) of Digital Agriculture and 
+Sustainable Food Systems: An Analysis of High-Level 
+Policy Documents. ” Ecosystem Services  45: 101183. 
+doi:10.1016/j.ecoser.2020.101183 .
+Lühmann, M., and T. Vogelpohl. 2023 . “The Bioeconomy in 
+Germany: A Failing Political Project?” Ecological Economics  
+207: 107783. doi: 10.1016/j.ecolecon.2023.107783 .
+Martin, A., N. Myers, and A. Viseu. 2015 . “The Politics of 
+Care in Technoscience. ” Social Studies of Science  45 (5): 
+625–641. doi: 10.1177/0306312715602073 .
+Mies, M., V . Bennholdt-Thomsen, and C. von Werlhof. 
+1988 . Women: The Last Colony . New Delhi: Kali for 
+Women.
+Miles, C. 2019 . “The Combine Will Tell the Truth: On 
+Precision Agriculture and Algorithmic Rationality. ” Big 
+Data & Society  6 (1): 205395171984944. doi: 10.1177/  
+2053951719849444 .
+Montenegro de Wit, M. 2021 . “Can Agroecology and 
+CRISPR Mix? The Politics of Complementarity and 
+Moving toward Technology Sovereignty. ” Agriculture 
+and Human Values  39 (2): 733–755. doi: 10.1007/
+s10460-021-10284-0 .
+Montenegro de Wit, M., and M. Canfield. 2023 . “Feeding 
+the World, Byte by Byte’: Emergent Imaginaries of Data 
+Productivism. ” The Journal of Peasant Studies  51 (2): 
+381–420. doi: 10.1080/03066150.2023.2232997 .
+Mölders, T. 2019 . “Rethinking Gender: Feminist 
+Perspectives on Sustainable Development Goals in the 
+Light of (Re)Productivity. ” GAIA  28 (2): 95–99. 
+doi:10.14512/gaia.28.2.6 .
+Nelson, I., H. Faxon, and M.-H. Ehlers. 2024 . “Feminist 
+Political Ecologies of Agrarian Technologies: Knowing 
+the Digital Differently. ” The Journal of Peasant Studies:  
+1–28. doi: 10.1080/03066150.2024.2308637 .
+Oksala, J. 2018 . “Feminism, Capitalism, and Ecology. ” 
+Hypatia  33 (2): 216–234. doi: 10.1111/hypa.12395 .
+Perkins, P . 2007 . “Feminist Ecological Economics and 
+Sustainability. ” Journal of Bioeconomics  9 (3): 227–244. 
+doi:10.1007/s10818-007-9028-z .
+Plumwood, V . 1991 . “Nature, Self, and Gender: Feminism, 
+Environmental Philosophy, and the Critique of 
+Rationalism. ” Hypatia  6 (1): 3–27. doi: 10.1111/  
+j.1527-2001.1991.tb00206.x .
+Preston, C., and F. Wickson. 2016 . “Broadening the Lens 
+for the Governance of Emerging Technologies: Care 
+Ethics and Agricultural Biotechnology. ” Technology in 
+Society  45: 48–57. doi: 10.1016/j.techsoc.2016.03.001 .
+Puder, J., and A. Tittor. 2023 . “Bioeconomy as a Promise 
+of Development? The Cases of Argentina and Malaysia. ” 
+Sustainability Science  18 (2): 617–631. doi: 10.1007/
+s11625-022-01284-y .
+Puig de la Bellacasa, M. 2011 . “Matters of Care in 
+Technoscience: Assembling Neglected Things. ” Social 
+Studies of Science  41 (1): 85–106. doi: 10.1177/03063127  
+10380301 .Puig de la Bellacasa, M. 2015 . “Making Time for Soil: 
+Technoscientific Futurity and the Pace of Care. ” Social 
+Studies of Science  45 (5): 691–716. doi: 10.1177/03063127  
+15599851 .
+Puig de la Bellacasa, M. 2017 . Matters of Care: Speculative 
+Ethics in More than Human Worlds . Minneapolis, MN: 
+University of Minnesota Press.
+Ramcilovic-Suominen, S. 2023 . “Envisioning Just Transfor -
+mations In and Beyond the EU Bioeconomy: Inspirations 
+from Decolonial Environmental Justice and Degrowth. ” 
+Sustainability Science  18 (2): 707–722. doi: 10.1007/  
+s11625-022-01091-5 .
+Röhr, U., and I. Weller. 2021 . “Zum Umgehen Von Und 
+Umgang Mit Ungleichheiten in Der Klimapolitik Und 
+Der Forschung Für Eine Klimafreundlichere Gestaltung 
+Des Alltags (On Dealing with Inequalities in Climate 
+Policy and Research to Make Everyday Life More 
+Climate-Friendly). ” ZDfm – Zeitschrift Für 
+Diversitätsforschung Und -Management  6 (1): 23–38. 
+doi:10.3224/zdfm.v6i1.03 .
+Saave, A. 2022 . Einverleiben Und Externalisieren: Zur 
+Innen-Außen-Beziehung Der Kapitalistischen 
+Produktionsweise (Incorporating and Externalizing: On 
+the Inside-Outside Relationship of the Capitalist Mode of 
+Production).  Bielefeld: transcript-Verlag.
+Saave, A. 2023 . “Ecofeminism Now. ” In Transform! 
+Yearbook 2022: Left Strategies for the Covid Pandemic 
+and Its Aftermath Left , 335–350. Dublin: Merlin Press.
+Saave, A., C. Brinckmann, and S. Hackfort. 2024.  
+“Feminist Perspectives on the Bioeconomy. ”  Economists 
+for Future . https://www.econ4future.org/post/feminist-  
+perspectives-on-the-bioeconomy .
+Sampson, D. 2018 . “Productivism, Agroecology, and the 
+Challenge of Feeding the World. ” Gastronomica  18 (4): 
+41–53. doi: 10.1525/gfc.2018.18.4.41 .
+Salleh, A. 1997 . Ecofeminism as Politics: Nature, Marx and 
+the Postmodern . London: Zed Books.
+Shiva, V . 1991 . The Violence of the Green Revolution: Third 
+World Agriculture, Ecology, and Politics . London: Zed 
+Books.
+Stilgoe, J., R. Owen, and P . Macnaghten. 2013 . “Developing 
+a Framework for Responsible Innovation. ” Research 
+Policy  42 (9): 1568–1580. doi: 10.1016/j.respol.2013.05.008 .
+Theoriegruppe Vorsorgendes Wirtschaften (TVW) (Theory 
+Group on Caring Economy) 2000 . “Zur Theoretisch-  
+Wissenschaftlichen Fundierung Vorsorgenden 
+Wirtschaftens (On the Theoretical-Scientific Foundation 
+of Caring Economy). ” In Vorsorgendes Wirtschaften: Auf 
+Dem Weg Zu Einer Ökonomie Des Guten Lebens (A 
+Caring Economy: Towards an Economy of Good Living) , 
+edited by A. Biesecker, M. Mathes, S. Schön, and B. 
+Scurrell, 27–70. Bielefeld: Kleine-Verlag.
+Tittor, A. 2021 . “The Key Role of the Agribusiness and 
+Biotechnology Sectors in Constructing the Economic 
+Imaginary of the Bioeconomy in Argentina. ” Journal of 
+Environmental Policy & Planning  23 (2): 213–226. doi: 1
+0.1080/1523908X.2021.1893162 .
+Tronto, J. 2013 . Caring Democracy: Markets, Equality, and 
+Justice . New Y ork: New Y ork University Press.
+Wajcman, J. 2010 . “Feminist Theories of Technology. ” 
+Cambridge Journal of Economics  34 (1): 143–152. 
+doi:10.1093/cje/ben057 .
+Whittingham, J., and R. Wynberg. 2021 . “Is the Feminist 
+Ethics of Care Framework a Useful Lens for GM Crop 
+14 S. HACKFORT AND A. SAAVE
+Risk Appraisal in the Global South?” Technology in 
+Society  64: 101455. doi: 10.1016/j.techsoc.2020.101455 .
+Wichterich, C. 2015 . “Contesting Green Growth, 
+Connecting Care, Commons and Enough. ” In Practising 
+Feminist Political Ecologies: Moving Beyond the “Green 
+Economy , edited by W . Harcourt and I. Nelson, 67–101. 
+London: Zed Books.Wickson, F., Preston, C., Binimelis, R., Herrero, A., Hartley, S., 
+Wynberg, R., and Wynne, B. 2017. “ Addressing 
+Socio-Economic and Ethical Considerations in Biotechnology 
+Governance: The Potential of a New Politics of Care. ” Food 
+Ethics  1 (2): 193–199. doi: 10.1007/s41055-017-0014-4
+Winner, L. 1980 . “Do Artifacts Have Politics?” Daedalus  
+109: 121–136. https://www.jstor.org/stable/20024652 .

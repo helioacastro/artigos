@@ -113,6 +113,6 @@ PLANILHA_PATH = r'' + PASTA_BASE + '\\Pesquisa_Ontologia_Solos.xlsx'
 # Caminho para a pasta onde você salvou seus arquivos .bib
 BIBTEX_FOLDER = r'' + PASTA_BASE + r'\\Metadados_BibTeX\\'
 
-# --- Executa a função ---
+# --- Executa a função ---             
 if __name__ == "__main__":
     update_planilha_com_bibtex(PLANILHA_PATH, BIBTEX_FOLDER)

@@ -1,0 +1,771 @@
+Journal of Posthumanism  
+October 2022  
+Volume: 2, No: 3, pp. 24 9–266 
+ISSN: 2634 -3576 (Print) | ISSN 2634 -3584 (Online)  
+journals.tplondon.com/jp  
+ 
+ Journal of Posthumanism   
+All rights reserved @ 202 2 Transnational Press London  
+Received : 02 August 2021 Accepted: 08 August 2022 
+DOI: https://doi.org/ 10.33182/joph.v2i3.1728  
+ 
+Forms of  Care in Human –Nature–Technology Environments  
+Patricia Ciobanu1 and Oskar Juhlin2 
+ 
+Abstract  
+With the ongoing environmental disruptions, designers are increasingly interested in exploring nature –technology 
+entanglements that create sustainable and collaborative futures. Although largely unarticulated, these emerging design 
+inquiries are motivated by care for natur e, which indirectly depends on cultural and social human practices. Drawing on 
+a broad set of works on care from feminist theory, science and technology studies, and human –computer interaction, this 
+article introduces a care framework that focuses on revea ling tensions in the interrelationship between humans and 
+nonhumans. The framework is used to examine an initial study in which five participants engaged with a speculative 
+design probe, specifically a combination of a device and a plant, envisioning a sce nario in which plants generate electricity. 
+We reveal how forms of care manifest differently in a human –plant–technology dynamic and identify tensions, such as 
+plants being considered utilities, proxies, or humans.  
+Keywords : Care framework ; Plants ; More-than-human design; Research through design 
+ 
+Introduction  
+Human -centred design has long been a crucial part of human –computer interaction (HCI) 
+design research (Cooley, 1989). However, human -caused environmental crises call for 
+rethinking techno -centr ic and human -centric design approaches. To tackle this issue, design 
+researchers have moved towards exploring more -than-human interactions (J. Liu et al., 2018; 
+S. Liu et al., 2019). This body of work is continuously growing. Emerging design practices 
+that apply post -anthropocentric theories include multispecies ethnography (Smith et al., 
+2017), thing -ethnography (Giaccardi et al., 2016), human –computer –biosphere interaction 
+(HCBI) (Kobayashi, 2015), animal –computer interaction (ACI) (Aspling & Juhlin, 2017 ; 
+Mancini, 2011) and collaborative survival (Liu et al., 2018). We argue that this tendency in 
+design research is, to some extent, implicitly motivated by humans’ care for nature  and thus 
+indirectly depends on their cultural and social ways of expressing c are. It is important for 
+design research ers to understand how care for nonhumans is embedded in social dynamics 
+that inherently include humans, as it can reveal unarticulated tensions within more -than-
+human relations. We thus ask : what forms of care are enacted by humans in human –plant 
+relations, and how does care shift when digital technology is embedded in the assemblage?  
+We have chosen a broad care lens since care for nonhumans is embedded in social and cultural 
+practices of care for humans, such as th ose present in previous work in HCI (Dye et al., 2019; 
+ 
+1 Patricia Ciobanu, Stockholm University, Department of Computer and Systems Sciences . E-mail: patricia@dsv.su.se   
+2 Oskar Juhlin, Stockholm University, Department of Computer and Systems Sciences. E -mail: oskarj@dsv.su.se  
+ 
+250 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+Friese, 2013; Harmon et al., 2017; Houston & Jackson, 2016; Kocksch et al., 2018; Martin et 
+al., 2015; Puig de la Bellacasa, 2015; Schrader, 2015; Zegura et al., 2018). We believe a broad 
+perspective i s needed as the topic is heterogeneous and ambiguous (Puig de la Bellacasa, 
+2015). We draw on works from feminist theory (Murphy, 2015; Tronto, 1993) to conceptually 
+understand what care is, along with works from HCI and science and technology studies (STS ) 
+(Atkinson -Graham et al., 2015; Puig de la Bellacasa, 2017) as they investigate how care occurs 
+within socio -technical and cultural contexts. By reviewing these works, we outline a 
+framework of care composed of six forms  of care: practice , relations , noticing, decision 
+making , response -ability , and emotion .  
+Figure 1.  The design probe  Juniper , with a kalanchoe plant (left) and in stand -by mode (right)  
+ 
+Image: Project archive  
+We then apply the care framework to unpack the ties between humans, nonhumans, and 
+technology. We chose to focus on a specific group of nonhumans – plants – as they are a vital 
+part of addressing environmental concerns (Kobayashi, 2015), and they have been  gaining 
+interest within HCI design research (Angelini et al., 2016; Budinger & Heidmann, 2019; 
+Degraen et al., 2019; Steer et al., 2015). The importance of caring for plant needs and not 
+caring for them as a vehicle for human needs was formulated in ACI  (Aspling et al., 2016). 
+We contribute to this literature by using the care framework to uncover this friction in an 
+initial design study of a human -plant -technology interaction . For this study, we invited five 
+participants to articulate their interaction wi th plants in daily life and their interaction with a 
+speculative design probe  (see Figure 1 left).  We use the probe method (Gaver et al., 1999; 
+Wallace et al., 2013) to design a speculative computational device combined with a kalanchoe 
+plant that portrays  a future in which plants are a source of electricity. This device was created 
+by considering current technological trends into alternative sources, such as plants used to 
+generate electricity, and through speculative thinking of living with plants as an a lternative 
+energy resource “to nurture political imagination about what the world could be” (Puig de la 
+Bellacasa, 2009 , 307 ). As a speculative prototype, Juniper does not generate electricity but 
+instead represents this function through LEDs. Without the plant, the probe is in standby 
+mode , with LEDs emitting a blue light that fades in and out (see Figure 1, right). With the 
+plant, the LEDs switch to a green charging pattern, with each LED turning on one by one.  
+
+Ciobanu and Juhlin  251 
+journals. tplondon.com/ jp Wallace et al. (2013 , 3441 ) define  design probes as “objects that are usually small in scale, 
+whose materiality and form are designed to relate specifically to a particular question and 
+context .” The approach follows a combination of Research through Design (RtD) 
+(Zimmerman et al., 2007) a nd speculative design (Dunne & Raby, 2013). RtD supports a 
+process of exploration and use of methodologies from design practice to investigate 
+ambiguous topics (Zimmerman et al., 2010). Speculative design aims to question current 
+practices by imagining alt ernative ways of being (Dunne & Raby, 2013), thus inviting us to 
+examine the impact of new technologies from multiple perspectives ( Nonhuman Nonsense , 
+2021). The methodological approach is supported by Puig de la Bellacasa , who argues that 
+“for more caring  affective ecologies to become possible, we need speculative thinking ” (2017, 
+219) and a “speculative commitment to neglected things”  (2011, 85) . As such, there is value 
+in looking at care at a local and personal level to understand and discover new ways o f 
+interacting. We can thus critically reflect on which futures certain technologies are pushing us 
+towards (Tonkinwise, 2014) and whether these futures are improving or harming more -than-
+human worlds. We learn that care presents itself in different forms b y applying the care 
+framework, depending on the social context. Additionally, by exploring more -than-human 
+worlds within a human context, we can uncover unseen interactions and how these 
+interactions evolve when technology is embedded. In the following, we  outline the six forms 
+of care that comprise our propos ed framework : practice , relations , noticing , decision making , 
+response -ability , and emotion . 
+Establishing a care framework  
+Research on care is diverse and occurs in many domains. As a step towards unpacking its role 
+in our area of interest, we will summarise these bodies of work as an initial approach . This 
+framework includes research on care for nonhumans and humans. The latt er is included as 
+care for nature occurs in a social and cultural setting. By using such a double approach, we 
+hope to articulate what it means to care for nonhumans and how care is enacted in more -
+than-human settings, thus contributing to a systematic for mulation of care to better 
+understand ambiguous interactions. The framework is based on previous framings of care 
+(Puig de la Bellacasa, 2017, 42; Tronto, 1993) with a more explicit, systematic, and consistent 
+scheme to apply in design research contexts. T hus, the care framework comprises the 
+following forms of care:  practice,  relations,  noticing,  decision  making,  response -ability, 
+and emotion.  For each form, we look at relevant work that unpacks care between humans 
+and then with nonhumans. Care is imbued w ith practical experimentation, or  tinkering  (Mol et 
+al., 2010), of adjusting between the subject and the object of care. As Puig de la Bellacasa 
+(2009) explains,  ready -made explanations  cannot be provided when it comes to care, as it is 
+contextually depend ent. Among other conceptualizations of care based on principles for 
+collaboration among species (Modi, 2021) , we introduce the following care framework for a 
+more structured approach to understanding how care is generated in more -than-human 
+interactions, a ll the while sustaining the space for further additions and modifications.  
+Care as practice  
+Human care emerges through action . This care giving  (Tronto, 1993 , 107 ) is represented 
+through physical labour, initially studied in medical contexts in which a patient is cared for by 
+a clinician or in domestic settings. It is a malleable practice, a set of “efforts that are ongoing, 
+adaptive, tinkering and open ended ” (Heu ts & Mol, 2013, 130). Practising care requires 
+252 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+continuous work, routine, and adjustment (Bennett et al., 2020 , 2), along with innovation and 
+creativity (Wong -Villacres et al., 2017 , 13). However, while improving the lives of certain 
+groups, these care prac tices can become harmful to others (Murphy, 2015 , 726 ). 
+Examples of direct care practices for nonhumans are acts of maintenance of objects and 
+systems (Houston & Jackson, 2016 , 2) or using soil sampling techniques to identify the needs 
+of the soil (Puig de  la Bellacasa, 2015 , 704 ). These go along with indirect care practices, such 
+as supporting animal rescue organisations (Harmon et al., 2017 , 1639 ). Nonhumans can also 
+be subjected to care that ultimately becomes harmful, such as weeding a garden or improvi ng 
+the conditions of animals intended for slaughter (Puig de la Bellacasa, 2017, 164).  
+Care as relations  
+Care is emerging in and from relations of various kinds. Puig de la Bellacasa (2012, 198) points 
+out that caring is  “inevitably to create relation .” Between humans, care is built on 
+interdependence (Light & Akama, 2014 , 153 ), on relations that are co -constitutive (Bennett 
+et al., 2020 , 5), empathic (Toombs et al., 201 7, 46) and socially -situated (Howard & Irani, 
+2019, 12). We see this in the  context of local communities (Sabie & Parikh, 2019 , 5; Toombs 
+et al., 2015 , 636 ), where a caring collective ethos is built to deepen the relationship between 
+the community members.  
+Care as relations between humans and nonhumans emerges depending on the arrangement. 
+Having the human at the centre of the relation implies a different dynamic to a nonhuman in 
+focus. When the nonhuman is the direct focus  of care , this creates a relation similar to that 
+found between humans , whereas when human  needs are  ultimately at the centre , this depicts 
+what we refer to as proxy caring . In this situation, nonhumans are the care receivers, but the 
+subject of care is a human. For instance, proxy care is represented when care for human 
+patients is improved by better precl inical care for laboratory animals (Friese, 2013 , 131 ).  
+Care as noticing  
+Noticing is an important aspect of care. It is a required skill of “learning to pay attention ” 
+(Haraway, 2008, 19) and caring about  (Tronto, 1993 , 106 ). Care as noticing requires “attuned 
+attentiveness and adaptive tinkering ” (Mol et al., 201 0, 15). This attentiveness exposes aspects 
+of the world that are often invisible or neglected (Puig de la Bellacasa, 2011 , 94). For example, 
+it occurs when recognis ing someone else’s given care and reacting accordingly (Tixier et al., 
+2018 , 141 ). Care as noticing is encouraged by asking power -related questions , such as “who 
+has the power to care, and who or what tends to get designated the proper or improper objects 
+of care” (Martin et al., 2015 , 636 ) and further uncovering power asymmetries (Howard & 
+Irani, 2019 , 7). 
+Care as noticing within nonhuman worlds requires humans to attune to different temporal 
+rhythms, such as the time of the soil that requires pauses for r egeneration (Puig de la Bellacasa, 
+2015 , 705 ). By being attentive to, for example, the surrounding environment (Atkinson -
+Graham et al., 2015 , 742 ) or the data that a system produces (Kaziunas et al., 2017 , 2262 ), 
+there is a sense of accountability that forms for different ways of living within more -than-
+human worlds : “care and accountability are inextricably entangled in shifting relationships ” 
+(Kocksch et al., 2018, 14).  
+ 
+Ciobanu and Juhlin  253 
+journals. tplondon.com/ jp  
+Care as decision making  
+Decision making is an aspect of care concerned with “balancing values ” (Mol, 2008, 42) and 
+requires sensitivity and consideration. Mol (2008 , 7) describes it as a logic of care  concerned 
+with facts when making choices. For instance, in a researcher -partici pant dynamic, the 
+participant can choose whether to prioritize care for the researcher, the research project , or 
+themselves (Toombs et al., 201 7, 53).  
+This form of care becomes a process of negotiation or tinkering between humans and 
+nonhumans (Karusala et al., 2017 , 17). For example, with care -oriented data science, the 
+choices involved in gathering the data imbue the data with specific values , which  further affect 
+the communities where it  is used (Zegura et al., 2018 , 8). The negotiation proce ss is ethically 
+and politically charged (Puig de la Bellacasa, 2011 , 90), which means the decider has “to 
+trouble oneself ” (Schrader, 2015, 666)  whether to care for nonhumans and how . When the 
+care subject is not known,  which is usually the case with nonhumans,  the carer , i.e. the human , 
+can even experience hesitancy and the “ordeal of the undecidable ” (683).  
+Care as response -ability  
+Care as response -ability (Haraway, 2008 , 88) is the ability to respond to being affected  and the 
+responsibility of affecting others (Puig de la Bellacasa, 2011, 2017), the  care receiving  and 
+taking care of  described by Tronto (1993 , 106 ). It is a “capacity and willingness to be moved, 
+in both the affective and kinesthetic senses of the verb ‘to move’ ” (Martin et al., 2015, 635). 
+We see this form of care exemplified within practices that are of assistance to others, such as 
+creating a network that can provide Internet access to an entire community (Dye et al., 2019 , 
+2). In research, we can identify the same kind of commitment through examples of humans 
+caring for each other by becoming “agents of change ” (Toombs et al., 201 7, 47) or being 
+“custodians of care ” (Light & Akama, 2014, 160).  
+Response -ability within more -than-human worlds requires consideration of how to develop 
+an affective response towards nonhumans (Schrader, 2015 , 670). It can take the form of moral 
+and material responsibility, from the human side, for repairing and maintaining of devices and 
+systems (Ho uston & Jackson, 2016 , 2; Kocksch et al., 2018 , 5). A responsibility for 
+nonhumans can be engaged when connected with care for humans, such as when care for 
+patients is improved by taking responsibility to provide care for the nonhumans that are part 
+of pr eclinical research (Friese, 2013 , 136 ). 
+Care as emotion  
+Care is intrinsically about affectivity. It is being “emotionally attached ” (Murphy, 2015, 721) 
+and “troubled, worried, sorrowed, uneasy, and unsettled ” (721). Within human relations, this 
+aspect of care, referred to as affective labour and usually performed by women, has been 
+undervalued both in domestic and professional environments (Murphy, 2015 , 723). However, 
+such caring emotions are necessary for co llective living and take the form of emotional and 
+moral support within communities (Kocksch et al., 2018 , 15; Vyas, 2019 , 9). For example, this 
+is the case when acknowledging vulnerabilities within power -laden relations (Toombs et al., 
+2017, 53).  
+254 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+Nonhuma n care is also about emotions. For example, the maintenance and repair of 
+nonhumans enact affective relations between the human repairer and the human user 
+(Houston & Jackson, 2016 , 2) or using data, which in specific contexts nurtures “empathy and 
+togethe rness ” (Kaziunas et al., 2017, 2270). Having an emotional response towards the well -
+being of nonhumans, while not solely sufficient to prompt care, has a role in becoming 
+affected (Schrader, 2015 , 683 ). 
+Thus, the care framework outlined above reveals how c are is a heterogeneous and 
+multifaceted activity. Previous research has focused on human interactions, while the 
+nonhuman, if present, remained in the background or acted as a media or proxy. Care can 
+influence the interaction in many ways, overshadow the nonhuman through technical 
+implementations, and perpetuate a sense of control over the natural world. In the following, 
+we will investigate  how this framework performs in an initial study of care responses to a 
+speculative computer -mediated plant probe.  
+Probe design and initial study  
+As a means to evoke care for nonhumans, we conducted an initial study using RtD and 
+speculative design. Speculative design is a method where functionality is imagi ned rather than 
+implemented, used to provoke discussions and expose issues around emerging technologies 
+in the context of an alternative present or a future scenario (Dunne & Raby, 2013). RtD is a 
+widely adopted approach within HCI design research that emb races the practice -based nature 
+of design investigation, where the knowledge is articulated in and through ongoing design 
+work. By adopting RtD, our approach is twofold (Giaccardi, 2019). First  is a practice -based 
+design exercise resulting in a speculative  probe based on current technological trends in 
+biotech. Second, there is a focus on care, which opens up the design space within human -
+nonhuman relations. Given the intricacy of the topic, following a speculative and qualitative 
+approach allows us to unco ver the hidden dynamics within human -nonhuman interactions 
+and how technology transforms them without having this context as a set reality . We can thus 
+learn how care is enabled as it unfolds in the study. In the following, we describe the probe 
+and the se tup of the user study.  
+Probe design   
+Juniper represents a potential human –plant –technology relationship, where the human relies 
+on the plant as an energy source, and the technology is the mediator that sustains the 
+dependence. The increasing interest in introducing technology to the biotic in spired us, such 
+as the system developed by Plant -e (Living Light, 2020) that uses plants to generate electricity. 
+Juniper is a speculative prototype of this technology, as our probe does not generate electricity 
+but instead represents this function through  LEDs. Our speculative probe consists of a 
+wooden box with an Arduino unit3 and a kalanchoe plant, a flowering succulent with low 
+watering needs. We chose this particular plant in order for the participants to focus on aspects 
+of care different from the o nes they usually express with plants, such as watering. The 
+impression of an energy source  in this design probe is indicated by the LED strip that displays 
+either a “standby ” or “charging ” sequence. Without the plant, the probe is in standby mode, 
+and LEDs  emit a blue light that fades in and out (see Figure 1, right). When the plant is 
+positioned in the wooden enclosure, the LEDs switch to a green charging pattern, with each 
+ 
+3 Arduino is an open -source electronics prototyping platform used to create tangible interactive devices . 
+Ciobanu and Juhlin  255 
+journals. tplondon.com/ jp LED turning on one by one (see Figure 1, left). We seek to understand how this tech nology 
+affects human –nonhuman relations with this probe. Furthermore, we reveal which frictions 
+are perpetuated or created in these interactions through the care framework.   
+Initial study  
+This subjective study was carried out with five participants, three women and two men, who 
+we recruited by word -of-mouth. The participants were students between the ages of 21 and 
+28 originating from Spain, the USA, Sweden, Poland, and Peru. They will be referred to by 
+their assigned pseudonyms: Ivy, April, Olivia, Jade, and Jordan. While two of the five 
+participants worked in the same interaction design lab where we created the probe, the study’s 
+primary concern relates to the participants’ experience using the probe and the reflections 
+expressed afterwards.  Juniper was fostered independently by each participant between one 
+and four days. We informed each participant of the probe’s functioning and their position as 
+speculators in what it would mean if the plant was a sourc e of electricity. They were requested 
+to have the probe always connected to their personal computer.  
+Before handing out the probe, we conducted semi -structured interviews with each participant 
+to reflect upon their current relationship with plants and how  care towards them was 
+manifested. These questions explored the overall position of caring for plants. We conducted 
+a follow -up semi -structured interview at the end of the study to assess their experience 
+fostering the probe and whether new forms of care e merged. The pre -probe interviews shaped 
+the questions, building on the experiences as the participants recounted them. They were also 
+encouraged to report their accounts by posting photos on a shared Instagram account 
+dedicated to this study. We referred t o the visuals during the post -probe interview to 
+encourage the participants to recount their experiences in detail. We transcribed the interviews 
+and the data was coded deductively in collaborative sessions that included both authors. We 
+used the six forms  of care previously formulated as our theoretical framework, which we 
+assigned to the gathered data. We use d a deductive content analysis approach as it allow ed for 
+systematic analysis and identifying structures, in this case, the various forms of care, in  
+different types of content (Krippendorff, 2018). The coding was not always straightforward. 
+This was due to overlaps between the forms of care and the interpretative nature of the 
+coding. Thus, we revisited the gathered data from the interviews in at leas t two rounds before 
+assigning a primary code to the transcript.   
+Figure 2.  Instagram posts with captions from April (a) and Olivia (b -c) 
+ 
+Image: Project archive  
+
+256 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+Analysis  
+We analyse d the participants’ accounts  given  the care framework . For each form of care 
+(practice , relations , noticing , decision making , response -ability , and emotion) , we first describ e 
+their care for plants in general and second  their care for Juniper.  
+Practices of care  
+As described in the framework,  care as practice emerges through actions . Taking care of plants 
+is similarly a hands -on activity, a “material vital doing ” (Puig de la Bellacasa, 2017, 42). In the 
+pre-probe interview , the participants mentioned various plant maintenance practices such as  
+adding nutrition sticks, replanting to a bigger pot, buying nicer -looking pots, changing to fresh 
+soil, watering the plant and placing it in the sun. Notably, the participants’ usual care  practices 
+included looking at the plant and touching the soil to feel the humidity.   
+When they engaged with Juniper, the following practices were added to the list: shifting 
+location, transportation, and supplying power. First, we observed the adaptive quality of care 
+as practice through the need to change location depe nding on the human’s or the plant’s 
+needs. Participant Olivia, who looked into how to care for a kalanchoe plant, made sure that 
+it got enough sun and water. Second, it was also necessary to transport the probe, as the 
+requirement was to have it with them every time they used their computer. Olivia, Jordan, and 
+Ivy were commuting to and from work with the probe. Olivia mentioned her tinkering with 
+how to place it, adjusting accordingly: “I took the bag and carried it on my shoulder, but not 
+as a usual bag t hat you whip at the back of your body. I kind of had it more in the front and 
+occasionally cradled it and held it upright because it has this flat surface .” Third, some of the 
+Instagram posts reflected the action of supplying power. We see this when April presented 
+the power supply practice from the plant’s perspective, stating that it is “giving energy for a 
+master thesis student ” (see Figure 2 (a)). The care work was a form of donation in order for 
+her to complete her work. Similarly, Olivia follows this anthropomorphic, other -than-human 
+viewpoint, speculating how the plant could practice care work by powering an electric bike 
+(see Figure 2 (b)). This suggests that by adding an extra property to a plant, namely the capacity 
+to supply electricity, there is a more direct physical engagement with the plant.  
+Caring relations  
+Human –plant care relations can be of various kinds, for instance, customary, symbolic, and 
+proximal. Customary relations draw on routine practices, such as between family members, 
+that have  been practised for a long time. These are socially -situated relations that sometimes 
+extend over generations. We see socially -situated relations  when April mentioned her parents 
+passing on their care for plants: “I am used to it because my parents have always had plants 
+at their house. [...] So for me, it is something natural .” The plant can act as  a symbolic 
+mediation of past or present human relations. This is what we termed proxy caring  in the 
+framework  when the plant receives care on behalf of a  human . Jade, Ivy, and Jordan describe 
+this type of relational care through accounts of how they became interested in plants because 
+of a loved one. Jordan’s case represents the love between him and his partner:  “It feels good 
+taking care of it since I kno w other people care about it. So, in that regard, by taking care of 
+it, I am taking care of the other people .” Finally, relationships also depend on the proximity, 
+or distance, to the object of care. For example, care for house plants differs from care for  
+plants in a distant forest. Olivia states that she has a relationship with plants, although just 
+those indoors:  “Sometimes I am more curious about plants that are wild, like trees [...] But I 
+Ciobanu and Juhlin  257 
+journals. tplondon.com/ jp mostly have a relationship with my plants indoors and also the plants that I grow for my own 
+food.” Here, the distance fosters an intellectual focus, whereas the co -presence or close 
+proximity grows through caring.   
+New forms of relations emerge with the care of Juniper, specifically direct social sharing, 
+direct nonh uman relations, and co -dependence. Direct social sharing is represented by how 
+April shared the probe with her partner. She speculates how such a system could be 
+introduced in more public spaces, such as libraries or group rooms:  “You could see maybe a 
+plant in the middle that gives electricity for everyone that is working there [...] it could be 
+something social that connects everyone together .” There is also a switch from personal or 
+dyadic to collective experiences, including nonhumans, such as when Juni per became part of 
+April’s “plant family .” It can also be seen in Olivia, Jordan, and Ivy’s posts that position the 
+plant as “having friends ,” collaborating or spending time with humans (see Figure 2 (c) & 
+Figure 3 (a –b)). Relations are also co -dependent, creating a form of interdependence when 
+both sides need each other to fulfil their needs, or as Ivy says: “you need it, it needs you .”  
+Figure  3. Instagram captions by Jordan (a) and Ivy (b)  
+ 
+Image: Project archive  
+Careful noticing  
+Participants in the pre -probe interview stated the noticing aspect of care in that they would 
+“check on” plants and “watch them grow .” They observed dropped or new leaves that 
+sprouted as signs of the plant’s health . They touched the soil to notice its moisture. Noticing 
+also lead s to speculations . According to  Jordan, attuning to the rhythm of  plants ma de it 
+possible to visuali se the future: “They give me clues about what is going on in the world, 
+short -term future, nearby , and what people and things are up .” Thus, n oticing seems to be a  
+step toward practi ce. It prompted an attuned attentiveness to the ord inary doings, the 
+uneventful ways of caring for plants, and what plants can show us about the future.   
+Juniper added new dimensions into noticing , for instance,  the light  from the LEDs. For April, 
+it was a sign of the plant ’s “breath ”: “With the lights [...] it showed you more that this is 
+
+258 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+something living and that the lights are in some way a sign that it is breathing, that it’s there . 
+[...] It feels more of a living thing than just beautiful on a stand .” This design aspect helped 
+April b ridge the gap between human understanding of nonhumans and made her 
+acknowledge  Juniper as a living being  that can receive and respond to care .  
+Watchful decision making  
+The decision -making  aspect of care was defined by participants making choices on whether 
+to care that were  either voluntary or involuntary , active  or inactive, or instrumental. In 
+Jordan’s case, caring for his plant is intricately linked to a voluntary decision: “I care for it 
+because it feels like it is a special plant. [...] If I let  it die, it would be symbolically bad, and I 
+wouldn't feel good ruining it. [...]  It was not random. It was meticulously chosen .” When 
+Olivia received a plant as a gift, the choice was rather involuntary: “I started having plants 
+because I received one as a gift, and it was something nice to receive. But then I didn ’t choose 
+that plant, so I felt like I want to choose the plant carefully .” Jordan expresses how decisions 
+on plants can be either active or passive. The caregiving is active with his plants and passive 
+with the plants outdoors: “I recently got a plant that I care for explicitly at home. That 
+relationship is different from other plants since I don’t explicitly care for them or build them, 
+so to speak. Like I try not to hurt them by not making thei r environment bad .” Jordan’s 
+decision not to actively engage with plants by avoiding harming them is what Puig de la 
+Bellacasa (2017) calls conscious neglect . Decisions can also be instrumental when they 
+primarily focus on the need of the human. For exampl e, Olivia grows herbs in a hydroponic 
+system for cooking and Ivy grows Aloe Vera for use in skincare. Thus, care can stem from an 
+active and free individual choice of whom to care for and how we should engage, forming 
+reciprocal and considerate relations o f care. At other times, it is a necessary decision, such as 
+receiving an object of care. We can actively engage in care while consciously neglecting others 
+and caring for those most beneficial. Thus, how we have decided to care is part of caring.  
+New instrumental acts of care emerged with the added feature of energy supply. Participant 
+Jade reflected on the energy aspect of the probe by speculating on how the probe could be 
+used in remote areas when camping or being outdoors for extended periods. Addit ionally, a 
+monetary aspect would have encouraged Jade to be more engaged with the caregiving, given 
+that such an artefact would be a cheaper electricity source for him. Thus, active engagement 
+stems from the potential benefit gained from caring.  
+Response -able care  
+In the pre -probe interview , we have seen the responsibility aspect of care develop when April 
+receives plants as gifts: “When someone gives me a plant, even if it is someone that we don’t 
+have that big of a relationship, [...] then I kill this flo wer, then I feel bad . [...] It feels like I want 
+to take care of it because that is kind of a symbol .” Caring has a moral implication that the 
+caretaker can experience as a commitment, which differs from the experience of hedonic 
+pleasure. For Jordan, this  responsibility is heightened because of the symbolism behind the 
+plant he cares for. He protects it because it has meaning for him and his loved ones. When a 
+plant is a proxy for a loved one, the sense of duty is more significant, as its symbolism fuels 
+the care.  
+While fostering the probe, participants felt responsible for it and the study. They felt the need 
+to ensure they maintained the probe, as another participant in the study would later use it. 
+They wanted to provide sufficient nurturing for the plan t to keep it alive and actively engaged 
+Ciobanu and Juhlin  259 
+journals. tplondon.com/ jp with Juniper and in the interview sessions.  Ivy describes how Juniper gave her a “personal 
+feeling to it, made it more special in a sense .” This account points back to the work of Toombs 
+et al. (201 7) on researcher –participant relations and how care is intrinsically entangled in them. 
+Care here was exhibited through the sense of responsibility rather than the ability to respond.  
+Emotional care  
+Participants attributed emotions of various kinds, such as aesthetic, empathic, and worrying. 
+A strong reason for participants’ care for plants, in general, was to have  aesthetic  experiences. 
+They mentioned how plants, while being beautiful, also create a cosy atmosphere. They bring 
+aliveness and a natural feeling to an indoor space. As Olivia states, it is an aesthetic visual 
+experience. For April, the act of maintenance brought out empathic emotions. When she sees 
+the plants grow, it makes her think they are “happy ,” which in return makes her happy. She 
+thinks of her plants as her “babies ” and that she takes care of them “as if they are human .” 
+Olivia gets concerned if she sees signs of worry  in the plants  and wonders what could be done 
+to improve their ov erall livelihood.   
+With Juniper, feelings of concern and enjoyment increased. The participants who commuted 
+with the probe (Olivia, Ivy, and Jordan) were more considerate of the plant’s well -being. Olivia 
+mentioned how she made sure to bike more carefully,  while Ivy felt distressed with the need 
+to transport the probe: “It was slightly annoying to carry her from one place to another 
+because I was afraid of damaging her .” Fostering the probe created a different experience 
+than the usual plant interaction for the participants. Thus, we see more acknowledgements of 
+vulnerabilities within the human -nonhuman relation by introducing new functionalities or 
+requirements to a plan t. However, it also generates new ways of being with plant others and 
+aids in speculating what other care worlds might be.  
+Discussion  
+Increased engagement with nonhumans in various forms of human –computer interaction will 
+require  increased human care  and a  better understand ing of  nonhuman needs. Our study set 
+out to answer the question of what forms of care are enacted by humans in human –plant 
+relations, and how does care shift when digital technology is embedded in the assemblage?  It 
+was thus  intended as a stepping  stone to the analysis of how human engage ment  in care affects 
+the lives of nonhumans. Given the study at hand, we will discuss how the care framework 
+revealed certain aspects of humans interacting with plants within cultural and soc io-technical 
+contexts and how care manifested differently towards  plants  in general life  and the plant in a 
+technology context . 
+Human forms of care for nonhumans  
+Altogether, we see that the notions of care formulated in the framework were present in our 
+more-than-human study. Our study recognised six forms of human care occurring when 
+engaging with nonhumans  (practice , relations , noticing , decision making , response -ability , and 
+emotion) . We have described the care pr actices as the maintenance that goes into  nurturing 
+plants and the adjustments needed when transporting the probe. The socially -situated care 
+relations were derived from a custom or proxy, with physical limitations and some plants 
+becoming embodiments of human relations. The noticing aspect of ca re manifested through 
+attuned attentiveness, primarily by visual perceptions of the plant’s well -being or an attuning 
+to the rhythms of plants that created opportunities to reflect on the future. With care as 
+260 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+decision making, we observed how it stemmed fro m personal choice forming a reciprocal and 
+considerate relationship, such as choosing the object of care, or through obligation, such as 
+receiving a plant as a gift. Additionally, we can consciously choose to neglect or practice care 
+towards plants that ar e useful to us. With care as response -ability, we observed  the quality of 
+being responsible and committed to maintaining a nonhuman through and from care. While 
+with care as emotion, it was reflected through various emotions, acknowledging the 
+vulnerabilities of nonhumans, nurturing empathy through the practice o f maintenance, and 
+experiencing aesthetic enjoyment.  
+However, new understandings of care were conceptualised, such as the various forms of care 
+as relations, e.g. , customary, symbolic , and proximal, and the aspect of conscious neglect in 
+care as decision m aking. Thus, rather than setting the care framework as normative, we created 
+it as more of a blueprint in which there is space for further additions and modifications.    
+Expressions of care towards plants and the probe  
+Participants commented on their previ ous interaction with plants and their interaction with 
+the plant –technology prototype. Comparing these accounts makes it possible to identify 
+similarities and differences.  First, we identified several similarities between how participants 
+described their c are for plants and their care for Juniper. There were no differences between 
+a plant and Juniper regarding watering or ensuring sunlight.  The type of symbolic 
+anthropomorphic relation discussed by the interviewees also occurred in both cases. For 
+example, Jordan described how a plant could be a proxy for kin while caring for Juniper 
+extended to care for the research per se. This refers to how researchers and participants 
+switched between caring for themselves, caring for the research project, or caring for research 
+participants (Toombs et al., 201 7).  
+Second, we identified cases where participants’ forms of care differed between plants and 
+Juniper. Transporting Juniper to and from work added a new care practice referring to the 
+adjustments needed to practice care. However, the energy aspect brought forward new forms 
+of caring relations, such as April suggesting having it in a library and sharing the power 
+between students.  The new utility seems to divert participants’ care focus away from the plant.  
+According to April’s accounts, the lights became a representation of the plant as a living being. 
+While an interesting aspect of care as noticing, we  cannot say that this new understanding 
+changed her ways of caring . Generally, we learn that the technical s ystem overshadows the 
+plant, implying that instead of paying attention to the plant, the user attunes to the added 
+technology.  Even as a speculative artefact, Juniper shows how easily the main focus can switch 
+from the plant to the technology and how the t echnology becomes a potent agent in the more -
+than-human power relation. Thus, researchers need to consider how conditions change for 
+better or worse by introducing technology to the biotic.  
+Care for nonhumans in a human context  
+The care framework includes previous findings on  forms of  care for both humans and 
+nonhumans. We suggest that forms of care between humans are relevant when caring for 
+nonhumans, as caring for nonhumans occurs in a social context. In the following, we discuss 
+this suggestion and how it revealed social and cultural aspects of care when engaging with 
+plants. By applying the framework, we identified three ways the social context became 
+relevant: the plant as human utility, human proxy, and human per se.   
+Ciobanu and Juhlin  261 
+journals. tplondon.com/ jp Plants as human utility:  articulating care as decision making revealed how participants came to 
+see both plants and Juniper as a utility. Our design of Juniper’s functionality as an energy 
+producer seemed to have directed participants’ attention to energy production in general.   
+Plants as human proxy:  articulating care as relations and response -ability revealed how 
+participants came to see plants as human proxy. Care occurred when participants seemingly 
+treated the nonhuman as a human or as a symbol of a human. While care usually flows 
+between a caregiver and a care receiver, we noticed that the plant, while benefitting from 
+various forms of care,  is only a proxy for a human. That is to say, while the plant does receive 
+care, such as watering, the caring intention is directed towar ds someone else. It is a form of 
+symbolic anthropomorphism (Kant, 1950, 105 -106) where the plant stands in for someone 
+else.  
+Plants as human:  the application of care as relations and emotion brought forward how the 
+participants saw the plant as having hum an characteristics. Examples include April’s 
+descriptions of her plants as “babies” or when Juniper became part of April’s “family”  and 
+Olivia’s account of Juniper as having “friends .” Whether the sentience attributed to plants is 
+real or imagined, it seem s to encourage caring practices. Regarding plants as humans , this 
+could  also be seen as a form of empathy, an attempt to understand these plant others, or a 
+projection of one’s beliefs and values , clearly seen in the Instagram posts where plants were 
+repre sented as thinking and speaking through human language .  
+As discussed above, the forms of care applied to participants’ accounts revealed who was 
+actually being cared for. As technology is increasingly introduced to the biotic, we identified 
+a need to become aware of how this affects human -nonhuman relations. We thus aim to avoid 
+designed contexts in which care is leaning towards the needs of one part more than an other, 
+for instance, forms of care that harm or instrumentalise, rather than improve, the life of 
+nonhumans. As a first step toward avoiding these frictions, we suggest the need to account 
+for how humans care. Furthermore, taking a speculative approach to this intricate topic 
+allowed us to identify the three aforementioned more -than-human frictional dynamics 
+without having the context as a set reality. We were able to observe how care for the plant 
+and probe was enabled throughout the study with the help of  participants’ engagement in 
+speculation. In addition to being a design probe, Juniper was grounding the speculation into 
+a device that the participants were able to touch, see , and engage with, co -creating with the 
+probe the possible future of the interac tion. In the following, we permit ourselves to discuss 
+how embedding care in a “human” and social context might influence plants and, more 
+generally, nonhumans.  
+When formulating care as decision making, we saw a certain tension between seeing plants as 
+objects and plants as subjects. Following Robin Wall Kimmerer’s (2013) ideas about gift -
+giving, Juniper’s power supply can be interpreted as either a commodity from an object or a 
+gift from a nonhuman subject. While gifts build community and interdependence, 
+commodities are signs of individualism  and loss of power, as there is no inherent obligation 
+to care for a commodified object (Kimmerer, 2013) . Thus, as a commodity, the plant is merely 
+a means for obtaining energy. In contrast, if we see the energy provid ed as a gift, Juniper 
+becomes a subject, namely the gift giver, which creates an “ongoing relationship ,” a bond 
+where gifts have value beyond the monetary economy (Kimmerer, 2013). We see this 
+difference between participants Jade and April. In Jade’s descr iptions, Juniper is a cheaper 
+source of electricity, a means of obtaining what is needed for his well -being. With April, 
+262 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+however, Juniper is considered a living being brought into her “plant family”  and cared for 
+the same way, with the added bonus of being  an energy supply. Kimmerer’s perspective is 
+relevant in social settings as it is considered harmful to treat people as objects rather than 
+subjects and use them as a means to an end, especially when they depend on a caregiver. 
+Similarly, if we do not see the plant as another self with its own value, there is a higher risk 
+that by making it part of a technical system, the technology will overshadow the caring of the 
+plant in itself.   
+When the plant is considered a human, it is not understood in its own term s either. However, 
+we cannot directly point out whether such anthropomorphism is harmful to a plant. In order 
+to understand the consequences of such forms of care, we need either an empirical evaluation 
+of the plant’s condition or a theory on plants from b iology, for instance (Pollan, 2001) , or 
+bodies of work that build on critical plant studies (Charlston & Charlston, 2021) . Aspling et 
+al. (2016) encourage a design direction that aims to increase plant dissemination by improving 
+hedonic human -plant engagement rather than supporting abstract contemplation. Such 
+understanding is aligned with seeing plants as utility or symbol for a human, provided that 
+they contribute to disseminating the species. Equally, a misconception of the nonhuman as a 
+human could be beneficial for their species  in terms of the care they are given . 
+Conclusion  
+This article presented a care framework based  on investigations in feminist studies, STS, and 
+HCI.  It is composed of six forms of care:  practice,  relations , noticing,  decision  making,  
+response -ability, and  emotion , which we then applied to a design study of a human –plant –
+technology interaction. The s tudy investigated what forms of care are enacted by humans in 
+human –plant relations, and how does care shift when digital technology is embedded in the 
+assemblage?  Through the different articulations of care and a speculative approach, we were 
+able to reveal three hidden dynamics between humans and nonhumans and how these 
+progressed once technology became part of it. The first dynamic of viewing a plant as human 
+utility was reinforced within IT -supported interactions when plants were seen as a commodity 
+from the outset  as participants focused on the energy aspect of the probe . With the second 
+dynamic of plants as human proxy, we observed how a symbolic anthropomorphism formed , 
+the plant proxying the intended subject of care. Lastly, the third dynamic consider ed a plant 
+as human, which would need further evaluations to identify whether  caring within  this type 
+of more -than-human relation is harmful or beneficial for the nonhuman . We thus took a 
+speculative approach to investigate this  human -plant -technology  interaction that could be part 
+of a possible future. The speculative thinking was grounded by a material device and enabled 
+an embodied experience for the participants. Given the difficulty of understanding other -
+than-human needs, we as humans require ways to critically unpack actions that are considered 
+caring and have good intent. Humans are innately part of sociotechnical and cultural settings 
+that include nonhumans. Whether  in the design, use, or evaluation of a technology, we cannot 
+disregard humans’ involvement, even if the intent is to design  for nonhumans or to 
+understand nonhuman needs. Embedded in a culture of care, we argue for the need to unpack 
+how humans care for n onhumans and what forms of care are prioritised. Our proposed care 
+framework does not offer a course of action. Instead, it stands as a first measure to build a 
+critical and speculative perspective of what other, more sustainable and symbiotic worlds 
+could  be. Further investigations could include outlining how the forms of care build on each 
+other and how they present in other sociotechnical interactions with plants or other 
+Ciobanu and Juhlin  263 
+journals. tplondon.com/ jp nonhumans. Our choice of a speculative design probe has an inherent utilitarian per spective 
+which revealed itself through the framework. Thus, the exploration through care would reveal 
+new implications by taking a different design intent, such as hedonic, which is more aligned 
+with a human relation to plants.   
+References  
+Angelini, L., Ca parrotta, S., Khaled, O. A., & Mugellini, E. (2016). EmotiPlant: Human -plant 
+interaction for older adults. Proceedings of the TEI ’16: Tenth International Conference on Tangible, 
+Embedded, and Embodied Interaction  (pp. 373 –379). Eindhoven, Netherlands: Ass ociation for 
+Computing Machinery. https://doi.org/10.1145/2839462.2856548     
+Aspling, F., & Juhlin, O. (2017). Theorizing animal –computer interaction as machinations. International 
+Journal of Human -Computer Studies, 98 , 135-149. doi:https://doi.org/10.1016/j.ijhcs.2016.05.005  
+Aspling, F., Wang, J., & Juhlin, O. (2016). Plant -comput er interaction, beauty and dissemination. 
+Proceedings of the Third International Conference on Animal -Computer Interaction  (pp. 1 -10). Milton Keynes, 
+United Kingdom: Association for Computing Machinery. https://doi.org/10.1145/2995257. 
+2995393   
+Atkinson -Graham, M., Kenney, M., Ladd, K., Murray, C. M., & Simmonds, E. A. -J. (2015). Care in 
+context: Becoming an STS researcher. Social Studies of Science, 45 (5), 738 -748. 
+https://doi.org/10.1177/0306312715600277   
+Bennett, C. L., Rosner, D. K., & Taylor, A. S. (2020). The care work of access. Proceedings of the 2020 
+CHI Conference on Human Factors in Computing Systems  (pp. 1 –15). Honolulu, HI, USA: Association 
+for Computing Machinery. https://doi.org/10.1145/3313831.3376568   
+Budinger,  K., & Heidmann, F. (2019). Our symbiotic life: An exploration of interspecies relations. 
+Proceedings of the 2019 on Designing Interactive Systems Conference  (pp. 1349 –1362). San Diego, CA, USA: 
+Association for Computing Machinery. https://doi.org/10.1145/3322276.3323698   
+Charlston, L., & Charlston, D. (2021). Sympoietic art practice in co -expressive re -worlding with Hegel’s 
+“Vegetal Subject. ” Journal of Posthumanism, 1(2), 153 –166. https://doi.org/10.33182/jp.v1i2.1326   
+Cooley, M. (1989). Human -centred systems. In H. Rosenbrock, Designing Human -centred Technology: A 
+Cross-disciplinar y Project in Computer -aided Manufacturing  (pp. 133 -143). Springer London.  
+Degraen, D., Kosmalla, F., & Krüger, A. (2019). Overgrown: Supporting plant growth with an 
+endoskeleton for ambient notifications. Extended Abstracts of the 2019 CHI Conference on Hu man Factors 
+in Computing Systems  (pp. 1 -6). Glasgow, Scotland UK: Association for Computing Machinery. 
+https://doi.org/10.1145/3290607.3312833   
+Dunne, A., & Raby, F. (2013). Speculative everything: design, fiction, and social dreaming.  MIT press.  
+Dye, M., Nemer, D., Kumar, N., & Bruckman, A. S. (2019). If it rains, ask grandma to disconnect the 
+nano: Maintenance & care in Havana’s StreetNet. Proc. ACM Hum. -Comput. Interact., 3 (CSCW), 1 -
+27. https://doi.org/10.1145/3359289  
+Friese, C. (2013). Realizing potential in translational medicine: The uncanny emergence of care as 
+science. Current Anthropology, 54 (S7), 129 -138. https://doi.org/10.1086/670805   
+Gaver, B., Dunne, T., & Pacenti, E. (1999). Design: Cultural Probes. Interactions, 6 (1), 21 –29. 
+https://10.1145/291224.291235   
+Giaccardi, E. (2019). Histories and futures of research through design: From prototypes to connected 
+things. International Journal of Design, 13 (3), 139 -155. Retrieved from http://ijdesign.org/index.php/ 
+IJDesign/article/view/3192   
+Giaccardi, E., Cila, N., Speed, C., & Caldwell, M. (2016). Thing ethnography: Doing design research 
+with non -humans. Proceedings of the 2016 ACM Conference on Designing Interactive Systems  (pp. 377 –387). 
+Brisbane, QLD, Australia: Association for Computing Machinery. https://doi.org/10.1145/29017 
+90.2901905   
+Haraway, D. (2008). When species meet.  University of Minnesota Press, Minneapolis.  
+264 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+Harmon, E., Korn, M., & Void a, A. (2017). Supporting everyday philanthropy: Care work in situ and 
+at scale. Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social 
+Computing  (pp. 1631 –1645). Portland, Oregon, USA: Association for Computing Machinery. 
+https://doi.org/10.1145/2998181.2998330   
+Heuts, F., & Mol, A. (2013). What is a good tomato? A case of valuing in practice. Valuation Studies, 
+1(2), 125 -146. https://doi.org/10.3384/vs.2001 -5992.1312125   
+Houston, L., & Jackson, S. J. (2016). Caring for the “next Billion" mobile handsets: Opening proprietary 
+closures through t he work of repair. Proceedings of the Eighth International Conference on Information and 
+Communication Technologies and Development  (pp. 1 -11). Ann Arbor, MI, USA: Association for 
+Computing Machinery. https://doi.org/10.1145/2909609.2909658   
+Howard, D., & Irani, L. (2019). Ways of knowing when research subjects care. Proceedings of the 2019 
+CHI Conference on Human Factors in Computing Systems  (pp. 1 -16). Glasgow, Scotland UK: Association 
+for Computing Machinery. https://doi.org/10.1145/3290605.3300327   
+Kant, I. (1950). Prolegomena to any future metaphysic s. The Liberal Arts Press.  
+Karusala, N., Vishwanath, A., Kumar, A., Mangal, A., & Kumar, N. (2017). Care as a resource in 
+underserved learning environments. Proc. ACM Hum. -Comput. Interact., 1 (CSCW), 1 -22. 
+https://doi.org/10.1145/3134739   
+Kaziunas, E., Ackerman, M. S., Lindtner, S., & Lee, J. M. (2017). Caring through data: Attending to the 
+social and emotional experiences of health datafication. Proceedings of the 2017 ACM Co nference on 
+Computer Supported Cooperative Work and Social Computing  (pp. 2260 –2272). Portland, Oregon, USA: 
+Association for Computing Machinery. https://doi.org/10.1145/2998181.2998303   
+Kimmerer, R. W. (2013). Braiding sweetgrass: Indigenous wisdom, scientific knowledge and the teachings of plants.  
+Milkweed Editions.  
+Kobayashi, H. H. (2015). Human -computer -biosphere interaction: Toward a sustainable society. In A. 
+Nijholt (Ed.), More Playful User Interfaces. Gaming Media and Social Effects  (pp. 97 -119). Springer 
+Singapore.  
+Kocksch, L., Korn, M., Poller, A., & Wagenknecht, S. (2018). Caring for IT security: Accountabilities, 
+moralities, and oscillations in IT security practices. Proc. ACM Hum. -Comput. Interact., 2 (CSCW), 1 -
+20. https://doi.org/10.1145/3274361   
+Krippendorff, K. (2018). Content Analysis: An Introduction to Its Methodology.  SAGE Publications.  
+Light, A., & Akama, Y. (2014). Structuring future social relations: The politics of care in participatory 
+practice. Proceedings of the 13th Participatory  Design Conference: Research Papers - Volume 1  (pp. 151 –160). 
+Windhoek, Namibia: Association for Computing Machinery. https://doi.org/10.1145/2661435. 
+2661438   
+Light, L. (2020). Technology - living light . Retrieved from https://livinglight.info/technology/  
+Liu, J., Byrne, D., & Devendorf, L. (2018). Design for collaborative survival: An inquiry into human -
+fungi relationships. Proceedings of the 2018 CHI Conference o n Human Factors in Computing Systems  (pp. 1 -
+13). Montreal QC, Canada: Association for Computing Machinery. https://doi.org/10.1145/ 
+3173574.3173614   
+Liu, S. -Y. (Bardzell, J., & Bardzell, S. (2019). Decomposition as design: Co -creating (with) natureculture. 
+Proceedings of the Thirteenth International Conference on Tangible, Embedded, and Embodied Interaction  (pp. 
+605-614). Tempe, Arizona, USA: Association for Computing Machinery. https://doi.org/10.1145/ 
+3294109.3295653   
+Mancini, C. (2011). Animal -computer interaction : A manifesto. Interactions, 18 (4), 69 –73. 
+https://doi.org/10.1145/1978822.1978836   
+Martin, A., Myers, N., & Viseu, A. (2015). The politics of care in technoscience. Social Studies of Science, 
+45(5), 625 -641. https://doi.org/10.1177/0306312715602073   
+Modi, K. (2021). Forms of intelligence: Co -species care in more -than-human worlds . Journal of 
+Posthumanism, 1 (2), 245 –251. https://doi.org/10.33182/joph.v1i2.1346   
+Mol, A. (2008). The logic of care: Health and the problem of patient choice.  Routledge.  
+Ciobanu and Juhlin  265 
+journals. tplondon.com/ jp Mol, A., Moser, I., & Pols, J. (2010). Care in practice: On tinkering in clinics, homes and farms.  Transcript 
+Verlag.  
+Murphy, M. (201 5). Unsettling care: Troubling transnational itineraries of care in feminist health 
+practices. Social Studies of Science, 45 (5), 717 -737. https://doi.org/10.1177/0306312715589136   
+Nonhuman Nonsense. (2021). Pink chicken project. Journal of Posthumanism, 1 (1), 129 -137. 
+https://doi.org/10.33182/jp.v1i1.1349   
+Pollan, M. (2001). The botany of desire: A plant’s -eye view of the world.  Random House.  
+Puig de la Bellacasa, M. (2009). Touching technologies, touching visions. The reclaiming of sensorial 
+experience and the politics of speculative thinking. Subjectivity,  28(1), 297 –315. https://doi.org/10. 
+1057/sub.2009.17   
+Puig de la Bellacasa, M. (2011). Matters of care in technoscience: Assembling neglected things. Social 
+Studies of  Science, 41 (1), 85 -106. https://doi.org/10.1177/0306312710380301   
+Puig de la Bellacasa, M. (2012). ‘Nothing comes without its world’: Thinking with care. The Sociological 
+Review, 60 (2), 197 -216. https://doi.org/10.1111/j.1467 -954X.2012.02070.x   
+Puig de la Bellacasa, M. (2015). Making time for soil: Technoscientific futurity and the pace of care. 
+Social Studies of Science, 45 (5), 691 -716. https://doi.org/10.1177/0306312715599851   
+Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more than human worlds.  University of 
+Minnesota Press.  
+Sabie, S., & Parikh, T. (2019). Cultivating care through ambiguity: Lessons from a service learning 
+course. Proceeding s of the 2019 CHI Conference on Human Factors in Computing Systems  (pp. 1 -14). 
+Glasgow, Scotland Uk: Association for Computing Machinery. https://doi.org/10.1145/3290 
+605.3300507   
+Schrader, A. (2015). Abyssal intimacies and temporalities of care: How (not) to care about deformed 
+leaf bugs in the aftermath of Chernobyl. Social Studies of Science, 45 (5), 665 -690. 
+https://doi.org/10.1177/0306312715603249   
+Smith, N., Bardzell, S., & Bardzell, J. (2017). Designing for cohabitation: Naturecultures, hybrids, and 
+decentering the huma n in design. Proceedings of the 2017 CHI Conference on Human Factors in Computing 
+Systems  (pp. 1714 –1725). Denver, Colorado, USA: Association for Computing Machinery. 
+https://doi.org/10.1145/3025453.302 5948  
+Steer, C., Robinson, S., & Jones, M. (2015). Growth, change and decay: Plants and interaction 
+possibilities. Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in 
+Computing Systems  (pp. 2037 –2042). Seoul, Republic of Korea: Association for Computing 
+Machinery. https://doi.org/10.1145/2702613.2732765   
+Tixier, M., Lenay, C., Garibaldi, G., & Aubert, D . (2018). Rethinking the accessibility of digital content 
+with perceptual supplementation system through the lens of an ethics of care. Interaction Design and 
+Architecture(s) Journal (IxD&A), 38 , 140 -154. Retrieved from https://hal -utt.archives -
+ouvertes.fr/hal -02939608   
+Tonkinwise, C. (2014). How we intend to future: Review of Anthony Dunne and Fiona Raby, 
+Speculative everything: Design, fiction, and social d reaming. Design Philosophy Papers, 12 (2), 169 -187. 
+https://www.doi.org/10.2752/144871314X14159818597676   
+Toombs, A. L., Bardzell, S., & Bardzell, J. (2015). The proper care and feeding of hackerspaces: Care 
+ethics and cultures of making. Proceedings of the 33rd Annual ACM Conference on Human Factors in 
+Computing Systems  (pp. 629 –638). Seoul, Republic of Korea : Association for Computing Machinery. 
+https://doi.org/10.1145/2702123.2702522   
+Toombs, A., Gross, S., Bardzell, S., & Bardzell, J. (201 7). From empathy to care: A fem inist care ethics 
+perspective on long -term researcher –participant relations. Interacting with Computers, 29 (1), 45 -57. 
+https://doi.org/10.1093/iwc/iww010   
+Tronto, J. C. (19 93). Moral boundaries: A political argument for an ethic of care.  Psychology Press.  
+Vyas, D. (2019). Altruism and wellbeing as care work in a craft -based maker culture. Proc. ACM Hum. -
+Comput. Interact., 3 (GROUP), 1 -12. https://doi.org/10.1145/3361120   
+266 Forms of  Care in Human -Nature -Technology Environments  
+ Journal of Posthumanism  
+Wallace, J., McCarthy, J., Wright, P. C., & Olivier, P. (2013). Making Design Probes Work. Proceedings 
+of the SIGCHI Conference on Human Factors in Computing Systems  (pp. 3441 –3450). Paris, France: 
+Association for Computing Machinery. https://doi.org/10.1145/2470654.2466473   
+Wong -Villacres, M., Velasquez, C. M., & Kumar, N. (2017). Social media for earthquake response: 
+Unpacking its limitations with care. Proc. ACM Hum. -Comput. Interact., 1 (CSCW), 1 -22. 
+https://doi.org/10.1145/3134747   
+Zegura, E., DiSal vo, C., & Meng, A. (2018). Care and the practice of data science for social good. 
+Proceedings of the 1st ACM SIGCAS Conference on Computing and Sustainable Societies  (pp. 1 -9). Menlo 
+Park and San Jose, CA, USA: Association for Computing Machinery. https://doi.org/10. 
+1145/3209811.3209877   
+Zimmerman, J., Forlizzi, J., & Evenson, S. (2007). Research through design as a method for interaction 
+design research in HCI. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems  (pp. 
+493–502). San Jose, California, USA: Association for Computing Machinery. https://doi.org/10. 
+1145/1240624.1240704   
+Zimmerman, J., Stolterman, E., & Forlizzi, J. (2010). An analysis and critique of research through 
+design: Towards a formalization of a research approach. Proceedings of the 8th ACM Conference on 
+Designing Interactive Systems  (pp. 310 –319). Aarhus, Denmark: Association for Computing Machinery. 
+https://doi.org/10.1145/1858171.1858228   

@@ -1,0 +1,1261 @@
+Me, the Hill and My Browser – Investigating the Role of Time in
+Posthuman Interaction
+Patricia Ciobanu
+patricia@dsv.su.se
+Department of Computer and Systems Sciences,
+Stockholm University
+Kista, SwedenOskar Juhlin
+oskarj@dsv.su.se
+Department of Computer and Systems Sciences,
+Stockholm University
+Kista, Sweden
+ABSTRACT
+Despite the growing concerns related to environmental disrup-
+tions, such as forest fires and floods, our interaction with nature
+has become increasingly distant. The belief is that this is due to
+human attunement to quick changes over short periods, while nat-
+ural changes seem slow-paced over the long term. We argue that
+rather than the problem lying with the pace of time, humans should
+further attune to the various temporalities within nature. To un-
+pack this topic, we follow a two-fold process: Research through
+Design and Autobiographical Design. The resulting prototype takes
+environmental sensor data and visualises the changes happening
+over a short time. We complement this IT-supported process with
+think-aloud walks, a practice that is embodied and devoid of tech-
+nology, for a plural perspective on time. We offer insights into how
+noticing the various temporalities in nature was enabled, finally ar-
+guing for designs that support progressive adjustments that sustain
+human-nonhuman mutualism.
+CCS CONCEPTS
+•Human-centered computing →Interaction design ;Empir-
+ical studies in interaction design ;
+KEYWORDS
+time, nature, more-than-human design, posthuman interaction
+ACM Reference Format:
+Patricia Ciobanu and Oskar Juhlin. 2022. Me, the Hill and My Browser –
+Investigating the Role of Time in Posthuman Interaction. In Nordic Human-
+Computer Interaction Conference (NordiCHI ’22), October 8–12, 2022, Aarhus,
+Denmark. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/
+3546155.3546651
+1 INTRODUCTION
+In recent years, there have been growing concerns with environ-
+mental disruptions that affect humans, such as forest fires, floods,
+and heatwaves, whilst our interaction with nature is becoming
+increasingly distant. It has been argued that this disharmony is
+influenced by how humans and nonhumans operate on different
+timescales [ 55]. Humans, supported by digital technologies, are
+This work is licensed under a Creative Commons Attribution International
+4.0 License.
+NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark
+©2022 Copyright held by the owner/author(s).
+ACM ISBN 978-1-4503-9699-8/22/10.
+https://doi.org/10.1145/3546155.3546651increasingly attuned to quick and immediate events over short pe-
+riods, while nature is seen as long-term, with changes occurring
+at a slow pace. This argued perspective has, for example, informed
+artistic design explorations [ 47,52], resulting in various works that
+convey the idea of compacting the long-term changes that occur in
+nature into a human time scale. In this study, we instead investigate
+the proposition that the lack of human attunement to the vari-
+ous temporalities within nature generates the distancing between
+humans and nonhumans. Constrained by existing human conven-
+tions of time, e.g. clock time, ecological transformations escape
+our comprehension [ 9]. Thus, the idea of time seems unaffected
+by more-than-human experiences. This perspective refers to the
+position of tempus nullius seen as " nobody’s time ", "an unclaimed
+territory that is similarly devoid of inhabitants " [36]. If that is the
+case, we need to acknowledge the role of nonhuman temporali-
+ties and design for interaction with nonhumans along many time
+dimensions.
+As nature operates outside the recognized human conventions
+of time, this creates the illusion of nature being without agency
+[8]. Puig de la Bellacasa [ 70] exposes how the treatment of soil is
+entangled with the time of capitalism, seeking maximum value and
+productivity, which contradicts the time of the soil that requires
+pauses for regeneration. The misalignment between clock-time and
+other time dimensions is particularly noticeable in two research
+areas, i.e. enabling interaction with the environment that allows for
+sustainable living and designing research on user-friendly nonhu-
+man computer interaction, such as the field of Animal-Computer
+Interaction (ACI). First, clock time disconnects us from the transfor-
+mations occurring within natural environments. As nature becomes
+more unpredictable due to the climate crisis, humans need to re-
+connect to nature. Reductive frameworks of time, such as clocks
+and calendars, are limited in their ability to portray long-term phe-
+nomena and thus, distances humans from engaging with these
+transformations. Second, the field of ACI takes the nonhuman as
+the user in focus to develop information technologies that satisfy
+their needs. While identifying those needs is an important issue to
+solve, the role of time in interacting with a nonhuman is similarly
+impacting. Aspling [ 5] p.86 argues for prolonging the interaction
+supported by design since nonhumans operate over a longer term
+timescale than humans. That perspective is specifically evident
+when developing interaction design for plants [ 6,66], where pro-
+longing the interaction can span over decades and centuries.
+Thus, in specific, we ask how can we, through design, present
+the discrete environmental changes occurring over time within hu-
+man time dimensions in a way that adds to human’s relation to
+nonhumans? We argue for the need to investigate how a design
+system can call attention to short-term natural changes, such as
+
+NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark Ciobanu and Juhlin
+those repeatedly occurring in social life, that would encourage a
+switch from human attention to culture to a better attunement to
+nonhumans and a better relationship with nature. While ideas of
+time in HCI continue developing [ 27,40,60,75,83], the absence
+of perspectives that explore human-nonhuman time is noticeable.
+Within these spaces, while notions and representations of time
+have been rethought [ 16,69], these have been primarily human-
+centred, with Lee et al.’s interactive object LUNE used to investigate
+how moon phases can represent time [ 38] among the exception.
+With the argument of current time-keeping technologies giving
+us a false sense of control [ 9] by generating an illusion kept away
+from environmental impact, we need to consider both our human
+time and nature time concurrently. Such a holistic approach aligns
+with the heterogeneous perspective of Posthumanism, in which
+we decenter the human from the assemblage. In research, time is
+further conceived as an experience and a social relation. It is an
+experience since change is situated, embodied and differs from one
+person to another, creating that discrepancy between the flow of
+time shown on clocks and the one we feel and experience in our
+bodies. Social time is a feature of how practices and tasks are syn-
+chronised, sequenced, and paced in order to support collaboration.
+In this broader perspective, we suggest investigating how to attune
+human time with nonhuman time, specifically time and nature as a
+co-experience as well as a human-nonhuman relational time.
+For achieving this, we use the methods of Research through
+Design (RtD) [ 94], and Autobiographical Design [ 57]. We created a
+physical and digital prototype that depicts in a browser the subtle
+environmental changes resulting over time in the research site -
+an observational spot where the First Author, further referred to
+as FA, has been engaging with through walks since March 2020.
+We based these changes on four sensor data: light, temperature,
+humidity, and soil moisture. Each set of environmental data deter-
+mines an aspect of how we think of time and is visualised on a web
+page through a graphic filter. For example, a light change affects
+the brightness level of the web page. We complemented the daily
+use of the system with think-aloud walks in the surroundings of
+where the prototype was installed. FA underwent both these prac-
+tices. Following this process, we learned that an important aspect
+of living with nonhumans is uncovering their various temporal
+aspects. Living within two cultures of time, human and nonhuman,
+required adjustments and more active engagement from FA. Having
+the reporting of short-term events in nature presented as graphic
+distortions on the browser made FA imagine the physical research
+site in her mind’s eye, especially when these events occurred in a
+tempo that fitted with her own culture of time. Having said that,
+the abundance of events occurring on the research site intruded on
+her well-timed life as a researcher. The technology also introduced
+a new element between the human and the nonhuman in the same
+way humans can come between a person and their interaction with
+nature. In the following, we explore the diverse categorisations of
+time within social sciences, humanities and HCI. It allows for a
+more inclusive discussion on the struggles with bringing together
+two distinct time cultures within design. We open up the space for
+this discussion by exploring artistic work that engages with the
+topic of time within more-than-human worlds.2 RELATED WORK
+Since we address time in human-nonhuman interaction, we first
+address previous conceptualisations of time in human culture. We
+visit theoretical discussions in social sciences, humanities, and HCI.
+Additionally, we address the topic of time and nature and recount
+diverse projects that aim to topicalise ways to interact beyond clock
+times in relations that include nature in areas related to design and
+art. Previous art and design investigations have become stepping
+stones to address the gap in investigations of our topic within
+design-led research.
+2.1 Research on Time
+There are many ways to categorise time [ 3,4,17]. The most common
+approaches discuss time as a measurable concept, an experience,
+or a social relation.
+2.1.1 Clock Time. Clock time can be defined as linear episodes
+with a beginning, middle and end. It is quantitative, measurable
+and logical. Time as linear aligns with the Greek time concept of
+chronos [30]. Within this aspect of time, actions are quantitative,
+ordered, decontextualised, and constrained by clock time units.
+Time is seemingly unaffected by external factors such as context
+[2] or human emotions [ 8]. This particular form of time has co-
+evolved together with different time-keeping technologies [ 41],
+usually represented through the figure of a clock.
+2.1.2 Existential Time. The idea of ’existential time’, often referred
+to as kairos is the living time of experiences and intentions [ 26]
+p.33. It is subjective, connects to the perception of change, how
+not all types of changes are equally considered and depends on
+who registers the change [ 9]. Although personally and individually
+felt, existential time is affected by others, which makes it easy for
+more dominant expressions of time to take space. For example,
+certain events distort our sense of time, such as a global pandemic
+affecting our felt rhythms. Similarly, this aspect of time can also
+be fabricated by digital technologies through their design and our
+use [ 41]. We see existential time represented through plastic and
+digital time within design-led research. Plastic time was introduced
+by Rattenbury et al. [ 76], depicting the empty time spaces within
+technology use [ 92], such as when scrolling through social media.
+Whereas digital time, examined by Tomlinson [ 87] and Rushkoff
+[79], points to the aspect of constant connectivity and the condition
+of immediacy with digital technologies [ 41]. Recent design-oriented
+research engages with ideas of time that challenge the tradition
+of time as linear (i.e. rational, predictive, manageable) [ 8]. They
+explore forms of slow technologies [ 25,59,64] to contrast with
+fast technologies created to save time, be efficient and have a high-
+performance [ 41]. These design inquiries related to finding new
+ways of representing time [ 92] and personal perceptions of time
+[49].
+2.1.3 Time as Social Relations. Social time is fundamentally a fea-
+ture of the ways through which practices and tasks are synchronised
+with each other, and it is an expression of the need for social col-
+laboration. It is " the change or movement of social phenomena in
+terms of other social phenomena taken as points of reference " [26]
+p.58. Social time has three features: synchronisation, sequence and
+rate. Synchronisation relates to the requirement for simultaneous
+Me, the Hill and My Browser – Investigating the Role of Time in Posthuman Interaction NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark
+actions. Sequence refers to a demand for a specific ordering. Finally,
+rate points to the importance of the frequency of events in a time-
+frame. Within design research, scholars have unpacked perceptions
+of social time, i.e. right time andcollective time [92]. Right time or
+thesituational when was proposed by Taylor et al. [ 82] as a concept
+that describes the various converging circumstances that make an
+event take place, evocative of a combination of temporal attributes
+such as synchronisation and timing. Followed by collective time,
+discussed by Lindley [ 41] on time as entangled within social rela-
+tions. The plurality of perceptions of time combine with the idea of
+social time, in which the rhythms of different actors synchronise,
+follow a certain order and thus, create an experience in time [ 39].
+As a socially-situated experience, " it is not that we have or do not
+have time, but that we make it through practices " [70]. Differenti-
+ating between measuring systems should be about understanding
+how change occurs rather than how time ’flows,’ acknowledging
+the various agency distribution between human and nonhuman
+actors [8, 24].
+2.1.4 Time and Nature. Human conceptions of time have histor-
+ically been linked to natural events, such as tracking the sun’s
+position. Such features, however, are challenging to coordinate
+with when needing more precision, such as when scheduling a
+meeting. As a clock depends on its material functionalities and
+thus, might not apply to other contexts [ 9], each mode of telling
+time affords specific interactions. The dominant understanding of
+time as linear and measurable is most often represented by time-
+keeping technologies such as the figure of a clock. However, this
+orientation away from natural phenomenon, has been criticized
+for "obscur[ing] more complex understandings of time " [10] such as
+relations that pertain to ecological changes [ 9]. This is ineffective to
+our understanding and perception of changes in the natural world
+[93]. Regarding the figure of the clock, Michelle Bastian proposes a
+broader definition: clocks involve choices on what aspects of our
+world are most significant to us and worth keeping time. It thus be-
+comes " a device that signals change in order for its users to maintain
+an awareness of, and thus be able to coordinate themselves with, what
+is significant to them " [9]. An important issue with current clock
+time tools is that they obstruct and constrain explorations of time
+that require a set of diverse perspectives [ 68]. Taking the example
+of clocks, the problem with this modality is the lack of possibility
+to move from quantitative to qualitative time expressions [9].
+As discussed in [ 93], "the clock does not measure time; it produces
+it." It has been argued that a cyclical notion of time that relates to
+noticing recurring patterns, constituted of relationships and more-
+than-human interdependence [ 15], shows a more subjective and
+embodied perception of time. Anna Tsing’s collaborative survival
+depicted through the relationship formed between matsutake mush-
+rooms, human-disturbed forests, and foragers is one example of
+when multiple timescales unify and constantly reoccur [ 88]. In this
+form, humans have the ability to respond to environmental changes.
+Puig de la Bellacasa argues for care time as a form of making time
+that reveals the multiple more-than-human temporalities that unite
+in cycles of soil growth and decay [ 70]. This aspect of time and care
+includes an advocacy for slowness that goes against the dominant
+fast-paced always-on, always-connected and always available that
+characterise today’s digitally-mediated societies. By disregardingthe pluralistic quality of time, humans contribute to " the exclu-
+sion of certain practices, individuals, and natures, and supports the
+dominance of others " [67]. Tsing’s use of polyphony expresses the
+notion of being attuned to the simultaneous melodies and noticing
+the moments of harmony and dissonance, the melodies becoming
+an analogy for " multiple temporal rhythms and trajectories of the
+assemblage " [88] p.24. Within environmental humanities, scholars
+have engaged with rethinking time in a more-than-human world.
+Michelle Bastian’s work reflects on the correlation between time
+and agency, defining time in relation to change and as enacted by
+both human and other-than-human beings [8].
+In sum, related research establishes that there is more to time
+than linear and measurable. It also states that such a broader un-
+derstanding is particularly relevant when it comes to interaction
+between humans and nonhumans. We also note that although this
+challenge is made clear and explicit in research, there is a lack of
+concrete design research that addresses the topic.
+2.2 Artistic Explorations of Nature, Time and
+Technology
+In our attempt to account for time in interaction with nonhumans,
+we also take inspiration from artistic explorations that address
+time ideas from a more-than-human perspective, i.e. compressing
+nature’s long duration of change into a small graphic representation
+or when challenging the clock metaphor.
+2.2.1 Compressing Time. Projects such as Deep Time Walk [89],
+The Room of Change [52] and Keeping Time [13] address how a
+long-term change in nature, which defies standard clock technol-
+ogy, should be visualized. The encompassing expression in this type
+of work is to present a compressed time scale graphically. They do
+so, for example, through an immersive guided and narrated walk
+that recounts the Earth’s history throughout its 4.6bn years of exis-
+tence in Deep Time Walk (for visual reference, see [ 90]). Similarly,
+through an installation of 30-meters-long hand-crafted data tapestry
+[52] of changes in our environment that happened, are happening,
+and will possibly happen in The Room of Change (for visual refer-
+ence, see [ 53]). These projects also refer to a specific understanding
+of time, such as the concept of deep time related to the magnitude of
+the Earth’s age. Duarte et al. explain this difficult-to-grasp concept
+as follows: " in a 12-hour analogy of Earth’s estimated age, humans
+have existed approximately only for the last 19 seconds " [19]. With
+The Room of Change andKeeping Time , we notice a weaving of sto-
+ries and relationships between humans and different environment
+levels, from technology to the animal or plant kingdom. The Room
+of Change expresses time through this kind of all-encompassing
+display because we usually experience changes " from far away and
+high above " [52]. Thus, the work depicts change through these vari-
+ous scales and dimensions represented in the form of a data-driven
+wallpaper. While Keeping Time uses photos to represent human
+experiences of nonhumans (for visual reference, see [ 14]), pointing
+to how plants become visible to humans only in particular moments
+of their life cycle, usually in spring when they flower or autumn
+when their life cycle ends. The goal of this design case is to show
+different " seasonal and cultural correletions " in visualization-based
+work, and more so the rising interest in phenology studies due to
+environmental disruptions in this age of the Anthropocene [56].
+NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark Ciobanu and Juhlin
+2.2.2 Redefining the Clock. Another type of expression in this
+genre, while maintaining the circular figure of the clock, looks into
+different ideas and notions of time. The clock expressions range
+from representations of time and nature, such as in The Present [85]
+and Circa [28] where the clock units are defined by the current
+appearance of the sun from sunrise to sunset (for visual reference,
+see [ 86] and [ 29] respectively), to representations that span life
+cycles, such as the evolution of life on Earth displayed in one of the
+clocks in Allochronic Cycles or of different species from a certain
+ecosystem in The Phenology Clock [31] (for visual reference, see [ 48]
+and [ 32] respectively). As with the previous projects, there are artic-
+ulations of new notions of time. Allochronic Cycles refers to " being
+out of step with a geological epoch " [47], while The Phenology Clock
+points to the science of phenology: " the study of patterns, rhythms,
+and evolved temporal interdependencies between multiple lifeforms "
+[15]. The work of Unequal Hours [77] combines all these different
+expressions of time, the clocks moving at different rates according
+to "various natural, human and technological timescales, for example
+tides and eclipse cycles, rhythms of the human body, and local trans-
+port schedules " [11]. This variety of temporalities would allow the
+ribbons to entangle and potentially stop the clocks, showing how
+natural time cycles are affected by environmental disruptions and
+how as a result, they fall out of sync (for visual reference, see [ 78]).
+Thus, through this installation, the artist explores the intersection
+between natural cycles and human frameworks of time, pointing
+back to a period before time was coordinated and synchronized.
+In sum, although constrained by the clock metaphor, we find
+the artistic design expressions above inspiring since they address
+the time dimension in nature while supporting human’s direct in-
+volvement in the interaction. However, they all focus on visualizing
+change over a long duration of time, which differs from the ap-
+proach taken in our study that targets short-term natural changes,
+encouraging a change from human attention to culture to a noticing
+and an improved understanding of nonhumans.
+3 METHODS & DESIGN PROCESS
+We follow a design-led approach, which combines Research through
+Design (RtD) [ 94], and Autobiographical Design [ 57]. In RtD, thedesign process is used as a resource to reveal learnings and sup-
+port transgressive thinking [ 7]. It has already been used to inves-
+tigate posthuman topics [ 22,42,44]. Autobiographical Design is
+the second method used. It is defined as " design research drawing
+on extensive, genuine usage by those creating or building the sys-
+tem" [57]. Autobiographical Design is a form of autoethnography
+within design and HCI, focusing on the individual experience with
+a technical system. This type of first-person inquiry is increasingly
+visible in HCI [ 18,23,45,51] with works that follow posthuman
+epistemologies using it as well [ 12,42,72]. In this study, rather than
+creating a prototype for FA’s personal use, we were motivated to
+explore the topic of time restructured from a more-than-human
+perspective. This included FA’s own embodied experiences of this
+time governed by environmental changes. We thus focused on the
+"unique experiential dimensions " [57] that arose throughout the de-
+sign process. In the following, we will describe the subtleties of the
+IT-supported aspect of the process - the prototype, and how we
+conceptualized time through four different sensor readings. The
+prototype was supplemented by the think-aloud walks, further
+describing an embodied practice devoid of technology.
+3.1 Constructing the Prototype
+We created a physical and digital prototype that visualises various
+short-term changes over time on the current web page based on
+the received environmental sensor data (see Figure 1). Similarly
+to [1], our prototype depends on different environmental changes
+detected through sensors that collect light, temperature, humidity,
+and soil moisture data. We use clock time units, such as seconds,
+to determine whether a change has occurred. Every 300 seconds,
+there were sensor readings between 9 AM and 10 PM. What deter-
+mines if we consider the sensor reading is if there is a difference
+of more than 1% from the last reading. The 1% is different for each
+environmental data, based on predetermined values or the mini-
+mum and maximum values recorded for that period. For example,
+humidity is calculated in percentage, and thus the value is in it-
+self 1%. Whereas temperature, the 1% was calculated based on the
+month’s min and max recorded values in the prototype installa-
+tion site. The sensor data that does account for a change is saved
+Wireless connection
+ 
+ 
+Humidity,
+temperature and
+light sensors
+ 
+ 
+Soil moisture sensor a.  b.  c.  d.
+Figure 1: The figure depicts the research site and the setup of the prototype. Picture a presents the observational point where
+the prototype was placed and through which FA passed during her think-aloud walks. The prototype was placed between
+two trees (b), with the soil moisture sensor placed in the soil between those trees (c), and the other three sensors ( humidity,
+temperature and light) remaining in the box (d). The phone provided the wireless connection to a cloud-hosted database, which
+triggered the browser extension to make changes to the active web page and a power bank that kept the phone charged.
+Me, the Hill and My Browser – Investigating the Role of Time in Posthuman Interaction NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark
+in a cloud-hosted database, triggering different modifications to
+the current web page through a browser extension. Thus, when
+a change was registered, the browser extension applied a specific
+graphic filter on whichever web page FA was actively on at that
+moment. When it was more humid at the installation site, the web
+page was more opaque, while outdoor light determined the bright-
+ness level of the web page. For example, after sunset, the web page
+would have a darker brightness level, making it hard to see what is
+on the page. Temperature changes were shown through the web
+page’s background colour, ranging from red in high temperatures
+(e.g. 30◦C) to blue in low temperatures (e.g. −10◦C). Finally, soil
+moisture changes regulated the text-based information shown on
+the page. The lower the soil moisture was, the more text-based
+information on the page was missing. FA built and installed the
+prototype at the top of Hagakullen, also known as Frösundatoppen,
+in Stockholm, Sweden (see Figure 2).
+3.2 Living with the Prototype
+FA used the prototype daily over 20 days, from July 12 to July 31,
+2021. She installed the browser extension on her computer, which
+she used daily and thus interacted with throughout the day. The
+device worked regardless of FA’s task, which meant it was part of
+her work and leisure digital time. The use of the prototype was com-
+plemented with think-aloud [ 58] p.195 walks through the research
+site where FA installed the prototype. The place is a green area that
+FA has, incidentally, been engaging with since March 2020. The hill
+(see Figure 2) was originally 50 meters high above sea level. Then,
+it was used as a gravel pit, which reduced it to half its size. Later, it
+was decided to restore it to its previous height by adding demoli-
+tion remains. The walks resulted in eleven think-aloud accounts, i.e.
+recorded voice notes, which FA collected during July 2021, in paral-
+lel with the use of the prototype. Each walk took around one hour,
+with about thirty minutes of voice notes. Gathering data by walking
+is an established methodology in social sciences and humanities
+[81], used in this case as a situated and embodied practice of en-
+gaging with nature. As thinking about time and conceptualising
+time perspectives that include two different cultures is an intricate
+challenge, FA performed these two parallel practices to have a dual
+perspective of being attuned to the changes happening in nature.
+The prototype provided the IT-supported modality of visualising
+the changes, while the walks were the practice of interacting with
+nature undisturbed by technology.3.3 Data Collection and Coding
+Both parts of the study have sizeable qualitative data. First are FA’s
+daily diary entries, where she wrote her thoughts and reflections
+that occurred throughout the day related to the topic and the proto-
+type use. Second are the transcribed accounts from the think-aloud
+walks during which FA described what she saw in the research
+site, the changes that she noticed over time of different nonhumans
+(e.g. plants, animals, or other objects encountered) along with her
+felt experience of walking. We used qualitative content analysis
+to code the diary entries and transcripts. It is a research method
+to systematically analyse and identify patterns and structures in
+different types of content [ 35]. This method has foremost been used
+in HCI to categorise and analyse user-generated content (e.g. [ 33]).
+As autobiographical work emphasises descriptive details, such cod-
+ing is suitable for interpreting the meaning behind the written, and
+spoken experiences [ 80] p. 88. The data passed four joint analytic
+inductive sessions between the authors to conceptualise underly-
+ing categories. It resulted in conceptualising seven main themes
+derived from combinations of six to thirty-four subcategories.
+4 FINDINGS
+This section presents the results of how nature was experienced
+by FA when presented in a human-paced time dimension. In the
+following, when we refer to the concept of disruption we designate
+an event that unsettles human clock time through external environ-
+mental triggers. This stems from ideas and events of environmental
+disruptions. While when referring to pause(d) we point to a state
+similar to before, seemingly devoid of change.
+4.1 Nature’s Fickle Temporality
+During this project, the walks revealed the heterogeneity of the
+time perspective when engaging with nature. It seems like a one-
+time walk makes time appear almost fixed, with changes over time
+remaining hidden. However, the re-occurring walks made FA see
+what had changed since the last visit and made her more sensitive
+to the traces of change within the nonhuman temporality. Noticing
+the multiple variations became a key element in experiencing that
+environment. Notably, this is very similar to the accounts of Henry
+David Thoreau and his long-term stay at the Walden Pond, where
+he describes such traces of change in detail [84].
+"You can already see some leaves, some yellowish leaves
+from the trees. [...] a wild rose bush that has some flowers
+Figure 2: Image of Frösundatoppen in Stockholm, Sweden, at sunset.
+NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark Ciobanu and Juhlin
+bloomed, but some of the leaves are turning yellow [...]
+And here is the patch of the white flowers. They now
+turned pinker, actually, and there are a lot of bees as
+well. [...] The tree with the yellow flowers that now has
+the beans, you can see that they are drying up as well,
+turning yellow. [...] You can also see some of the leaves
+turning yellow, for the wild rose bush [...] And also the
+apple tree, some of the apples are turning red, a little bit
+red. [...] And I like how this tree with the aeroplane-like
+seeds, the seeds have turned some kind of dark pink,
+reddish kind of colour. A brighter red than what I saw
+before. [...] Different snails. Different shapes and sizes.
+Different shell colours. Maybe you can also see the slugs,
+but it’s harder. [...] It’s definitely snail season. Very hard
+to see them because they are quite small. "
+FA also noticed how many natural elements did not seem to
+change during the think-aloud walking practice. Devoid of change,
+these elements were seemingly paused at a particular stage of their
+evolution. Whilst this state was undoubtedly temporary, there was
+a sense that nature has periods during which time seems constant,
+an uninterrupted flow with no ramifications. This sense of stillness
+is imposed by the limits of our human senses, as FA could not
+visually experience or trace any noticeable changes, even compared
+to previous visits. This experience is, in a sense, a description of
+a time frame during which nature is unfluctuating. This concept
+of time frame connects with the idea of timing, defined as specific
+moments in which a particular experience is possible. This form of
+existential time is uncertain and unrelated to the quantifiable time
+of the clock. The ideas of time frame and timing illustrate the shift
+from control to indeterminacy that describes the more-than-human
+turn [ 20], affected by the " unplanned nature of time " [88] p.20. Thus,
+addressing time is a fickle target, where nature will not easily give
+us the answers to our design-related questions.
+4.2 Nature in the Mind’s Eye
+On certain occasions, the remote short-term interactions broke
+FA’s human practice barriers. FA remarked how the prototype was
+a way of grounding oneself with the natural world. A change in
+the environment that happened ’out there,’ represented through a
+graphic filter, created the image of that change in FA’s mind’s eye.
+These visuals allowed FA to experience an aesthetic enjoyment of
+the visualisation while also envisioning being in that environment
+at that moment. Each disruption was a regular reminder of things
+that happened in the other world, the outdoor nature, which acted
+as a prompt to look out the window and pause FA’s immersion in
+task-dependent clock time:
+"What would happen sometimes is that only when I saw
+the light change shown as a disruption did I realise that
+it started getting darker. When you are concentrated on
+a task, and you are getting tired, but you do not really
+notice it, in this case, it kind of "wakes you up" back to
+reality. It grounds you in the "real" or "natural" world. "
+This experience instilled the wish for FA to be outdoors in ’real
+time’ and have an embodied experience of the changes. As therewere sometimes dissonances or misalignment with what FA per-
+ceived from the place of the experience, i.e. indoors, being in nature
+was perceived as a solution.
+4.3 Active Engagement as Invaluable for
+Noticing
+Temporal changes in nature were more fully experienced by FA in
+situations when the pace of her way of life fell in sync with the
+changes.
+"It was really nice this day because while there were
+disruptions, they didn’t happen that frequently and
+successively, so I really could take my time to see them
+and understand that this is a temperature change and
+this is a humidity change and even take the time to
+check, if it didn’t show properly on the page, to see what
+colour it is exactly as I wanted to see the change and
+see if it got warmer or colder. "
+This case entailed a need to pause and focus or circle back and no-
+tice again but differently. FA remarked that there seems to be more
+time to notice nature during her think-aloud practice than with the
+prototype. Natural changes give space and time for when and what
+to notice as there is room to decide how long to pay attention. Nev-
+ertheless, with the prototype, when there were fewer disruptions,
+there was time to appreciate and understand the changes, with the
+frequency and variety of changes significant to noticing. Pauses
+gave space to restart the overloaded senses for a fuller experience
+and better appreciation. Noticing, however, does not imply that
+one can be aware of everything happening at a point in time. There
+were always changes that FA missed, whether unintentionally or
+consciously. Thus, FA felt there was more of a need to engage with
+the prototype than with the environment. FA believed that the
+missed changes resulted from her not being present or attentive.
+This sentiment, in turn, instilled in FA a feeling of missing out and
+thus a requirement of always staying connected to be ’in the know’,
+which could be applied both to the digital technology as well as to
+the think-aloud walking practice. With the disruptions, their intru-
+siveness was a factor that contributed to a more active engagement
+in order to come back to human clock time. Once the disruption
+passed, the chance to experience it was gone. Considering that
+human clock time, which FA categorized into work time and leisure
+time, was at times more critical and at other times less, there was
+a personal decision included into which changes FA noticed and
+which were consciously neglected [71] p.149.
+4.4 Noticing Mediated and Unmediated
+Changes in Nature
+As stated in section 4.1, the temporal changes experienced during
+recurring visits to a location in nature are of various durations. The
+visitor engages with many traces to discern what has been hap-
+pening. What differentiated FA’s experience of natural and digital
+changes was that changes within an outdoor natural environment
+were easier to pinpoint and remember later on. On the one hand,
+while nature does have subtle changes with some usually unper-
+ceivable, being in nature is an embodied experience. Thus, it was
+Me, the Hill and My Browser – Investigating the Role of Time in Posthuman Interaction NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark
+more memorable to recall the changes than the prototype unless
+there was a pattern to detect.
+"Comparing this to the walks/think–aloud, when you
+go on these walks, you can notice the changes, and since
+you’ve been in these places before, you can compare and
+notice the differences and the results of these differences.
+With the device, I wouldn’t be able to say precisely
+what happened the day or days before as there were
+many more changes simultaneously. Only situations
+like this one, when there were different changes one
+after the other, is something that can be memorable.
+However, with the walks, something about the embodied
+experience makes it more memorable. I could still recall
+and retrace my walks and the changes I saw weeks
+after. "
+On the other hand, changes within human clock time tasks were
+easier to detect and quantify. At the same time, usually, it was the
+drastic natural changes that were detected, with only the result of
+the change over time that was perceived.
+"With human tasks, such as in this case, work-wise,
+there is usually a quantitative way to measure progress
+and change. With nature, it’s usually extreme changes
+that we as humans can detect. But there is meaning in
+"seeing" small changes and evolution, which is what I
+experience with the walks. You could really see these
+small changes in that environment ."
+FA also felt more inclined to check through technology whether
+a particular change happened rather than entirely relying on the
+senses. This disposition created a discrepancy between the embod-
+ied/felt data and the sensor-generated data, as sometimes these
+did not align. This inconsistency, in turn, underlined the trouble of
+the experimenter’s regress which FA solved in two ways. Firstly,
+through local visits, i.e. being in the environment and seeing for
+oneself, becoming a human sensor through the senses, comparing
+the data with her own experience, and continuous device main-
+tenance. Secondly, through pattern recognition, i.e. focusing on
+the data and seeing the different combinations of natural changes
+detected by the sensors.
+With the prototype, the particularities of web page design cre-
+ated differences in visually seeing a change and understanding its
+components, which affected FA’s experience in visually seeing the
+change and caused her to find other ways to compensate for the
+missing information. Translating the sensors’ detections to a vi-
+sual representation was a way to perceive when a window opened
+between human clock time and nature time. FA’s usual human prac-
+tice had to adapt to allow nature changes to be seen. By seeing the
+disruptions on her browser, the different combinations and build-
+ing a certain pattern recognition in the sensor data, the experience
+slowly moved from technology-focused to nature-focused. Some
+easily identifiable and circular changes, such as the passing from
+dusk to dawn, were more easily followed along with FA’s clock time.
+The prototype provided a ’walk-through-data’, whether physical
+through the think-aloud walks or digital through the prototype.
+This practice of the walking think-aloud and the use of the
+prototype, going in and out of human clock time, became a rein-
+terpretation of transhumant practice, a cyclical pattern betweenliving within and remotely to nature time. The recurring environ-
+mental elements noticeable to FA stimulated a sensorial experience
+of change, whether auditory or visually, which further instilled the
+noticing of specific phenological patterns in nature. However, these
+recurring changes lost a sense of newness with time, making FA
+lose interest in seeing these similar changes. This predictability
+created the challenge of keeping noticing.
+4.5 From Disruption to Synchronization
+The experience of clock time events in nature started as disruptions
+but ended as synchronized with human life. The continuous visual-
+ization of the events happening on the research site was sometimes
+experienced as an inconvenience. The many changes that happened
+in nature disrupted FA in her daily habits.
+"[M]ore occurrences of changes happened in the second
+half of the day, closer to the evening, which is usually
+when you want to end the day and get into leisure time
+or rest time, and then one disruption after the other
+happens and feels like you cannot really appreciate it
+because that is when it feels like nature is doing its
+changes. So then it seems that my own human time and
+nature’s time are asynchronous in terms of what and
+when I would "accept" for her to disrupt my time. "
+The interaction with nature is experienced as a continuous in-
+trusion. The incoming notifications of events happening on the
+research site made her think about how they diverted her attention
+away from her tasks. She considered that the notification of events
+should be synchronized with her daily routines. Human activities,
+synched with the clock time, should then regulate when nature
+events are allowed. The environmental changes decided when there
+was a need to pay attention. The prototype became a mere vessel
+that transported a change and showed it in a digital form. This prop-
+erty, in turn, asked for the practice of human activities, supported
+by clock time, to adapt their social time to acknowledge the natural
+changes. As FA perceived these changes within digitally active hu-
+man clock time, she found herself extending this active digital time
+for more opportunities for nature time to blend in. While natural
+blending was preferred, sometimes it felt more like a switch be-
+tween a stream of events than blending human affairs with nature’s
+affairs. When it felt like a switch, nature time felt invasive, even if
+it was possible to anticipate. Eventually, this experience changed.
+As the study advanced, FA started anticipating nature interrupting
+her human clock time. This sense of anticipation, while seemingly
+inherent in the experience, was more of a skill formed over time
+and thus resulted out of habit. When FA noticed specific natural
+changes outdoors, she anticipated future events, which made her
+more alert and attuned to the following interventions of nature
+time.
+4.6 When Technology Gets in the Way
+The challenge of this study is to design for short-term nonhuman
+interaction with humans in a way that adds to formers’ relation to
+the latter. In other words, to make humans notice nature. However,
+the design adds technology between the two parts in ways that
+guide or filter that relation. Natural elements such as temperature,
+light and humidity have been interpreted as graphic filters, such as
+NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark Ciobanu and Juhlin
+opacity. FA noticed that differences between these filters guided her
+attention, such as when events included several of them. Then her
+attention was drawn to one of them on behalf of the other. Certain
+changes were more dominant, which obfuscated other changes:
+"when the before and after disruption contains a pre-
+dominant element, such as temperature, that is the first
+one to catch the attention. It does not seem like a change,
+even if the light or humidity also changed, because you
+cannot really notice it as well as the change is subtle ."
+All these factors, in turn, transformed the experience along with
+concealing other elements in the environment. In a sense, the FA
+noticed the design rather than nature. Considering this as a dis-
+turbance and following the idea that disturbances are a matter of
+perspective [ 62], in an interesting turn, the FA tried to cope with this
+by going for walks, almost like a calibration. In order to bring forth
+less dominant elements or changes in the environment, FA would
+switch the perspective by pausing and noticing the less dominant
+environmental queues, triggering a peripheral awareness:
+"I was looking up, which actually is something that
+I haven’t really been doing, and I don’t, you know, I
+haven’t been looking up that much. ."
+This type of awareness, in turn, highlighted the rare occurrence
+of natural elements that were not noticed otherwise or engaged the
+noticing of recurrent elements. FA received new information that
+was otherwise concealed when she was attuned to less dominant
+elements, natural or otherwise, and by further changing the perspec-
+tive of noticing. FA also highlighted the aspect of noticing different
+elements as they are in time without needing to identify them. She
+wondered if identifying a particular species in the environment or
+having quantifiable information on a change causes more attuned
+noticing. FA considered valuable enough to acknowledge what she
+was seeing without being able to name it.
+4.7 When Humans Get in the Way
+Interestingly, the way that technology goes in the way of nature, as
+described above, mirrors how humans got in the way of experienc-
+ing the research site during the walks. The design was intended to
+enable interaction between human and nature in new ways. How-
+ever, it required her to handle unwanted human activities to sneak
+into the interaction. FA felt a lack of possibility of fully immers-
+ing in the experience of being in nature, as she felt interrupted by
+the so-called ’out-of-nature elements’. These interruptions mainly
+were the noise of the nearby highway or interference from elements
+passing through the environment, such as other humans walking
+or biking, which caused a change from the initially decided action.
+These distractions from FA’s ’noticing time’ were overpowering,
+which caused FA to be more alert and envision making changes
+to the environment which would cause fewer interruptions to the
+experience of being immersed in nature.
+"I think this view, this mountain hill, is very nice if
+it weren’t for the highway. Because it’s kind of, you
+feel like you are in the forest, but then the sound of the
+cars really makes you not fully immerse yourself in the
+experience of being in nature ."Despite these dominant and sometimes unpleasant elements,
+FA still had an aesthetic experience of being in that environment.
+The interruptions were location and time-specific, as in the time of
+day, week or season, and would increase or decrease in intensity,
+influencing the noticing of the wild nature and its aesthetically
+pleasing parts.
+5 DISCUSSION
+In this section, we discuss how the prototype enables an extended
+relationship between humans and nonhumans with its specific
+short time dimension. We also examine the potential of further
+developing devices that incrementally attune us to nature, leading
+to adapting to interdependent human-nonhuman temporalities
+and eventually causing behavioural transformations for a more
+relational interaction with nature.
+5.1 Attuning to the Short-Term Temporalities
+in Nature
+We were interested in learning whether a system that reported short-
+term events in nature, i.e. such as those constantly occurring in
+social life, would be able to compete with human attention to culture.
+In some sense, it did. The prototype helped FA notice ongoing
+changes on the research site. It accentuated nature’s property as
+constantly changing, which challenged FA’s experience during the
+initial walk, during which she experienced nature as stable and
+fixed. Thus, the system’s reporting of such events, presented as
+graphic distortions on the browser page, made the user imagine the
+location in her mind’s eye, especially when these events occurred in
+a tempo that fit with her way of life. At the same time, the various
+things that happened out there intruded on her well-timed life as a
+researcher. The technology also introduced a new element between
+the human and the nonhuman in the same way humans can come
+between a person and her interaction with nature. In sum, it seems
+like nature designing for various temporalities, not just long-term
+change, matter as a way to increase our interaction with nature.
+5.2 The Role of Context and a Plural Temporal
+View
+Within the topic of time, space is an important component. As
+Adam claims, " [s]pace and time constitute the context and context
+matters " [3]. We see the role of context with the two various prac-
+tices of using the prototype and doing the think-aloud walks. Each
+showed different expressions of nature’s temporalities. FA experi-
+enced a slower, more uniform view of nature through the walks,
+with changes happening slowly over longer periods. It was also
+easier to remember the changes, construct patterns and compare
+with previous visits. With the prototype, the FA experienced a con-
+stant flow of changes occurring over the day, these representing
+the often unnoticeable subtle changes that occur in nature. These
+were also harder to remember since the flow of information was
+much greater, entangling the understanding of nature time. Thus,
+the technology disrupted FA’s clock time, allowing nature to take
+space and FA to adjust to a new set of temporalities. This variety
+of experiences of time was possible by combining an IT-supported
+practice with one that is devoid of technology. We conceptualise
+the notion of time as multiple rather than singular by using clock
+Me, the Hill and My Browser – Investigating the Role of Time in Posthuman Interaction NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark
+time units and visual representations understandable by and used
+in human culture to translate notions of nature’s time that are
+usually elusive. The work of Pschetz and Bastian [ 68] maintain
+this belief by proposing temporal design as a pluralist alternative.
+This concept presents time as emerging out of complex relations
+which would help designers create artefacts that would " disclose
+this variety, also revealing the intricacies of temporal relationships
+and negotiations that take place ." With nature defining time, we
+observed the ’struggles’ with maintaining focus on human clock
+time tasks whilst attuning to natural temporalities. We considered
+time " as emerging out of relations between cultural, social, economic
+and political forces " [68] by living with a prototype that extends the
+reach of time to natural rhythms.
+5.3 Design Considerations for Exploring Time
+in Posthuman Interaction
+As the experience with the prototype was affected by an outpour
+of changes, future development of technologies such as these is
+finding a balance between being in touch with the processes in
+nature whilst maintaining some form of human clock time. With
+the artistic explorations we previously presented, the users initiated
+interactions with the installations and mobile applications. The
+human was deciding when to engage, how and for how long. With
+the prototype, there is a form of pull between forces that govern
+FA’s clock time and the multitude of human and nonhuman actors
+involved in creating nature time. FA’s accounts are " not just from
+knowledge, but from familiarity " [34]. The combination of the think-
+aloud walks and the daily use of the prototype cultivated a sense
+of nature as is. By intimately knowing and becoming familiar with
+a particular place, the everyday closeness of an ’other’ grows.
+We noticed that FA was inclined to use technology to check infor-
+mation regarding the state of nature rather than entirely relying on
+her senses. The technology became the main modality of verifying
+if the assumption was valid. This suggests how we become more
+dependent on technologies to perceive change rather than use our
+senses to establish that. This idea corresponds to our reliance on
+clocks, to the point that they govern our circadian rhythms and
+social interactions, " a perilous distraction from an authentic engage-
+ment with this temporality " [10]. This struggle between the urge
+to quantify and abstain from it is noticeable within a world driven
+by data and becoming more and more quantifiable, such as the
+movement of the quantified self that seeks " self-knowledge through
+numbers " [91]. Following the example of the quantified pets , one
+critical perspective around such type of design is that there is a risk
+that the guardian will be less understanding of the behaviour of
+their animal companion, obstructing the human-nonhuman rela-
+tionship [ 37]. Thus, instead of being attuned to the environmental
+change, we focus on the quantified representation of that change.
+The prototype helped FA ground herself back to the natural world’s
+rhythm, becoming an alternative to the strict units of clock time.
+Similarly, seeing the visually abstract representation of the changes
+was sufficient for understanding that the change happened without
+knowing the exact number. The prototype reinforced the view of
+noticing the change without feeling the need for concrete numbers,
+becoming a bridge between relying on technology for noticingchanges within our surroundings and focusing on the senses to per-
+ceive the change. As it is argued in The Tree , [21], rather than solely
+following conventional meaning-making by focusing on " identify-
+ing, measuring, photographing ," we should practice and cultivate
+attunement [46] to nature that is unguided.
+Following the daily use of the prototype, FA experienced a sense
+of anticipation of future changes. This quality seems to have re-
+sulted from habit rather than inherent to nature or the design.
+Within HCI research, the experience of anticipation surfaced out of
+slow technologies over time [ 61]. As McCarthy and Wright explain,
+anticipation occurs in two temporal phases, before the beginning
+of the experience and during the experience, which is the time for
+reflecting on whether the expectation was met, unmet or exceeded
+[54] p.64. With the prototype, we see anticipation when FA noticed
+a change in the environment and then waited for that change to
+be visualised in the browser. With each expectation met, this con-
+tributed to her being more attuned to the future interventions of
+nature time. This is also what contributed to the periodical disso-
+nance, or temporal confusion [9] between nature’s temporalities and
+FA’s clock time, as the expectations of a change were left unmet.
+The natural temporalities occurred, disregarding whether it was
+convenient for FA. This resulted in FA adapting to the experience
+and changing the usual practice of her clock time to actually be able
+to notice and engage with the visualised changes. This adaptive
+response, or transformation, is increasingly discussed in the climate
+crisis discourse [ 63]. It can either forcibly result when a system
+fails, such as a drought causing migration, or as a response to antic-
+ipating a collapse, such as rising sea levels prompting resettlement
+[65]. Our prototype exemplifies how incremental adjustment leads
+to adapting to living within the intersection of two different time
+cultures. Having similar devices that show small changes occurring
+in the environment that actively engage the user can produce a
+sense of anticipation and predict future happenings. Seeing and
+interpreting these patterns in adaptation could, in turn, build to-
+wards a multiple timescale sensibility that would reveal " long-term
+consequences of lifestyles and materialities " [74]. This would thus
+create opportunities for implementing systems that help prevent
+future events that are harmful to more-than-human worlds.
+5.4 Reflections on Autobiographical
+Explorations of Time in Posthuman
+Interaction
+Neustaedter and Sengers [ 57] describe ethical issues regarding de-
+signs for self-use, specifically questioning if there is an inherent
+bias. We were transparent with the study process, and its bound-
+aries [ 50], such as the duration, location and motivation, to reduce
+the idea of bias and acknowledge the subjective nature of the study.
+We thus consider these investigations valuable to expand the design
+space for further explorations in the growing subfield of Posthuman
+Interaction Design [43] in HCI, and we encourage future research
+and explorations in this topic for others and provide our work as a
+resource. Autobiographical Design has with additional limitations
+related to the generalisation of results [ 57]. However, works such
+as these are usually appropriated in unexpected ways, whether the
+design process, method combination or artefact. We thus envision
+continuing this project by further developing the prototype in a
+NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark Ciobanu and Juhlin
+less disruptive device but with similar functionalities that would
+be installed in people’s homes. Following Bastian’s appeal to liber-
+ate clocks [10] and Jörgen Rahm-Skågeby and Lina Rahm’s call to
+acknowledge the deep entanglements of materiality and temporal-
+ity [73], we envision redesigning the clock into an artefact that is
+responsive to the short-term natural changes and accounts for the
+various human and nonhuman interconnections.
+6 CONCLUSION
+This project offers a design-led exploration of how to attune to the
+multitude of temporalities within nature and whether this encour-
+ages a more unified human-nature mutualism through technology.
+In this case, the need to investigate alternatives to the clock-oriented
+time perspective in designing interactive systems is important to co-
+ordinate ourselves and our designs with environmental changes and
+nonhuman needs. Time as a concept is broad, messy and heteroge-
+neous. It can relate to both a quantitative measure and an embodied
+experience. Thus, to tackle the topic of time, we first looked into
+the different understandings of time within human culture as ex-
+plored in social science, humanities and HCI in general but also
+regarding nature. Then, as a second step, we recounted the diverse
+projects that depict the assemblage of time, nature and humans in
+new ways. We use these deep dives to support our goal to address
+the gap in investigations on time that include more-than-human
+temporalities within design-led research. Then, through a process
+of Research through Design and Autobiographical Design supple-
+mented by a practice of think-aloud walks, we describe the digital
+and physical prototype that seeks to support an experience of time
+through which human clock time accommodates nature time. We
+then report on how we noticed temporal changes in nature with the
+support of our prototype. The findings outline the ’struggles’ with
+living within two various cultures of time and being torn between
+noticing the multitude of temporalities. This, in turn, prompted
+a need for adjusting to these new temporalities and more active
+engagement as changes in time were perceived differently during
+the practice of the think-aloud walks and while using the prototype.
+This process revealed how a technology-mediated practice adds
+new understandings to the interdependence of human-nonhuman
+time compared with the more usual practice of a felt experience
+of being in nature. Within such plural time perspectives, there is
+potential in designing interactions that facilitate humans to attune
+to nature through gradual adjustments. These tools should prompt
+an unguided intimate exploration of an ecosystem, growing our
+familiarity with the place and the nonhumans living within, and
+eventually lead towards structural changes that foster more-than-
+human interdependence.
+REFERENCES
+[1]Roel Roscam Abbing. 2021. ‘This is a solar-powered website, which means it some-
+times goes offline’: a design inquiry into degrowth and ICT. In Seventh Workshop
+on Computing within Limits 2021 . LIMITS. https://limits.pubpub.org/pub/lecuxefc.
+[2]Barbara Adam. 1998. Timescapes of Modernity: The Environment and Invisible
+Hazards . Routledge.
+[3]Barbara Adam. 2000. The temporal gaze: the challenge for social theory in
+the context of GM food. British Journal of Sociology 51, 1 (2000), 125 – 142.
+https://doi.org/10.1111/j.1468-4446.2000.00125.x
+[4]Barbara Adam. 2013. Timewatch: The social analysis of time . John Wiley & Sons.
+[5]Fredrik Aspling. 2020. Unleashing Animal-Computer Interaction : A Theoretical In-
+vestigation of the “I” in ACI . Ph.D. Dissertation. Stockholm University, Departmentof Computer and Systems Sciences.
+[6]Fredrik Aspling, Jinyi Wang, and Oskar Juhlin. 2016. Plant-Computer Interaction,
+Beauty and Dissemination. In Proceedings of the Third International Conference
+on Animal-Computer Interaction (Milton Keynes, United Kingdom) (ACI ’16) .
+Association for Computing Machinery, New York, NY, USA, Article 5, 10 pages.
+https://doi.org/10.1145/2995257.2995393
+[7]Shaowen Bardzell, Shad Gross, Jeffrey Wain, Austin Toombs, and Jeffrey Bardzell.
+2011. The significant screwdriver: Care, domestic masculinity, and interaction
+design. 371–377. https://doi.org/10.14236/ewic/hci2011.67
+[8]Michelle Bastian. 2009. Inventing Nature: Re-Writing Time and Agency in a
+More-Than-Human World. Australian Humanities Review 47 (2009), 99–116.
+[9]Michelle Bastian. 2012. Fatally Confused: Telling the Time in the Midst of
+Ecological Crises. Environmental Philosophy 9, 1 (2012), 23–48. http://www.jstor.
+org/stable/26169394
+[10] Michelle Bastian. 2017. Liberating Clocks: Developing a Critical Horology to
+Rethink the Potential Of Clock Time. New Formations 92 (2017), 41 – 55. https:
+//doi.org/10.3898/NEWF:00.00.2017
+[11] Temporal Belongings. 2021. Programme - Temporal Belongings . Retrieved May 8,
+2021 from https://www.temporalbelongings.org/programme1.html
+[12] Heidi R. Biggs and Audrey Desjardins. 2020. High Water Pants: Designing
+Embodied Environmental Speculation. In Proceedings of the 2020 CHI Confer-
+ence on Human Factors in Computing Systems (Honolulu, HI, USA) (CHI ’20) .
+Association for Computing Machinery, New York, NY, USA, 1–13. https:
+//doi.org/10.1145/3313831.3376429
+[13] Tega Brain. 2013. Keeping Time (Phenology Studies) . Retrieved February 24, 2021
+from http://www.tegabrain.com/Keeping-Time
+[14] Tega Brain. 2013. Keeping Time (Phenology Studies) . Retrieved August 31,
+2022 from https://payload.cargocollective.com/1/10/351441/6310201/zgallery_
+oct2014_02_6_800.jpg
+[15] Tega Brain. 2019. New Phenologies. UnBag Magazine (2019).
+[16] Barry Brown, Alex S. Taylor, Shahram Izadi, Abigail Sellen, Joseph ’Jofish’ Kaye,
+and Rachel Eardley. 2007. Locating Family Values: A Field Trial of the Where-
+abouts Clock. In Proceedings of the 9th International Conference on Ubiquitous
+Computing (Innsbruck, Austria) (UbiComp ’07) . Springer-Verlag, Berlin, Heidel-
+berg, 354–371.
+[17] Stanley Cohen and Laurie Taylor. 1990. Time and the Long-term Prisoner . Palgrave
+Macmillan UK, London, 178–187. https://doi.org/10.1007/978-1-349-20869-2_12
+[18] Audrey Desjardins and Aubree Ball. 2018. Revealing Tensions in Autobiographical
+Design in HCI. In Proceedings of the 2018 Designing Interactive Systems Conference
+(Hong Kong, China) (DIS ’18) . Association for Computing Machinery, New York,
+NY, USA, 753–764. https://doi.org/10.1145/3196709.3196781
+[19] Emanuel Felipe Duarte, Yusseli Lizeth Méndez Mendoza, and M. Cecília C.
+Baranauskas. 2020. InsTime: A Case Study on the Co-Design of Interactive Instal-
+lations on Deep Time. In Proceedings of the 2020 ACM Designing Interactive Systems
+Conference (Eindhoven, Netherlands) (DIS ’20) . Association for Computing Ma-
+chinery, New York, NY, USA, 231–242. https://doi.org/10.1145/3357236.3395554
+[20] Laura Forlano. 2021. Design’s Intimacies. Retrieved April 8, 2022 from https:
+//exceptional-norms.at/critical-perspectives/summer-2021/
+[21] John Fowles. 2000. The tree . Random House.
+[22] Fiona French, Clara Mancini, and Helen Sharp. 2017. Exploring Research through
+Design in Animal Computer Interaction. In Proceedings of the Fourth International
+Conference on Animal-Computer Interaction (Milton Keynes, United Kingdom)
+(ACI2017) . Association for Computing Machinery, New York, NY, USA, Article 2,
+12 pages. https://doi.org/10.1145/3152130.3152147
+[23] William W. Gaver. 2009. The Video Window: My Life with a Ludic System . 269.
+https://doi.org/10.1007/978-1-84882-483-6_16
+[24] Carol J. Greenhouse. 1996. Agency and Authority . Cornell University Press,
+77–110. http://www.jstor.org/stable/10.7591/j.ctv2n7gxb.7
+[25] Lars Hallnäs and Johan Redström. 2001. Slow technology–designing for reflection.
+Personal and ubiquitous computing 5, 3 (2001), 201–212.
+[26] John Hassard. 2016. The Sociology of Time . Palgrave Macmillan UK.
+[27] Michael Hildebrandt and Esa M. Rantanen. 2004. Time Design: Organizers and
+Panel Co-Chairs. Proceedings of the Human Factors and Ergonomics Society Annual
+Meeting 48, 3 (2004), 703–707. https://doi.org/10.1177/154193120404800391
+[28] Ted Hunt. 2019. Circa . Retrieved March 8, 2022 from http://www.circa.bio/
+[29] Ted Hunt. 2019. Circa . Retrieved August 31, 2022 from http://www.circa.bio/
+img/border_android_solar_day.png
+[30] Elliott Jaques. 1990. The Enigma of Time . Palgrave Macmillan UK, London, 21–34.
+https://doi.org/10.1007/978-1-349-20869-2_2
+[31] Natalie Jeremijenko, Jake M Richardson, Tega Brain, and Blacki Li Rudi Migliozzi.
+2011. The Phenology Clock . Retrieved February 24, 2021 from http://www.
+tegabrain.com/The-Phenology-Clock
+[32] Natalie Jeremijenko, Jake M Richardson, Tega Brain, and Blacki Li Rudi Migliozzi.
+2011. The Phenology Clock . Retrieved August 31, 2022 from https://payload.
+cargocollective.com/1/10/351441/7905969/clocks.jpg
+[33] Oskar Juhlin, Arvid Engström, and Erika Reponen. 2010. Mobile Broadcasting:
+The Whats and Hows of Live Video as a Social Medium. In Proceedings of the 12th
+International Conference on Human Computer Interaction with Mobile Devices and
+Me, the Hill and My Browser – Investigating the Role of Time in Posthuman Interaction NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark
+Services (Lisbon, Portugal) (MobileHCI ’10) . Association for Computing Machinery,
+New York, NY, USA, 35–44. https://doi.org/10.1145/1851600.1851610
+[34] David Kline and Wendell Berry. 1991. Great Possessions: An Amish Farmer’s
+Journal . Farrar, Straus and Giroux.
+[35] Klaus Krippendorff. 2018. Content Analysis: An Introduction to Its Methodology .
+SAGE Publications.
+[36] Roman Krznaric. 2020. The Good Ancestor: How to Think Long Term in a Short-Term
+World . Ebury Publishing.
+[37] Shaun Lawson, Ben Kirman, Conor Linehan, Tom Feltwell, and Lisa Hopkins. 2015.
+Problematising Upstream Technology through Speculative Design: The Case of
+Quantified Cats and Dogs. In Proceedings of the 33rd Annual ACM Conference
+on Human Factors in Computing Systems (Seoul, Republic of Korea) (CHI ’15) .
+Association for Computing Machinery, New York, NY, USA, 2663–2672. https:
+//doi.org/10.1145/2702123.2702260
+[38] Sung ho Lee, Seong beom Kim, Byoung hern Kim, and Hui sung Lee. 2019. LUNE:
+Representing Lunar Day by Displayed Lighting Object. In Extended Abstracts
+of the 2019 CHI Conference on Human Factors in Computing Systems (Glasgow,
+Scotland Uk) (CHI EA ’19) . Association for Computing Machinery, New York, NY,
+USA, 1–4. https://doi.org/10.1145/3290607.3313240
+[39] J. David Lewis and Andrew J. Weigart. 1990. The Structures and Meanings of Social-
+time. Palgrave Macmillan UK, London, 77–101. https://doi.org/10.1007/978-1-
+349-20869-2_7
+[40] Siân Lindley, Robert Corish, Elsa Kosmack Vaara, Pedro Ferreira, and Vygandas
+Simbelis. 2013. Changing Perspectives of Time in HCI. In CHI ’13 Extended
+Abstracts on Human Factors in Computing Systems (Paris, France) (CHI EA ’13) .
+Association for Computing Machinery, New York, NY, USA, 3211–3214. https:
+//doi.org/10.1145/2468356.2479649
+[41] Siân E. Lindley. 2015. Making Time. In Proceedings of the 18th ACM Conference
+on Computer Supported Cooperative Work & Social Computing (Vancouver, BC,
+Canada) (CSCW ’15) . Association for Computing Machinery, New York, NY, USA,
+1442–1452. https://doi.org/10.1145/2675133.2675157
+[42] Jen Liu, Daragh Byrne, and Laura Devendorf. 2018. Design for Collaborative
+Survival: An Inquiry into Human-Fungi Relationships. In Proceedings of the 2018
+CHI Conference on Human Factors in Computing Systems (Montreal QC, Canada)
+(CHI ’18) . Association for Computing Machinery, New York, NY, USA, Article 40,
+13 pages. https://doi.org/10.1145/3173574.3173614
+[43] Szu-Yu Liu. 2020. Posthuman Interaction Design: Designing with, through, and for
+Human-Nature Interaction . Ph.D. Dissertation.
+[44] Szu-Yu (Cyn) Liu, Jeffrey Bardzell, and Shaowen Bardzell. 2019. Decomposition
+as Design: Co-Creating (with) Natureculture. In Proceedings of the Thirteenth
+International Conference on Tangible, Embedded, and Embodied Interaction (Tempe,
+Arizona, USA) (TEI ’19) . Association for Computing Machinery, New York, NY,
+USA, 605–614. https://doi.org/10.1145/3294109.3295653
+[45] Szu-Yu (Cyn) Liu, Jen Liu, Kristin Dew, Patrycja Zdziarska, Maya Livio, and
+Shaowen Bardzell. 2019. Exploring Noticing as Method in Design Research. In
+Companion Publication of the 2019 on Designing Interactive Systems Conference
+2019 Companion (San Diego, CA, USA) (DIS ’19 Companion) . Association for
+Computing Machinery, New York, NY, USA, 377–380. https://doi.org/10.1145/
+3301019.3319995
+[46] Maya Livio and Laura Devendorf. 2022. The Eco-Technical Interface: Attuning to
+the Instrumental. In Proceedings of the 2022 CHI Conference on Human Factors in
+Computing Systems (New Orleans, LA, USA) (CHI ’22) . Association for Computing
+Machinery, New York, NY, USA, Article 101, 12 pages. https://doi.org/10.1145/
+3491102.3501851
+[47] Cesar & Lois. 2020. Allochronic Cycles . Retrieved March 22, 2021 from http:
+//cesarandlois.org/allochronic-cycles/
+[48] Cesar & Lois. 2020. Allochronic Cycles . Retrieved August 31, 2022 from http:
+//cesarandlois.org/wp-content/uploads/ac-banner.jpg
+[49] Julia Loup, Özge Subasi, and Geraldine Fitzpatrick. 2017. Aging, HCI, & Personal
+Perceptions of Time. In Proceedings of the 2017 CHI Conference Extended Abstracts
+on Human Factors in Computing Systems (Denver, Colorado, USA) (CHI EA ’17) .
+Association for Computing Machinery, New York, NY, USA, 1853–1860. https:
+//doi.org/10.1145/3027063.3053079
+[50] Andrés Lucero. 2018. Living Without a Mobile Phone: An Autoethnography.
+InProceedings of the 2018 Designing Interactive Systems Conference (Hong Kong,
+China) (DIS ’18) . Association for Computing Machinery, New York, NY, USA,
+765–776. https://doi.org/10.1145/3196709.3196731
+[51] Andrés Lucero, Audrey Desjardins, Carman Neustaedter, Kristina Höök, Marc
+Hassenzahl, and Marta E. Cecchinato. 2019. A Sample of One: First-Person
+Research Methods in HCI. In Companion Publication of the 2019 on Designing
+Interactive Systems Conference 2019 Companion (San Diego, CA, USA) (DIS ’19
+Companion) . Association for Computing Machinery, New York, NY, USA, 385–388.
+https://doi.org/10.1145/3301019.3319996
+[52] Giorgia Lupi. 2019. The Room of Change . Retrieved April 22, 2021 from http:
+//giorgialupi.com/the-room-of-change
+[53] Giorgia Lupi. 2019. The Room of Change . Retrieved August 31, 2022 from
+https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/
+1551454899607-8OTOGLGYXBBMRC9OPRIW/FQ6A3793+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg?format=1500w
+[54] John J McCarthy and Peter Wright. 2007. Technology as Experience . 183–197.
+[55] Bill McKibben. 2003. Worried? Us? granta 83 (Nov 2003), 7–12.
+[56] Astrida Neimanis, Cecilia Åsberg, and Johan Hedrén. 2015. Four Problems,
+Four Directions for Environmental Humanities: Toward Critical Posthumanities
+for the Anthropocene. Ethics and the Environment 20, 1 (2015), 67–97. http:
+//www.jstor.org/stable/10.2979/ethicsenviro.20.1.67
+[57] Carman Neustaedter and Phoebe Sengers. 2012. Autobiographical Design in
+HCI Research: Designing and Learning through Use-It-Yourself. In Proceedings
+of the Designing Interactive Systems Conference (Newcastle Upon Tyne, United
+Kingdom) (DIS ’12) . Association for Computing Machinery, New York, NY, USA,
+514–523. https://doi.org/10.1145/2317956.2318034
+[58] Jakob Nielsen. 1993. Chapter 6 - Usability Testing. In Usability Engineering , Jakob
+Nielsen (Ed.). Morgan Kaufmann, San Diego, 165–206. https://doi.org/10.1016/
+B978-0-08-052029-2.50009-7
+[59] William Odom, Ishac Bertran, Garnet Hertz, Henry Lin, Amy Yo Sue Chen, Matt
+Harkness, and Ron Wakkary. 2019. Unpacking the Thinking and Making Behind
+a Slow Technology Research Product with Slow Game. In Proceedings of the 2019
+on Creativity and Cognition (San Diego, CA, USA) (C&C ’19) . Association for
+Computing Machinery, New York, NY, USA, 15–28. https://doi.org/10.1145/
+3325480.3326567
+[60] William Odom, Siân Lindley, Larissa Pschetz, Vasiliki Tsaknaki, Anna Vallgårda,
+Mikael Wiberg, and Daisy Yoo. 2018. Time, Temporality, and Slowness: Future
+Directions for Design Research. In Proceedings of the 2018 ACM Conference Com-
+panion Publication on Designing Interactive Systems (Hong Kong, China) (DIS
+’18 Companion) . Association for Computing Machinery, New York, NY, USA,
+383–386. https://doi.org/10.1145/3197391.3197392
+[61] William T. Odom, Abigail J. Sellen, Richard Banks, David S. Kirk, Tim Regan,
+Mark Selby, Jodi L. Forlizzi, and John Zimmerman. 2014. Designing for Slowness,
+Anticipation and Re-Visitation: A Long Term Field Study of the Photobox. In
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+(Toronto, Ontario, Canada) (CHI ’14) . Association for Computing Machinery,
+New York, NY, USA, 1961–1970. https://doi.org/10.1145/2556288.2557178
+[62] Doenja Oogjes and Ron Wakkary. 2022. Weaving Stories: Toward Repertoires for
+Designing Things. In Proceedings of the 2022 CHI Conference on Human Factors in
+Computing Systems (New Orleans, LA, USA) (CHI ’22) . Association for Computing
+Machinery, New York, NY, USA, Article 98, 21 pages. https://doi.org/10.1145/
+3491102.3501901
+[63] Gigi Owen. 2020. What makes climate change adaptation effective? A systematic
+review of the literature. Global Environmental Change 62 (2020), 102071. https:
+//doi.org/10.1016/j.gloenvcha.2020.102071
+[64] Joon Sung Park, Rick Barber, Alex Kirlik, and Karrie Karahalios. 2019. A Slow
+Algorithm Improves Users’ Assessments of the Algorithm’s Accuracy. Proc.
+ACM Hum.-Comput. Interact. 3, CSCW, Article 102 (Nov. 2019), 15 pages. https:
+//doi.org/10.1145/3359204
+[65] Mark Pelling, Karen O’Brien, and David Matyas. 2015. Adaptation and transforma-
+tion. Climatic Change 133, 1 (Nov. 2015), 113–127. https://doi.org/10.1007/s10584-
+014-1303-0
+[66] Michael Pollan. 2001. The Botany of Desire: A Plant’s-Eye View of the World .
+Random House Publishing Group.
+[67] Larissa Pschetz. 2015. Isn’t It Time to Change the Way We Think about Time?
+Interactions 22, 5 (aug 2015), 58–61. https://doi.org/10.1145/2809502
+[68] Larissa Pschetz and Michelle Bastian. 2018. Temporal Design: Rethinking time
+in design. Design Studies 56 (2018), 169–184. https://doi.org/10.1016/j.destud.
+2017.10.007
+[69] Larissa Pschetz, Michelle Bastian, and Christopher Speed. 2016. Temporal design:
+Looking at time as social coordination. In DRS 2016 Proceedings .
+[70] Maria Puig de la Bellacasa. 2015. Making time for soil: Technoscientific futurity
+and the pace of care. Social Studies of Science 45, 5 (2015), 691–716. https:
+//doi.org/10.1177/0306312715599851
+[71] Maria Puig de la Bellacasa. 2017. Matters of Care: Speculative Ethics in More than
+Human Worlds . University of Minnesota Press.
+[72] Heidi R. Biggs, Jeffrey Bardzell, and Shaowen Bardzell. 2021. Watching Myself
+Watching Birds: Abjection, Ecological Thinking, and Posthuman Design. In Pro-
+ceedings of the 2021 CHI Conference on Human Factors in Computing Systems
+(Yokohama, Japan) (CHI ’21) . Association for Computing Machinery, New York,
+NY, USA, Article 619, 16 pages. https://doi.org/10.1145/3411764.3445329
+[73] Jörgen Rahm-Skågeby and Lina Rahm. 2022. Design and Deep Entanglements.
+Interactions 29, 1 (jan 2022), 72–76. https://doi.org/10.1145/3502279
+[74] Jörgen Rahm-Skågeby and Lina Rahm. 2022. HCI and deep time: toward deep
+time design thinking. Human–Computer Interaction 37, 1 (2022), 15–28. https:
+//doi.org/10.1080/07370024.2021.1902328
+[75] Amon Rapp, William Odom, Larissa Pschetz, and Daniela Petrelli. 2022. Intro-
+duction to the special issue on time and HCI. Human–Computer Interaction 37, 1
+(2022), 1–14. https://doi.org/10.1080/07370024.2021.1955681
+NordiCHI ’22, October 8–12, 2022, Aarhus, Denmark Ciobanu and Juhlin
+[76] Tye Rattenbury, Dawn Nafus, and Ken Anderson. 2008. Plastic: A Metaphor for In-
+tegrated Technologies. In Proceedings of the 10th International Conference on Ubiq-
+uitous Computing (Seoul, Korea) (UbiComp ’08) . Association for Computing Ma-
+chinery, New York, NY, USA, 232–241. https://doi.org/10.1145/1409635.1409667
+[77] Anna Madeleine Raupach. 2021. Unequal Hours . Retrieved August 30, 2022 from
+https://www.annamadeleine.com/unequal-hours-2021
+[78] Anna Madeleine Raupach. 2021. Unequal Hours . Retrieved August 31, 2022 from
+https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/
+1646448086919-EPXGFJAWGQ1XXZ4YIKJM/AnnaMadeleineRaupach_
+UnequalHours_2021_04.jpg?format=1500w
+[79] Douglas Rushkoff. 2013. Present Shock: When Everything Happens Now. Penguin.
+(2013).
+[80] Johnny Saldaña. 2013. The Coding Manual for Qualitative Researchers . SAGE
+Publications.
+[81] Stephanie Springgay and Sarah E. Truman. 2017. Walking Methodologies in a
+More-than-human World: WalkingLab . Taylor & Francis.
+[82] Jennyfer Lawrence Taylor, Alessandro Soro, Paul Roe, Anita Lee Hong, and
+Margot Brereton. 2017. Situational When: Designing for Time Across Cultures.
+InProceedings of the 2017 CHI Conference on Human Factors in Computing Systems
+(Denver, Colorado, USA) (CHI ’17) . Association for Computing Machinery, New
+York, NY, USA, 6461–6474. https://doi.org/10.1145/3025453.3025936
+[83] John C. Thomas, Yue Pan, Thomas Erickson, Eli Blevis, Catherine Letondal,
+and Aurélien Tabard. 2013. Avec Le Temps! Time, Tempo, and Turns in Human-
+Computer Interaction. In CHI ’13 Extended Abstracts on Human Factors in Comput-
+ing Systems (Paris, France) (CHI EA ’13) . Association for Computing Machinery,
+New York, NY, USA, 3303–3306. https://doi.org/10.1145/2468356.2479672
+[84] Henry David Thoreau. 2016. Walden . Princeton University Press. https://doi.
+org/doi:10.1515/9781400880799[85] Scott Thrift. 2022. The Present . Retrieved March 8, 2022 from https://thepresent.is/
+[86] Scott Thrift. 2022. The Present . Retrieved August 31, 2022 from
+https://cdn.shopify.com/s/files/1/0854/1952/t/4/assets/banner_4_2000x.
+progressive.jpg?v=127254221793241875881633963030
+[87] John Tomlinson. 2007. The culture of speed: The coming of immediacy . Sage.
+[88] Anna Lowenhaupt Tsing. 2015. The Mushroom at the End of the World: On the
+Possibility of Life in Capitalist Ruins . Princeton University Press.
+[89] Deep Time Walk. 2021. Deep Time Walk . Retrieved March 26, 2021 from
+https://www.deeptimewalk.org/
+[90] Deep Time Walk. 2021. Deep Time Walk . Retrieved August 31,
+2022 from https://www.deeptimewalk.org/wp-content/uploads/2018/06/devices-
+banner-home-8bt-1.png
+[91] Gary Wolf. 2009. Know thyself: Tracking every facet of life, from sleep to mood
+to pain. (2009).
+[92] Mert Yildiz and Aykut Coşkun. 2020. Time Perceptions as a Material for
+Designing New Representations of Time. In Extended Abstracts of the 2020
+CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA)
+(CHI EA ’20) . Association for Computing Machinery, New York, NY, USA, 1–7.
+https://doi.org/10.1145/3334480.3382950
+[93] Joe Zadeh. 2021. The Tyranny Of Time - NOEMA . Retrieved June 4, 2021 from
+https://www.noemamag.com/the-tyranny-of-time/
+[94] John Zimmerman, Jodi Forlizzi, and Shelley Evenson. 2007. Research through
+Design as a Method for Interaction Design Research in HCI. In Proceedings of the
+SIGCHI Conference on Human Factors in Computing Systems (San Jose, California,
+USA) (CHI ’07) . Association for Computing Machinery, New York, NY, USA,
+493–502. https://doi.org/10.1145/1240624.1240704

@@ -1,0 +1,731 @@
+Geoderma 404 (2021) 115298
+Available online 25 June 2021
+0016-7061/© 2021 Elsevier B.V. All rights reserved.Identifying barriers to routine soil testing within beef and sheep 
+farming systems 
+Jennifer M. Rhymesa,*, Sophie Wynne-Jonesa, A. Prysor Williamsa, Ian M. Harrisa, 
+Duncan Roseb, David R. Chadwicka,c, David L. Jonesa,d 
+aSchool of Natural Sciences, Bangor University, Bangor LL57 2UW, UK 
+bNRM Laboratories, Bracknell, Berkshire, UK 
+cInterdisciplinary Research Centre for Agriculture Green Development in Yangtze River Basin, Southwest University, Chongqing, China 
+dUWA School of Agriculture and Environment, The University of Western Australia, Perth, WA 6009, Australia   
+ARTICLE INFO  
+Handling Editor: Ingrid Kogel-Knabner  
+Keywords: 
+Soil testing 
+Sustainable farming 
+Nutrient management planning 
+Farmer decision making 
+Adoption ABSTRACT  
+Soil testing in agriculture is associated with many economic and environmental benefits. However, previous 
+studies have shown that a significant proportion of beef and sheep farmers in the UK do not carry out standard 
+soil index testing (pH, available Mg, P and K); with much fewer again carrying out more extensive soil tests (e.g., 
+organic matter, micronutrients). This study identifies barriers and motivations to soil testing amongst the beef 
+and sheep sector, using a combination of farmer surveys, expert interviews, and a 5-year soil testing dataset from 
+the largest commercial UK soil testing laboratory. Evidence for differences in the adoption of soil tests by beef 
+and sheep farmers compared to the arable and dairy sectors is explained in relation to: (1) the extent of soil pH 
+and nutrient imbalances, linking to the intensity of management in the different sectors; and (2) the extent to 
+which farmers perceive links between their soils and their outputs (profits, yield, livestock health). We show a 
+greater likelihood for farmers to engage with soil testing when the links to declining outputs are clearer. Our 
+results showed that beef and sheep farmers who did engage with soil testing showed greater levels of innovation 
+and were more likely to seek advisory support, most often associated with larger farm sizes. Our data also 
+highlights the importance of an output-driven approach to initiate an interest in soil analyses amongst less 
+engaged farmers. We argue that this avenue offers greater potential for enhancement of farmers ’ knowledge of 
+the soil system than a primarily regulatory-driven approach, where soil testing becomes a compulsory action but 
+does not lead to subsequent improvements in farm management.   
+1.Introduction 
+Globally, soil degradation in agroecosystems represents one of the 
+greatest threats to achieving food and water security and continues to 
+undermine our efforts to combat climate change (Montanarella et al., 
+2016; Wuepper et al., 2020 ). This decline in soil quality is typically 
+characterised by high rates of soil erosion, a loss of organic matter and 
+nutrient imbalances arising from land use change, agricultural intensi -
+fication and climate change (Borrelli et al., 2020 ). However, recent years 
+have seen a growing recognition of the importance of soils and the 
+gradual adoption of more sustainable farming practices (Bouma et al., 
+2012; Keesstra et al., 2016 ). Despite these advances, there is still 
+considerable scope to improve basic soil management, especially 
+through greater adoption of routine soil testing for agronomic use (Carlisle, 2016; Li et al., 2020 ). 
+One common approach used to improve on-farm nutrient use effi-
+ciency is through nutrient management planning, which include a range 
+of soil quality metrics, known as standard soil index testing (e.g., pH, P & 
+K indices and Mg content; AHDB, 2020 ). Despite promotion of the po-
+tential benefits of soil index testing to farmers (through various chan-
+nels), low rates of soil index testing still exist within some farming 
+sectors, namely amongst beef and sheep producers (Carlisle, 2016 ). For 
+example, in England, only 51% of beef and sheep farmers regularly carry 
+out soil index tests compared to 89% of dairy farms and 97% of arable 
+(DEFRA, 2013 ). 
+The lower rates of soil index testing adoption by the beef and sheep 
+sector raises particular concerns. This is because soil testing provides 
+opportunities for farmers to optimise productivity and reduce inefficient 
+*Corresponding author at: School of Natural Sciences, Bangor University, Gwynedd LL57 2UW, UK. 
+E-mail address: j.rhymes@bangor.ac.uk (J.M. Rhymes).  
+Contents lists available at ScienceDirect 
+Geoderma 
+u{�~zkw! s{yo|kro>! ÐÐÐ1ow�o �to~1m{y2w{m k�o2ro{no ~yk!
+https://doi.org/10.1016/j.geoderma.2021.115298 
+Received 7 January 2021; Received in revised form 29 March 2021; Accepted 10 May 2021   
+Geoderma 404 (2021) 115298
+2resource use (Goulding et al., 2008; Kettering et al., 2012 ), which can 
+help ensure financial resilience at a time where state aid and farm 
+subsidies are dramatically declining. Whilst many beef and sheep farms 
+are less intensively managed than arable and dairy systems (with lower 
+stocking and input levels), particularly those in upland areas and/or 
+with areas of high environmental value, factors including topography, 
+soil fragility and weather extremes mean these farms can be particularly 
+sensitive to nutrient imbalances and losses (Caporn and Emmett, 2009; 
+Orr et al., 2008 ). Given these concerns, and the distinctive characteris -
+tics of beef and sheep farms, tailored analysis to understand the be-
+haviours and rationale of these farmers is needed to ensure widespread 
+adoption of soil index testing in the future. 
+As our understanding of soil health improves, it has become apparent 
+that a more holistic approach to soil testing that incorporates the 
+physical, biological and chemical aspects of soils, rather than relying on 
+a small suite of indicators through soil index testing (e.g., pH, P, K and 
+Mg), can be more informative and beneficial for making farm manage -
+ment decisions. It has also been argued that the simplicity of current soil 
+index testing impedes knowledge transfer between farm advisors and 
+farmers (De Bruyn and Andrews, 2016 ). The use of additional soil tests 
+beyond soil index testing (e.g., for micronutrients, organic matter con-
+tent, soil texture and microbial biomass) are readily available from soil 
+testing facilities across the UK but are not readily adopted. For example, 
+in England only 35% of all farms (across all farming sectors) monitor soil 
+organic matter (DEFRA, 2018, 2013 ). However, the reasons why and/or 
+more advanced soil testing is not undertaken by farmers are unclear, 
+preventing the design of effective campaigns to promote greater adop-
+tion to improve farm sustainability. For the purpose of this study, we 
+define soil index tests used for agronomic purposes, that assess the lime 
+and fertiliser/manure application needs to optimize crop production, as 
+‘soil tests ’; and those that help with other agronomic decisions and/or 
+used to monitor soil health as ‘advanced ’ soil tests. 
+Research into how farmers ’ perceptions of soil testing influences 
+farm practice has been longstanding, but the lack of widespread adop-
+tion remains unresolved (Brandt, 2003; Daxini et al., 2018; Dessart et al., 
+2019; Hyland et al., 2018; Ingram et al., 2010; Osmond et al., 2015; 
+Prager and Posthumus, 2011 ). Various socio-economic, cultural, insti-
+tutional and environmental factors can influence a farmer ’s decision to 
+engage with soil testing (Dessart et al., 2019; Hyland et al., 2018; Prager 
+and Posthumus, 2011 ). However, the sectoral differences in soil testing 
+adoption rates previously noted are largely unexplained; though larger, 
+more intensive farms are more commonly seen to test (DEFRA, 2013 ). 
+Daxini et al. (2018) emphasize the importance of psychological factors 
+alongside socio-economic parameters, particularly attitudinal response 
+and social norms, which reflect the benefits perceived from undertaking 
+particular behaviours and whether wider peer and public pressure is felt. 
+Better understanding of why and how positive attitudinal traits develop 
+would advance these insights further. Regulatory pressure can also be a 
+critical driver for soil testing, and has continued to increase in recent 
+years (DEFRA and EA, 2018 ; Scottish Statutory, 2017; Welsh Govern -
+ment, 2020 ). However, regulation to enforce testing does not necessarily 
+translate into changes in management (Daxini et al., 2018 ). The po-
+tential reasons for this include a lack of awareness or perceived benefit 
+amongst farmers, reliance on customary practise, and associated costs 
+and difficulties with implementation (Brandt, 2003; Hyland et al., 2018; 
+Ingram, 2008; Ingram et al., 2010; Osmond et al., 2015 ). In these in-
+stances education therefore seems key, though despite marked educa -
+tional efforts in recent years (Ingram, 2008; Krzywoszynska, 2019; Puig 
+de la Bellacasa, 2015 ) some farmers do not appreciate the potential 
+benefits of better management of their soils (Ingram, 2008; Krzy-
+woszynska, 2019 ). In turn, this study aims to (i) understand why the beef 
+and sheep sector has a much slower soil testing adoption rate in com-
+parison to the arable and dairy sector, and (ii) ascertain what socio- 
+economic and psychological factors are associated with soil testing 
+and planned management behaviours. 2.Materials and methods 
+2.1. Grassland and arable soil indices status 
+To understand the influence of soil indices on farmers ’ likelihood to 
+soil test, we investigated differences in soil pH, P & K indices and Mg 
+content between grassland (this encompasses the dairy, beef and sheep, 
+as the dataset did not allow for a split between these sectors) and arable 
+soils. These indices were chosen as they are the recommended param -
+eters to determine lime and fertiliser/manure requirements for optimal 
+crop production, as outlined by the RB209 fertiliser manual guidelines 
+(hereon noted as ‘RB209∕) (AHDB, 2020 ). This was done using the soil 
+analysis data collected by a major UK soil testing lab. The database 
+constituted the results of samples submitted by farmers and/or consul -
+tants over a 5-year period (2013 –2017). For each soil variable, we 
+calculated the proportion of samples from grassland or arable land that 
+were lower, optimum and/or higher than the recommended values for 
+the corresponding farming sector stated in RB209 (AHDB, 2020 ). In this 
+way, differences in relative soil indices were compared between the 
+sectors to determine whether this could be influencing the farmer ’s 
+decision to soil test. To ensure that samples were from a ‘continuous ’ 
+land use (grass or arable), these comparisons were made on a subset of 
+soil samples that classified both the previous and next crop as either 
+arable or grassland, resulting in 92,001 and 73,454 samples from each 
+sector, respectively. 
+2.2. Beef and sheep farmers survey 
+To attain broad-scale insight into the levels of engagement with soil 
+testing amongst beef and sheep farmers, we surveyed 302 such farmers 
+from across the UK. This was administered online using Kobo Toolbox 
+and widely publicised in the farming press and on social media, and 
+conducted face-to-face at key agricultural events between June and 
+December 2019. The survey was designed to derive primarily quanti -
+tative information on the following points:  
+≡Respondent demographics  
+≡Farm business characteristics  
+≡If/how they tested their soils  
+≡Attitudes and rationale regarding soil testing 
+≡Current and future management practices (responding to test re-
+sults/not)  
+≡The influence of regulatory pressures 
+The profile of survey participants can be found in Table 1. Some 
+open-response questions were also included to provide additional 
+qualitative detail to support analysis of the quantitative data. Questions 
+were devised to capture both socio-economic and attitudinal factors, 
+including perceptions of soil testing and links to outcomes, following 
+recommendations from recent studies (see e.g. Daxini et al., 2018 ). 
+All statistical analysis of the survey data was carried out using the 
+statistical programme R (R Core Team, 2019). We used linear discrim -
+inant analysis to calculate the average marginal effects of each factor 
+that may contribute to a livestock farmer ’s decision to soil test. The 
+response and explanatory variables included in the model are sum-
+marised in Table 1. An Innovation score and Positive soil testing 
+perception score was calculated for each participant as the sum of an-
+swers to relevant questions associated with each, as detailed in Table 1. 
+We used the ‘factoextra ’ R package (Kassambara and Mundt, 2019) 
+to perform hierarchical clustering analysis on participants ’ Likert re-
+sponses (0–1) to statements about how important they perceive soil 
+testing can be in improving animal health, yield (of grass), profit, soil 
+health and forage (grass or conserved grass) quality. We determined the 
+optimal number of clusters through k-means partitioning methods to be 
+n 3. Respondents were grouped into their respective farmer group 
+clusters and Kruskal-Wallis tests were performed for each Likert. This J.M. Rhymes et al.                                                                                                                                                                                                                              
+Geoderma 404 (2021) 115298
+3was followed by a Dunn multiple comparisons test (Dunn, 1964 ) to 
+determine differences between farmer groups for each Likert question. 
+Binomial regressions were used to determine whether groupings 
+differed characteristically (e.g. Age) and behaviourally (e.g. Innovation 
+score) for attributes that were not included in the hierarchical cluster 
+analysis. 
+2.3. Stakeholder interviews 
+To provide further qualitative insight on farmers ’ behaviours, and 
+the reasons underpinning these, interviews with eight expert stake -
+holders was undertaken in August-September 2019. This primarily 
+involved farm advisory consultants who worked with farmers across the 
+UK to offer support and advice on soils and associated farm management 
+practices. Some of these advisors worked across all farm sectors (4 re-
+spondents), whilst others were selected specifically for their specialism 
+in pasture-based livestock (3 respondents). Respondents from soil 
+testing laboratories, who were also involved in extension activities, were 
+also interviewed (1 respondent). Respondents each had over ten years ’ 
+experience working in the sector and each work with a at least a hundred 
+diverse farms on a regular basis, therefore providing insights from a 
+wide cross-sector of the industry. 
+Interviews lasted between 30 and 60 min and were audio recorded to 
+support transcription and subsequent thematic analysis. All re-
+spondents, for both interviews and the survey, were given a project in-
+formation sheet and provided their informed consent prior to 
+questioning. Saturation in themes was reached after eight interviews, 
+meaning further data capture was not necessary. 
+3.Results and discussion 
+3.1. Understanding differences in motivations to soil test between sectors 
+We found that 99.2% of arable soil samples sent for analysis and 
+98.6% from grasslands (dairy, beef and sheep) did not meet the opti-
+mum recommended UK guidelines for at least one of the four soil quality 
+indicators (pH, P, K and Mg; Fig. 1). These results indicate that under -
+performing soils (i.e., soils that do not meet the soil indices criteria for 
+optimal crop production) are an influential driver in a farmers ’ moti-
+vation to soil test. 
+Due to the more intensive nature of arable systems and their greater 
+crop offtake rates (Chiari et al., 1989; Withers et al., 2006 ), these soils 
+may more readily suffer nutrient or pH imbalances in comparison to 
+grassland soils (Muhammed et al., 2018 ). This was reflected by the data 
+that showed a lower proportion of soils from arable farms to have 
+optimal pH compared to soils from grassland farms (15% and 37% Table 1 
+Summary description of response and explanatory variables with their associ -
+ated levels used for binomial regression and the percentage of respondents 
+within each level. We utilised soil testing as our response variable and all other 
+variables as explanatory variables.  
+Variables Levels Description for level Percentage of 
+total 
+respondents (n 
+302) 
+Soil testing Yes  81 
+No 19 
+Age Younger than 54  63 
+Older than 54 37 
+Education Further 
+education Farmers with a level 4 
+qualification * (UK 
+Gov Standard) or 
+above were 
+considered to have 
+further education. 63 
+Lower education 37 
+Farm size Small Farm 
+(SLR ≼2) Standard Labour 
+Requirements (SLR) 
+are a coefficient that 
+represents the 
+notional amount of 
+labour required by a 
+holding to carry out 
+all of its agricultural 
+activity and were 
+calculated for each 
+participating farm 
+(Defra, 2014). 68 
+Large Farm 
+(SLR F2) 32 
+Tenancy Yes Participants with the 
+whole or part of farm 
+were considered as 
+tenancy farmers. 57 
+No 43 
+Sector Sheep  22 
+Beef 14 
+Both 63 
+Farm turnover Below Average 
+Turnover Participants who 
+stated their turnover 
+to be equal to or 
+below £25,000 was 
+considered to have a 
+below average 
+turnover for the 
+grazing sector 
+(DEFRA ONS, 2015). 16 
+Above Average 
+Turnover 84 
+Agri-environment 
+scheme Within an Agri- 
+environment 
+scheme  50 
+Not within and 
+Agri- 
+environment 
+scheme 50 
+Diversification Diversifying  76 
+Not Diversifying 24 
+Engaging with 
+independent 
+advisors/ 
+consultants Yes  32 
+No 68 
+Innovation score 0 – 1 (Low 
+Innovation to 
+Highly 
+Innovative) Participants were 
+scored with an 
+innovation score as 
+the sum of the number 
+of options chosen with 
+regards to 
+management 
+practices made in the 
+last 5 years to improve 
+forage quality, animal 
+genetics, soil pH, 
+yields, prepare for 
+flood and drought 
+events and to 
+incorporate new 
+technologies onto the 
+farm and divided by 6.   Table 1 (continued ) 
+Variables Levels Description for level Percentage of 
+total 
+respondents (n 
+302) 
+Positive soil 
+testing 
+perception 0–1 (Negative to 
+positive 
+perception) Participants were 
+scored with a positive 
+perception score as 
+the sum of five 
+answers to 5-point 
+Likert questions 
+linking the 
+importance for soil 
+testing with positive 
+on farm outcomes to 
+animal health, profit, 
+soil health, forage 
+quality and yield and 
+divided by 5.   
+*this is equivalent to a Higher national certificate (HNC), Certificate of higher 
+education (CertHE), or Level 4 NVQ. J.M. Rhymes et al.                                                                                                                                                                                                                              
+Geoderma 404 (2021) 115298
+4respectively, Fig. 1). On-farm productivity monitoring also varies be-
+tween these sectors; arable farmers base this on crop yields, whilst 
+grassland farmers traditionally focus on their livestock (e.g., growth, 
+weight, health, milk yield, etc.). When productivity is compromised, the 
+role of soil indices may therefore be more apparent for arable farmers 
+due to the more direct soil–plant relationships compared to the indirect 
+soil–plant-livestock relationships. The resulting realisation that their soil 
+is underperforming thus explains the higher levels of soil testing adop-
+tion by arable farmers than grassland beef and sheep farmers across the 
+UK (DEFRA, 2013 ). These differences in focus and awareness were 
+outlined by interviewed experts: 
+“The combine harvester tells [arable farmers] exactly what each field 
+is doing [in terms of yields] but within the livestock sector very few 
+[farmers] are measuring grass yield and quality (Expert 3)” 
+“Arable farmers aim to produce the maximum yield possible […] 
+grassland farmers aim to produce just enough grass for their livestock 
+(Expert 1)” 
+“[Beef and sheep farmers ’] primary focus, in my experience, is al-
+ways going to be their [livestock], not their soil. (Expert 7)” 
+Despite this, grassland farmers are increasingly being encouraged to assess visual soil parameters (e.g., compaction or earthworm counts 
+Guimar ~aes et al., 2011 ) and to monitor grass yield to better make the 
+link between soil condition and farm productivity (AHDB, 2018a, 
+2018b ). However, it appears that this has not been widely adopted by 
+the beef and sheep sector (Forager, 2017 ) compared to the dairy sector, 
+the latter generally being more engaged with such monitoring practices 
+and thus more readily associate productivity with soil conditions and 
+input management (Beegle et al., 2000 ). In turn, this helps explain their 
+higher levels of soil testing compared to beef and sheep farmers (DEFRA, 
+2013 ). This notion was supported by Expert 4: 
+“I think some of the dairy [farmers] are a little more in tune with soil 
+testing, with them being more intensive systems. They also have 
+more of a history of soil and tissue testing. (Expert 4)” 
+Furthermore, dairy farms produce more manure that is stored in fully 
+liquid slurry storage systems compared to beef and sheep farms (DEFRA, 
+2013 ), which has also been shown to be positively associated with 
+increased adoption of soil testing (Buckley et al., 2015 ). 
+We found that motivations to soil test are also linked to engagement 
+with independent advisors (Fig. 2), which differs between farming sec-
+tors. Traditionally, a higher proportion of cereal and dairy farmers seek 
+Fig. 1.Number of samples over 5 years sent into a major UK soil testing lab for analysis that are lower (yellow), optimum (green) and higher than the UK RB209 
+agronomic guidelines for soil a) pH b) K index c) P index and d) Mg index recommendations on arable and grass and forage crop field (arable n 92,001 grassland 
+and forage crops n 73,454). J.M. Rhymes et al.                                                                                                                                                                                                                              
+Geoderma 404 (2021) 115298
+5this type of advice for nutrient management planning compared to beef 
+and sheep livestock farmers (85%, 78% and 59%, respectively DEFRA, 
+2019 ). We found that 55% of the beef and sheep farmers who soil test do 
+so without help from an independent advisor. This highlights a clear lack 
+of engagement with independent advisors amongst beef and sheep 
+farmers which is also likely to be contributing towards adoption dif-
+ferences between sectors. As expressed by Expert 1: 
+“Most arable farmers will have an agronomist … grassland farms, 
+particularly smaller family-run farms will not have an agronomist or 
+any other link to a company that provides this service. (Expert 1)” 
+As the above comment highlights, farm size may also be a corre -
+sponding factor determining farmer engagement with advisors. Hence, 
+the distinction is not just one of farm type, but that farm type often 
+correlates with size, with dairy and arable predominantly being larger 
+farms (DEFRA, 2015 ). 
+3.2. Understanding beef and sheep farm(er) characteristics associated 
+with (not) soil testing 
+In descending order of average marginal effect, the significant factors 
+that differentiated farmers who engaged in soil testing from farmers that 
+did not included a higher farmer innovation score, engagement with 
+independent advisors, higher farm turnovers and positive perception of 
+soil testing (Table 1; Fig. 2). These findings are strongly aligned with 
+similar factors identified in the wider literature (Daxini et al., 2018; 
+Dessart et al., 2019; Hyland et al., 2018; Prager and Posthumus, 2011 ). 
+We saw that increased likelihood to soil test was correlated with 
+reported adoption of other forms of innovation (High innovation score, 
+Fig. 2) and hence these farmers seemed to be more actively adopting 
+new practices to improve their farm systems rather than relying on 
+customary practice. It was also notable that our farmer innovation score 
+is co-correlated with the positive soil testing perception factor, which 
+aligns with wider reporting that farmers adopt new technologies and/or 
+farm practices when they perceive that an innovation will lead to pos-
+itive impacts (see also Pannell et al., 2006 ). We also found that engagement with an independent advisor in-
+creases the likelihood a farmer would soil test by 15% (Fig. 2). This 
+demonstrates the crucial role advisors play initiating soil awareness, 
+linking soil condition (e.g. soil indices) to farm productivity and sup-
+porting farmers to make appropriate management decisions based on 
+test results (Daxini et al., 2018; Ingram, 2008 ). Farm turnover was also 
+identified as an important factor (Fig. 2), where farmers with a below 
+average turnover were 12% less likely to soil test (Fig. 2). This is likely to 
+be linked to farms with higher financial turnovers generally being 
+associated with more intensive systems, which typically have greater use 
+of resources, and greater financial capacity to engage with advisors and 
+implement the measures advised. Despite farm size not significantly 
+contributing to soil testing adoption (Fig. 2), we saw a general trend 
+where soil testing adoption is less frequent on smaller farms, similar to 
+Ribaudo and Johansson (2007) and Daxini et al. (2018) . This also aligns 
+with a wider acknowledgement that small farmers have lower levels of 
+turnover (DEFRA, 2015 ). 
+Finally, we found that farmers with a negative attitude towards soil 
+testing were less likely to adopt soil testing than those who were more 
+positive (Fig. 2), due to a general lack of awareness or perceived benefit. 
+This was further confirmed by 49% of non-soil testers reporting that they 
+“didn ’t see the point ” of soil testing. This aligns with the findings of 
+Daxini et al. (2018) on the psychological parameters underpinning de-
+cision making. 
+To further our understanding on how differences in soil testing 
+perceptions influences the likelihood to soil test, we utilised hierarchical 
+cluster analysis to identify distinct farmer groups based on how impor -
+tant they thought soil testing was for improving animal health, profit, 
+soil health, forage quality and yield (these responses were averaged 
+together to produce the perception parameter within our binomial 
+regression). We identified three distinct groups (Fig. 3); 1) The Engaged 
+farmers that expressed the highest level of positivity towards soil testing 
+and had the highest engagement with soil testing, 2) The Semi-engaged 
+farmers who expressed slightly more conservative views than The 
+Engaged but still demonstrated high soil testing adoption, and 3) The 
+disengaged , who expressed less confidence for soil testing improving 
+Fig. 2.Predictors for soil testing among grassland beef and sheep farmers. The estimated average marginal effects derived from a logit binomial model predicting 
+whether survey participants soil test or not. Factors significantly influencing farmers to soil test are represented in blue and factors influencing farmers not to test are 
+represented in orange. Horizontal lines from each data point 95% confidence intervals. See SI appendix for full regression output. J.M. Rhymes et al.                                                                                                                                                                                                                              
+Geoderma 404 (2021) 115298
+6most aspects on the farm and a much lower proportion of which engaged 
+with soil testing. This supports our findings from our binomial regres -
+sion analysis by reinforcing the association between positive soil testing 
+perceptions and soil testing adoption (Fig. 2, Fig. 3 and Fig. 4a). 
+The characteristics of our identified farmer groups found that The Disengaged had a much higher proportion of older farmers than The 
+Engaged and Semi-engaged (Fig. 4c). Although our binomial analysis did 
+not determine age as a contributing factor for poor soil testing adoption, 
+when splitting the data into groups, it was clear that age influenced soil 
+testing perceptions (Fig. 4c) and consequently adoption (Buckley et al., 
+Fig. 3.Radar charts showing the average Likert responses (0–5: Not important - Very Important) to questions on how important farmers thought soil testing was for 
+improving animal health, profit, soil health, forage quality and yields for each farmer group identified (Engaged, Semi-engaged, Disengaged). Letters denote sig-
+nificant differences between identified farmer groups for each question answered. 
+Fig. 4.The percentage of participant a) soil testing, b) engaging with independent advisors, c) older than 54, d) with higher education, e) information score, f) 
+innovation score, g) on a small farm, h) with an above average turnover, i) on a tenancy farm, j) within an agri environment scheme and k) diversifying on the farm 
+within each farmer group (Engaged, Semi-engaged, Disengaged). Different letters denote significant differences between farmer groups. J.M. Rhymes et al.                                                                                                                                                                                                                              
+Geoderma 404 (2021) 115298
+72015 ). Our identified farmer groups and their characteristics were also 
+strongly supported by interviewed experts; 
+“You get more progressive, interested farmers that are engaged and 
+take advantage of soil workshops. They read the literature and they 
+learn. And then you have other farmers who are less engaged and just 
+doing things how they ’ve always done. (Expert 1)” 
+“There is a better understanding of the importance of soils with 
+[younger farmers]. (Expert 3)” 
+The Engaged placed higher importance on the perceived benefits soil 
+testing offers for improvements to each of these aspects on the farm, 
+animal health, profit, soil health, forage quality and yield compared to 
+The Semi-engaged and Disengaged (Fig. 3), as did The Semi-engaged when 
+compared to The Disengaged. These findings highlight the need to rein-
+force how soil testing has the potential to benefit the farm, which cor-
+responds to arguments made in section 3.1, regarding the importance of 
+connecting soil to measurements of productivity/optimisation. 
+To fully appreciate the particularities of the beef and sheep sector, it 
+is important to note that within our high soil testing adoption groups, 
+The Engaged and Semi-engaged , we still found a small proportion of 
+farmers who do not soil test (Fig. 4a), suggesting that in some instances 
+farmers selectively choose not to soil test, even though they report a 
+general awareness of the benefits soil testing can bring. This can be due 
+to several factors that constrain production or ambition to maximise 
+productivity, such as farmland that is part of an environmental scheme 
+that prohibits application of high input levels (Welsh Government, 
+2019 ). 
+Of those livestock farmers that did not soil test, 22% stated that this 
+was because they were satisfied with their productivity and did not 
+intend to increase grass growth to meet their feed requirements. This is 
+not unsurprising – typical nutrient application rates (as both fertiliser/ 
+manure) on extensive beef and sheep farms are often considerably lower 
+than what is recommended to increase grass yields (AHDB, 2020; British 
+Survey of Fertiliser Practise, 2019 ). Nutrient application recommenda -
+tions based on soil index tests from such farms could therefore be 
+notably higher than those rates currently applied. The environmental 
+costs of such farmers acting on this advice, such as greater potential for 
+eutrophication and greenhouse gas emissions from greater application 
+of fertilisers/manures should be considered. From an economic 
+perspective, there is a rationale for better optimisation of productivity, 
+but it was notable that 24% of respondents did not test due to perceived 
+‘high costs associated with acting on advice ’. For example, liming to 
+increase soil pH can cost more than the value of the extra return (Gib-
+bons et al., 2014 ). Critical to this is whether recommendations following 
+testing would reveal scope to optimise interventions within financially 
+beneficial margins. 
+3.3. Soil testing adoption through policy 
+Finally, we consider the impact of policy. Here, we found that 65% of 
+those farmers that were soil testing reported policy as a factor that 
+influenced their decision to test (19%, important, 18%, fairly important 
+and 28% very important). However, such regulation has only recently 
+been implemented in England and whilst other countries in the UK are 
+also likely to follow (DAERA, 2019; DEFRA and EA, 2018 ; Scottish 
+Statutory, 2017; Welsh Government, 2020; DAERA, 2019 ; DEFRA and 
+EA, 2018; Scottish Statutory, 2017; Welsh Government, 2020 ) this 
+perceived pressure could therefore increase in the future. However, 
+compulsory soil testing may not necessarily translate into good man-
+agement behaviours (Daxini et al 2018 ). Instead, Daxini et al. (2018) 
+and experts we interviewed felt that a notable proportion of farmers 
+were just doing the minimum to meet regulatory requirements, and 
+engagement with testing was not substantively improving their under -
+standing of, or care for, their soil. “I want nutrient management plans to be used and not just stored in 
+preparation for inspection … I worry the legislation is going to take 
+us away from all the good work [advisors have] been doing to 
+encourage good soil testing practice, and therefore it just becomes a 
+compliance exercise … (Expert 3)” 
+Our survey results do not reflect these fears, showing that a high 
+proportion of farmers were following the management advice for 
+nutrient application rates (as both fertiliser/manure) and lime applica -
+tion rates based on their soil index tests (data not shown), with only a 
+very small proportion ignoring the advice altogether (which was often 
+explained in relation to environmental restrictions, connecting with 
+points outlined above). However, the concerns raised by the interviewed 
+advisers is clearly reflected in the wider literature. This is perhaps due to 
+difference in context across different studies, with regulatory obligations 
+more widespread in Ireland than in parts of the UK for example (Daxini 
+et al., 2018 ). 
+3.4. Advanced soil testing 
+In line with DEFRA (2018, 2013) , we found far fewer beef and sheep 
+farmers to undertake advanced soil tests compared to conventional soil 
+index testing (Fig. 5). Reasons for this are likely to be similar to those we 
+identified with poor soil index testing adoption. Furthermore, poor 
+adoption is also likely to be associated with the lack of standardised 
+protocols, guidance as to which tests farmers should be engaging with 
+and how to interpret the results (Briggs and Eclair-Heath, 2017 ). 
+4.Conclusions 
+Our analysis explores the influence of soil condition, socio-economic 
+factors and psychological factors associated with lower levels of soil 
+index testing amongst the UK beef and sheep sector, compared to their 
+dairy and arable counterparts. We argue that it is accentuated by the 
+characteristics of the beef and sheep sectors, where farms are generally 
+smaller, have a lower turnover and engage less with advisory support 
+compared to arable and dairy counterparts (Chiari et al., 1989 ; DEFRA 
+ONS, 2015). Whilst this might appear to offer a poor prognosis for 
+improved adoption in the future, our data also affirms the importance of 
+an output driven approach to support farmer engagement with soil 
+testing. We argue this approach offers greater potential to enhance 
+farmers ’ knowledge of the soil system than a primarily regulatory driven 
+approach, where soil testing becomes compulsory but does not neces -
+sarily lead to good management practice. 
+Fig. 5.Percentage of beef and sheep farmers who undertake advanced soil 
+testing beyond the basic soil index testing. J.M. Rhymes et al.                                                                                                                                                                                                                              
+Geoderma 404 (2021) 115298
+8Finally, our analysis raises some points of caution, firstly for exten -
+sive farms with high environmental importance, the imperative to soil 
+test seems less obvious as farmers may be restricted (through environ -
+mental schemes) in their capacity to act on recommended inputs from 
+soil test results. Secondly, if farmers are not aware of an apparent eco-
+nomic return from soil testing, farmers would be less inclined to do so. 
+Nonetheless, these should be considered in future policy and market 
+contexts where the need to optimise grass production and utilization will 
+be fundamental to the survival, and ultimate success, of farmers in these 
+sectors. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Acknowledgements 
+The authors would like to thank Lara Pritchard, the British Grassland 
+Society and the Farming Community Network for their contributions 
+towards survey data collection. This work was supported by The Sus-
+tainable Agriculture Research and Innovation Club, a joint BBSRC and 
+NERC initiative [grant number NE/R017425/1]. 
+References 
+AHDB, 2020. Nutrient management guide (RB209). Agriculture and Horticulture 
+Development Board, Kenilworth, UK.  
+AHDB, 2018a. Planning grazing strategies for Better Returns. Agriculture and 
+Horticulture Development Board, Kenilworth, UK.  
+AHDB, 2018b. Improving soils for Better Returns. Agriculture and Horticulture 
+Development Board, Kenilworth, UK.  
+Beegle, D.B., Carton, O.T., Bailey, J.S., 2000. Nutrient management planning: 
+justification, theory, practice. J. Environ. Qual. 29, 72–79. https://doi.org/10.2134/ 
+jeq2000.00472425002900010009x . 
+Borrelli, P., Robinson, D.A., Panagos, P., Lugato, E., Yang, J.E., Alewell, C., Wuepper, D., 
+Montanarella, L., Ballabio, C., 2020. Land use and climate change impacts on global 
+soil erosion by water (2015 –2070). Proc. Natl. Acad. Sci. U. S. A. 117, 21994 –22001. 
+https://doi.org/10.1073/pnas.2001403117 . 
+Bouma, J., Broll, G., Crane, T.A., Dewitte, O., Gardi, C., Schulte, R.P.O., Towers, W., 
+2012. Soil information in support of policy making and awareness raising. Curr. 
+Opin. Environ. Sustain. 4, 552–558. https://doi.org/10.1016/j.cosust.2012.07.001 . 
+Brandt, G., 2003. Barriers and strategies influencing the adoption of nutrient 
+management practices, TR13.1. Tech. Rep. 13 (1), 1–20. 
+Briggs, S., Eclair-Heath, G., 2017. Helping UK farmers to choose, use, and interpret soil 
+test results to inform soil management decisions for soil health. Asp. Appl. Biol. Crop 
+Prod. South. Britain 134, 161–168. 
+British Survey of Fertiliser Practise, 2019. British Survey of Fertiliser Practice, 2019. 
+Buckley, C., Howley, P., Jordan, P., 2015. The role of differing farming motivations on 
+the adoption of nutrient management practices. role differing farming Motiv. Adopt. 
+Nutr. Manag. Pract. 4, 152–162. https://doi.org/10.5836/ijam/2015-04-152 . 
+Caporn, S.J.M., Emmett, B.A., 2009. Threats from air pollution and climate change to 
+upland systems: past, present and future, in: Drivers of Environmental Change in 
+Uplands. Routledge, pp. 62–86. 
+Carlisle, L., 2016. Factors influencing farmer adoption of soil health practices in the 
+United States: a narrative review. Agroecol. Sustain. Food Syst. 40, 583–613. 
+https://doi.org/10.1080/21683565.2016.1156596 . 
+Chiari, M., Casale, E., Santaniello, E., Righetti, P.G., 1989. Synthesis of buffers for 
+generating immobilized pH gradients. II: Basic acrylamido buffers. Appl. Theor. 
+Electrophor. 1, 103–107. 
+DAERA, 2019. Nutrients Action Programme (NAP) 2019-2022. 
+Daxini, A., O’Donoghue, C., Ryan, M., Buckley, C., Barnes, A.P., Daly, K., 2018. Which 
+factors influence farmers ’ intentions to adopt nutrient management planning? 
+J. Environ. Manage. 224, 350–360. https://doi.org/10.1016/j. 
+jenvman.2018.07.059 . 
+De Bruyn, L.L., Andrews, S., 2016. Are Australian and United States farmers using soil 
+information for soil health management? Sustain. 8, 304. https://doi.org/10.3390/ 
+su8040304 . 
+DEFRA, 2019. Farm practices survey February 2019 - greenhouse gas mitigation 
+practices, National Statistics England. 
+DEFRA, 2018. Farm practices survey February 2018 - greenhouse gas mitigation 
+practices, National Statistics England. 
+DEFRA, 2015. Farm Business Income by type of farm in England, 2014/15. Natl. Stat, 
+Engl.  DEFRA, 2013. Farm practices survey February 2013 - greenhouse gas mitigation 
+practices. National Statistics England. 
+DEFRA, EA, 2018. Farming rules for water Questions and Answers. Accessed 25/03/2021 
+https://www.farmingadviceservice.org.uk/sites/default/files/docs/2020-09/ 
+Farming-rules-for-water-QA-FINAL-vsn-1.pdf. 
+Dessart, F.J., Barreiro-Hurl ˘e, J., Van Bavel, R., 2019. Behavioural factors affecting the 
+adoption of sustainable farming practices: A policy-oriented review. Eur. Rev. Agric. 
+Econ. 46, 417–471. https://doi.org/10.1093/erae/jbz019 . 
+Dunn, O.J., 1964. Multiple comparisons using rank sums. Technometrics 6, 241–252. 
+Forager, 2017. Aly Balsom (Ed.), Homegrown Feed for Sustainable Farming. 
+Gibbons, J.M., Williamson, J.C., Williams, A.P., Withers, P.J.A., Hockley, N., Harris, I.M., 
+Hughes, J.W., Taylor, R.L., Jones, D.L., Healey, J.R., 2014. Sustainable nutrient 
+management at field, farm and regional level: Soil testing, nutrient budgets and the 
+trade-off between lime application and greenhouse gas emissions. Agric. Ecosyst. 
+Environ. 188, 48–56. https://doi.org/10.1016/j.agee.2014.02.016 . 
+Goulding, K., Jarvis, S., Whitmore, A., 2008. Optimizing nutrient management for farm 
+systems. Philos. Trans. R. Soc. B Biol. Sci. 363, 667–680. https://doi.org/10.1098/ 
+rstb.2007.2177 . 
+Guimar ~aes, R.M.L., Ball, B.C., Tormena, C.A., 2011. Improvements in the visual 
+evaluation of soil structure. Soil Use Manag. 27, 395–403. https://doi.org/10.1111/ 
+j.1475-2743.2011.00354.x . 
+Hyland, J.J., Heanue, K., McKillop, J., Micha, E., 2018. Factors influencing dairy 
+farmers ’ adoption of best management grazing practices. Land use policy 78, 
+562–571. https://doi.org/10.1016/j.landusepol.2018.07.006 . 
+Ingram, J., 2008. Are farmers in England equipped to meet the knowledge challenge of 
+sustainable soil management? An analysis of farmer and advisor views. J. Environ. 
+Manage. 86, 214–228. https://doi.org/10.1016/j.jenvman.2006.12.036 . 
+Ingram, J., Fry, P., Mathieu, A., 2010. Revealing different understandings of soil held by 
+scientists and farmers in the context of soil protection and management. Land use 
+policy 27, 51–60. https://doi.org/10.1016/j.landusepol.2008.07.005 . 
+Keesstra, S.D., Bouma, J., Wallinga, J., Tittonell, P., Smith, P., Cerd ˇa, A., 
+Montanarella, L., Quinton, J.N., Pachepsky, Y., Van Der Putten, W.H., Bardgett, R.D., 
+Moolenaar, S., Mol, G., Jansen, B., Fresco, L.O., 2016. The significance of soils and 
+soil science towards realization of the United Nations sustainable development goals. 
+Soil 2, 111–128. https://doi.org/10.5194/soil-2-111-2016 . 
+Kettering, J., Park, J.H., Lindner, S., Lee, B., Tenhunen, J., Kuzyakov, Y., 2012. N fluxes 
+in an agricultural catchment under monsoon climate: A budget approach at different 
+scales. Agric. Ecosyst. Environ. 161, 101–111. https://doi.org/10.1016/j. 
+agee.2012.07.027 . 
+Krzywoszynska, A., 2019. Making knowledge and meaning in communities of practice: 
+What role may science play? The case of sustainable soil management in England. 
+Soil Use Manag. 35, 160–168. https://doi.org/10.1111/sum.12487 . 
+Li, J., Feng, S., Luo, T., Guan, Z., 2020. What drives the adoption of sustainable 
+production technology? Evidence from the large scale farming sector in East China. 
+J. Clean. Prod. 257, 120611 https://doi.org/10.1016/j.jclepro.2020.120611 . 
+Montanarella, L., Pennock, D.J., McKenzie, N., Badraoui, M., Chude, V., Baptista, I., 
+Mamo, T., Yemefack, M., Aulakh, M.S., Yagi, K., Hong, S.Y., Vijarnsorn, P., Zhang, G. 
+L., Arrouays, D., Black, H., Krasilnikov, P., Sobock ˘a, J., Alegre, J., Henriquez, C.R., 
+Mendonça-Santos, M. de L., Taboada, M., Espinosa-Victoria, D., AlShankiti, A., 
+AlaviPanah, S.K., Mustafa Elsheikh, E.A. El, Hempel, J., Arbestain, M.C., 
+Nachtergaele, F., Vargas, R., 2016. World ’s soils are under threat. Soil 2, 79–82. 
+https://doi.org/10.5194/soil-2-79-2016. 
+Muhammed, S.E., Coleman, K., Wu, L., Bell, V.A., Davies, J.A.C., Quinton, J.N., 
+Carnell, E.J., Tomlinson, S.J., Dore, A.J., Dragosits, U., Naden, P.S., Glendining, M. 
+J., Tipping, E., Whitmore, A.P., 2018. Impact of two centuries of intensive 
+agriculture on soil carbon, nitrogen and phosphorus cycling in the UK. Sci. Total 
+Environ. 634, 1486 –1504. https://doi.org/10.1016/j.scitotenv.2018.03.378 . 
+Orr, H.G., Wilby, R.L., Hedger, M.M., Brown, I., 2008. Climate change in the uplands: a 
+UK perspective on safeguarding regulatory ecosystem services. Clim. Res. 37, 77–98. 
+Osmond, D.L., Hoag, D.L.K., Luloff, A.E., Meals, D.W., Neas, K., 2015. Farmers ’ Use of 
+Nutrient Management: Lessons from Watershed Case Studies. J. Environ. Qual. 44, 
+382–390. https://doi.org/10.2134/jeq2014.02.0091 . 
+Pannell, D.J., Marshall, G.R., Barr, N., Curtis, A., Vanclay, F., Wilkinson, R., 2006. 
+Understanding and promoting adoption of conservation practices by rural 
+landholders. Aust. J. Exp. Agric. 46, 1407 –1424. https://doi.org/10.1071/EA05037 . 
+Prager, K., Posthumus, H., 2011. Socio-economic factors influencing farmers ’ adoption of 
+soil conservation practices in Europe. In: Human Dimensions of Soil and Water 
+Conservation: A Global Perspective. Nova Science Publishers Inc, pp. 203–223. 
+Puig de la Bellacasa, M., 2015. Making time for soil: Technoscientific futurity and the 
+pace of care. Soc. Stud. Sci. 45, 691–716. https://doi.org/10.1177/ 
+0306312715599851 . 
+Scottish Statutory, 2017. Water Environment (Miscellaneous) (Scotland) Regulations 
+2017 and come into force on 1st January 2018. 
+Welsh Government, 2020. Information on the draft Water Resources (Control of 
+Agricultural Pollution) (Wales) Regulations 2020. 
+Welsh Government, 2019. Glastir Advanced 2019: rules booklets. 
+Withers, P.J.A., Edwards, A.C., Foy, R.H., 2006. Phosphorus cycling in UK agriculture 
+and implications for phosphorus loss from soil. Soil Use Manag. 17, 139–149. 
+https://doi.org/10.1111/j.1475-2743.2001.tb00020.x . 
+Wuepper, D., Borrelli, P., Finger, R., 2020. Countries and the global rate of soil erosion. 
+Nat. Sustain. 3, 51–55. https://doi.org/10.1038/s41893-019-0438-4 . J.M. Rhymes et al.                                                                                                                                                                                                                              

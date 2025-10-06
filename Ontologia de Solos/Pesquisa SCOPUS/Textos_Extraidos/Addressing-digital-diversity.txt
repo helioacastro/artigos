@@ -1,0 +1,807 @@
+Science and Public Policy , 2021, 48, 841–848
+DOI: https://doi.org/10.1093/scipol/scab048
+Advance Access Publication Date: 18 August 2021
+Article
+Addressing digital diversity: Care matters in vulnerable
+digital relations in a Swedish library context
+Johanna Sefyrin1,*, Mariana Gustafsson2and Elin Wihlborg2
+1Division for Information Systems and Digitalization, Department of Management and Engineering, Link ¨oping University, Link ¨oping 58183,
+Sweden and2Division for Political Science, Department of Management and Engineering, Link ¨oping University, Link ¨oping, Sweden
+*Corresponding author. E-mail: johanna.sefyrin@liu.se
+Abstract
+As societies become increasingly digitalized, the requirements for inclusion continuously increase. In a Swedish public, municipal, library context,
+it is common that individuals who face difficulties related to digital technologies come and ask for help. In this paper, we explore care in relations
+constituted by individuals and digital technologies and analyze how care matters for digital inclusion. It builds on field studies in a Swedish library
+context and includes qualitative interviews, focus groups, and observations of employees working to support individuals with digital needs. In
+order to analyze the material, we apply the concept of care. In the concluding discussion, we argue first for viewing individuals as sociomaterial
+entanglements of relations constituted by humans and non-humans, second that these sociomaterial entangled relations are vulnerable, shifting,
+and fluid, rather than stable, and third that these relations are in constant need of care.
+Key words: digital divide; care; individuals; sociomaterial; vulnerability.
+1. Introduction
+In an advanced digitalized society, humans become intercon-
+nected not only with the social organization, but increasingly
+with digital infrastructures, technologies, and systems ( Pipek
+and Wulf 2009 ;Pipek et al. 2017 ;Karasti and Blomberg
+2018). Hence, in their daily lives, individuals are expected
+to maintain a complex web of relations with various private
+and public organizations and institutions—relations which
+today are most commonly upheld through the use of the
+digital services. However, contrary to the official image of
+Sweden as a highly advanced, digitalized society, there are
+also indications that about one million individuals in Sweden
+are non-users or low-frequency users of digital services and
+communications, thus situating them outside the digitalized
+society ( Internetstiftelsen 2018 ,2019). Those who indicate
+less access and lower use of internet or digital technologies
+in Sweden are found in all age groups, but are dominated by
+65+-year olds, with more of them living in rural areas than in
+urban areas and having a lower educational background and
+a lower income ( Internetstiftelsen 2019 ). Furthermore, while
+digital technologies are increasingly integrated in public ser-
+vices, openingupfornewpossibilitiesforpreviouslyexcluded
+groups such as those who are visually impaired or have read-
+ing difficulties, at the same time they seem to generate a new
+diversity of needs for support in terms of information, ser-
+vices, technology, or other literacies. Hence certain groups,
+for instance asylum seekers with no Swedish language pro-
+ficiency and certain migrant groups with no or low general
+education or elderly people, face new difficulties under these
+circumstances ( Bernhard et al. 2019 ).
+The public libraries are commonly a support arena to help
+thoseexcludedfromdigitalservices( Jaegeret al.2012 ;Bertot
+2016;Mersand et al. 2019 ), often prior to the governmentrealizing it. In Sweden, all municipalities are obliged to
+provide public libraries, which are considered an important
+part of the rather extensive Swedish welfare system. More
+recently, public libraries have become an important place
+for immigrants and asylum seekers to access information
+(Pilerot and Hultgren 2017 ;Pilerot and Lindberg 2018 ) and
+attend Swedish language training activities and introduction
+to society courses. These libraries are important also for other
+groups in vulnerable life conditions who need support with
+practicalquestionsinordertomanagetheirdailylives, includ-
+ing digitalized contacts with public organizations and the
+use of digitalized welfare services ( Richter et al. 2019 ). By
+Swedish law, public libraries are obliged to work with infor-
+mation support and communication to the wide public (mass
+education), including access to digital technologies ( Swedish
+Statute Book 2013:801 ). But the volume of the questions con-
+cerning digital problems has increased and the nature of the
+questions has diversified to the point that these issues have
+become a rather large part of library employees’ professional
+roles (Nowé Hedvall et al. 2019 ).
+In this study, we will ground our analysis on ideas of
+sociomateriality coming from science and technology stud-
+ies (STS) ( Latour 2005 ;Barad 2007 ;Suchman 2007 ;de la
+Bellacasa 2011 ,2017;Haraway 2016 ) and will focus on
+entangled webs of relations between individuals, organiza-
+tions, and digital technologies, in which power and agency
+are contested and negotiated ( Martin et al. 2015 ;Murphy
+2015). Here, individuals are understood as agents entangled
+in sociomaterial webs of relations constituted by humans and
+non-humans, technologies, and authorities, involving differ-
+ent vulnerabilities based on lack of different knowledge of
+services,technicalskills,oraccesstodigitaltechnologies.Indi-
+viduals in a digitalized welfare state, we argue, are dependent
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.comDownloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+
+842 Science and Public Policy
+on upholding comparatively stable and frequent relations
+with public and private organizations, and the services they
+provide—relations which today often involve digital tech-
+nologies. We have chosen to conceptualize the work required
+to maintain these relations in terms of ‘care’ and ‘care prac-
+tices’ and focus on the libraries as providers of care in broad
+sense (Stens ¨ota 2010 ;de la Bellacasa 2011 ). Upholding such
+digitalized relations require care in terms of for instance sup-
+port, help, and maintenance, care which may come in many
+guises - friends, colleagues and family members who know
+more, IT support at work, or support from service providers,
+private or public organizations, or distributive traders.
+For individuals to be included in a digital society, it is
+necessary for them to have digital literacy, competence, and
+digital skills ( Robinson et al. 2015 ;Macevi ˇci¯ut˙e and Wilson
+2018). To be digitally included involves managing several
+issues, such as having access to digital devices (computer,
+smart phone, printer, etc.), to (reasonably fast) internet con-
+nection, and to programs and applications (internet browser,
+e-mail, bank application, e-ID, etc.) and the knowledge and
+competence to use these devices, programs, and applications
+(Robinson et al. 2015 ;van Deursen et al. 2017 ;van Deursen
+and van Dijk 2019 ).van Dijk (2012) suggested a hierarchi-
+cal model ( Fig. 1) describing what is required for a diversified
+and skilled usage of digital services. It included motivation;
+physical and material access to digital technologies, systems,
+and infrastructures; and finally digital skills, competence, and
+know-how.
+The model, however, does not show how issues of moti-
+vation, physical and material access, digital skills, and usage
+are entangled with the interrelated public organizations and
+private companies which constitute an important part of the
+sociomaterial fabric. Drawing models such as in Fig. 1is
+always tricky, since they necessarily involve simplifications in
+termsofincludingsomeissueswhileexcludingothers( Bowker
+and Star 1999 ), and our purpose here is not to criticize the
+Figure 1. The levels of digital divide (based on van Dijk 2012 , in
+Macevi ˇci¯ut˙e and Wilson 2018 : 272).model, but merely to point out some of that which is not
+included. The use of public services, apart from digital access
+and competence, often requires detailed knowledge of how
+these organizations and services are organized and interre-
+lated, or the so-called ‘governmental literacy’ ( Bernhard et al.
+2019). In order for individuals to be able to use digitalized
+public and private services, there are needs for support that
+addresseverylevelofthemodelindifferentways, individually
+and structurally, socially and technologically; the individual
+user’s motivation, her physical and material access to various
+digital services, and her digital skills, in the hope that this will
+result in frequent, skilled and diversified usage for the benefit
+of the user ( van Dijk 2012 inMacevi ˇci¯ut˙e and Wilson 2018 ).
+Technical artifacts, programs and applications, and the inter-
+faces between these break down and grow old. In order to
+stay on top with the ever-changingtechnological development
+users must change themselves, and stay motivated, in order
+to make sure that the physical and material artifacts that they
+use to are not too old, that the artifacts - software and hard-
+ware - are compatible with each other and with the services
+that the users need to use (for instance that a smart phone is
+not too old for a specific version of a mobile e-identification
+application which is required in order to log in to a digitalized
+public service), and they must learn and develop their digital
+skills. This is not easily done for everybody but requires sup-
+port structures which can provide help and care when digital
+artifacts and services do not work as expected ( Hunsaker and
+Hargittai 2018 ;Butler 2019 ). The individuals also need to
+learn about the mentioned relations of public organizations
+that they need to cooperate with and which organizations to
+turn to for a specific situation, such as illness, unemployment,
+age, need for childcare, residence permit, parental leave, or
+sick leave ( Bernhard et al. 2019 ).
+Furthermore, digitalservicesareinthemselvesassemblages
+of interrelated digital artifacts, software, and infrastructures,
+immersed in organizational logics, aims, regulations, hier-
+archies, and practices ( Orlikowski and Barley 2001 ;Pipek
+and Wulf 2009 ;Pipek et al. 2017 ;Lips 2019 ), and are
+dependentonattention, supportstructures, development, and
+maintenance—which we conceptualize as care in this paper.
+Digital services are not set up once and for all and then just
+keep working without support. They are part of an ongoing,
+changing world, organizationally, technologically, socially,
+and culturally, and require maintenance and development—
+care—in order to keep working in a specific, historically
+situated reality ( Pipek and Wulf 2009 ;Pipek et al. 2017 ).
+They require skilled expertise, educational systems, regular
+supplyofrequiredtechnologicalartifacts,logistics,designand
+manufacturing structures, technological standards, and stan-
+dardization structures, not to mention electricity. Viewed in
+this way, the list can easily be expanded to include almost
+anything, all of which are interrelated and interdependent
+in complex assemblages, or webs of relations, made up by
+both social and material constituents ( Orlikowski and Iacono
+2001;Suchman 2007 ;Bijker 2009 ). In this sense, the model
+above (Fig. 1) in itself becomes an assemblage made up of
+entangled relations, demanding a more intricate analysis of
+how motivation can be encouraged and supported through
+care practices in order to lead to the actual use and thereby
+inclusion in a digitalized society.
+For many of the library visitors, the care provided by the
+library employees becomes a precondition for living a dailyDownloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+
+Science and Public Policy 843
+life (Taylor et al. 2014 ;Bertot 2016 ), and this is the point of
+departureinouranalysis. Theconceptofcarebuildsonareal-
+ity in which somebody in a specific situation is in a vulnerable
+position and in need of care, something which challenges the
+liberal notion of the autonomous individual ( Tronto 2001 ;
+Stens ¨ota 2010 ;de la Bellacasa 2011 ;Henry 2016 ).
+Based on the above, the aim of the paper was to explore
+care in relations constituted by individuals and digital tech-
+nologies and to analyze how care mattered for digital inclu-
+sion. Theempiricalsettingandthenexusoftheserelationsisa
+Swedish municipal public library where the library employees
+who responded to visitors asking for help with digital issues
+and the public program on society introduction for asylum
+seekers.
+2. Analytical framework: the concept of care
+In this paper, we approach the concept of care from the per-
+spective of STS, but we situate this in a broader context of
+how the concept has been understood and applied. We are
+primarilyinterestedinhowcarewaspracticedandhowitmat-
+teredintheentangledrelationsthatthelibraryvisitorsseemed
+to be placed in. In their overview of care in STS, Martin
+et al. (2015) brings to attention Gilligan’s (1982) work on
+ethics of care and point out that those who have taken up her
+workoftenunderscore‘thewaysinwhichcarewasfeminized,
+devalued, overlooked, or rendered invisible by materially and
+morally privileging mind over body, public over private, rea-
+son over emotion, and waged labor over unpaid care work’
+(Martin et al. 2015 : 628). The concept of ‘ethics of care’ was
+developed by Gilligan (1982) as a reply to Kohlberg’s (1981)
+work on the more general concept of justice. Glenn (2000)
+has reflected upon a ‘crisis of care’ that devalued practices of
+care because it is being framed as a ‘privatised and feminised’
+matter. Relating to feminist critical studies, she contributed
+to a re-definition of the concept of care and its centrality to
+society. She referred to findings such as the dominance of
+efficiency rationale in administrative implementation of care
+regulations such as getting physical care tasks done, meet-
+ing time deadlines, and documentation. Glenn (2000) also
+highlighted practices of cooperation between care workers
+to provide care that was not recognized by the bureaucratic
+structures. In her manifesto for creating a caring society, pri-
+marily addressing the US context, she called for a rethinking
+of social citizenship where care is central to the rights and
+entitlements of the citizens ( Glenn 2000 ).
+Care or care practices can be understood most basically
+as ‘everything we do to maintain, continue, and repair our
+world so that we can live in it as well as possible. That
+world includes our bodies, ourselves, and our environment,
+all that we seek to interweave in a complex, life sustaining
+web’ (Tronto 1993 : 103). This definition focuses on the prac-
+tices and doings of care aimed at taking care of human and
+non-human bodies, and the preconditions for life, and indi-
+cates its embeddedness in everyday life. In the field of STS,
+care has been discussed for instance by Mol (2008) ,Mol et al.
+(2015), then in a health-care setting, and more generally by
+de la Bellacasa (2011 ,2012). de la Bellacasa’s interpretation
+of care ( de la Bellacasa 2011 ) builds on a long tradition in
+STS to focus on the intimate, fragile, and entangled relations
+between humans and non-humans ( Haraway 1997 ,2016;
+Barad 2003 ,2007;Latour 2005 ;Suchman 2007 ), feminist
+studieswithitsconcernforgenderedhierarchiesandexcludedactors, positions, and identities ( Wajcman 2009 ;Åsberg and
+Lykke 2010 ;Butler 2011 ) and for issues concerning account-
+ability(Haraway1991 ,1997;Barad2007 ).InSTS,thenotion
+of care has a wide reach and concerns the complex entangle-
+ments of humans with non-humans, the infrastructural and
+biological, natural-culturalwebsofrelationsthatmakeitpos-
+sible for humans to co-habitate this world with non-humans
+or other-than-humans, all of those which make up ‘the fab-
+ric of biological and social existence’ ( Martin et al. 2015 ).
+Hence, in an STS, context care does not necessarily concern
+traditional care practices, such as in health care or in social
+work, but might as well have to do with the care of other-
+than-human species and bodies who contribute to making
+human life possible, such as insects ( Schrader 2015 ), soil (de
+la Bellacasa 2015 ), or, we argue, the technologies and infras-
+tructures that enable everyday life in a digitalized world ( Star
+and Ruhleder 1996 ;Karasti and Blomberg 2018 ). There are
+inherent ethical dimensions in how these entangled relations
+are often unequal and involve actors who are differently vis-
+ible, gendered, acknowledged, and recognized—something
+which adds an ethico-political dimension ( de la Bellacasa
+2011). The underlying assumption is that while some things
+are expected to just work, some bodies must be involved in
+situated practices in order make sure that these things do
+work.
+3. Methodological approach
+The study was conducted as a qualitative, interpretive case
+study with included elements of ethnography ( Myers 2013 ).
+The analytical framing of care practices developed during
+our field work. The models on digital inclusion was already
+guiding our research ( Bernhard et al. 2019 ) and motivated
+these field studies and interviews, but our use of care as an
+analytical concept developed during the study. Our empiri-
+cal studies were conducted for about one and a half years,
+following library employees’ daily encounters with the vis-
+itors. There were two complementary cases; first the city
+library in a medium-sized municipality in Sweden and second
+a program—organized by the county library—for introduc-
+ing asylum seekers to the Swedish society (the government,
+services, IT, rights, and responsibilities). We worked with
+observations, deep interviews with some of the professionals,
+a series of focus groups with professional groups, participant
+observations in combinations with additional interviews at
+the library information desk, and the ‘IT guidance’ sessions
+that library visitors could book. We also conducted partic-
+ipant observations at regular meetings in the introduction
+program for asylum seekers. Additionally, we participated in
+meetings with library employees on regional and national lev-
+els and collected relevant documents in order to substantiate
+our findings. Library visitors who asked for help with digital
+issues were not representative of the Swedish population in
+any way, but rather individuals who visited the library since
+they did not find help elsewhere. We present the empirical
+material in the analytical section given below primarily in the
+form of stories told by the library employees and the society
+communicators working with the introduction program for
+asylum seekers. The stories were told during deep interviews,
+selected based on their relevance to our aim, and then ana-
+lyzed with the help of the concept of care drawing on STS
+research.Downloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+
+844 Science and Public Policy
+4. Analysis—library care practices
+The empirical nexus of these explorations was a Swedish
+municipal public library and the county library collaboration
+forintroductiontosocietyofasylumseekers.Theanalysishas,
+basedontheaboveanalyticalframework, beenorganizedinto
+threeoverallthemes:sociomaterialentanglements,vulnerabil-
+ities in such entanglements, and the need for care.
+4.1 Stories about sociomaterial entanglements
+The first analytical theme concerns the entanglements con-
+stituted by both social and material, including digital, con-
+stituents, which emerged in the observations made and
+through the stories told by the respondents. The interviewed
+library staff and society communicators showed us how digi-
+tal questions and problems occurred regularly on an everyday
+basis and that digital technologies and services were depen-
+dent on many other relations. It might start with a simple
+question about help to print a document and then unfold as
+a complex entanglement of issues, concerns, and technical
+devices:
+‘It is usually people who should… print different docu-
+ments and then they come with some form of… smart
+device, oftenitisamobilephoneandsotheysay“Iwantto
+printthis”andthenyoushallfigureouthowtomakeit[ed.
+help the visitor] most smoothly. One has different ways to
+handle this. You can ask: “Can you send that document
+to your mail?” And, “Can you open your mail from one
+of our public computers”, as it’s the easiest way to print
+something on. If not, then you have to find out “Okay …
+can you download apps?” Because then you can download
+an app that makes it possible to print. If you cannot do
+this for various reasons then there is a web interface that
+you can use, but the document must be in a downloadable
+format, it must be like a file that you can upload as well’
+(Librarian 4).
+The example shows how the individual was entangled
+in relations which involved digital technologies and how
+these relations were constituted by hardware, software, infor-
+mation, and knowledge of technology. Language literacy
+presents another important issue for those who were rather
+new in Sweden and needed help with digital problems:
+‘It is also the language that is difficult for them. Before they
+can use any digital services - as many of them require a
+lot of reporting and reading of information in Swedish, it
+is extremely difficult for them. They can say to me “yes I
+understand” when they are here [during the course], but
+then they go home and still can’t do it and ask others for
+help’ (Focus Group 1 A, Society Communicator).
+These stories underscore how those who are new in Swe-
+denandwhotrytoliveinandbeapartoftheSwedishsociety,
+aredependentondigitaltechnologies, andhowproblemswith
+these are sometimes related to language. The stories also indi-
+cate that these individuals sometimes do not dare or want to
+ask for help and rather pretend to understand, even though
+they still need more help in order to be able to use digitalized
+services. Here, the society communicators highlighted how
+dependency in relations extended from the private sphere—
+where family and relatives were helping—to the e-servicesprovided by various organizations. In the library context, vis-
+itors often came for help with e-services and digital contacts
+with other public authorities. Most often, as illustrated in the
+following citation, they did not find the help from the other
+involved authorities or did not know how to seek for it online
+ordidnotunderstandhowtoproceedinthee-serviceandthus
+could not solve their problem on their own. Faced with situ-
+ations like this, they turned to the library, where they would
+use a computer with an internet connection or get help from
+a librarian at the help desk.
+‘Yes, well it’s different… it’s, it’s various contacts with
+authorities, like the National Insurance Office, The
+Swedish Employment Service, this way you should fill in,
+unemployment fund, you shall fill in time reports, like
+“how should I do? what should I do?”, like … I had a man
+who…he had justreceived apayment fromthe unemploy-
+ment fund, several months after he had applied and he did
+not understand how it worked at all and he had not seen
+that he had a message in his inbox in the system’ (interview
+Librarian 2).
+This was an example of how a library visitor did not
+understand the digital communication and the digital service
+provided by an authority for reporting on job applications in
+order to be eligible for unemployment benefits, upon which
+he was dependent for his income. All of these stories illustrate
+how digital issues were entrenched in larger entanglements
+of sociomaterial relations, including digital equipment; pro-
+grams and services; digital competence or lack thereof; public
+and private organizations; expectations to manage digital-
+izedrelationswithbothindividualsandorganizations; lackof
+help from some organizations; and help from family, friends,
+society communicators, and librarians.
+4.2 Stories about vulnerabilities in sociomaterial
+entanglements
+The second theme concerns the vulnerability of the socio-
+material entanglements that the asylum seekers attending the
+introduction to society and the library visitors were situated
+in. The complexities of these problems made visible how
+these visitors while they were entangled with digital technolo-
+gies,Swedishauthoritiesandotherinstitutions,theserelations
+were shifting and unstable. One of the society communicators
+in the introduction course pointed to how digital technolo-
+gieswerecentralforlivinginadigitalizedsocietylikeSweden,
+something which indicates the expectations to manage these,
+and the problems that might occur when these do not work:
+‘The problem I see with my participants is that [they] are
+dependent on young relatives that they have. They usu-
+ally do not learn to use [digital technologies], they have
+someone who can help… Even if it is an easy website, they
+cannot do it or they do not want to learn as there is help at
+home. Their young relatives often take care of everything,
+that is, digital or digital services’ (Focus Group Society
+Communicator).
+Here, the professional employees in the role of ‘society
+communicator’explicitlyunderscoredhowdependentonoth-
+ers someone becomes when he or she does not know howDownloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+
+Science and Public Policy 845
+to deal with digital technologies—something which also indi-
+cates the importance of care practices. Another vulnerability
+which was often brought up concerned the visitors’ personal
+integrity:
+‘[thus] they often depend on the help I can give them… and
+most often there is no kind of integrity thought [from the
+visitor’s side]. I often try when people enter passwords to
+turn my eyes away, not for their sake, as they most often
+don’t care about me knowing their password, but rather
+for my own sake. Because I do not want to end up in a
+situation where I know these things, as I do not think that
+is good. So that when it comes to such things or if they log
+in, then I actively look away because I should not know it’
+(Librarian 4).
+This story illustrates the vulnerabilities in terms of how the
+visitor was dependent on digital technologies, and help from
+the librarian, but also the vulnerability which was involved
+in the relation between the librarian and the visitor, when the
+latteropened personalinformation suchas bank transactions,
+passwords, pictures, etc. inordertogettheirissuesolved. Sev-
+eralofthelibrarianstalkedabouthowthisrequiredsensitivity
+and respect from their part, in relation to the visitors. Also,
+they discussed how they had to balance the visitors’ needs
+against the library rules for how to handle such situations.
+‘Then there are, as in some cases, often with older people
+with whom I have had IT guidance, then they can say so
+“Yes, but write this password for me now” or something
+like that and in some cases the person asked me “You can
+choose a password for me”. And that is very difficult, after
+all, of course, that is clear that we should not do that, but
+if the person himself gives his approval to it and it is a sit-
+uation where I feel that “Yes, this person … needs help so
+much, to the point that I myself can go in and do it,” then
+it may well be so. [Then] there will always be a boundary
+drawing, what should you put first, the principles for the
+service you perform or that you help this person in a good
+way to reach his goal’ (Librarian 4).
+The librarian’s reflection on this form of dilemma illus-
+trates the ethics involved in the library employees’ work, and
+he expressed awareness of the vulnerable situation in which
+the visitor was placed, the confidence on behalf of the vis-
+itor, and the responsibility which he had in this situation.
+All of these stories illustrate the fragility of these socioma-
+terial relations—how easily they fall apart when something,
+such as a password needed in order to access an e-service, an
+e-ID, a computer, or a digital bank account, does not work
+and help is required. These individuals were dependent on
+these entangled relations to work, and they were dependent
+on the public organizations providing digitalized welfare ser-
+vices such as parental insurance, unemployment fund, health
+insurance, or income support. These stories are placed in two
+specific contexts—a Swedish public library and an introduc-
+tion to Swedish society for asylum seekers—and here we have
+underscored how digitalization contributed to increased com-
+plexity and new forms of fragility in already vulnerable and
+unstable sociomaterial relations, but the stories can also be
+understood as illustrations of life’s fragility in a more general
+sense. The vulnerability of these relations indicates the need
+for attention, support, and help, which we conceptualize here
+as care.4.3 Stories about care in vulnerable entanglements
+The third theme concerns the need to care for the vulnerable
+sociomaterialentanglementsthattheasylumseekersattending
+the introduction to society and the library visitors were situ-
+atedin. Oneoftheinterviewees, alibrarian, toucheduponthe
+responsibility concerning digital technologies that the public
+library had:
+‘This [the work with digital issues] is something else that
+we have taken upon us, which we think is a part of our
+democratic mission, that’s how we have seen it, it is a part
+of mass education, [our] democratic mission, it’s impor-
+tant. Information shall be available to everyone and one
+shall know how to find it and how to handle the technolo-
+gies behind it, so there’s where we’ve found our entrance’
+(interview Librarian 1).
+Another librarian described a visitor who came with an
+errand and had to book a private session for IT guidance,
+because it would take too long to solve the problem at the
+desk. The story illustrated how an apparently simple prob-
+lem might turn out to be rather complex and require quite
+some time, concern, knowledge, and work to disentangle.
+It also illustrated how the library visitors’ contacts with a
+number of public organizations were required to work, and
+when they did not, they required care, in order for the
+visitors’ daily lives to work. When these relations were dig-
+italized, the complexity of the relations increased, as did
+the need for care. Our observations of library practices and
+the library employees’ stories show how the library employ-
+ees provided care for their visitors and the visitors’ digi-
+tal issues on a daily basis. These care practices related to
+concerns about contributing to the visitors’ abilities to live
+their lives and to fulfill their duties to various authorities
+in order to benefit from critical social services and support
+themselves.
+The presented stories express entangled sociomaterial rela-
+tions in which digital technologies and services were central,
+and it seems as though these entanglements were fragile, vul-
+nerable, and unstable. The stories illustrate how care was
+called for and provided, how asylum seekers and library visi-
+tors asked for care and thus engaged others—friends, family,
+andlibraryemployees—inordertorestoretheseunstablerela-
+tions, make them somewhat more stable, and keep working
+for yet some time. The relations that the library visitors and
+the asylum seekers were situated in did not work all by them-
+selves, but required care from someone, for instance library
+employees, in order to keep working. In the library con-
+text, care frequently involved and required that the library
+employees balance the visitor’s dependency, the confidence
+s/he was entrusted with, the ethical dilemma that s/he was
+placed in, and the risk of stepping over boundaries, while
+assuming responsibility for the integrity of the visitor. The
+library visitors seemed to be motivated to use digital tech-
+nologies; however, in relation to models similar to van Dijk’s
+(2012), they did not always have the physical or material
+access or the digital skills to use the technology in order to
+fulfill their needs. This situation made them vulnerable, espe-
+cially as dependency on one or more public organizations
+was involved. Questions which might seem simple from the
+perspective of those familiar with the service and skilled in
+technology turned out to be difficult for the individual withDownloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+
+846 Science and Public Policy
+lack of access to internet, Swedish language proficiency, or
+ability to use an e-service. Such micro-situations of seemingly
+simple questions showed how relations of dependency were
+at play, not only between visitors and public organizations,
+but also between those who needed care in order to stabilize
+the fragile sociomaterial relations they were situated in, and
+those who provided care.
+5. Concluding discussion
+The aim of this paper was to explore care in relations consti-
+tuted by individuals and digital technologies and to analyze
+how care matters for digital inclusion. The analysis drawing
+on library practices and stories showed how library visitors
+and newcomers in Swedish society were situated in depen-
+dency relations and vulnerabilities which included digitalized
+relations to public organizations, and that they tried to man-
+age these relations by coming to the library for help. The
+individuals were dependent on digital technologies and dif-
+ferent literacies in terms of knowledge of services, the gov-
+ernment, and language—among others—and their abilities to
+access and manage technologies. In their care practices, the
+library employees took the responsibility for sustaining and
+nurturing the vulnerable relations that the visitors were sit-
+uated in—relations which involved and depended on digital
+technologies. Thelibrarystaffcanbeunderstoodasbecoming
+enrolled in the unstable, entangled relations that the visitors
+were situated in, and they contributed to improving digital
+access and competence in these relations, so that the visitors
+could live better in the current, digitalized, society.
+InspiredbySTS,ourargumenthereisfirstthatthisanalysis
+opens up for viewing individuals as sociomaterial entangle-
+ments of relations constituted by humans and non-humans
+(Barad 2007 ;Suchman 2007 ;Orlikowski and Scott 2008 ;
+de la Bellacasa 2011 ), including various public (and pri-
+vate) organizations and the legislation, rules, and practices
+that regulate these, and increasingly, digital technologies,
+systems, and services. This study shows how the increas-
+ing reliance on technologies, and the growing complexity
+of mundane technologies ( Woolgar and Neyland 2013 ), are
+adding new demands to the professionals in public organiza-
+tions such as the library. The response to develop and embed
+a care approach into their daily practice is formed bottom-
+up through the library employees’ daily practices, but not
+enhanced by supportive institutional arrangements facilitat-
+ingthecoordinationofdigitalservicesandempoweringdigital
+literacy. We see a risk that the lack of arrangements for care
+practices might involve deeper and increasing exclusions of
+individuals in society, something which might erode trust
+in institutions, technology, and humans. Thus, it is impor-
+tant for policies to address the delimitations of responsibility
+between private and public services and actors and between
+individuals in different dependency relations. It is also impor-
+tant to highlight the limits of the library employees’ care
+practices, their accountability, and to support them in order
+forthemtobeabletofeelsecureandtrustworthyintheirwork
+to support digital services, which seem to go far beyond the
+main scope of their ordinary library practices.
+Second, the analysis opens up for understanding these
+sociomaterial entangled relations as vulnerable, shifting, and
+fluid, rather than stable. As indicated by the empirical mate-
+rial, it does not take much for these relations to rupture; itis enough with a lost password, lack of language proficiency,
+problems with borrowing a smart phone from a friend and
+there is no Google account, the need for a specific app, and
+so forth. This indicates that the relations are far from stable,
+but rather unstable, vulnerable, and easily fall apart. Inspired
+by van Dijk’s model ( van Dijk 2012 , inMacevi ˇci¯ut˙e and Wil-
+son 2018 , presented above), a diverse set of preconditions are
+required in order for frequent and diverse digital use to occur;
+even though the library visitors seemed to be motivated to
+use digital technologies, they had problems with physical and
+material access to digital devices, programs, and applications,
+and to digital services, systems, and infrastructures, and they
+needed sufficient knowledge of these, and of the public orga-
+nizationalstructurestheywerepart( Bernardet al.2019 ), and
+thisresulted in the inability touse digital services with enough
+frequency and diversity.
+Third,weviewthevulnerabilityofthesesociomaterialrela-
+tions as unavoidable, as an inevitable dimension of human
+existence and its immersion in modern, complex, and dig-
+italized societies. Consequently, these relations are in need
+of continuous care in the form of attention, work, support,
+and maintenance, in order for these to not fall apart ( de la
+Bellacasa 2011 ,2012); in which case, the individuals would
+not be able to go on with their lives. In the stories that are
+brought forward in this study, the individuals tried to manage
+these vulnerabilities through coming to the library for help,
+but this was because they had nowhere else to turn to for this
+help. For other individuals, the needed help might come from
+other actors, such as colleagues, helpdesk at work, family,
+friends, and experts or resellers of digital devices and appli-
+cations. Not only do humans require food and shelter, warm
+clothes, clean water, electricity, as safe place to stay, sleep and
+eat, education, health care, a family and a social context but,
+as many human relations with each other as well as with var-
+ious organizations in a modern welfare state involve digital
+technologies, these digitalized relations also require care.
+Conflict of interest statement. None declared.
+Acknowledgements and funding
+We want to thank Norrk ¨opings forskningsfond who funded
+thestudy, andthosewhosogenerouslyparticipatedwiththeir
+time, interest and knowledge in the study.
+References
+Åsberg, C. and Lykke, N. (2010) ‘Feminist Technoscience Studies’,
+European Journal of Women’s Studies , 17: 299–305.
+Barad, K. (2003) ‘Posthumanist Performativity: Toward an Under-
+standingofHowMatterComestoMatter, Signs’, Journal of Women
+in Culture and Society , 28: 801–31.
+—— (2007) Meeting the Universe Halfway: Quantum Physics and the
+Entanglement of Matter and Meaning . Durham and London: Duke
+University Press.
+Bernhard, I., Gustafsson, M., Hedstr ¨om, K., et al. (2019) ‘A Digi-
+tal Society for All? – Meanings, Practices and Policies for Digital
+Diversity’. In: Bui T. X. (ed.) Proceedings of the 52nd Hawaii Inter-
+national Conference on System Sciences (HICSS-52) , pp. 3067–76.
+Bertot, J. C. (2016) ‘Building digitally inclusive communities: the roles
+of public libraries in digital inclusion and development’. In: BertotDownloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+
+Science and Public Policy 847
+J., EstevezE.&MellouliS.(eds.) Paper presented at the 9th Interna-
+tional Conference on Theory and Practice of Electronic Governance
+(ICEGOV ‘15–16) , pp. 95–102. New York, NY.
+Bijker, W. E. (2009) ‘How is Technology Made?—That is the Ques-
+tion!’, Cambridge Journal of Economics , 34: 63–76.
+Bowker, G. C. and Star, S. L. (1999) Sorting Things Out: Classification
+and Its Consequences . Cambridge, MA: The MIT Press.
+Butler, J. (2011) Bodies that Matter: On the Discursive Limits of Sex .
+New York and London: Routledge.
+Butler, R. (2019) ‘Health Information Seeking Behaviour: The Librar-
+ian’s Role in Supporting Digital and Health Literacy’, Health
+Information and Libraries Journal , 36: 278–82.
+de la Bellacasa, M. P. (2011) ‘Matters of Care in Technoscience: Assem-
+bling Neglected Things’, Social Studies of Science , 41: 85–106.
+de la Bellacasa, M. P. (2017) Matters of care: Speculative ethics in more
+than human worlds . Minneapolis: University of Minnesota Press.
+—— (2012) ‘Nothing Comes without Its World: Thinking with Care’,
+The Sociological Review , 60: 197–216.
+—— (2015) ‘Making Time for Soil: Technoscientific Futurity and the
+Pace of Care’, Social Studies of Science , 45: 691–716.
+Gilligan, C. (1982) In a Different Voice: Psychological Theory and
+Women’s Development . Cambridge: Harvard University Press.
+Glenn, E. N. (2000) ‘Creating a Caring Society’, Contemporary Sociol-
+ogy, 29: 84–94.
+Haraway, D. (1991) ‘Situated Knowledges: The Science Question in
+Feminism and the Privilege of Partial Perspective’. In: D. Haraway
+(ed)Simians, Cyborgs, and Women. The Reinvention of Nature , pp.
+183–201. New York, NY: Routledge.
+—— (1997) Modest_ Witness@ Second_Millennium. FemaleMan.©
+Meets_Oncomouse™: Feminism and Technoscience . New York and
+London: Routledge.
+—— (2016) Staying with the Trouble: Making Kin in the Chthulucene .
+Durham and London: Duke University Press.
+Henry, R. L. (2016) ‘Library Technologies and the Ethics of Care’, The
+Journal of Academic Librarianship , 3: 284–5.
+Hunsaker, A.andHargittai, E.(2018)‘AReviewofInternetuseAmong
+Older Adults’, New Media and Society , 20: 3937–54.
+Internetstiftelsen. (2018) The Swedes and the Internet . <https://svens
+karnaochinternet.se/english/ > Accessed 20 Aug 2020.
+—— (2019), The Swedes and the Internet <https://svens
+karnaochinternet.se/english/ > Accessed 20 Aug 2020.
+Jaeger, P. T., Bertot, J. C., Thompson, K. M., et al. (2012) ‘The Inter-
+section of Public Policy and Public Access: Digital Divides, Digital
+Literacy, Digital Inclusion, and Public Libraries’, Public Library
+Quarterly , 31: 1–20.
+Karasti, H. and Blomberg, J. (2018) ‘Studying Infrastructuring Ethno-
+graphically’, Computer Supported Cooperative Work (CSCW) , 27:
+233–65.
+Kohlberg, L. (1981) The Philosophy of Moral Development . San
+Francisco: Harper & Row.
+Latour, B. (2005) Reassembling the Social. An Introduction to Actor-
+Network-Theory . Oxford: Oxford University press.
+Lips, M. (2019) Digital Government: Managing Public Sector Reform
+in the Digital Era . New York: Routledge.
+Macevi ˇci¯ut˙e, E. and Wilson, T. D. (2018) ‘Digital Means for Reduc-
+ing Digital Inequality: Literature Review’, Informing Science: The
+International Journal of an Emerging Transdiscipline , 21: 269–87.
+Martin, A., Myers, M., and Viseu, A. (2015) ‘The Politics of Care in
+Technoscience’, Social Studies of Science , 45: 625–41.
+Mersand, S., Gasco-Hernandez, M., Udoh, E., et al. (2019) ‘Public
+Libraries as Anchor Institutions in Smart Communities: Current
+Practices and Future Development’. In: Proceedings of the 52nd
+Hawaii International Conference on System Sciences (HICSS-52) ,
+pp. 3305–14.
+Mol, A. (2008) The Logic of Care: Health and the Problem of Patient
+Choice. New York and London: Routledge.
+—— Moser, I., and Pols, J. (eds) (2015) Care in Practice: On Tinkering
+in Clinics, Homes and Farms . Bielefield: Transcript.Murphy, M. (2015) ‘Unsettling Care: Troubling Transnational
+Itineraries of Care in Feminist Health Practices’, Social Studies of
+Science, 45: 717–37.
+Myers, M. D. (2013) Qualitative Research in Business & Management .
+London: SAGE.
+NowéHedvall, K., Lindberg, J., Michnik, K., et al.(2019)‘Anv ¨andarna
+f¨orst med det digitala i fokus: Folkbibliotekariers arbete inom den
+nationella satsningen f ¨or¨okad digital kompetens’, Report, Univer-
+sity of Borås.
+Orlikowski, W. J. and Barley, S. R. (2001) ‘Technology and Institu-
+tions: WhatCanResearchonInformationTechnologyandResearch
+on Organizations Learn from Each Other?’ MIS Quarterly , 25:
+145–65.
+—— and Iacono, C. S. (2001) ‘Research Commentary: Desperately
+Seeking the “IT” in IT Research – A Call to Theorizing the IT
+Artifact’, Information Systems Research , 12: 121–34.
+—— and Scott, S. V. (2008) ‘Sociomateriality: Challenging the Sepa-
+ration of Technology, Work and Organization’, The Academy of
+Management Annals , 2: 433–74.
+Pilerot, O.andHultgren, F.(2017)‘Folkbibliotekensarbetef ¨orochmed
+nyanl ¨anda’, Report, L¨ansbibliotek Uppsala.
+—— and Lindberg, J. (2018) “‘Sen går jag hem n ¨ar det st ¨anger”: En
+studie av nyanl ¨andas biblioteksanv ¨andning’, Report, L¨ansbibliotek
+Uppsala.
+Pipek, V., Karasti, H., and Bowker, G. C. (2017) ‘A Preface to ‘Infras-
+tructuring and Collaborative Design”, Computer Supported Coop
+Work, 26: 1–5.
+—— and Wulf, V. (2009) ‘Infrastructuring: Toward an Integrated
+Perspective on the Design and use of Information Technol-
+ogy’, Journal of the Association for Information Systems , 10:
+447–73.
+Richter, S., Bell, J., Jackson, M. K., et al. (2019) ‘Public Library Users:
+Perspectives of Socially Vulnerable Populations’, Journal of Library
+Administration , 59: 431–41.
+Robinson, L., Cotten, S. R., Ono, H., et al. (2015) ‘Digital Inequalities
+and Why They Matter’, Information, Communication and Society ,
+18: 569–82.
+Schrader, A. (2015) ‘Abyssal Intimacies and Temporalities of
+Care: How (Not) to Care About Deformed Leaf Bugs in
+the Aftermath of Chernobyl’, Social Studies of Science , 45:
+665–90.
+Star, S. L. and Ruhleder, K. (1996) ‘Steps Toward an Ecology of
+Infrastructure: Design and Access for Large Information Spaces’,
+Information Systems Research , 7: 111–34.
+Stens ¨ota, H. O. (2010) ‘The Conditions of Care: Reframing the Debate
+About Public Sector Ethic’, Public Administration Review , 70:
+295–303.
+—— (2015) ‘Public Ethics of Care - A General Public Ethics’, Ethics
+and Social Welfare , 9: 183–200.
+Suchman, L. (2007) Human–Machine Reconfigurations: Plans and Sit-
+uated Actions , 2nd edn. Cambridge, UK: Cambridge University
+Press.
+Swedish Statute Book. (2013:801) The Swedish Library Law.
+Taylor, N. G., Jaeger, P. T., Gorham, U., et al. (2014) ‘The Circular
+Continuum of Agencies, Public Libraries, and Users: A Model of
+E-GovernmentinPractice’, Government Information Quarterly ,31:
+S18–25.
+Tronto, J. (1993) Moral Boundaries: A Political Argument for an Ethic
+of Care. New York, NY: Routledge.
+——(2001)‘AnEthicofCare’.In: M.B.HolsteinandP.B.Mitzen(eds)
+Ethics in Community-based Elder Care , pp. 60–8. New York, NY:
+Springer.
+van Deursen, A. J., Helsper, E. J., Eynon, R., et al. (2017) ‘The Com-
+poundness and Sequentiality of Digital Inequality’, International
+Journal of Communication , 11: 453–73.
+—— and van Dijk, J. A. (2019) ‘The First-Level Digital Divide Shifts
+From Inequalities in Physical Access to Inequalities in Material
+Access’, New Media and Society , 21: 354–75.Downloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+
+848 Science and Public Policy
+van Dijk, J. A. (2012) ‘The Evolution of the Digital Divide: The Dig-
+ital Divide Turns to Inequality of Skills and Usage’. In: J. Bus,
+M. Crompton, M. Hildebrandt, et al. (eds) Digital Enlightenment
+Yearbook , pp. 57–75. Amsterdam: IOS Press.Wajcman, J. (2009) ‘Feminist Theories of Technology’, Cambridge
+Journal of Economics , 2010: 143–52.
+Woolgar, S. and Neyland, D. (2013) Mundane Governance: Ontology
+and Accountability . Oxford: Oxford University Press.Downloaded from https://academic.oup.com/spp/article/48/6/841/6353893 by Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca (CEFET/RJ) user on 05 October 2025
+

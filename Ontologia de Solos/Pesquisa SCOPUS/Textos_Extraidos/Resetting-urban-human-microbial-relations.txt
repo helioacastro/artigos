@@ -1,0 +1,721 @@
+Centre for Urban Research, School of Global, 
+Urban and Social Studies, RMIT University, 
+Melbourne, Victoria, Australia
+Correspondence
+Cecily Jane Maller, Centre for Urban Research, 
+School of Global, Urban and Social Studies, 
+RMIT University, Building 8, Level 10, Room 
+13, 124 Latrobe Street, Melbourne, VIC 3000, 
+Australia.
+Email: cecily.maller@rmit.edu.auAbstract
+Microbes, particularly of the viral kind, are currently preoc -
+cupying human activity and concerns due to the COVID-
+19 pandemic. Although for a long time there has been fear 
+associated with ‘germs’, notably viruses and bacteria and 
+the diseases they cause, the pandemic has set these fears 
+into overdrive. As serious as this ongoing event is, there are 
+broader interests and important alternative narratives about 
+the microbial world permeating current thinking, based on 
+research that intersects with and includes biopolitical and 
+relational research in geography. In an attempt at balancing 
+the prevailingly negative discourses about microbes and the 
+potential harms they can cause, and to encourage more geog -
+raphers to contribute to understanding human-microbial 
+relations, this paper draws together recent research across 
+disciplines to discuss the prevalence and role of microbes 
+in environments and in and on human bodies. Drawing on 
+ideas of more-than-human care, the paper shows how geog -
+raphers and other social scientists can and are already help -
+ing reset human-microbial relations, and where further work 
+can productively be done.
+KEYWORDS
+antimicrobial, care, environmental microbiomes, human bodies, 
+human health and wellbeing, Indigenous ontologies, microbes, 
+more-than-human thinkingARTICLE
+Resetting urban human-microbial relations in 
+pandemic times
+Cecily Jane Maller  DOI: 10.1111/gec3.12680Received: 28 October 2021     Revised: 25 August 2022     Accepted: 2 February 2023
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial  License, which permits use, 
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2023 The Authors. Geography Compass published by John Wiley & Sons Ltd.
+Geography Compass. 2023;17:e12680. 
+https:/ /doi.org/10.1111/gec3.12680wileyonlinelibrary.com/journal/gec3 1 of 14
+
+MALLER
+1 | INTRODUCTION
+Perhaps now more than ever, microbes are front and centre in human consciousness. Almost every aspect of our 
+lived experience is changing dramatically as we seek to render the uncontrollable, controllable through rapidly 
+changing practices of health, hygiene, working, studying, travelling and relating to others (Biedermann,  2020 ; 
+Caroppo et  al., 2021 ; Kramer & Kramer,  2020 ). First seen under microscopes by English and Dutch scientists, 
+Robert Hooke and Antoni van Leeuwenhoek, in the 17th Century (Gest,  2004 ), microbes are microscopic organ -
+isms that include bacteria, fungi, viruses and single-celled creatures such as protozoa (Ishaq et  al., 2019 ). Although 
+antibiotics to treat bacterial infections are commonly thought to have been invented in the early 20 th Century, 
+evidence shows that for millennia humans have treated bacterial infections using treatments from soil and plants 
+(Aminov,  2010 ).
+Viruses are the smallest microbe and because they cannot multiply without the cells of other living organisms, 
+they are essentially considered a microbial parasite (Villarreal,  2004 ). Since early 2020, the world has been grappling 
+with the COVID-19 pandemic caused by the novel coronavirus SARS-CoV-2 (severe acute respiratory syndrome 
+coronavirus 2), such that ‘we [have] become increasingly alert to ways in which invisible entities’ enter human bodies 
+and causing damage to organs, immune systems and lives (Biedermann,  2020 , p. 1). Aside from the immunologists and 
+other scientists seeking to understand COVID-19 and end the pandemic, the worlds humans share with viruses and 
+other microbes were already receiving increased attention in diverse disciplines, including biology (e.g., Davenport 
+et al., 2017 ), ecology (e.g., Mills et  al., 2017 ), built environment studies (e.g., Adams et  al., 2016 ), public health (e.g., 
+O'Doherty et  al., 2016 ), and geography (Beck,  2021 ; Greenhough,  2012 ; Hird,  2009 ; Lorimer,  2020 ; Maller,  2018 ). 
+This increasing interest is reflected in other recent ‘turns’ in the social sciences, including in new materialisms and 
+more-than-human theories (e.g., Bennett,  2010 ; Coole & Frost,  2010 ; Haraway,  2008 ; Maller,  2018 ), which draw 
+uncritically  from Indigenous ontologies (Porter et  al., 2020 ).
+Before the coronavirus pandemic hit, the level of scholarly interest in microbes across disciplines is partly due 
+to the expansion of research into microbiomes. ‘Microbiome’ refers to the community of micro-organisms and their 
+genetic material found in any given environment (Robinson & Jorgensen,  2020 ), whether in soil, on animal bodies, or 
+inside the human gut. One of the most well-known studies is the Human Microbiome Project (Turnbaugh et  al., 2007 ). 
+Following work mapping the human genome, this project aimed to understand the millions of microbiota contributing 
+to and constituting human bodies and the role they play in evolution (Turnbaugh et  al., 2007 ). Rather than simply 
+a collection of microbes that happen to co-occur, microbiomes are relational; that is, they refer to the relationships 
+microbes have with each other, with macro species, and with their environments, whether that be in the soil or on a 
+human body.
+An unavoidable fact from microbiomic studies is that we now know microbes inhabit and are vital to every 
+habitat, and are essential to most organisms. Yong  (2016 , p. 53) summarises key conclusions, noting ‘it is now clear 
+that many animals, from fish to mice, grow up under the influence of bacterial partners.’ The findings of research 
+into microbiomes, microorganisms and their multi-species relationships, regularly feature in the media. Although 
+articles often concern gut microbiota and their human health impacts (e.g., Seal,  2021 ), other innovations are gain -
+ing attention. These include stories about fueling  microbes  with  solar power and carbon dioxide to produce food 
+(Carrington,  2021 ), microbes inhabiting (Amaral-Zettler et  al., 2013 ) and eating plastic (Carpenter,  2021 ), and microbes 
+that can potentially cure disease (Zimmer,  2018 ) through measures such as faecal transplants (Shepherd,  2022 ) and 
+microscopic projectiles that target cancer using magnets constructed by soil bacteria (McKie,  2022 ). Partially explain -
+ing this phenomenon, Yong  (2016 , p. 249) observes, ‘only recently have [microbes] migrated from the neglected 
+fringes of biology to its spotlight-hogging centre.’ In short, these developments are changing our view of microbes 
+such that we are better understanding their potential harms, such as from viruses, but also the myriad benefits, omni -
+presence, and the fundamental reliance all life has upon them. What has also become abundantly clear is that despite 
+prevailing fears, only a very small number of microbes are harmful to people (Greenhough et  al., 2018 ; Yong,  2016 ). In 
+fact, human pathogens including viruses amount to less than 1% of all microbial species (Editorial,  2011 ). Particularly 
+2 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+pertinent to pandemics, Lorimer  (2017 , p. 553) argues, ‘no microbe is essentially pathogenic; pathogenesis is the 
+outcome of political and ecological relations’.
+This rising ‘microbial’ (Greenhough et  al., 2020 ) or ‘probiotic’ turn (Lorimer,  2019 , 2020 ) enables thinking about 
+microbes in numerous ways of further interest to geographers. The contributions geographers have already made 
+to this topic include: understanding the mobilities, networks, borderlands and materialities of pathogens (Ali & 
+Keil, 2007 ; Greenhough,  2012 ; Hinchliffe et  al., 2013 ; Lorimer,  2017 ); showcasing human-microbial relations of the 
+gut (Beck,  2021 ; Lorimer,  2016 ) and soil (Krzywoszynska,  2019 ); revealing domestic microbiomes and their multispe -
+cies relations in kitchens (Greenhough et  al., 2018 ) and elsewhere in homes (Wakefield-Rann et  al., 2018 , 2020 ); 
+and the biopolitics of multispecies encounters in an era of widespread climatic change (Clark & Hird,  2018 ). As well 
+as temporal and spatial understandings that geographers are so well-placed to address, much of what is compel -
+ling  about microbes is relational and political; in other words the ‘microbiopolitics’ (Paxson,  2008 ).
+With the COVID-19 pandemic bringing all microbes and their relations to humans and other species into sharper 
+focus, particularly in urban settings, there is a need and an opportunity for geographers and other social scientists to 
+contribute further to growing scholarship and practice (see also Greenhough et  al., 2020 ). This paper aims to briefly 
+review current research on microbiomes from a range of disciplines to encourage further active engagement with 
+microbial ecologies, relations and their microbiopolitics. I focus the discussion on urban human-microbial relations 
+and microbiomes because most people now live in urban environments (United Nations General Assembly, 2016 ). 
+Before COVID-19, the health and wellbeing of people living in cities was evident in multiple urban policy agendas, 
+including the UN's New Urban Agenda (United Nations General Assembly, 2016 ). Relatedly, research and policy -
+making on urban greening and nature in cities has exploded, including on microbes (Flies et  al., 2017 ; Robinson 
+et al., 2020 ). In the sections that follow, there is an unashamedly affirmative lens given to human-microbial relations 
+(Hinchliffe et  al., 2013 ) that reflects this work and serves as a juxtaposition to the pervasive antimicrobial view that 
+is only likely to be further entrenched by the COVID-19 pandemic.
+Microbiomes are relational, multiple and complex. Their boundaries are ill-defined and permeable and when 
+they are determined, they are arguably artificial if one takes a purely relational perspective (Hinchliffe et  al., 2013 ). 
+Yet boundaries and limits are at times factual and necessary, whilst also largely being unavoidable, in research and 
+the production of knowledge. Acknowledging the potentially false separation, I have chosen two broad groupings of 
+microbiomes to structure the main parts of this paper: environmental microbiomes, including in indoor and outdoor 
+environments, and the microbiomes of human bodies. These two broad settings also work to focus attention on 
+human-microbial relations from an urban, spatial, material perspective for the reasons provided above. The third 
+section draws on ideas of more-than-human care to show how human-microbial relations can be further assisted in 
+moving beyond their largely negative reputations. The final section concludes the paper, suggesting future directions 
+for social and other geographic research.
+2 | ENVIRONMENTAL MICROBIOMES
+This section concerns environmental microbiomes that generally occur as part of urban environments; in other words, 
+microbes and their communities found in outdoor and indoor settings in cities. However, it is important to recognise 
+that microbial communities don't adhere to spatial and temporal boundaries with mobilities and exchanges occurring 
+between rural and urban environments (Douglas,  2008 ; Spotswood et  al., 2021 ), outdoor and indoor environments, 
+and inside and outside bodies (Robinson et  al., 2020 ), among other boundary-crossings (Hinchliffe et  al., 2013 ).
+In the literature, environmental microbiomes are divided into zones with different microbial communities found 
+in soil, on vegetation, in the air (the ‘aerobiome’) (Robinson et  al., 2020 ), in fresh and salt water, and in and on build -
+ings and their surfaces and contents (Leung & Lee,  2016 ; Wakefield-Rann,  2021 ). One of the easiest environmental 
+microbiomes to contemplate is the soil microbiome with its granular materiality making it more readily ‘visible’. But 
+there is, of course, much more to soil that is not so readily visible; as Puig de la Bellacasa writes, ‘a billion bacteria, 
+3 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+thousands of fungi, protozoa and nematodes live in a teaspoon of rich soil’ ( 2019 , p. 394). As well as this, urban soils 
+can be laced with ‘rubbish, decay [and]… toxic residues’ (Robertson,  2020 , p. 319). Chemicals interact with microbes, 
+subsequently changing the composition of microbial communities (Wakefield-Rann et  al., 2018 ), in turn changing 
+soil acidity (Douglas,  2008 ). Environmental microbiomes also interact with and influence one another over differ -
+ent  strata. For example, vegetation and soil contribute to airborne microbiota (Robinson et  al., 2020 ).
+In ecology, high levels of biodiversity indicate resilient ecosystems and are important for the long-term survival 
+and adaptability of species and ecological communities. Biodiversity is literally a life-support system comprised of 
+diverse genetic resources and relationships (Douglas,  2008 ; Robinson & Jorgensen,  2020 ). Like all ecosystems, biodi -
+versity is equally important for microbiomes, whether in the environment or in or on human bodies; the more diverse 
+they are, the more resilient and adaptive they are to shocks and threats (Douglas,  2008 ; Robinson & Jorgensen,  2020 ), 
+including to viruses and other pathogens.
+The ‘biodiversity hypothesis’ proposes that the low microbial diversity of urban settings has poor outcomes for 
+human health due to an absence of certain microbes (Flies et  al., 2017 ; Mills et  al., 2017 ) (see also the following 
+section). In response, Mills et  al. (2017 , p. 2) have proposed the ‘microbiome rewilding hypothesis’ that contends 
+increasing biodiversity in urban greenspaces ‘can rewild the environmental microbiome to a state that benefits human 
+health by primary prevention’. ‘Rewilding’ 1 in this context, as defined by Western  scientists, refers to increasing the 
+biodiversity of microbes in urban environments to reverse the negative impacts urbanisation has had on underlying 
+ecosystems. Robinson et  al. (2020 )) and Flies et  al. (2017 ) explain that, despite a need for further research, microbi -
+omes should be considered a part of health promoting, biodiverse green infrastructure to increase the diversity of 
+human microbiomes, which in the long term can suppress inflammation and reduce chronic disease. This research 
+puts a different spin on ideas about the benefits of contact with nature (Myers,  2019 ), and leads to questions of the 
+temporal, spatial, political, affective, and material nature of environments that geographers are familiar with.
+Just as there are microbiomes outdoors, there are microbiomes indoors. Microbes inside and on buildings are 
+associated with flows of air, water, food, surfaces, dust, artefacts, clothes, technologies, chemicals, plants, and human 
+and other animal bodies (Meadow et  al., 2015 ; Wakefield-Rann et  al., 2018 ). Indoor microbiomes are primarily influ -
+enced by outdoor microbiomes and those on human bodies, mediated by building design, ventilation, occupancy 
+levels and activities (Leung & Lee,  2016 ). Aside from microbes transferred to interior surfaces by touch and move -
+ment, human bioaerosols (airborne biological particles including bacteria and bacteria-laden particles) are considered 
+a major contributor to indoor microbiomes (Meadow et  al., 2015 ). New research is showing that people occupying 
+indoor spaces emit distinguishable personal microbial clouds (Meadow et  al., 2015 ), with estimates of particles emit -
+ted of 10 6/hour (You et  al., 2013 ). Yong  (2016 , p. 251) explains, ‘every time we talk, talk, scratch, shuffle or sneeze 
+we cast a personalised cloud of microbes into space’, meaning ‘that our microbiome isn't’ confined to our bodies. It 
+perpetually reaches out into our environment.’ As well humans transferring and aerosolising microbes indoors, stud -
+ies show indoor airborne microbes reciprocate by contributing to our nasal, oral, and skin microbiomes (Robinson 
+et al., 2020 ). Rooms with different uses and users are also being found to have different microbial ecologies that are 
+linked to different parts of human skin, gut and oral microbiomes (Leung & Lee,  2016 ).
+There are two main ways the composition of indoor microbiomes is actively mediated: (1) through ventilation and 
+filtering of air flows, and (2) the use of chemicals and cleaning products on surfaces. With the rise of urbanisation, 
+considerable effort has sought to maintain comfortable, controllable indoor air temperatures and movement of air 
+through energy efficiency measures such as draught-proofing (McLauchlan et  al., 2017 ; Wakefield-Rann et  al., 2018 ), 
+passive heating and cooling (Sarihi et  al., 2021 ), and air conditioning (Winter  2013 ). Different temperatures and 
+ventilation modes change the characteristics and composition of indoor microbiomes, with naturally ventilated rooms 
+having more in common with outdoor aerobiomes than mechanically ventilated rooms (Leung & Lee,  2016 ). As well 
+as bringing in microbes from outdoors, ventilation practices can also flush out chemicals such as volatile organic 
+compounds, which in turn can also shape microbial ecologies (Wakefield-Rann et  al., 2018 , 2020 ). Meanwhile, 
+draught-proofing and other sustainability initiatives have meant new and retrofitted buildings have become highly 
+sealed, limiting the transfer of microbially diverse, ‘clean’ air from outside to inside as an unintended consequence.
+4 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+Most efforts in manipulating indoor microbial communities through surface cleaning are focused on elimination. 
+Blanket ‘kill’ strategies aim to eradicate every single microbe, whether potentially beneficial or harmful. This reduces 
+microbial diversity and changes microbial ecologies when sterilised surfaces are colonised by whichever microbes 
+happen to be in the vicinity (Yong,  2016 ). The pervasive germ phobia that characterises modernity has been described 
+as an ‘antibiotic, antimicrobial worldview’ or an ‘antibiosis discourse’ (Greenhough et  al., 2018 , p. 2) that is harmful 
+not only to humans (Doron & Broom,  2019 ), but to the world's ecosystems and other species (Lorimer,  2020 ) through 
+the overuse of chemicals and the production and consumption of cleaning products. Aside from reducing exposure 
+to diverse microbiomes, any chemicals used in cleaning interact with microbes in ways that are not well understood 
+(Wakefield-Rann et  al., 2018 , 2020 ). The same applies to chemicals used in the manufacture of indoor furniture and 
+furnishings which also interact with microbes and change indoor microbiomes (Wakefield-Rann et  al., 2018 ). The 
+proliferation of built structures and technologies via urbanisation, the production and expanding use of chemicals 
+in workplaces and homes, and globally connected and changing practices of everyday life, are essentially creating 
+myriad, novel ecosystems at the microbial level (Broom et  al., 2021 ; Douglas,  2008 ; Lorimer,  2017 ; Wakefield-Rann 
+et al., 2018 ). The cumulative impacts on human health and the broader ecological implications are currently unknown 
+and are probably unknowable. What is known, is that these microbial communities are nothing like those humans 
+have evolved with (discussed further in the following section). However, research shows some of the ways urbani -
+sation changes microbiomes and can enhance the spread of pathogens is through ‘antimicrobial resistance, land-use 
+change and overcrowded populations’ (Robinson & Jorgensen,  2020 , p. 340).
+Inside buildings, typically, the idea has been to keep microbes out (Yong,  2016 ). Yet the COVID-19 pandemic is 
+forcing a rethink of how we live, study and work, focusing on occupancy densities and building ventilation, with higher 
+air circulation rates likely to be implemented in future policies and building designs. Although the concept is to reduce 
+the concentration of pathogens in indoor air, as a corollary, increasing flows of outside air will also bring in diverse, 
+outdoor microbes that result in higher microbial diversity in and on human bodies, enhancing resilience to disease. 
+As Yong  (2016 , p. 258) writes, ‘rather than trying to exclude microbes from our buildings and public spaces, perhaps 
+it is time to lay the welcome mat out for them.’ He reiterates that architectural design choices affect the microbial 
+communities of buildings, ‘which could then affect the microbial ecology of us’ (Yong,  2016 , p. 258), in either a posi -
+tive or negative way, remembering Lorimer's point that no microbe is essentially pathogenic (Lorimer,  2017 , p. 544). 
+It seems sensible then to extend the microbiome ‘rewilding’ hypothesis posited for outdoor environments by Mills 
+et al. (2017 ), to the ‘rewilding’ of buildings and indoor environments. This is already happening, by default in some 
+ways, with the rising popularity of green walls, roofs and other vegetated infrastructure of the built environment 
+(Coutts & Hahn,  2015 ; Loder,  2014 ); however, the changes to indoor microbiomes, and subsequently human micro -
+biomes and the impacts on physical and mental health, is yet to be understood. What is probable, however, is that 
+when indoors, people are more likely to be experiencing impoverished environmental microbiomes, or alternatively, 
+those with novel ecologies. The next section takes a closer look at the microbiomes associated with human bodies 
+and their impacts on health and wellbeing.
+3 | THE MICROBIOMES OF HUMAN BODIES
+Scholars as diverse as Yong  (2016 ), Bennett  (2010 ), Mol  (2002 ), Hird  (2009 ) and Haraway  (2008 , 2016 ) assert that 
+humans are, literally, never just one body. Microbiology supports these assertions; there are ten times more microor -
+ganisms in an average human body than there are human cells (Lorimer,  2016 ; Turnbaugh et  al., 2007 ; Yong,  2016 ). 
+Human bodies are essentially immersed in and comprised of microbes that become part of who we are, including in 
+our eyes, noses and guts (Robinson et  al., 2020 ; Turnbaugh et  al., 2007 ). In fact, humans have different microbiomes 
+on different parts and sites of our bodies; so the microbiota on each hand, on our faces, and in mouths or guts are 
+different and they change as our bodies grow and age (Huang et  al., 2020 ). Microbes perform or support a range of 
+‘obscenely complicated’ bodily functions including, ‘replenishing the linings of the gut and skin, replacing damaged 
+5 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+and dying cells with new ones’, maintaining the blood-brain barrier, and training and driving our immune system 
+(Yong,  2016 , p. 63). They also produce vitamins we do not have the genes to make, break down food in the gut to 
+extract nutrients, and teach immune systems how to recognise invaders (Yong,  2016 ). In other roles, microbiota 
+regulate drug metabolism and may even influence risk taking and psychomotor skills (Flegr,  2007 ). Relatedly, the 
+brain-body system and neurological health is also increasingly understood to be supported by microbes, based on 
+connections between environmental and human microbiomes (Leung & Lee,  2016 ; Myers,  2019 ). Research is ongo -
+ing, with Davenport et  al. (2017 , p. 1) stating ‘we are in the midst of a revolution  in our understanding of the human 
+microbiome’ [emphasis added].
+Because microbiomes are essential to many aspects of being human they are framed by social scientists a 
+vital parts of assemblages of more-than-human bodies. Humans are therefore ‘superorganisms’ (Greenhough 
+et al., 2018 , p. 2), with ‘being human [labelled]… a multispecies achievement, dependent on the “corporeal generosity” 
+of microbial life’ (Lorimer,  2016 , p. 58). However, any discussion of human-microbial relationality cannot ignore the 
+relational ontologies, sovereignties, and scholarship of Indigenous peoples without risking  appropriation and erasure 
+(Porter et  al., 2020 ; Tallbear,  2011 ; Todd,  2016 ; Watts,  2013 ). Further, considering more-than-human  thinking  and 
+kin relations and ontologies, Indigenous, Black, Queer and feminist scholars are  leading the way in renewed  discus -
+sions of relationality (Benezra,  2022 ; Tallbear,  2011 ). While simultaneously reclaiming relational concepts such as 
+kin (e.g., Kanngieser & Todd,  2020 ), they are showing how microbes ‘take up new (old) kinship formulations … [as] 
+oddkin, chemical kin, cohort kin, environmental kin, situated kin  [and] Land/body relations’  while  arguing  for rela -
+tional accountability (Benezra,  2022 , p. 512).
+Benezra  (2020 , p. 828) also writes about the problematic absence/presence of race in human microbiome 
+research: ‘Race becomes a ghost in the scientific work, an invisible, powerful informant that affects the categorization 
+of bodies, how difference is scientifically made and verified, and ultimately how interventions and care are applied.’ 
+Microbiome research skates on a thin edge if it unproblematically characterises certain human communities or indi -
+viduals as having microbial relations based on racial profiles and/or other lines of differentiation such as disability, 
+gender or sexuality. As Benezra  (2022 , p. 512) argues, there is ‘a pressing need to decolonize ontological studies of 
+nonhumans, particularly microbes’ because of their association with disease and abnormality.
+Since most animal-microbial relations are beneficial, symbiotic, or neutral rather than harmful (Greenhough 
+et al., 2018 ; Haraway,  2016 ; Yong,  2016 ), terms such as the ‘holobiont’ 2 have been used to capture the idea that 
+humans and other animals, along with their microbiomes, are always multispecies communities rather than individ -
+ual organisms (Robinson & Jorgensen,  2020 ). The idea of beneficial human-microbial relations formed through long 
+evolutionary associations between people and specific microbiota has been called ‘the old friends’ hypothesis' (Flies 
+et al., 2017 ; Robinson & Jorgensen,  2020 ). However, since germ theory emerged in the mid-1800s, the focus has 
+been on the negative impacts of microorganisms (Robinson & Jorgensen,  2020 ).
+More recently, Robinson and Jorgensen  (2020 , p. 340) observe, ‘the potentially vital role that symbiotic envi -
+ronmental microorganisms play in regulating our health has been neglected’. For example, Flies et  al. (2017 ) discuss 
+how urban humans have been found to have less diverse gut microbiomes, concluding, as have the World Health 
+Organisation, that it is increasingly clear a diverse microbiome is essential to human health (WHO & SCBD,  2015 ). 
+This conclusion has direct implications for further problematising the uneven distribution of wealth in cities where 
+poorer neighbourhoods will have less diverse and possibly harmful microbiomes compared to wealthier areas. The 
+absence or low biodiversity of microbes in environments and bodies is beginning to be associated with many largely 
+non-communicable diseases and conditions, including Alzheimer's, inflammatory bowel and skin diseases, obesity, 
+allergies, and depression (see Robinson et  al. (2020 ), Lorimer  (2017 ), Mills et  al. (2017 ; Myers,  2019 )). The connection 
+between environmental and human microbiomes is so strong that environments are now considered to be more 
+important than human genetics in shaping gut microbiomes (Robinson et  al., 2020 ).
+Although the concept remains controversial (Lorimer,  2017 ; Robinson & Jorgensen,  2020 ), the idea of ‘dysbiosis’ 
+has been used to explain the correlation between non-communicable diseases and urban living. Dysbiosis, ‘or “life in 
+distress” is considered by some researchers to manifest as an imbalance in the microbial assemblages in the human 
+6 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+body to a state that is detrimental to health’ (Robinson & Jorgensen,  2020 , p. 340). These imbalances can be due to 
+the absence of some microbes (‘old friends’), the presence of others that may be pathogenic, and the complex rela -
+tions within and between microbiomes and their human hosts (Lorimer,  2017 ) in the built environment. For example, 
+Leung and Lee  (2016 ) discuss a recent review that suggests occupant's mental wellbeing could be improved by reduc -
+ing exposure to numerous bacterial and fungal species often found indoors.
+The rising incidences of auto-immune and inflammatory diseases (Hodgetts et  al., 2018 ), converging with the 
+increasing knowledge about the benefits of microbes means that the treatment of dysbiotic conditions may be about 
+to dramatically improve. Yong  (2016 , p. 215) reports that ‘microbiome manipulators… are developing cocktails of 
+beneficial microbes’ that can be consumed to correct dysbiosis and prevent illness, as well as transplanting entire 
+[microbial] communities from one individual to another.’ Using Haraway's concept of companion species, Beck  (2021 ) 
+studied participants' experiences of faecal microbiota transplantation (FMT). She found that FMT users described 
+‘how they became observant to how the microbiome expressed itself through bodily functions and what these 
+expressions felt like as a form of communication; a heightened bodily sense … [or] a corporeal dialogue, where the 
+bodily sensations are observed with an increased awareness’ (Beck,  2021 , p. 368).
+Across ecosystems as well as human bodies, Lorimer  (2020 ) discusses these ideas in detail in his book, ‘Probiotic 
+Planet: Using Life to Manage Life’. New knowledge about microbes, the invention of technologies to manipulate them, 
+consumption and land use change mean, ‘the interactions between human, viral, animal, and technological bodies are 
+becoming more and more intense’ (Bennett,  2010 , p. 108). It also means that it is ‘becoming increasing [ly] hard to hold 
+human life apart from materiality and to deny agency to all forms of life except humans’ (Greenhough,  2010 , p. 37). 
+Multispecies problems such as pandemics and the acceleration of antimicrobial resistance (Doron & Broom,  2019 ) 
+indicate there is an urgent need to develop a broader, relational understanding of human-microbial relationships.
+4 | MORE-THAN-HUMAN CARE TO RESET HUMAN-MICROBIAL RELATIONS
+One first step to reset human-microbial relations is try to make microbes more ‘visible’ or ‘relatable’, to allow new 
+(old) ways of ‘thinking-with’ and thinking-through microbes to emerge (Hird,  2009 ). Although geographic and cognate 
+literature has brought attention to various, numerous human-non-human relations that are taken for granted, there is 
+a bias toward visible, more relatable, macroorganisms (Greenhough et  al., 2018 ; Tallbear,  2011 ) (e.g., Hitchings,  2003 ; 
+Philo,  1995 ; Power,  2012 ). Taking note of this imbalance, invisible lifeforms and elements of various kinds have been 
+receiving growing consideration from geographers examining finer scales of more-than-human and multispecies 
+assemblages, including those working with Indigenous ontologies (e.g., Barker,  2010 ; Bawaka Country et  al., 2015 ; 
+Krzywoszynska,  2019 ; Lorimer,  2020 ; Robertson,  2020 ; Tynan,  2021 ), and when such relations become pathogenic 
+(e.g., Graham,  2015 ; Greenhough,  2012 ; Hinchliffe,  2015 ; Hinchliffe et  al., 2013 ; Lorimer,  2017 ). In terms of affirma -
+tive microbiopolitics, the work of Puig de la Bellacasa (Puig de la Bellacasa,  2017 , 2019 ) on soils has also been influ -
+ential in drawing attention to working at different, generally smaller, scales. As she explains ‘what soils are conceived 
+to be, visions and concepts of soil, will affect the ways they are cared for’ (Puig de la Bellacasa,  2019 , p. 393). Applied 
+to microbes and microbiomes, how they are conceptualised determines how we treat, respond to, and care for them. 
+Puig de la Bellacasa's  (2019 ) position on visibility is that ‘making them visible, come [s] with a message: knowing soils 
+better could enable better care.’ One way of achieving greater visibility is through ‘envisioning’, encouraging famili -
+arity with the teeming forms of microbial life via art-science collaborations (Puig de la Bellacasa,  2019 ). The idea is 
+that using art and visual media to zoom in and illuminate microscopic scales will evoke new affects and make the 
+liveliness of microbes more real through representational visibility (Puig de la Bellacasa,  2019 ). The idea of making 
+microbes more visible is echoed in the work of several other scholars. In referring to the greater availability of DNA 
+sequencing for use in homes and workplaces Hodgetts et  al. (2018 , p. 8), state that, ‘the social sciences and human -
+ities can help to map public understandings of microbes and to enable the collaborative development of new ways 
+of seeing the microbial world.’ Robinson and Jorgensen  (2020 , p. 345) propose that, ‘technologies and disciplines 
+7 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+can now be combined to gain a better understanding of the structure, distribution, and functional roles and relation -
+ships of microbial communities within and across different landscapes.’ In proposing a new field of microbioscape 
+research, 3 they suggest further that it ‘could also be applied to incorporate other perspectives such as new material -
+ism’ (Robinson & Jorgensen,  2020 , p. 340).
+Along these lines, Hird  (2009 , p. 1) puts forward the notion of ‘microontologies’, which she describes as referring 
+‘to a microbial ethics, or  … an ethics that engages seriously with the microcosmos.’ Puig de la Bellacasa  (2019 , p. 396) 
+explains further that we need to find the ‘everydayness by which humans and non-humans are engaged in intensi -
+fying intimate entanglements of ecological care’. Care has a particular interpretation in this work as a non-normative 
+obligation, as a ‘more than an affective-ethical state: it involves material engagement in labours to sustain interde -
+pendent worlds’ (Puig de la Bellacasa,  2012 , p. 198). Originating  from Indigneous ontologies, this sentiment  is echoed 
+in geographical literature on care (e.g., Bawaka Country et  al., 2013 ; Greenhough,  2011 ; Houston et  al., 2018 ; Power 
+& Williams,  2020 ; Tynan,  2021 ). However, perhaps what distinguishes microbial relations from other multispecies 
+relationships is their essential nature; we arguably need them more than they need us (Beck,  2021 ).
+Beck  (2021 , p. 372) advocates for paying more attention to bodies and their multispecies relations via corpo -
+real communication such that we can ‘take back our personhood in relation to the nonhuman within us’. Her work 
+with participants having FMT showed how other affects, senses and sensations other than vision are enrolled in 
+understanding the very personal human-microbial relations at play in digestion. A more open sensory and affective 
+approach, rather than only making microbes visible, involves noting what some might feel, smell and taste like. But 
+beyond human bodily interactions with microbes, caring for and with broader microbial relations in urban environ -
+ments is a way of scaling up to reveal other more-than-human relations; in this sense, microbes or microbiomes could 
+be ‘a facilitator … rather than the object’ (Greenhough et  al., 2018 , p. 8).
+To conclude, in the final section  I reflect on the ideas discussed earlier in the paper to frame future research 
+directions in light of current global challenges.
+5 | FUTURE GEOGRAPHIC RESEARCH ON HUMAN-MICROBIAL RELATIONS
+Although the simplicity of casting microbes in black and white, binary terms, such as ‘pathogenic’ or ‘beneficial’ is 
+appealing, it produces an enormous disservice to human and non-human life through the dismantling and reduction 
+of multifaceted and lively relations to homogenisation and individualisation, neutralising power structures, and ignor -
+ing multiple forms of vulnerability. As geographers and other scholars are already doing, there is a need to continue 
+to reach out across disciplines and specialisations to pursue lines of enquiry that are relational and ethical, following 
+‘the knots of relating through which human actors and their more-than-human counterparts mutually construct one 
+another’ (Clark & Hird,  2018 , p. 18). The productive work involved in the reconceptualisation of human-microbial 
+relations is key here, in light of what Mol  (2002  p. vii) refers to as ‘ontological politics’, where concepts, language and 
+framing can determine ‘the way in which problems are framed, bodies are shaped, and lives are pushed and pulled 
+into one shape or another’.
+The pandemic will no doubt spur on future research on microbes and microbiomes, but based on the material 
+discussed in this  paper there are three clear, not necessarily discrete, ways geography and geographers can produc -
+tively continue to contribute:
+1.  Working with scholars of relational and critical theories.  Acknowledging the work that has already been done, 
+there is further scope for geographers to work with and learn from feminist, post-colonial, and other critical 
+theorists to analyse whose bodies are or are not normalised or pathologised in microbiome research and what 
+this means for decolonisation and the achievement of social and ecological justice. Without such critical takes, 
+problematic associations are likely to continue to be made between certain health states  and particular races, 
+abilities, and genders, leading to potentially perverse and/or harmful outcomes in the sharing of knowledge about 
+8 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+microbial relations. Beyond this, there is further work and learning to be done in understanding how to live 
+ethically with microbiomes through ideas of kinship and biosociality. The relational scholarship of Indigenous, 
+Black and Queer geographers, along with those from cognate fields, is already leading these applications (e.g., 
+Kanngieser & Todd,  2020 ; Lobo,  2019 ; Tuck et  al., 2022 ; Tynan,  2021 ). There is an ethical responsibility from 
+other scholars writing on microbes and microbiomes to listen to and elevate these voices through citational and 
+other research practices. Collectively, this work will be invaluable in guiding and critiquing the future directions of, 
+and new knowledge generated by, human microbiome and related research and the disciplines and technologies 
+supporting and enabling it.
+2.  The study of the settings and practices of everyday life and their various sociomaterial complexities.  Geogra -
+phers have made substantial contributions to understanding the routines, experiences and impacts of everyday 
+life, and there is ample opportunity to give further attention to detailed human-microbial relations embroiled in 
+daily routines as it takes place in (and on the surfaces of) homes, workplaces, educational and other institutions, 
+and more broadly in urban environments, including in soil, air and as part of complex relations and ecologies with 
+plants and other animals. Research to date has concentrated on human gut-microbial, and to a lesser extent, 
+respiratory, relations; but as the discussions in this paper illustrate, there are many more ways microbes and 
+humans are entangled in an everyday sense, literally, including the novel ecologies in the buildings we inhabit 
+and with the foods, chemicals and other products that we use and consume, our contact with each other, and 
+contact with other macro  species. Exposure to microbial ecologies is mediated through the quality, safety, and 
+functionality of the built and other environments we occupy and share. With a suite of methodologies and meth -
+ods available to them, geographers are ideally placed to study and understand how modification of the design 
+and use of urban environments post-COVID-19, in light of heightened concerns about cleanliness and a rejuve -
+nated fear of microbes, changes everyday practices and vice versa. This could follow on from recent work about 
+ventilation practices (Hitchings & Lee,  2008 ; Shove et  al., 2014 ), coping with heat (Oppermann et  al., 2018 ), adap -
+tation to weather (de Vet,  2013 ; Wright & Tofa,  2021 ) and the comforts and discomforts of living life outdoors 
+(Hitchings,  2021 ).
+3.  The spatial, temporal, and affective dimensions of multispecies-microbial relations.  Microbes are (and are being) 
+enrolled in multifaceted, globally relevant problems such as climate change, biodiversity loss, waste management, 
+and technological human health advances such as FMT and cancer treatment. The COVID-19 pandemic will also 
+generate a renewed interest in their mobility, circulation and flow in local and global networks, extending the 
+work of Clark and Hird  (2018 ) and Ali and Keil  (2007 ). Concerns about future pandemics and the identification 
+of potentially harmful viruses and bacteria provides a compelling narrative sustaining binary conceptualisations 
+of microbes that are ‘good/bad’, or ‘beneficial/pathogenic’. Geographers have an important role in continuing 
+to develop more nuanced understandings of the complex spatial, temporal, scalar, and affective dimensions of 
+human-microbial and other multispecies relations to shift narratives away from binaries to focus on relations 
+that are specific to space and time, their dynamics and mobility. In the context of urban greening and ‘rewilding’ 
+agendas, there are also opportunities to further understand the impacts of colonisation and the inherent urban 
+inequalities from a microbiomic perspective, including how impoverished, toxic or otherwise unhealthy microbial 
+environments are distributed and maintained in cities, who is most impacted by them, and how they can be 
+remediated.
+Using a microbial lens, this paper has shown that the intensity of human-environment relations are much greater, 
+more detailed, and more omnipresent, than is currently  accepted. As knowledge of microbes and microbiomes 
+increases, it will further illuminate and politicise the complexities of microbial and multi-scalar ecologies, and how 
+these are vulnerable to, and implicated in, the global challenges affecting all life, nominally the extinction crisis and 
+climate change (Díaz et  al., 2019 ; Karki et  al., 2018 ). Pertinent is the fact that only a tiny fraction of microbes is 
+currently identified. Meanwhile, the melting of polar icesheets and glaciers caused by climate change is reanimating 
+microbes from previous geological epochs who are (re)entering ecosystems that have not encountered them for 
+9 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+millennia, or ever (Clark & Hird,  2018 ). But rather than a broad-brush approach, what might now be most valuable is 
+the disaggregation of microbial genera (and species) in various settings and practices such that different relationships 
+with viruses, fungi, bacteria, algae and protozoa can be better understood and, arguably, cared for.
+Just as Robinson and Jorgensen  (2020 ) argue that landscape researchers can make an important contribution 
+towards rekindling old friendships between humans and microbiota, this paper has contended  that geographers 
+and other social scientists also have much more to offer resetting human-microbial relations. Ultimately, geographic 
+contributions of many kinds are urgently needed to ensure an enduring and damaging antimicrobial stance is not the 
+sting in the tail from the COVID-19 pandemic.
+ACKNOWLEDGEMENTS
+The thinking and writing that I undertook to produce this paper took place on the unceded, sovereign Country of the 
+Woiwurrung and Boonwurrung speaking peoples of the Kulin Nation in Naarm (‘Melbourne, Australia’). I would also 
+like to thank Will Eadson, the Commissioning Editor for this piece, for providing the opportunity to think through the 
+ideas that became this paper.
+Open access publishing facilitated by RMIT University, as part of the Wiley - RMIT University agreement via the 
+Council of Australian University Librarians.
+ORCID
+Cecily Jane Maller  https:/ /orcid.org/0000-0001-8322-2124
+ENDNOTES
+  1 ‘Rewilding’, in referencing ‘wild’ and implying ‘wilderness’, is a problematic term that erases Indigenous and or First Nations 
+peoples, their connections to place, knowledge and sovereignty, while perpetuating problematic nature-culture binaries.
+  2 Holobiont refers to the collection of organisms, usually ‘a host plus trillions of micro-organisms’ that spend significant parts 
+of their lives together, symbiotically forming functional ecological units (Robinson & Jorgensen,  2020 , p. 340).
+  3 ‘Microbioscape research is the investigation and application of innovative research methods to characterize and visualize 
+the structure, composition and distribution of environmental microbial communities and their relationships with hosts. 
+Furthermore, Microbioscape research aims to understand the social implications and functional ecology of these commu -
+nities, focusing on their importance for people, place and nature’ Robinson, J. M., & Jorgensen, A.  (2020 ). Rekindling old 
+friendships in new landscapes: The environment–microbiome–health axis in the realms of landscape research. People and 
+Nature , 2(2), 339–349. https:/ /doi.org/10.1002/pan3.10082 .
+REFERENCES
+Adams, R. I., Bhangar, S., Dannemiller, K. C., Eisen, J. A., Fierer, N., Gilbert, J. A., Green, J. L., Marr, L. C., Miller, S. L., Siegel, J. 
+A., Stephens, B., Waring, M. S., & Bibby, K. (2016). Ten questions concerning the microbiomes of buildings. Building and 
+Environment , 109, 224–234. https:/ /doi.org/10.1016/j.buildenv.2016.09.001
+Ali, S. H., & Keil, R. (2007). Contagious cities. Geography Compass , 1(5), 1207-1226. https:/ /doi.org/10.1111/j.1749-8198. 
+2007.00060.x
+Amaral-Zettler, L. A., Zettler, E. R., & Mincer, T. J. (2013). Welcome to the plastisphere: Ocean-going microbes on vessels 
+of plastic. The Conversation . https:/ /www.forbes.com/sites/scottcarpenter/2021/03/10/the-race-to-develop-plastic- 
+eating-bacteria/?sh=bb3232b7406a
+Aminov, R. I. (2010). A brief history of the antibiotic era: Lessons learned and challenges for the future. Frontiers in Microbiol -
+ogy, 1, 134. https:/ /doi.org/10.3389/fmicb.2010.00134
+Barker, K. (2010). Biosecure citizenship: Politicising symbiotic associations and the construction of biological threat. Transac -
+tions of the Institute of British Geographers , 35(3), 350–363. https:/ /doi.org/10.1111/j.1475-5661.2010.00386.x
+Beck, A. (2021). Microbiomes as companion species: An exploration of dis- and re-entanglements with the microbial self. 
+Social and Cultural Geography , 22(3), 357–375. https:/ /doi.org/10.1080/14649365.2019.1593490
+Benezra, A. (2020). Race in the microbiome. Science, Technology & Human Values , 45(5), 877–902. https:/ /doi.org/10.1177/ 
+0162243920911998
+Benezra, A. (2022). Microbial kin: Relations of environment and time.  Medical Anthropology Quarterl y, 35(4), 511-528.  
+https:/ /doi.org/10.1111/maq.12680
+10 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+Bennett, J. (2010). Vibrant matter: A political ecology of things . Duke University Press. Retrieved from https:/ /books.google.
+com.au/books?id=Vok4FxXvZioC
+Biedermann, S. (2020). How to be a good holobiont? Relating during the COVID-19 pandemic.  EASST Revie w, 39(1), 1.   
+https:/ /easst.net/article/how-to-be-a-good-holobiont-relating-during-the-covid-19-pandemic/
+Broom, A., Kenny, K., Prainsack, B., & Broom, J. (2021). Antimicrobial resistance as a problem of values? Views from three 
+continents. Critical Public Health , 31(4), 451–463. https:/ /doi.org/10.1080/09581596.2020.1725444
+Caroppo, E., Mazza, M., Sannella, A., Marano, G., Avallone, C., Claro, A. E., Janiri, D., Moccia, L., Janiri, L., & Sani, G. (2021). Will 
+nothing Be the same again?: Changes in lifestyle during COVID-19 pandemic and consequences on mental health. Inter -
+national Journal of Environmental Research and Public Health , 18(16), 8433. https:/ /doi.org/10.3390/ijerph18168433
+Carpenter, S. (2021). The race to develop plastic-eating bacteria. Forbes Retrieved from https:/ /www.forbes.com/sites/scot 
+tcarpenter/2021/03/10/the-race-to-develop-plastic-eating-bacteria/?sh=bb3232b7406a
+Carrington, D. (2021). Microbes and solar power ‘could produce 10 times more food than plants’ . The Guardian. Retrieved from 
+https:/ /www.theguardian.com/environment/2021/jun/21/microbes-and-solar-power-could-produce-10-times-more-  
+food-than-plants
+Clark, N., & Hird, M. (2018). Microontologies and the politics of emergent life. In M. Coleman & J. Agnew (Eds.), Handbook 
+on the geographies of power  (pp. 245–258). Edward Elgar Publishing. https:/ /doi.org/10.4337/9781785365645.00023
+Coole, D., & Frost, S. (2010). New materialisms: Ontology, agency, and politics . Duke University Press. Retrieved from https:/ /
+books.google.com.au/books?id=UFhBBKKTkMoC
+Country, B., Suchet-Pearson, S., Wright, S., Lloyd, K., & Burarrwanga, L. (2013). Caring as Country: Towards an ontology of 
+co-becoming in natural resource management. Asia Pacific Viewpoint , 54(2), 185–197. https:/ /doi.org/10.1111/apv.12 
+018
+Country, B., Wright, S., Suchet-Pearson, S., Lloyd, K., Burarrwanga, L., Ganambarr, R., Ganambarr-Stubbs, M., Ganambarr, B., 
+& Maymuru, D. (2015). Working with and learning from Country: Decentring human author-ity. Cultural Geographies , 
+22(2), 269–283. https:/ /doi.org/10.1177/1474474014539248
+Coutts, C., & Hahn, M. (2015). Green infrastructure, ecosystem services, and human health. International Journal of Environmental 
+Research and Public Health , 12(8), 9768–9798. https:/ /doi.org/10.3390/ijerph120809768. http:/ /www.mdpi.com/166  
+0-4601/12/8/9768
+Davenport, E. R., Sanders, J. G., Song, S. J., Amato, K. R., Clark, A. G., & Knight, R. (2017). The human microbiome in evolution. 
+BMC Biology , 15(1), 127. https:/ /doi.org/10.1186/s12915-017-0454-7
+de Vet, E. (2013). Exploring weather-related experiences and practices: Examining methodological approaches. Area , 45(2), 
+198–206. https:/ /doi.org/10.1111/area.12019
+Díaz, S., Settele, J., Brondízio, E. S., Ngo, H. T., Guèze, M., Agard, J., Arneth, A., Balvanera, P., Brauman, K. A., Butchart, S. H. M., 
+Chan, K. M. A., Garibaldi, L. A., Ichii, K., Liu, J., Subramanian, S. M., Midgley, G. F., Miloslavich, P., Molnár, Z., Obura, D., & 
+Zayas, C. N. (2019). Summary for policymakers of the global assessment report on biodiversity and ecosystem services 
+of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services.
+Doron, A., & Broom, A. (2019). The spectre of superbugs: Waste, structural violence and antimicrobial resistance in India. 
+Worldwide Waste: Journal of Interdisciplinary Studies , 2(1). https:/ /doi.org/10.5334/wwwj.20
+Douglas, I. (2008). Environmental change in peri-urban areas and human and ecosystem health. Geography Compass , 2(4), 
+1095-1137. https:/ /doi.org/10.1111/j.1749-8198.2008.00122.x
+Editorial (2011). Microbiology by numbers. Nature Reviews Microbiology , 9(9), 628. https:/ /doi.org/10.1038/nrmicro2644
+Flegr, J. (2007). Effects of toxoplasma on human behavior. Schizophrenia Bulletin , 33(3), 757–760. https:/ /doi.org/10.1093/
+schbul/sbl074
+Flies, E. J., Skelly, C., Negi, S. S., Prabhakaran, P., Liu, Q., Liu, K., Goldizen, F. C., Lease, C., & Weinstein, P. (2017). Biodiverse 
+green spaces: A prescription for global urban health. Frontiers in Ecology and the Environment , 15(9), 510–516. https:/ /
+doi.org/10.1002/fee.1630
+Gest, H. (2004). The discovery of microorganisms by Robert Hooke and Antoni van Leeuwenhoek, fellows of the royal society. 
+Notes and Records of the Royal Society of London , 58(2), 187-201. https:/ /doi.org/10.1098/rsnr.2004.0055
+Graham, S. (2015). Life support: The political ecology of urban air. City, 19(2–3), 192–215. https:/ /doi.org/10.1080/13604
+813.2015.1014710
+Greenhough, B. (2010). Vitalist geographies: Life and the more-than-human. In B. Anderson & P. Harrison (Eds.), Taking- 
+place non-representational theories and geography  (pp. 37–54). Ashgate Publishing Ltd.
+Greenhough, B. (2011). Citizenship, care and companionship: Approaching geographies of health and bioscience. Progress in 
+Human Geography , 35(2), 153–171. https:/ /doi.org/10.1177/0309132510376258
+Greenhough, B. (2012). Where species meet and mingle: Endemic human-virus relations, embodied communication and 
+more-than-human agency at the common cold unit 1946–90. Cultural Geographies , 19(3), 281–301. https:/ /doi.org/ 
+10.1177/1474474011422029
+Greenhough, B., Read, C. J., Lorimer, J., Lezaun, J., McLeod, C., Benezra, A., Bloomfield, S., Brown, T., Clinch, M., D’Acquisto, 
+F., Dumitriu, A., Evans, J., Fawcett, N., Fortané, N., Hall, L. J., Giraldo Herrera, C. E., Hodgetts, T., Johnson, K. V.-A., 
+11 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+Kirchhelle, C., & Wills, J. (2020). Setting the agenda for social science research on the human microbiome. Palgrave 
+Communications , 6(1), 18. https:/ /doi.org/10.1057/s41599-020-0388-5
+Greenhough, B., Dwyer, A., Grenyer, R., Hodgetts, T., McLeod, C., & Lorimer, J. (2018). Unsettling antibiosis: How might inter -
+disciplinary researchers generate a feeling for the microbiome and to what effect? Palgrave Communications , 4(1), 149. 
+https:/ /doi.org/10.1057/s41599-018-0196-3
+Haraway, D. J. (2008). When species meet . University of Minnesota Press. Retrieved from https:/ /books.google.com.au/boo 
+ks?id=RXSq8sZ9nsEC
+Haraway, D. J. (2016). Staying with the trouble: Making kin in the chthulucene . Duke University Press.
+Hinchliffe, S. (2015). More than one world, more than one health: Re-Configuring interspecies health. Social Science & Medi -
+cine, 129, 28–35. https:/ /doi.org/10.1016/j.socscimed.2014.07.007
+Hinchliffe, S., Allen, J., Lavau, S., Bingham, N., & Carter, S. (2013). Biosecurity and the topologies of infected life: From borderlines 
+to borderlands. Transactions of the Institute of British Geographers , 38(4), 531–543. https:/ /doi.org/10.1111/j.1475-566  
+1.2012.00538.x
+Hird, M. (2009). The origins of sociable life: Evolution after science studies  (1st ed.). Palgrave Macmillan UK. https:/ /doi.org/ 
+10.1057/9780230242210
+Hitchings, R. (2003). People, plants and performance: On actor network theory and the material pleasures of the private 
+garden. Social and Cultural Geography , 4(1), 99–114. https:/ /doi.org/10.1080/1464936032000049333
+Hitchings, R. (2021). The unsettling outdoors: Environmental estrangement in everyday life . Wiley. Retrieved from https:/ / 
+books.google.com.au/books?id=zMI3EAAAQBAJ
+Hitchings, R., & Lee, S. J. (2008). Air conditioning and the material culture of routine human encasement: The case of young people 
+in contemporary Singapore. Journal of Material Culture , 13(3), 251–265. https:/ /doi.org/10.1177/1359183508095495
+Hodgetts, T., Grenyer, R., Greenhough, B., McLeod, C., Dwyer, A., & Lorimer, J. (2018). The microbiome and its publics. EMBO 
+Reports , 19(6), e45786. https:/ /doi.org/10.15252/embr.201845786
+Houston, D., Hillier, J., MacCallum, D., Steele, W., & Byrne, J. (2018). Make kin, not cities! Multispecies entanglements and 
+‘becoming-world’ in planning theory. Planning Theory , 17(2), 190-212. https:/ /doi.org/10.1177/1473095216688042
+Huang, S., Haiminen, N., Carrieri, A.-P., Hu, R., Jiang, L., Parida, L., Russell, B., Allaband, C., Zarrinpar, A., Vázquez-Baeza, Y., 
+Belda-Ferre, P., Zhou, H., Kim, H.-C., Swafford, A. D., Knight, R., & Xu, Z. Z. (2020). Human skin, oral, and gut microbi -
+omes predict chronological age. mSystems , 5(1), e00630–e00619. https:/ /doi.org/10.1128/mSystems.00630-19
+Ishaq, S. L., Rapp, M., Byerly, R., McClellan, L. S., O'Boyle, M. R., Nykanen, A., Fuller, P.  J., Aas, C., Stone, J. M., Killpatrick, S., 
+Uptegrove, M. M., Vischer, A., Wolf, H., Smallman, F., Eymann, H., Narode, S., Stapleton, E., Cioffi, C. C., & Tavalire, H. 
+F. (2019). Framing the discussion of microorganisms as a facet of social equity in human health. PLoS Biology , 17(11), 
+e3000536. https:/ /doi.org/10.1371/journal.pbio.3000536
+Kanngieser, A., & Todd, Z. (2020). From environmental case study to environmental kin study. History and Theory , 59(3), 
+385-393. https:/ /doi.org/10.1111/hith.12166
+Karki, M., Senaratna Sellamuttu, S., Okayasu, S., Suzuki, W., Acosta, L. A., Alhafedh, Y., Anticamara, J. A., Ausseil, A. G., Davies, 
+K., Gasparatos, A., Gundimeda, H., Faridah-Hanum, I., Kohsaka, R., Kumar, R., Managi, S., Wu, N., Rajvanshi, A., Rawat, 
+G. S., Riordan, P., & Youn, Y. C. (2018). Summary for policymakers of the regional assessment report on biodiversity 
+and ecosystem services for Asia and the Pacific of the intergovernmental science-policy platform on biodiversity and 
+ecosystem services.
+Kramer, A., & Kramer, K. Z. (2020). The potential impact of the Covid-19 pandemic on occupational status, work from home, 
+and occupational mobility. Journal of Vocational Behavior , 119, 103442. https:/ /doi.org/10.1016/j.jvb.2020.103442
+Krzywoszynska, A. (2019). Caring for soil life in the Anthropocene: The role of attentiveness in more-than-human ethics. 
+Transactions of the Institute of British Geographers , 44(4), 661–675. https:/ /doi.org/10.1111/tran.12293
+Leung, M. H. Y., & Lee, P.  K. H. (2016). The roles of the outdoors and occupants in contributing to a potential pan-mi -
+crobiome of the built environment: A review. Microbiome , 4(1), 21. https:/ /doi.org/10.1186/s40168-016-01 
+65-2
+Lobo, M. (2019). Affective ecologies: Braiding urban worlds in Darwin, Australia. Geoforum , 106, 393–401. https:/ /doi.org/ 
+10.1016/j.geoforum.2019.02.026
+Loder, A. (2014). ‘There's a meadow outside my workplace’: A phenomenological exploration of aesthetics and green roofs in 
+chicago and toronto. Landscape and Urban Planning , 126, 94–106. https:/ /doi.org/10.1016/j.landurbplan.2014.01.008
+Lorimer, J. (2016). Gut buddies: Multispecies studies and the microbiome.  Environmental Humanitie s, 8(1), 57–76.  https:/ /  
+doi.org/10.1215/22011919-3527722
+Lorimer, J. (2017). Parasites, ghosts and mutualists: A relational geography of microbes for global health. Transactions of the 
+Institute of British Geographers , 42(4), 544–558. https:/ /doi.org/10.1111/tran.12189
+Lorimer, J. (2019). Hookworms make us human: The microbiome, eco-immunology, and a probiotic turn in Western health 
+care. Medical Anthropology Quarterly , 33(1), 60–79. https:/ /doi.org/10.1111/maq.12466
+Lorimer, J. (2020). The probiotic Planet: Using life to manage life . University of Minnesota Press. Retrieved from https:/ / 
+books.google.com.au/books?id=HwmLzQEACAAJ
+12 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+Maller, C. (2018). Healthy urban environments: More-than-human theories . Routledge.
+McKie, R. (2022). Magnets made by soil bacteria offer hope for breast and prostate cancer . The Guardian. Retrieved from 
+https:/ /www.theguardian.com/science/2022/may/08/magnets-made-by-soil-bacteria-offer-hope-for-breast-and-pro  
+state-cancer?CMP=Share_iOSApp_Other
+McLauchlan, C., Gomis, L. L., & Cooper, P. (2017). Impact of a pilot draught sealing Program on public housing air permeability. 
+Energy Procedia , 121, 18-25. https:/ /doi.org/10.1016/j.egypro.2017.08.003
+Meadow, J. F., Altrichter, A. E., Bateman, A. C., Stenson, J., Brown, G. Z., Green, J. L., & Bohannan, B. J. M. (2015). Humans 
+differ in their personal microbial cloud  (Vol. 2015), e1258. PeerJ. https:/ /doi.org/10.7717/peerj.1258
+Mills, J. G., Weinstein, P., Gellie, N. J. C., Weyrich, L. S., Lowe, A. J., & Breed, M. F. (2017). Urban habitat restoration provides a 
+human health benefit through microbiome rewilding: The microbiome rewilding hypothesis. Restoration Ecology , 25(6), 
+866–872. https:/ /doi.org/10.1111/rec.12610
+Mol, A. (2002). The body multiple: Ontology in medical practice . Duke University Press. Retrieved from https:/ /books.google.
+com.au/books?id=qdltz8N9qSEC
+Myers, Z. (2019). Wildness and wellbeing: Nature, neuroscience, and urban design . Palgrave Macmillan.
+O'Doherty, K. C., Virani, A., & Wilcox, E. S. (2016). The human microbiome and public health: Social and ethical considera -
+tions. American Journal of Public Health , 106(3), 414–420. https:/ /doi.org/10.2105/AJPH.2015.302989
+Oppermann, E., Strengers, Y., Maller, C., Rickards, L., & Brearley, M. (2018). Beyond threshold approaches to extreme heat: Repo -
+sitioning adaptation as everyday practice. Weather, Climate, and Society , 10(4), 885–898. https:/ /doi.org/10.1175/wca  
+s-d-17-0084.1
+Paxson, H. (2008). Post-pasteurian cultures: The microbiopolitics of raw-milk cheese in the United States. Cultural Anthropol -
+ogy, 23(1), 15-47. https:/ /doi.org/10.1111/j.1548-1360.2008.00002.x
+Philo, C. (1995). Animals, geography, and the city: Notes on inclusions and exclusions. Environment and Planning D: Society and 
+Space , 13(6), 655–681. https:/ /doi.org/10.1068/d130655
+Porter, L., Hurst, J., & Grandinetti, T. (2020). The politics of greening unceded lands in the settler city. Australian Geographer , 
+51(2), 1–18. https:/ /doi.org/10.1080/00049182.2020.1740388
+Power, E. R. (2012). Domestication and the dog: Embodying home. Area , 44(3), 371–378. https:/ /doi.org/10.1111/j.1475-
+4762.2012.01098.x . http:/ /search.ebscohost.com/login.aspx?direct=true&db=s3h&AN=78386567&site=ehost-live& -
+scope=site
+Power, E. R., & Williams, M. J. (2020). Cities of care: A platform for urban geographical care research. Geography Compass , 
+14(1), e12474. https:/ /doi.org/10.1111/gec3.12474
+Puig de la Bellacasa, M. (2012). ‘Nothing comes without its world’: Thinking with care. The Sociological Review , 60(2), 197–216. 
+https:/ /doi.org/10.1111/j.1467-954X.2012.02070.x
+Puig de la Bellacasa, M. (2015). Making time for soil: Technoscientific futurity and the pace of care. Social Studies of Science , 
+45(5), 691–716. https:/ /doi.org/10.1177/0306312715599851
+Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more than human worlds . University of Minnesota Press. 
+Retrieved from https:/ /muse.jhu.edu/book/50528
+Puig de la Bellacasa, M. (2019). Re-animating soils: Transforming human–soil affections through science, culture and commu -
+nity. The Sociological Review , 67(2), 391–407. https:/ /doi.org/10.1177/0038026119830601
+Robertson, S. A. (2020). Re-placing soil and its mattering in more-than-human cities. Australian Geographer , 51(3), 307–324. 
+https:/ /doi.org/10.1080/00049182.2020.1785135
+Robinson, J. M., Cando-Dumancela, C., Liddicoat, C., Weinstein, P., Cameron, R., & Breed, M. F. (2020). Vertical stratification in 
+urban green space aerobiomes. Environmental Health Perspectives , 128(11), 117008. https:/ /doi.org/10.1289/EHP7807
+Robinson, J. M., & Jorgensen, A. (2020). Rekindling old friendships in new landscapes: The environment–microbiome–health 
+axis in the realms of landscape research. People and Nature , 2(2), 339-349. https:/ /doi.org/10.1002/pan3.10082
+Sarihi, S., Mehdizadeh Saradj, F., & Faizi, M. (2021). A critical review of façade retrofit measures for minimizing heating and 
+cooling demand in existing buildings. Sustainable Cities and Society , 64, 102525. https:/ /doi.org/10.1016/j.scs.2020. 
+102525
+Seal, R. (2021).  Unlocking the ‘gut microbiome’ – and its massive significance to our healt h. The Guardian. Retrieved from  
+https:/ /www.theguardian.com/society/2021/jul/11/unlocking-the-gut-microbiome-and-its-massive-significance-to-o  
+ur-health
+Shepherd, T. (2022). Super poo: The emerging science of stool transplants and designer gut bacteria . The Guardian. Retrieved from 
+https:/ /www.theguardian.com/australia-news/2022/jan/03/super-poo-the-emerging-science-of-stool-transplants-  
+and-designer-gut-bacteria?CMP=Share_iOSApp_Other
+Shove, E., Walker, G., & Brown, S. (2014). Transnational transitions: The diffusion and integration of mechanical cooling. 
+Urban Studies , 51(7), 1506–1519. https:/ /doi.org/10.1177/0042098013500084
+Spotswood, E. N., Beller, E. E., Grossinger, R., Grenier, J. L., Heller, N. E., & Aronson, M. F. J. (2021). The biological deserts 
+fallacy: Cities in their landscapes contribute more than we think to regional biodiversity. BioScience , 71(2), 148–160. 
+https:/ /doi.org/10.1093/biosci/biaa155
+13 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+MALLER
+Tallbear, K. (2011). Why interspecies thinking needs Indigenous standpoints. Fieldsights(November 18) Retrieved from 
+https:/ /culanth.org/fieldsights/why-interspecies-thinking-needs-indigenous-standpoints
+Todd, Z. (2016). An Indigenous feminist's take on the ontological turn: ‘Ontology’ is just another word for colonialism. The 
+Journal of Historical Sociology , 29(1), 4–22. https:/ /doi.org/10.1111/johs.12124
+Tuck, E., Stepetin, H., Beaulne-Stuebing, R., & Billows, J. (2022). Visiting as an Indigenous feminist practice. Gender and Educa -
+tion, 1–12. ahead-of-print(ahead-of-print). https:/ /doi.org/10.1080/09540253.2022.2078796
+Turnbaugh, P.  J., Ley, R. E., Hamady, M., Fraser-Liggett, C. M., Knight, R., & Gordon, J. I. (2007). The human microbiome 
+project. Nature , 449(7164), 804–810. https:/ /doi.org/10.1038/nature06244
+Tynan, L. (2021). What is relationality? Indigenous knowledges, practices and responsibilities with kin. Cultural Geographies , 
+28(4), 597–610. https:/ /doi.org/10.1177/14744740211029287
+United Nations General Assembly. (2016). The New Urban Agenda Explainer. United Nations Conference on Housing and 
+Sustainable Urban Development (Habitat III), 17–20 October. United Nations. Quito, Ecuador: 24. http:/ /resilientneighbors. 
+com/wp-content/uploads/2016/12/NUA-explained.pdf
+Villarreal, L. P. (2004). Are viruses alive? Scientific American , 291(6), 100–105. https:/ /doi.org/10.1038/scientificamerican12 
+04-100. http:/ /www.jstor.org/stable/26060805
+Wakefield-Rann, R. (2021). Life indoors: How our homes are shaping our bodies and our Planet . Springer Singapore. Retrieved 
+from https:/ /books.google.com.au/books?id=r9xFEAAAQBAJ
+Wakefield-Rann, R., Fam, D., & Stewart, S. (2018). Routine exposure: Social practices and environmental health risks in the 
+home. Social Theory and Health , 18(4), 299–316. https:/ /doi.org/10.1057/s41285-018-00084-8
+Wakefield-Rann, R., Fam, D., & Stewart, S. (2020). Microbes, chemicals and the health of homes: Integrating theories to account 
+for more-than-human entanglements. BioSocieties , 15(2), 182–206. https:/ /doi.org/10.1057/s41292-019-00147-7
+Watts, V. (2013). Indigenous place-thought and agency amongst humans and non humans (first woman and sky woman go on 
+a European world tour!). Decolonization: Indigeneity, Education & Society , 2(1), 20–34.
+WHO, and SCBD. (2015). Connecting global priorities: Biodiversity and human health A state of knowledge review.
+Winter, T. (2013). An uncomfortable truth: Air-conditioning and sustainability in Asia. Environment and Planning , 45(3), 
+517–531. https:/ /doi.org/10.1068/a45128. http:/ /www.envplan.com/ab stract.cgi?id=a45128
+Wright, S., & Tofa, M. (2021). Weather geographies: Talking about the weather, considering diverse sovereignties. Progress in 
+Human Geography , 45(5), 1126–1146. https:/ /doi.org/10.1177/0309132520982949
+Yong, E. (2016). I contain multitudes: The microbes within us and a grander view of life . The Bodley Head. Retrieved from  
+https:/ /books.google.com.au/books?id=IGdljgEACAAJ
+You, R., Cui, W., Chen, C., & Zhao, B. (2013). Measuring the short-term emission rates of particles in the “personal cloud” with 
+different clothes and activity intensities in a sealed chamber. Aerosol and Air Quality Research , 13(3), 911–921. https:/ /
+doi.org/10.4209/aaqr.2012.03.0061
+Zimmer, C. (2018). Scientists are retooling bacteria to cure disease . The New York Times. Retrieved from https:/ /www.nyti 
+mes.com/2018/09/04/health/synthetic-biology-pku.html
+AUTHOR BIOGRAPHY
+How to cite this article:  Maller, C. J. (2023). Resetting urban human-microbial relations in pandemic times. 
+Geography Compass , 17(3), e12680. https:/ /doi.org/10.1111/gec3.12680Dr Cecily Jane Maller  is an Associate Professor at RMIT University's School of Global, Urban and Social Studies 
+in Melbourne. As co-leader of the People and Environment Program she researches human-environment interac -
+tions using post-humanist theories and qualitative methods. Although an interdisciplinary scholar, Cecily's work 
+is broadly situated in human geography, specialising in theoretically informed approaches, in particular theories 
+of social practice. Dr Maller has recently published a monograph titled ‘Healthy urban environments: More-than-
+human theories’ (2018, Routledge) and was lead editor on ‘Social practices and dynamic non-humans: Nature, 
+materials and technologies’ (2019, Palgrave Macmillan).
+14 of 14
+ 17498198, 2023, 3, Downloaded from https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12680 by Capes, Wiley Online Library on [03/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

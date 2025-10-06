@@ -1,0 +1,441 @@
+Relating to Soil:  
+ Chromatography as a Tool for Environmental Engagement
+Anton Poikolainen Rosén
+Media technology, Södertörn University, Stockholm 
+& Informatics, Umeå University, Sweden 
+anton.poikolainen.rosen@sh.se 
+ABSTRACT
+Due to the ongoing environmental crisis, there is 
+an increased interest in technologies that strengthen relations to the environment. This pictorial contributes to a broader discussion in HCI on how technologies could create a different understanding of and relationship to the more-than-human world. It focuses on soil care practices, and how current (limited) capacities of digital sensing could be complemented with soil chromatography – a qualitative chemical test method for visually assessing soil health. The pictorial is based on a series of workshops conducted in an urban community farm. The discussion focuses on how interactive technologies may support the process of conducting and interpreting soil chromatography and what it means to study, care for, and design with the more-than-human.
+Authors Keywords
+More-than-human; Citizen Science; Sustainability. 
+CSS Concepts
+•Human computer interaction (HCI)
+Permission to make digital or hard copies of part or all of this work for personal 
+or classroom use is granted without fee provided that copies are not made or 
+distributed for profit or commercial advantage and that copies bear this notice and 
+the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the Owner/Author .
+DIS ‘22, June 13–17, 2022, Virtual Event, Australia© 2022 Copyright is held by the owner/author(s).
+ACM ISBN 978-1-4503-9358-4/22/06.
+https://doi.org/10.1145/3532106.3533503 
+ 
+ 
+Image 1. A soil chromatogram.
+INTRODUCTION
+We need to care more holistically for the environment. 
+Recent HCI research has focused on how technologies could create a different understanding of and relationship to nature, or the more-than-human world [1,3,4,7,12,26,30,31]. One aspect of this concerns how environmental data can help us to care for the needs and subjectivities of multiple species [13,18,22,24]. This relates to citizen science [5,16,21,27,37,40,45] where ‘ordinary people’ probe the environment with assemblages of low-cost technologies and materials. A typical example is the crowdsourcing of data with air quality sensors [10,18,19]. However, caution has been raised that the reduction of rich physical phenomena to discrete digital representations narrows focus and potentially disengages users from broader contexts of interest [6,14,24]. Answering this caution, HCI research has broadened its scope through including simple chemical tests as part of interactive designs [22,23]. Adding to the corpus of such examples, this pictorial focuses on paper chromatography of soil as a simple and low-cost chemical test for noticing environmental conditions (see Image 1). The pictorial is based on images taken during a series of workshops on soil chromatography in an urban farming community in Stockholm, Sweden.  
+The contribution is threefold: (1) a description and 
+analysis focused on the experience of conducting soil chromatography, including the gathering of soil samples, conducting the steps of chemical analysis interpreting the results (2) a discussion of how interaction design may support this process, particularly in stages of interpretation and (3) the use of soil chromatography as a proxy for spurring discussions on design as a relational   
+1640
+
+and agenting thing [44] (rather than a particular artefact) 
+where we collectively focus on creating good relations in a more-than-human world. This implies that the pictorial is not a walk through with instructions on how to conduct and interpret soil chromatography. Neither is it a scientific evaluation of how, or how well, soil chromatography can measure conditions in soil. Instead, the pictorial contributes to research on design for the more-than-human world through a discussion of opportunities and challenges for soil chromatography to visualize environmental conditions and relations, and the implications this may have for HCI on a more ontological level. 
+From soil crisis to living food webs
+One of the urban farmers participating in the study asked the others “Are you aware of the ongoing resource crises we have on earth ?” (P1). She referred to the planetary 
+boundaries report [41], that show how an imbalance in the carbon, nitrogen and phosphorous cycles leads to depleted soils – an issue in caliber with the climate crisis and biodiversity loss. This issue is rooted in how the dominant mode for understanding soil has been to pace its fertility with human demand. This has resulted in practices such as fertilizing monocultures with finite fossil resources. Scholars have begun to challenge this approach to soil [25,39]. Likewise, the participating urban farmers adhered with other environmental activists and practitioners who promote seeing soil as living. In these groups, food web models have become popular figures for describing alternative human-soil relations [38,39]. These models describe the complex interactions between species that allow the circulation of nutrients and energy. The urban farmers were looking for methods and tools to better understand their soils as living food webs. Chromatography is one such method.   
+Soil chromatography – Portraits of soil
+Paper chromatography of soil is a qualitative method for measuring soil health. By dissolving a soil sample and letting it soak up through a cotton thread to a paper, different components of the solution are separated by weight (in accordance with the scientific laws of capillary action and gravity). The paper is prepared with silver nitrate which when exposed to light reacts with the separated components, making them more visually distinct. This is similar to the development of analogue photos. Thus, the result is often framed as a “soil portrait” [11]. Several studies show how nutrients are separated by the capillary action of the paper in specifically identifiable patterns [8,9,20]. By analyzing the patterns that appear on the paper, the health of the soil in terms of minerals, humus and microorganisms can be interpreted. The method is intuitive and includes qualitative or even aesthetic assessments of the relation between form, color, and pattern. Interpretations may focus on the relationship between “zones” and “channels” (See Figure 15), the appearance of movement or stagnation and whether the chromatogram appears integral and whole. Typically, these kinds of qualitative judgments cohere with more scientific, abstract or ‘drier’ analyses of chromatograms [8,9,20].  
+Soil chromatography is primarily used in permaculture 
+communities that aim to farm by harnessing and mimicking naturally occurring processes, and small-scale farmers in developing countries. In these contexts, research highlights that proper assessment of chromatograms arises from experience, and from attention to the entire context of the cultivation and its cultural practices [11,20]. Like all representations of reality, chromatograms only provide a partial image. However, in contrast to many discrete digital representations, chromatograms are multifaceted, which offers an opportunity for a more nuanced and qualitative understanding of the environment. Soil chromatography can thus be framed as an attentive practice of ‘noticing’. HCI research has recently shown interest in such attentive practices, including noticing slight changes within the body [15] and environmental processes [32,33]. These attentive practices often include aesthetic sensibility and appreciation. Important qualities highlighted in such attentive practice are slowing down, creating space, and attending to needs beyond the self [15,28,32,33,42].METHOD
+This pictorial is based on five workshops conducted as part of three years of participant observation studies of an urban permaculture farm in Stockholm, Sweden (See [34,36] for detailed accounts of the observation studies). The urban farmers conducted informal workshops where a particular expertise was shared with others. Aligning with this practice, the author of this paper conducted workshops on soil chromatography with the community. This approach of “scientists as citizens” has been called for to drive sustainable HCI toward citizen empowerment [16]. The four other participants were: two middle aged women (P1, P2), one retired man (P3) and one male university student (P4). Given the relatively advanced nature of the workshops it was important the participants expressed interest in soil health. This limited the group to a few relatively well-educated and driven individuals. Since soil chromatography involves extended periods of waiting, the workshops were conducted over two subsequent days. To support noticing overtime the workshops were conducted on several occasions during a summer. Notably, the participating urban farmers plan to continue conducting chromatography, hoping to compare chromatograms over several years. This long-term environmental measuring is promising, while data on this aspect is still limited.
+The events before, during and after the workshops were 
+photographed (totaling 1072 images). 70 images were selected as portraying something of particular interest, as guided by insights from previous ethnographic engagement with the community. These images were compiled with related quotes from the fieldnotes, and short annotations of analytical interest. A last cut of 22 images was made based on qualities of the images (composition, sharpness, light etc.), while making sure that all steps off the process and analytical themes were covered. Three pictures of soil chromatograms were additionally edited to illustrate how the urban farmers used photo editing in their smartphones to interpret the chromatograms. 
+1641
+The limits of digital tools 
+The urban farmers were interested in noticing the 
+environmental conditions of their cultivation to improve plant and soil health. For example, they used a digital (but not networked) meat thermometer to measure and track the temperature of a heat compost where it was important to reach a temperature over 60 degrees Celsius to kill harmful bacteria and sterilize unwanted seeds. The thermometer was framed by some urban farmers as a complement to their own senses “If you say ‘ouch’ 
+when you insert your hand in the compost it is warm enough.” (P2) (Image 3). Other urban farmers relied fully on the technology to take measurements, while wearing gloves for protection (Image 2). This example shows how technological devices made environmental information more easily or directly available, especially to less experienced urban farmers. However, they further illustrate how available sensing devices such as temperature-, moisture-, and light sensors mostly provided information about environmental conditions that the urban farmers could already perceive with their own senses, and thus where not particularly interested in. Instead, the urban farmers wanted to experience soil beyond what was immediately perceptible, to know for example the composition of soil nutrition and microbial life. There was no device available to the urban farmers that could provide this information. They thus turned to methods that required chemical testing. Such soil care practices have been highlighted as a “site of hope” [2] given the relatively low barriers to entry and openness to experimentation which invites widespread, bottom-up discovery.  
+Image 2. Using a thermometer with gloves on.
+ Image 3. Using a thermometer with bare hands.
+1642
+Preparing the samples 
+The first step of soil chromatography is to gather and 
+prepare soil samples. The urban farmers took soil samples from places in the cultivation which they suspected to be polluted, particularly fertile or have deficient nutrition (See Image 6, left). Their hope was to produce chromatograms with distinctly different features. Some urban farmers additionally brought soil samples from their private gardens. Throughout the process, the urban farmers used an assemblage of tools that happened to be available. The same tool could be used for different purposes, even purposes they were not intended for. Image 4 illustrates an alternative way of grinding the samples, since the community only had one mortar. Another example of creative tool use is depicted in Image 7. In this step, it was easy to accidentally make too big holes, which caused the cotton thread to lose tight contact with the paper, thus obstructing the transfer of solution to the paper. Simultaneously, it was hard to get the thread through a tight hole. One cultivator exclaimed “Whoops, now I licked on the thread. Will 
+it contaminate the sample?  (P2). The tubes with soil 
+samples (see Image 7, right) were occasionally mixed up, for example because the name of the sample had rubbed off. These examples, and the examples in Figure 8-11, illustrate how hard it was to maintain a rigorous and reliable procedure. Even the instructions online varied slightly depending on source, as displayed on a wiki-style web page on the laptop in Image 4.
+Image 4. Grinding soil with a hammer on a stone.
+ Image 5. Instructions on soil chromatography.
+Image 6. Digging for a soil sample while talking on the 
+phone and tubes with collected soil samples.  
+IImage 7. Grinding soil in a mortal. Using a 
+thermometer to make holes for a cotton thread.
+1643
+A messy process
+The second steps of the process included light sensitive 
+silver nitrate and was performed in a shed, since it was the darkest space available (black and white photography is used to convey what happened in this dark space). However, as evident in Image 9, sunlight was slipping in. This illustrates how the chromatograms were less reliable due to environmental conditions during their production.
+Further, the urban farmers had no tool for weighing in 
+intervals of grams. Instead, they converted approximate 
+measures specified in grams to milliliters. One urban 
+farmer commented “ You only cope scientifically 
+to a certain point, then I let it be. Let’ s say that was representative.”  (P1). Thus, the concentration of 
+solutions varied slightly between different batches. To counterweigh this ambiguity, the urban farmers established situated baselines “How many drops of 
+silver nitrate is 0.5 ml? Let’ s say it’ s 10 and use that from now on.” (P4). 
+With time, the urban farmers improved the organization 
+of space to keep order. On the first occasion samples were placed on the table in an unstructured way as they were prepared. To protect from light, buckets that happened to be close were placed over the samples scattered across the table. Samples were mixed up and contaminated. Learning from this mistake, Image 10 depicts a later and more structured occasion where the samples were evenly spaced with buckets of the same size.
+The papers were typically fully soaked in 2-12 hours. 
+Nevertheless, they were occasionally left for weeks ”I 
+thought that I had one more step left in the process, so I didn’t dare to take them out [from the light covering buckets].” (P1). These samples had evaporated and crystalized, as shown in Image 11
+. 
+Image 8. Preparing papers with silver nitrate.
+ Image 9. Measuring drops of silver nitrate.                                                                              
+Image 10. Protecting the samples from light with 
+buckets evenly spaced out.
+Image 11. Evaporated and crystalized samples.
+1644
+Appreciating a slow process
+In the last step before interpretation, the chromatograms 
+were developed in indirect sunlight. The woman in Image 12 was eager to immediately interpret the chromatograms but found it difficult because of the lack of pronounced contours and colors (Image 13). When reminded that the chromatograms should be developed first, she exclaimed “oh yes, damn how slow I am at 
+grasping this” (P1).
+This example illustrates how it was not always easy to 
+keep track of all steps of the process, and that the urban farmers sometimes wanted the process to progress faster than the inherent duration of chemical and physical processes. Nevertheless, after the initial restlessness, they reframed the situation as a matter of working with the pace of naturally occurring processes and aimed to be mindful about this “the sun affects the papers slowly, just as it affects the plants slowly”  (P3). 
+The finished chromatograms were hung on a wire initially built for communicating gardening tasks (Image 14). This visible placement of the chromatograms highlights how they were aesthetically appreciated as manifestations of the soil to be discussed in a social setting. Notably, smartphone photography was an important part of this practice, for example to remember where soil samples were taken (Image 12 and 15). 
+Image 12. Taking pictures of chromatograms on
+ development in the indirect sunlight of a greenhouse.  
+Image 13. A chromatogram on development. Channels 
+are noy yet present and colours are weak. 
+Image 14. A visitor to the urban farm interprets and 
+appreciates soil chromatograms.
+Image 15. Searching for an image of where soil 
+samples were taken.
+1645
+Intepreting the soil chromatograms
+The interpretation of chromatograms was framed 
+by the participants as both an enjoyable and challenging experience. The process often begun with appreciating aesthetic qualities “it’ s very beautiful, 
+like a sun. I want to hang it on my wall ” (P2).
+According to previous research, strong differen -
+tiation of the rings and intense coloration of the chan -
+nels and spikes are signs of nutritious soil (Image 16), 
+while pattern differentiation, few spikes, and blurred 
+colors indicate an unfertile soil (Image 17) [8,9,20].
+While these patterns were expressed as easy to 
+interpret, the meaning of specific colors were expressed as hard to interpret. For example, it was hard to distinguish nuances of brown. Further the colors of the chromatograms changed in different light. 
+By comparing chromatograms from the same place 
+over time the urban farmers aimed to judge if the soil health had improved. However, they were unsure about the comparability of the samples given the inconsistent procedure as described above.   
+In sum, the workshops highlighted a space of opportunities 
+rather than exact answers on how chromatography could be used to interpret soil health. One urban farmer ideated the opportunities to develop a more rigorous method for interpreting chromatograms “ I want to do this with 
+known chemical compounds, like liquid fertilizers you buy from the store. Then I would use the chromatogram as an example of what phosphorus looks like. I want to create a periodic table of soil chromatograms.”  (P2).
+Image 16. A chromatogram that indicates fertile soil.
+ 1. Inner zone with heavy material such as minerals.
+ 2. Middle zone with lighter material such as organic 
+humus. 3. Outer zone with the lightest material such as 
+enzymes and proteins, indicating microbial life. Image 17. A chromatogram that indicates less fertile 
+soil. The urban farmers discussed if the purple line was 
+toxic lead, concluding that the it  was more likely traces 
+from bacteria, since it was in the outer circle and heavy 
+lead would likely develop in the inner circle (the outer 
+yellow zone is pure silver nitrate without soil sollution). 
+1646
+Messy samples
+The messy process described throughout this paper 
+often resulted in messy chromatograms. Image 18 shows a chromatogram where the paper (i.e., not only the wick) had touched the surface of the solution, thus creating rings that were displaced from the center. When pulling out the wick that was still wet, solution had dropped on the paper, causing stains. The removal of the wick was a reacquiring challenge, and several samples were contaminated by drops from wicks. The online instructions sought out by the urban farmers gave no direction on how to handle these issues skillfully.
+Another common mistake was touching the prepared 
+papers with fingers, although the instructions made clear that protective gloves should be used. This left fingerprints (see Image 19). The contaminating material of the fingerprints developed distinctively when reacting with silver nitrate. However, this was not only framed as a failure by the urban farmers. The fingerprints functioned as a reference on the developed color of matter that was interpreted by the urban farmers to be “rich with organic oils and microbes”  (P4). The failed 
+chromatograms were thus seen as a valuable part of the learning process.
+Image 18.  A messy sample considered a failure by the 
+participants.
+Image 19. A fingerprint revealed during the 
+development. Magnification of Image 17.
+1647
+Editing scale & contrast in images of chromatograms
+Post editing was central in analysis and dissemination of 
+pictures of soil chromatograms. Pictures in instructions and on social media tended to be edited and cropped in ways that made the chromatogram appear more expressive and pronounced. One urban farmer commented “I want the 
+chromatograms to be as big as you have seen on pictures on the internet ” (P1). The real nature of chromatograms 
+was thus often concealed through postproduction. However, there were also some benefits of processing images of chromatograms. 
+The urban farmers realized that it was possible to interpret 
+small or underdeveloped chromatograms through zooming in on images of them. For example, when interpreting the chromatogram in figure 20 was that was considered failed by the urban farmers since the development had occurred on a small area that was hard to interpret.
+The increasing of contrast was another method used to 
+support interpretation. Figure 21 displays images of a chromatogram of the lawn of the urban farm. The dull and blended colors and lack of channels indicate a less fertile soil. Only a few spikes are visible. As interpreted by an urban farmerm “ It is as I expected, the lawn shouldn’t be 
+very full of life and nutrition. It’ s very flat. I hope the big gray line isn’t pollution. The other chromatograms don’t have that kind of line. Let’ s just ignore that”  (P1). To 
+support this interpretation, she increased the contrast of the image (as illustrated by the images that follow). Through this editing, the spikes became more visible, and it became evident that no channels (radial lines) were present. The editing of contrast acted as an assurance of the interpretation of low fertility since channels could have been weakly present and missed in the initial interpretation with the naked eye. However, the troubling question of potential pollution remained unanswered, as the urban farmers could not find a reliable source for how to interpret the gray line. Notably, they had sent soil samples to a laboratory two years earlier and had received results indicating that the deeper layers of soil had unhealthy traces of some heavy metals. This concern was addressed through growing in raised beds.
+Image 20. Editing scale. Original image to the left. 
+Image 21. Editing contrast. Original image to the left.
+1648
+DISCUSSION
+This discussion focuses on what HCI and interaction 
+design might learn from workshops on soil chromatography. It is situated in a shift on how to view design in line with related work [1,3,4,7,12,26,30,31] on more than human-centered design focused on supporting the mutual interdependencies of multiple species. This includes identifying concrete opportunities for design and development of technology, but also discussing a more foundational shift in worldviews of what it means to study, care for, and design with the more-than-human world.  
+Designing for a messy process 
+Chemical tests presented as ‘simple’ may still be hard to conduct in an amateur context. One finding was that the urban farmers brought in the ad hoc, iterative, organic, and playful attitude of gardening, into the more meticulous process of chemical analysis of soil samples. This implied that the whole process was hampered with unconventional use of tools, ambiguous measurements, mistakes, and unstable environmental conditions that reduced the reliability of the chromatograms. 
+Nevertheless, this did not seem to bother the urban 
+farmers who thought the samples worked “good enough” (P1). This is in line with other citizen science soil projects that underplays the need for sophistication  [20,28] and stands in contrast to ‘bright and shiny’ conceptions of design, innovation and science. Further, the processes included several small steps and know-how that was not made explicit in formal descriptions. There are thus opportunities for instructions in formats such as online video that convey more embodied and detailed knowledge. Additional opportunities include designing for failure as productive part of citizen science e.g., through sharing failed chromatograms with explanations of what went wrong in the process.
+Knowing soil 
+The chromatograms typically gave a broad impression whether the soil was ‘good’ or ‘bad’ while more detailed interpretations were harder to make. The chromatograms did not explain what was wrong, but by engaging with the patterns of the chromatograms and placing them in relation to other observed phenomena in the cultivation, the urban farmers were able to discuss what needed to be done (e.g., how to mix compost piles and when to fertilize). Similar results have been found in related research [8,9,20,35]. Still, there are obvious opportunities to articulate in more detail how exactly soil chromatograms could benefit gardening practice. Notably, the urban farmers tended to be optimistic in their interpretations of chromatograms, sometimes even ignoring information that might be troubling such as potential toxins. There is thus a very real possibility that the qualitative nature of the interpretations made the urban farmers see what they wanted to see. 
+Misuse and misinterpretation of chemical tests may have 
+serious implications for how the community manages their soils. Both false positive and false negative interpretations have dangers. However, in our judgment of chromatograms as a tool for knowing soil, we must remember the alternative, which is that the urban farming community would have even less information about their soil without this method. Considering this, the impartial view of soil offered by chromatography is an improvement. Further, the impartial quality itself seems like a benefit as it portrays soil as complex – as a phenomenon that we can seldom fully know or control, only care for in a continuous correspondence [17] where we notice its condition and capacities to care for us and the crops we grow. This ambiguity is important to maintain in a more-than-human world in constant flux. 
+As in any context, qualitative and quantitative 
+methods might complement each other in soil analysis. However, they can also be at odds. For example, in how computational tools might disrupt practices of situated noticing that allow for ambiguity in environmental practices. Soil chromatography as a sensing and visualization method is open to interpretation, more so than the reading of numerical measurements on a screen, that in their discrete character, in the guise of ‘objectivity’, renders many environmental conditions invisible. Given the above discussions, there are opportunities to scientifically study how exactly chromatograms can be interpreted and in what cases they can be reliably used in amateur contexts. Another approach is to develop a service where citizens could send in soil samples for professional lab testing through a simple application. While this has benefits in terms of more reliable results, it has downsides in terms of costs, and in how the opportunity to relate more closely to soil through the act of examination is removed. There are further opportunities to create clear guidelines or illustrations that support the interpretation of chromatograms, by highlighting the main principles for interpretation. 
+Additionally, the findings illustrate how post editing 
+of images can both amplify and conceal the result of a chromatogram, for example through editing contrast or magnifying the image. This illustrates the opportunities for computational analysis to support more detailed and reliable interpretation of soil chromatograms. Chromatograms are in theory suitable for detailed analysis through computational image recognition since the color and placement of matter in patterns of chromatograms is consistent and thus predictable. What was hard for humans to perceive, such as nuances of brown, could be more consistently recognized by a machine. Scientific studies have already computationally detected differences in brightness between pixels in images of chromatograms to analyze the occurrence of components in a chromatogram [20]. If algorithms could recognize specific components in chromatograms (e.g., phosphorus, lead, and carbon), this would enable the use of chromatograms to take more specific actions of care. However, no publicly available algorithm can currently recognize and analyze soil chromatograms sufficiently. Training an algorithm for analyzing patterns of chromatograms would require a database of soil chromatograms and their correct interpretations. Crowdsourcing this database is one potential route forward. However, the experiences of the urban farmers indicate that although computational analysis is valuable, it may be partly redundant, since there is 
+1649
+inherent value in the experience, interpretation and 
+discussion that unfolds when analyzing chromatograms. These processes risk being weakened if taken over by automation. Designers should thus be mindful when harnessing the potential benefits of image recognition, such as identification of specific chemicals, while providing enough room and ambiguity to let growers make their own interpretations of soil health.  
+Experiencing soil-time
+The urban farmers highlighted the potential benefits of comparing samples over several years. As mentioned in the method section, the urban farmers thus intended to continue with soil chromatography over several seasons. The urban framers further highlighted the inherent meaningfulness in depicting a place over time. This is similar to how the urban farmers used smartphone photography to relate both practically and emotionally to their cultivations over time [36]. Nevertheless, the pictorial method of chromatography is distinguished from smartphone photography since the method is closely tied to the slower natural pace of for example, capillary action, chemical reactions to sun light, and the temporality of soil. 
+The soil care practices of the urban farmers emphasize 
+the involvement with soil’s circular and slow temporality [39]. This temporality includes the long, slow, time of geological processes that take thousands of years such as the breaking down of rock or fossilization of organic matter; and relatively shorter ecological cycles in which organisms, including humans, break down materials that renew the topsoil. In line with these processes, the urban farmers frequently emphasized that things should be allowed to unfold at their natural pace while resisting urges to hurry and take shortcuts. This was expressed to have benefits for both human and environmental health. Understanding the practice from this perspective may answer why the busy urban farmers, who were preoccupied with keeping up with the care of crops, made time for the slow and labor-intensive task of soil chromatography. As discussed by previous research on attentive practices [15,29,33,42] slowing down is an important aspect of creating space in which details can be noticed and reflected on. The inherent waiting in the process of soil chromatography thus had a reflexive value. A space was created for discussing soil health. This space was typical for the studied urban community farm, that was managed in modes that were at odds with the conventional ‘efficient’ management of urban farming initiatives such as soil-less hydroponic systems in warehouses. Here, the process of soil chromatography offered an alternative engagement with time, that did not only evoke a different mode of production, but a different mode of life, including a different relationship to labor - where ‘efficiency’ was not allowed to infringe on wellbeing. Viewed from this perspective, the embodied experience of “making time for soil” [39] through the practice of soil chromatography challenges predominant trajectories of futurity and technological development. In so doing, it offers an alternative design mode for developing ways to explore and relate to the environment that    accentuate ’soil-time’ as one possible new lens of ‘measuring’ in designing for more-than-human worlds. This is in line with recent publications that highlight how we need to work with alternative temporalities to understand the more-than-human world [43]. 
+CONCLUSION
+This pictorial focused on amateur chemical chromatography as a complement to digital sensors. Paper chromatography of soil is a visual and qualitative method for portraying its fertility and offers an engaging possibility to learn more about the biological processes taking place in soil and compost. The role of interactive technologies in this attentive practice may be to amplify the chromatograms through image editing of e.g., scale and contrast, or through more advanced image processing and recognition. However, beyond possibilities for computationally supported analysis, the findings show how a sensitive and qualitative attention to chromatograms was appreciated as a fruitful engagement with the multiple contextual factors that affect the health and fertility of soils. In this appreciation, soil was highlighted as full of life and with its own temporality. Such perspectives may benefit the broader fields of citizen science and HCI as we reinvent design modes to focus on interaction in complex more-than-human networks, rather than closed feedback loops between humans and interfaces. 
+ACKNOWLEDGMENTS
+I gratefully acknowledge the workshop participants for their continued engagement and deep reflections; and colleagues and reviewers who have helped to improve this work.
+REFERENCES
+[1] Yoko Akama, Ann Light, and Takahito Kamihira. 
+2020. Expanding Participation to Design with More-Than-Human Concerns. In Proceedings of the 16th Participatory Design Conference 2020 - Participation(s) Otherwise - V olume 1 (PDC ’20), Association for Computing Machin -
+ery, New York, NY , USA, 1–11. DOI:https://doi.org/10.1145/3385010.3385016
+[2] Jeffrey Bardzell, Shaowen Bardzell, and Ann Light. 2021. Wanting To Live Here: Design After Anthropocentric Functionalism. In Pro -
+ceedings of the 2021 CHI Conference on Hu -
+man Factors in Computing Systems (CHI ’21), Association for Computing Machinery, New York, NY , USA, 1–24. DOI:https://doi.org/10.1145/3411764.3445167
+[3] Heidi Biggs, Jeffrey Bardzell, and Shaowen Bardzell. 2021. Watching Myself Watching Birds: Abjection, Ecological Thinking, and Posthuman Design. In Proceedings of the 2021 CHI Confer -
+ence on Human Factors in Computing Systems (CHI ’21), Association for Computing Machin -
+ery, New York, NY , USA, 1–16. DOI:https://doi.org/10.1145/3411764.3445329
+[4] Heidi Biggs, Tejaswini Joshi, Ries Murphy, Jeffrey Bardzell, and Shaowen Bardzell. 2021. 
+1650
+Alternatives to Agrilogistics: Designing for Eco -
+logical Thinking. Proc. ACM Hum.-Comput. In -
+teract. 5, CSCW2 (October 2021), 413:1-413:31. 
+DOI:https://doi.org/10.1145/3479557
+[5] Anne Bowser, Katie Shilton, Jenny Preece, and 
+Elizabeth Warrick. 2017. Accounting for Privacy 
+in Citizen Science: Ethical Research in a Context 
+of Openness. In Proceedings of the 2017 ACM 
+Conference on Computer Supported Coopera -
+tive Work and Social Computing (CSCW ’17), 
+Association for Computing Machinery, New 
+York, NY , USA, 2124–2136. DOI:https://doi.
+org/10.1145/2998181.2998305
+[6] Hronn Brynjarsdottir, Maria H\a akansson, James 
+Pierce, Eric Baumer, Carl DiSalvo, and Phoebe 
+Sengers. 2012. Sustainably Unpersuaded: How 
+Persuasion Narrows Our Vision of Sustainabil -
+ity. In Proceedings of the SIGCHI Conference 
+on Human Factors in Computing Systems (CHI 
+’12), ACM, New York, NY , USA, 947–956. 
+DOI:https://doi.org/10.1145/2207676.2208539
+[7] Rachel E. Clarke. 2020. Ministry of Multispe -
+cies Communications. In Companion Publica -
+tion of the 2020 ACM Designing Interactive 
+Systems Conference (DIS’ 20 Companion), 
+Association for Computing Machinery, New 
+York, NY , USA, 441–444. DOI:https://doi.
+org/10.1145/3393914.3395845
+[8] D. C. Coleman, E. P. Odum, and D. A. Coss -
+ley. 1992. Soil biology, soil ecology, and 
+global change. Biol Fertil Soils 14, 2 (October 
+1992), 104–111. DOI:https://doi.org/10.1007/
+BF00336258
+[9] Pfeiffer Ehrenfried E. 1984. Chromatography 
+Applied to Quality Testing -. Floris Books. 
+Retrieved November 6, 2019 from https://www.florisbooks.co.uk/book/Ehrenfried-E.-Pfeiffer/
+Chromatography+Applied+to+Quality+Testi
+ng/9780938250210
+[10] Bjørn Fjukstad, Nina Angelvik, Maria Wulff 
+Hauglann, Joachim Sveia Knutsen, Morten 
+Grønnesby, Hedinn Gunhildrud, and Lars Ailo 
+Bongo. 2018. Low-Cost Programmable Air 
+Quality Sensor Kits in Science Education. In 
+Proceedings of the 49th ACM Technical Sympo -
+sium on Computer Science Education (SIGCSE 
+’18), Association for Computing Machinery, 
+New York, NY , USA, 227–232. DOI:https://doi.
+org/10.1145/3159450.3159569
+[11] Bruno Follador. 2015. Portraying Soils and Com -
+post: Color, Form, and Pattern. 2.
+[12] M. Foth, Monique Mann, L. Bedford, Walter 
+Frieuw, and R. Walters. 2020. A capitalocentric 
+review of technology for sustainable develop -
+ment: The case for more-than-human design. 
+Global Information Society Watch (GISWatch). 
+undefined (2020). Retrieved December 21, 2021 
+from https://www.semanticscholar.org/paper/A-
+capitalocentric-review-of-technology-for-The-
+case-Foth-Mann/dc7ec4f2610c046742a77a59858
+9226b5e240324
+[13] Jennifer Gabrys. 2014. Programming Environ -
+ments: Environmentality and Citizen Sensing 
+in the Smart City. Environ Plan D 32, 1 (Febru -
+ary 2014), 30–48. DOI:https://doi.org/10.1068/
+d16812
+[14] Jennifer Gabrys. 2016. Program Earth: Environ -
+mental Sensing Technology and the Making of a 
+Computational Planet. University of Minnesota 
+Press, Minneapolis.
+[15] Kristina Höök. 2018. Designign with the body: 
+somaesthetic interaction design. MIT Press, Cam -
+bridge, Massachusetts.[16] Yen-Chia Hsu and Illah Nourbakhsh. 2020. When 
+Human-Computer Interaction Meets Community 
+Citizen Science. ACM Interactions 63, 31–34.
+[17] Tim Ingold. 2020. Correspondences. John Wiley 
+& Sons.
+[18] Cindy Hsin-Liu Kao, Bichlien Nguyen, Asta 
+Roseway, and Michael Dickey. 2017. Earth -
+Tones: Chemical Sensing Powders to Detect 
+and Display Environmental Hazards Through 
+Color Variation. In Proceedings of the 2017 CHI 
+Conference Extended Abstracts on Human Fac -
+tors in Computing Systems (CHI EA ’17), ACM, 
+New York, NY , USA, 872–883. DOI:https://doi.
+org/10.1145/3027063.3052754
+[19] Sunyoung Kim, Eric Paulos, and Mark D. Gross. 
+2010. WearAir: Expressive T-shirts for Air 
+Quality Sensing. In Proceedings of the Fourth 
+International Conference on Tangible, Embed -
+ded, and Embodied Interaction (TEI ’10), ACM, 
+New York, NY , USA, 295–296. DOI:https://doi.
+org/10.1145/1709886.1709949
+[20] Maria Kokornaczyk, Fabio Primavera, Roberto 
+Luneia, Stephan Baumgartner, and Lucietta Betti. 
+2016. Analysis of soils by means of Pfeiffer’s 
+circular chromatography test and comparison to 
+chemical analysis results. Biological Agricul -
+ture & Horticulture 33, (August 2016), 1–15. 
+DOI:https://doi.org/10.1080/01448765.2016.121
+4889
+[21] Stacey Kuznetsov. 2013. Expanding Our Vi -
+sions of Citizen Science. Interactions 20, 
+4 (July 2013), 26–31. DOI:https://doi.
+org/10.1145/2486227.2486234
+[22] Stacey Kuznetsov, Will Harrigan-Anderson, 
+Haakon Faste, Scott E. Hudson, and Eric Paulos. 
+2013. Community Engagements with Living 
+Sensing Systems. In Proceedings of the 9th ACM 
+1651
+Conference on Creativity & Cognition (C&amp;C 
+’13), Association for Computing Machinery, 
+New York, NY , USA, 213–222. DOI:https://doi.
+org/10.1145/2466627.2466638
+[23] Stacey Kuznetsov, Scott E. Hudson, and Eric 
+Paulos. 2013. A low-tech sensing system for 
+particulate pollution. In Proceedings of the 8th 
+International Conference on Tangible, Embedded 
+and Embodied Interaction - TEI ’14, ACM Press, 
+Munich, Germany, 259–266. DOI:https://doi.
+org/10.1145/2540930.2540955
+[24] Stacey Kuznetsov, William Odom, James Pierce, 
+and Eric Paulos. 2011. Nurturing Natural Sen -
+sors. In Proceedings of the 13th International 
+Conference on Ubiquitous Computing (UbiComp 
+’11), ACM, New York, NY , USA, 227–236. 
+DOI:https://doi.org/10.1145/2030112.2030144
+[25] Bruno Latour, Isabelle Stengers, Anna Tsing, and 
+Nils Bubandt. 2018. Anthropologists Are Talking 
+– About Capitalism, Ecology, and Apocalypse. 
+Ethnos 83, 3 (May 2018), 587–606. DOI:https://
+doi.org/10.1080/00141844.2018.1457703
+[26] Ann Light. 2022. Ecologies of subversion: trou -
+bling interaction design for climate care. interac -
+tions 29, 1 (January 2022), 34–38. DOI:https://
+doi.org/10.1145/3501301
+[27] Jen Liu. 2017. Field Computing: Wearable 
+Devices for Citizen Science. In Proceedings of 
+the Eleventh International Conference on Tan -
+gible, Embedded, and Embodied Interaction 
+(TEI ’17), ACM, New York, NY , USA, 451–456. 
+DOI:https://doi.org/10.1145/3024969.3025072
+[28] Jen Liu, Daragh Byrne, and Laura Devendorf. 
+2018. Design for Collaborative Survival: An 
+Inquiry into Human-Fungi Relationships. In Pro -
+ceedings of the 2018 CHI Conference on Human 
+Factors in Computing Systems (CHI ’18), ACM, New York, NY , USA, 40:1-40:13. DOI:https://
+doi.org/10.1145/3173574.3173614
+[29] Szu-Yu Liu, Shaowen Bardzell, and Jeffrey 
+Bardzell. 2019. Symbiotic Encounters: HCI 
+and Sustainable Agriculture. In Proceedings of 
+the 2019 CHI Conference on Human Factors 
+in Computing Systems (CHI ’19), ACM, New 
+York, NY , USA, 317:1-317:13. DOI:https://doi.
+org/10.1145/3290605.3300547
+[30] Szu-Yu (Cyn) Liu. 2021. Posthuman Interac -
+tion Design: Designing With, Through and For 
+Human-Nature Interaction. Indiana University.
+[31] Szu-Yu (Cyn) Liu, Jeffrey Bardzell, and Sha -
+owen Bardzell. 2018. Photography As a De -
+sign Research Tool into Natureculture. In 
+Proceedings of the 2018 Designing Interactive 
+Systems Conference (DIS ’18), ACM, New 
+York, NY , USA, 777–789. DOI:https://doi.
+org/10.1145/3196709.3196819
+[32] Szu-Yu Liu, Jen Liu, Kristin Dew, Patrycja 
+Zdziarska, Maya Livio, and Shaowen Bardzell. 
+2019. Exploring Noticing As Method in Design 
+Research. In Companion Publication of the 2019 
+on Designing Interactive Systems Conference 
+2019 Companion (DIS ’19 Companion), ACM, 
+New York, NY , USA, 377–380. DOI:https://doi.
+org/10.1145/3301019.3319995
+[33] Maya Livio, Jen Liu, Kristin Dew, SzuYu Liu, 
+and Patrycja Zdziarska. 2019. Methods for Notic -
+ing. 
+[34] Maria Normark, Anton Poikolainen Rosén, 
+and Madeleine Bonow. 2021. Articulating and 
+Negotiating Boundaries in Urban Farming 
+Communities. In C&T ’21: Proceedings of the 
+10th International Conference on Communities 
+& Technologies - Wicked Problems in the Age 
+of Tech (C&T ’21), Association for Comput -ing Machinery, New York, NY , USA, 296–308. 
+DOI:https://doi.org/10.1145/3461564.3461565
+[35] Livia Bischof Pian. 2016.hgre4 Chromatography 
+of Pfeiffer: Principles, method and use in percep -
+tion of soils. 
+[36] Anton Poikolainen Rosén, Maria Normark, and 
+Mikael Wiberg. 2020. Relating to the Environ -
+ment Through Photography: The Smartphone 
+Camera as a Tool in Urban Farming. In 32nd 
+Australian Conference on Human-Computer In -
+teraction (OzCHI ’20), Association for Comput -
+ing Machinery, New York, NY , USA, 506–519. 
+DOI:https://doi.org/10.1145/3441000.3441026
+[37] Nathan R. Prestopnik and Kevin Crowston. 
+2012. Citizen Science System Assemblages: 
+Understanding the Technologies that Sup -
+port Crowdsourced Science. In Proceedings 
+of the 2012 iConference (iConference ’12), 
+Association for Computing Machinery, New 
+York, NY , USA, 168–176. DOI:https://doi.
+org/10.1145/2132176.2132198
+[38] Maria Puig de la Bellacasa. 2011. Matters of care 
+in technoscience: Assembling neglected things. 
+Social Studies of Science 41, (1) (2011), 85–106.
+[39] Maria Puig de la Bellacasa. 2015. Mak -
+ing time for soil: Technoscientific futu -
+rity and the pace of care. Soc Stud Sci 45, 5 
+(October 2015), 691–716. DOI:https://doi.
+org/10.1177/0306312715599851
+[40] Nirwan Sharma. 2016. Species Identification 
+in Citizen Science: Effects of Interface Design 
+and Image Difficulty on User Performance and 
+Workload. In Proceedings of the 2016 CHI 
+Conference Extended Abstracts on Human 
+Factors in Computing Systems (CHI EA ’16), 
+Association for Computing Machinery, New 
+York, NY , USA, 128–133. DOI:https://doi.
+1652
+org/10.1145/2851581.2890382
+[41] Will Steffen, Katherine Richardson, Johan Rock -
+ström, Sarah E. Cornell, Ingo Fetzer, Elena M. 
+Bennett, Reinette Biggs, Stephen R. Carpenter, 
+Wim de Vries, Cynthia A. de Wit, Carl Folke, 
+Dieter Gerten, Jens Heinke, Georgina M. Mace, 
+Linn M. Persson, Veerabhadran Ramanathan, Be -
+linda Reyers, and Sverker Sörlin. 2015. Planetary 
+boundaries: Guiding human development on a 
+changing planet. Science 347, 6223 (February 
+2015), 1259855. DOI:https://doi.org/10.1126/sci -
+ence.1259855
+[42] Anna Tsing. 2015. The Mushroom at the End of 
+the World. Princeton University Press.
+[43] Anna Tsing, Jennifer Deger, Alder Keleman, and 
+Feifei Zhou. 2021. Feral Atlas: The More-Than-
+Human Anthropocene,. Redwood City: Stanford 
+University Press.
+[44] Ron Wakkary. 2021. Things We Could Design: 
+For More Than Human-Centered Worlds. MIT 
+Press, Cambridge, MA, USA.
+[45] Agung Toto Wibowo, Advaith Siddharthan, Helen 
+Anderson, Annie Robinson, Nirwan Sharma, 
+Helen Bostock, Andrew Salisbury, Richard Co -
+mont, and René van der Wal. 2017. Bumblebee 
+Friendly Planting Recommendations with Citizen 
+Science Data. In Proceedings of the International 
+Workshop on Recommender Systems for Citizens 
+(CitRec ’17), Association for Computing Machin -
+ery, New York, NY , USA, 1–6. DOI:https://doi.
+org/10.1145/3127325.3128330
+1653

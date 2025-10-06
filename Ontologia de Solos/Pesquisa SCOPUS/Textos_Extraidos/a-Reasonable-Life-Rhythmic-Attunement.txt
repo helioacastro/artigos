@@ -1,0 +1,1066 @@
+476“A Reasonable Life”: Rhythmic Attunement and Sustainable
+Work at the Intersection of Farming and Knowledge Work
+ROSEMARY STEUP, Indiana University Bloomington, USA
+PAIGE WHITE, Indiana University Bloomington, USA
+LYNN DOMBROWSKI, Indiana University - Purdue University Indianapolis, USA
+NORMAN MAKOTO SU, University of California, Santa Cruz, USA
+Past CSCW work has examined the role of temporal rhythms in cooperative work and has identified alignment
+work—the work required to bring dissonant rhythms into alignment—as an important aspect of large-scale
+collaboration. We ask instead how individual workers interact with temporal rhythms to sustain the conditions
+that make their work possible—not aligning rhythms, but attuning them. This paper draws on interviews
+with farmer-knowledge workers, people who engage with both farm work (the work of growing food or
+raising animals for food, on a commercial or non-commercial basis) and computer-based knowledge work.
+We identify three ways that farmer-knowledge workers interact with natural and structural rhythms to
+construct sustainable work-lives: anchoring (tying oneself to a particular rhythm to create accountability
+and structure), decoupling (loosening or cutting ties with a rhythm to create flexibility), and gap-filling
+(interweaving complementary rhythms to create balance). Together, these practices constitute attunement
+work.
+CCS Concepts: •Human-centered computing →Collaborative and social computing theory, concepts
+and paradigms ;HCI theory, concepts and models ;Empirical studies in HCI ;Empirical studies in
+collaborative and social computing .
+Additional Key Words and Phrases: time, rhythm, attunement, farming, agriculture, knowledge work, busyness,
+values, ethnography
+ACM Reference Format:
+Rosemary Steup, Paige White, Lynn Dombrowski, and Norman Makoto Su. 2022. “A Reasonable Life”: Rhythmic
+Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work. Proc. ACM Hum.-
+Comput. Interact. 6, CSCW2, Article 476 (November 2022), 22 pages. https://doi.org/10.1145/3555577
+1 INTRODUCTION
+Temporal rhythms and temporal coordination are long-standing topics in CSCW, with past work
+covering the role of temporal rhythms in information-seeking [ 40,49,50], scientific collabora-
+tion [ 24,55], and even holiday celebrations [ 31]. Frequently, researchers have focused on the work
+that must be done to align or synchronize rhythms within a large project or a complex system such
+as a hospital. There is less work exploring how individual workers relate to rhythms as part of
+their efforts to live fulfilling, “balanced” lives.
+Authors’ addresses: Rosemary Steup, rsteup@iu.edu, Indiana University Bloomington, Bloomington, Indiana, USA; Paige
+White, pw1@iu.edu, Indiana University Bloomington, Bloomington, Indiana, USA; Lynn Dombrowski, lsdombro@iupui.edu,
+Indiana University - Purdue University Indianapolis, Indianapolis, Indiana, USA; Norman Makoto Su, normsu@ucsc.edu,
+University of California, Santa Cruz, California, USA.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee
+provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the
+full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be honored.
+Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires
+prior specific permission and/or a fee. Request permissions from permissions@acm.org.
+©2022 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+2573-0142/2022/11-ART476 $15.00
+https://doi.org/10.1145/3555577
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+
+476:2 Rosemary Steup et al.
+In this vein, Leshed et al . [28] connected temporal rhythms to work/home coordination in a study
+of farming families who consciously blend home and work on the farm. They found that a key
+challenge for these families was aligning or synchronizing the natural rhythms of farm life with
+externally imposed, structural rhythms such as the timing of farmers’ markets, children’s school,
+and social events. Seen this way, the farm families are similar to the remote island and coastal
+towns studied by Vannini [61]. Life in these places has a different rhythm from life in mainland
+cities, and being “in time” on an island means being “out of time” with respect to the mainland.
+Despite their desire to disconnect from the mainland and be “in time,” island residents must go to
+the mainland to access jobs, medical care, essential supplies, amenities, and air transportation; and
+when they do, they must interface with mainland/city time. Leshed et al.’s farm families similarly
+must accommodate to the rhythms of the world outside the farm/home.
+It might seem natural that farm families—especially small-scale farmers—would want to discon-
+nect from mainstream temporalities, because farming is culturally associated with natural rhythms
+and a slower, more relaxed pace of life. In this cultural imaginary, the slow pace of farm life is
+enabled, in part, by the absence of technology. Small-scale farmers and homesteaders often express
+an ambivalence towards modern technology, going “off-grid” as far as possible in some cases, or
+choosing to use low-tech/“traditional” farming methods that align better with their values with
+respect to sustainability, ethical treatment of animals, etc. Technology is commonly associated in
+the Western cultural imagination with time pressure and speed-up, so rejection or selective use of
+technology can be part of people’s efforts to live more “slowly” [ 53,63]. Nevertheless, some people
+combine farming, gardening, or homesteading with highly technical vocations that are associated
+with the world of 9–5 work and fast-paced, busy lifestyles. They include farmers who use and
+develop software tools as part of their farming; farmers who do remote knowledge work, unrelated
+to the farm, as a secondary job; and software developers and engineers who farm or garden in
+addition to their primary job. These hybrid farmer-knowledge workers do not reject technology;
+nor do they want to disconnect entirely and be “out of time.” Yet they also choose to be connected
+to farm work and its temporal rhythms, despite having the resources to make different choices.
+Our paper explores the experiences of people at this intersection of high-tech work and farming.
+We conducted qualitative interviews with 18 people who engage in both farm work (the work
+of growing food or raising animals for food, on a commercial or non-commercial basis) and
+computer-based knowledge work. We build on Leshed et al .’s [28] observations about natural
+and structural rhythms, but we look beyond synchronization to describe other ways people relate
+to temporal rhythms, and how disparate rhythms can be resources as well as challenges. In the
+spirit of Wajcman’s call to “reimagine hybrid sociomaterial assemblages or networks for enacting
+different times in an intensely technological world” [ 63] (p. 176), the research questions for our
+study were: What alternative or variant temporalities emerge at the intersections of these different
+and seemingly incompatible work cultures (knowledge work and farming)? How do people at this
+intersection create sustainable work-lives that align with their values? And how can their practices
+open up possibilities in the design of work support tools?
+We find that the hybrid farmer-knowledge workers in our study negotiate between natural
+rhythms and the structural rhythms of 9–5 work, using these rhythms as resources to craft sustain-
+able routines. We identify three practices that our participants engaged in: anchoring, decoupling,
+and gap-filling. We characterize these practices as forms of attunement work , a complement to
+Jackson et al. ’s alignment work in CSCW [ 24]. Whereas alignment work addresses the need to bring
+disparate rhythms into workable alignment in collaborative projects, attunement work speaks
+to the ways individuals relate to rhythms in their work-lives. As a theoretical lens, attunement
+work shifts from a task-oriented, organizational, and conflict-averse perspective of rhythms to one
+that is more personal, affective, and messy. The goals of attunement work are not necessarily to
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:3
+accomplish work but to sustain work. Broadly, we will show that attunement work—beyond our
+specific population of farmer-knowledge workers—provides an alternative way in CSCW to think
+about time-related values and assumptions in the design of work support technologies.
+2 RELATED WORK
+In this section, we survey CSCW and related literature on values in the design and use of agricultural
+technologies; work-life balance and boundary management; and temporal rhythms in work. We
+argue that values such as efficiency associated with work support technologies are not monolithic,
+but are defined in various ways by users. For our participants, living and working in accordance
+with their values is key to sustainable work , a more holistic alternative to “work-life balance”.
+Temporal rhythms—in particular, the natural and structural rhythms associated with farming and
+knowledge work—are resources that our participants use to accomplish their values and work
+sustainably.
+2.1 Farmers’ technology use and values
+Values are embedded in work-support technologies; for instance, Mazmanian et al . [37] and Wa-
+jcman [64] describe how scheduling apps perpetuate their designers’ orientations to and moral
+judgments about time use. The affordances and limitations of technologies constrain people’s
+practices, enforcing normative modes of work. Accordingly, HCI has dedicated a lot of attention
+to technology design as a critical site in which values are materialized and reinforced. Scholars
+and designers have developed and honed methods such as value-sensitive design (VSD) [ 15,17]
+to support mindful discussions of values during the design process. Similar to the conceptual and
+empirical investigations of VSD’s tripartite methodology, our work attempts to tease out the values
+implicated by the social practices of farmer-workers and the artifacts they use.
+But as many scholars have pointed out, values-oriented design is not a straightforward process
+of “identifying and applying” values [ 25]. Values may be in tension with other values or competing
+goals, or there might be multiple ways (and thus disagreements about how) to work towards val-
+ues [ 62]. Values are enacted within larger social, economic, legal, and political systems, all of which
+constrain how people can express their values. Moreover, people’s values (and their expressions of
+those values) are not static but can and do change over time. Some values scholarship addresses the
+interaction of values and technologies after design, e.g. values in use [ 2] and values in repair [ 22].
+This thread of research approaches “values as contingent and ongoing accomplishments” [ 22] that
+are not fully fixed or determined [ 9] in design but rather negotiated between technologies and
+communities of users.
+Past HCI and CSCW work on farming has often focused on surfacing the values of farming
+communities—usually non-mainstream communities such as urban farmers [ 8,34,43]; small, direct-
+to-consumer farms [ 28,57]; rural smallholders [ 12,21,29]; and permaculture practitioners [ 33,
+42]. This past work explicitly or implicitly compares farmers’ values to the values embedded in
+existing technologies to identify gaps and conflicts. Based on a survey of data-driven farming
+products being marketed to farmers, Steup et al . [56] find that advertising for data-driven farming
+tools emphasizes efficiency and control. They raise concerns about how these tools might affect
+power relationships between agricultural stakeholders, including between farmers and technology
+providers and between farmers and the ecosystems they care for, if these values are prioritized
+over others, such as care. Liu et al . [33] argue that HCI should approach sustainability through the
+permaculture philosophy of care for and connection with nature, rather than the more traditional
+“control paradigm.” Researchers also point to conflicts between some farmers’ commitment to
+environmental sustainability and the negative environmental impacts of computer and other
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:4 Rosemary Steup et al.
+technologies; and between the high value farmers place on in-person interaction, and technologies
+that are designed for intense or prolonged engagement [39, 42].
+Our work’s contribution does not lie in definitively labeling the values of our participants [ 9,27],
+but rather in describing how our participants seek to realize values through negotiation of temporal
+rhythms. While past CSCW work on farming points to conflicts between farmers’ values and the
+values embedded in software tools, our findings suggest nuance within these conflicts. Consistent
+with an understanding of values as ongoing and contingent accomplishments, we find that our
+participants have complicated and shifting relationships with values like “efficiency” that are
+associated with many work support tools, including data-driven farming tools. Far from rejecting
+efficiency, many of our participants embraced it—but in doing so, they did not embrace a productivist
+model of farming. Efficiency was, instead, a means to direct their time to valued activities as part
+of achieving a “balanced” or sustainable work-life.
+2.2 From work-life balance to sustainable work
+The concept of “work-life balance,” as a measure of workers’ well-being, is widespread in self-help
+literature targeted at knowledge workers [ 18] and in the cultural consciousness of knowledge
+workers. The premise of work-life balance is that “work” (usually paid work) should not dominate
+a person’s time to the exclusion of “life”—an amorphous category encompassing everything outside
+“work,” often understood to mean the responsibilities of caring for a family [ 51]. An unsustainable
+situation arises if either work or life demands too much of a worker’s time; their performance in
+the other domain may suffer, and they will experience stress.
+Despite its popularity, work-life balance has been criticized on the grounds that it presents a
+reductive view of both “work” and “life”. Discussing “the work-life balance debate,” Ruth Eikhof
+[51] argues that it revolves around “a number of questionable assumptions and perceptions: that
+work is experienced as negative, with long working hours a particular problem; that ‘life’ can be
+equated with caring responsibilities, most particularly childcare, with the result that women are
+the primary target of work-life balance provisions; and that work and life are separable and in
+need of being separated.” In the self-help literature, as well, some authors reject this separation of
+work and life; for instance, David Allen’s influential book Getting Things Done embraces a broad
+definition of work that does not distinguish between “work” and “personal” tasks [ 1] (p. 4). The
+“balance” Allen promises to help his readers achieve is a general feeling of equilibrium—a flow state
+in which one is relaxed, in control, engaged, and productive; the opposite of being “out of control,
+stressed out, unfocused, bored, and stuck” (p. 10-11). We define sustainable work along similar lines,
+to mean working in a way that preserves one’s physical and mental health and one’s enthusiasm
+for the work—part of which is working in accordance with one’s values.
+Related to work-life balance, some scholars have examined the relationship between “work” and
+“home” as sociocognitive realms [ 41] or domains [ 13], leading to a focus on boundaries between
+these realms. Boundary theory proposes that the realms of work and home, and their corresponding
+roles, can be integrated (temporally and spatially commingled) or segmented (relegated to separate
+times and/or spaces) to different degrees [ 41]; or in other terms, the boundaries between them have
+different degrees of flexibility and permeability [ 4,13]. With respect to undergraduate students—
+a group for whom “work” and “home” are less clearly defined—Lim et al. introduce the more
+general concept of “life spheres,” which include “not only academia but also social, family and
+extracurricular spheres”—although they maintain a kind of “boundary” between “school domains”
+and “non-school domains” that parallels the traditional work/life dichotomy [32].
+Boundaries are not fixed once and for all but constantly shaped and reshaped, and people naturally
+enroll technologies in the project of boundary maintenance. For example, studies on how workers
+interleave interactions with their private lives during the day with information technologies [ 5,59]
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:5
+establish that, while workers are constrained in how they manage their rhythms, they nonetheless
+exert some agency in shaping their own rhythms to achieve some balance between work and
+non-work domains. Moreover such studies establish that workers weave less structured tasks (e.g.,
+those involving ad-hoc communications or care work) into and around sometimes rigid temporal
+structures (e.g., meetings, work/school schedules). Work-home or work-life boundaries, and the
+role of technology in negotiating these boundaries, have thus been a productive area of study in
+CSCW and HCI.
+In this paper, we explore an alternative to boundaries for understanding how people balance and
+coordinate different aspects of their work-lives. Some of our findings resonate with the above work
+on boundary management: for instance, Clark finds that “a mixture of distinctly different activities
+gives variety and excitement” to the lives of people who segment work and home, “and regular
+breaks that one domain provides from the other allow individuals to renew their energy” [ 13].
+We see similar dynamics play out in our participants’ mingling of farm work and knowledge
+work. However, we examine these practices through the lens of temporal rhythms and focus
+on how disparate rhythms enable this kind of alternation in support of a more sustainable life.
+Past HCI work on boundaries has acknowledged that “work” cannot be neatly separated from
+“life” [ 7,19]—especially for populations, such as remote or nomadic workers [ 16,52], undergraduate
+students [ 32], and farmers [ 28], for whom research shows work and home are collocated and
+intermingled. In looking beyond boundaries, we hope to move even further from work-life balance
+and the problematic assumption that work is, or should be, separable from the rest of life. Rather
+than conceptualizing our participants’ lives in terms of spheres or domains, we focus on the
+temporal rhythms that they engage with and how they use these rhythms to create sustainable
+work arrangements.
+2.3 Temporal coordination and rhythms
+A significant body of CSCW research has studied the role of rhythms in temporal coordination of
+work. For these purposes, rhythms are defined as temporal patterns that recur in a work setting.
+Rhythms operate at all scales, from the small and personal (labor contractions [ 47]) to the more-
+than-human (the slow, cyclical processes by which soil is renewed [ 48]). In any given work context, a
+wide variety of rhythms interweave. Researchers have proposed various taxonomies for classifying
+rhythms according to scale, origin, and roles. In a study of Danish home care workers, Nilsson and
+Hertzum [40] distinguish between individual, collective, and social rhythms: individual rhythms
+are associated with a specific person; collective rhythms arise from the interaction of individual
+rhythms; and social rhythms are moments of collocated social interaction among workers. Jackson
+et al. [24] define four categories of rhythms in large-scale, collaborative research: organizational
+(imposed by the organizations or institutions governing research), infrastructural (limitations
+and needs of the built environment), biographical (life circumstances of individual workers), and
+phenomenal (driven by the objects and processes being studied). For their study of farming families,
+Leshed et al . [28] adapt and condense these categories into two, natural and structural rhythms,
+where “natural” refers to rhythms that originate within the farm/family and “structural” refers to
+rhythms of social and commercial life beyond the farm. We also use these terms to distinguish
+between rhythms that are driven by natural processes and those that are socially constructed (with
+the awareness that there is ambiguity between these categories).
+Much of this past research focuses on the need to synchronize or align disparate rhythms to
+accomplish work goals. In Jackson et al.’s research on large-scale scientific projects, scientists have
+to reconcile the phenomena they are studying—processes with very long and/or unpredictable
+time scales—with the much shorter operating cycles of funding agencies [ 24]. Jackson et al. de-
+fine alignment work as “the complex set of actions and activities required to bring otherwise
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:6 Rosemary Steup et al.
+disparate rhythms into heterogeneous and locally workable forms of alliance.” A follow-up paper
+by Steinhardt and Jackson [55] explores the role of plans as a tool for accomplishing alignment
+work. Bruyninckx [10] theorizes synchronization as a form of invisible repair work: in a laboratory
+setting, synchronization is the improvisational work that technicians do to prevent and resolve
+slippages between organizational rhythms (schedules and policies imposed by administration) and
+instrumental rhythms (material conditions of scientific instruments and their use). Leshed et al .
+[28]found that synchronizing natural rhythms and structural rhythms is a major challenge for farm
+families who blend home and work. A key strategy is “to align the structured activities to fit the
+natural rhythms, and vice versa.” For instance, they align their (homeschooling) school year with the
+growing season, and time harvesting so as to have produce ready for market rather than harvesting
+every crop at peak ripeness [ 28]. Leshed et al. suggest that, rather than a unique challenge of farm
+families, the need to synchronize natural and structural rhythms is an understudied aspect of family
+coordination generally.
+From another perspective, rhythms are a resource that workers use to create structure and
+predictability in their work day. Reddy and Dourish [49], studying information-seeking behavior
+among hospital workers, describe how workers’ knowledge of rhythms (such as nurses’ shift
+changes, physicians’ rounds, and the processing of lab tests) allows them to anticipate when they
+will need information and when it will be available. Nilsson and Hertzum [40] similarly portray
+rhythms as an asset to home care workers in coordinating their distributed work. A worker’s
+weekly schedule of home visits, which is largely consistent from week to week, constitutes “a
+background structuring against which changes are readily noticed” and adaptations made. The
+schedule is formally specified, but it is also internalized as tacit knowledge by the workers who
+learn the best routes to travel on their rounds and become familiar with the routines of their regular
+clients and coworkers. As with Reddy and Dourish’s hospital workers, this knowledge helps the
+home care workers plan and smoothly accomplish their work. We align more with this perspective
+on rhythms, which looks at how individuals relate to and use rhythms rather than how rhythms
+are aligned in a collaborative effort.
+In the following sections, we describe related work on the rhythmic characteristics of farm work
+and knowledge work. While both types of work involve a variety of natural and structural rhythms,
+natural rhythms are most salient in agriculture, while structural rhythms—particularly those of the
+9–5 job –dominate in knowledge work.
+2.3.1 Rhythms in agriculture. Agricultural work has its own unique set of rhythms, largely defined
+by natural processes and independent of clock time. Inhetveen [23] describes the work of women
+on rural farms as being structured by many overlapping, cyclical rhythms of organic growth; the
+overlapping of these rhythms creates periods of intense time pressure and periods where not much
+is happening, resulting in an “alternation of effort and relaxation.” She also argues that because
+their work-lives are so ruled by natural rhythms, time for these women “is constituted in a more
+concrete, contextual and qualitative as opposed to an abstract, decontextual, mathematical way. ” E.P.
+Thompson, in a canonical essay on orientations to time under capitalism [ 60], contrasted industrial
+capitalism’s adherence to clock time with the “task-orientation” of subsistence farmers and fishers.
+For a peasant farmer, “the day’s tasks...seem to disclose themselves, by the logic of need”; natural
+processes, rather than abstract time, structure the farmer’s work. Because self-employed farmers
+have a relatively high level of temporal autonomy [ 63], they can also shape their work routines
+around human biographical and biological rhythms: for instance, Leshed et al.’s findings include
+the observation that “the flexibility of farm life allows people to follow their own personal natural
+rhythms,” such as being a morning person or a night owl [28].
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:7
+However, farms must still engage with structural rhythms. Farmers who sell their produce have
+to interface with other businesses and organizations that have their own schedules (processing
+facilities for meat; farmers’ markets, grocery stores, and restaurants; organic certifiers; and so on),
+and this presents organizational challenges [28, 57].
+2.3.2 Rhythms in knowledge work. In contrast with farming, knowledge work tends to be associated
+with the structural rhythms of the 9–5 (or 8–5) work day, the 5-day work week, etc. This type
+of work often exists, as Sharma observes, “within the auspices of what is most often conceived
+of as the most normal time, the most structured of temporalities [...] the nine-to-five job” [ 53].
+The nine-to-five provides structure to a type of work that seems to have few natural constraints.
+Compared to farm work, computer-based work is largely independent of day/night cycles, weather,
+and seasons. This is even more true for remote knowledge work, because it eliminates the need
+to commute, with its potential complications (breakdowns, transit strikes, missed connections,
+inclement weather). Accordingly, CSCW research on rhythms in knowledge work tends to focus
+on social rhythms such as those within work teams. For instance, Begole et al . [6] posit that in
+remote/distributed knowledge work where teams are not collocated (and may not be in the same
+time zone), coworkers can’t learn each other’s rhythms and thus are deprived of that resource;
+specifically, this lack of awareness is a barrier to efficient communication. They prototyped a
+visualization to create a “social sense of time” without physical copresence by revealing individuals’
+rhythmic patterns of availability. Koehne et al . [26] describes how remote team members adjust their
+rhythms around those of the physical office—the need to plan one’s days carefully, accommodate
+last-minute changes made by collocated colleagues, and work at odd times if there is a time zone
+disconnect.
+In reality, of course, knowledge work is not fully independent of natural rhythms, because
+humans are part of nature. Nine-to-five work cultures often struggle to accept and incorporate the
+fact that people’s capacity for work is not constant; it fluctuates and can be affected by mental or
+physical illness, stress, competing responsibilities and interests, etc. But beyond these contingencies,
+knowledge work has its own, natural rhythm. One key aspect of this is that progress on creative
+tasks requires sustained focus. In a workplace ethnography focused on software developers, Perlow
+[46] observes that one of the most important factors in the developers’ productivity was the ability
+to create interruption-free periods of time for focused work. Other studies have affirmed the
+importance of making time for focused work and the counter-productive effect of context switching.
+For instance, Mark et al . [36] performed an experiment in which 13 information workers abstained
+from email for 5 workdays. Their findings suggest that email use contributed to an accelerated
+work pace and work fragmentation; without email, people were able to focus longer on work tasks.
+Efforts have also been made to measure workers’ attentional states and how they change over the
+course of the work day and week [35].
+Our data affirm many of these findings about the rhythmic characteristics of agricultural and
+knowledge work. But our paper is unique in that it focuses on the temporal practices of people
+at the intersection of these two kinds of work. We find that the disparate rhythms of farming and
+knowledge work complement each other in unexpected ways, and that when they do conflict, that
+conflict can be generative.
+3 METHODS
+The goal of this project was to explore the experiences and practices of people at the intersection
+of farming and software development. Because they are engaged in two types of work with very
+different temporal patterns, and because they have a relatively high degree of temporal autonomy,
+this group represents an information-rich case [ 45] (p. 242) for studying work-life coordination.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:8 Rosemary Steup et al.
+Participant Pseudonym Gender Involvement in Farming Involvement in Knowledge Work
+James Man Helps on Family Farm Engineering*
+Erin Woman Farm Owner-Operator* Video Production
+Leah Woman Farm Owner-Operator* Nonprofit Director
+Alex Man Farm Employee Farm-Related Data Management
+Martin Man Farm Owner-Operator* Computational Research
+Anthony Man Farm Owner-Operator Farm-Related Data Management
+Daniel Man Farm Manager* Software Development (hobby)
+Nina Woman Gardening I.T. Project Management*
+Zach Man Volunteer Worker* Software Development (hobby)
+Emily Woman Farm Owner-Operator Scientific Coordinator*
+Chris Man Farm Owner-Operator Software Development*
+Luke Man Farm Owner-Operator Software Development*
+Isaac Man Farm Employee (former) Software Development*
+Joshua Man Gardening Software Development*
+Travis Man Farm Employee (former) Software Development*
+Rob Man Gardening Software Development*
+Jesse Man Gardening Software Development*
+Sam Man Gardening Software Development*
+Table 1. Table of research participants. In columns 3 and 4 ("Involvement in Farming" and "Involvement in
+Knowledge Work"), an asterisk indicates the participant’s primary work area in terms of time commitment.
+Where there is no asterisk, it means that the participant’s farm work and computer-based knowledge work
+are part of the same job.
+We therefore reached out to people who had a primary career of either software development
+or farming, with a hobby or involvement in the non-primary. Later, we expanded our scope to
+include other kinds of computer-based knowledge work (engineering, computational research,
+etc.) We deliberately recruited a diverse group of participants, including some who are primarily
+farmers and others who are primarily knowledge workers. The nature of their farm work varies
+widely: for some, “farm work” consists of tending a large backyard garden; for others, raising
+livestock on pasture; for still others, growing row crops on 2000 acres. They also vary in terms
+of how integrated their farm work and knowledge work are with each other: at one extreme, the
+knowledge work arises from the needs of the farm (e.g. a farmer using and developing software to
+manage farm-related data); at the other extreme, farming and knowledge work are part of separate
+realms (e.g. a software developer growing and selling food in their “free” time). The common
+element is the intersection of these two types of work in participants’ lives.
+This project was inspired by and builds upon our previous ethnographic work with small-scale
+farmers [ 57]. Two participants in the included table were part of that previous work and did
+not participate in the present study. Leah participated in an earlier interview study; her quotes
+come from that interview. Chris supervised the first author during four months of participant
+observation as a volunteer worker on his small vegetable farm in summer 2019, at the end of
+which he participated in an interview. Both met the inclusion criteria for this project (involvement
+in both farming and computer-based knowledge work) and made relevant observations in their
+interviews, so they were added to the present data set. That period of participant observation also
+served as a catalyst for this project, both by sparking our interest in how people combine farm and
+computer work, and by providing the first author with a practical understanding of farm work
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:9
+that enabled deeper conversations in interviews (because the interviewer was familiar with basic
+farming concepts and terms).
+3.1 Interviews
+Our main method was semi-structured interviews, which provided rich, qualitative data on people’s
+experiences. Between January 2020 and October 2020, the first and second authors conducted 16
+individual interviews. Interviews were conducted remotely via Zoom—initially because our partici-
+pant pool was geographically dispersed, and later because the COVID-19 pandemic made in-person
+contact impossible. Participants were recruited primarily from FarmOS, an online community that
+uses and maintains open-source farm management software; as well as two other online commu-
+nities, AgOpenGPS and GOATech; and Twitter. Additional participants were recruited through
+snowball sampling, with all participants being contacted via direct message on the respective forums
+or by email. The interviews lasted between 60 and 105 minutes. All interviews were recorded with
+the permission of the participant and later transcribed for further analysis. We analyzed transcripts
+using a grounded approach: open coding was done and codes were clustered to identify themes.
+The first seven participants were contacted again later with follow-up interview requests, as the
+interview protocol changed after they were initially interviewed. Of these participants that were
+contacted again for follow-up interviews, four responded, and interviews were conducted in June
+2021.
+The first interview protocol, used for the first seven interviews, was broad and exploratory.
+Questions related to identity, software development, software use, and community. After analyzing
+the first seven interviews, the theme of balance among different types of work emerged. The
+second interview protocol, used for the remaining interviews, focused on this theme. Questions
+were grouped into three categories: career narratives and identity, work routines, and technology.
+The interview protocol used for the follow-up interviews used questions off the second interview
+protocol, with questions for specific participants added on.
+3.2 Card-sorting exercise
+In the follow-up interviews, participants were asked to participate in a card-sorting activity using
+the virtual whiteboard tool Miro. The goal of this activity was to explore, and test the validity of,
+conceptual categories that had emerged from the previous interviews. Cards were created based on
+activities participants had discussed doing in their first interview (e.g. “debugging code,” “feeding
+chickens,” “watching kids”), with more cards being created by a research assistant during the
+follow-up interview. These activity cards were personalized for each participant. The participants
+were asked to group their cards into categories. A second set of cards was available to participants
+to use as inspiration for categories; these cards were based on adjectives participants had used
+to describe farm work or computer work, such as “flexible,” “creative,” “abstract,” and “physical”.
+All participants saw the same set of category cards. Participants were able to group their cards
+however they pleased, and were later asked to explain their thought process. This activity allowed
+us to think with our participants about qualitative differences within and between types of work.
+4 FINDINGS
+Our Related Work (Section 2) introduced “natural rhythms” and “the nine-to-five,” two categories of
+rhythms that are especially salient when comparing the temporalities of farm work and knowledge
+work. At the intersection of farm work and computer-based work, our participants felt the pull of
+two time regimes, one organized around natural rhythms (seasons, day/night, animal and plant life
+cycles) and the other, the 9–5 work world (8-hour work days, 5-day work weeks, evening social
+events). Farm work and computer-based knowledge work are both flexible and rigid in different
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:10 Rosemary Steup et al.
+and complementary ways. Knowledge work is flexible in the sense that it is largely independent
+of environmental conditions and natural cycles; but it operates under the (sometimes quite rigid)
+structural constraints of wage labor and the 9–5 time regime, which designates certain times
+(roughly 8–5, Monday–Friday, year-round) as work time and expects workers to be consistently
+productive during those times. Conversely, farm work is flexible with respect to clock time and the
+9–5, but it ties the farmer to natural rhythms that can be equally demanding.
+The following sections will describe how people at the intersection of farm work and knowledge
+work interact with these two types of rhythms, sometimes playing them off against each other, in
+their efforts to create a sustainable work-life. In our data, we saw three practices related to rhythms:
+anchoring (making oneself accountable to certain rhythms), decoupling (reducing dependence on
+particular rhythms), and gap-filling (weaving together complementary rhythms).
+4.1 Anchoring
+Anchoring is when a person ties themselves closer to a (set of) rhythm(s), making it part of their
+routines. That rhythm becomes an anchor point around which other activities must be arranged.
+Anchoring provides structure and accountability in the face of uncertainty. To illustrate this theme,
+we describe a common example from our data: anchoring to the natural rhythms of farm animals
+as a way to balance the demands of time-greedy computer work.
+In farm work, caring relationships with nonhuman animals provide ready anchor points to natural
+rhythms. Animals have needs that cannot be ignored or deferred. They have to be fed, watered,
+moved from one section of pasture to another; if housed indoors, they need soiled bedding to be
+replaced with fresh; dairy cows and goats need to be milked at regular intervals; and so on. These
+rhythms provide a certain structure and predictability to the day that some participants welcomed.
+“The work makes itself,” according to Daniel, instructor and farm manager on an educational farm:
+“it’s just responding to the natural rhythms that are around us, the seasons, the—whatever the
+goats are doing, whatever the cows are doing at that particular time or what the fields need or
+what the chickens need...” He said that it is good for his students to be exposed to the rhythms and
+routines of farm work—to be anchored to these rhythms—because it helps them develop a sense
+of rhythm and understand their place within larger natural and social systems. Implicitly, Daniel
+values groundedness for himself and his students.
+Some participants anchored to animals’ rhythms as a way to maintain a desired routine by holding
+themselves accountable. Leah, a small-scale farmer who also works for a nonprofit, describes how
+her non-farm job provides a welcome excuse to rest from her physically demanding farm work: “I
+would say I’m in the best shape of my life [...] but at some point, I need a break. Um...and we get
+sore. And so the nonprofit work...is almost guaranteed to be sitting down. [...] So I can sit and have
+meetings, and I can sit and talk on the phone, and...I need that.” On the other hand, farming also
+involves computer work—accounting, marketing, research, etc.—and the needs of her animals help
+propel her back into motion and outside before the computer time becomes excessive: “And we
+could be on the computer all day, probably. The farm work is a good balance to it, that, y’know,
+you gotta go out and feed the animals three times every day.” In this example, anchoring (to the
+animals and their rhythms) supports a strategy of gap-filling, alternating mental and physical work.
+Rather than relying on willpower or arbitrary schedules to keep computer work in check, she is
+accountable to the animals. Similarly, being accountable to her job ensures that she will take some
+time for non-physical work.
+For our participants who were primarily knowledge workers, working on a farm or garden was
+a way to make physical activity part of their day without setting aside time specifically for exercise.
+Physical work on the farm felt meaningful and satisfying in a way that “working out” did not.
+About mucking out her chicken coops, Anna said, “It’s very physical. So, I like feeling like this is
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:11
+my—instead of going to the Y[MCA], I’m doing this and it’s useful. I love it.” Because it serves a
+purpose beyond exercise, such physical work cannot be put off as easily as a trip to the gym; it
+needs to be done regularly. For Sam, an engineer who before the COVID-19 pandemic had spent a
+lot of time in the shop, and now found himself spending a lot of time in online meetings, the desire
+to do more physical work was tied to his need for exercise: “I’m like not a, you know, some people
+are like runners, like they get up in the morning and they run and—I’m just not that, I need to have
+the physical activity as part of my daily work to get it in.” He believed that being physically active
+was important to his health, but was unable to “make time” for it, as some people do, around his
+work; only by making it part of his work—tying it to an established and highly prioritized rhythm,
+the work day—could he be sure to get regular exercise. Overall, we see that anchoring makes it
+easier for our participants to supports their values of a life that involves both physical and mental
+work.
+4.2 Decoupling
+Decoupling means weakening or limiting one’s ties to a particular (set of) rhythm(s), becoming more
+independent of it. It is the flip side of anchoring: decoupling from one rhythm (e.g., conventional
+working hours) can facilitate anchoring to another (weather conditions that dictate when certain
+farm tasks can be done). Or vice versa: anchoring to one rhythm can lessen the demands of another.
+Analytically, we find it helpful to make this distinction because they have different objectives—
+whereas anchoring creates structure, the goal of decoupling is to increase flexibility. This section
+describes how two farmer participants decoupled from natural rhythms: in one case, by using
+labor-saving technology; in the other, by anchoring to 9–5 work.
+As discussed above, caring for farm animals locks one into certain routines. While this can be
+a desirable source of structure and accountability, it can also feel oppressive. It can put farmers
+out of sync with other, social rhythms; Leah described having to explain to friends, for example,
+“why we...can’t come to the party, because we have to do evening chores.” The farmer is not only
+anchored to the animals’ rhythms, they are physically anchored to the farm, in the sense that it is
+hard to leave the farm untended for any length of time. Anthony, a small-scale livestock farmer
+engaged with the open source software community, described the lack of flexibility he saw on other
+farms: “Everybody else who has chickens, they’re out there at sunrise, to open a door. They’re
+out there at sunset to close the door. If the door’s not closed at sunset, there’s a potential predator
+problem. If it’s not open early enough, you’re now confining your chickens into a small housing.
+It really puts a framework on...‘Hey, I gotta leave whatever I was doing, drop everything and run
+over and close up my chickens.’ ” Anthony had installed automatic feeders and doors on his farm,
+which made his work schedule less dependent on sunrise/sunset and removed the need to feed the
+animals at specific times; using automation, he decoupled his routines from the biorhythms of his
+animals and the phenomenal rhythm of sunrise and sunset. Those adaptations enabled Anthony to
+have what he called “a reasonable life,” one in which he has flexible work hours and can “get away”
+from the farm for up to a day at a time without worrying about his animals. Decoupling allowed
+him to balance his values of flexibility and care for his animals.
+For Emily, a knowledge worker who is actively involved in farming, decoupling meant limiting
+her accountability to each work domain. Her story is an example of how anchoring (to the structural
+rhythm of 9–5 work) can support decoupling (from potentially endless farm work driven by natural
+rhythms). Emily leverages the 9–5 rhythms against the insatiable demands of farm life to give
+herself flexibility. She has a full-time, work-from-home job in research administration. She also
+runs a small farm with her husband on the land where they live. Emily likes having a 9–5 job
+because she values clear boundaries. She did not seek an academic career after finishing graduate
+school because she perceived that academia was “more like a lifestyle than a job”; it required a
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:12 Rosemary Steup et al.
+“commitment” and “level of dedication” that she was not comfortable with. She said that she was
+passionate about her research but wanted to be able to do other things as well, whereas in an
+academic job she would have to make the job her life and be “always working on” it. In such a
+career (she felt), it would be too difficult to maintain uncommitted time, time in which she was not
+accountable to her academic work. Her current job, she says, is restricted to certain times: “you do
+it for eight hours a day, you don’t do it on the weekends, nobody calls you after hours, and you’re
+done.” Like academia, farming has the potential to become an all-consuming “lifestyle”; Emily has
+so far avoided this, in part by anchoring to the 9–5 world through her job. With respect to the farm,
+she has given herself the role of “secondary farmer” (her husband being the primary farmer), which
+allows her to distance herself from the farm as needed. She works on the farm, but on any given day,
+it is a choice for her rather than an obligation. Her husband knows that she is unavailable during
+certain hours because of her job, and if she needs to relax with a book after her work day instead of
+going out to help with the animals, she can. She is ambivalent about whether she would be willing
+to make farming a lifestyle if she were to quit her job and farm full-time. She said she is willing to
+do farm work outside of normal (8–5, Monday–Friday) work hours because she is “emotionally
+invested” in it and because the nature of farming doesn’t allow it to be contained within specific
+hours. But she also said that the desire “to have boundaries around things and...not work all the
+time” is “a very fundamental part of [her]”. It is important to Emily to maintain her autonomy and
+not be subsumed by any one role (researcher, farmer, etc.). Her connection to the 9–5 work world
+and its rhythms (along with her husband’s willingness to fulfill the “primary farmer” role) helps
+her to decouple from the natural rhythms of farming which otherwise do not respect individuals’
+boundaries.
+4.3 Gap-filling
+The third practice we identified, gap-filling, is supported by the first two (anchoring and decoupling).
+It enables, and is enabled by, the way our participants blend farm work with computer-based
+knowledge work. Both knowledge work and farm work have natural gaps—times when continuing
+to work is impractical or yields diminishing returns, whether because of environmental conditions
+(e.g. you can’t weed your fields because the soil is waterlogged from a recent rain) or due to fatigue
+(physical or mental). Gap-filling means alternating or blending the two types of work so a gap in
+one is filled by the other, creating balance between them—similarly to how people who segment
+work and home may find pleasure and relief in moving between these domains [ 13]. In a cultural
+context that discourages unproductive down time, gap-filling makes work sustainable by enabling
+productive rest and limiting unproductive (and therefore unsatisfying) work.
+Looked at through the lens of time management, gap-filling can be a strategy for making the most
+of finite time, thereby supporting dominant market values around efficiency and productivity [ 54,
+p.138]. Especially for those who farm on a commercial basis (rather than purely as a hobby), the
+combined load of farm work and knowledge work can be intense. Whichever mode of work is
+secondary may have to be fit into the gaps of the primary mode because there is no other, spare
+time in which to do it. Martin said of working on his PhD dissertation while also running a farm:
+“it’s literally when I get a gap, do a bit of that [dissertation writing] and that’s just how it goes, it’s a
+slow process, that thing just ticks and ticks and ticks, little bit at a time... ” Conversely, Chris, whose
+main income came from software development, was limited in what hours he could devote to farm
+work. His flexible work schedule and working remotely allowed him to do spend the better part
+of most mornings on the farm; but for the middle part of the day, he had to be “at” his software
+job, with excess farm work squeezed into nights, weekends, and holidays. In the context of time
+scarcity, making use of gaps can be a necessary survival strategy.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:13
+However, our research questions were not about how people manage to do both farming and
+knowledge work, nor how they cope with the demands of both. The questions had more to do with
+why they do both, given that most or all of our participants are in the privileged position of being
+able to choose; they could do knowledge work only and be financially secure. Given this, we argue
+that gap filling is more than a survival strategy; it is a practice that takes advantage of the ways in
+which knowledge work and farm work complement each other. It is a way of managing tensions
+that exist within each set of rhythms (natural and 9–5).
+4.3.1 Managing tensions with 9–5. As alluded to above, the actual rhythm of creative knowledge
+work such as software development does not always match up with the rhythm imposed by a
+traditional, 9–5 work schedule. This mismatch creates gaps that can be filled by weaving together
+farm work and knowledge work. Jesse and Isaac (software developers), and James (engineer) all
+described the phenomenon of being stuck on a programming problem, unable to make headway
+until they took a break. In their stories, the problem was easily solved when they returned to it the
+following morning; in Jesse’s case, “I spent pretty much like half of the day trying to figure it out
+[...] couldn’t figure it out and it was like alright, log off for the day, do whatever. The following
+morning I got, you know, logged in, started typing, and then boom, I had it within like 30 minutes
+to an hour.” He credited this breakthrough to being “fresh in the morning” and having spent time
+doing other things: he was “able to come up with a solution because of the fact I was able to do
+something different instead of just trying to continue to hammer at it till I got it”. During the
+workday, however, they felt compelled to keep “hammering” at the problem because they were
+expected to work during certain hours. James told us about one such instance in which he stayed
+at the computer, working on a problem, but saw little value in doing so: “it was just one of those
+things you wish you could just put down and walk away from, but that was in my work hours,
+cause, you know, to deliver a project and it has to be done, so you have to just kinda struggle
+through, even though you could literally put it away for an hour, come back in an hour, and be as
+far on as you would have been just sat there trying to figure it out.” James believed that if he had
+taken a break, it would not have hurt his productivity; he would have gotten to the solution at the
+same time regardless of how he spent that hour (that potential gap). Both James and Jesse said they
+would like to have the freedom to walk away from situations like this, to fill the gap with other
+kinds of work and come back to the problem with a fresh perspective.
+Given the flexibility to do so, weaving together farm work with knowledge work can ease this
+tension between natural work rhythms and the 9–5. Routine, physical work on a farm or garden is a
+chance to rest from creative, mental work and bring about the perspective shift that participants said
+was key to getting unstuck. Joshua, a contract software developer, described “mindless” gardening
+tasks as a counterbalance to the mental demands of his job: “The development and programming
+work is very mental and it can be tiring mentally, when you’re doing a lot of that [...] gardening
+work is a little bit better like if you’re just, you know, doing wheelbarrows of mulch, that’s nice. And
+you can let your mind daydream.” Gardening for him is a form of purposeful relaxation—mental
+rest that restores the ability to do mental work. It can also be a secondary mode of knowledge work,
+in which mental processing continues in the background while he is doing the physical task: “I
+actually find that I, you know, a lot of the ideas that I’ve had for [software projects] have happened
+while I’m doing that kind of work [...] it takes the focus off a little bit, but the thoughts are still there,
+they’re still happening.” Here we see participants pushing against the purely productivist values
+of grit; instead, they value rest and the belief that stepping away into something else ultimately
+engenders creativity and bigger payoffs. By taking a break from active programming to work on
+his garden—filling the gap in one kind of work with the other—he actually makes progress on both.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:14 Rosemary Steup et al.
+4.3.2 Compensating for long timelines. Another aspect of gap-filling was when participants relied
+on one kind of work (farming or knowledge work) to supply something that was lacking from
+the other kind of work. For Emily (scientific coordinator, farmer) and Rob (software developer,
+gardener), farm work provided a feeling of tangible accomplishment that is hard to come by in
+abstract, mental work. This was related to rhythms found in each kind of work—specifically, the
+long time scales of software or research projects versus the short time scales of some physical farm
+tasks.
+Knowledge work tends to have long delays between the inception of a project and its completion.
+Because of these long timelines and the abstract nature of much knowledge work, it may be hard
+for a person to see the connection between their work and a positive, material outcome, especially
+if they are part of a large, collaborative effort. Emily said that she prefers to do routine, physical
+tasks for the farm instead of more creative or mentally demanding tasks (which she tends to leave
+to her husband and co-farmer). She drew a connection between this preference and her time in
+graduate school, when “I found it like really, really rewarding to empty the dishwasher because I
+was like, I know how long this task is gonna take, I know that I can do this task [...] it just seems
+like such an achievable thing for me.” She didn’t enjoy emptying the dishwasher just because it
+was “mindless,” but nonetheless valued this straightforward, predictable, and tangible work—an
+easy win, compared to the uncertainty of designing and executing research as a graduate student.
+Rob appreciated garden tasks like weeding for similar reasons: because they produce immediate,
+tangible results. Comparing software development to working in his garden, he said that the former
+is abstract, in the sense that the impacts of his work are hard to measure or translate into concrete
+terms, and he feels distant from the material outcomes of his work: “I update lines of code that,
+you know, may or may not actually change anything on the screen, but they run slightly faster or
+it runs, you know, a little bit better or whatever [...] especially when I was managing people—now
+it’s, you know, I have a conversation with somebody that makes them do something a little bit
+better, that makes the system work a little bit better, that might impact, you know, somebody—and
+your timelines are a lot longer”; whereas “in the garden, I pick a weed, the weed is gone. You
+know, like it’s very fast feedback, it’s very tangible, you know, you can look out and see the good
+that you’ve done.” Routine, physical work such as can be found in farming or gardening presents
+a straightforward course of action and a guaranteed sense of accomplishment at the end, from
+material outcomes that the worker can see and touch. As Rob demonstrates with the example of
+weeding, such work also produces results quickly . It can thus fill the gaps left by the “long timelines”
+of abstract knowledge work—the long delay between starting a project and seeing results, and the
+distance between one’s work and a tangible outcome.
+5 DISCUSSION
+Drawing on our findings and literature, we characterize these practices—anchoring, decoupling,
+and gap-filling—as types of attunement work (Figure 1). Attunement work is a complement to
+the established theory of alignment work [ 24]; while alignment work describes how disparate
+rhythms are brought into workable alignment as part of collaborative work, attunement work
+describes how individuals configure their relationships with rhythms in order to sustain work.
+Thinking in terms of attunement work can help us analyze conflicts between farmers’ (particularly
+non-traditional farmers’) values and the values embedded in technologies. It can also guide efforts
+to design work-support tools that mitigate busyness and burnout.
+5.1 Defining attunement work
+From our analysis, we define attunement work as the ways people negotiate their relationships
+with various temporal rhythms, with the goal of creating sustainable work-lives. In this section,
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:15
+Fig. 1. Attunement work: anchoring (committing to a rhythm) and its inverse, decoupling (loosening ties to a
+rhythm), support gap-filling (interweaving complementary rhythms).
+we invoke Science and Technology Studies (STS) and the sociology of time to further develop the
+concept of attunement work and situate it within these literatures.
+Our findings resonate with Zerubavel’s comments on the tension between routine and spontaneity
+in his book Hidden Rhythms [65]. On the one hand, Zerubavel observes, the routinization of
+life (“rigidification” of the duration, sequence, and periodicity of events and activities) squashes
+spontaneity (freedom to do things at any time, for any length of time, in any order) and can put
+people out of sync with natural rhythms (p. 44-49). On the other hand, routine appeals to individuals
+because it relieves the burden of uncertainty and constantly needing to make decisions (p. 50-
+51). Routines and schedules enforce “orderliness and structure” that people otherwise struggle
+to maintain: “Every constraining order is at least somewhat attractive to many of us, since it
+provides us with the discipline that we need yet find so difficult to impose on ourselves” (p. 50).
+We argue that these impulses towards spontaneity and routine drive the practices of anchoring
+and decoupling, respectively. Anchoring to a rhythm—making it a non-negotiable part of life
+around which other activities must be arranged—supports structure and accountability. Decoupling
+from a rhythm—removing the need to attend to or synchronize with it—creates opportunities
+for spontaneity. Decoupling and anchoring also support the higher-order strategy of gap-filling,
+weaving together disparate rhythms in order to resolve tensions and create balance.
+Importantly, while Zerubavel was interested in scheduling and its role in routinization, attune-
+ment work does not depend on schedules. Our participants did use scheduling tools: they mentioned,
+and sometimes shared with us, calendars, task boards, planners, and to-do lists. However, anchoring
+(for instance) is not the same as putting something on a schedule. Consider our participants who
+found that tending to the needs of farm animals was a good way to get regular exercise. Zerubavel
+asserts that “by allowing some special time for certain activities, the schedule makes sure that we
+get to do them” (p. 53). But this is only true in an ideal case where the person “faithfully adhere[s]”
+to the schedule. For many of us, putting gym time on our calendar does not ensure that we will
+actually go to the gym. Anchoring one’s routine to the rhythms of animals is more reliable because
+maintaining the routine becomes a duty of care. It involves an affective commitment to the animals.
+In this example, the fact that animals’ needs follow natural rhythms—not purely social rhythms like
+those Zerubavel focuses on—means that scheduling is not strictly necessary. By the same token,
+decoupling is not just the absence or rejection of a formal schedule; it is a choice to cut or loosen
+ties with a particular rhythm via some kind of workaround. Decoupling from animals’ rhythms
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:16 Rosemary Steup et al.
+can be accomplished using technology, like the automated feeders and doors Anthony installed on
+his farm; or it can be as simple as varying one’s routine so that the animals don’t learn to expect
+food at a specific time of day, as a farmer in our previous interview study did.
+We borrow the term attunement from STS, where it frequently has a dual meaning: sensitivity to
+a particular context or phenomenon; and patterns and ways of being that solidify over time. The
+first sense is that of being attuned to something, of attention and honed awareness; the second sense
+is that of being attuned , human and nonhuman actors mutually shaping and adjusting to each other
+to form a particular configuration [ 3,11,58]. Choy [11] expresses this dual nature via the difference
+between “tending” (“a sense of care and cultivation...a form of accompaniment and patience”) and
+“tending toward” (“a tendency to move in a direction...a property of things that emerges in relation
+to ambient conditions”). Our understanding of attunement also resonates with Maria Puig de la
+Bellacasa’s [ 48] work on soil care in agriculture, which unites the feminist STS commitment to
+caring relations with an interest in temporal rhythms. She advocates a focus on “care time” as a
+way to make visible the multiple human and nonhuman temporalities involved in soil care, and
+positions humans as members of a soil community rather than outside observers exerting control
+over soil rhythms. Analyzing Bill Mollison’s (one of the founders of the permaculture movement)
+concept of ‘thoughtful and protracted observation, ’ she describes it as an iterative process in which
+soil care practitioners “learn the needs of the landscape” through deep and prolonged engagement,
+and the ecosystem in turn “learns” to expect and respond to human interventions. This process
+of mutual learning and adjustment “requires attention and fine-tuning to the temporal rhythms
+of an ‘other’ and to the specific relations that are being woven together”—what we would call
+attunement.
+Attunement work , like alignment work, is a mode of relating to temporal rhythms; but it differs
+from alignment work in that the scope of attunement work is personal rather than organizational.
+Alignment work focuses on how discrepant rhythms are made to “mesh” productively so that
+work objectives can be accomplished. Even when alignment work has direct and intimate effects
+on workers’ lives—as in the example of NASA teams living on Mars time to better supervise the
+Mars rovers, this putting them out of sync with their families who are still on Earth time [ 24]—the
+focus is on the need for rhythms to be aligned (the biographical rhythms of the team members
+with the phenomenal rhythm of Mars’ 24.65-hour day), and the perspective is that of an outside
+observer. The scope does not allow for discussing the agency of individual workers and their
+personal relationships with particular rhythms. Attunement is also distinct from the related concept
+of temporal horizons, which Reddy et al . [50] introduced to describe how individuals use their
+knowledge of rhythms and trajectories [ 14,49] to plan their work day: temporal horizons explain
+“how people broadly arrange their activities to ensure that they accomplish their work in a timely
+and appropriate manner.” Horizons can be more or less flexible (vs. inflexible) and close (vs. distant).
+In other words, people have an awareness of what is coming up, how soon, and how much flexibility
+they have in when they deal with it. Temporal horizons are similar to attunement work in being
+“people-based, not activity-based” [ 50]; however, our data were not about how people coordinate to
+accomplish specific work objectives, but about how they sustain the conditions that make work
+possible. Our participants use rhythms as resources, not primarily for the smooth and efficient
+accomplishment of work, but for making work sustainable.
+5.2 Applying attunement work to CSCW
+Having defined the conceptual framework of attunement work, we now discuss how attunement
+work can be applied to two threads of research in CSCW: values and technology use in agriculture,
+and the role of technologies in time use and busyness. In the first case, attunement work offers
+a way to tease out nuances within value clashes identified by existing literature. In the second
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:17
+case, it supports an analysis of rhythm-based productivity tools, towards the goal of designing for
+slowness.
+5.2.1 Farming, values, and technology. In the Related Work (Section 2), we observed that past HCI
+work on farming has focused on identifying farmers’ values and pointing out value conflicts—
+friction points where the values of farmers seem incompatible with the values embedded in work
+support tools. This previous work has been skeptical about the merit of mainstream technologies
+in a small, sustainability-oriented farm context, on the grounds that the values embedded in these
+technologies (e.g., efficiency, control) clash with the values of farmers (e.g., sustainability, care,
+community). Our data, however, hint at nuance within these value conflicts. With respect to the
+value of efficiency, many of the farmer-knowledge workers we spoke with embraced efficiency:
+“Work smarter, not harder” was a phrase we heard from several participants. However, their pursuit
+of efficiency was uneven and strategic: they automated certain tasks while remaining committed to
+labor-intensive farming practices such as rotational grazing, or enjoying routine, physical chores.
+Attunement work provides another way to think about the role of values like efficiency in farmers’
+technology use. Through practices of gap-filling, anchoring, and decoupling, our participants
+connected to desired values (e.g. creativity, flexibility, self-care, and accomplishment) and balanced
+competing values (e.g. emotionally investing in work while not making it a lifestyle).
+For instance, Anthony’s use of automatic doors and feeders to decouple from the rhythms of
+his farm animals highlights nuances in the relationship between efficiency and care. Automated
+technologies promise more efficient use of time and labor, including less work (or less undesirable
+work) for farmers. For Anthony, introducing automation into his farm created more flexibility in
+his schedule, letting him attune his own circadian rhythms (not rising at dawn) and rhythms of
+his social group (being free to spend time with friends in the evening). But this decoupling does
+not imply a lack of care or even a desire to engage less with the animals. In fact, it supported care;
+while he talked about flexibility and how it is tied into his idea of “a reasonable life” for himself, his
+explanation also reflected concern for the animals’ welfare. He wanted to know that the animals
+would be okay if something unexpected disrupted his routine. So automation in this case supported
+care in the form of resilience—the ability (for systems) to survive temporal disruption. At the same
+time, decoupling via labor-saving technology facilitated self-care, making Anthony’s work more
+meaningful and sustainable.
+Whereas previous work has noted how automation and data-driven farming tools reproduce
+Taylorism to the detriment of farmers, this example suggests that while—for example—automated
+technologies may foreground efficiency, that efficiency can be harnessed in meaningful ways to
+allow farmers to enact other values. The framework of attunement work helps us to analyze what
+values like “efficiency” and “care” mean to farmers and how they are accomplished, in order to
+better understand how these values are or are not supported by available technologies.
+5.2.2 Designing for slowness. This section will illustrate the value of attunement work as a design
+analytic by using it to analyze the existing tool f.lux, which represents a class of productivity tools
+that promise better health and more effective work through attunement with natural rhythms.
+f.lux can be seen as supporting anchoring, but we argue that its default use is for decoupling. We
+then speculate about how a similar tool could be more geared toward anchoring and gap-filling,
+consistent with efforts to design technology for slowness [30, 44].
+f.lux1is a software tool designed to help digital device users regulate their circadian rhythms. Its
+premise is that exposure to blue light from computer and phone screens outside of daylight hours
+disrupts circadian rhythms and can lead to poor sleep: “During the day, computer screens look
+1https://justgetflux.com/
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:18 Rosemary Steup et al.
+good—they’re designed to look like the sun. But, at 9PM, 10PM, or 3AM, you probably shouldn’t
+be looking at the sun.” When installed on a computer or phone, f.lux automatically adjusts the
+device’s color settings depending on the time of day. When combined with Philips Hue smart lights,
+it promises to regulate the color of all lights in the house, making them “warm at night and like
+sunlight during the day”.
+At first glance, this seems to be a tool for anchoring, tying oneself more closely to the rhythms
+of sunrise and sunset. It promotes a (more or less passive) awareness of this rhythm and how it
+interacts with one’s internal circadian rhythm. But while f.lux could indeed be used for anchoring—
+particularly if the user heeds the gentle warnings the software provides at night (notifications that
+“you are waking up in x hours” and in-app text that says “light is making your body later”)—its
+default use is to support decoupling. Specifically, it supports users in decoupling their circadian
+rhythms from sunrise and sunset.
+f.lux does not intervene directly in users’ routines; it does not force you to put down your
+devices or turn off your lights after sunset. If anything, it is enabling people to extend their work
+day or simply stay up later, by reducing the negative health effects of that behavior. This is not
+inherently bad (there are many valid reasons to use f.lux in this way), but combined with social
+pressures, it has the potential to exacerbate problems associated with “busyness”—increase in the
+intensity of work [ 20], pressure to be constantly engaged in productive activity [ 30], lack of “down
+time,” and involuntary blurring of the boundaries between home and work [ 38]. f.lux embodies
+the same tension as mindfulness technologies [ 18] and corporate yoga classes [ 53] that assist
+overwhelmed knowledge workers to get in touch with their bodies and recalibrate their sense
+of time. As Sharma and Gregg argue, such interventions serve to make knowledge work more
+bearable without challenging the structural conditions in which such work takes place [18, 53].
+f.lux promises to help people attune circadian rhythms for the sake of health and productivity,
+which fits in well with a self-optimization approach to work. But as Leshed and Sengers [30]
+observe, the feeling of control that productivity tools give their users is often superficial or illusory.
+They advocate for designs that consider “neglected but valued aspects of people’s experiences with
+busyness—spontaneity and dynamic interactions, downtime, and slowness”. By thinking in terms
+of attunement practices, we can see how f.lux or a similar tool could be “designed for slowness”
+instead of for efficiency [44].
+A differently imagined tool could facilitate anchoring to natural rhythms and create gaps in the
+9-5 work day. Such a design could take inspiration from farming, where rain makes certain kinds of
+outdoor work impossible, leaving the farmer or gardener to work on indoor tasks or take a break
+from farm work. A knowledge worker could anchor to weather with a tool that cuts off the user’s
+Internet access during rainstorms—thus disrupting the “artificiality” of indoor work and creating
+spontaneous opportunities to rest or engage in other kinds of work.
+We do not propose this as a solution to busyness. Interventions and tools that target individuals
+will not, on their own, change the culture those individuals are part of. A tool like the one described
+would be impractical if the user’s supervisors, coworkers, and others do not or cannot accommodate
+the disruptions it produces. Rather than a practical design idea, it is a provocation to think about
+the value of embracing disruption and how attunement work (in this case anchoring) can be a
+starting point for this.
+5.3 Limitations
+The specific kind of attunement work that our participants do—manipulating 9–5 and natural
+rhythms to create sustainable work arrangements—is not equally available to all workers. For
+one thing, not everyone has the ability or desire to do both (largely unprofitable) farm work and
+computer work. The types of creative knowledge work that many of our participants are employed
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:19
+in (software development, engineering) come with much higher compensation and more temporal
+autonomy than, for instance, a low-wage service job. Being a farmer (as opposed to a farm worker)
+also implies a certain level of financial resources and control over one’s time. Temporal autonomy—
+the ability to control one’s time, and to decide what rhythms to attune—is probably the most
+important factor that makes attunement work possible. In addition, we have focused here on the
+types of rhythms that are most relevant in farm work and computer-based knowledge work; other
+work domains may be dominated by different rhythms. Attunement work probably looks different
+depending on the types of work a person is blending and the level of constraints on their time.
+In studying this particular group of people—relatively privileged people involved in two very
+different kinds of work—we are not arguing that they constitute an overlooked population that
+needs to be supported with better technology. Rather, we are taking theoretical inspiration from
+the practices of these hybrid workers. They have the economic flexibility to make different kinds of
+choices about how to manage their lives, which has lead them to doing this kind of attunement
+work—something we suspect others would do too, if they had the economic and other kinds of
+flexibility and stability to do so. The question is therefore, how might CSCW support other groups
+of workers in doing attunement work?
+6 CONCLUSION
+This paper extends past CSCW work on temporal rhythms by exploring the intersection of farming
+and computer-based knowledge work. Based on our interviews and other engagement with people
+at this intersection, we have identified three practices—anchoring, decoupling, and gap-filling—
+which together we characterize as attunement work. Attunement work is similar to the existing
+concept of alignment work, which refers to the invisible work of synchronizing disparate rhythms in
+distributed, collaborative projects. By proposing attunement work, we wish to highlight a different,
+more personal mode of engagement with rhythms. Rather than teams accomplishing specific
+work goals, attunement work is done by individuals to create sustainable work routines—temporal
+arrangements that support them in meeting their needs and accomplishing their values.
+ACKNOWLEDGMENTS
+We thank our participants for the gift of their time and experience. We are particularly grateful to
+the farm team who hosted Rosemary as a volunteer worker in 2019. This work is supported in part
+by the National Science Foundation through CAREER grant IIS-1845964 and grant nos. 1718121 and
+1909500. Paige White was supported by an NSF Research Experiences for Undergraduates (REU)
+supplement.
+REFERENCES
+[1] David Allen. 2001. Getting Things Done: The Art of Stress-Free Productivity . Viking, New York.
+[2]Morgan G. Ames, Janet Go, Joseph ‘Jofish’ Kaye, and Mirjana Spasojevic. 2011. Understanding Technology Choices
+and Values Through Social Class. In Proceedings of the ACM 2011 Conference on Computer Supported Cooperative Work
+(CSCW ’11) . ACM, New York, NY, USA, 55–64. https://doi.org/10.1145/1958824.1958834
+[3]Sareeta Amrute. 2019. Of Techno-Ethics and Techno-Affects. Feminist Review 123, 1 (Nov. 2019), 56–73. https:
+//doi.org/10.1177/0141778919879744
+[4]Blake E. Ashforth, Glen E. Kreiner, and Mel Fugate. 2000. All in a Day’s Work: Boundaries and Micro Role Transitions.
+The Academy of Management Review 25, 3 (July 2000), 472–491.
+[5]James “Bo” Begole, John C. Tang, and Rosco Hill. 2003. Rhythm Modeling, Visualizations and Applications. In
+Proceedings of the 16th Annual ACM Symposium on User Interface Software and Technology . ACM, Vancouver, Canada,
+11–20.
+[6]James “Bo” Begole, John C. Tang, Randall B. Smith, and Nicole Yankelovich. 2002. Work Rhythms: Analyzing
+Visualizations of Awareness Histories of Distributed Groups. In Proceedings of the 2002 ACM Conference on Computer
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:20 Rosemary Steup et al.
+Supported Cooperative Work (CSCW ’02) . Association for Computing Machinery, New York, NY, USA, 334–343. https:
+//doi.org/10.1145/587078.587125
+[7]Susanne Bødker. 2016. Rethinking Technology on the Boundaries of Life and Work. Personal and Ubiquitous Computing
+20, 4 (Aug. 2016), 533–544. https://doi.org/10.1007/s00779-016-0933-9
+[8]Susanne Bødker, Henrik Korsgaard, and Joanna Saad-Sulonen. 2016. ‘A Farmer, a Place and at Least 20 Members’:
+The Development of Artifact Ecologies in Volunteer-based Communities. In Proceedings of the 19th ACM Conference
+on Computer-Supported Cooperative Work & Social Computing (CSCW ’16) . ACM, New York, NY, USA, 1142–1156.
+https://doi.org/10.1145/2818048.2820029
+[9]Alan Borning and Michael Muller. 2012. Next Steps for Value Sensitive Design. In Proceedings of the SIGCHI Conference
+on Human Factors in Computing Systems (CHI ’12) . ACM, New York, NY, USA, 1125–1134. https://doi.org/10.1145/
+2207676.2208560
+[10] Joeri Bruyninckx. 2017. Synchronicity: Time, Technicians, Instruments, and Invisible Repair. Science, Technology, &
+Human Values 42, 5 (Sept. 2017), 822–847. https://doi.org/10.1177/0162243916689137
+[11] Timothy Choy. 2018. TENDING TO SUSPENSION: Abstraction and Apparatuses of Atmospheric Attunement in
+Matsutake Worlds. Social Analysis 62, 4 (2018), 54–77. https://doi.org/10.3167/sa.2018.620404
+[12] Lars Rune Christensen, Hasib Ahsan, and Eshrat Akand. 2018. Krishi Kontho: An Agricultural Information Service in
+Bangladesh. In Proceedings of the 10th Nordic Conference on Human-Computer Interaction (NordiCHI ’18) . Association
+for Computing Machinery, Oslo, Norway, 203–214. https://doi.org/10.1145/3240167.3240225
+[13] Sue Campbell Clark. 2000. Work/Family Border Theory: A New Theory of Work/Family Balance. Human Relations 53,
+6 (June 2000), 747–770. https://doi.org/10.1177/0018726700536001
+[14] Juliet M. Corbin and Anselm L. Strauss. 1988. Unending Work and Care: Managing Chronic Illness at Home (1st ed ed.).
+Jossey-Bass Publishers, San Francisco.
+[15] Janet Davis and Lisa P. Nathan. 2015. Value Sensitive Design: Applications, Adaptations, and Critiques. In Handbook
+of Ethics, Values, and Technological Design: Sources, Theory, Values and Application Domains , Jeroen van den Hoven,
+Pieter E. Vermaas, and Ibo van de Poel (Eds.). Springer Netherlands, Dordrecht, 11–40. https://doi.org/10.1007/978-94-
+007-6970-0_3
+[16] Aparecido Fabiano Pinatti De Carvalho, Luigina Ciolfi, and Breda Gray. 2017. Detailing a Spectrum of Motivational
+Forces Shaping Nomadic Practices. In Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work
+and Social Computing . 962–977.
+[17] Batya Friedman. 1996. Value-Sensitive Design. Interactions 3, 6 (Dec. 1996), 16–23. https://doi.org/10.1145/242485.
+242493
+[18] Melissa Gregg. 2018. Counterproductive: Time Management in the Knowledge Economy . Duke University Press, Durham,
+[North Carolina] ; London.
+[19] Erik Grönvall, Luigina Ciolfi, Gabriela Avram, Chiara Rossitto, and Louise Barkhuus. 2016. HCI at the Boundary of Work
+and Life. Personal and Ubiquitous Computing 20, 4 (Aug. 2016), 481–485. https://doi.org/10.1007/s00779-016-0937-5
+[20] David E. Guest. 2002. Perspectives on the Study of Work-life Balance. Social Science Information 41, 2 (June 2002),
+255–279. https://doi.org/10.1177/0539018402041002005
+[21] Tad Hirsch, Phoebe Sengers, Eli Blevis, Richard Beckwith, and Tapan Parikh. 2010. Making Food, Producing Sustain-
+ability. In CHI ’10 Extended Abstracts on Human Factors in Computing Systems (CHI EA ’10) . ACM, New York, NY, USA,
+3147–3150. https://doi.org/10.1145/1753846.1753939
+[22] Lara Houston, Steven J. Jackson, Daniela K. Rosner, Syed Ishtiaque Ahmed, Meg Young, and Laewoo Kang. 2016. Values
+in Repair. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ’16) . ACM, New
+York, NY, USA, 1403–1414. https://doi.org/10.1145/2858036.2858470
+[23] Heide Inhetveen. 1994. Farming Women, Time and the ‘Re-agrarianization’ of Consciousness. Time & Society 3, 3 (Oct.
+1994), 259–276. https://doi.org/10.1177/0961463X94003003001
+[24] Steven Jackson, David Ribes, Ayse Buyuktur, and Geoffrey Bowker. 2011. Collaborative Rhythm : Temporal Disso-
+nance and Alignment in Collaborative Scientific Work. In Proceedings of the ACM Conference on Computer Supported
+Cooperative Work, CSCW . 245–254. https://doi.org/10.1145/1958824.1958861
+[25] Nassim JafariNaimi, Lisa Nathan, and Ian Hargraves. 2015. Values as Hypotheses: Design, Inquiry, and the Service of
+Values. Design Issues 31, 4 (Oct. 2015), 91–104. https://doi.org/10.1162/DESI_a_00354
+[26] Benjamin Koehne, Patrick C. Shih, and Judith S. Olson. 2012. Remote and Alone: Coping with Being the Remote
+Member on the Team. In Proceedings of the ACM 2012 Conference on Computer Supported Cooperative Work (CSCW ’12) .
+Association for Computing Machinery, New York, NY, USA, 1257–1266. https://doi.org/10.1145/2145204.2145393
+[27] Christopher A. Le Dantec, Erika Shehan Poole, and Susan P. Wyche. 2009. Values as Lived Experience: Evolving
+Value Sensitive Design in Support of Value Discovery. In Proceedings of the SIGCHI Conference on Human Factors
+in Computing Systems (CHI ’09) . Association for Computing Machinery, New York, NY, USA, 1141–1150. https:
+//doi.org/10.1145/1518701.1518875
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+Rhythmic Attunement and Sustainable Work at the Intersection of Farming and Knowledge Work 476:21
+[28] Gilly Leshed, Maria Håkansson, and Joseph ‘Jofish’ Kaye. 2014. “Our Life Is the Farm and Farming Is Our Life”:
+Home-Work Coordination in Organic Farm Families. In Proceedings of the 17th ACM Conference on Computer Supported
+Cooperative Work & Social Computing - CSCW ’14 . ACM Press, Baltimore, Maryland, USA, 487–498. https://doi.org/10.
+1145/2531602.2531708
+[29] Gilly Leshed, Masha Rosca, Michael Huang, Liza Mansbach, Yicheng Zhu, and Juan Nicolás Hernández-Aguilera.
+2018. CalcuCafé: Designing for Collaboration Among Coffee Farmers to Calculate Costs of Production. Proc. ACM
+Hum.-Comput. Interact. 2, CSCW (Nov. 2018), 149:1–149:26. https://doi.org/10.1145/3274418
+[30] Gilly Leshed and Phoebe Sengers. 2011. “I Lie to Myself That I Have Freedom in My Own Schedule”: Productivity
+Tools and Experiences of Busyness. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+(CHI ’11) . ACM, New York, NY, USA, 905–914. https://doi.org/10.1145/1978942.1979077
+[31] Ann Light and Daniela Petrelli. 2014. The Rhythm of Christmas: Temporality, ICT Use and Design for the Idiosyncrasies
+of a Major Festival. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures:
+The Future of Design (OzCHI ’14) . Association for Computing Machinery, New York, NY, USA, 159–167. https:
+//doi.org/10.1145/2686612.2686636
+[32] Hajin Lim, Ian Arawjo, Yaxian Xie, Negar Khojasteh, and Susan R. Fussell. 2017. Distraction or Life Saver? The Role of
+Technology in Undergraduate Students’ Boundary Management Strategies. Proceedings of the ACM on Human-Computer
+Interaction 1, CSCW (Dec. 2017), 68:1–68:18. https://doi.org/10.1145/3134703
+[33] Szu-Yu (Cyn) Liu, Shaowen Bardzell, and Jeffrey Bardzell. 2018. Out of Control: Reframing Sustainable HCI Using
+Permaculture. In Proceedings of the 2018 Workshop on Computing Within Limits (LIMITS ’18) . ACM, New York, NY,
+USA, 2:1–2:8. https://doi.org/10.1145/3232617.3232625
+[34] Peter Lyle, Jaz Hee-jeong Choi, and Marcus Foth. 2015. Growing Food in the City: Design Ideations for Urban
+Residential Gardeners. In Proceedings of the 7th International Conference on Communities and Technologies (C&T ’15) .
+ACM, New York, NY, USA, 89–97. https://doi.org/10.1145/2768545.2768549
+[35] Gloria Mark, Shamsi T. Iqbal, Mary Czerwinski, and Paul Johns. 2014. Bored Mondays and Focused Afternoons:
+The Rhythm of Attention and Online Activity in the Workplace. In Proceedings of the SIGCHI Conference on Human
+Factors in Computing Systems (CHI ’14) . Association for Computing Machinery, New York, NY, USA, 3025–3034.
+https://doi.org/10.1145/2556288.2557204
+[36] Gloria Mark, Stephen Voida, and Armand Cardello. 2012. “A Pace Not Dictated by Electrons”: An Empirical Study of
+Work without Email. (2012), 10.
+[37] Melissa Mazmanian, Ingrid Erickson, and Ellie Harmon. 2015. Circumscribed Time and Porous Time: Logics as
+a Way of Studying Temporality. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative
+Work & Social Computing (CSCW ’15) . Association for Computing Machinery, Vancouver, BC, Canada, 1453–1464.
+https://doi.org/10.1145/2675133.2675231
+[38] Melissa Mazmanian, Wanda J. Orlikowski, and JoAnne Yates. 2013. The Autonomy Paradox: The Implications
+of Mobile Email Devices for Knowledge Professionals. Organization Science 24, 5 (Oct. 2013), 1337–1357. https:
+//doi.org/10.1287/orsc.1120.0806
+[39] Lisa P. Nathan. 2008. Ecovillages, Values, and Interactive Technology: Balancing Sustainability with Daily Life in 21st
+Century America. In CHI ’08 Extended Abstracts on Human Factors in Computing Systems (CHI EA ’08) . ACM, New
+York, NY, USA, 3723–3728. https://doi.org/10.1145/1358628.1358920
+[40] Magnus Nilsson and Morten Hertzum. 2005. Negotiated Rhythms of Mobile Work: Time, Place, and Work Schedules. In
+Proceedings of the 2005 International ACM SIGGROUP Conference on Supporting Group Work (GROUP ’05) . Association
+for Computing Machinery, New York, NY, USA, 148–157. https://doi.org/10.1145/1099203.1099233
+[41] Christena E. Nippert-Eng. 1996. Home and Work: Negotiating Boundaries through Everyday Life . University of Chicago
+Press, Chicago, IL.
+[42] Juliet Norton, Birgit Penzenstadler, and Bill Tomlinson. 2019. Implications of Grassroots Sustainable Agriculture
+Community Values on the Design of Information Systems. Proceedings of the ACM on Human-Computer Interaction 3,
+CSCW (Nov. 2019), 34:1–34:22. https://doi.org/10.1145/3359136
+[43] William Odom. 2010. “Mate, We Don’t Need a Chip to Tell Us the Soil’s Dry”: Opportunities for Designing Interactive
+Systems to Support Urban Food Production. In Proceedings of the 8th ACM Conference on Designing Interactive Systems
+(DIS ’10) . ACM, New York, NY, USA, 232–235. https://doi.org/10.1145/1858171.1858211
+[44] William Odom, Richard Banks, Abigail Durrant, David Kirk, and James Pierce. 2012. Slow Technology: Critical
+Reflection and Future Directions. In Proceedings of the Designing Interactive Systems Conference (DIS ’12) . Association
+for Computing Machinery, New York, NY, USA, 816–817. https://doi.org/10.1145/2317956.2318088
+[45] Michael Quinn Patton. 2002. Qualitative Research & Evaluation Methods . SAGE.
+[46] Leslie A Perlow (Ed.). 1997. Finding Time: How Corporations, Individuals, and Families Can Benefit from New Work
+Practices . ILR Press, Ithaca, NY.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.
+476:22 Rosemary Steup et al.
+[47] Katie Pine. 2012. Fragmentation and Choreography: Caring for a Patient and a Chart during Childbirth. In Proceedings of
+the ACM 2012 Conference on Computer Supported Cooperative Work (CSCW ’12) . Association for Computing Machinery,
+New York, NY, USA, 887–896. https://doi.org/10.1145/2145204.2145336
+[48] Maria Puig de la Bellacasa. 2015. Making Time for Soil: Technoscientific Futurity and the Pace of Care. Social Studies
+of Science 45, 5 (Oct. 2015), 691–716. https://doi.org/10.1177/0306312715599851
+[49] Madhu Reddy and Paul Dourish. 2002. A Finger on the Pulse: Temporal Rhythms and Information Seeking in Medical
+Work. In Proceedings of the 2002 ACM Conference on Computer Supported Cooperative Work (CSCW ’02) . Association for
+Computing Machinery, New York, NY, USA, 344–353. https://doi.org/10.1145/587078.587126
+[50] Madhu Reddy, Paul Dourish, and Wanda Pratt. 2006. Temporality in Medical Work: Time Also Matters. Computer
+Supported Cooperative Work: The Journal of Collaborative Computing 15, 1 (Feb. 2006), 29–53. https://doi.org/10.1007/
+s10606-005-9010-z
+[51] Doris Ruth Eikhof. 2007. Introduction: What Work? What Life? What Balance? Employee Relations 29, 4 (Jan. 2007).
+https://doi.org/10.1108/er.2007.01929daa.001
+[52] Christine Salazar. 2001. Building Boundaries and Negotiating Work at Home. In Proceedings of the 2001 International
+ACM SIGGROUP Conference on Supporting Group Work (GROUP ’01) . Association for Computing Machinery, New York,
+NY, USA, 162–170. https://doi.org/10.1145/500286.500311
+[53] Sarah Sharma. 2014. In the Meantime: Temporality and Cultural Politics . Duke University Press, Durham.
+[54] Katie Shilton. 2018. Values and Ethics in Human-Computer Interaction. Foundations and Trends ®in Human–Computer
+Interaction 12, 2 (July 2018), 107–171. https://doi.org/10.1561/1100000073
+[55] Stephanie B. Steinhardt and Steven J. Jackson. 2014. Reconciling Rhythms: Plans and Temporal Alignment in Collabo-
+rative Scientific Work. In Proceedings of the 17th ACM Conference on Computer Supported Cooperative Work & Social
+Computing - CSCW ’14 . ACM Press, Baltimore, Maryland, USA, 134–145. https://doi.org/10.1145/2531602.2531736
+[56] Rosemary Steup, Lynn Dombrowski, and Norman Makoto Su. 2019. Feeding the World with Data: Visions of Data-
+Driven Farming. In Proceedings of the 2019 on Designing Interactive Systems Conference (DIS ’19) . ACM, New York, NY,
+USA, 1503–1515. https://doi.org/10.1145/3322276.3322382
+[57] Rosemary Steup, Arvind Santhanam, Marisa Logan, Lynn Dombrowski, and Norman Makoto Su. 2018. Growing Tiny
+Publics: Small Farmers’ Social Movement Strategies. Proceedings of the ACM on Human-Computer Interaction 2, CSCW
+(Nov. 2018), 165:1–165:24. https://doi.org/10.1145/3274434
+[58] Kathleen Stewart. 2011. Atmospheric Attunements. Environment and Planning D: Society and Space 29, 3 (June 2011),
+445–453. https://doi.org/10.1068/d9109
+[59] Norman Makoto Su, Gloria Mark, and Sutton Stewart. 2007. Workplace Connectors as Facilitators for Work. In Proc. of
+Communities and Technologies 2007 . Springer, East Lansing, MI, USA, 131–150.
+[60] E. P. Thompson. 1967. Time, Work-Discipline, and Industrial Capitalism. Past & Present 38 (1967), 56–97.
+[61] Phillip Vannini. 2012. Ferry Tales: Mobility, Place, and Time on Canada’s West Coast . Routledge.
+[62] Amy Voida, Lynn Dombrowski, Gillian R. Hayes, and Melissa Mazmanian. 2014. Shared Values/Conflicting Logics:
+Working around e-Government Systems. In Proceedings of the SIGCHI Conference on Human Factors in Computing
+Systems (CHI ’14) . Association for Computing Machinery, New York, NY, USA, 3583–3592. https://doi.org/10.1145/
+2556288.2556971
+[63] Judy Wajcman. 2015. Pressed for Time: The Acceleration of Life in Digital Capitalism . The University of Chicago Press,
+Chicago.
+[64] Judy Wajcman. 2018. How Silicon Valley Sets Time. New Media & Society (Dec. 2018). https://doi.org/10.1177/
+1461444818820073
+[65] Eviatar Zerubavel. 1981. Hidden Rhythms: Schedules and Calendars in Social Life . University of Chicago Press, Chicago.
+Received January 2022; revised April 2022; accepted August 2022
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 476. Publication date: November 2022.

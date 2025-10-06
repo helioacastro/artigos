@@ -1,0 +1,959 @@
+royalsocietypublishing.org/journal/rsos
+Research
+Cite this article: Tarnowski MJ, Varliero G,
+Scown J, Phelps E, Gorochowski TE. 2023 Soil asa transdisciplinary research catalyst: frombioprospecting to biorespecting. R. Soc. Open Sci.
+10: 230963.
+https://doi.org/10.1098/rsos.230963
+Received: 5 July 2023
+Accepted: 23 October 2023
+Subject Category:
+Ecology, conservation and global change biology
+Subject Areas:
+genomics/bioengineering/ecosystems
+Keywords:
+public engagement, metagenomics,transdisciplinary, metaphor, soil, syntheticbiology
+Authors for correspondence:
+Matthew J. Tarnowskie-mail: m.j.tarnowski@swansea.ac.ukThomas E. Gorochowskie-mail: thomas.gorochowski@bristol.ac.uk
+Electronic supplementary material is available
+online at https://doi.org/10.6084/m9.figshare.c.6916159.Soil as a transdisciplinary
+research catalyst: frombioprospecting tobiorespecting
+Matthew J. Tarnowski1,2, Gilda Varliero3, Jim Scown4,
+Emily Phelps1and Thomas E. Gorochowski1,5
+1School of Biological Science, University of Bristol, 24 Tyndall Avenue, Bristol BS8 1TQ, UK
+2School of Biosciences, Geography and Physics, Swansea University, Swansea SA2 8PP, UK
+3Rhizosphere Processes Group, Swiss Federal Research Institute WSL, 8903 Birmensdorf,
+Switzerland
+4Humanities and Social Sciences, University of Exeter, Cornwall TR10 9FE, UK
+5BrisEngBio, University of Bristol, Cantock ’s Close, Bristol BS8 1TS, UK
+MJT, 0000-0002-1640-2181; TEG, 0000-0003-1702-786X
+The vast microbial biodiversity of soils is beginning to be observed
+a n du n d e r s t o o db ya p p l y i n gm o d e rn DNA sequencing techniques.
+However, ensuring this potentially valuable information is used in
+a fair and equitable way remains a challenge. Here, we present a
+public engagement project that explores this topic through
+collaborative research of soil microbiomes at six urban locations
+using nanopore-based DNA sequencing. The project brought
+together researchers from the disciplines of synthetic biology,environmental humanities and microbial ecology, as well as
+school students aged 14 –16 years old, to gain a broader
+understanding of views on the use of data from the environment.Discussions led to the transformation of ‘bioprospecting ’,a
+metaphor with extractive connotations which is often used to
+frame environmental DNA sequencing studies, towards a morecollaborative approach —‘biorespecting ’. This shift in terminology
+acknowledges that genetic information contained in soil arises as
+a result of entire ecosystems, including the people involved in itscreation. Therefore, any use of sequence information should be
+accountable to the ecosystems from which it arose. As
+knowledge can arise from ecosystems and communities, scienceand technology should acknowledge this link and reciprocate
+with care and benefit-sharing to help improve the wellbeing of
+future generations.
+1. Introduction
+Soils are complex, alive and entwined with civilization [1].Prehistoric soil practices are evident around the world [2,3] and
+© 2023 The Authors. Published by the Royal Society under the terms of the Creative
+Commons Attribution License http://creativecommons.org/licenses/by/4.0/, which permits
+unrestricted use, provided the original author and source are credited.
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+are likely the consequence of millenia of research unbounded by scientific disciplines. More recently, the
+science of soils fractured into disciplines, a process that continues today, but which has its roots in
+the nineteenth century [4]. Charles Darwin studied soils from a biological perspective, investigating
+the role of worms in their formation [5], while the mid-nineteenth century German chemist Justus vonLiebig forged a way to define soil as a chemical system [6]. Understanding soil in terms of its
+chemical properties has maintained popularity to this day: an analysis of biological, chemical and
+physical indicators included in soil-health assessment schemes between 1980 and 2020 showed thatthroughout this time period, chemical and physical indicators are most widely used [7]. Thus, while a
+multitude of disciplines research soils, each uses a set of different approaches to understand them in
+various ways —through different epistemologies. Epistemology is a branch of philosophy that asks
+how we know what we know [8]. The same soil, therefore, can be understood in many different ways,
+but what happens when these perspectives collide?
+A biological perspective to soil management is urgently needed and ‘critical to expanding soil
+assessment and management to address concerns over biodiversity, water quality, climate recreation
+and human and planetary health ’[7]. Metagenomics is a modern approach for studying soil
+microbiology [9]. It enables the characterization of the genetics of the microorganisms living in a soilsample and many academic disciplines now use metagenomics as a central means to study the
+organisms present in soils. Synthetic biology, which aims to design and engineer living organisms
+with novel functionalities [10 –12], typically uses metagenomic studies as a source of genetic parts
+[13,14]. To a synthetic biologist, genetic parts are DNA sequences that encode a self-contained
+biological component [15,16]. This could be a gene product that could be synthesized (e.g. a
+functional protein like an enzyme) or control elements that regulate the processes underlying geneexpression (e.g. promoters that regulate transcription rates or ribosome binding sites that regulate
+translation rates) [17]. Often, a ‘bioprospecting ’metaphor motivates metagenomic studies with the
+idea that the researcher is searching the biodiversity of the soil for new genetic parts [13]. Languageused during research can influence forms of inquiry across disciplines [18]. For example, ‘feedback
+metaphors ’contain cultural assumptions and therefore affect the values of scholarly work and how
+research proceeds —the metaphors drive the scholarship [19]. Feedback metaphors extend beyond
+scientific research, to encourage particular visions of the world [19], and can ‘become self-reinforcing
+prophecies ’[20] that frame the non-human world as a pool of resources, with the potential for
+exploitation by humans.
+The bioprospecting metaphor arises, at least in part, from histories of extractive industry, most
+notably mining. A broader history of the extractive epistemologies in the sciences has been traced,
+recognizing ‘global commodification of life through the exploitation of two non-commodities: labour
+and nature ’[21]. In this extractive mindset, knowledge is taken in a one-way transaction on the terms
+of the scientist without wider engagement and can lead to the exploitation of people, other living
+organisms and inorganic nature without care or reciprocity. It has also been argued that the extractivebioprospecting approach leads to biopiracy [22]. Biological material is regulated by the Nagoya
+Protocol on Access and Benefit-sharing [23]. However, it has been highlighted that reforms are needed
+in light of the digital sequence information (DSI) generated by DNA sequencing [24,25] and technicaland legal challenges when applied to microbial ecology [26]. While best practice in bioprospecting has
+been proposed [27], alternative metaphors which are not rooted in extraction could change the future
+directions and impacts of soil DNA sequencing science and technology. The humanities have anawareness of the links of extractive epistemologies to the long and violent colonial histories of
+exploitation, affecting humans and other living organisms [28] and offer a good starting point to
+explore this idea.
+The environmental humanities also provide further lenses through which soil can be studied. A range
+of scholarly approaches exist that understand environmental challenges as inextricable from social,
+cultural and human factors, including studying the imbrication of cultural, material and politicalecologies [29]. The environmental humanities encompass a collection of disciplines and approaches,
+including environmental history, literary ecocriticism and environmental philosophy. Interdisciplinary
+by nature, environmental humanities scholarship examines relationships between the human and non-human and the ways that environments are understood by other disciplines, in particular, those in the
+environmental sciences. Recent work, drawing on postcolonial, as well as ecocritical approaches, has
+increasingly emphasized the often exploitative, extractive and uneven connections through whichhuman and non-human lives (e.g. the animals, plants and microbes that share the environment) are
+entangled today and through the long histories of capitalism and colonialism [29]. A recent review
+presented an agenda for the collaboration of social sciences, humanities and natural sciences inroyalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309632
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+microbiome research [30]. Thirty-six academics and stakeholders raised questions, which were organized
+into eight themes at the intersection of the microbiome and the following: health, lifestyle, environment,conceptualization, thinking, value, public communication and research [30].
+Here, we used soil as a catalyst for transdisciplinary collaboration exploring some of these ideas. The
+work centres around a public engagement project that explored the idea of using DNA sequencing ofsoil metagenomes as a source of new parts for engineering biology (figure 1 a). Soil samples were taken
+from two schools, a riverbank, a public park, a research farm and a deer park (figure 1 b). This was
+partly motivated due to a lack of studies of the microbiology of urban soils compared to the vastresearch carried out on natural and agricultural soils [31]. The project brought together a microbial
+ecologist, two synthetic biologists, an environmental humanities scholar and high-school students, as well
+as connecting more broadly with the general public through science festivals and community centrevisits. Through these events, we debated the potential consequences of using DNA sequences generated
+by the soil metagenomics study in different ways and the long-term impacts and implications. These
+discussions caused a paradigm shift from the common perspective of ‘bioprospecting ’, to what we term
+‘biorespecting ’(figure 1 c), which re-frames the traditional relationship between investigator and object of
+I'll knock down your school to 
+build a factory, but everyone 
+gets £1000 and an iPad!Who owns it?    Who has a say?
+What ab
+out me! Don't I get a say?
+I'll knock down your school to 
+build  a factor
+y
+r
+r
+, but everyone 
+y
+y
+gets £1000 and an iPad!
+Who owns it?
+   Who  has a say?
+What ab
+out me! 
+Don't I get a s
+ay?
+environmental
+humanitiesmicrobial
+ecologysynthetic 
+biology
+an
+experimentschool 
+curriculumecotone
+assemblage
+open ecology
+obje
+ctivityplayfulnessbiorespect ingbiopr
+ospect
+ing
+1 km
+Become a 
+Biological Engineer
+Explore engineering  the 
+invisible microbial world that surrounds usScientists Council Environmentalists Industry
+4 school visits
+2  local events
+1 festival
+18 volunteers38 student scientists
+12 soil samples
+22 hours of live DNA sequencing
+~800 attendees (4–70 years old)Facts & Figures (a)
+Brunel Academy Deer park Farm
+Merchants’ Acad. City square River bank(b) (c)No! We should make
+the discovery publicto have the biggestbenefit to everyone.
+Figure 1. The Become a Biological Engineer (BaBE) public engagement project leads to transdisciplinary study of soil microbiomes.
+(a) Overview of the BaBE project. The project involved school visits to sample soil and debate what might happen if microbial DNA
+considered valuable was found (middle panel) and activities at local events and a festival (right panel). ( b) Map of sample locations
+across the city of Bristol (UK) with representative pictures of the sample sites. ( c) Schematic depicting the transdisciplinary research
+study. Researchers from different disciplines (orange) shared ideas (grey), leading to creation of a new perspective of ‘biorespecting ’
+(green) when considering soil research.royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309633
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+study as a collaboration between researcher and soil. Approaches that do not treat nature as a resource to be
+exploited deserve attention in science and technology as a whole. Collaborative approaches to science have
+wider relevance as they can potentially help shape what scientific research is done, how that research is
+conducted and the effects and implications of that research in the world. For this reason, we advocate forothers to consider adopting the biorespecting concept moving forward, but doing so with an
+appreciation of the historical context of more exploitative perspectives like bioprospecting and the
+problems they can, and have, caused.
+2. Results and discussion
+2.1. Public engagement to support transdisciplinary research
+The ‘Become a Biological Engineer ’(BaBE) public engagement project aimed to provide a space to learn
+about and question synthetic biology approaches to engineering biology and to better understand howbiotechnology is perceived more widely. The project also attracted researchers from multiple disciplines
+(electronic supplementary material, table S2), motivated to engage with those outside of a university
+setting and better understand how their research was perceived (figure 1 a). We focused the project on
+a technology widely used in synthetic biology —nanopore-based DNA sequencing, which involves
+reading DNA sequences as they pass through nanoscale protein pores [32]. Hands-on participatory
+activities were used to inspire people ’s imagination (Methods). Our post-activity questionnaire
+received 58 responses. Of these, 85% of participants felt they better understood how bioengineering
+worked, 71% thought it should be used for medicine or making sustainable materials and 45%
+wanted closer links to scientists when exploring new applications that might have unexpected outcomes.
+We also organized two lessons for high-school students aged 14 –16 years old, which aimed to be
+engaging and thought-provoking (Methods). In the first lesson (electronic supplementary material,
+note S1), we introduced the class to soil science, DNA sequencing, and how bioengineers can extractand make use of genes from organisms in natural environments (e.g. for the discovery and production
+of new antibiotics). Following this, the students were collectively allowed to decide where to sample
+soil from in their school to see what it contained and worked in groups to creatively describe thesample site (electronic supplementary material, table S4). These samples were then sequenced in the
+laboratory and live at the ‘Festival of Nature ’in Bristol.
+In the second lesson (electronic supplementary material, note S2), we presented the sequencing
+results in comparison to other sites we had sampled across Bristol and asked the students to imagine
+that the experiment had uncovered a valuable new gene at their school that could support a
+revolutionary new medicine. The students were split into groups, with each being asked to play therole of an interested party and explain why their route forward should be taken (electronic
+supplementary material, note S3). Debates during the group activity were heated as questions around
+ownership and short- versus long-term benefits arose. At both schools, similar arguments were oftenraised for specific groups. For example, the benefit of large sums of money being provided by the
+multi-national company was highlighted as allowing people to move elsewhere and start a better life.
+But many students raised concerns about broken promises of large corporations they had seen in thenews, a general lack of trust for large corporations who did not have their own interests at heart and
+were worried about what might happen to other people in the area and the wildlife living in the soil.
+Even so, many of the students felt strongly that some personal benefits were warranted as they haddiscovered this valuable resource. Therefore, making the medicine free to everyone as advocated for
+by the scientific community was deemed unfair. In all cases, it was clear to see the sudden realization
+of how scientific discoveries could potentially impact their personal lives and the dilemmas that arise
+around sharing the benefits of DNA sequences abundant in nature, but technically owned by no one.
+The session ended with a vote by the entire class for their preferred option. In all cases this led todesired outcomes that balanced exploitation of the newly found resource with long-term sustainability
+of the school and the local sampling site, which typically was a combination of the routes presented
+by all the groups —no single view was seen as the right way forward. Co-creating these lessons and
+the accompanying microbiome research led to an environment where transdisciplinary research could
+flourish.
+We found that organizing, undertaking and reporting the public engagement activities (electronic
+supplementary material, table S5) provided a context that brought together researchers of different
+disciplines and stimulated deep discussions and the sharing of relevant ideas from their areas ofroyalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309634
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+expertise. While the outreach on its own did not lead to the transformation of the bioprospecting
+metaphor, the diverse environments and different forms of interaction it provided were a catalyst forbeginning that process.
+2.2. Analysis of urban soil microbiomes
+Environmental DNA analysis of soils from a range of environments across the city of Bristol resulted inbetween 104 846 and 198 062 sequences per sample with a mean read quality of ∼Q11 for all samples
+(electronic supplementary material, table S1 and figure S1). A quality score of Q11 corresponds to a
+probability to have one incorrect base in the DNA sequence every 20 bases which gives a good
+taxonomic resolution considering that the entire 16S rRNA gene was sequenced [33]. Analysis of the
+species present in the sample showed that samples collected from Ashton court deer park and Avonriver bank formed two distinct clusters that differed from the other sampling locations. Interestingly,
+all samples from human-impacted sites (i.e. Merchant ’s Academy, Fenswood farm, Brunel Academy
+and Queen square) formed a cluster of more highly related communities (figure 2 a). Compared to the
+human-impacted soils, microbial communities in the Avon river bank soil are characterized by a
+higher abundance of organisms belonging to Proteobacteria and Bacteroidetes. Whereas more
+organisms ascribed to the phyla Verrucomicrobia and Firmicutes were observed in the Ashton courtdeer park soil (figure 2 b). The number of bacterial species observed in the different samples also
+followed a similar trend where the species number showed the highest values in the Avon river bank020406080
+020406080100
+260
+240
+220
+200height
+Acidobacteria
+Actinobacteria
+Bacteroides
+Chloroflexi
+Firmicutes
+NitrospiraeBrunel Academy
+Ashton court deer park
+Fenswood farm
+Merchants’ Academy
+Queen square
+Avon river bank
+Planctomycetes
+Proteobacteria
+Verrucomicrobia
+Unclassified Bacteria
+otherPhylasitesrelative abundance (%) no. species(a)
+(b)
+(c)
+Figure 2. Analysis of soil samples from across the city of Bristol, UK. ( a) Sample similarity clustering. ( b) Microbial composition of the
+12 soil samples at the phylum-level (only the most abundant phyla are shown, i.e. phyla with at least 1% of relative abundance in at
+least one sample). ( c) Number of microbial species in each sample with greater than 1% relative abundance in at least one sample.royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309635
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+soils (263 and 269 species), the lowest values in the Ashton court deer park soils (194 and 201 species) and
+intermediate values in all the more human-impacted soils with values ranging between 225 and 245species (figure 2 c).
+The differences observed in the Avon river bank and Ashton court deer park soils compared to the
+more human-impacted samples is not surprising. The soil sampled from the Avon river bank constitutesthe most diverse microbial ecosystem among all the sampled sites, which is reflected in its diverse
+microbial composition. Furthermore, the Avon river bank in Bristol, being an ecotone between soil,
+freshwater and seawater systems, will tend to harbour more diverse bacterial communities comparedto the other sampled soils [34]. In the case of the soils from the Ashton court deer park, animal
+grazing has previously been shown to impact soil microbial community structure and diversity
+[35–37]. The similar bacterial community structure and diversity observed in all the human-impacted
+soils, despite their different provenience (e.g. grass, crop field) and soil management strategies, could
+be explained by the similar degree of soil disturbance by human activities. In fact, soil disturbance
+can be an important driver to determine microbial communities in different environments such as
+semiarid grasslands, peatlands and brownfields [38 –40]. The level of disturbance, urbanization and
+human density of a soil area is known to influence microbial community structure, diversity andfunction in the ecosystem [41 –43]. All these aspects impact soil health and van Bruggen et al. [44]
+outline the concept that ecosystems have ‘one health ’connected by cycling of diverse microbial
+communities, particularly those of the soil.
+While differences were observed in the microbial composition and diversity of human-impacted soils
+versus the Avon river bank soil and Ashton court deer park soil (figure 2 a,b), the samples from the
+human-impacted soils did not have more species in common between each other than with theother two sites (figure 3). This suggests that diverse human-impacted soils can harbour diverse
+microorganisms which are specific to unique soil conditions and environmental characteristics. In fact,
+Ashton court deer parkAvon river bank
+79
+(16%)
+3
+(1%)
+3
+(1%)
+24
+(5%)
+3
+(1%)
+4
+(1%)3
+(1%)3
+(1%)3
+(1%)
+3
+(1%)
+3
+(1%)7
+(1%)5
+(1%)
+5
+(1%)6
+(1%)4
+(1%)4
+(1%)
+53
+(11%)51
+(10%)43
+(9%)3
+(1%)
+3
+(1%)Fenswood farm
+Merchants’ Academy
+Brunel AcademyQueen squarespecies
+60
+40
+20
+0
+67
+(14%)
+55
+(11%)4
+(1%)
+4
+(1%)6
+(1%)
+6
+(1%)
+Figure 3. Number of shared species across different sampling sites. Only percentages greater than or equal to 1% are reported.royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309636
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+further to human impact and disturbance, soil microbial communities are also influenced by several
+factors such as nutrient and water availability, vegetation cover and environmental connectivity[45–48], where microbial life conditions can also vary at the level of micro-environments [49].
+To assess whether microbial diversity might link to other features of the soils, we carried out
+geochemical analysis of all the soil samples and performed an ‘envfit ’analysis where we perform a
+multiple regression of environmental variable with ordination axes; the environmental variable is
+used as dependent and selected ordination axes as explanatory variables (Methods). From this, we
+found that microbial composition significantly correlated with the measured geochemical variables(R= 0.52, p= 0.005), but not with the geographical distances between samples ( R=–0.27, p= 0.985).
+Geochemical variables that showed significant correlations in the envfit analysis were pH ( R
+2= 0.97,
+p= 0.001) and three variables linked to particle size: clay percentage ( R2= 0.52, p= 0.046), sand
+percentage ( R2= 0.75, p= 0.012) and size particle 90 µm ( R2= 0.67, p= 0.008) (figure 4, table 1). Both
+pH and soil particle composition have been indicated as major drivers of microbial distributions [50 –
+53]. Furthermore, human activities are known to impact soil pH and particle size distributions [54,55],
+and thus consequently the microbial communities present.
+Although these results are limited by a lack of undisturbed soil with no human impact at all (e.g. soil
+from a woodland area that is protected and not subjected to grazing), they do show how microbial
+structure and diversity can potentially change among sites sampled within approximately 7 km2and
+highlight how human-impacted soils differed from more unmanaged soils. Furthermore, a key outcomeof these public engagement activities was to stimulate discussions between researchers (electronic
+supplementary material, table S2) in different disciplines that are often disconnected. In this case,
+between microbial ecology , synthetic biology and the environmental humanities. These discussions ledus to explore how a range of epistemologies can be useful in fostering transdisciplinary research,
+something discussed further in the following sections.01530
+0510
+00.51.0
+01530
+02040
+04080
+050100organic 
+matter (%)pHw nitrogen
+(%)carbon
+(%)C/N
+ratio  composition
+(%)particle
+size (%)
+PCoA1 (27.45%)00
+–0.5
+–1.00.5
+0.5 1.0 –0.5PCoA2 (18.36%)Brunel
+Merchants’
+Queen sq.
+Fenswood
+Ashton crt.
+Avon riverclay 
+slit 
+sand
+Dx (µm)% particles < 90 µm% sand
+pH% clay
+10     
+50     
+90Brunel Academy
+Ashton court deer park
+Fenswood farm
+Merchants ’ Academy
+Queen square
+Avon river banksites(a)( b)
+Figure 4. Overview of geochemical analysis. ( a) Geochemical features measured across all soil samples. pHW: pH of the soil in
+water; C/N ratio: carbon to nitrogen ratio; Dx(10 µm): percentage of particles less than 10 µm in diameter, Dx(50 µm):
+percentage of particles less than 50 µm in diameter, Dx(90 µm): percentage of particles less than 90 µm in diameter. ( b) Envfit
+analysis showing the key geochemical features across the soil samples (Methods). PCoA, principal coordinate analysis.royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309637
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+2.3. Transdisciplinary approaches
+Various discussions arising throughout the project brought forth approaches used in the environmental
+humanities that offered novel ways to understand both the research process and soils. For example, actor-
+network theory proposes that matter has agency and informs shifting assemblages of actors [56]. Tocomplicate things further, actors can be human, non-human and non-individual [57]. This suggests
+that research is influenced by non-human and human actors, such as soil. In our study, the non-
+human actors include all the beings and forces that come together to form a particular soil, alongwith the researchers, technologies and disciplinary approaches that collaborate to understand soil as
+an object of research. Thus, human actors also go beyond the researchers to dog-walkers, other
+students, park rangers and so on. Soil research presents an opportunity for transdisciplinary researchwith a series of non-human actors that typify natural cultural relations [58].
+Assemblage theory is another approach that researchers can use to understand the relation between
+their approaches to studying soil. An assemblage is ‘an arrangement or layout of heterogeneous
+elements ’[59]. This is exemplified by our study, in which the soils under investigation can be
+understood as shifting assemblages of human and non-human actors, of which different disciplines
+(epistemologies) and the methods each use to study soil in different ways, are a part. Furthermore,social formations (such as disciplines) are assemblages of other complex configurations, such as soils,
+and they in turn play roles in other more extended configurations. Among other things, assemblage
+theory enables the idea of a shifting collection of disciplines, allowing us to come together withoutfeeling fixed to unchangeable disciplinary dogmas. This perspective enables an openness whereby
+disciplines can change their approaches as a consequence of working together.
+Though complex, these approaches can open fruitful ways of working across disciplines, be it multi-, inter-
+or trans-disciplinarily. Multidisciplinarity involves mult iple disciplines working together. Interdisciplinarity
+involves a shared understanding of the different approach (epistemology) used by each discipline. Finally ,
+transdisciplinary research allows space for disciplinary approaches to generate new knowledge of thatsubject which would not have been possible without the new disciplinary configuration. In our case,
+blending disciplinary approaches led to transformation of a disciplinary epistemology.
+2.4. How can soil and research influence one another?
+Interpreting soil research as a network of human and non-human actors led to the idea that soils and
+research practices influence one another. Returning to the concept of ‘one health ’, van Bruggen et al.
+argue that ‘the health of all organisms in an ecosystem are interconnected and mediated through the
+cycling of subsets of microbial communities from the environment (in particular the soil) to plants,animals and humans, and back into the environment ’[44]. Health is defined as the absence of disease
+and the authors suggest that in the case of microbiomes, health arises from microbiome stability,Table 1. Envﬁt results.
+geochemical feature PCoA1aPCoA2aR2p-value
+organic matter 0.037 –0.999 0.007 0.954
+pH 0.525 –0.851 0.985 0.001
+% nitrogen –0.965 0.263 0.396 0.105
+% carbon –0.672 –0.741 0.144 0.464
+carbon/nitrogen ratio 0.628 –0.778 0.334 0.133
+% clay 0.959 –0.280 0.443 0.068
+% silt 0.330 0.944 0.313 0.180
+% sand –0.865 –0.501 0.772 0.007
+% particles < 10 µm –0.446 0.895 0.326 0.220
+% particles < 50 µm –0.789 0.614 0.399 0.103
+% particles < 90 µm –0.792 –0.610 0.682 0.006
+aPCoA, principal coordinate analysis.royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309638
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+resilience, diversity, connectedness and integrity of nutrient cycles and energy flows [44]. One health
+describes the connectedness of environmental microbiomes, connecting both soil and researchers at
+the level of microbiology.
+The microbiomes we recovered reveal distinct collections, or ecologies, of microorganisms at each site.
+Similarly, the idea of ecologies of knowledge [60] emphasizes the plurality of knowledges, as exemplified
+by the diverse disciplines engaged in our study. Each discipline brings its own ecology of approaches,
+much like each microbiome brings an ecology of microbes. It was suggested that the relatively highdiversity at the river bank arises from influxes of microorganisms from soil and water. Similarly,
+ecotones might be thought of in an epistemological sense as places where knowledges meet and
+which have unique properties, due to the diversity of ideas brought forward.
+Ecologies, such as soils, have been described in the environmental humanities as ‘open ’rather than
+‘closed ’[61].This change in conception is best described with an example, such as the microbiome of any
+living body (including soil), which is more accurately described as diverse and constantly changing inrelation to its internal and external environment rather than closed and singular entity [61]. Open
+ecologies are characterized by openness, permeability and relations that are neither pre-determined
+nor assumed to be coherent, harmonious or integrated [61]. In a similar vein, this work led us from aclosed conception of disciplines to an open ecology of disciplines in a co-creative research process.
+The ideas of open ecologies, ecologies of knowledge and one health highlight the role of humans, and
+the epistemologies that shape their actions, in an ongoing process of becoming with the non-human. Theapproaches or epistemologies taken by researchers can shape how their studies affect soil. Our discussions
+throughout this project highlighted that biotechnology often takes an approach of bioprospecting, or
+genome mining. Biorespecting is an alternative to bioprospecting that could shape how researchers andtechnologists take on a responsibility and ethic of care with the sites with which they interact, both
+during and beyond the research project. In the case of biotechnology , this should extend to returning
+part of any benefits to the ecosystems, including the communities stewarding the site past and present[62]. Biorespecting acknowledges the knowledge embodied in the soil of a land: humans and non-
+humans alike have co-created the soil. The knowledge embodied in the DNA does not arise spontaneously.
+3. Conclusion
+We found that a public engagement project provided a rare opportunity for transdisciplinary research. It
+allowed a diverse set of researchers, school children and the general public to co-create a research project.A key outcome was the transformation of a metaphor commonly used to guide soil DNA studies via
+discussions throughout the project. Of the varied topics discussed, assemblage theory and actor-
+network theory proved useful as they offered perspectives which removed disciplinary confines andthe anthropocentric worldview. As a result, we reflected on properties of soil that can inspire research:
+soil as a permeable, open, ecology and soil as the root of ‘one health ’[44,61]. Our results revealed
+microbiomes of varying diversity and composition across the city of Bristol and led to comparisonswith ecologies of knowledge [60].
+The knowledge in each of the disciplines brought together during this project and in the school classroom is
+also open and its health is connected through the sharing of ideas. Interdisciplinary research offers anopportunity for epistemologies to be situated relative to one another and the world [63] and in this research
+project we had the chance to reflect on ways that each di scipline relates to soil. The different disciplinary
+approaches to research grew into one another and their common subject. The resulting approach,biorespecting, offers a fresh outlook which goes beyon d the study, to the care of the soil and the ecosystem
+through sharing the benefits of any information generated. This shift in perspective from an extractive to a
+collaborative approach could have far-reaching consequences if extended across the sciences.
+Epistemologies influence how people study, know and interact with soil, and what soil is and can
+become —‘what soil is thought to be affects the ways we care for it, and vice versa ’[64]. Our study
+recognizes the inseparability of nature and culture, since ecologies arise from the relationships
+between social and biophysical actors, which are best thought of, not as distinct categories, but as the
+shifting assemblages of an ongoing and always unfinished process of becoming [58].
+While scientific research is important for human progress, many global problems arise from human
+behaviour, which is often guided by metaphor, values and culture [65]. The state of soil is often a
+consequence of the way that humans relate to soil. We hope that this research helps illustrate how bychanging the ideas that shape our actions, we have the chance to rebuild this relationship into one
+that is both sustainable and beneficial to all.royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 2309639
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+4. Methods
+4.1. Public engagement activities
+The project was designed to engage with people across socioeconomic and age spectrums via events across
+the city of Bristol in the UK, including the ‘Festival of Nature ’and‘Fun Palaces ’events, and through several
+school visits (electronic supplementary material, table S5). The schools that we visited were selected based
+on their high levels of free school meals (electronic supplementary material, table S4), a proxy for economicdeprivation as advised by the Royal Society Public Engagement Team. One activity involved putting on a
+cape to ‘become ’the sequencing nanopore, taking on the challenge of reading and decoding hidden
+messages in DNA molecules by ‘feeling ’the unique shape of each nucleotide as it passed through their
+hands. Using the DNA sequence, they personally decoded, participants then acted as ‘the cell ’,
+translating the mRNA sequence into protein, which took the physical form of making a bracelet. A
+graffiti wall with prompts offered a chance for participants to share where they would like to carry outsequencing or organisms they would like to sample. To bring the DNA sequencing aspect to life, we
+used the handheld MinION nanopore sequencer to perform live sequencing demos at these events
+where participants could see DNA sequences being read by the sequencer in real-time.
+4.2. Public engagement post-activity questionnaire
+The post-activity questionnaire contained three multiple-choice questions to provide feedback regardingeach participant ’s change in understanding and opinion around the approach to research and use of
+bioengineering. The questions and possible answers (with the number of responses for each answer
+shown in curly braces) were: Q1. Having taken part in the activity, how has your understanding of
+bioengineering changed? A1.1: I ’m more confused than when I started {1}, A1.2: My understanding is
+similar to when I started {8}, A1.3 I have a better understanding than when I started {49}; Q2. Having
+taken part in the activity, are there application areas where you feel it is acceptable for bioengineering to be
+widely used (select as many as appropriate)? A2.1: Medicine (e.g. cancer therapies, new forms of drug
+delivery) {41}, A2.2: Environmental (e.g. pest control, or environmental cleanup) {22}, A2.3 Food (e.g.
+engineered plants and artificial meat) {10}, A2.4 Materials (e.g. sustainable construction) {41}; Q3.
+Having taken part in the activity, how do you feel bioengineering research in general should proceed? A3.1:
+I’m not bothered {2}, A3.2: Current processes are fine, nothing needs to change {20}, A3.3 Current
+processes are mostly fine, but closer links between public and scientists would be helpful for new
+applications {26}, A3.4 More regulation and oversight is needed because the risks are too high {10}.
+4.3. High-school lessons
+In parallel to the public engagement events, we also wanted people to see the scientific process firsthandand consider the ownership and value of the information any sequencing experiments might uncover. Wefocused on the value of environmental biodiversity using soil as a focal point. We co-created two lessons
+which guided students (14 –16 years old) through sampling soil, performing DNA sequencing of the
+microbes within it, discussing the results and finally debating the potential wider impact. These lessonswere held at two schools in the Bristol city area (Brunel Academy and Merchants Academy). In the first
+lesson, students selected a sampling location at their school, took samples and then prepared them for
+DNA sequencing. After sequencing these samples, which were supplemented by other locations acrossthe city (see ’Soil sampling ’section below), the second lesson then looked at the results and considered
+what might happen if a DNA sequence perceived to be of biotechnological value had been found. The
+students took on the roles of various interested parties including university scientists that initiated thestudy , a private multi-national company, an environmental group, the local council and a group of
+worms living in the field. Each party was then asked to put forward what they would do with the
+newly found technology and explain how the school and local community might be affected by theirplans. Impacts ranged from making the sampling site a nature reserve, to providing money to the
+students in return for turning the school into a new biotechnology hub.
+4.4. Transdisciplinary research processes
+An active dialogue between the researchers was used to reflect on transdisciplinary approaches in soilresearch. The public engagement activities took place over the course of a year (electronicroyalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 23096310
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+supplementary material, table S5); however, the dialogue occurred over a period of 4 years and involved
+discussions arising from the process of planning, undertaking and writing up the public engagement
+activities. The discussions covered topics in both synthetic biology and the environmental humanities,
+centring on the status of nature as a resource, along with other values that could be ascribed tonature. These discussions were informed by other projects the researchers were undertaking at the
+same time and by a responsible research retreat which preceded the project [66].
+As the authors of a recent special issue on transdisciplinary research explain, ‘the global challenges
+facing us now and in the future demand an urgent and rigorous reassessment of how we
+conceptualize disciplinary boundaries and the production of knowledge ’[67]. The production and use
+of antibiotics derived from digital sequence information is one such challenge and we focused on thisin the second school lesson (electronic supplementary material, note S2). Though essential for human
+health and wellbeing, this area of research necessitates questions of the status of nature as a resource,
+who benefits and who is marginalized in the development of antibiotics, and the relationshipsbetween citizens, state and corporate power and non-human life in their production.
+The authors of the transdisciplinary special issue also note ‘the lack of focus on how scholars both
+think about and practice this work across and between the humanities and the sciences ’in the
+literature on transdisciplinarity [68]. There are essentially two sets of challenges to address —the
+challenges presented by the use and production of antibiotics, and the challenges of developing ‘new
+modes of collaboration necessary to address them. ’The term ‘biorespecting ’is our attempt to suggest
+a‘mutual framing ’of challenges in antibiotics research that can help to bridge disciplinary boundaries
+and open space for further work, based on collaborations between researchers from the humanities
+and the sciences, with the necessary transdisciplinary expertise to account for the needs of the manypeople and beings on whom the search for and production of antibiotics bears [69].
+4.5. Soil sampling
+Samples were collected from six sites in the Bristol metropolitan area: 1. Brunel Academy school (51.468337,–2.531101), 2. Merchant ’s Academy school (51.409633, –2.611575), 3. Ashton court deer park (51.448750, –
+2.641000), 4. Queen square (51.450778, –2.594806), 5. Fenswood farm (51.423389, –2.671750) and 6. Avon
+river bank (51.447917, –2.625278). Using the soilscapes dataset (https://www.landis.org.uk/soilscapes),
+these sites were classified as the following soil types: 1. Slowly permeable seasonally wet acid loamy
+and clayey soils, 2. Lime-rich loamy and clayey soils with impeded drainage, 3. Freely draining slightly
+acid but base-rich soils (texture: loamy), 4. Loamy and clayey floodplain soils with naturally highgroundwater, 5. Slowly permeable seasonally wet slightly acid but base-rich loamy and clayey soils; site
+6 was on the border of the classifications assigned to (3) and (4). Two samples per site were taken. Soil
+surface samples (10 –20 cm depth) were collected with a 38 mm diameter soil corer (Geopacks) and
+stored at 0°C for up to 4 h, then at –80°C. At each site, the replicate samples were collected within a
+10 m
+2area. The soil corer was washed with sterile water between sites. These samples were also used as
+a basis for the live sequencing demonstrations held at local events.
+4.6. Geochemical assays
+All geochemical assays were carried out by the School of Geographical Sciences Laboratory Platform atthe University of Bristol, UK. Specifically, measurements of pH (1 g soil in 9 ml milli-Q water), totalcarbon and total nitrogen by elemental analysis (Vario Pyro Cube EA), particle size distribution
+(Mastersizer 3000) and organic matter by loss on ignition were performed with approximately 10 g of
+each soil sample.
+4.7. Metagenomics DNA extraction and sequencing
+We used a metagenomics approach to assess the microbial composition in our soil samples. This is aprocess in which a particular DNA region is amplified using the polymerase-chain-reaction (PCR). Bysequencing this PCR amplified DNA and comparing it to a database of known microbial sequences for
+that region (which act as barcodes), the microorganisms living in each soil sample could be discerned.
+We used a universal 16S region as our barcode, which aims to target prokaryotes [70]. Thismetagenomics approach has several limitations: it does not study all organisms in a soil (e.g. it ignores
+fungi), bias can arise, and there is no way of knowing whether the analysed DNA arises from living orroyalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 23096311
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+dead organisms [71 –74]. Nonetheless, it offers a snapshot into the microbial composition that could be used
+to assess major differences between sampling locations and potential impacts of human activity.
+DNA extraction from the soil samples was carried out using the Qiagen DNeasy PowerLyzer
+PowerSoil kit with 0.2 –0.3 g of soil thawed for 1 h. A PCR was completed by combining extracted
+DNA (100 ng) with 10 µM primers (2.5 µl), 10 mM dNTPs (1 µl, NEB N0447S), 10 µl Phusion HF
+buffer (5X, NEB B0518S) and Phusion DNA polymerase (1 unit, NEB M0530S). 16S PCR primers 27F
+(AGRGTTYGATYMTGGCTCAG) and 1492R (TACCTTGTTAYGACTT) ordered from Integrated DNATechnologies were used for the PCR [75]. The following PCR reaction was used: initial denaturation
+(98°C, 30 s), 35 cycles of denaturation (98°C, 7 s), annealing (51°C, 30 s) and extension (72°C, 45 s)
+followed by a final extension (72°C, 10 min). Samples were purified using Monarch PCR & DNAcleanup kit (NEB T1030S), with elution in nuclease-free water (20 µl). PCR amplicons were checked
+by gel electrophoresis (1 h, 80 V , 1% agarose, Gel Green dye) by comparison to NEB 1 kb ladder (NEB
+N3232S). Sequencing kits SQK-LSK108 and EXP-NBD103 (Oxford Nanopore Technologies) were usedto prepare the DNA sequencing library, with DNA from each sample (350 ng). The following EXP-
+NBD103 barcode to sample mapping was used: BC01, BC02 = Brunel Academy school; BC03, BC04 =
+Ashton court deer park; BC05, BC06 = Fenswood farm; BC07, BC08 = Merchants ’Academy school;
+BC09, BC10 = Queen square; BC11, BC12 = Avon river bank. The library was loaded onto a
+FLO-MIN106 flow cell and run on a MinION sequencer for 48 h.
+4.8. Data analysis
+The raw sequencing data were basecalled with guppy v.3.2.4 using configuration file
+‘dna_r9.4.1_450bps_hac.cfg ’and taxonomic classification was completed using the EPI2ME WIMP
+(What ’s In My Pot) workflow [76]. Sample sequencing specifics and base quality were investigated
+using Nanoplot v.1.41.0 [77]. Soil sample statistical analyses were performed in the R environmentv.4.0.2, using R package vegan v.2.5-7 [78]. Cluster analysis was performed with the ‘ward.D2 ’method
+using Euclidean distances of Hellinger-transformed microbial communities at species-level [79].
+Microbial richness (e.g. number of species) was performed on the rarefied dataset, n= 64 089 which was
+the number of sequences present in the smallest sample, using vegan v.2.5.6 [78]. Venn diagram was
+created with ggVennDiagram v.1.1.5 [80]. Principal coordinate analysis (PCoA) was carried out on the
+Bray –Curtis dissimilarity matrix calculated from Hellinger-transformed species abundance data, using
+vegan v.2.5.6 and ape v.5.7.1 [81]. The function envfit() from vegan was used to calculate multiple
+regression of geochemical variables with PcoA axes. Only geochemical variables that showed a
+significant ( p< 0.05) correlation with PcoA axes were plotted in the PcoA plot. Mantel tests were
+performed between the Bray –Curtis dissimilarity matrix calculated from Hellinger-transformed species
+abundance data, and the Euclidean similarity matrix calculated on the geochemical dataset or the
+sample geographical distances. Bray –Curtis and Euclidean distances were calculated using the vegan
+function vegdist(), whereas geographical distances were calculated using distm() with the
+‘distHaversine ’method ( ‘Haversine ’great circle distance), using the library geosphere v.1.5-18. Mantel
+tests were calculated using Spearman ’s correlations using the mantel() function from vegan.
+Ethics.
+This work did not require ethical approval from a human subject or animal welfare committee.
+Data accessibility. The sequencing data and geochemical analysis generated by this study have been deposited in the
+OSF database at: https://doi.org/10.17605/OSF.IO/62Q9D [82].
+Supplementary material is available online [83].
+Declaration of AI use. We have not used AI-assisted technologies in creating this article.
+Authors ’contributions. M.J.T.: conceptualization, investigation, methodology, project administration, writing —original
+draft, writing —review and editing; G.V.: conceptualization, investigation, methodology, writing —original draft,
+writing —review and editing; J.S.: conceptualization, investigation, methodology, writing —original draft, writing —
+review and editing; E.P.: investigation; T.E.G.: conceptualization, funding acquisition, investigation, supervision,writing —review and editing.
+All authors gave final approval for publication and agreed to be held accountable for the work performed therein.
+Conflict of interest declaration. We declare we have no competing interests.
+Funding. This project was made possible by a Public Engagement Award from the Royal Society (PEF2\180019) to
+T.E.G. and M.J.T. In addition, M.J.T. was supported by the EPSRC/BBSRC Centre for Doctoral Training inSynthetic Biology grant EP/L016494/1, and T.E.G. was supported by a Royal Society University ResearchFellowship grant UF160357 and BrisEngBio, a UKRI-funded Engineering Biology Research Centre grant BB/W013959/1. The funders had no role in study design, data collection and analysis, decision to publish orpreparation of the manuscript.royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 23096312
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+Acknowledgements. We would also like to thank Oxford Nanopore Technologies Ltd. and Dr. Gary Barker for providing
+reagents and equipment for the outreach sequencing activities, all of the researchers that aided in the running of thescience outreach events (Roksana Wilson, Sarah Dodd, Simeon Castle, Celine Petitjean, Katy Chapman, Daniel Ward,Joanne Boden, Hannah Langlands, Rosie Maddock, Harry Thompson, Veronica Greco, Gareth Coleman, Claire Noble,Ellie Cripps, Mireia Bes Garcia, Ulrike Obst, Vittorio Bartoli, Justin Quinnell, Diane Thorne and Tasmin Head), and theschools (Bristol Brunel Academy and Merchant ’s Academy) and teachers (Holly Jenkins and Julie Parks) that
+facilitated us working with their students.
+References
+1. Montgomery DR. 2007 Dirt, 1st ed. Berkeley, CA:
+University of California Press.
+2. Watson J. 2019 Lo-TEK: design by radical
+indigenism . Cologne, Germany: Taschen GmbH.
+3. Glaser B. 2006 Prehistorically modified soils of
+central Amazonia: a model for sustainableagriculture in the twenty-first century. Phil.
+Trans. R. Soc. B 362, 187 –196. (doi:10.1098/
+rstb.2006.1978)
+4. Stichweh R. 1992 The sociology of scientific
+disciplines: on the genesis and stability of thedisciplinary structure of modern science. Sci.
+Context 5,3–15. (doi:10.1017/
+S0269889700001071)
+5. Feller C, Brown GG, Blanchart E, Deleporte P,
+Chernyanskii SS. 2003 Charles Darwin,earthworms and the natural sciences: various
+lessons from past to future. Agric. Ecosyst.
+Environ. 99,2 9 –49. (doi:10.1016/S0167-
+8809(03)00143-9)
+6. Scown J. 2020 George Eliot and George Lewes
+in Justus von Liebig ’s laboratory: realism,
+chemistry, and agriculture in the mid-
+nineteenth century. Green Lett. 24, 391 –405.
+(doi:10.1080/14688417.2020.1866998)
+7. Lehmann J, Bossio DA, Kögel-Knabner I, Rillig
+MC. 2020 The concept and future prospects of
+soil health. Nat. Rev. Earth Environ. 1, 544 –553.
+(doi:10.1038/s43017-020-0080-8)
+8. Moon K, Cvitanovic C, Blackman DA, Scales IR,
+Browne NK. 2021 Five questions to understand
+epistemology and its influence on integrative
+marine research. Front. Mar. Sci. 8, 574158.
+(doi:10.3389/fmars.2021.574158)
+9. Escobar-Zepeda A, Vera-Ponce De León A,
+Sanchez-Flores A. 2015 The road to
+metagenomics: from microbiology to DNAsequencing technologies and bioinformatics.
+Front. Genet. 6, 348. (doi:10.3389/fgene.2015.
+00348)
+10. Baldwin G, Bayer T, Dickinson R, Ellis T,
+Freemont PS, Kitney R, Polizzi K, Stan GB. 2011Synthetic biology: a primer , p. 196. London, UK:
+Imperial College Press.
+11. Greco FV, Tarnowski MJ, Gorochowski TE. 2019
+Living computers powered by biochemistry.
+Biochemist 41,1 4 –18. (doi:10.1042/
+BIO04103014)
+12. Cameron DE, Bashor CJ, Collins JJ. 2014 A
+brief history of synthetic biology. Nat. Rev.
+Microbiol. 12, 381 –390. (doi:10.1038/
+nrmicro3239)
+13. Ferrer M, Martínez-Martínez M, Bargiela R,
+Streit WR, Golyshina OV, Golyshin PN. 2016
+Estimating the success of enzyme
+bioprospecting through metagenomics: currentstatus and future trends. Microb. Biotechnol. 9,
+22–34. (doi:10.1111/1751-7915.12309)
+14. Vuong P, Wise MJ, Whiteley AS, Kaur P. 2022
+Small investments with big returns:
+environmental genomic bioprospecting of
+microbial life. Crit. Rev. Microbiol. 48, 641 –655.
+(doi:10.1080/1040841X.2021.2011833)
+15. Endy D. 2005 Foundations for engineering
+biology. Nature 438, 449 –453. (doi:10.1038/
+nature04342)
+16. Canton B, Labno A, Endy D. 2008 Refinement
+and standardization of synthetic biological parts
+and devices. Nat. Biotechnol. 26, 787. (doi:10.
+1038/nbt1413)
+17. Greco FV, Pandi A, Erb TJ, Grierson CS,
+Gorochowski TE. 2021 Harnessing the centraldogma for stringent multi-level control of gene
+expression. Nat. Commun. 12, 1738. (doi:10.
+1038/s41467-021-21995-7)
+18. Erika S. 2021 Words are essential, but
+underexamined, research tools for microbes and
+microbiomes. mSystems 6, e00769 –21. (doi:10.
+1128/mSystems.00769-21)
+19. Kaplan RB. 2012 Metaphors for environmental
+sustainability: redefining our relationship with
+nature. J Multiling. Multicult. Dev. 33, 624 –626.
+(doi:10.1080/01434632.2012.709980)
+20. Larson B. 2011 Metaphors for environmental
+sustainability . New Haven, CT: Yale University
+Press.
+21. De Sousa Santos B. 2018 The end of the
+cognitive empire . Durham, NC: Duke University
+Press.
+22. Shiva V. 2007 Bioprospecting as sophisticated
+biopiracy. Signs J. Women Cult. Soc. 32,
+307 –313. (doi:10.1086/508502)
+23. Ambler J, Diallo AA, Dearden PK, Wilcox P,
+Hudson M, Tiffin N. 2021 Including digital
+sequence data in the Nagoya protocol can
+promote data sharing. Trends Biotechnol. 39,
+116 –125. (doi:10.1016/j.tibtech.2020.06.009)
+24. Bond MR, Scott D. 2020 Digital biopiracy and
+the (dis)assembling of the Nagoya Protocol.
+Geoforum 117,2 4 –32. (doi:10.1016/j.geoforum.
+2020.09.001)
+25. Delgado A. 2021 Microbial extractions:
+sequence-based bioprospecting, augmentedpromises, and elusive politics. Sci. Technol. Hum.
+Values 0. (doi:10.1177/01622439211055693)
+26. Pascual J, Tanner K, Vilanova C, Porcar M,
+Delgado A. 2021 The microbial terroir: open
+questions on the Nagoya protocol applied tomicrobial resources. Microb. Biotechnol. 14,
+1878 –1880. (doi:10.1111/1751-7915.13839)
+27. Efferth T et al. 2016 Biopiracy of natural
+products and good bioprospecting practice.Phytomedicine 23, 166 –173. (doi:10.1016/j.
+phymed.2015.12.006)
+28. Yusoff K. 2021 Open access: the inhumanities.
+InThe anthropocene , 1st ed (ed. DR Butler),
+pp. 663 –676. London, UK: Routledge.
+29. Schmidt M, Soentgen J, Zapf H. 2020
+Environmental humanities: an emerging field of
+transdisciplinary research. GAIA - Ecol. Perspect.
+Sci. Soc. 29, 225 –229.
+30. Greenhough B et al. 2020 Setting the agenda
+for social science research on the humanmicrobiome. Palgrave Commun. 6, 18. (doi:10.
+1057/s41599-020-0388-5)
+31. Gómez-Brandón M, Herbón C, Probst M,
+Fornasier F, Barral MT, Paradelo R. 2022
+Influence of land use on the microbiologicalproperties of urban soils. Appl. Soil Ecol. 175,
+104452. (doi:10.1016/j.apsoil.2022.104452)
+32. Wang Y, Zhao Y, Bollas A, Wang Y, Au KF. 2021
+Nanopore sequencing technology, bioinformatics
+and applications. Nat. Biotechnol. 39,
+1348 –1365. (doi:10.1038/s41587-021-01108-x)
+33. Matsuo Y et al. 2021 Full-length 16S rRNA gene
+amplicon analysis of human gut microbiotausing MinION
+TMnanopore sequencing confers
+species-level resolution. BMC Microbiol. 21, 35.
+(doi:10.1186/s12866-021-02094-5)
+34. Kark S. 2013 Effects of ecotones on biodiversity. In
+Encyclopedia of biodiversity (eds SA Levin), pp.
+142 –148, 2nd edn. Waltham, MA: Academic Press.
+35. Eldridge DJ, Delgado-Baquerizo M, Travers SK,
+Val J, Oliver I, Hamonts K, Singh BK. 2017
+Competition drives the response of soil
+microbial diversity to increased grazing byvertebrate herbivores. Ecology 98, 1922 –1931.
+(doi:10.1002/ecy.1879)
+36. Zhang R, Wang Z, Niu S, Tian D, Wu Q, Gao X,
+Schellenberg MP, Han G. 2021 Diversity of plant
+and soil microbes mediates the response of
+ecosystem multifunctionality to grazing
+disturbance. Sci. Total Environ. 776, 145730.
+(doi:10.1016/j.scitotenv.2021.145730)
+37. Wu Y, Chen D, Delgado-Baquerizo M, Liu S,
+Wang B, Wu J, Hu S, Bai Y. 2022 Long-term
+regional evidence of the effects of livestock
+grazing on soil microbial community structure
+and functions in surface and deep soil layers.Soil Biol. Biochem. 168, 108629. (doi:10.1016/j.
+soilbio.2022.108629)
+38. Farrell HL, Barberán A, Danielson RE, Fehmi JS,
+Gornish ES. 2020 Disturbance is more important
+than seeding or grazing in determining soilmicrobial communities in a semiarid grassland.
+Restor. Ecol. 28(S4), S335 –S343.
+39. Andersen R, Chapman SJ, Artz RRE. 2013
+Microbial communities in natural and disturbedroyalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 23096313
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+
+peatlands: a review. Soil Biol. Biochem. 57,
+979 –994. (doi:10.1016/j.soilbio.2012.10.003)
+40. Singh JP, Vaidya BP, Goodey NM, Krumins JA.
+2019 Soil microbial response to metal
+contamination in a vegetated and urban
+brownfield. J. Environ. Manag. 244, 313 –319.
+(doi:10.1016/j.jenvman.2019.04.111)
+41. Wang H, Cheng M, Dsouza M, Weisenhorn P,
+Zheng T, Gilbert JA. 2018 Soil bacterial diversity
+is associated with human population density in
+urban greenspaces. Environ. Sci. Technol. 52,
+5115 –5124. (doi:10.1021/acs.est.7b06417)
+42. Tan X, Kan L, Su Z, Liu X, Zhang L. 2019 The
+composition and diversity of soil bacterial and
+fungal communities along an urban-to-ruralgradient in South China. Forests 10, 797.
+(doi:10.3390/f10090797)
+43. Wang H, Marshall CW, Cheng M, Xu H, Li H, Yang
+X, Zheng T. 2017 Changes in land use driven by
+urbanization impact nitrogen cycling and themicrobial community composition in soils. Sci.
+Rep. 7, 44049. (doi:10.1038/srep44049)
+44. Van Bruggen AHC, Goss EM, Havelaar A, Van
+Diepeningen AD, Finckh MR, Morris JG. 2019
+One health - cycling of diverse microbialcommunities as a connecting force for soil,
+plant, animal, human and ecosystem health.
+Sci. Total Environ. 664, 927 –937. (doi:10.1016/j.
+scitotenv.2019.02.091)
+45. Tecon R, Or D. 2017 Biophysical processes
+supporting the diversity of microbial life in soil.
+FEMS Microbiol. Rev. 41, 599 –623. (doi:10.
+1093/femsre/fux039)
+46. Mod HK et al. 2021 Predicting spatial patterns
+of soil bacteria under current and future
+environmental conditions. ISME J. 15,
+2547 –2560. (doi:10.1038/s41396-021-00947-5)
+47. Cowan DA et al. 2022 Biogeographical survey of
+soil microbiomes across sub-Saharan Africa:
+structure, drivers, and predicted climate-driven
+changes. Microbiome 10, 131. (doi:10.1186/
+s40168-022-01297-w)
+48. Bastida F, Eldridge DJ, García C, Kenny Png G,
+Bardgett RD, Delgado-Baquerizo M. 2021 Soil
+microbial diversity –biomass relationships are
+driven by soil carbon content across global
+biomes. ISME J. 15, 2081 –2091. (doi:10.1038/
+s41396-021-00906-0)
+49. Baveye PC et al. 2018 Emergent properties of
+microbial activity in heterogeneous soil
+microenvironments: different researchapproaches are slowly converging, yet major
+challenges remain. Front. Microbiol. 9
+, 1929.
+(doi:10.3389/fmicb.2018.01929)
+50. Angela S, Alexandra W, Martin H. G, Holger K,
+Ellen K. 2001 Microbial population structures insoil particle size fractions of a long-term
+fertilizer field experiment. Appl. Environ.
+Microbiol. 67, 4215 –4224. (doi:10.1128/AEM.67.
+9.4215-4224.2001)
+51. Docherty KM et al. 2015 Key edaphic properties
+largely explain temporal and geographic
+variation in soil microbial communities across
+four biomes. PLoS ONE 10, e0135352. (doi:10.
+1371/journal.pone.0135352)52. Fierer N, Jackson RB. 2006 The diversity and
+biogeography of soil bacterial communities.Proc. Natl Acad. Sci. USA 103, 626 –631. (doi:10.
+1073/pnas.0507535103)
+53. Neina D. 2019 The role of soil pH in plant
+nutrition and soil remediation. Appl. Environ.
+Soil Sci. 2019 , 5794869. (doi:10.1155/2019/
+5794869)
+54. Balkhair KS, Ashraf MA. 2016 Field accumulation
+risks of heavy metals in soil and vegetable crop
+irrigated with sewage water in western
+region of Saudi Arabia. Saudi J. Biol. Sci. 23,
+S32 –S44.
+55. Kay BD.1997 Soil structure and organic carbon:
+a review. In Soil processes and the carbon cycle
+(eds R Lal, JM Kimble, RF Follett, BA Stewart),
+pp. 169 –197. Boca Raton, FL: CRC Press.
+56. Wessells AT. 2007 Reassembling the social: an
+introduction to actor-network-theory by Bruno
+Latour. Int. Public Manag. J. 10, 351 –356.
+(doi:10.1080/10967490701515606)
+57. Latour B. 2016 Mixing humans and nonhumans
+together: the sociology of a door-closer. In
+Social theory re-wired , 2nd ed (eds W
+Longhofer, D Winchester), pp. 120 –133.
+London, UK: Routledge.
+58. Malone N, Ovenden K. 2016 Natureculture. In
+The international encyclopedia of primatology
+(ed. A Fuentes), pp. 1 –2. New York, NY: John
+Wiley & Son.
+59. Nail T. 2017 What is an assemblage? SubStance
+46,2 1 –37. (doi:10.1353/sub.2017.0001)
+60. De Sousa Santos B. 2009 A non-occidentalist
+west?: learned ignorance and ecology of
+knowledge. Theory Cult. Soc. 26, 103 –125.
+(doi:10.1177/0263276409348079)
+61. Griffiths D, Kreisel DK. 2020 Introduction: open
+ecologies. Vic. Lit. Cult. 48,1–28. (doi:10.1017/
+S1060150319000470)
+62. Hendlin YH. 2014 From Terra Nullius to Terra
+C o m m u n i s :r e c o n s i d e r i n gw i l dl a n di na ne r ao f
+conservation and indigenous rights. Environ. Philos.
+11, 141 –174. (doi:10.5840/envirophil20143205)
+63. Haraway D. 1988 Situated knowledges: the
+science question in feminism and the privilege
+of partial perspective. Fem. Stud. 14, 575 –599.
+(doi:10.2307/3178066)
+64. Puig De La Bellacasa M. 2015 Making time for
+soil: technoscientific futurity and the pace of
+care. Soc. Stud. Sci. 45, 691 –716. (doi:10.1177/
+0306312715599851)
+65. Lent J, Capra F. 2017 The patterning instinct: a
+cultural history of humanity ’s search for
+meaning . Buffalo, NY: Prometheus Books.
+66. Pansera M, Owen R, Meacham D, Kuh V. 2020
+Embedding responsible innovation withinsynthetic biology research and innovation:
+insights from a UK multi-disciplinary research
+centre. J. Responsible Innov. 7, 384 –409.
+(doi:10.1080/23299460.2020.1785678)
+67. Castell J, Waddington K, Willis M. 2017
+ScienceHumanities: introduction. J. Lit. Sci. 10,1–5.
+68. Willis M, Waddington K, Castell C. 2017
+ScienceHumanities: theory, politics, practice.
+J. Lit. Sci. 10,6–18.69. Campbell P, Dhand R. 2015 Time for the social
+sciences. Nature 517,5–5. (doi:10.1038/
+517005a)
+70. Tringe SG, Hugenholtz P. 2008 A renaissance for
+the pioneering 16S rRNA gene. Curr. Opin.
+Microbiol. 11, 442 –446.
+71. Jolinda P, Laura G, Trong W, Mick W. 2018
+The madness of microbiome: attempting to
+find consensus ‘Best Practice ’for 16S
+microbiome studies. Appl. Environ. Microbiol.
+84, e02627-17.
+72. Tremblay J et al. 2015 Primer and platform
+effects on 16S rRNA tag sequencing. Front.
+Microbiol. 6, 771.
+73. Straub D, Blackwell N, Langarica-Fuentes A,
+Peltzer A, Nahnsen S, Kleindienst S. 2020
+Interpretations of environmental microbial
+community studies are biased by the selected
+16S rRNA (gene) amplicon sequencing pipeline.
+Front. Microbiol. 11, 550420. (doi:10.3389/
+fmicb.2020.550420)
+74. Abellan-Schneyder I, Matchado MS, Reitmeier S,
+Sommer A, Sewald Z, Baumbach J, List M,
+Neuhaus K. 2021 Primer, pipelines, parameters:issues in 16S rRNA gene sequencing. mSphere 6,
+e01202 –20. (doi:10.1128/mSphere.01202-20)
+75. Frank JA, Reich CI, Sharma S, Weisbaum JS,
+Wilson BA, Olsen GJ. 2008 Critical evaluation of
+two primers commonly used for amplification of
+bacterial 16S rRNA genes. Appl. Environ.
+Microbiol. 74, 2461 –2470. (doi:10.1128/AEM.
+02272-07)
+76. Juul S, Izquierdo F, Hurst A, Dai X, Wright A,
+Kulesha E, Pettett R, Turner DJ. 2015 What ’si n
+my pot? Real-time species identification on the
+MinION
+TM.bioRxiv 030742.
+77. De Coster W, D ’hert S, Schultz DT, Cruts M, Van
+Broeckhoven C. 2018 NanoPack: visualizing andprocessing long-read sequencing data.
+Bioinformatics 34, 2666 –2669. (doi:10.1093/
+bioinformatics/bty149)
+78. Oksanen J et al. 2020 vegan community ecology
+package version 2.5-7 November 2020.
+79. Legendre P, Gallagher ED. 2001 Ecologically
+meaningful transformations for ordination of
+species data. Oecologia 129, 271 –280. (doi:10.
+1007/s004420100716)
+80. Gao CH, Yu G, Cai P. 2021 ggVennDiagram: an
+intuitive, easy-to-use, and highly customizable
+R package to generate Venn diagram. Front.
+Genet. 12, 1598.
+81. Paradis E, Schliep K. 2019 ape 5.0: an
+environment for modern phylogenetics
+and evolutionary analyses in R. Bioinformatics
+35, 526 –528. (doi:10.1093/bioinformatics/
+bty633)
+82. Tamowski MJ, Gorochowski TE. 2023 Soil as a
+transdisciplinary research catalyst: from
+bioprospecting to biorespecting. OSF. (doi:10.
+17605/OSF.IO/62Q9D)
+83. Tarnowski MJ, Varliero G, Scown J, Phelps E,
+Gorochowski TE. 2023 Soil as a transdisciplinary
+research catalyst: from bioprospecting to
+biorespecting. Figshare. (doi:10.6084/m9.
+figshare.c.6916159)royalsocietypublishing.org/journal/rsos R. Soc. Open Sci. 10: 23096314
+ Downloaded from https://royalsocietypublishing.org/ on 03 October 2025 
+

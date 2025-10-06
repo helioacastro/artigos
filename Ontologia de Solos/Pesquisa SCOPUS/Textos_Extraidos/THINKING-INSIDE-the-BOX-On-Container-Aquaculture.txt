@@ -1,0 +1,1565 @@
+159
+Cultural Politics , Volume 19, Issue 2, © 2023 Duke University Press 
+DOI: 10.1215/17432197-10434321THINKING INSIDE the  BOX
+On Container Aquaculture and the Datafication of Life
+Yuxing Zhang
+Abstract  Container aquaculture — a method that uses shipping  
+boxes equipped with information technologies — is presented in China 
+as an emblem of smart farming, and as a technological solution to 
+the environmental degradation in natural water resources resulting 
+from intensified aquacultural production. Container aquaculture 
+aims at creating an orderly, self-  contained ecosystem wherein 
+the fish are managed in tandem with the water milieu via data 
+governance. Its infrastructure operatively automates aquacultural 
+practices into optimizable modules and programs biological and 
+mechanical processes into interlocked components bearing distinctive 
+functionalities within the artificial ecosystem. This article argues that 
+the case of container aquaculture shows that algorithmically regulated 
+and automated ecosystematic management does not always fulfill 
+its promise; one still needs to navigate a dense web of interspecies 
+associations filled with gaps and crossings between modes of being 
+and values. Datafication is just one way to know and organize. An 
+algorithmically controlled ecosystem cannot always accommodate the 
+open-  endedness of more-  than-  human ecologies. Drawing on works by 
+Tsing, Stengers, and Satsuka, this article reappropriates what should 
+be counted as the “smart” in farming by resituating it as a world- 
+making practice in ecological collectives rather than in an abstract 
+ecosystem, eschewing the fantasy of a singular criterion of evaluation 
+and control.
+Keywords  smart farming, ecology, algorithm, infrastructure, 
+multispecies justice, more-than-human
+On November 11, 2019, China’s Central Television (CCTV) 
+devoted twenty-  two minutes of its prime-  time broadcast 
+programming to the explosion of blue algae in Yangcheng 
+Lake, the home of mitten crabs. Yangcheng Lake, located in Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 160Suzhou, serves as the source of drink -
+ing water for the residents of the lower 
+Yangtze River region. Aquaculture in this 
+area mostly deploys offshore cultivation 
+methods, involving floating net cages that 
+are roughly one square kilometer in size. A 
+massive amount of waste excreted by the 
+crabs, along with unabsorbed antibiotics 
+and fertilizers that are applied to increase 
+productivity, are discharged into the lake. 
+This gives rise to eutrophication — dense 
+blooms of noxious, foul-  smelling phyto -
+plankton and algal growth — every autumn 
+when the crabs mature.
+Intensified freshwater aquacultural 
+production has caused irreversible environ -
+mental degradation. Container aquaculture 
+has gained traction in parts of China as 
+a technological solution to the massive 
+demand for fish protein. The method 
+gained its name by using (often aban -
+doned) shipping containers to raise fish, 
+enabling maximum separation of aquacul -
+tural practice from natural water resources. 
+In 2019 China’s national aquacultural pro -
+duction reached 64.8 million tons, contrib -
+uting a market value of 1,293.5 billion RMB 
+(renminbi, China’s national currency; China 
+Fishery Law Enforcement 2020).
+More than a method for environmental 
+protection, container aquaculture is also an 
+emblem of smart farming ( 智慧农业 ).1 The 
+containers are equipped with sensors and 
+object-  recognition cameras that continu -
+ously collect and analyze data on the condi -
+tion of the fish, their movements, and their 
+water environment, so that farmers can 
+quickly respond to changes in either the 
+behaviors of the fish or the environment 
+with a fine degree of precision. Feeding, 
+water purification, and fish harvesting can 
+be automatically controlled. Farmers can 
+examine various production metrics on 
+personal computers and mobile interfaces 
+in real time.Container aquaculture is part of 
+China’s move toward algorithmic man -
+agement and automation in farming. It is 
+supported by the government’s “Inter -
+net Plus” national agenda, which strives 
+to upgrade  traditional industries using 
+information technologies (State Council 
+2015). Container aquaculture was listed 
+among the “key demonstration technology 
+projects” by China’s agriculture ministry 
+in 2019 (Godfrey 2020). Provincial agen -
+cies across China have funded multiyear 
+programs promoting container aquaculture 
+in rural villages as part of the government’s 
+environmental protection and poverty alle -
+viation efforts (Godfrey 2020). In the 2020 
+Smart Farming Development Summit, 
+Qiangde Liu, the deputy secretary general 
+of China’s Animal Agriculture Association, 
+declared that datafication is the inevitable 
+path for China’s farming development. 
+What lies at the core of datafication is its 
+capacity to abstract farming operations into 
+datasets that can be used for targeted pre -
+emptive intervention (Liu, quoted in Zhao, 
+Guo, and Wu 2020). Datafication is about 
+translating states and actions into quantita -
+tive expressions, enabling real-  time track -
+ing, pattern identification, and predictive 
+analytics (Mayer-  Schoenberger and Cukier 
+2013). It has been gradually normalized as 
+a new paradigm in science and technology, 
+legitimizing a widespread mythology: that 
+extensive datasets can offer a higher form 
+of intelligence with an unprecedented 
+degree of accuracy (boyd and Crawford 
+2012).2 In popular and scientific discourse, 
+the datafication of aquaculture signifies a 
+shift from an inefficient, unsustainable pro -
+duction style toward a precision-  oriented, 
+calculation-  intensive mode of computer -
+ized subfield control (Antonucci and Costa 
+2020; Liao 2020).
+Researchers have begun to pay 
+attention to the datafication of farming. Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 161Kelly Bronson and Irena Knezevic (2016: 
+2) declare that farming “is undergoing a 
+digital revolution,” which can reproduce 
+long-  standing, unequal relations among 
+food production players. In farmers’ daily 
+operations, they unwittingly produce 
+data for technology providers. However, 
+farmers are often denied ownership of 
+the datasets and their values (Fraser 
+2019). Michael Carolan (2017) explores 
+how access to data should be understood 
+as an issue of justice, political ontology, 
+and claim making. Other scholars have 
+examined how trustworthiness works in 
+the platformization of food distribution 
+(Zhang 2022), the issue of market concen -
+tration (Livingstone and Knezevic 2020), 
+and the consequences wrought by uneven 
+developments of agricultural technolo -
+gies across the globe (Murray 2018). Few 
+researchers have theorized the politics 
+and epistemology of data-  driven farming 
+practices through the lens of media stud -
+ies, except for Christopher Miles’s (2019: 
+3) study, which sees the discourse on 
+precision agriculture as performing a kind 
+of “persuasive, imaginary-  shaping work” 
+that “enacts a form of algorithmic norma -
+tivity.” For Miles, even though the datafi -
+cation process reorganizes production on 
+quantitative, rule-  based grounds, precision 
+agriculture is  essentially an intensification 
+of conventional agriculture (2).
+This article seeks to show that con -
+tainer aquaculture is more than an inten -
+sification of conventional aquacultural 
+methods. It will show that container aqua -
+culture is a special kind of smart farming, 
+in its adoption of a biodesign approach. It 
+is a type of farming that grounds itself on 
+ecological relations and the self-  sufficient 
+circularity of the biosphere. To construct 
+an artificial ecosystem where water can 
+be circulated within the container, micro -
+bial metabolic processes are mobilized to biologically exhaust nutrient loadings, 
+maintain oxygenation and nitrification 
+stability in the water, and improve the 
+digestibility of fish species. Container 
+aquaculture demonstrates a mode of eco -
+systematic management in which the fish, 
+the biological processes, and mechanical 
+operations in the container are managed in 
+tandem with data governance.
+I have examined corporate marketing 
+materials, news reports, design diagrams, 
+patent documents, and relevant television 
+programs related to container aquaculture. 
+The article thus contributes to the criti -
+cal literature on smart farming and data 
+governance in two ways. First, it explicates 
+the operational logics and implications of 
+data-  driven ecosystematic management. 
+Second, it explores what more-  than- 
+human perspectives can tell us about the 
+epistemological grounding and limits of 
+algorithmic methods relating to the prac -
+tices of farming and world making. More-  
+than-  human approach  refers to a rubric of 
+ethnographic research that takes seriously 
+the agencies of more-  than-  human beings 
+and the interconnectedness of humans and 
+other life-  forms (Kirksey and Helmreich 
+2010; Ogden, Hall, and Kimiko 2013). To 
+redirect us from economic concepts (e.g., 
+rationalization) and anthropocentric epis -
+temology in which the more-  than-  human 
+is subordinated to human ends, Anna N. 
+Tsing (2015: 21) points out how life-  forms 
+(e.g., matsutake mushrooms) make worlds 
+in ways that confound modern scientific 
+interpretations.3 A scientific understanding 
+of ecosystems in farming implies bounded -
+ness and formalization, but the ecological 
+world(s) stitched together by life-  forms  
+are “open-  ended gatherings” rather than  
+a coherent, teleological “system” or 
+“logic” (23).
+Here, I argue, container aquaculture 
+shows that algorithmically regulated and Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 162automated ecosystematic management 
+does not always fulfill its promise; one still 
+needs to navigate a dense web of inter -
+species associations filled with gaps and 
+crossings between modes of being and 
+values that coexist. Put differently, farming 
+takes place in ecology, and ecology does 
+not equate with a model ecosystem. 
+Ecology does not work like a machine. 
+Datafication is just one way to know and 
+organize. Drawing on works by Tsing 
+(2015), Isabelle Stengers (2011), and Shiho 
+Satsuka (2018), this article reappropriates 
+what should be considered the “smart” in 
+farming by resituating farming as a world- 
+making practice in an ecological collective 
+rather than in an abstract ecosystem, 
+eschewing the fantasy of a singular crite -
+rion of evaluation and control.
+In the following sections, I discuss (a) 
+how container aquaculture aims to con -
+struct an orderly, self-  contained artificial 
+ecosystem; (b) how data-  driven ecosys -
+tematic management is operationalized 
+and its implications; and (c) how out-  of- 
+tune biological processes testify to the 
+need to rethink farming as a world-  making 
+practice, a process that always involves 
+livable collaborations and working across 
+difference. The article ends by reflecting 
+on the politics of smart farming, and how 
+the case of container aquaculture invites 
+us to (re)consider how “smartness” should 
+manifest in food production within a multi -
+species world.
+Ecosystematic Management
+In China, container aquaculture is seen 
+as an indicator of “the third epoch of 
+aquacultural industry,” an “aquacultural 
+ecosystem driven by a precision-  oriented, 
+visualizable, automated, and condensed 
+yet environmentally friendly management 
+style” (Dajiang Fishery 2021; Yang 2020). 
+Container aquaculture minimizes the threat of pathogens from the outside, which can 
+also significantly reduce the use of antibiot -
+ics for the benefit of production and the 
+larger ecology (China Fishery Law Enforce -
+ment 2018). An article in a Chinese maga -
+zine specializing in aquaculture praised 
+the container system for possessing the 
+advantages of reducing biosecurity risks, 
+cutting down antibiotic exposure, decreas -
+ing the percentage of fat in fish’s flesh via 
+controlling water streams, and alleviating 
+the influence of natural disasters (Zhu, 
+Shu, and Xie 2019). Similarly, Nongxin’s 
+(2018) report celebrated container aqua -
+culture as an innovative method that could 
+bring about a positive outcome of “four 
+savings”: land resource, water, human 
+labor, and feed consumption.
+Agriculture and Farming , a CCTV-  7 
+show that focuses on introducing novel 
+agricultural technologies, featured a 
+container aquaculture episode (Ren 2018). 
+It showed fish cultivated in computer -
+ized containers, which were created by 
+repurposing standard shipping containers. 
+These “smart” tanks had hatch lids and 
+automatic devices fitted on the top for 
+feeding activities. The containers were 
+coated with a three-  layer insulation shield 
+for temperature control. The bottom fea -
+tured a manufactured slope with a control -
+lable, smooth-  surface hole and stainless- 
+steel slide in one corner where fish could 
+be automatically harvested when the slide 
+was deployed. A local farmer explained 
+that this design significantly saved human 
+labor, allowing him to “harvest 4.5 kilo -
+grams of fish in just 10 minutes” (Peng, 
+quoted in Ren 2018). He showed the 
+reporter how biomediation and mechanical 
+filtration techniques separated waste from 
+wastewater, reducing waste dispersion; 
+the fish’s excrement was then used as 
+organic fertilizer for planting. The program 
+represented container aquaculture as a Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 163“smart” solution to the massive demand 
+for “white meat” in China. It adopted algo -
+rithmic technologies to execute precision- 
+oriented management, solved food safety 
+issues, and answered the government’s 
+call for returning an uncontaminated envi -
+ronment to the people.4
+Container aquaculture demonstrates 
+how the dilemma posed by the environ -
+mental impacts of intensified production 
+is reconstituted into a concern about 
+infrastructure: the creation of an insulated 
+technological “bubble,” a fetishization of 
+enhanced sensor capability, and faith in 
+data analytics. Technically, the container 
+system comprises:
+•  a perception layer — underwater cameras, 
+radio frequency identification, and wireless 
+sensor networks, for real-  time monitoring 
+and life cycle assessment;
+•  an Internet of Things (IoT) – based network 
+layer of communication nodes and gate -
+ways, whereby collected data are forwarded 
+to the data infrastructure for storage and 
+analysis; and
+•  the application/end-  user layer, through 
+which data are synthesized and presented 
+(often on the farmer’s smartphone).
+The container system can thus be seen 
+as a form of data infrastructure, demon -
+strating what Shannon Mattern (2015: 
+98) called “infrastructural capacities” — it 
+coordinates signal traffic via multilay -
+ered “communication and communion,” 
+enabling the system’s interconnectedness 
+and interoperable data transmission. Verti -
+cally integrated sensing devices afford the 
+datafication of multifaceted biological and 
+environmental dimensions inside the con -
+tainer into quantifiable variables (e.g., tem -
+perature, movement level of the fish, water 
+current speed, oxygen dissolving level, and 
+feed conversion ratio), which can give early indications of potential welfare problems. 
+Supported by front-  and backstage data 
+work, the fish are managed as at-  risk living 
+entities whose growth conditions can be 
+continuously monitored to ensure that they 
+are being kept in an optimal condition.
+However, what makes container aqua -
+culture unique lies in its holistic, ecosys -
+tematic approach to control. Data-  driven 
+ecosystematic management, in this case, 
+is not simply about datafication but also 
+the construction of a self-  contained model 
+ecosystem par excellence. In the scientific 
+community, ecosystematic management  
+refers to using “scientific knowledge of 
+ecological relationships within a complex 
+sociopolitical and values framework” to 
+sustain the long-  term ecological resiliency 
+of a given domain (Grumbine 1994: 31). For 
+container aquaculture, ecological resiliency 
+is translated into the equilibrium of the 
+artificial container ecosystem. In other 
+words, container aquaculture adopts a kind 
+of data-  driven ecosystematic management 
+strategy wherein living entities are man -
+aged in tandem with environmental and 
+mechanical processes. In the container, 
+aquatic organisms are readily “involved” 
+in each other’s lives. The maintenance of 
+water quality is seen as synonymous with 
+the maintenance of the well-  being of the 
+fish. The fish are not managed as discreet 
+entities; instead, they are cultivated as 
+transcorporeal subjects (Alaimo 2012) 
+interconnected with the flows of sub -
+stances and agencies of the water milieu.
+The emphasis on data-  driven eco -
+systematic management was a descen -
+dant of the broader trend in post – Cold 
+War natural and social sciences in which 
+cybernetics, systems thinking, signals, and 
+feedback loops became the foundational 
+vocabularies. The rationalist, managerial 
+ideals of the self-  contained ecosystem 
+for space research programs later served Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 164as the model for sustaining life on earth 
+(Anker 2005: 240).5 Container aquaculture 
+expresses an attempt to transform ecology 
+into an orderly functioning ecosystem 
+placed within a defined domain. Fish can 
+be raised within an artificial container eco -
+system, which reorganizes production and 
+water environment maintenance based on 
+calculative rationality, something of which 
+present-  day computers are capable.6
+Automating an Ecosystem
+To operationalize ecosystematic manage -
+ment and water resource circulation, con -
+tainer aquaculture adopts a key aspect of 
+platform design strategy: modularity. Mod -
+ularity entails the structural compartmen -
+talization of web contents by dividing them 
+into reusable modules bearing distinct 
+functions (McKelvey 2011), which eases 
+the coordination of distributed operations 
+(Benkler 2006). Anne Helmond (2015: 1) 
+has theorized platforms as “pouring data 
+systems” consisting of interoperable mod -
+ular channels through which external web 
+contents/applications can be easily added 
+and made compatible to the core platform 
+framework. Each modular component can 
+work independently while contributing to 
+the platform ecosystem’s overall data work 
+(Nieborg and Helmond 2018).
+The construction of an artificial eco -
+system does not in itself make container 
+aquaculture an instantiation of smart 
+farming. In fact, its “smartness” lies in 
+its (promised) infrastructural ability. Biotic 
+processes (e.g., breaking down wastewa -
+ter biosolids via anaerobic digestion) and 
+abiotic processes (processes that are not 
+derived from living organisms, like con -
+trolling water currents) are broken down 
+into modules of an artificial ecosystem. On 
+a holistic level, the technology promises 
+uniform expansion, as the container itself 
+is built as a standardized, replicable device. For internal operations, the container 
+infrastructure compartmentalizes com -
+plex aquacultural practices (e.g., feeding, 
+mechanically filtering wastewater) into a 
+series of modular prototypes for integrated 
+control.
+Taking water purification and recircu -
+lation as an example (itself a modular com -
+ponent of the overall container system), 
+there are two main types of container 
+infrastructure. The semi-  enclosed type  
+(陆基推水式 ) requires connection to arti -
+ficial “ecological ponds” where water is 
+filtered and biologically purified. The other 
+type features a fully enclosed biocycling 
+design (一拖二式 ), consisting of two fish- 
+cultivation units and one water-  treatment 
+unit to complete a self-  contained water- 
+circulation feedback loop (Yao, Xie, and  
+Lin 2019).
+For the semi-  enclosed type, according 
+to a documentary broadcast on CCTV-  17 
+(2021), the wastewater first goes through 
+a mechanical filter that screens large solid 
+substances. The finer particles, along with 
+dissolved compounds, are subsequently 
+processed in “ecological ponds,” which 
+comprise four sequential segments:
+•  A 4.5-  meter-  deep pond that uses gravity for 
+initial sedimentation
+•  A one-  meter-deep pond that uses biofloc  
+technology — using aggregates of algae, bac -
+teria, or protozoa held together in a matrix 
+along with aquatic plants — to consume 
+nutrient loadings, elevate water respiration 
+rates, and sustain nitrification stability
+•  A pond with herbivorous fishes introduced 
+in an appropriate proportion. The multi -
+trophic method — incorporating species from 
+different nutritional levels in the system so 
+that the by-  products (e.g., waste) of one 
+species are recaptured as source of energy 
+for another — is implemented to avert algae 
+bloom.Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 165•  A thermal-  control pond that keeps the puri -
+fied water at an optimal temperature before 
+it is sourced back to the fish-  cultivation 
+module. Computational sensors are installed 
+in each module to harness real-  time environ -
+mental parameters (CCTV-  17 2021).7
+The fully enclosed biocycling model 
+integrates six modular components: water 
+quality monitoring, excretion collection, 
+water body purification, thermal and oxy -
+gen level control, fish-  algae symbiosis, and 
+a platform-  based decision-  support system 
+(NFTEC 2018). The water purification mod -
+ule comprises a microfiltering machine, 
+Roots-  type blower, air pump and flow 
+control lever, ozone generator, biochemical 
+tank, and a central control system that 
+collects and assesses various environmen -
+tal parameters (e.g., pH level). Fifteen tons 
+of water circulate throughout the modules 
+per hour (L. Wang 2018). Pressurized 
+water circulation forces the fish to swim  
+in a certain direction, to accurately direct 
+their excrement to the purification modules 
+and to burn off fat. Nutrient-  rich waste -
+water is processed via the mechanical- 
+filtering and fish-  algae symbiosis modules 
+(to remove detritus excreted by the fish, 
+and to maintain oxygenation and nitrifi -
+cation stability), and then fed back to the 
+fish tank, constituting a self-  contained, 
+resource-  circulation feedback loop (Liao 
+and Luo 2019).
+Container aquaculture deals with com -
+plex material exchanges and interspecies 
+attachments in a condensed environment. 
+The risk of water quality degradation is nor -
+malized into a sense of “permanent precar -
+iousness” (Puig de la Bellacasa 2015: 694) 
+that needs to be constantly acted on. The 
+vertically integrated sensor system makes 
+environmental sensing a highly distributed 
+event. Each sensor (or group of sensors) 
+provides a perspectival view of the overall ecosystem. For example, biofiltration effi -
+ciency depends primarily on:
+•  water temperature;
+•  an acceptable nitrification rate, reached by 
+the proliferation of nitrifying bacteria, con -
+verting the toxic ammonia first into nitrite 
+and finally into nitrate; and
+•  a stable pH level in the system, which is 
+primarily affected by the production of 
+carbon dioxide from the fish and biological 
+processes of the biofilter, as well as the 
+acid produced from the nitrification process 
+(Bregnballe 2015: 20).
+To achieve effective biofiltration in such a 
+condensed space is not straightforward. 
+It requires complex intermodular coor -
+dination and multispecies collaboration, 
+constantly reflecting any trace of poten -
+tial water deterioration so that preemp -
+tive measurements can be undertaken 
+promptly.8
+The modular design of the container 
+infrastructure breaks down complex tasks 
+as well as biotic and abiotic processes into 
+digestible units. It expresses a particular 
+form of organization that aims at abstract -
+ing living realities into pieces of program -
+mable modules bearing distinct functions. 
+A programmable platform allows its very 
+code to be modified; codes define the rela -
+tions and arrangements of platform con -
+tents. Programming aquaculture works on 
+the premise that relations among life-  forms 
+can be abstracted into a kind of essen -
+tialized correlation expressed in numeric 
+terms. Biotic and abiotic agents in the con -
+tainer can therefore be managed accord -
+ing to an algorithmic relation, or what is 
+termed ground truth in algorithms — that is, 
+a labeled cluster of training data through 
+which a supervised machine-  learning sys -
+tem can generate its model of the world. 
+It aims at defining and creating the “right” Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 166condition in which these processes can 
+mechanistically express themselves in a 
+particular way.
+To a certain extent, container aqua -
+culture promises to create an orderly, 
+autonomously functioning ecosystem, in 
+which whatever happens within the con -
+tainer rests on what Tsing (2012: 505) has 
+termed “precision-  nested scales.” Scalabil -
+ity, according to Tsing, is a constructed fea -
+ture that allows projects to grow without 
+any indeterminacy of transformation (507). 
+By programming both biotic and abiotic 
+processes into functional modules of an 
+artificial ecosystem, their relations can be 
+holistically managed in scalable terms, 
+which can supposedly capture contin -
+gencies, or at least enable one to quickly 
+respond to them.
+Orit Halpern, Robert Mitchell, and 
+Bernard Dionysius Geoghegan (2017: 110) 
+define “smartness” as a mode of govern -
+mentality embracing “the ideal of an infinite 
+range of experimental existences, based 
+on real-  time adaptative exchanges among 
+users, environments, and machines.” 
+According to these authors, the vision 
+of smartness is inextricably tied to the 
+language of crisis (120). An infrastructure 
+might encounter unforeseen crisis; hence, 
+present operations need to be constantly 
+modulated to make the infrastructure more 
+resilient to future uncertainty (112). The 
+mechanism of container aquaculture works 
+along a similar calculation-  intensive, practi -
+cal epistemology. It promulgates the belief 
+that living relations can be formalized and 
+therefore made algorithmically manageable 
+and optimizable. The modular system can 
+self- organize. The modular operations can 
+adjust themselves automatically according 
+to internally referential measurement of 
+performance.
+In theory, the container infrastruc -
+ture yields a simplified ecosystem par excellence; it  nears total automation 
+and, by extension, significantly reduces 
+the demand for human participation and 
+judgment. To thrive, the fish and their 
+surrounding biotic agents only need to pas -
+sively cohabit, since the substantial flows 
+and energy exchanges would supposedly 
+unfold according to the structure of the 
+system’s hardware. In the next section, 
+I show how the case of container aqua -
+culture implicates a need to (a) resituate 
+farming as a world-  making practice taking 
+place in a dynamic ecology rather than in a 
+model ecosystem; and (b) reexamine what 
+should be counted as the “smart” for farm -
+ing, moving away from a technologically 
+deterministic image of “smartness.”
+World Making: From Ecosystem to Ecology
+An episode of I Love to Invent , a television 
+program from China featuring amateur 
+scientists’ self-  developed artifacts, depicts 
+the struggles that Jinliang Chen under -
+went in disciplining microbes in container 
+aquaculture (CCTV-  10 2018). Chen was an 
+agroecological entrepreneur from Anhui 
+Province, located in the interior where nat -
+ural water resources are limited. To liberate 
+aquaculture from the natural constraints of 
+pond-  based methods, Chen aimed to turn 
+abandoned shipping containers into “big, 
+controllable aquacultural facilities” wherein 
+the by-  product — fish manure — could 
+be used as organic fertilizer for growing 
+vegetables. In the program, Chen took the 
+challenge of raising one thousand tilapias 
+in his first attempt, and he used a con -
+tainer comprised a fish-  cultivation tank and 
+a biochemical water-  treatment module. 
+Although the water was oxygenated and 
+kept at twenty-  two degrees Celsius, the 
+number of probiotics were insufficient to 
+exhaust the massive waste excreted by 
+the fish. An overabundance of nutrients 
+in water can lead to overgrowth of algae. Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 167When dead algae decompose, this process 
+consumes dissolved oxygen, which leads 
+to fish hypoxia.
+In his second demonstration, Chen 
+added mechanical filters, oxygenation 
+equipment, heater tubes, and bioballs, a 
+plastic medium that provides surface areas 
+for probiotics to cling to. However, the 
+amount of fish excrement still exceeded 
+the biodegradation capacities of the puri -
+fying modules, resulting in an upsurge of 
+ammonia nitrogen in water. For the third 
+demonstration, Chen empowered the 
+water-  treatment module with an additional 
+mechanical filter and a biochemical tank 
+equipped with denitrifying lava rocks, 
+bioballs, and oxygen generators to cultivate 
+aerobic probiotics. He also installed more 
+sensors to collect real-  time environmental 
+data. Surprisingly, this model still failed.
+In an interview, Chen reflected that 
+the circular container system relies on the 
+symbiosis between the fish and microor -
+ganisms in the water, but human eyes or 
+sensors cannot trace the changes in their 
+relations in a timely manner. The prolif -
+eration of probiotics requires a farmer’s 
+ongoing, meticulous attentiveness even if 
+full- fledged environmental monitors are in 
+place. In Chen’s experience, once indica -
+tors of ecological disturbance were picked 
+up by the sensors, it was often too late for 
+any remedial acts to be effective in such a 
+condensed environment.
+For aquaculture, the cultivation of 
+probiotics is crucial: they can denitrify, 
+improve the digestibility of aquatic species, 
+release chemical substances with bacte -
+riostatic effects, and consume excessive 
+nutrients to enhance water stress toler -
+ance (Y. Wang, Li, and Lin 2008). However, 
+aquatic microbes unfold at scales below 
+everyday human perception and below 
+even the quantifying capacity of sensors.
+Chen’s collapsed ecosystem raises questions. Is controlling an ecology solely 
+via technologized means even attainable? 
+What are the limits of algorithmic methods 
+in programming and managing life? Chen’s 
+failed experiments show that container 
+ecology is actually a unit of contingency 
+and frailty, rather than a machine that can 
+smoothly function according to preestab -
+lished principles. Even though the “right” 
+number of probiotics are introduced, they 
+refuse to be made scalable. The ways they 
+form symbiotic attachments are fundamen -
+tally ephemeral and transcorporeal: they 
+do not act according to uniform, precision- 
+nested scales.
+In recent years, scholars in anthropol -
+ogy and social studies of science have  
+paid specific attention to microorganisms, 
+in several ways: their participation in post- 
+Pasteurian discourse and practice  —  
+for example, in artisanal cheese making —  
+invites one to revisit the nature/culture 
+divide (Paxson 2008); their forms and 
+structure challenge conventional analytic 
+frameworks and boundaries (Helmreich 
+2009; Hird 2009; Paxon and Helmreich 
+2014); and their elusiveness presents an 
+alternative to the episteme of modern 
+science and capitalist value production 
+(Hathaway 2022; Satsuka 2019; Tsing 
+2015). Astrid Schrader (2019: 256) notes 
+that marine microbes exist “predomi -
+nantly hauntologically.” The life-  sustaining 
+tendencies of microbial collectives disrupt 
+the individual/population dichotomy 
+(259), which has led to profound scien -
+tific uncertainties about the pathways to 
+death for aquatic microbes (even how life/
+death should be defined for them) because 
+microbial intra-  actions within an algal 
+bloom are fundamentally indeterminant 
+(269). In one of her earlier works, exam -
+ining an ongoing political-  scientific con -
+troversy over the toxicity of a fish-  killing 
+microorganism, Schrader (2010) suggested Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 168that the inextricable entanglement of 
+(potentially) toxic dinoflagellates with 
+life- forms in water challenges the conven -
+tional notion of linear causality. Microbial 
+“response-  ability” must be seen as a 
+condition of “ontological indeterminacies” 
+wherein their ephemeral activities cannot 
+be easily transcoded into a program that 
+runs in linear time (277).
+Satsuka (2018) has provided a useful 
+framework within which to understand the 
+contingent nature of microbial multitudes. 
+Satsuka argues that modern science con -
+ceptualizes the world “as a universal space 
+filled with things in which humans try to 
+see things by separating them into indi -
+vidual units and by observing them from a 
+perspectival vantage point” (82).9 That is, 
+the episteme of modern science privileges 
+the mutually exclusive, individual body 
+that occupies space as the model unit of 
+ontological existence. Reflecting on her 
+ethnographic research on a forest biomass 
+study and the grassroots satoyama  forest 
+revitalization movement in Japan, Satsuka 
+suggests that the ways in which microbes 
+form interspecies entanglement are much 
+more elusive than the modernist spatial 
+topology. The existence of microbes 
+should be approached as “events” (82), a 
+constant act of emergence through which 
+life composes itself via encounters with its 
+surrounding world. For microorganisms like 
+mycorrhizal fungi, it is difficult to discern 
+the structural mechanism of their symbi -
+otic relations and dissect the functionality 
+of each species (94). Their interspecies 
+entanglements never reach a point of 
+completion, nor do they form relations 
+in a defined, hierarchical manner. Their 
+elusiveness requires “the art of noticing” 
+(Tsing 2015) or meticulous “attunement” 
+(Satsuka 2019) to see how microbial mul -
+titudes compose themselves along with 
+other beings.In container aquaculture, the ways 
+in which aquatic microbes flow and form 
+symbiotic attachments do not conform to 
+an atomistic ontology (which presumes 
+the existence of discreet entities that can 
+be anchored in a spatial representational 
+scheme). The movements and effects of 
+aquatic microbes cannot be fully pro -
+grammed because their life cycles and 
+boundaries evade the gaze that guides the 
+design of the container infrastructure or 
+other smart-  farming facilities: organizing 
+production based on regimentation, sys -
+tematic ordering, and informed calculation.
+As discussed in earlier sections, 
+automating a simplified, self-  contained 
+ecosystem depends on breaking down 
+both biotic and abiotic processes into func -
+tional modules along a procedural chain. It 
+works on the premise that there exists an 
+essentialized, quantitative correlation that 
+leads to ecosystem stability, and that can 
+be analyzed and actualized via surveillance 
+and automation. Life-  forms would only 
+need to passively cohabit and do work. 
+However, as Chen’s failed experiments 
+remind us, aquatic microbes’ ephemeral 
+appearances and disappearances and their 
+interspecies “response-  ability” cannot be 
+fully relegated to the position of back -
+ground supporters for the well-  being of the 
+fish. They unfold as a cloud of possibilities 
+that are “materially real” yet only “partially 
+knowable,” emergent amid “contingent 
+relations of multiple beings and entities” 
+(Ogden, Hall, and Kimiko 2013: 6). There -
+fore, to maintain reciprocal symbiosis in 
+the water ecology, humans’ attentiveness 
+remains indispensable if one wishes to 
+make the organismic relations in tune with 
+the overall operativity of the container 
+system.
+However, this does not necessar -
+ily mean that the existence of microbial 
+multitudes is ontologically incompatible Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 169with algorithmic methods. Nor do I intend 
+to make a case that one need to become 
+an “animist” in a traditional sense — to 
+“communicate” with microbes in order to 
+raise fish. What is at stake here is that con -
+tainer aquaculture testifies to the need to 
+rethink the taken-  for- granted mythology of 
+calculative relationality that presumes the 
+legibility and manipulability of life-  forms 
+and their relations in mechanistic terms.
+The fissure revealed here resonates 
+with what Stengers (2011) refers to as 
+the fracture between facts and values, 
+or world and formalization. Stengers 
+has challenged science’s pretensions to 
+universality and objectivity, as it demotes 
+perspectives other than its own to merely 
+secondary, irrational beliefs. For Stengers, 
+there exist as many modes of being 
+and values as there are entities; and the 
+relevance of science must be revisited 
+in the specificities of its practice. To do 
+so, one can resituate science as part of 
+what Stengers has called an “ecology of 
+practices”: “the science of multiplicities, 
+disparate causalities, and unintentional 
+creation of meaning” (34).
+Stengers’s (2005) notion of ecology 
+conveys something broader than the sci -
+entific definition of the term. In ecological 
+collectives, scientific practices come into 
+existence via making relations to other 
+material and value-  making practices that 
+coexist. The notion of ecology foregrounds 
+the need to unearth the multiplicities of 
+associations as entities participate in form -
+ing collectives, a process wherein more- 
+than-  human beings also have an important 
+voice outside the rubric of vacuous scien -
+tific abstractions.
+Chen’s (CCTV-  10 2018) failed demon -
+strations testify that farming does not take 
+place in an abstract model ecosystem, but 
+in a dynamic ecology. In this vein, the cre -
+ation of container ecology should be seen as a world-  making practice: a negotiation 
+of relationship formation, material trans -
+mission, and value alignment that does not 
+necessarily reach an ideal state of absolute 
+harmony. The notion of world making does 
+not flatten agency. It allows us to consider 
+the agencies and identities of the more- 
+than-  human in a more nuanced way, and 
+see how particular actions — no matter 
+whether they are done by humans, more- 
+than-  human organisms, or machines —  
+create worldly effects.
+The unfulfilled dream of an autono -
+mous, orderly functioning ecosystem 
+makes visible the crossings and frictions 
+necessary to the composition of a shared 
+world. Understanding container aquacul -
+ture as a world-  making practice does not 
+mean that we need to abandon algorith -
+mic technology. What is at stake here 
+is that container aquaculture invites us 
+to consider the differences between an 
+ecology and an ecosystem. It reveals the 
+very limits of algorithmic management 
+and the hubris of achieving total control 
+over life-  forms according to calculative 
+rationality, which attempts to objectify 
+life as a passive resource, something that 
+can be mobilized according to precision- 
+nested scales toward productionist ends. 
+The abstract formalization of ecology 
+leads to a concept of nature — a general -
+ized, singular noun — that legitimizes the 
+abrasive resource exploitation that serves 
+as the foundation for capitalist production 
+(Williams 1976).
+The container world itself is an irreduc -
+ibly complex association of value-  emitting 
+organisms, technologies, and human par -
+ticipants, an ecological collective wherein 
+different values and ways of being are 
+negotiated. Creating “smart” container 
+worlds thus requires one to take seriously 
+the nonsingular agencies of the more-  than- 
+human and find ways to muddle through Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 170gaps and crossings, eschewing the fantasy 
+of a singular criterion of evaluation and 
+control.
+Not a Conclusion: The Politics of 
+Container Aquaculture
+The datafication of farming has brought 
+a profound change at the levels of epis -
+temology and ethics. It reframes the 
+concerns about the environmental impacts 
+of intensified production as questions of 
+infrastructure and numbers. Data-  driven 
+ecosystematic management is operation -
+alized via translating aquacultural prac -
+tices into always-  updating modules, and 
+managing biotic and abiotic processes as 
+functional components of an artificial eco -
+system in tandem with data governance. 
+However, as philosophers of science have 
+long showed us, science is not value free: 
+claims to objectivity are made by subjects 
+who observe and represent the world 
+through particular epistemes (Daston and 
+Galison 2007). With the rise of calculation- 
+intensive methods crystalizing into a new 
+orthodoxy, other voices and forms of value 
+are sidelined.
+Container aquaculture is an intriguing 
+case with which to examine the politics of 
+smart farming. It also provides hints about 
+how we should understand what algorith -
+mic methods are and what should be con -
+sidered the “smart” in farming. Container 
+ecology does not equate with an abstract 
+ecosystem. The algorithm interprets, if not 
+reduces, the multiplicity of life-  forms and 
+their associations to an arrangement of 
+weighed probabilities. In “Doubt and the 
+Algorithm,” Louise Amoore (2019: 148) 
+shows that, while algorithms condense the 
+multiplicity of reality to a single output with 
+a numeric value between 0 and 1, doubt 
+and partial accounts still dwell uneasily 
+within. Put another way, algorithms do not 
+eradicate uncertainty. The computational structure of algorithms dictates that the 
+output is itself a numeric probability, a 
+single value/actionable procedure distilled 
+from a multiplicity of potential pathways, 
+weighings, and thresholds. Algorithmic 
+reckoning is a process in which a series of 
+highly malleable processual calculations 
+are used to arrive at an output.10 Amoore 
+argues that algorithmic systems appear 
+to be “objective” because their output 
+“places a decision beyond doubt in the 
+sense that it always already embodies the 
+truth-  telling of the ground truth data” (151). 
+In this vein, she proposes to reinstate 
+doubt as a posthuman critical faculty (164). 
+The form of doubt proposed by Amoore 
+is different from Cartesian skepticism; 
+instead, it embraces what Donna Haraway 
+(1988: 584) has called “partial, locatable 
+knowledges” that are accountable and can 
+enable the “possibility of new webs of 
+connections.”
+The case of container aquaculture 
+reveals the limits of data-  driven (ecosys -
+tematic) management: it does not fulfill 
+its promise of creating an autonomous, 
+mechanistic artificial ecosystem. Moments 
+of incoherence and gaps do not neces -
+sarily point to absolute incompatibility or 
+radically different ontologies that should be 
+taken as something negative for science 
+to conquer. Instead, they remind us that 
+farming actually takes place in dynamic 
+ecological collectives, and humans still 
+need to learn how to live with the contin -
+gencies and cacophonic rhythms among 
+different life-  forms. Many times, attuning 
+to the rhapsodic rhythms and lines of value 
+alignments among entangled life-  forms is 
+not easy. However, moments of pause —  
+or even confusion or astonishment — can 
+direct us to the possibility of communica -
+tion and collaboration beyond the schemas 
+set by modern science.
+The formal, quantitatively conclusive, Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 171procedural rules of calculative rationality 
+seemingly serve to free farming from 
+human skills, deliberation, and judgment, 
+all of which imply politics. Farmers can 
+simply submit to the protocols and rules 
+of action given by the machines. However, 
+if we take seriously Stengers’s (2011) 
+articulation of ecology and see container 
+aquaculture as a world-  making practice, 
+the notion of politics is brought to the fore -
+front.11 World making always entails the 
+prioritization of certain relations and modes 
+of being while obscuring others, regardless 
+of whether the actors involved feel or are 
+recognized as political subjects as such 
+(Otsuki et al. 2018: 7 – 8). The quotidian 
+politics of multiplicity in ecology formation 
+is prior to representational/structuralist 
+politics, which is a product of Enlighten -
+ment and modern liberalism, assuming 
+that “humans are rational individuals with 
+universal and intrinsic rights who possess 
+the agency to resist external forces” (8).12 
+Otsuki and colleagues’ articulation of 
+quotidian politics resonates with Jane Ben -
+nett’s (2010) notion of “vibrant matter,” 
+which challenges the mainstream political 
+theory that largely views the world as 
+composed of dead matter, a collection of 
+objects constituting a passive backdrop for 
+human affairs. Bennett argues that more- 
+than-  human beings and nonliving things 
+are active protagonists in and of them -
+selves; their agencies often exceed human 
+intentions. The frictions experienced in 
+daily farming practices point to the subtle 
+form of politics embodied in world making. 
+The choice about what kind of ecology  
+we wish to create is also about what kind 
+of value to align, what type of world we 
+want to be part of, or even what it means 
+to be human.
+To envision a more ethical food 
+production system involves transgress -
+ing anthropocentric categories and the “innovate or perish” credo of the techno -
+cratic discourse. To not be foreclosed in 
+our epistemological purview, we must be 
+open to staying with the trouble (Haraway 
+2016). Pursuing something along these 
+lines will not be straightforward. Given 
+the pressing challenges today — wars, 
+social inequality, corporate monopoliza -
+tion, environmental degradation, and the 
+massive demand for food (including fish 
+protein) across the globe — the matter of 
+what happens to the more-  than-  human 
+might seem like a minor issue through a 
+capitalist lens. Nevertheless, collaborative 
+survival at a time of ecological apocalypse 
+demands cross-  species coordination (Tsing 
+2015). Concerns about technical capac -
+ity or the feasibility of precision-  oriented 
+ecosystematic management miss the 
+opportunity to engage with the politics 
+of smart farming. What is really at stake 
+here is what container aquaculture reveals: 
+ecology actually entails a cloud of value- 
+emitting interspecies associations that 
+cannot be fully structured into a procedure 
+of cause-  and- effect control. Instead, in this 
+light, we need to ask: How to (re)define 
+ethics in “smart” farming? How to collabo -
+rate with the living as well as the nonliving 
+and create more reciprocal ways of food 
+production with human participation and 
+technology that (re)affirm doubt and partial 
+accounts rather than trying to erase them?
+Acknowledgments
+This work was supported by the Schwartz Reisman 
+Institute for Technology and Society at the University 
+of Toronto. I thank Tero Karppi, the journal editors, 
+as well as the two anonymous reviewers, whose 
+constructive feedback improved the article.
+Notes
+1. Smart farming is also known as precision 
+agriculture or digital farming. I use smart farming  
+because in Chinese the phenomenon is termed Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 172智慧农业 , which can be literally translated as 
+“smart” or “intelligent” farming.
+2. Existing scholarship on data governance 
+has largely focused on the ways in which 
+algorithmic systems shape human societies, 
+reproducing — or even amplifying — social 
+discrimination and inequality (see Angwin et al. 
+2016; Bucher 2018; Chun 2021; Costanza-  Chock 
+2018; Eubanks 2018).
+3. World making is different from ontology. 
+Proponents of anthropology’s recent “ontological 
+turn” have proposed the term pluriverse , to 
+challenge the Eurocentric perspective that 
+evaluates “other” cultures, but the term risks 
+reimagining a world consisting of multiple social 
+bubbles/cosmologies. Thinking through the 
+notion of world making allows one to see the 
+polyphonic processes of value translation and 
+association formation in real-  life practice in a 
+more nuanced way (see Tsing 2018).
+4. I am aware that some of the primary sources 
+(e.g., television documentaries) are distributed 
+via government-  funded channels, whose wider 
+political agenda needs to be interrogated. 
+However, this falls beyond the scope of 
+this article, as I do not argue that container 
+aquaculture is a perfect technological solution to 
+ecological crises and food security problems.
+5. On the conceptual level, the container functions 
+like a quasi-  enclosed life-  support infrastructure, 
+something very similar to the space cabin, 
+wherein the astronaut’s body is maintained as 
+an “ecobiopolitical” subject (Olson 2010). For 
+space travel, the astronaut’s body and the cabin 
+environment are dually organized via continuous 
+probabilistic risk assessments to check for the 
+astronaut’s mission readiness (172). Originating 
+in military research of the 1950s, space cabin 
+development programs have researched the 
+“carrying capacity” and “environmental ethics” of 
+enclosed facilities, to support humans’ long-  term 
+space travel (Anker 2005).
+6. By calculative rationality  I mean a kind of 
+informed calculation that is quantitatively 
+conclusive, something that is different from the 
+situated understanding of consequence typical of 
+human deliberation and judgment (see Erickson 
+et al. 2013; Smith 2019).7. Fish mainly excrete nitrogen in their urine, and 
+phosphorous in their feces. A mechanical filter 
+can remove a large amount of phosphorous but 
+cannot remove the main fraction of the nitrogen, 
+because it is dissolved in water. Nitrogen thus 
+needs to be converted to nitrate biologically.
+8. For example, Guangzhou Chengyi Fishery 
+Technology Co. offers subscription-  based 
+hardware and software service for partner 
+farms. Upon the installment of computational 
+sensors and mobile application, farmers can 
+examine and optimize farm performance via 
+fifteen monitor screens. For example, when 
+the underwater sensor detects that the oxygen 
+dissolving rate is lower than 3 mg/L, the aerator 
+will be automatically activated until it reaches 
+4 mg/L. Chengyi’s intelligent monitoring and 
+decision-  support system can generate reports 
+on farm productivity metrics (e.g., electricity 
+conversion efficiency) to clients in real time (Liao 
+and Luo 2019: 28).
+9. In “Sensing Multispecies Entanglements,” 
+Satsuka’s (2018) ideas are inspired by Bin 
+Kimura’s (1982) philosophy on the distinction 
+between mono (things, which occupy space) 
+and koto (event/“about-  ness” of a thing, which 
+foregrounds how things are embedded in 
+happenings). Kimura’s philosophy draws on 
+Martin Heidegger’s articulation of beings and 
+Being; Viktor von Weizsäcker’s idea that life 
+itself does not come to an end, only individual 
+living being does; as well as on the works of 
+Henri Bergson, Gilles Deleuze, Michel Henry, 
+and Japanese thinkers such as Kitaro Nishida 
+(Satsuka 2018: 83 – 84).
+10. For example, the thresholds between label 
+categories are decided by designers, and the 
+labeling of training data can be impacted by the 
+individual annotator’s subjective interpretation of 
+the annotation guidelines.
+11. The idea of ecology is related to what Stengers 
+(2011) has called “cosmopolitics,” which 
+considers how the multitude of beings, living and 
+nonliving, create realities wherein associations 
+are continuously forged and broken. Stengers’s 
+cosmopolitics represents a nonfoundationalist 
+approach, since it rejects the idea that truth 
+exists in mind or is just there prior to practice.Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 17312. Grant Jun Otsuki and colleagues’ (2018) notion 
+of quotidian politics takes inspiration from 
+postcolonial perspectives (Chakrabarty 2009; 
+Spivak 1999), the “one-  world world” debate (Law 
+2015; Ingold 2018), and Michel Foucault’s (1988) 
+discussion of micropolitics in the basic conduct of 
+life. The authors use the term quotidian  because 
+it is “capacious enough to hold other forms 
+of worlding” in which the “possibilities of an 
+‘otherwise’ can be found in quotidian practices” 
+(Otsuki et al. 2018: 8). The concept pushes us to 
+sense, and perhaps touch, other modes of value 
+and being in subtle yet profound ways; it enables 
+us to attend to new affinities and obligations (9).
+References
+Alaimo, Stacy. 2012. “Porous Bodies and Trans- 
+corporeality.” Larval Subjects  (blog), May 24.  
+https://larvalsubjects.wordpress.com/2012/05  
+/24/stacy-  alaimo-  porous- bodies-  and- trans  
+- corporeality.
+Amoore, Louise. 2019. “Doubt and the Algorithm: 
+On the Partial Accounts of Machine Learning.” 
+Theory, Culture, and Society 36, no. 6: 147 – 69.
+Angwin, Julie, Jeff Larson, Surya Mattu, and Lauren 
+Kirchner. 2016. “Machine Bias: There’s Software 
+Used across the Country to Predict Future 
+Criminals. And It’s Biased against Blacks.” 
+ProPublica , May 23. https://www.propublica 
+.org/article/machine-  bias-  risk- assessments- in  
+- criminal-  sentencing.
+Anker, Peder. 2005. “The Ecological Colonization of 
+Space.” Environmental History  10, no. 2: 239 – 68.
+Antonucci, Francesca, and Corrado Costa. 2020. 
+“Precision Aquaculture: A Short Review 
+on Engineering Innovation.” Aquaculture 
+International  28, no. 1: 41 – 57.
+Benkler, Yochai. 2006. The Wealth of Networks: 
+How Social Production Transforms Markets and 
+Freedom . New Haven, CT: Yale University Press.
+Bennett, Jane. 2010. Vibrant Matter: A Political Ecology 
+of Things . Durham, NC: Duke University Press.
+boyd, danah, and Kate Crawford. 2012. “Critical 
+Questions for Big Data: Provocations for 
+a Cultural, Technological, and Scholarly 
+Phenomenon.” Information, Communication, and 
+Society  15, no. 5: 662 – 79.Bregnballe, Jacob. 2015. A Guide to Recirculation 
+Aquaculture: An Introduction to the New 
+Environmentally Friendly and Highly Productive 
+Closed Fish Farming Systems . Coopenhagen: 
+Food and Agriculture Organization of the 
+United Nations and EUROFISH International 
+Organization.
+Bronson, Kelly, and Irena Knezevic. 2016. “Big Data in 
+Food and Agriculture.” Big Data and Society 3, 
+no. 1: 1 – 5.
+Bucher, Taina. 2018. If . . . Then: Algorithmic Power and 
+Politics . Oxford: Oxford University Press.
+Carolan, Michael. 2017. “ ‘Smart’ Farming Techniques 
+as Political Ontology: Access, Sovereignty, and 
+the Performance of Neoliberal and Not-  So- 
+Neoliberal Worlds.” Sociologia Ruralis 58, no. 4: 
+745 – 64.
+CCTV-  10. 2018. Wo ai faming ( I Love to Invent ). 
+“Baibian yuxiang”  (“Versatile Fish Container”). 
+Aired December 25. China Central Televsion-  10.  
+http://tv.cctv.com/2018/12/25/VIDETrHUZ7ory  
+AWscLjPiRHG181225.shtml.
+CCTV-  17. 2021. Shui zhi panzhongcan ( Who Knows That  
+Meal in the Dish ). “ ‘Sishui’ ruhe yang huoyu”  
+(“How to Raise Living Fish in ‘Dead Water’ ”).  
+Aired April 19. China Central Television-  17. 
+https://tv.cctv.com/2021/04/19/VIDEs7Wj7w01  
+Lr2i483vfKKu210419.shtml?spm=C47996  
+.PmwNE0WIyO1P.EYeIwa11HCnI.30.
+Chakrabarty, Dipesh. 2009. “The Climate of History: 
+Four Theses.” Critical Inquiry  35, no. 2: 197 – 222.
+China Fishery Law Enforcement, and Ministry of  
+Agriculture and Rural Affairs. 2018. 
+“Nongye nongcun buzhang Yu Kangzhen: 
+Jizhuangxiangyangyu shi yizhong xin jishu moshi, 
+shi yangzhiye lvse fazhan de yici juti shijian” 
+(“Kangzhen Yu, Minister of Agriculture and 
+Rural Affairs: Container Aquaculture Is a New 
+Technological Model, an Experiment of Green 
+Faming Development”). Aquaculture Business 
+Guide 8: 4 – 5.
+China Fishery Law Enforcement, National Fisheries 
+Technology Extension Center, and China Society 
+of Fisheries. 2020. Zhongguo yuye tongji nianjian 
+(China Fishery Statistical Yearbook 2020 ). China 
+Agriculture Press.
+Chun, Wendy H. K. 2021. Discriminating Data: 
+Correlation, Neighborhoods, and the New Politics 
+of Recognition . Cambridge, MA: MIT Press.Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 174Costanza-  Chock, Sasha. 2018. “Design Justice, A. 
+I., and Escape from the Matrix of Domination.” 
+Journal of Design and Science . https://jod  
+.mitpress.mit.edu/pub/costanza-  chock/release/4.
+Dajiang Fishery. 2021. “Zhihuihua yuye shi shuichan 
+yangzhi de xin fengkou, zheshi zhende ma?” 
+(“Is It True That Smart Aquaculture Will Be the 
+Next Big Thing for the Aquacultural Industry?”). 
+Tencent , March 29 . https://new.qq.com/omn  
+/20210329/20210329A0625L00.html.
+Daston, Lorraine, and Peter Galison. 2007. Objectivity . 
+Princeton, NJ: Princeton University Press.
+Erickson, Paul, Judy L. Klein, Lorraine Daston, Rebecca 
+Lemov, Thomas Sturm, and Michael D. Gordin. 
+2013. How Reason Almost Lost Its Mind: The 
+Strange Career of Cold War Rationality . Chicago: 
+University of Chicago Press.
+Eubanks, Virginia. 2018. Automating Inequality: How 
+High-  Tech Tools Profile, Police, and Punish the 
+Poor. New York: Macmillan.
+Foucault, Michel. 1988. “Technologies of the Self.” In 
+Technologies of the Self: A Seminar with Michel 
+Foucault , edited by Luther H. Martin, Hugh 
+Gutman, and Patrick H. Hutton, 16 – 49. Amherst: 
+University of Massachusetts Press.
+Fraser, Alistair. 2019. “Land Grab/Data Grab: Precision 
+Agriculture and Its New Horizons.” Journal of 
+Peasant Studies 46, no. 5: 893 – 912.
+Godfrey, Mark. 2020. “Chinese Container Aquaculture 
+Firm Selected for Government-  Funded 
+Demonstration Project.” Seafood Source , 
+September 8. https://www.seafoodsource  
+.com/news/aquaculture/chinese-  container  
+- aquaculture-  firm-  selected-  for- government  
+- funded-  demonstration-  project.
+Grumbine, R. Edward. 1994. “What Is Ecosystem 
+Management?” Conservation Biology  8, no. 1: 
+27 – 38.
+Halpern, Orit, Robert Mitchell, and Bernard Dionysius 
+Geoghegan. 2017. “The Smartness Mandate: 
+Notes toward a Critique.” Grey Room , no. 68: 
+106 – 29.
+Haraway, Donna J. 1988. “Situated Knowledges: The 
+Science Question in Feminism and the Privilege 
+of Partial Perspective.” Feminist Studies  14, no. 
+3: 575 – 99.Haraway, Donna J. 2016. Staying with the Trouble: 
+Making Kin in the Chthulucene . Durham, NC: 
+Duke University Press.
+Hathaway, Michael J. 2022. What a Mushroom Lives 
+for: Matsutake and the Worlds They Make . 
+Princeton, NJ: Princeton University Press.
+Helmond, Anne. 2015. “The Platformization of the 
+Web: Making Web Data Platform Ready.” Social 
+Media and Society 1, no. 2: 1 – 11.
+Helmreich, Stefan. 2009. Alien Ocean: Anthropological 
+Voyages in Microbial Seas . Berkeley: University 
+of California Press.
+Hird, Myra J. 2009. The Origins of Sociable Life: 
+Evolution after Science Studies . New York: 
+Macmillan.
+Ingold, Tim. 2018. “One World Anthropology.” HAU: 
+Journal of Ethnographic Theory 8, nos. 1 – 2: 
+158 – 71.
+Kimura, Bin. 1982. Jikan to jiko ( Time and Self ). Tokyo: 
+Chuokoronsha.
+Kirksey, S. Eben, and Stefan Helmreich. 2010. “The 
+Emergence of Multispecies Ethnography.” 
+Cultural Anthropology 25, no. 4: 545 – 76.
+Law, John. 2015. “What’s Wrong with a One-  World 
+World?” Distinktion: Scandinavian Journal of 
+Social Theory  16, no. 1: 126 – 39.
+Liao, Fen. 2020. “Zhihui yuye chanye tupu, yiwen 
+kandong wulianwang, dashuju qudong xia 
+yuye xin moshi” (“An Industry Map of Smart 
+Aquaculture, an Article that Introduces You to 
+a New Mode of Aquaculture Powered by the 
+Internet of Things and Big Data Analysis”). 
+Zhongguo Chanye Jingji Xinxi Wang (China 
+Industry Economy Information Network). http://
+www.cinic.org.cn/sj/sdxz/nysc/895513.html.
+Liao, Jing, and Yong Luo. 2019. “Guangzhou chengyi 
+shuichan: Zhihui yangyu keji xingyu” (“Guangzhou 
+Chengyi Fishery: Fishing Intelligently, 
+Aquacultural Development via Technological 
+Innovation”). Haiyang yu yuye (Ocean and Fishery ) 
+11: 26 – 28.
+Livingstone, Carly, and Irena Knezevic. 2020. “From 
+Online Cart to Plate: What Amazon’s Retail 
+Domination Means for the Future of Food.” 
+Journal of Agriculture, Food Systems, and 
+Community Development 9, no. 4: 311 – 29.Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+THINKING INSIDE the  BOX
+CULTURAL  POLITICS 175Mattern, Shannon. 2015. “Deep Time in Media 
+Infrastructure.” In Signal Traffic: Critical Studies 
+of Media Infrastructures , edited by Lisa Parks and 
+Nicole Starosielski, 95 – 112. Urbana: University 
+of Illinois Press.
+Mayer-  Schoenberger, Viktor, and Kenneth Cukier. 2013. 
+Big Data: A Revolution That Will Transform How 
+We Live, Work, and Think . London: John Murray.
+McKelvey, Fenwick. 2011. “A Programmable Platform? 
+Drupal, Modularity, and the Future of the Web.”  
+Fibreculture Journal , no. 18. https://fibreculture 
+journal.org/fcj-  128-  programmable-  platform  
+- drupal- modularity- and-  the- future-  of- the- web/.
+Miles, Christopher. 2019. “The Combine Will Tell the 
+Truth: On Precision Agriculture and Algorithmic 
+Rationality.” Big Data and Society 6, no. 1: 1 – 12.
+Murray, Nick. 2018. “Agriculture Wars.” Viewpoint  
+Magazine , March 12. https://www.viewpointmag  
+.com/ 2018/03/12/agriculture-  wars.
+NFTEC (National Fisheries Technology Extension 
+Center), and China Society of Fisheries. 2018. 
+“Jizhuangxiangyangyu moshi zhu hebei zhuolu 
+tuopingongjian”  (“Container Aquaculture Method 
+Helps Zhuolu in Hebei Province Get Rid of 
+Poverty”). Zongzhan xuehui dongtai  (The Main 
+Center Academic Association News ), May 29 . 
+http://www.nftec.agri.cn/zzxhdt/201902  
+/t20190222_6341982.htm.
+Nieborg, David B., and Anne Helmond. 2018. “The 
+Political Economy of Facebook’s Platformization 
+in the Mobile Ecosystem: Facebook Messenger 
+as a Platform Instance.” Media, Culture, and 
+Society 41, no. 2: 196 – 218.
+Nongxin. 2018. “Wangxiang yangyu xin chulu — 
+ jizhuangxiang shi shengtai yangzhi”  (“A New 
+Approach to Net Fishing — Container-  Based 
+Ecological Fishing”). Nongye yangzhi xin jishu 
+(New Agricultural Technology ) 11: 4 – 7.
+Ogden, Laura A., Billy Hall, and Tanita Kimiko. 2013. 
+“Animals, Plants, People, and Things: A Review 
+of Multispecies Ethnography.” Environment and 
+Society: Advances in Research 4, no. 1: 1 – 23.
+Olson, Valerie A. 2010. “The Eco-  Biopolitics of Space 
+Biomedicine.” Medical Anthropology 29 , no. 2: 
+170 – 93.Otsuki, Grant Jun, Shiho Satsuka, Keiichi Omura, and 
+Atsuro Morita. 2018. Introduction to The World 
+Multiple: The Quotidian Politics of Knowing and 
+Generating Entangled Worlds , edited by Keiichi 
+Omura, Grant Jun Otsuki, Shiho Satsuka, and 
+Atsuro Morita,  1 – 17. New York: Routledge.
+Paxson, Heather. 2008. “Post-  Pasteurian Cultures: 
+The Microbiopolitics of Raw-  Milk Cheese in the 
+United States.” Cultural Anthropology 23, no. 1: 
+15 – 47.
+Paxson, Heather, and Stefan Helmreich. 2014. “The 
+Perils and Promises of Microbial Abundance: 
+Novel Natures and Model Ecosystems, from 
+Artisanal Cheese to Alien Seas.” Social Studies 
+of Science 44, no. 2: 165 – 93.
+Puig de la Bellacasa, Maria. 2015. “Making Time for 
+Soil: Technoscientific Futurity and the Pace 
+of Care.” Social Studies of Science 45, no. 5: 
+691 – 716.
+Ren, Min, executive producer. 2018. Keji yuan 
+(Agriculture and Farming ). “Datie xiangzi lai 
+yangyu”  (“Using a Huge Iron Container to Raise 
+Fish”). Aired July 30. China Central Television-  7. 
+YouTube video, 25:23. https://www.youtube.com  
+/watch?v=S0ewzIEKPew.
+Satsuka, Shiho. 2018. “Sensing Multispecies 
+Entanglements: Koto  as an ‘Ontology’ of Living.” 
+Social Analysis 62, no. 4: 78 – 101.
+Satsuka, Shiho. 2019. “Rhapsody in the Forest: Wild 
+Mushrooms and the Multispecies Multitude.” 
+In How Nature Works: Rethinking Labor in a 
+Troubled Planet , edited by Sarah Besky and Alex 
+Blanchette,  191 – 211. Albuquerque: University of 
+New Mexico Press.
+Schrader, Astrid. 2010. “Responding to Pfiesteria 
+Piscicida (the Fish Killer): Phantomatic 
+Ontologies, Indeterminacy, and Responsibility in 
+Toxic Microbiology.” Social Studies of Science 40, 
+no. 2: 275 – 306.
+Schrader, Astrid. 2019. “Marine Microbiopolitics: 
+Haunted Microbes before the Law.” In Blue 
+Legalities: The Life and Laws of the Sea , edited 
+by Irus Braverman and Elizabeth R. Johnson, 
+255 – 73. Durham, NC: Duke University Press.
+Smith, Brian Cantwell. 2019. Th e Promise of Artificial 
+Intelligence: Reckoning and Reasoning . 
+Cambridge, MA: MIT Press.Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+
+Yuxing Zhang
+CULTURAL  POLITICS  • 19:2 July 2023 176Spivak, Gayatri Chakravorty. 1999. A Critique of 
+Postcolonial Reason: Toward a History of the 
+Vanishing Present . Cambridge, MA: Harvard 
+University Press.
+The State Council. 2015. “China Unveils Internet Plus  
+Action Plan to Fuel Growth.” Xinhua , July 4.  
+http://english.www.gov.cn/policies/latest  
+_releases/2015/07/04/content_28147514  
+0165588.htm.
+Stengers, Isabelle. 2005. “Introductory Notes on an 
+Ecology of Practices.” Cultural Studies Review 11, 
+no. 1: 183 – 96.
+Stengers, Isabelle. 2011. Cosmopolitics II . Minneapolis: 
+University of Minnesota Press.
+Tsing, Anna N. 2012. “On Nonscalability: The Living 
+World Is Not Amenable to Precision-  Nested 
+Scales.” Common Knowledge 18, no. 3: 505 – 24.
+Tsing, Anna N. 2015. The Mushroom at the End of 
+the World: On the Possibility of Life in Capitalist 
+Ruins . Princeton, NJ: Princeton University Press.
+Tsing, Anna N. 2018. “A Multispecies Ontological 
+Turn?” In The World Multiple: The Quotidian 
+Politics of Knowing and Generating Entangled 
+Worlds , edited by Keiichi Omura, Grant Jun 
+Otsuki, Shiho Satsuka, and Atsuro Mori, 233 – 47. 
+New York: Routledge.
+Wang, Lei. 2018. “Chen Jinliang: Yong jizhuangxiang 
+yangchu jiankang yu”  (“Jinliang Chen: Using  
+Containers to Cultivate Healthy Fish”). China  
+Youth Daily , December 25. http://zqb.cyol.com 
+/html/2018-  12/25/nw.D110000zgqnb  
+_20181225_2-  12.htm.
+Wang, Yan-  Bo, Jian-  Rong Li, and Junda Lin. 2008. 
+“Probiotics in Aquaculture: Challenges and 
+Outlook.” Aquaculture 281, nos. 1 – 4: 1 – 4.Williams, Raymond. 1976. Keywords: A Vocabulary of 
+Culture and Society . New York: Oxford University 
+Press.
+Yang, Yang. 2020. “Zhihui yangyu: Chuangye daren de 
+xin nongye mengxiang”  (“Smart Aquaculture: An 
+Avid Entrepreneur’s New Aquacultural Dream”). 
+Zhongguo nongcun keji ( China Rural Technology ) 
+307: 35 – 37.
+Yao, Junyao, Yuebo Xie, and Yuqing Lin. 2019. 
+“Mokuaihua shengtai shuichan yangzhi fangfa” 
+(“A Module-  Based Ecological Aquaculture 
+Method”). China patent no. CN1093291184A. 
+China National Intellectual Property 
+Administration. http://epub.cnipa.gov.cn  
+/tdcdesc.action?strWhere=CN109329184A.
+Zhang, Yuxing. 2022. “From Social Trust to Blockchain- 
+Mediated Trust.” Roadsides , no. 7: 44 – 50. 
+https://doi.org/10.26034/roadsides-  202200707.
+Zhao, Junlan, Zhixiong Guo, and Ningjing Wu. 2020. 
+“Xianchang qianyue 1.6 yi! Nongxin hulian tuichu 
+zhulianwang 5.0, quanmian kaiqi yangzhu shuzhi 
+shidai”  (“Contracting 1.6 Hundred Millions on 
+Site! Nxin Launched Pig Network 5.0 and a New 
+Era of Smart Pig Farming”). Nongmu qianyan 
+(Agricultural Husbandry Frontiers ), October 14.  
+https://mp.weixin.qq.com/s/VKYmF57Wsboqgry  
+PPSxQlw.
+Zhu, Zewen, Rui Shu, and Jun Xie. 2019. 
+“Jizhuangxiang shi shuichan yangzhi moshi 
+fazhan xianzhuang fenxi ji duice jianyi” (“An 
+Analysis of the Development and Future of 
+Container Aquaculture”). China Fishery 4: 28 – 30.
+Yuxing Zhang is a PhD candidate in information studies at the Faculty of Information, 
+University of Toronto. Her works have been published in Media, Culture, and Society , 
+Canadian Journal of Communication , and Roadsides .Downloaded from http://read.dukeupress.edu/cultural-politics/article-pdf/19/2/159/2011667/159zhang.pdf by CEFET-RJ user on 04 October 2025
+

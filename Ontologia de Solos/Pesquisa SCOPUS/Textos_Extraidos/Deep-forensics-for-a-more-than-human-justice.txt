@@ -1,0 +1,949 @@
+173
+PARALELOSDeep Forensics for a More-than-Human Justice *
+María Torres
+Arizona State University, United States
+Lindsay A. Smith
+Arizona State University, United States
+https://doi.org/10.7440/antipoda50.2023.08
+How to cite this article: Torres, María and Lindsay A. Smith. 2023. “Deep Forensics for a 
+More-than-Human Justice. ” Antípoda. Revista de Antropología y Arqueología  50: 173-195. https://
+doi.org/10.7440/antipoda50.2023.08
+Received: June 10, 2022; accepted: October 26, 2022; modified: November 26, 2022.
+Abstract: Buscadora  collectives in Mexico have developed unique and trans-
+formative forensic practices to search for their disappeared loved ones. We 
+examine the work of three collectives, each working in distinct political, 
+ecological, and historical contexts to better understand emergent forms of 
+local citizen-led forensic practice. Attending to spaces, that exist alongside but 
+exceed contemporary forensic practice, we critically reexamine the practice 
+of forensics in the context of the humanitarian and forensic ‘crisis’ in Mexico. 
+Drawing on ethnographic fieldwork and interviews with forensic scientists 
+and buscadora  collectives between 2015-2022, we develop three case studies 
+that analyze the collectives’ work in three registers: the (inter)relational, the 
+geo-logic, and the more-than-human. We argue for the emergence of a deep 
+forensics based on collective practices that privilege fragile, multi-valent 
+forms of knowledge production, attend to slow violence, and move beyond 
+an exclusively human-centered episteme. These alternative practices have the 
+potential to displace the crisis time of contemporary state-led forensics and 
+better document the entangled contexts of ‘stratigraphic violence’ in contem-
+porary Mexico allowing for an emergent more-than-human justice.
+Keywords: Buscadoras , citizen science, deep forensics, geo-logics, more-
+than-human, stratigraphic violence.
+* This article is a product of the insights derived from the following projects: “Migrant DNA: The Science 
+of Disappearance and Death across the Mexican Borderlands, ” Wenner-Gren Foundation, International 
+Collaborative Research Grant, January 2016-December 2018; “Technologies on the Border; Migration, 
+Human, Rights, and Security, ” National Science Foundation CAREER Grant #1944981, July 2020-present.
+174
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+Investigación forense profunda para una justicia más que humana
+Resumen:  los colectivos de buscadoras en México han desarrollado prácticas 
+forenses únicas y transformadoras para buscar a sus seres queridos desapa-
+recidos. Examinamos el trabajo de tres colectivos que trabajan en distintos 
+contextos políticos, ecológicos e históricos para entender mejor las formas 
+emergentes de la práctica forense local dirigida por ciudadanos. Al prestar 
+atención a los espacios, que existen junto a la práctica forense contemporánea, 
+pero que la exceden, reexaminamos de manera crítica la práctica forense en 
+el contexto de la “crisis” humanitaria y forense en México. Desarrollamos tres 
+estudios de caso que analizan el trabajo de los colectivos de buscadoras en  
+tres registros: el (inter)relacional, el geo-lógico y el más que humano. La infor -
+mación para hacer este trabajo fue recopilada entre 2015 y 2022 y se constituye, 
+por un lado, de trabajo de campo etnográfico y, por otro lado, de entrevistas 
+con científicos forenses y colectivos de buscadoras. Argumentamos el surgi-
+miento de una investigación forense profunda basada en prácticas colectivas 
+que privilegian formas frágiles y multivalentes de producción de conoci-
+miento, prestan atención a la violencia lenta y van más allá de una episteme 
+exclusivamente centrada en lo humano. Estas prácticas alternativas tienen 
+el potencial de desplazar la temporalidad de la crisis definida por la ciencia 
+forense contemporánea estatal y de documentar mejor los contextos entrela-
+zados de la violencia estratigráfica en México contemporáneo, lo que permite 
+una justicia emergente más que humana.
+Palabras clave: buscadoras, ciencia ciudadana, investigación forense profunda, 
+geo-lógica, más que humana, violencia estratigráfica.
+Investigação forense profunda para uma justiça mais que humana
+Resumo: os coletivos de buscadoras no México vêm desenvolvendo práticas 
+forenses únicas e transformadoras para buscar seus seres queridos desapare-
+cidos. Analisamos o trabalho de três coletivos que trabalham em diferentes 
+contextos políticos, ecológicos e históricos para entender melhor as formas 
+emergentes da prática forense local dirigida por cidadãos. Ao prestar atenção 
+aos espaços, que existem junto à prática forense contemporânea, mas que a 
+ultrapassam, reexaminamos de maneira crítica a prática forense no contexto 
+da “crise” humanitária e forense no México. Desenvolvemos três estudos de 
+caso que analisam o trabalho dos coletivos de buscadoras em três registros: 
+o (inter)relacional, o geo-lógico e o mais que humano. As informações para 
+fazer esse trabalho foram coletadas entre 2015 e 2022, e se constituem, por 
+um lado, de trabalho de campo etnográfico e, por outro, de entrevistas com 
+cientistas forenses e coletivos de buscadoras. Argumentamos o surgimento 
+de uma investigação forense profunda baseada em práticas coletivas que 
+PARALELOS175
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+privilegiam formas frágeis e multivalentes de produção de conhecimento, 
+prestam atenção à violência lenta e vão mais além de uma episteme exclusi-
+vamente centralizada no humano. Essas práticas alternativas têm o potencial 
+de deslocar o tempo de crise da ciência forense contemporânea dirigida pelo 
+Estado e de documentar melhor os contextos vinculados da violência estra-
+tigráfica no México contemporâneo, o que permite uma justiça emergente 
+mais que humana.
+Palavras-chave: buscadoras, ciência cidadã, investigação forense profunda, 
+geo-lógica, mais que humana, violência estratigráfica.
+They said we were engaging in civil disobedience. But I think that if we, the 
+families, the mothers, had not engaged in civil disobedience, there would be no 
+clandestine graves in any part of this country. Of course, there would be thousands 
+of disappeared people, but there would be not one clandestine grave without the 
+defiance that motivated us to act.1
+(Araceli Salcedo, interview with authors, July 30, 2022)
+Araceli reflected on the early days of her organizing as a buscadora , 
+when she and other family members whose loved ones had disap-
+peared, began searching for potential sites of clandestine burial. She 
+was at a point of desperation after her daughter, Rubi, had gone out to 
+a party one evening in early September 2012 and never came home. In 
+what has been recognized as the common official response to feminicide in Mexico, 
+Rubi’s disappearance was dismissed by the police who said she must be out drunk or 
+have run off. In what Araceli described as “the terribleness of the authorities, ”2 they 
+didn’t even bother to record any information about her case or even Rubi’s name 
+(Salcedo, interview with authors, July 30, 2022). When Rubi disappeared and the 
+local police dismissed her concerns, Araceli didn’t know where to turn or what to 
+do. Ten years later, at the time of our conversation, Araceli has become a self-taught 
+expert in forensic science, appropriating tools from entomology, geospatial analysis, 
+1 The original in Spanish reads: Decían que hacíamos desobediencia civil. Pero yo creo que si las familias, las 
+madres no hubiésemos hecho desobediencia civil, en ninguna parte de este país existieran fosas clandestinas. 
+Claro, claro, existirían miles de desaparecidos, pero no existiría ni una fosa clandestina sin la rebeldía que nos 
+motivó a salir.
+2 The original in Spanish reads: Lo terrible de las autoridades .
+176
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+archeology, forensic anthropology, and genetics in her search for Rubi and the other 
+disappeared of Veracruz.
+She acknowledges herself as one of the oldest members (viejas) of the busca -
+dora  movement in Mexico. She, along with the other buscadoras  in her collective 
+have helped identify hundreds of clandestine burial sites. They dedicate their time 
+to searching for potential clandestine grave sites and then attending state-led exca -
+vations to ensure the Mexican police and forensic authorities conduct proper 
+analyses, collect remains, and work to identify them. Ten years of searching 
+has transformed Araceli, and her and her compañeras’  community-led forensic 
+work has transformed Mexico. Their work of scouring the countryside with their  
+varillas — iron bars used to pierce the ground to detect odors, textures, color 
+changes, and different levels of compaction—, searching for bodies, has made 
+disappearance actionable. Their searching and support of state forensic inves-
+tigations has made finding and identifying Mexico’s disappeared a reality. With 
+each excavation, they have demonstrated the existence of thousands of clandestine 
+burials and shown that they could and should be investigated. Without the busca -
+dora  collectives there would be no graves only desaparecidos .
+In this paper, we draw on ethnographic research and interviews with buscadoras  
+and forensic scientists working in contemporary Mexico to examine three cases of 
+community-led forensics from different parts of Mexico. Attending to spaces that 
+exist alongside but exceed contemporary forensic practice, we critically reexamine the 
+imagination and practice of community-led forensics in the context of the humani-
+tarian and forensic “crisis” in Mexico. We analyze the work of the buscadoras  in three 
+registers: the (inter)relational, the geo-logic, and the more than human, showing how 
+buscadora  collectives reimagine one of the central practices of forensic anthropology 
+—excavation—, relating differently to history, space, and place, moving beyond an 
+exclusively human-centered episteme, and centering emergent forms of relationality 
+(Povinelli 2016; Yusoff 2018). We argue that these emergent practices offer a deep 
+forensics  that displaces the crisis time of contemporary state-led forensics to under -
+stand the entangled contexts of “stratigraphic violence” in contemporary Mexico.
+Scholars and activists in Mexico have pointed to the crisis of violence and impu-
+nity in the country where several thousand clandestine graves have been identified 
+nationwide in the last fifteen years. Forensic science has been posited as a crucial 
+tool of justice and healing (García-Deister and Lopez-Beltrán 2017) and at the same 
+time critiqued as reductive, inaccessible, and a bureaucratic tool of necro-sovereignty 
+(García-Deister and Smith 2020) in a landscape of neoliberal dispossession (Robledo 
+2019). Groups of family members have seized the tools of forensic science, forming 
+teams of lay buscadoras,  finding sites of mass extermination, excavating them to try 
+and find their missing loved ones (Cruz-Santiago 2017; Torres 2020). Here we fore-
+ground the emergent, partial, and experimental aspects of the buscadoras  approach to 
+forensic science, to show how their work offers new imaginaries of what forensics can 
+be, what it might deal with, who and what it is for, and what worlds it might help to 
+PARALELOS177
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+create. Their praxis offers complex accounts of living alongside multiple, overlapping 
+violences, and how histories and futures might be re-imagined and invoked to care 
+for the present (Puig de la Bellacasa 2017; Tsing 2015).
+Drawing on twenty-two months of ethnographic research and more than five 
+years of collaborations with buscadora  collectives in Mexico between 2015 and 2022, 
+we present three ethnographic case studies of the work of these collectives in different 
+geographical and political contexts in Mexico. Based on quotes from ethnographic 
+interviews with buscadoras  working in each site, we highlight their experience and 
+expertise in reshaping forensic practice towards deep forensics based on new forms of 
+interdependence and expertise (inter-relationality), time, environment, and violence 
+(geo-logics), and emergent ontologies that rethink human-animal-environmental 
+relationships (more-than-human). First, we focus on buscadora  collectives working 
+near Río de Los Remedios, which crosses the central area of the country. El Río de Los 
+Remedios, once part of a massive modern hydraulic engineering project designed to 
+drain the old lake system of the Valley of Mexico, has recently turned into a dumping 
+ground for chemical, industrial and urban waste, including human bodies. In this latter 
+sense, this river of dark waters has become a clandestine mass grave for women in the 
+State of Mexico. Then, we move to an area of the desert of Coahuila, where a group of 
+buscadoras scour the cracked earth, inch by inch, looking at the ground, sharpening 
+their sense of smell, identifying changes in the color and texture of the soil that could 
+indicate the presence of buried human remains. Along with the human remains, these 
+practices trace the violent means by which contested minerals, fossils and objects are 
+exhumed from their natural environments. Finally, we examine the work of busca -
+doras  in the rainforest of Veracruz, where a cadaver dog signaling at a tree leads to the 
+unearthing of a complex root system which has transported the chemicals released in 
+the bodies’ decomposition. By excavating this relational more-than-human complex 
+of groundwater, root systems, and chemical signals, the buscadora  collectives were able 
+to identify a clandestine burial site.
+Beyond Forensic Crisis: Institutional Reform, Levantamientos 
+Exprés , and Collective Action
+Crisis has become a watchword in Mexico. Leaders describe the multiple and intri-
+cate economic, humanitarian, ecological, and political challenges facing the nation 
+in stark language. For example, in an interview about his annual report on Latin 
+America, published at the beginning of 2019, executive director of Human Rights 
+Watch, Kenneth Roth, states: “The world is living in dark times. ” And in this world, 
+he continues, “[M]exico is a human rights catastrophe” (Guevara 2019). From “the 
+grave humanitarian crisis” (Isacson, Beltrán, and Meyer 2019) to the recurring 
+“water crises in Mexico” due to unrestrained extractivism, drought, and conta-
+mination (Brooks 2022), to the “crisis of migration and climate change” (Ramírez 
+2021), the social, ecological, and political challenges are discussed in catastrophic 
+178
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+terms. These narratives of crisis have come to inhabit everyday language in Mexi-
+co’s public and political spaces. No event better exposes the interrelatedness of the 
+crises, than the “forensic crisis” in Mexico, and, with it, the recognition of both a 
+profound and ongoing humanitarian crisis and a crisis of innumerable, uncounted, 
+and unidentified dead.
+As of July 2022, the Mexican government officially recognizes 103,130 disap-
+peared individuals between 1964 and 2022, making the official numbers match 
+the estimates long put forward by search groups (Comisión Nacional de Búsqueda 
+2022). A public-facing database now allows visitors to find the data on disappear -
+ances by age, gender, and region in Mexico. The transparency of the new database 
+created in 2017 and maintained by the Mexican Comisión Nacional de Búsqueda 
+(CNB) is part of a series of measures meant to respond to the government’s failure 
+to address the problem of disappearance and death. The Mexican government only 
+officially recognized 40,000 disappeared between 2006 and 2019 (Cordero 2019) 
+as recently as 2019; there was no consensus on the number of victims. Data came 
+from multiple official and unofficial sources on the crime of enforced and involun-
+tary disappearance, but none of them made it possible for searching families or the 
+Mexican public to know the precise number of missing persons in Mexico (Smith 
+and García-Deister 2017).
+Even with improvements to the system of registering and reporting on the 
+number of disappeared people, there remains an entrenched problem surrounding 
+the forensic processing of clandestine burial sites and the identification of bodies. 
+Mexico has lacked an effective system for exhaustive and precise counting of the 
+clandestine graves discovered, much less of the human remains found in them. In 
+addition to the discrepancies in the official accounts, the lack of coordination and 
+ineffectiveness of the institutions was also evident in other areas. In 2019, there were 
+more than 37,000 unidentified bodies in the custody of forensic services, distributed 
+among refrigerators, containers, osteotecas3, and mass graves, the latter spread out 
+without any order or methodology in municipal cemeteries throughout the country 
+(Cordero 2019). The procedures established for the recovery and analysis of the 
+bodies found were not rigorously and systematically applied. Morgues had no more 
+space for bodies, so that in the rare cases where autopsies were performed, it was 
+often in nearby funeral homes.
+In 2019, Mexico officially recognized this set of challenges as a “forensic crisis” 
+before the InterAmerican Human Rights Commission and proposed to create the 
+Mecanismo Extraordinario de Identificación Forense, an autonomous, multi-dis-
+ciplinary mechanism responsible for the expert analysis of unidentified remains 
+(SNBP/001/2019) to address these challenges. This new mechanism was designed 
+to work alongside several other legislative and government initiatives to address 
+the demands of searching families and the lack of coordination, capacity, and 
+3 A biobank is a space for the preservation and grouping of human bone material and anatomical models, 
+intended for educational and research activities.
+PARALELOS179
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+transparency in identification processes. In 2020, the Protocolo Homologado para la 
+búsqueda de personas desaparecidas y no localizadas  was passed, offering a central-
+ized set of legal norms around searching for missing people (SNBP/002/2020), 
+legalizing, and protecting many of the practices that collectives had been engaging 
+in for years. Unearthing bodies and naming the dead has become a priority social, 
+scientific, and political activity.
+Although buscadora  collectives depend on the CNB to begin excavating poten-
+tial clandestine burial sites, the people we interviewed remain wary of government 
+experts. They describe the work of these forensic experts as levantamientos exprés, a 
+rapid gathering of remains without proper attention to forensic protocols. They see 
+this express forensic work as focusing narrowly on getting excavations completed and 
+remains useful for DNA analysis collected (key metrics measured and reported by the 
+CNB).4 Searching family members argue that too many officials are unwilling to do 
+the careful work of systematically collecting all the remains at the site. Graciela Pérez 
+Rodriguez, a leader in the buscadora  movement described the mismatch between 
+these two forms of searching in these terms:
+With every body or remains that we find, I imagine that it could be my daughter. 
+And if that were the case, I would reconstruct her piece by piece. I wouldn’t 
+leave behind even the smallest piece of her. That’s what I would want. I imagine 
+that other families must feel the same. That is why we organize, at least those of 
+us that are here, the collectives that do this work.5 (Pérez 2021)
+At a recent excavation that one of us attended, there was a disagreement 
+between the collectives and the officials about how thoroughly to examine the site 
+for multiple burials and the appropriate items to bring back to the laboratory for 
+analysis. The expert working with the buscadora  collective argued that the group 
+needed to excavate the grid carefully and collect as much of the remains as possible at 
+a defined site; the state expert wanted to collect only the clearly recognizable remains 
+on the surface and move quickly to other areas. The expert explained her position: 
+“It’s that this is a forensic excavation, not a case of ancient remains where you have 
+all the time in the world. Here we don’t have time. We must be practical”6 (interview 
+with authors, June 2022). Expediency and necessity drove the state official’s focus on 
+rapid forensics. The family groups focused both on good scientific practice and care 
+for the dead. In one interview, a mother discussing a different, but similar situated 
+4 To find out more about the CNB, see, “Contexto General - Dashboard CNB. ” Database. Registro Nacional 
+de Personas Desaparecidas y No Localizadas (RNPDNO), January 8, 2022. https://versionpublicarnpdno.
+segob.gob.mx/Dashboard/ContextoGeneral
+5 The original in Spanish reads: Con cada cuerpo o resto que encontramos yo me imagino que podría ser mi 
+hija. Y si ese fuera el caso, la reconstruiría pedacito a pedacito, no dejaría ni un pedacito de ella. Eso desearía. 
+Yo me imagino que eso mismo sienten las demás familias. Y por eso es que luchamos, es por eso que estamos 
+acá los colectivos que hacemos esto .
+6 The original in Spanish reads: Es que esto es una excavación forense, no de restos antiguos en donde tienen 
+todo el tiempo del mundo. Aqui no hay tiempo, hay que ser prácticos.
+180
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+debate with an official, described how she could, of course, understand the position 
+of the officials. They were busy and had families, work, and lives to attend to. She 
+understood the need to limit the activities on that site visit but still she couldn’t help 
+her sense of responsibility to the dead they had not found in that area. As they left, 
+she felt compelled to address them:
+I swear that I turned around as we were leaving the site and I started to cry… 
+and I told them, don’t, don’t think that we are leaving and forgetting you. We will 
+come back next year so that you can all reach your homes.7 (Salcedo, interview 
+with authors, July 30, 2022)
+The Mexican government has taken important steps towards realizing the 
+most basic requests of search groups: an accurate accounting of the missing, 
+public information about forensic activities and their outcomes, and centralized, 
+unified laws governing the search process. However, these procedures, even when 
+followed, expose the enormous gap between the lived realities on the ground 
+of buscadoras  and the state’s “solution” to the forensic crisis. Here, we describe 
+how disappearance in Mexico and the government response has been governed 
+by crisis thinking (Roitman 2013; Rudnyckyj 2018), which has prompted narrow, 
+short-sighted technical, individualistic, human-centered understanding of truth 
+and justice (García-Deister and Smith 2016; Smith 2017; Wagner 2008) while 
+displacing the deep temporalities and inter-relationalities in which the human-
+itarian and forensic crisis unfolded in a context of neoliberal dispossession and 
+grave ecological and environmental conditions. By rethinking the excavation 
+through the lens of deep forensics, we show how emergent practices open a space 
+to attend to overlapping systems of violence and emergent relationalities as a 
+counter to the levantamientos exprés of state-led forensics.
+The River: Weaving (Inter)Relational Forensics
+My name is Maria Eugenia Fuentes, I am the mother of a victim of femicide, of 
+Diana Angélica Castañeda, 14 years old... [gets emotional] …sorry for so much 
+emotion... I’ll calm down now... She disappeared on September 7, 2013, in Ecatepec 
+in the State of Mexico and […] a year later in the month of September the State 
+Attorney’s Office tells me that they found a skull [silence] and some feet [silence]... 
+She had been kidnapped, held for five months […] Apart from what she suffered 
+[there], they killed her, dismembered her, and threw her into a canal... After a year 
+the Attorney General’s Office calls me. They found a torso... I am putting together 
+7 The original in Spanish reads: Te juro que yo volteé mientras nos íbamos del sitio y se me salían las lágri-
+mas… y les dije, no, no crean que nos vamos y los olvidamos. Regresaremos el año que viene para que ustedes 
+puedan llegar a sus hogares.
+PARALELOS181
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+my puzzle. I am still missing her legs, her arms, her hands.8 (Encuentro Red de 
+Madres, Espacio Cultural Punto Gozadera, November 24, 2016)
+We first heard the testimony of Maria Eugenia, a member of the Red de Madres 
+Buscando a sus Hijas collective, at a 2016 meeting on the problem of femicide in the 
+State of Mexico. She told her story as part of a broader conversation in the feminist 
+militant center, Punto Gozadera, in Mexico City, which brought together several 
+women from the Red de Madres buscadora  collective, mostly linked to cases of femi-
+cide in the State of Mexico, with independent scientists, academics, feminist activists 
+and artists such as the Chilean composer Ana Tijoux. The meeting was organized 
+by the Mexican Forensic Anthropology Team (EMAF), which have supported and 
+collaborated Red de Madres in their search for justice since 2015.
+Maria Eugenia described the identification of her daughter Diana Angélica as 
+a macabre forensic process of recovering her body like the many pieces of a puzzle. 
+“What they [EMAF scientists] have taught us on this path, ” Maria Eugenia continued, 
+“is how to tackle this search process with wisdom and patience, especially with regard 
+to the authorities” (Encuentro Red de Madres, Espacio Cultural Punto Gozadera, 
+November 24, 2016). Dealing with the authorities, their cruelty, their disrespect, the 
+ways in which they didn’t value the lives of the young women they were tasked with 
+finding, their total disregard for the social and economic realities that many families 
+experienced, was described as a form of relentless violence. From being forced to go 
+to the authorities on several occasions to report their case to the aspersions cast on 
+their daughters’ behavior and actions, the women described the apparent impossi-
+bility of reporting and then finding a missing young woman in the State of Mexico. 
+Searching was like putting together a puzzle, the EMAF suggested offering this meta-
+phor as a way to make sense of both the social and forensic aspects of searching. For 
+EMAF, and now also for this group of mothers, the so-called “search process” not 
+only involved the location and recovery of bones and their identification by DNA in 
+a laboratory, but a meticulous, patient, and fragile interweaving work that involved 
+both material and discursive aspects and intricate relations between science, tech-
+nology, activism, and the State. In Maria Eugenia’s experience the puzzle metaphor 
+was all too literal. Despite being one of the “successful” cases where her daughter’s 
+body had been found and identified, the slow, partial, and unfeeling process to which 
+the Mexican state had subjected her, highlighted for the group the humanitarian and 
+forensic failures of the state.
+The remains of Diana Angélica Castañeda Fuentes, 14, were found in February 
+2014 in the municipality of Ecatepec de Morelos, in the State of Mexico. She was found 
+8 The original in Spanish reads: Mi nombre es Maria Eugenia Fuentes, soy mamá de una víctima de feminicidio, 
+de Diana Angélica Castañeda, de 14 años… [se emociona]…perdón con tanta emoción… ahora ya me relajo…
+Ella desaparece el 7 de septiembre de 2013 en Ecatepec en el Estado de México [...] y hasta un año después en 
+el mes de septiembre me avisan por parte de la Procuraduría del Estado que encontraron un cráneo [silencio] 
+y unos pies [silencio]…La tuvieron secuestrada cinco meses […] Aparte de lo que vivió la mataron, la descuar -
+tizaron y la echaron a un canal… Después de un año la Procuraduría me avisa otra vez que encontró un torso…
+Voy recopilando mi rompecabezas, me faltan sus piernas, sus brazos, sus manos.
+182
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+between streets C-1 and C-10 of an industrial estate delimited by the so-called “curve 
+of the devil” on Carlos Hank González Avenue and Texcoco Street. Attached to these 
+streets runs a river that is known as De la Compañía or De los Remedios, whose banks 
+house urban developments with more than 200 homes as well as large factories and 
+warehouses, which until a few years ago served to strip stolen cars, and are now an area 
+of great industrial activity. Diana Angélica’s remains were found while dredging this 
+small section of Rio de los Remedios, along with 20 other bodies, 16 of them women, 
+and an indeterminate amount of biological remains in different states of decompo-
+sition scrambled with debris, waste, and industrial objects and remains of all kinds. 
+Authorities were never able to determine whether they were human or other animal 
+fragments and, after several days of media coverage, nothing more was reported: offi-
+cials did not collect any other evidence, there was no confirmation in relation to the 
+analysis of the findings, nor is it known where the remains ended up.
+At some point in the process of identifying and recovering her daughter’s 
+remains, Maria Eugenia managed to access the report on the excavation in the 
+canal. Attached were images of the site and a list with a brief description of the 
+evidence recovered in the river. These showed a “large mountain of garbage” from 
+which they extracted her daughter’s remains. Experts from the Attorney General’s 
+Office of the State of Mexico excavated various sections of the Remedios River and 
+the Grand Canal. Within a mountain of several meters of mud mixed with garbage 
+and human remains, extracted from the river bottom by a backhoe they discov-
+ered: “a raffia sack inside which there were two meticulously closed black garbage 
+bags, tied with a very long black shoelace in a fisherman’s knot. ” (Carrión 2018, 
+167). That was the 27th find of that day. During the excavation, carried out over 
+several days along 19 kilometers of the Grand Canal, the backhoe raised seven 
+thousand biological remains of “indeterminate” origin from the river, of which 
+they managed to identify remains from, at least, twenty different people.
+In the collective, there were several cases of mothers who had recovered the 
+body of their daughters in the Rio de los Remedios, most of them victims of femi-
+cide, and all of them, without exception, cases marked by bad police and forensic 
+practices. The excavation and survey of the findings was hurried and careless; the 
+exact location of each piece of evidence was not recorded and/or there is no chain 
+of custody; the body was often recovered incomplete and sometimes injured by the 
+backhoe exhumation technique; the forensic context of recovery had been system-
+atically destroyed, and the remains scrambled with those of other bodies. Clothing 
+and personal belongings were rarely recovered.
+Scholars of feminicide in Mexico have described scenes like this as part of 
+broader technologies of disappearance. Robledo Silvestre and Hernández Castillo 
+warn, already in the 1990s, of a “disappearing device” being applied to the bodies of 
+poor and racialized women, in what is known as the crisis of femicides in Ciudad 
+Juárez. These bodies were no longer of political dissidents deemed a threat to 
+national security but instead understood as disposable within a sexist, racist, and 
+PARALELOS183
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+classist system (Hernández 2019). Feminist thinkers and theorists have pointed out 
+the importance of analyzing what Segato calls “pedagogy of cruelty” in feminicides 
+(Mendoza 2006; Segato 2013) This is, according to Segato, an “expressive rather than 
+instrumental violence” that promotes and normalizes the “spectacle of the plun-
+dering of life until waste, until leaving only remains” (Segato 2013, 83). Rather than 
+an extraordinary or scientific failure, these scholars point to the violence and care-
+lessness of excavations like that of the Rio de los Remedios as a purposive spectacle 
+of patriarchal power.
+Explaining the role of forensic expertise as part of the work of combatting 
+feminicide, an archeologist from the EMAF advocated weaving as an antidote to the 
+disappearing devices of the official forensic response to feminicide: “It is never about 
+only one approach or an isolated technology”9 (EMAF interview with the authors, 
+February 2020). Instead, good forensic praxis, they explained was a work of weaving 
+both as practice and process. It requires situated analysis based on systematic tech-
+niques and forensic expertise, but also the expertise of the buscadora  collectives and 
+the individual experiences of its members. The rehearsing of the personal and collec-
+tive histories of this group was an integral part of the buscadora  collectives’ forensic 
+practice of both recovering and remembering unimaginably wounded bodies like those 
+of Diana Angelica. This inter-relational forensic praxis was grounded in individual, 
+cultural, and historical experiences, forming, meticulously and patiently, a very fragile 
+fabric of materiality and stories. Although slow and partial, this process elaborated by 
+the EMAF and the buscadora  collectives fostered richer and more unique connections 
+between science, technology, and remains. It also offered pathways to (re)connect 
+places and people with their stories and their continuous struggles.
+Nigerian visual artist, Otobong Nkanga invented a term to talk about people 
+working on, with and from fragility, calling them Fragilologists, and places them 
+in the contemporary Nigerian context in relation to the processes of social and 
+environmental devastation linked to colonial extraction and exploitation in her 
+homeland (Nkanga 2010). Nkanga does this work materially weaving delicate 
+fabrics out of objects from deeply wounded contexts. The buscadoras  could also be 
+understood as fragilologists weaving with their words, their clues from searching, 
+the partial, violated remains they recover into emergent relationalities. This 
+fragility of things, objects, bodies and their deeply violated environments indicates 
+that everything can disappear, disarticulate, break or be irreversibly contaminated 
+and at any time, but it also reminds us that there is always a thread, a trace —even 
+to the slightest remnant or memory— that invokes us to resume the urgent and 
+complicated task of connecting, interweaving and bonding fragilely with other(s); 
+to learn to read in unexpected and risky associations the fragile, delicate, and 
+fleeting writing of wounded matter.
+9 The original in Spanish reads: Nunca se trata de una sola técnica o de una tecnología aislada.
+184
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+At the EMAF meeting in Mexico City, the Rio de los Remedios remained in the 
+background. It was the site of the failure of the Mexican forensic response, a compli-
+cating factor. Here it was the turbulent, dark, and dirty waters of a contaminated 
+city river. In another case in Tamaulipas, which collectives discussed with us, the 
+problem was that the bodies were deposited in an abandoned well filled with water. 
+In another case in Veracruz, the jungle was too thick and the canopy too dense for 
+an effective excavation. In yet another, the conditions of the desert paired with the 
+practices of delinquent groups left the remains too scattered and degraded to collect 
+and process. Place mattered to the government experts but only as a background 
+to the real, practical work of collecting the remains. The diversity of environments, 
+their contamination, the extremes of weather, and geographic features mattered 
+primarily as an excuse for incomplete forensic work. However, for the buscadora  
+collectives, these clandestine burial sites, their histories, their geographies, and the 
+evidence they offered of layered violence mattered. That day at the meeting, the river 
+remained firmly in the background. In the remainder of this paper, we describe how 
+the absent presence of the river that day in 2016, presaged the increasing impor -
+tance of geographic, environmental, and more-than-human relationalities in the 
+work of collectives. The specificity of a space and place that had once been the mere 
+background of the central scene —the scientifically purified forensic excavation— 
+emerged as a protagonist.
+The Land: Geo-logics and Stratigraphic Violence
+The search begins when you reach the point, this is usually a large area of 
+the Coahuila Desert that some ejidatario  [rancher] or chivero  [goatherd] 
+mentioned in passing. …When you get out of the vans, the first thing you 
+think is where the hell do you start? The sun is at its peak; the earth, is loose and 
+unending… Y ou walk, a lot, carrying the varilla  [T rod] and a bottle of water, 
+looking over every inch of the cracked earth, trying to determine whether 
+underneath there are the remains of what was once a man, a woman, a son... 
+any remains. At times, you stop, you look up, you observe the majesty of the 
+scenery, you breathe, you try to imagine where those bodies were before they 
+ended up here. Y ou feel the pain, the hopelessness, the tiredness, then the 
+hope. Y ou continue walking.10 (Ortiz 2019)
+10 The original in Spanish reads: La búsqueda inicia cuando se llega al punto, éste suele ser una zona extensa 
+del Desierto de Coahuila que algún ejidatario o chivero mencionó de pasada… Al bajarte de las camionetas, 
+lo primero que piensas es ¿por dónde chingados se empieza? El sol está en su máximo resplandor; la tierra, 
+suave e inagotable; …Se camina, mucho, cargando la varilla y la botella de agua, mirando cada centímetro 
+del suelo agrietado, observando si aquí tiraron lo que alguna vez fue un hombre, una mujer, un hijo... un 
+resto. En momentos, te detienes, levantas la mirada, observas la majestuosidad del escenario, respiras, tratas 
+de imaginar dónde estuvieron esos cuerpos antes de acabar aquí. Sientes el dolor, la desesperanza, el cansan-
+cio, la esperanza. Continúas caminando.
+PARALELOS185
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+In 2019, a member of the Grupo Vida buscadoras  collective, Silvia Ortiz, 
+searching for her daughter, Fanny Sánchez Viesca Ortiz, in the Mexican State of 
+Coahuila, narrated an eloquent and evocative account of searching in the desert 
+at a presentation of the EMAF’s project Forensic Pedagogies. In her telling of the 
+embodied experience of walking the desert, she drew our attention to the heat,  
+the sunlight, the sand slipping under her feet. She explains that even in these condi-
+tions, the majesty of the landscape often acts as an anchor, grounding her and the 
+other members of the collective to the place and to the history of the bones they 
+are searching for, histories of land and lives that exceed the meticulous, exhausting 
+forensic processes they were engaged in. Her narration went on for 10 minutes and 
+brought us into the intimacies of their search: the ways they have learned to use their 
+eyes and noses to find anomalies; the reality that the remains they find in the desert 
+are almost always burned and on the surface, “esparcidos en un desierto habitable solo 
+para las gobernadoras y las aves de rapiña / scattered in a desert habitable only by 
+Chapparal [plants] and birds of prey” (Ortiz 2019).
+The relationship that collectives formed with the land by walking slowly, 
+deliberately, repeatedly scouring meter-by-meter for signs of clandestine burial 
+came up often in our interviews. The buscadoras  emphasized the expertise that 
+comes from being in a place, of taking time, of knowing the signs that matter in a 
+specific environment. Graciela Pérez, the leader of a Tamaulipas-based buscadoras 
+collective, Milynali Red, like Araceli and Silvia, is one of the founders of busca -
+doras . She has been searching for her daughter Milynali Peña Pérez, since 2012. 
+Milynali was 13 when she disappeared along with her uncle and three teenage 
+cousins as they were crossing Tamaulipas returning to San Luis Potosí from a short 
+trip to the United States.
+Graciela, organizes one of the largest networks of buscadora  collectives, holding 
+annual meetings to share their experiences, support one another, and hold the 
+Mexican State accountable to their promises to improve their search and identification 
+processes. In 2020, mirroring the work of the Protocolo homologado de búsqueda  that 
+the Mexican State established as law, Milynali Red published its own set of protocols, 
+Protocolo estandarizado de búsqueda ciudadana en sitios de exterminio,11 codifying 
+its experiences and expertise (Pérez, Lopéz, and Pérez 2020). Graciela had learned to 
+ignore those who dismissed their work as naïve or lacking expertise explaining:
+[W]e’ve been learning as we go along, with the finds that we have, we’ve learned 
+how things are …When you are there and you see a tree or some unique charac-
+teristics, that is what draws your attention telling you that there was something 
+here or allows you to dismiss it saying, no this is trash or it is recent, this has 
+11 Standardized Protocol for Citizen Searches at Extermination Sites.
+186
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+only been here for a little [while].12 (Graciela Pérez Rodríguez, interview with the 
+authors October 14, 2021, Mexico)
+Like Silvia, Graciela, emphasized both the embodied expertise of the searcher 
+and how that articulated with the place in which they search. At a recent virtual 
+meeting of representatives from buscadora  collectives located around Mexico that 
+we attended, ecology and its local history came up repeatedly. First, the group talked 
+about the lack of rain in the North and how this was affecting both the searches 
+and community life in general. One participant spoke about the desperate situation 
+in her state, Nuevo León, where access to drinking water was being affected. More 
+participants joined in discussing the weather, water, risk, and shifts in climate and 
+vegetation. The environment turned into a main topic at the meeting, which had 
+been planned to focus on technological needs, as another participant quickly side-
+tracked the conversation saying that before technology needs were assessed we had 
+to consider context. She explained that by context she meant both the socio-political 
+context of disappearance and searching and the flora and the fauna, the landscape, 
+and the environmental realities that they experienced on their searches. It wasn’t the 
+same to search in Veracruz with its wet conditions and use of clandestine burials as 
+it was to search in the desert where it was dry, and bodies had been burned and scat-
+tered. She added that animals and plants played a huge part in their work and that 
+they were context specific. They could not talk about new technologies until they 
+understood context: social, political, and environmental.
+A 2020 special issue of the Journal of Latin American Cultural studies edited 
+by Gabriel Gatti and David Casado-Neira introduces the concept of ecologies of 
+disappearance  arguing that contemporary disappearances as opposed to the disap-
+pearances that characterized cold-war Latin America have a unique spatiality  
+(Gatti and Casado-Neira 2020). As opposed to dedicated spaces of disappearance 
+like the clandestine detention centers of Argentina’s dirty war (Armony, Menjivar, 
+and Rodriguez 2005), disappearances are increasingly intertwined with natural 
+spaces. The essays included highlight the central role of ecologies, in both a theoret-
+ical sense and literal sense, as under “democracy” people disappear when they and 
+their communities’ needs come into conflict with extractivism (Andermann 2020), 
+when bodies are dumped in rivers to hide the crime of disappearance (Guglielmucci 
+2020), and when the criminalization of migration has weaponized jungles and deserts 
+as spaces of death (Gatti, Irazuzta, and Martínez 2020). In these new ecologies of 
+disappearance, nature and repression are intertwined in new “pedagogies of cruelty” 
+(Segato [2006] 2013) but also offer the potential of new forms of sanctuary and shelter.
+The buscadora  collectives’ call for a greater analysis and recognition of the unique 
+political, social, and environmental realities that each group faced, aligns with the 
+12 The original in Spanish reads: [H]emos ido aprendiendo en el camino, con los hallazgos que tene-
+mos, hemos ido aprendiendo a saber cómo es… Cuando estás caminando y ves un árbol o ves alguna 
+característica diferente eso es lo que te hace que te llame la atención como para decir aquí hubo algo, 
+o descartarlo sencillamente diciendo, no, esto es basura, o esto es nuevo, esto es de hace poquito.
+PARALELOS187
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+ecological thinking Gatti and Casado-Neira advocate. Here an attention to the mate-
+riality, history, and political economy of the spaces where people disappear, where the 
+collectives search, and where remains are found becomes the foundation for searching 
+and finding. Unlike the Rio de los Remedios, relegated to the background of Maria 
+Eugenia’s search, the desert, the mountains, and the jungle were front and center. It 
+was the embodied knowledge of fieldwork in Tamaulipas over ten years which allows 
+Graciela to see and recognize sites of extermination. It was the majesty of the desert 
+that sustained Silvia as she scoured its surface to find burned remains.
+Through their embodied knowledge of searching within specific spatial ecol-
+ogies, the buscadora  collectives were engaging in what we argue is a new kind 
+of deep forensics, one that re-articulates the relationship between place, ecologies of 
+disappearance, and broader movements for justice. With their discussion regarding 
+the lack of water, the participants at the meeting discussed local environmental 
+concerns and the ways in which the violence they document in citizen searches 
+overlaps with other systemic forms of precarity. In many of the meetings we have 
+attended, community members mention a presentation by a geo-spatial geographer 
+with maps showing the overlap of extractivism (mining and oil extraction) and 
+the rate of disappearances, arguing for a relationship between these two forms of 
+violence. This too is part of the context the buscadora  collectives felt was essential 
+to guide their future forms of searching. We suggest that this type of organizing 
+represents an attention to new types of stratigraphic violence, that is, slow violence 
+(Davies 2022; Nixon 2011) which becomes sedimented in the earth and is often made 
+visible through the types of expertise and inter-relationality they practice. Although 
+their work remains firmly centered on finding the disappeared, it has also brought to 
+light historical and ecological violences.
+The Roots: Entanglements in a More-than-Human Forensics
+It’s amazing how the land and trees are giving us, the families of disappeared 
+people, a little bit of peace. Nature is a witness to suffering. Despite having felt the 
+pain of all these people who were buried clandestinely in their forests, the trees, 
+through their roots, are pointing us to ways to find them. Life puts us in very 
+difficult situations, but it somehow wove bonds so that together we can give truth 
+about what happened in […] this extermination site.13 (Araceli Salcedo, Roots of 
+Pain , documentary 2019)
+13 The original in Spanish reads: Es increíble cómo la tierra y los árboles nos están devolviendo a las familias 
+de personas desaparecidas un poco de paz. La naturaleza es testiga del sufrimiento. A pesar de haber sentido 
+el dolor de todas estas personas que fueron inhumadas clandestinamente en sus bosques, los árboles, a través 
+de sus raíces, nos están señalando caminos para encontrarlos. La vida nos pone en situaciones muy difíciles, 
+pero de alguna manera tejió lazos para que juntas podemos dar verdad sobre lo que pasó en […] este campo 
+de exterminio.
+188
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+At the beginning of 2019, Veracruz activist Araceli Salcedo, whose story 
+opened this paper, and her colleagues from the Collective of Relatives of the 
+Disappeared of the Córdoba-Orizaba area anonymously received a map and two 
+photographs with information about an area of clandestine burials located in the 
+municipality of Río Blanco, in the central mountainous region of Veracruz. In a 
+wooded and steep terrain located in the Cerro de Los Arenales, more than 350 
+meters up the mountain, the women of the collective began their search without 
+much of an idea of what they would find there.
+Loaded with shovels, water canisters and varillas, the women quickly identi-
+fied signs they recognized as markers of a potential clandestine burial in this region 
+of Veracruz. Disturbed earth, piled stones, an intense and characteristic smell, and 
+many flies. They returned the next day accompanied by experts from the Mexican 
+State and a cadaver dog. These trained dog-human teams are known in Mexico as 
+“canine binomials” in police and forensic slang because of their symbiotic alliance with 
+their trainer and their sympathy with the pain of humans. Araceli and her collective 
+call them angelitos , little angels aiding them in their search. These symbiont animals, 
+whose physical characteristics allow them to transit through small, overgrown spaces 
+to which their human companion does not have access, are specially trained to search 
+and are able to detect specific odors associated with dead bodies with precision. Araceli 
+recounted the strangeness of this particular search when within a few meters of the 
+start of the search with the canine binomial, it stopped and began to bark, not towards 
+a potential grave site on the ground, but up towards the trees: “We did not understand 
+how or why the dog gave us so many false positives in this tree, a large tree. Because 
+they couldn’t have removed the tree, dug a grave and then replanted it. That’s impossi-
+b l e .”14 (Salcedo, interview with authors, July 30, 2022).
+The buscadoras  discussed the case with the anthropologists and forensic 
+scientists from the Mexican federal police. The only theory that seemed plausible 
+was that the roots of this tree were extracting water from the grave sites, taking it 
+up, and then emitting the chemicals the dog associated with cadavers. That might 
+explain the dog’s behavior and how such a large tree could relate to a grave site. 
+They then decided to follow the roots until they found two sites side by side. The 
+clandestine burial sites were rocky and close to a river. The dog passed right over 
+them, signaling nothing, but the tree roots led the search teams to the exact spot. 
+Since that excavation, Araceli has become a vocal proponent for the important 
+role of nature and its wisdom in the work of the buscadora  collectives. She speaks 
+of the trees, the cadaver dogs, even the butterflies that, in semi-mystical terms, 
+accompany them in their search,
+14 The original in Spanish reads: No entendíamos cómo o por qué, el perrito nos marcaba muchos falsos positi-
+vos en un árbol, un árbol grande, y pues decíamos este árbol no lo quitaron, hicieron la fosa y lo volvieron a 
+sembrar, es imposible .
+PARALELOS189
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+We call them roots of pain because they led us to our dead... And because the 
+specific characteristics of the find reflect the pain of all those people who are 
+buried in that place and of which the trees have been silent witnesses. […] It 
+is incredible to see how nature, with the passage of time, mixes with what is on 
+earth, in this case the bodies. The mountain, the land and its forests through the 
+roots showed us the way... That’s why we say nature returned us to our own.15 
+(Salcedo, interview with authors, July 30, 2022)
+In searches like those in Veracruz, buscadoras  are part of a rich and strange 
+universe of enormous trees fed by pain, sympathetic binomials, butterflies, and 
+mortal bugs, as a painful and contradictory space of flourishing (Haraway 2016). 
+They discuss their complex relationships with “weeds” like the creosote covering the 
+desert, or with the fungi, bacteria and microorganisms that nest in the foliage and the 
+soil and decomposed remains; they discuss the wisdom and signals of insects, scav-
+enger birds, wild packs of dogs and other “cadaveric” species that guide and connect 
+them with the land, each other, and their missing in multiple and reciprocal ways. 
+In these ecologies of disappearance, multi-species relationships abound, survive, 
+and emerge in times and places of massive extinctions, pauperizations, and exter -
+minations. These wild/monstrous multi-species searches are their witness, the strange 
+relatives of disappeared, displaced, extinct and annihilated creatures that populate this 
+dense history of transformations and dispossessions. In Haraway’s words, these rela-
+tionalities “twist, delight and grow profusely in manifold forms and manifold names 
+in all the airs, waters, and places of earth. They make and unmake; they are made and 
+unmade” (2016, 2), while they challenge and demand responsibility from us.
+Conclusion: Towards a More-than-Human Justice
+The Coahuila desert, Veracruz’ roots of pain, the urban Mexico’s Rio de los Reme-
+dios, these ecologies of búsqueda , of searching, with their natural and artificial 
+landscapes, constructed by extraction, violence, and the careful intervention 
+of the buscadora  collectives make up a sedimented history of transformations, 
+dispossessions, and struggles. These nature/cultures, their waste as well as their 
+technologies and infrastructures, hold ways of living and dying that return and 
+insist on our present.
+By excavating the human-nonhuman, living-nonliving relational complex of 
+these ecosystems, the buscadoras  open a horizon to a new kind of deep forensics 
+that acknowledges the multiple temporalities, scales, and processes of deep, strati-
+fied forms of violence, which operates by way of entangled forms of life-destruction 
+15 The original in Spanish reads: Las llamamos raíces del dolor porque nos guiaron hacia nuestros muertos... 
+Y porque las características particulares del hallazgo reflejan el dolor de todas aquellas personas que se 
+encuentran enterradas en ese lugar y del que los árboles han sido testigos mudos. […] Es increíble ver cómo 
+la naturaleza, con el paso del tiempo, se mezcla con lo que haya en la tierra, en este caso los cuerpos. La 
+montaña, la tierra y sus bosques a través de las raíces nos enseñaron el camino…Es por eso que decimos que 
+la naturaleza nos regresó a los nuestros.
+190
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+—for humans and nonhumans alike— and finds its expression not solely in the 
+so-called Mexican drug war, but also in slower violence of resource extraction, 
+historical and current colonialism and state domination in a landscape of neolib-
+eral dispossession (Meszaros 2018).
+These ways of making time and space for soil and bones, as Puig de la 
+Bellacasa says, could help “to reveal a diversity of more-than-human interdepen-
+dent temporalities, disrupting the anthropocentric appeal of predominant timescales 
+of technoscientific futurity, ” solutionism, and their reductive notion of responsibility 
+(Puig de la Bellacasa 2015). This taking care of environments, soils, and situated 
+human-nonhuman relations by the buscadora  collectives, highlights the importance 
+of “practices and experiences made invisible or marginalized by dominant, solutionist, 
+short-term forms of technoscientific mobilization” (Puig de la Bellacasa 2015, 692) 
+that tends to permeate forensic science and crisis thinking in Mexico.
+Attending to practices and relations that exist alongside but exceed contem-
+porary forensic domains, we argue that this deep, geo-logical, more-than-human 
+forensics led by local communities of buscadoras , emerges from self-organized prac-
+tices as well as new sets of aesthetic and narrative sensibilities. Deep forensics could 
+contribute to displacing the short-term time scale of the current Mexican forensic 
+crisis and the exclusive human-centered episteme of forensic practice, to bring 
+about new understandings of the intertwined contexts of ‘stratigraphic violence’ as 
+is inscribed in the earthly records of contemporary Mexico.  But it remains emergent, 
+rather than dominant.
+The more-than-human alliances described by Aracelli and the politico-eco-
+nomic-environmental concerns raised by buscadoras  searching in landscapes 
+marred by extraction and drought are all-too-often dismissed as fanciful by 
+experts. Some of the forensic experts we interviewed, saw this animism or magical 
+sensibilities as signs as of the buscadoras  lack of scientific expertise. Forensics 
+and its attendant justice in their terms came from state-based forensics focused 
+on efficiency and accountability. Justice, for the buscadoras  remained a complex, 
+multilayered concept: “What do we want? Justice!” The chant is the background of 
+their marches demanding shifts in Mexican state forensic practice. But, as scholars 
+working on the issue have shown, prosecution of perpetrators of disappearance 
+is all but absent and the searching techniques of the collectives tacitly promise 
+anonymity for tips about where bodies can be found (Aranda 2022; Martínez and 
+Martínez 2022; Villarreal 2016). In our interviews and fieldwork, justice was artic-
+ulated in affective terms, of returning the disappeared to their families or political 
+terms, of holding the state and its officials responsible for fulfilling their duties. 
+In this analysis, we offer another register for contemplating forms of justice, one 
+which exceeds the narrow temporal dimensions of a crime and its prosecution, 
+that is a more-than-human justice. In scholarship on the Anthropocene, climate 
+justice, and decolonial social movements, scholars have pointed to the entangle-
+ments between colonial violence and its legacies, environmental justice, structural 
+PARALELOS191
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+violence, and multi-species relationalities arguing for the potential of new forms of 
+solidarity and justice emerging from more temporally and relationally expansive 
+frameworks (Fieuw, Foth, and Caldwell 2022; Tschakert 2022). Although a more-
+than-human justice does not resolve or address the very real and violent lack of 
+accountability in Mexico, it can and does also exist alongside juridical concep-
+tualizations of justice. The buscadora  collectives’ experiments in deep forensics 
+may offer new methods for articulating forms of justice that include these longer 
+histories and multi-species communities.
+References
+1. Andermann, Jens. 2020. “Memories of Extractivism: Slow Violence, Terror, and Matter. ” 
+Journal of Latin American Cultural Studies 29 (4): 537-554. https://doi.org/10.1080/1356
+9325.2020.1805589
+2. Aranda, Salvador Maldonado. 2022. “‘Una tumba a donde llorar’: cuerpo, rituales y 
+justicia en torno a la desaparición en México. ” Dilemas: Revista de Estudos de Conflito e 
+Controle Social  15: 431-454. https://doi.org/10.4322 /dilemas.v15n2.45758
+3. Armony, Ariel C. 2005. “Producing and Exporting State Terror: The Case of Argentina. ” 
+When States Kill: Latin America, the US, and Technologies of Terror, edited by Cecilia 
+Menjívar and Néstor Rodríguez, 305-334. https://doi.org/10.7560/706477-014
+4. Brooks, Darío. 2022. “‘ A Monterrey le llegó el día cero’: la grave crisis de falta de agua que 
+vive la segunda ciudad más poblada de México. ” BBC News Mundo, June 27. https://www.
+bbc.com/mundo/noticias-america-latina-61917457
+5. Carrión, Lydiette. 2018. La fosa de agua: desapariciones y feminicidios en el Río de Los 
+Remedios . Mexico City: Debate.
+6. Cordero, Natalia. 2019. “Mecanismo extraordinario de identificación forense, un camino 
+para afrontar la crisis forense en México. ” Animal Político , December 12. https://www.
+animalpolitico.com/res-publica/mecanismo-extraordinario-de-identificacion-forense-
+un-camino-para-afrontar-la-crisis-forense-en-mexico/
+7. Cruz-Santiago, Arely. 2017. “Forensic Citizens: The Politics of Searching for Disappeared 
+Persons in Mexico. ” Doctoral Thesis, Faculty of Social Sciences and Health, Department 
+of Geography, Durham University, Durham. http://etheses.dur.ac.uk/12315/
+8. Davies, Thom. 2022. “Slow Violence and Toxic Geographies: ‘Out of Sight’ to 
+Whom?” Environment and Planning C: Politics and Space 40 (2): 409-427. https://doi.
+org/10.1177/2399654419841063
+9. Fieuw, Walter, Marcus Foth, and Glenda Amayo Caldwell. 2022. “Towards a More-
+than-Human Approach to Smart and Sustainable Urban Development: Designing for 
+Multispecies Justice. ” Sustainability  14 (2): 948. https://doi.org/10.3390/su14020948
+10. García-Deister, Vivette and Lindsay A. Smith. 2020. “Migrant Flows and Necro-
+Sovereignty: The Itineraries of Bodies, Samples, and Data across the US-Mexico 
+Borderlands. ” BioSocieties  15 (3): 420-437. https://doi.org/10.1057/s41292-019-00166-4
+192
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+11. García-Deister, Vivette and Carlos Lopez-Beltrán. 2017. “ ADN en un país de muertos. 
+La genética forense como medio y remedio. ” In Violencia y discurso, coordinated by 
+Margarita Palacios Sierra, 157-181. Mexico City: Universidad Nacional Autónoma de 
+México (UNAM).
+12. García-Deister, Vivette and Lindsay Smith. 2016. “Ensamblajes de la ciencia forense en 
+América Latina. ” In Aproximaciones a lo local y lo global: América Latina en la historia de 
+la ciencia contemporánea, compiled by Gisela Mateos and Edna Suárez-Díaz, 269-300. 
+Mexico City: Centro de Estudios Filosóficos, Políticos y Sociales Vicente Lombardo 
+Toledano. https://www.centrolombardo.edu.mx/aproximaciones-a-lo-local-y-lo-global/
+13. Gatti, Gabriel and David Casado-Neira. 2020. “Ecologies of Disappearance Today. 
+Introduction. ” Journal of Latin American Cultural Studies 29 (4): 501-505. https://doi.org/
+10.1080/13569325.2021.1883571
+14. Gatti, Gabriel, Ignacio Irazuzta, and María Martínez. 2020. “Inverted Exception. Ideas 
+for Thinking about the New Disappearances through Two Case Studies. ” Journal of Latin 
+American Cultural Studies  29 (4): 581-604. https://doi.org/10.1080/1356932 5.2020.1839869
+15. Guevara Muñoz, Laura Viviana. 2019. “Which Are the Worst Countries in Human 
+Rights?” Latin American Post, January 23. https://latinamericanpost.com/25972-which-
+are-the-worst-countries-in-human-rights
+16. Guglielmucci, Ana. 2020. “Necroscapes: The Political Life of Mutilated and Errant Bodies 
+in the Rivers of Colombia. ” Journal of Latin American Cultural Studies 29 (4): 555-580. 
+https://doi.org/10.1080/13569325.2021.1885356
+17. Haraway, Donna J. 2016. Staying with the Trouble: Making Kin in the Chthulucene. Duke 
+University Press. https://doi.org/10.2307/j.ctv11cw25q
+18. Hernández Castillo, Rosalva. 2019. “La antropología jurídica feminista y sus aportes al trabajo 
+forense con familiares de desaparecidos: alianzas y colaboraciones con ‘Las Rastreadoras de 
+El Fuerte’ . ” Abya-Yala: Revista Sobre Acesso á Justiça e Direitos Nas Américas 3 (2): 94-119. 
+https://doi.org/10.2 6512 /abyayala.v3i2 .23700
+19. Isacson, Adam, Adriana Beltrán, and Maureen Meyer. 2019. “There Is a Crisis at the 
+U.S.-Mexico Border. But it’s Manageable. ” WOLA  (blog). April 4. https://www.wola.org/
+analysis/fix-us-mexico-border-humanitarian-crisis/
+20. Martínez Mejía, Fátima Esther, and Mónica Natalia Martínez Mejía. 2022. “Los colectivos 
+de víctimas y el acceso a la justicia en México. ” Revista de Direito da Cidade  14 (1): 
+430-456. https://doi.org/10.12957/rdc.202 2.64700
+21. Mendoza, Breny. 2006. “Los fundamentos no democráticos de la democracia: un 
+enunciado desde Latinoamérica pos occidental. ” Revista Centroamericana de Ciencias 
+Sociales (RCCS) 3 (2): 85-94. https://dialnet.unirioja.es/servlet/articulo?codigo=2658177
+22. Meszaros Martin, Hannah. 2018. “‘Defoliating the World. ’ Ecocide, Visual Evidence and 
+‘Earthly Memory’ . ” Third Text 32 (2-3): 230-253.  https://doi.org/10.1080/0952 8822 .201
+8.148652 6
+23. Nixon, Rob. 2011. Slow Violence and the Environmentalism of the Poor. Cambridge 
+Harvard University Press.
+PARALELOS193
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+24. Nkanga, Otobong. 2010. Fragilologist’s Predicament . Textile. Museum of Contemporary 
+Art Kiasma. https://stsinfrastructures.org/content/series-fragilologist%E2 %80%99s-
+predicament
+25. Olarte-Sierra, María Fernanda and Tania Pérez-Bustos. 2020. “Careful Speculations: 
+Toward a Caring Science of Forensic Genetics in Colombia. ” Feminist Studies  46 (1): 
+158-177. https://doi.org/10.1353/fem.2020.0003
+26. Ortiz, Silvia. 2019. “Sobre La Búsqueda En PATROCINIO, Torreón Coahuila. ” Presented 
+at the En Presentación del proyecto Pedagogía Forense, EMAF, CDMX.
+27. Pérez Rodríguez, Graciela. 2021. Extermination Sites in Tamaulipas from the Perspective 
+of Citizen Action. Video. 69 min., October 14. Produced by Borderlands Technologies: 
+Data, Practices, and Stories. School for the Future of Innovation in Society, Arizona State 
+University. https://www.youtube.com/watch?v=vCO24bNff0o
+28. Pérez Rodríguez, Graciela, Sara López Cerón, and Evencio Pérez Ruiz. 2020. “Protocolo 
+estandarizado de búsqueda ciudadana en sitios de exterminio, ” protocol presented at the 
+Segundo Encuentro de Buscadoras/es México, March 7, Tlaxcala, Mexico. https://www.
+milynaliredcfc.org/protocolo-de-busqueda
+29. Povinelli, Elizabeth A. 2016. Geontologies: A Requiem to Late Liberalism. Durham; 
+London: Duke University Press. https://doi.org/10.1215/9780822 373810
+30. Puig de la Bellacasa, Maria. 2017. Matters of Care: Speculative Ethics in More than Human 
+Worlds . London: University of Minnesota Press.
+31. Puig de la Bellacasa, María. 2015. “Making Time for Soil: Technoscientific Futurity 
+and the Pace of Care. ” Social Studies of Science 45 (5): 691-716. https://doi.
+org/10.1177/0306312715599851
+32. Ramírez Uresti, Arlene. 2021. “Cambio climático y la migración que viene. ” Forbes México, 
+November 2. https://www.forbes.com.mx/red-forbes-cambio-climatico-y-la-migracion-
+que-viene/
+33. Robledo Silvestre, Carolina. 2019. “Peinar la historia a contrapelo: reflexiones en torno a 
+la búsqueda y Exhumación de fosas comunes en México. ” Encartes  2 (3): 13-42. https://
+doi.org/10.29340/en.v2n3.62
+34. Roitman, Janet. 2013. Anti-Crisis. Durham; London: Duke University Press. https://doi.
+org/10.1515/9780822 377436
+35. Rudnyckyj, Daromir. 2018. “Crisis Effects. ” Cultural Anthropology  33 (4): 547-557. https://
+doi.org/10.14506/ca33.4.04
+36. Segato, Rita Laura. [2006] 2013. La escritura en el cuerpo de las mujeres asesinadas en 
+Ciudad Juárez: territorio, soberanía y crímenes de segundo Estado. Buenos Aires: Tinta 
+Limón. http://repositorio.ciem.ucr.ac.cr/jspui/handle/123456789/149
+37. Smith, Lindsay A. 2017. “The Missing, the Martyred and the Disappeared: Global 
+Networks, Technical Intensification and the End of Human Rights Genetics. ” Social 
+Studies of Science 47 (3): 398-416. https://doi.org/10.1177/0306312716678489
+38. Smith, Lindsay A. and Vivette García-Deister. 2017. “Capturing Los Migrantes 
+Desaparecidos: Crisis, Unknowability, and the Making of the Missing. ” Perspectives on 
+Science  25 (5): 680-697. https://doi.org/10.1162/POSC_a_00259
+194
+Antipod. Rev. Antropol. Arqueol. n.° 50 · Bogotá, enero-marzo 2023· ISSN 1900-5407 · e-ISSN 2011-4273 · pp. 173-195 
+https://doi.org/10.7440/antipoda50.2023.08
+39. Torres-Martínez, María. 2020. “ ADN Ciudadano: Autoorganización Forense y 
+Tecnociencia Ciudadana En México. ” Doctoral Thesis, Facultad de Filosofía y Letras, 
+Universidad Nacional Autónoma de México (UNAM), Mexico City. https://ru.dgb.unam.
+mx/handle/DGB_UNAM/TES01000805887
+40. Tschakert, Petra. 2022. “More-than-Human Solidarity and Multispecies Justice in the 
+Climate Crisis. ” Environmental Politics  31 (2): 277-296. https://doi.org/10.1080/096440
+16.2020.1853448
+41. Tsing, Anna Lowenhaupt. 2015. The Mushroom at the End of the World. Princeton: 
+Princeton University Press. https://doi.org/10.1515/9781400873548
+42. Villarreal Martínez, María Teresa. 2016. “Los colectivos de familiares de personas 
+desaparecidas y la procuración de justicia. ” Intersticios Sociales  11: 1-28. https://doi.
+org/10.55555/IS.11.94
+43. Wagner, Sarah E. 2008. To Know Where He Lies: DNA Technology and the Search for Srebrenica’s 
+Missing . Berkeley: University of California Press. https://doi.org/10.152 5/978052 0942 622
+44. Yusoff, Kathryn. 2018. A Billion Black Anthropocenes or None. Minneapolis: The University 
+of Minnesota Press. https://doi.org/10.5749/9781452 962054
+María Torres
+Ph.D. in Philosophical and Social Studies of Science and Technology from the National 
+Autonomous University of Mexico (UNAM), Mexico. MA in Contemporary Art History 
+and Visual Culture from the inter-institutional program offered jointly by Universidad 
+Complutense, Autonomous University of Madrid, and Museo Nacional Centro de Arte 
+Reina Sofía. BA in New Media and Communication Theory from the Carlos III University 
+of Madrid with a joint degree at the School of Economics. Postdoctoral Fellow in the School 
+for the Future of Innovation in Society at Arizona State University, United States.  Her re-
+cent publications include: “Huesos y ADN: autoorganización  forense y ADN ciudadano en 
+México, ”  in ADN, protagonista inesperado. Promesas y realidades de la investigación genética 
+ante nuestra crisis forense, coord. by Vivette García-Deister (Mexico City: Siglo Veintiuno 
+Editores, 2022), 135-158. https://orcid.org/0 000- 0003- 0663-4023 * mtorr110@asu.edu
+Lindsay A. Smith
+Ph.D and MA in Anthropology from Harvard University, Cambridge, United States. BA 
+in Anthropology and Psychology from Rice University, Houston, United States. Assistant 
+professor in the School for the Future of Innovation in Society at Arizona State University, 
+United States. Senior Global Futures Scientist, Julie Ann Wrigley Global Futures Laboratory, 
+Arizona State University, United States. Her recent publications include: (co-authored wi-
+th Graciela S. Cabana, Marcela Mendoza, Hugo Delfino, Carla Martínez, Bárbara Mazza, 
+Loruhama Teruya Rossi, and Francisco Di Fabio Rocca) “Crossing at y/Our Own Peril: 
+PARALELOS195
+Deep Forensics for a More-than-Human Justice
+María Torres y Lindsay A. Smith 
+Biocultural Boundary Crossing in Anthropology, ” American Anthropologist  124, n.o 3 (2022): 
+479-489, https://doi.org/10. 1111/aman. 13729 ; (co-authored with Martín Pérez Comisso, 
+Manuela Fonseca, Ayelen Cavalli, Octavio Muciño, Tomás Carroza, Mary Jane Parmentier, 
+Jeanne Simon, Annel Vasquez, and Clara Tinoco) “Pedagogia descolonizante: experiências 
+CTS que descentralizam nossas ideias CTS, ” CTS em Foco 4 (2021): 70-75, https://doi.
+org/10.29327/ 233515. 1.4-9; (co-authored with Vivette García-Deister) “Genetic Syncretism: 
+Latin American Forensics and Global Indigenous Organizing, ” BioSocieties  16, n.o 4 (2021): 
+447-469, https://doi.org/10. 1057/s4129 2-021- 0026 3-3. https://orcid.org/0000- 0003- 0708-
+0317 * lsmit101@asu.edu

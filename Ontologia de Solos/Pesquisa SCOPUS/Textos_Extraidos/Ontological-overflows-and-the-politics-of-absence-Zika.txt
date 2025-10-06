@@ -1,0 +1,790 @@
+Science as Culture
+ISSN: 0950-5431 (Print) 1470-1189 (Online) Journal homepage: www.tandfonline.com/journals/csac20
+Ontological overﬂows and the politics of absence:
+Zika, disease surveillance, and mosquitos
+Francis Lee
+To cite this article: Francis Lee (2024) Ontological overﬂows and the politics of absence:
+Zika, disease surveillance, and mosquitos, Science as Culture, 33:3, 417-442, DOI:
+10.1080/09505431.2023.2291046
+To link to this article:  https://doi.org/10.1080/09505431.2023.2291046
+© 2023 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 12 Dec 2023.
+Submit your article to this journal 
+Article views: 1514
+View related articles 
+View Crossmark data
+Citing articles: 3 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=csac20
+Ontological overﬂows and the politics of absence: Zika,
+disease surveillance, and mosquitos
+Francis Lee
+Division of Science, Technology and Society, Chalmers University of Technology, Gothenburg, Sweden
+ABSTRACT
+In STS, there has long existed an unease about the analysis of
+powerful actors and dominant technoscienti ﬁcn a r r a t i v e s .A
+core concern for the ﬁeld has been how particular objects,
+phenomena, and people are excluded from technoscienti ﬁc
+realities. However, a key problem in dealing with exclusion in
+S T Si st h a to u rm e t h o d sc a l lu st o ‘follow the actors, ’which
+often leads to reifying our interlocutors ’matters of concern.
+This paper proposes an analytical strategy that turns ouranalytical attention to the actors ’work rendering things
+absent —a strategy of analyzing ontological over ﬂows. The
+a i mo ft h i sa n a l y t i c a lm o v ei st os h i f tf o c u sf r o mc o n s t r u c t i o n
+to de-construction and to highlight the importance ofprocesses of exclusion. By exploring the actors ’making of the
+absence of Zika —and by extension, the construction of the
+absence of various technoscienti ﬁc phenomena —an
+analytical strategy is outlined that allows us to attend to theoverﬂows of technoscience. Four types of over ﬂows are
+analyzed: conglomeration, exclusion, scarcity, and
+indeterminacy, each illustrating how the making of absencesshapes technoscienti ﬁc objects. For instance, the decision of
+what counts as a thing, the handling of absent data, and the
+translation of computational uncertainties into absence of
+prediction. This analytical st rategy highlights where there
+exist spaces for power and choice —where choices can be
+made, by whom, and by what means. By analyzing themaking of absence, we can explore how objects, phenomena,
+and people are marginalized or rendered absent in
+technoscientiﬁ cp r o c e s s e s .ARTICLE HISTORY
+Received 23 February 2022
+Accepted 28 November 2023
+KEYWORDS
+Absence; exclusion;algorithms; actor-networktheory; pandemic
+Introduction: epidemics, absences, and over ﬂows
+The fear of global disease outbreaks looms large on the horizon of contemporary
+society, not least since the Covid-19 outbreak emerged as a global health threat inthe early 2020s (cf. Cadu ﬀ,2015). In a world of heightened awareness, institutions
+© 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.
+org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository bythe author(s) or with their consent.CONTACT Francis Lee francis@francislee.org Chalmers University of Technology, Technology Manage-
+ment and Economics, SE-412 96, Gothenburg, SwedenSCIENCE AS CULTURE
+2024, VOL. 33, NO. 3, 417 –442
+https://doi.org/10.1080/09505431.2023.2291046
+and practices of disease surveillance —working tirelessly to discover new disease
+threats —have emerged as key arbiters of global health security (Lako ﬀ,2017 ).
+The constant question of disease surveillance organizations across the globe
+is when and where the next health threat will emerge (cf. Lee, 2021a ,2023 ) The
+detection of a new epidemic is dependent on a huge amount of work from a
+multitude of actors, ranging from testing at the local doctors ’oﬃce, vigilance
+by surveillance of sentinel animals, microbiology laboratories, and di ﬀerent
+centers of disease control (see for instance Cadu ﬀ,2015 ; Lako ﬀ,2017 ; Keck,
+2020 ; Kelly et al., 2020 ; Kameda et al., 2021 ).
+The presence of disease is hugely momentous. The identiﬁ cation of a new
+disease can lead to lockdowns, vaccination programs, mask mandates, travelrestrictions, closing of public spaces, and so on. However, the ﬂip side is just
+as true: the absence of an epidemic is oftentimes just as momentous as its pres-ence. The proclamation that no disease outbreak can relax all of these restric-tions and return life to the everyday. Deciding the presence or absence of anepidemic often has weighty consequences.
+Furthermore, proclaiming an epidemic or a pandemic is an ontological
+event, which produces a global technoscienti ﬁc object. That is, an epidemic
+emerges as a thing when experts decide that it exists, and ceases when theexperts decide that it does not (Lee, 2021a ; cf. also Lako ﬀ,2017 , pp. 7 –8).
+For instance, when the WHO decided that Covid-19 was a pandemic inMarch 2020. This was an ontological event. Thus, in delineating existencefrom non-existence, presence from absence, actors make a cut between exist-ence and non-existence of a phenomenon.
+This article takes an interest in the work to delineate an epidemic by deciding
+where the epidemic is enacted as notpresent. It traces the multitude of practices
+that enact a pandemic as absent. Hence, it takes an interest in the politics ofexclusion and othering by following the actors ’ontological work, what Lynch
+has called ontography (cf. Woolgar and Pawluch, 1985 ; Lynch, 2013 ;
+Woolgar and Neyland, 2013 ). That is, the article follows the practices of exclud-
+ing things, and the production of the absence of an epidemic.
+In this article, I join the rich tradition in STS that asks how we can attend to
+the invisible and absent. My proposal is to attend to the politics of the absent, bypaying attention to ontological over ﬂows. In doing this, I aim to join the fertile
+and insightful discussion about the ontological politics—that is the intertwining
+of technoscienti ﬁc practices with power relations—of invisibility and fraction-
+ality in STS (Star, 1991 ; Mol, 1999 ,2002 ;
+Star and Strauss, 1999 ; Law, 2002 ). I
+want to ask what would happen if we freed our analytical gaze from the thingsthat the actors ’eyes and hands are trained on. Stayed situated with the actors —
+but looked the other way—toward practices of excluding, cutting, removing—the practices of making absences.
+To demonstrate the usefulness of this methodology, I trace the enactment of
+the Zika pandemic of the mid-2010s to demonstrate that through tracing418 F. LEE
+ontological over ﬂows—we can trace a di ﬀerent politics of exclusion in tech-
+noscience. Empirically, I analyze the practices of delineating the absence of
+an epidemic by following the work of tracking and mapping a Zika epidemicat the European Centre for Disease Control and Prevention (ECDC) —one of
+the main health security actors in Europe (see also Lee, 2021b ,2021a ).
+Analytical perspective: over ﬂows and absences
+In STS, there is a long tradition of caring for invisibility, othering, and weak actors.W eh a v ea s k e do u r s e l v e st i m ea n dt i m ea g a i n :W h a ta b o u tt h et h i n g sa n dp e o p l ethat do not ﬁt( S t a r ,1995;B o w k e ra n dS t a r , 1999;B o w k e r , 2000)? What about the
+invisible actors on the margins (Star, 1990,1991;S t a ra n dS t r a u s s , 1999)? The
+things that are at the margins of the network (Lee and Brown, 1994; Latour,
+2012)? The manifest absences or otherness (Law, 2004)? In Law ’sw o r d s ,h o wd o
+we attend to the ‘enactment of presence ,manifest absence, andabsence as otherness ’
+(Law, 2004, p. 84 my emphasis). In this article, I want to join this discussion about
+exclusion, and in particular to think through the ontological politics of makinga b s e n c ei np r a c t i c e( c f .M o l , 1999) .Iw a n tt oc a r ef o rt h ee n t i t i e s —here a shorthand
+for all of the heterogeneous things, objects, subjects, phenomena, animals, andpeople —that are made absent in practice (Latour, 2005a).
+The challenge of absences: a constant methodological problem in STS seems
+to stem from following the concerns—the eyes, hands, and actions —of our
+interlocutors. As Bowker and Star describe it, ‘By the very nature of the
+method [… ] we shared the actors ’blindness. [ …] We will see the blind
+leading the blind ’(1999 , pp. 48 –49). As analysts of technoscience, we tend to
+care for our interlocutors ’matters of concern (cf. Latour, 2004 ; de la Bellacasa,
+2011 ). That is our methods —initially developed to take seriously the practices
+of scientists —became centered on the construction of facts and artifacts in
+practice, and accordingly became ﬁne-tuned
+ to trace the assembling of things
+that our interlocutors care for (Knorr-Cetina, 1981 ; Latour and Woolgar,
+1986 ; Traweek, 1988 ). That is, we have taken to heart that nature, society,
+actors, nature, and agency are all radically assembled in practice, but theobjects of our analytical attention rarely vary: our objects of concern matchthose of our informants. The blind leading the blind.
+There are at least three problems that stem from this methodological re ﬂex of
+following the actors.
+Theﬁrst problem is empirical. In our analyses, how can we empirically care
+for the many, many things that are made absent in technoscience? As Frickelwrites ‘[W]e study processes of becoming or emergence, far more than pro-
+cesses of winnowing or submergence’ (Frickel, 2014 , p. 87; cf. also Croissant,
+2014 ; Rappert, 2010 ). How do we then attend to things that are made absent
+by the eyes, and hands of our interlocutors and therefore, outside our attention?How can we attend to the objects that are made absent?SCIENCE AS CULTURE 419
+The second problem is methodological. Our attention to our interlocutors ’
+enactment of things tends to leave behind those things that are excluded
+from the dominant technoscienti ﬁc realities. As Bowker and Star have
+observed, faithfully following how our interlocutors’ assemble objects produces
+blindness to objects that are excluded by our interlocutors ( 1999 , pp. 48 –49).
+Our interlocutors stay steadily focused on their matters of concern —and too
+often our analyses do too.
+The third problem is theoretical. When we remain faithful to our interlocu-
+tors’constructions. We do not venture into the ‘undiscovered continent ’of
+action (cf. Lee and Brown, 1994 ). We follow the rails of the network. We
+map the territorialized spaces that our interlocutors have colonialized. Wefollow the construction and enactment of particular objects that our actors
+care for. But, we do not follow other lines of sight, other lines of ﬂight.
+In proposing the concept of ontological over ﬂows, I want to draw attention to
+these practices and processes of producing exclusions —the becomings of
+absence. The move to analyze over ﬂowings draws on Callon ’s(1998 ) work
+on framing and over ﬂowing. However, the concept of over ﬂowing that I intro-
+duce here is pointing in the opposite direction. Both versions of over ﬂowing
+have a similar starting point: some things are outside the network or in
+Callon ’s terms outside the ‘frame. ’However, Callon ’s interest in over ﬂowing
+lies in how ‘economic externalities ’that are seen as being outside the market
+are brought into the ‘frame’ of economics through identi ﬁcation and measure-
+ment. He is thus primarily interested in the constitution of the present. I want to
+point in the other direction. Where Callon seeks to highlight processes of howthe excluded are brought into the fold and stabilized , I want to highlight how
+the excluded are removed and destabilized.
+Thus, examining ontological overﬂ ows is about examining the processes of
+omission and exclusion of objects, things, and people. However, my interestis neither in cataloguing what kinds of absences exist (absences as a noun)nor is it in de ﬁning what qualities these di ﬀerent absences have (absences as
+adjective). Rather my interest lies in highlighting the processes through
+which absences are produced by actors (absences as a verb). I want to use onto-
+logical over ﬂows to direct our searchlights to the treason, trahison ,
+ of trans-
+lation (cf. Callon, 1984 ; Law, 1997 ).
+My position is radically practice-oriented, and builds on pragmatic actor-
+network sensibilities focused on actors and materialities of research (Callon,
+1984 ,1998 ; Latour and Woolgar, 1986 ; Latour, 1987 ; Mol, 1999 ,2002 ). This
+means that I view absences as produced by actors —they are becomings.
+From this perspective, absence does not pre-exist practice but is always becom-ing in relation to our interlocutors ’normativities about what —in their view —
+should exist (cf. Bergson, 1944 , p. 296 –).
+Thus, following ontological overﬂ ows means looking towards processes of
+exclusion and cutting —without presupposing what normativities have shaped420 F. LEE
+them. In this pragmatist vein, tracing ontological overﬂ ows means refraining
+from bringing preconceived notions about the nature of absence to our analysis.
+We need to follow over ﬂows empirically. That is, we need to follow actors ’
+work, through actions, utterances, inscriptions, and documents —without
+becoming blinded by the matters of concern of our interlocutors.
+Distinctions: ontological over ﬂows and agnotology
+Some distinctions must be made here: A parallel mode of inquiry to this
+material-semiotic tradition has a long-standing interest in how social interestshave shaped knowledge production (Barnes, 1977 ; MacKenzie, 1978 ,1981 ;
+Collins, 1981 ). Building on this tradition, researchers from ﬁelds such as STS,
+philosophy, and sociology have taken an interest in how strong actors strategi-cally work to suppress knowledge (cf. Proctor and Schiebinger, 2008 ; Kourany
+and Carrier, 2020 ). This tradition is born from an interest in drawing ‘attention
+to a kind of non-knowledge that is systematically produced through theunequal distribution of power in society ’(Hess, 2022 , p. 142). These studies
+of the production of (non-)knowledge have led to important research, forinstance, about the production of non-knowledge about climate change (cf.Oreskes and Conway, 2011 ).
+However, there are crucial di ﬀerences in how the world is apprehended and
+explained when analyzing ontological overﬂ ows and when analyzing the pro-
+duction of non-knowledge. On the one hand, by analyzing ontologicaloverﬂows—and in this drawing on actor-network sensibilities —the explanation
+of why exclusion happens must remain open. We must remain impartial to whatcan be causes and e ﬀects—eschewing using preconceived notions as the expla-
+nation of why things happen (Latour, 2005b ). On the other hand, the agnotolo-
+gical tradition—we might call it the social interest tradition—sees the empirical
+world through a particular lens, with a predetermined intent to explain howunequal power relationships and social interests lead to the production ofnon-knowledge. This di ﬀerence in modes of explanation is an age-old discussion
+in STS, where each camp has made compelling arguments for their preferredmode of exploration (Callon and Latour, 1992 ; Collins and Yearley, 1992 ).
+In my view, the making of absence is not always tied to powerful interests
+that aim to produce ignorance. That a thing is made absent or invisible in prac-tice does not require a powerful actor that through unequal power relationshipssuppresses knowledge, undoes science or produces ignorance. What shapes the
+making of absences must remain an empirical matter, not a matter of ﬁrst
+principles .
+A second crucial di ﬀerence between attending to ontological over ﬂows and
+agnotology is the shift from epistemology to ontology. My focus on the onto-logical politics of over ﬂows builds on the important shift in analytical perspec-
+tive—from apprehending the world as the construction of knowledge —SCIENCE AS CULTURE 421
+epistemology —to analyzing the enactment of ontologies (cf. Haraway, 1991 ;
+Harding, 1991 ; Mol, 1999 ). Thus, ontological over ﬂows focus on what objects
+are enacted as absent in practice, while the social interests explanations high-
+light how strong actors strategically suppress particular knowledge (cf.Oreskes and Conway, 2011 ; Hess, 2016 ). The analytical lens shifts from produ-
+cing non-knowledge to producing ontological absences.
+My aim is to develop over ﬂows an analytical strategy for understanding the
+ontological politics of technoscience. To understand how things are cut fromthe dominant technoscienti ﬁc realities. As Puig de la Bellacasa (2015 ) phrases
+it, I want to ‘draw attention to the signi ﬁcance of practices and experiences
+made invisible or marginalized by dominant, “successful ”, forms of technos-
+cientiﬁc mobilization ’(p. 692) (cf. de la Bellacasa, 2011 ,2016 ). Thus, this text
+is about politics and power in science and technology. It is about tenuousobjects, about exclusion on the sidelines of enactment (cf. Mol, 1999 ).
+Absences in practices: a methodological reﬂ ection
+But what does it mean trying to break free from the actors ’matters of concern?
+Still being situated with the actors, while looking the other way? ParaphrasingBowker and Star: How do we avoid becoming the blind that follows the blind?In this case, it means looking in the other direction, toward the disassembling ofthings. What do the actors choose to ignore? What do they cut from the assem-blage? Thus, tracing ontological overﬂ ows is about recon ﬁguring your matters
+of concern, freeing them from the actors ’matters of concern, and looking the
+other way, toward ontological over ﬂows.
+In practice, multiple over ﬂows demand our attention. Below, I attend to a
+few. Attending to di ﬀerent types of over ﬂows aims to sensitize our analytical
+minds to the processes of exclusion (cf. Blumer, 1954 ). They are not meant
+as an exhaustive taxonomic exercise —reifying absence-making into a de ﬁnite
+typology. There can be an inﬁ nite number of over ﬂows. The over ﬂows I
+propose here are not the ﬁnal destination, they are a starting point. Below, I
+attend to four di ﬀerent modes of over ﬂowing that can be useful for tracing pro-
+cesses of absence-making: over ﬂows of exclusion, over ﬂows of scarcity,
+overﬂows
+of conglomeration, and over ﬂows of indeterminacy.
+The story begins: the Zika pandemic, the Rio Olympic Games, and theECDC
+In the case of a pandemic, the presence of disease is the primary matter of
+concern: counting cases, making maps of the disease, making epidemic curves,
+and assessing risks (Lee, 2021a ). But in all this making of presence, there is a mul-
+titude of ontological over ﬂows being made. Here, I attend to some of these
+overﬂows by tracing the processes of excluding, othering, occluding, and422 F. LEE
+eliding. There are multiple —perhaps even innumerable—over ﬂows at play in
+assembling the absence of Zika: absence of cases, absence of data, absence of
+Zika transmission risk, absence of the Aedes aegypti mosquito, and the
+absence of risk. As I show below, all of these absences are assembled into a coher-ence in practice: what is assembled as the absence of Zika.
+My account starts at the ECDC, in January 2017. At the time, the fear of wide-
+spread Zika transmission in Europe was still tangible (see Figure 1 ). The ECDC
+published weekly updates about the number of cases, and there was a palpableworry that the ongoing Zika epidemic would become a pandemic followingthe Olympic Summer Games in Rio de Janeiro that were held in August 2016.
+The number of Zika cases in the EU reached a peak in conjunction with the
+Rio Olympic Games. During this period, the number of cases in the EU was
+counted in the hundreds. The fear was that the disease would become locally
+spread in the EU and not just be transmitted in conjunction with travel tocountries where Zika was already endemic, like Brazil. The concern was thatZika would become widespread in Europe —perhaps transmitting sexually,
+from mother to child, and via mosquitos. This was partly because Zika is trans-mitted by the mosquito Aedes aegypti , also known as the Yellow Fever Mos-
+quito, whose range is limited in Europe, but also an increasing fear that Zikacould be transmitted by the related Asian Tiger Mosquito, the Aedes albopictus ,
+whose range extends over much of Mediterranean Europe.
+Tracing the assembling of a pandemic
+We enter this story during my ﬁeldwork at the ECDC. The analysis then
+branches out into relations to algorithms, computations, and infrastructures
+Figure 1. Zika virus cases by month in the EU from 2015 to 2019 (European Centre for Disease
+Prevention and Control, 2021 , p. 3). Reproduced with permission.SCIENCE AS CULTURE 423
+that stretch out in faraway times and places: into medical laboratories, into
+jungle expeditions, and even leaving Earth to journey into satellites in space.Myﬁeldwork started as part of a larger project which examined how new infor-
+mation infrastructures were used for disease surveillance. The project started in2015 with a preliminary study into so-called infodemiology —the use of various
+information infrastructures to track disease. However, the ﬁeldwork that this
+article draws on started in 2017 at the ECDC, and continued with varyingdegrees of intensity until 2021, to investigate the use of information infrastruc-tures in disease surveillance.
+An important point of departure was that a pandemic is assembled in many
+ways, using various infrastructures and tools, and many types of data. Accord-ingly, tracing disease implicates an abundance of human and non-human
+actors: the pathogens themselves, such as viruses and bacteria. Experts in epi-
+demiology, virology or medicine. Technologies of disease tracking, such asdatabases, genetic surveillance or even social media. Disease vectors such asmosquitoes, bats, birds or livestock. Tracing disease through these more thanhuman relations fosters a practice of constant and eclectic experimentationin disease surveillance. Any conceivable resource available is harnessed totrack down pathogens, and disease vectors, to bring outbreaks under control.
+As a consequence of the eclectic methods of disease surveillance, the
+ﬁeldwork strategy was by necessity one of multi-sited ethnography. This strat-
+egy puts the objects of investigation in focus over the site of ﬁeldwork, tracing
+the action into the world system (Marcus, 1995 ). This strategy meant that I sha-
+dowed the making of various disease outbreaks through practices and infra-structures, as well as human and more-than-human actors.
+The center of my attention in attending to these over ﬂows in practice is my
+interlocutors’ work to delineate an epidemic through what they call an ‘algor-
+ithm. ’An algorithm is a technoscienti ﬁc object which has received quite
+some attention in later years (cf. Ziewitz, 2016). The word algorithm —like
+any word —has multiple meanings: In medical science, it can be a
+ﬂowchart for treatment choices. For computer scientists, it means an iterative
+manner of solving a computational problem, often in code. For my interlo-cutors, an algorithm took the meaning of a patchwork of code, data sheets,ﬂowcharts, maps, and risk models that resulted in a map of a disease out-
+break. For them, it was a way to automate the work of delineating an epi-demic. Here, I take an irreductionist stance to the object ‘algorithm’—
+attempting not to reduce it to a simple de ﬁnition —but to follow the partial
+relationalities of the ‘algorithm ’as it is assembled and branches out into
+time and space (cf. Latour, 1988; Strathern, 2004; see also Muniesa, 2019;
+Lee, 2021a for the problem seeing ‘algorithm ’as an analytical object ‘out
+there, ’as a stabilized object with inherent qualities).
+The starting point for the ﬁeldwork at the ECDC was three weeks of partici-
+pant observation, and six months of meeting participation, interviews, and424 F. LEE
+document studies. During the three-week startup period, I worked in the epi-
+demic intelligence team. This team was tasked with surveilling the informa-tional world for new disease outbreaks and used various informationalresources to scour the news media, Twitter and reports from other disease sur-veillance organizations. The intent was to ﬁnd the next disease outbreak. After
+my period in the epidemic intelligence team, I studied the work of the geneticsteam and genetic disease surveillance (Lee, 2021b ). In sum, during my
+ﬁeldwork, I followed the assembling of disease outbreaks through interviews,
+in meetings, participating in sta ﬀtraining, as well as by studying reports, pub-
+lications, and news of di ﬀerent disease outbreaks.
+Importantly, to understand the infrastructural work that was being done, it
+was necessary to follow the assemblage to other places and times. For instance,
+the use of computational models to predict disease risk led di ﬀerent research
+institutions to follow how the models harnessed particular mathematical
+models, satellite imagery, climate models, and so on.
+Theﬁeldwork came to explore news surveillance, genetic tracking of disease,
+algorithms for visualizing pandemics, and the use of social media, such asTwitter or TripAdvisor to ﬁnd sources of disease. Where my informants and
+the infrastructural assemblage led, I followed (cf. Latour, 1987 ). In brief, I
+traced the assembling of disease outbreaks through a multiplicity of placesbranching out from particular rooms in the global disease surveillance appar-atus to infrastructures stretching far away and back in time: into satellites inspace, into nineteenth-century climate classi ﬁcations, and into jungle
+expeditions to capture the infamous Aedes aegypti mosquito. This article
+drills down in a small subset of all these materials, to highlight how theabsence of Zika , the white area on the global Zika map, was enacted (see
+Figure 2 ).
+Importantly, during the ﬁeldwork, I came to increasingly ask, what happens
+at the edge of the pandemic, outside of the web of established practices, mattersof concern, and taken-for-granted objects? What about the absences, Otherings,and ontological over ﬂows? What about all the processes that led to things being
+excluded and made absent?
+Assemblages of absence
+In assembling a disease outbreak, the absence of disease is produced alongside
+its presence. This does not mean that absence is in any simple sense a mirrorimage nor does it mean that absence is relational to presence in any straightfor-ward way (cf. Law, 2002 ,2004 ). But absence is always relational to actors ’
+expectations of what should exist—their normativities of presence (cf.
+Bergson, 1944 ). The absence and presence of an epidemic, or potentially any
+object, are not two sides of a coin but are produced as a series of human andmore-than-human relations. Sometimes versions of absence create boundariesSCIENCE AS CULTURE 425
+around the Zika outbreak and sometimes versions of absence are folded into the
+presence of the outbreak.
+Below we deal with four ontological over ﬂows that are part of producing the
+absence of Zika. We deal with overﬂows of exclusion : how to decide which cases
+come to count, as well as which cases are not counted —which cases become cut
+(cf. Martin and Lynch, 2009). Second, we pay attention to overﬂows of scarcity .
+Here the analysis centers on ‘no data,’ and encompasses those times and places
+where no data are available, not an unusual state of the world when you are track-ing a pandemic. Third, I highlight overﬂows of conglomeration . How certain ver-
+sions of absence become dominant and visible, and others subsumed andinvisible (cf. Mol, 2002). It deals with the practices of computer modeling to
+predict the risk of the disease vector. What is the potential for Zika transmissionhere? Fourth, we deal with overﬂows of indeterminacy where no prediction is poss-
+ible. The places and times where we are stuck in a place of uncertainty.
+Overﬂows of exclusion: what comes to count as a disease case?
+Counting disease cases in space and time is central to disease surveillance. A
+large amount of work goes into ﬁnding and counting cases at the ECDC.
+During my period of ﬁeldwork in the epidemic intelligence team, each
+morning started with the team updating the case counts of the diseases thatwe were currently tracking: Zika, Yellow Fever, and Chikungunya in Brazil;the plague in Madagascar; Legionella in Dubai; and Salmonella in Europe.
+The mundane work entailed checking the published number of laboratory-
+conﬁrmed cases on the websites of di ﬀerent disease surveillance organizations
+around the globe. It also entailed scouring news reports, databases, and
+Figure 2. Worldwide Zika Virus Transmission 19 December 2017 (map obtained during
+ﬁeldwork). Reproduced with permission.426 F. LEE
+epidemiological email lists connecting various actors in disease surveillance for
+emerging disease outbreaks. The number of cases of Zika both in the EU andglobally was treated with solemn importance (see Figure 3 ).
+However, my informants’ minds and hands —and therefore, my eyes and
+hands —were focused on enacting the presence of a Zika outbreak. My infor-
+mants ’attention and work, the searching eyes, and hands of disease surveillance
+globally, were trained on the presence of cases. And my attention, alongsidetheirs, was likewise focused on the same thing.
+However, to be counted as a disease case, the disease case in question needed
+to become a con ﬁrmed case. It needed to be either conﬁ rmed by the epidemic
+intelligence team —this was done using websites that were deemed trustworthy,
+such as the Brazilian health surveillance secretariat, the Secretaria de Vigilância
+em Saúde or the case needed to be ascertained by communication with relevant
+authorities in other countries. This could entail checking uncertain casenumbers by following up with emails or calls to the health authorities ofother countries to conﬁ rm their laboratory status. A conﬁ rmed case was a
+number that was constructed by lots of work in laboratories, clinics, and gov-ernment agencies. If it had not been con ﬁrmed yet it was put in a di ﬀerent cat-
+egory, and instead joined the group of suspected, but uncon ﬁrmed, cases (cf.
+Martin and Lynch, 2009 ). At the ECDC, the uncon ﬁrmed cases were sometimes
+Figure 3. Zika virus cases in the EU in 2017 (European Centre for Disease Prevention and
+Control, 2019 , p. 3). Reproduced with permission.SCIENCE AS CULTURE 427
+counted in the assessments of the development of disease, but always to answer
+the question: ‘Is it con ﬁrmed? ’
+Producing a con ﬁrmed case of Zika meant conﬁ rming the disease in bodily
+ﬂuids, rather than just relying on a symptomatic diagnosis. Making a con ﬁrmed
+case built on detecting the disease by di ﬀerent methods in di ﬀerent body ﬂuids
+—in serum or plasma, in saliva, in urine or in semen. The timing of the tests wasalso important. At the onset of Zika symptoms certain methods were under-stood as reliable, while later on in the disease onset, other types of tests wereseen as e ﬀective (see Figure 4 ). For example, in the acute phase of Zika,
+during the ﬁrstﬁve days of symptoms, PCR tests using genetic technologies
+were seen as dependable, while during the convalescent phase serology usingantibodies was seen as more useful.
+The absence of cases was produced in parallel to the conﬁ rmed and sus-
+pected case numbers. Sometimes, the unconﬁrmed cases were counted as
+‘zero cases ’—they were folded into absence of Zika —but sometimes they
+were counted as a case. The inclusion or exclusion of a case depended on thesituation and how the numbers were to be used. The number of non-conﬁrmed cases in the steady stream of information that entered the ECDC
+was discussed and tracked, they were the source of questions and worries,but it was the con ﬁrmed cases that were most often counted as cases, while sus-
+pected and uncon ﬁrmed cases became part of Zika absence. When the cases
+became classi ﬁed as not-case, they became part of an ontological over ﬂow,
+sorting them out of being a disease case.
+However, even conﬁ rmed cases became ontological over ﬂows, not cases ,a t
+certain points in time. For instance, when so-called travel-related cases ofZika—when someone had contracted the disease outside their home country
+Figure 4. Timeline of the optimal periods of use for diﬀerent test types (European Centre for
+Disease Prevention and Control, 2016 , p. 4). Reproduced with permission.428 F. LEE
+—were counted they were sometimes argued to be more appropriately seen as
+non-cases. This was because they were not seen as showing the endemic , local
+spread of Zika. This was, for instance, the case in a situation with my interlo-cutors when cases were to be counted in Pakistan. Actors in the WHOargued that two travel-related cases of Zika were to be counted as cases, andtherefore, they would show an active spread of Zika in Pakistan on the Zikaworld map. While actors at the ECDC argued that it was absurd to counttwo travel-related cases toward active spread in that region (cf. Lee, 2021a ).
+The status of the cases and their counting were constantly being negotiated
+and decided in practice.
+The counting of cases and the enactment of the presence and absence of Zika
+was not straightforward, and multiple versions of the presence or absence of
+cases were constantly negotiated. Was it a suspected case? Was it laboratory-
+conﬁrmed? Was it travel-related? Should it count in assembling the outbreak?
+Or was it a non-case? These questions were constantly navigated by the actors atthe ECDC. There was always room for negotiation, doubt, and assessment oftrust (cf. Gar ﬁnkel, 1963 ). The presence or absence of Zika cases always
+needs to be enacted in practice.
+Thus, this ﬁrst version of the absence of Zika concerns the cases that do not
+become counted. That is excluded from becoming an object. This is an overﬂow
+of exclusion. How certain things are sorted out as non-objects. How they areexcluded from particular enactments of the world. This version of over ﬂow
+directs our attention to practices of sorting things out. To the objects that
+become deemed as not objects. Paying attention to the overﬂows of exclusion
+directs our attention to what is not counted as an object in practice? Whatdo actors not count as an object, a thing of the right type? How and wheredo actors exclude things from objectness?
+Overﬂows of scarcity: absence of data
+Thibault and I are looking at the large wall screen where Bernard is displaying several
+excel tables of cases and ﬂowcharts of the Zika algorithms (both names are pseudo-
+nyms). He clicks between the tabs in the excel database. Thibault and Bernard are dis-cussing how to automate the global Zika map. They are in agreement and seem to thinkalmost everything about the algorithmic automation is straightforward. I ’m trying to
+keep up. However, at one point in going through the database, Thibault brings upthe example of Chad, one of the poorest countries in the world.
+‘There is no data from Chad, ’Thibault tells me.
+What Thibault is pointing out is that the absence of data creates a blind spot in the sur-
+veillance system. Chad is said to be such an epidemiological blind spot. Regardless of the
+quality of the Zika algorithm, the rigor of case de ﬁnitions, and the depth of expert judg-
+ment —certain places don’ t have good disease surveillance data. (Fieldnotes from the
+ECDC)SCIENCE AS CULTURE 429
+***
+This brings us to another over ﬂow:overﬂows of scarcity. If you revisit Figure 3 ,
+you will see that certain countries on the map are striped, which denotes ‘no
+data reported. ’Another absence of Zika. We start tracing this overﬂ ow at a
+meeting that occurred during my ﬁeldwork at the ECDC. I joined my infor-
+mants Thibault and Bernard in a meeting where they were discussing what
+they had dubbed ‘the Zika algorithm ’(see Lee, 2021a ). Thibault and Bernard
+had been discussing how to construct an algorithm to automate the production
+of the global map of the Zika pandemic. At the time, the ECDC published the
+Zika map on a weekly basis. And it took time and resources for the epidemicintelligence team to update it. So, for Bernard and Thibault algorithmic auto-mation made sense in the long term, but it also led to a lot of challenges.
+At the time of the meeting, Bernard had been working for months to create
+the Zika algorithm, and di ﬀerent disease surveillance organizations around the
+world had expressed interest in implementing this new algorithmic method-ology. It would be a load o ﬀthe epidemic intelligence team to automate the
+process. Assembling an outbreak takes a lot of work —and automating the
+process seems attractive in some rooms and situations.
+Our second ontological over ﬂow thus concerns data absences. Another chal-
+lenge is surveilling the world for disease. How to deal with those areas of theworld —like Chad —that don ’t have data? As we can see in the map below
+(see Figure 5 ), northern Chad was classi ﬁed as having no Zika risk. White,
+just as, for instance, southern France. However, in contrast to Chad, Franceis seen as having good surveillance data. But they are still both white spotson the map. They both show an absence of Zika.
+Chad and France are both classi ﬁed as having no Zika risk. White denoting
+‘Zika absence. ’The algorithm that Bernard and Thibault are constructing
+lumps together a literal white spot on the map —‘no data’— with countries
+that report zero cases. ‘No data’ is classi ﬁed in the same category as ‘zero
+conﬁrmed cases of Zika. ’The absence of data about Zika becomes equated
+with no con ﬁrmed disease cases.
+This we might call an overﬂow of scarcity, which is folded into the absence of
+Zika. These over ﬂows highlight when things are excluded from thingness
+because of lack: There is no data (Rappert, 2010 ; cf. Frickel, 2014 ).
+Overﬂows of conglomeration: risk and mosquito models
+But
+more over ﬂows in the assembling of the absence of Zika emerge here. If we
+return to the map in Figure 5 , we can note that southern Chad —which has no
+surveillance data—is tinted gray by the Zika algorithm, nevertheless indicating
+that there is a riskof transmission of Zika. However, the gray color, rather than
+being based on counting conﬁ rmed cases in time and space, is based on several
+diﬀerent resources: statistical modeling of the disease vector ’s habitat, the430 F. LEE
+spread of the dengue disease, a world climate classi ﬁcation ﬁrst constructed in
+1884, satellite climate imaging, entomological literature about mosquito pres-
+ence, and mosquito traps around the world (cf. Lee, 2021a ).
+But that also means that the white area on the map —the absence of Zika —
+includes all those resources to produce the absence of Zika risk. The absence ofZika not only contains the absence of laboratory-con ﬁrmed cases or the absence
+of disease surveillance data. The absence of Zika also encompasses modeledabsence of Zika risk. The absence of Zika multiplies again. Here, the Zika algor-ithm pulls in other computations, models, classi ﬁcations, and datasets—to
+model the absence of Zika risk.
+My informants ’understanding of mosquitos, and in particular, the Aedes
+aegypti species is key to understanding this ﬂurry of risk computation (see
+Figure 6 ). Importantly, apart from sexual transmission and transmission
+from mother to child, Zika is transmitted by the Aedes aegypti . The modeled
+risk for disease transmission—or the absence of risk for transmission—isassembled based on this assumption.
+One layer of the mosquito risk modeling that is included in the Zika map, is
+the so-called Köppen-Geiger global climate classi ﬁcation map, which was ﬁrst
+created in 1884, and has been updated over the years. The version used inassembling the Zika map was updated in 2007 (Peel et al., 2007 ). The
+Köppen-Geiger classi ﬁcation divides the world into climate zones (see Figure
+7) based on, for example, temperature and rainfall. By drawing on the
+Köppen-Geiger map, the assembled ECDC Zika risk map includes assumptionsabout mosquitos thriving in certain climate zones. The assumption is that Zikarisk exists where the climate zones are amenable to certain types of mosquitos.
+On the map of Zika risk in Figure 5 , we can observe that the risk for Zika in
+Chad follows the boundary between the red and orange climate zones in the
+Figure 5. Crop of the current Zika State (see Figure 2 ). Reproduced with permission.SCIENCE AS CULTURE 431
+Köppen-Geiger map below (Figure 7 ). The absence of Zika risk thus includes a
+particular climate classi ﬁcation.
+But the multiplicity of the absence of Zika risk does not end there, the
+modeled risk of Zika transmission —and its absence—also includes two compu-
+tational models.
+Figure 6. Infographic from the ECDC (Mosquito-borne diseases: An emerging threat, 2014 ).
+Reproduced with permission.
+Figure 7. Updated Köppen Geiger map (Peel et al. ,2007 ). Reproduced with permission.432 F. LEE
+Apart from the Köppen Geiger map, my interlocutors, Bernard, and Thibault
+had decided to include (1) a model of the geographical range of the Aedes
+aegypti and (2) a model of Dengue fever risk in the Zika risk computation.
+Theﬁrst model aimed to compute the presence of the Aedes aegypti mosquito,
+and the second attempted to compute the risk of Dengue fever, which is trans-
+mitted by the same mosquitos as Zika. These two maps were layered with theKöppen-Geiger map to produce the map of Zika risk. But also, the absenceof Zika risk. In Figure 8 , we can see the Aedes aegypti model in action (on
+the left), and the overlaying of the Köppen-Geiger map with the Aedes
+aegypti model (on the right).
+The two risk models were produced by a group of geographical risk modelers
+at Oxford University. These modelers combined climate data with mosquito
+sightings to model risk. That is, they used mathematical and statistical
+methods to predict for example where the Aedes aegypti roams, where the
+Aedes albopictus thrives, and, in line with how the transmission risk was under-
+stood, where the risk of Dengue and Zika transmission existed.
+The Aedes aegypti model and Dengue model were closely intertwined with
+each other, built on the same type of modeling, and drew on the same sets ofdata. The two di ﬀerent maps were produced using the same general method-
+ology and data sources.
+First, they included datasets on the presence of the mosquitos by compiling
+the geographical locations where they had been found. In the case of the Aedes
+aegypti maps, the modelers used several strategies. One strategy was to create a
+bespoke database using published literature in PubMed, Web of Science, andPromed. Furthermore, the modelers drew on geographical data about theenvironment, climate, geography, and population. These data were
+Figure 8. (Left) Reproduction of the Aedes aegypti model. (Right) Köppen-Geiger map. Repro-
+duced with permission.SCIENCE AS CULTURE 433
+mathematically transformed, using Fourier transformation, into cyclical wave-
+forms that could be correlated with the presence of the mosquitos ( Figure 9 ).
+The maps resulting from all these modeling endeavors were used to calculate
+the risk of Zika. Thus, the white area in northern Chad (Figure 5 ) not only con-
+tains the absence of cases or the absence of data. It also contains the computed
+absence of risk for Zika transmission.
+The di ﬀerent versions of absence were assembled into one visible white
+absence on the Zika map, making di ﬀerent versions of absence invisible.
+These versions were subsumed under the general category of absence of Zika.The multiplicities of absence of Zika became overﬂows of conglomeration ,
+where versions of objects are made absent based on a particular version becom-ing dominant. This type of over ﬂow has been brought into focus by Mol (2002 ),
+who showed how fractionality and multiplicity of objects are coordinated inpractice. Objects became more than one, less than many. And certain enact-ments become subjugated to the dominant version.
+In this case, the multiplicities of absence are excluded based on conglomerating
+disease cases, multiple layers of climate data, mosquito sightings, jungle
+expeditions, and risk computations. All of these become ontological over ﬂows in
+relation to the homogenizing and universalizing categories of the Zika map.
+Overﬂows of indeterminacy: ‘no prediction possible ’
+But the multiplicity of absence does not end here. In the absence of Zika is also
+included another absence: the absence of prediction. Here we are dealing with
+anoverﬂow of indeterminacy . This over ﬂow is not about missing cases, missing
+data or modeled absence of risk, but about the risk prediction models predict-
+ing neither absence nor presence. For instance, in the Dengue model, the
+Figure 9. An example of Fourier-transformed climate data from (Scharlemann et al. ,2008 ).
+Reproduced with permission.434 F. LEE
+absence of prediction looks like below (Figure 10 ). Note the gray parts in the
+map, which denotes ‘no prediction possible. ’
+The reason for what the modelers dub ‘no prediction’ is given in another
+paper attempting to predict the habitat of the Tsetse ﬂy, which emphasizes
+that all environmental conditions will not have been captured by the model
+and that when the environment is too di ﬀerent, they prefer creating a category
+of‘no prediction’ :
+Mapped outputs record the similarity of each pixel in an entire set of satellite images
+to the satellite-determined environmental characteristics of the training set sites.Obviously for this to be successful the training set should have captured the entire
+range of conditions present throughout the area for which predictions will eventuallybe made. This is not always the case, and it is then preferable to identify in theoutput image a separate category of ‘no prediction ’for those areas where the environ-
+mental conditions are some speci ﬁc minimum distance (in multivariate space) away
+from any of the training set clusters (Rogers and Robinson, 2004 , p. 144. My
+emphasis).
+This means that the training set, that is the data about where the Aedes mos-
+quito roams, does not encompass certain environments on the globe. When
+the‘environmental distance ’distance is too great the uncertainty becomes
+too big. In such cases, the modelers opt for not predicting risk at all. Anabsence of prediction, an over ﬂow of indeterminacy.
+But further over ﬂows are part of the absence of Zika. There are also limits to
+which satellite data is deemed interesting by the modelers. For the Dengue fevermodel, no climate data were downloaded above 90°N and below 60°S, which isvisible as a sharp line cutting through the northern part of the world ( Figure
+10). Ocean areas and ocean tiles containing ‘small islands, ’were excluded
+from the climate dataset using a digital elevation model. Algorithmic ‘quality
+control ’excluded certain areas, due to, for example, cloud cover (Hay and
+Rogers, 2012 , p. 19). The absences multiply. Ontological over ﬂowsabound.
+Figure 10. Climactic suitability of Dengue fever transmission (Hay and Rogers, 2012 , p. 10).
+Reproduced with permission.SCIENCE AS CULTURE 435
+Overﬂows of indeterminacy point us toward the production of irresolution
+and uncertainty, toward the ambiguous, undetermined, and unresolved.
+Attending to how objects balance on the edge of becoming or not becoming.Resolution into an object or not an object is uncertain. The object is teeteringon the brink of reality. The indeterminacies might never resolve (MacKenzie,1998 ; Zehr, 2000 ; Vogel et al., 2021 ). A veritable multitude of absences. And
+certainly, an over ﬂow of conglomeration. The version of absence that is
+made manifest in the absence-of-Zika seems stable and coherent, while a mul-titude of absence versions are Othered, they are excluded and made absent (cf.Law, 2004 ).
+Concluding discussion
+The purpose of this article has been to articulate an analytical strategy that we
+can use to analyze the ontological politics of exclusion in technoscience. I haveproposed that we can use a strategy focused on ontological overﬂ ows to pay
+attention to that which is cut and rejected from dominant technoscienti ﬁc rea-
+lities. To demonstrate the usefulness of this analytical strategy I have followedthe production of the Zika epidemic at the European Centre for DiseaseControl and Prevention (ECDC) in the mid-2010s. In particular, I have paidattention to the practical production of the absence of Zika. What this analyticalstrategy oﬀ ers is a systematic sensitivity to the various ways in which phenom-
+ena are excluded in technoscienti ﬁc processes. Above, I have attended to four
+ontological over ﬂows, four moments of exclusion, where things are cut from
+the epidemic—to produce the absence of Zika.
+An important overarching point of departure has been how the complexity
+of modern disease surveillance —any complex global technoscienti ﬁc object—
+abounds with overﬂows of conglomeration . Multiple versions of a phenomenon
+are folded together thus occluding particular versions of the world from view(cf. Mol, 2002 ; Lee et al. ,2019 ).The homogeneous image of the absence of
+Zika—the white areas that surround the epidemic on the map —obscures a mul-
+titude of exclusions, decisions, and assumptions that are part and parcel of thepractices of exclusion in technoscience. The homogenization of di ﬀerent
+phenomena into a zone of absence of Zika, risks concealing many decisionsand processes that are of great import for understanding and acting onphenomena —not least epidemics.
+I also considered overﬂows of exclusion—the practices where it was decided if
+a disease case should count as a disease case or not, what Martin and Lynchhave aptly titled ‘the practices and politics of counting ’(Martin and Lynch,
+2009 ). In this, I highlighted the usefulness of attending to which cases are cut
+from a class of phenomena. I foregrounded the mundane work of exclusion:What does not count as a disease case for the actors? What exclusions do wesee when we pay attention to how actors decide what does not count as a436 F. LEE
+thing? What objects are thrown on the mundane scrap heaps of ontology? By
+following these mundane practices of exclusion, we can learn about themaking of the boundaries of presence and absence. In the case of epidemics,
+the negotiation of these mundane boundaries becomes matters of greatimport leading to political and practical action. As we have seen during theCOVID-19 pandemic, disease curves, epidemiological models, and politicaldecision-making hinge on these mundane decisions of counting cases. Whatcomes to count as a non-case is a momentous decision.
+I also attended to overﬂows of scarcity. In this, I showed how the actors pro-
+duced one object, absence of data , as a part of another object, absence of Zika.
+Attending to this type of over ﬂow directs our attention to how actors produce
+and handle absences. How are absences put together? Are they brought into
+visibility by actors? Are they hidden away? In this case, actors ’production of
+absence incorporated their normative expectations of what should exist—data
+about the Aedes aegypti mosquito —while simultaneously making some of
+these absences invisible. Thus, absence is produced closely intertwined with
+actors ’normativities about what should exist in the world (cf. Lee and Björk-
+lund Larsen, 2019 ). What should have been present? For instance, during the
+COVID-19 epidemic, the lack of data from testing became a political hotpotato —the testing data should exist, while in this case the lack of data from
+Chad during the Zika pandemic was passed over as regrettable and made invis-ible—there was an acceptance of absence. Thus, what the actors produce as an
+absence has both practical and political consequences for which technoscien-tiﬁc normativities become dominant —what is an absence worth caring for?
+Finally, I attended to overﬂows of indeterminacy . Here I highlighted how
+actors at the ECDC handled computational and predictive uncertainty in prac-tice. In this, I showed how the actors translated predictive uncertainties intoabsences-of-prediction, and how these absences of prediction, in turn, weretranslated into absence of Zika. That is, the absence of prediction about therange of mosquitoes translated into an absence-of-Zika risk. By paying attentionto over ﬂows of indeterminacy we learned about how actors make uncertainty
+part of the world —or not. In this case, the actors ’setting of thresholds of uncer-
+tainty and certainty, became translated into the absence and presence of Zikarisk. How then do actors handle uncertainties or certainties in practice? In anincreasingly algorithmic and predicted world, these practices of settingthresholds of prediction and risk are hugely political. How actors handle theseindeterminacies has consequences for how epidemics are handled. For instance,the uncertainty or certainty of the multitude of models of the COVID-19 pan-demic induced both political action and inaction at di ﬀerent times (cf. Engel-
+mann et al., 2022 ). Thresholds of uncertainty or certainty produce action.
+In conclusion, my intention here has been to propose an analytical strategy
+paying attention to over ﬂows and the production of absences to better under-
+stand the high-tension zones of technoscience (cf. Star, 1990 ). The productionSCIENCE AS CULTURE 437
+of absence is closely tied to questions of practical and political import —there be
+dragons in the white areas on the map. The analytical strategy of paying attention
+to over ﬂows and absences has shown how we can attend to some politics of tech-
+noscience. Thinking about what is made to overﬂ o wa n dw h a ti sm a d ea b s e n ti s
+about the politics of exclusion —about boundaries, normativities, and thresholds.
+In my case, the actors constantly struggled with performing reality, making
+ontologies, in their mundane everyday practices. Is the case laboratory-conﬁrmed? Is the geographical area too far north or south to be included? Is
+the area at sea level? Is something an object or the result of noise? In sum, todemonstrate the usefulness of paying attention to ontological overﬂ ows, I fol-
+lowed the actors ’practices to decide where the epidemic was not present. I fol-
+lowed their construction of the absence of Zika, to shed light on the various
+overﬂows and absences that were enacted in tracing the epidemic.
+I join several others in arguing that STS needs to pay more attention to the
+ﬂip side of construction—the de-construction of phenomena, objects, and
+people. This perspective shift —paying attention to over ﬂows rather than enact-
+ments—allowed me to pay attention to what was excluded and cut from the
+Zika epidemic. My hope is twofold: ﬁrst, we can use this strategy to break
+free from the matters of concern of the actors, to highlight the processes of
+exclusion and cutting and the objects that are cut (cf. Star, 1990 ,1991 ;
+Bowker and Star, 1999 ; Latour, 2012 ). Second, we can create not only construc-
+tion stories but stories about the destruction and cutting of phenomena (cf.Frickel, 2014 ). To use a strategy that highlights cutting and over ﬂowing
+rather than construction and framing (cf. Callon, 1998 ). To highlight exclusion
+rather than construction (cf. Callon, 1984 ).
+However, attending to over ﬂows can never be a conclusion, but must be a start-
+ing point for understanding how things are excluded. Tracing over ﬂows means to
+trace how certain objects in the world (data, animals, people, and countries)become excluded in practice. By attending to over ﬂows I want to continue the
+work in STS to remain inclusive of the missing masses —analyzing truths and fal-
+sities, agencies, natures and societies, multiplicities and fractionalities, as well as
+the objects that are excluded by our interlocutors. By attending to overﬂ ows we
+can continue to attend to the silenced, excluded, and othered.
+Disclosure statement
+No potential conﬂ ict of interest was reported by the author(s).
+Funding
+This work was supported by the Wallenberg Al, Autonomous Systems and Software
+Program –Humanities and Society (WASP-HS), as well as the Marianne and Marcus Wal-
+lenberg Foundation and the Swedish Research Council.438 F. LEE
+Notes on contributor
+Francis Lee is an associate professor at the Division for Science, Technology, and Society at
+the Chalmers University of Technology. One of his main research interests is how digital
+information infrastructures shape knowledge production. He has published in, for
+example, Science, Technology and Human Values; Science as Culture; Valuation Studies,
+and History and Technology. He has edited the Value Practices in the Life Sciences(Oxford University Press, 2015). He is currently directing the research program ‘A New
+Scienti ﬁc Revolution? Big Data and AI in the Biosciences ’and heading up the Digital STS
+Hub. See https://francislee.org .
+ORCID
+Francis Lee http://orcid.org/0000-0002-7206-2046
+References
+Barnes, B. (1977 )Interests and the growth of knowledge . London: Routledge.
+Bergson, H. (1944 )Creative Evolution (New York: Random House).
+Blumer, H. (1954 ) What is wrong with social theory? American Sociological Review , 19(1),
+pp. 3 –10. doi:10.2307/2088165
+Bowker, G. C. (2000 ) Biodiversity datadiversity, Social Studies of Science , 30(5), pp. 643 –683.
+doi:10.1177/030631200030005001 .
+Bowker, G. C. and Star, S. L. (1999 )Sorting Things Out: Classiﬁcation and its Consequences
+(Cambridge: MIT Press).
+Caduﬀ,C .( 2015 )The Pandemic Perhaps: Dramatic Events in a Public Culture of Danger
+(Oakland: University of California Press).
+Callon, M. (1984 ) Some elements of a sociology of translation: Domestication of the scallops
+and the ﬁshermen of St Brieuc Bay, The Sociological Review , 32(1), pp. 196 –233. doi:10.
+1111/j.1467-954X.1984.tb00113.x .
+Callon, M. (1998 ) An essay on framing and over ﬂowing: Economic externalities revisited by
+sociology, The Sociological Review , 46(1_suppl), pp. 244 –269. doi:10.1111/j.1467-954X.
+1998.tb03477.x .
+Callon, M. and Latour, B. (1992 ) Don ’t throw the baby out with the bath school! A reply to
+Collins and Yearley, in: A. Pickering (Ed.) Science as Practice and Culture , pp. 343 –368
+(Chicago: University of Chicago Press).
+Collins, H. M. (1981 ) Son of seven sexes: The social destruction of a physical phenomenon,
+Social Studies of Science , 11(1), pp. 33 –62.
+Collins, H. M. and Yearley, S. (1992 ) Epistemological chicken, in: A. Pickering (Ed.) Science
+as Practice and Culture , pp. 301 –326 (Chicago: University of Chicago Press).
+Croissant, J. L. (2014 ) Agnotology: Ignorance and absence or towards a sociology of things
+that aren ’t there, Social Epistemology , 28(1), pp. 4 –25. doi: 10.1080/02691728.2013.862880
+de la Bellacasa, M. P. (2011 ) Matters of care in technoscience: Assembling neglected things,
+Social Studies of Science , 41(1), pp. 85 –106. doi:10.1177/0306312710380301
+de la Bellacasa, M. P. (2016 ) Ecological thinking, material spirituality, and the poetics of
+infrastructure, in: G.C. Bowker et al. (Eds) Boundary Objects and Beyond (The MIT
+Press). doi:10.7551/mitpress/10113.003.0005 .
+Engelmann, L., et al. (2022 ) Domesticating models: On the contingency of Covid-19 mod-
+elling in UK media and policy, Social Studies of Science . doi:10.1177/03063127221126166 .SCIENCE AS CULTURE 439
+European Centre for Disease Prevention and Control. ( 2016 )Interim Guidance for
+Healthcare Providers and Zika Virus Laboratory Diagnosis . Technical Document.
+Stockholm: European Centre for Disease Prevention and Control, p. 5.
+European Centre for Disease Prevention and Control. ( 2019 )Zika Virus Disease: Annual
+Epidemiological Report for 2017. Annual Epidemiological Report. Stockholm: European
+Centre for Disease Prevention and Control.
+European Centre for Disease Prevention and Control. ( 2021 )Zika Virus Disease: Annual
+Epidemiological Report for 2019. Annual Epidemiological Report. Stockholm: European
+Centre for Disease Prevention and Control.
+Frickel, S. (2014 ) Absences: Methodological note about nothing, in particular, Social
+Epistemology , 28(1), pp. 86 –95. doi:10.1080/02691728.2013.862881
+Garﬁnkel, H. (1963 ) A conception of, and experirncnts with, “Trust ”as a condition of stable
+concerted actions, in: O.J. Harvey (Ed.) Motivation and Social Interaction: Cognitive
+Determinants , pp. 187 –238 (New York: The Ronald Press Company).
+Haraway, D. J. (Ed) (1991 ) Situated knowledges : The science question in feminism and the
+privilege of partial perspective, in: Simians, Cyborgs, and Women : The Reinvention of
+Nature , pp. 183 –201 (New York: Routledge).
+Harding, S. (1991 ) Feminist standpoint epistemology, in: I. Bartsch, and M. Lederman (Eds)
+The Gender and Science Reader, pp. 145 –168 (London: Routledge).
+Hay, S. and Rogers, D. J. (2012 )The Climatic Suitability for Dengue Transmission in
+Continental Europe (Stockholm: ECDC), pp. 1 –27.
+Hess, D. J. (2016 )Undone Science: Social Movements, Mobilized Publics, and Industrial
+Transitions (Cambridge, MA: MIT Press).
+Hess, D. J. (2022 ) Undone science and social movements: A review and typology, in:
+Routledge International Handbook of Ignorance Studies , 2nd ed. pp. 167 –177 (Routledge).
+Kameda, K., et al. (2021 ) Imperfect diagnosis: The truncated legacies of Zika testing, Social
+Studies of Science , 51(5), pp. 683 –706. doi:10.1177/03063127211035492
+Keck, F. (2020 )Avian Reservoirs: Virus Hunters and Birdwatchers in Chinese Sentinels Posts
+(Durham: Duke University Press).
+Kelly, A. H., et al. (2020 ) Uncertainty in times of medical emergency: Knowledge gaps and
+structural ignorance during the Brazilian Zika crisis, Social Science & Medicine , 246
+(February), pp. 1 –9. doi:10.1016/j.socscimed.2020.112787
+Knorr-Cetina, K. (1981 )The Manufacture of Knowledge: An Essay on the Constructivist and
+Contextual Nature of Science (Oxford: Pergamon Press).
+Kourany, J. A. and Carrier, M. (Eds) ( 2020 )Science and the Production of Ignorance: When
+the Quest for Knowledge is Thwarted (Cambridge: The MIT Press).
+Lakoﬀ,A .( 2017 )Unprepared: Global Health in a Time of Emergency (Oakland: University of
+California Press).
+Latour, B. (1987 )Science in Action (Cambridge, MA: Harvard UP).
+Latour, B. (1988 )The Pasteurization of France (Cambridge: Harvard University Press).
+Latour, B. (2004 ) Why has critique run out of steam? From matters of fact to matters of
+concern, Critical Inquiry , 30, pp. 225 –248.
+Latour, B. (2005a ) From realpolitik to dingpolitik or how to make things public, in: B.
+Latour, and P. Weibel (Eds) Making Things Public: Atmospheres of Democracy , pp. 4 –
+31 (Cambridge: MIT Press).
+Latour, B. (2005b )Reassembling the Social: An Introduction to Actor-Network-Theory
+(Oxford: Oxford University Press).
+Latour, B. (2012 ) Paris, invisible city: The plasma, City, Culture and Society , 3(2), pp. 91 –93.
+doi:10.1016/j.ccs.2011.11.002440 F. LEE
+Latour, B. and Woolgar, S. (1986 )Laboratory Life: The Construction of Scienti ﬁc Facts , 2nd
+ed. (Princeton, NJ: Princeton University Press).
+Law, J. (1997 ).Traduction-Trahison: Notes on ANT . Available at: http://www.comp.lancs.ac.
+uk/sociology/papers/Law-Traduction-Trahison.pdf .
+Law, J. (2002 )Aircraft Stories: Decentering the Object in Technoscience (Durham, NC: Duke
+University Press (Science and cultural theory)).
+Law, J. (2004 )After Method: Mess in Social Science Research (London: Routledge
+(International Library of Sociology)).
+Lee, F., et al. (2019 ) Algorithms as folding: Reframing the analytical focus, Big Data &
+Society , 6(2), pp. 1 –12. doi:10.1177/2053951719863819 .
+Lee, F. (2021a ) Enacting the pandemic: Analyzing agency, opacity, and power in algorithmic
+assemblages, Science & Technology Studies , 34(1), pp. 65 –90. doi:10.23987/sts.75323 .
+Lee, F. (2021b ) Sensing Salmonella: Modes of sensing and the politics of sensing infrastruc-
+tures, in: N. Witjes, N. Pöchhacker, and G.C. Bowker (Eds) Sensing In/Security: Sensors as
+Transnational Security Infrastructures , pp. 97 –131 (London: Mattering Press).
+Lee, F. (2023 ) Detecting the unknown in a sea of knowns: Health surveillance, knowledge
+infrastructures, and the quest for classi ﬁcation egress, Science in Context , pp. 1 –20.
+Available at: https://doi.org/10.1017/S0269889723000133 .
+Lee, F. and Björklund Larsen, L. (2019 ) How should we theorize algorithms? Five ideal types
+in analyzing algorithmic normativities, Big Data & Society , 6(2), pp. 1 –6. doi: 10.1177/
+2053951719867349.
+Lee, N. and Brown, S. (1994 ) Otherness and the actor network: The undiscovered continent,
+American Behavioral Scientist , 37(6), pp. 772 –790. doi:10.1177/0002764294037006005 .
+Lynch, M. (2013 ) Ontography: Investigating the production of things, de ﬂating ontology,
+Social Studies of Science , 43(3), pp. 444 –462. doi: 10.1177/0306312713475925 .
+MacKenzie,
+D. A. (1978 ) Statistical theory and social interests: A case-study, Social Studies of
+Science , 8(1), pp. 35 –83. doi:10.1177/030631277800800102 .
+MacKenzie, D. A. (1981 )Statistics in Britain, 1865-1930 : The Social Construction of
+Scienti ﬁc Knowledge / Donald A. MacKenzie (Edinburgh: Edinburgh University press).
+MacKenzie, D. A. ( 1998 ) The certainty trough (Chapter 15), in: Williams, R., W. Faulkner,
+and J. Fleck, (Eds) Exploring Expertise: Issues and Perspectives , pp. 325 –329 (London:
+Palgrave Macmillan).
+Marcus, G. E. (1995 ) Ethnography in/of the world system: The emergence of multi-sited eth-
+nography, Annual Review of Anthropology , 24(1), pp. 95 –117. doi:10.1146/annurev.an.24.
+100195.000523 .
+Martin, A. and Lynch, M. (2009 ) Counting things and people: The practices and politics of
+counting, Social Problems , 56(2), pp. 243 –266. doi:10.1525/sp.2009.56.2.243 .
+Mol, A. (1999 ) Ontological politics: A word and some questions, in: J. Law, and J. Hassard
+(Eds) Actor-Network Theory and After , pp. 74 –89. (Oxford: Blackwell)
+Mol, A. (2002 )The Body Multiple: Ontology in Medical Practice (Durham: Duke UP).
+Mosquito-borne diseases: An emerging threat. 2014 .European Centre for Disease Prevention
+and Control . Available at: https://www.ecdc.europa.eu/en/publications-data/mosquito-
+borne-diseases-emerging-threat (accessed 6 May 2021).
+Muniesa, F. (2019 ) Societe du comportement, information de la sociologie, Zilzel , 2019/1(5),
+pp. 196 –207.
+Oreskes, N. and Conway, E. M. (2011 )Merchants of Doubt: How a Handful of Scientists
+Obscured the Truth on Issues from Tobacco Smoke to Climate Change , Reprint ed.
+(New York, NY: Bloomsbury Publishing).SCIENCE AS CULTURE 441
+Peel, M. C., Finlayson, B. L. and McMahon, T. A. ( 2007 ) Updated world map of the Köppen-
+Geiger climate classi ﬁcation, Hydrology and Earth System Sciences Discussions , 11(5),
+pp. 1644.
+Proctor, R. and Schiebinger, L. L. (Eds) ( 2008 )Agnotology: The Making and Unmaking of
+Ignorance (Stanford, CA: Stanford University Press).
+Puig de la Bellacasa, M. (2015 ) Making time for soil: Technoscienti ﬁc futurity and the pace
+of care, Social Studies of Science , 45(5), pp. 691 –716. doi:10.1177/0306312715599851
+Rappert, B. (2010 ) Revealing and concealing secrets in research: The potential for the absent,
+Qualitative Research, 10(5), pp. 571 –587. doi:10.1177/1468794110375229
+Rogers, D. J. and Robinson, T. P. (2004 ) Tsetse distribution, in: I. Maudlin, P.H. Holmes,
+and M.A. Miles (Eds) The Trypanosomiases , pp. 139 –179 (Wallingford: CABI Pub).
+Scharlemann, J. P. W., et al. (2008 ) Global data for ecology and epidemiology: A novel algor-
+ithm for temporal Fourier processing MODIS data, PLoS One , 3(1), pp. e1408. doi: 10.
+1371/journal.pone.0001408.
+Star, S. L. (1990 ) Power, technology and the phenomenology of conventions: On being aller-
+gic to onions, The Sociological Review , 38(1 Supplement), pp. 26– 56. doi:10.1111/j.1467-
+954X.1990.tb03347.x .
+Star, S. L. (1991 ) The sociology of the invisible: The primacy of work in the writings of
+Anselm Strauss, in: Maines, David R (Ed) Social Organization and Social Process:
+Essays in Honor of Anselm Strauss , pp. 265 –283 (New York, NY: Aldine de Gruyter
+Hawthorne).
+Star, S. L. (Ed.) (1995 )Ecologies of Knowledge: Work and Politics in Science and Technology
+(Albany: State University of New York Press (SUNY series in science, technology, and
+society)).
+Star, S. L. and Strauss, A. (1999 ) Layers of silence, arenas of voice: The ecology of visible and
+invisible work, Computer Supported Cooperative Work (CSCW) , 8(1), pp. 9 –30. doi:10.
+1023/A:1008651105359 .
+Strathern, M. (2004 )Partial Connections (Walnut Creek: Rowman Altamira).
+Traweek, S. (1988 )Beamtimes and Lifetimes: The World of High Energy Physicists
+(Cambridge, MA: Harvard Univ. Press).
+Vogel, E., et al. (2021 ) Thinking with imposters: The imposter as analytic, in: The Imposter
+as Social Theory: Thinking with Gatecrashers, Cheats and Charlatans (Bristol: Bristol
+University Press). Available at: http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-449933
+(accessed 16 September 2021).
+Woolgar, S. and Neyland, D. (2013 )Mundane Governance: Ontology and Accountability
+(Oxford University Press). doi: 10.1093/acprof:oso/9780199584741.001.0001
+Woolgar, S. and Pawluch, D. (1985 ) Ontological gerrymandering: The anatomy of social
+problems explanations, Social Problems , 32(3), pp. 214 –227. doi:10.2307/800680 .
+Zehr, S. C. (2000 ) Public representations of scienti ﬁc uncertainty about global climate
+change, Public Understanding of Science , 9(2), pp. 85 –103. doi:10.1088/0963-6625/9/2/
+301.
+Ziewitz, M. (2016 ) Governing algorithms: Myth, mess, and methods, Science, Technology, &
+Human Values , 41(1), pp. 3 –16. doi:10.1177/0162243915608948 .442 F. LEE

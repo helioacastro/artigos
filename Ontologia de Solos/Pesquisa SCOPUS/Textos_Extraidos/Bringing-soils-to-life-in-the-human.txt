@@ -1,0 +1,1027 @@
+Soil Security 10 (2023) 100082
+Available online 11 December 2022
+2667-0062/© 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-
+nc-nd/4.0/ ).Bringing soils to life in the human and social sciences 
+C˘eline Granjoua,*, Germain Meulemansb 
+aInrae Grenoble, Associate Researcher at Inrae ETTIS - Bordeaux, Research director at INRAE Lessem - Univ. Grenoble Alps, 2 rue de la Papeterie BP 76, Lisis - Paris 
+Marne la Vall˘ee, Saint Martin d’Hˇeres 38 400, France 
+bResearch fellow at CNRS, Centre Alexandre Koyr˘e, Paris, France   
+ARTICLE INFO  
+Keywords: 
+Social sciences 
+Soil knowledge 
+Soil life 
+Materiality 
+Soil/society relations ABSTRACT  
+Despite their key importance for ecosystems and societies, soils have long remained a peripheral topic in the 
+human and social sciences. Our paper aims to account for the recent, fast-growing literature in human and social 
+sciences on soils. We first highlight social sciences ’ shared concern for unsettling common visions of soil as a 
+surface, a background or a taken for granted stock of resources; then we show that the works at stake differ in 
+terms of: (i) their linkage with soil science disciplines and fields, (ii) the social science theories they mobilise, (iii) 
+their main contributions, and (iv) their approach to soil materialities and agencies. Following these criteria, we 
+present three strands of research on soil-related issues: (1) Literature bearing on the politics of soil knowledge 
+investigates how soil becomes an object of knowledge and management; (2) Soil new materialism addresses 
+practices and ethics ofcaring for the living soil; (3) Soil decolonial studies unravel soils ’ powers and the 
+intertwined agencies of soils and societies. By examining these research agendas, we suggest that social and 
+human thinkers have, in the past two decades, tended to shift from a focus on the socially constructed nature of 
+soils, to a growing emphasis on soils ’ own biophysical agency in shaping societies, also in line with soil sciences 
+insights and works. We argue that the increasing uptake of soil in human and social sciences contributes to an 
+increasing concern for achieving better theoretical and empirical accounts of the co-constitution of society and 
+the material world.   
+1.Introduction 
+Despite their key importance for ecosystems and societies, soils have 
+long remained a peripheral topic in the human and social sciences. As 
+Swidler (2009) argued over a decade ago, during the biggest part of the 
+20th century, canonical view of soil in the human and social sciences 
+were often based on a possibilist model whereby soils were seen as a 
+mere resource for the development of human societies. These views 
+rarely aligned with soil sciences views about the dynamic nature of soils 
+and their morphology, but rather with the relatively static agronomical 
+and physicochemical approaches that dominated the second half of the 
+twentieth century. During this period, according to Winiwarter (2014) , 
+agronomy broadcasted a limited conception of soil fertility based on a 
+few agronomic factors, and tended to reduce it to a simple substrate able 
+to absorb the nutrients necessary for the growth of cultivated plants. 
+Despite notable breakthroughs inspired by pedology and soil mapping – 
+such as the unpacking of various indigenous soil classification systems 
+by ethno-pedologists (Barrera-Bassols and Zinck, 2003 ), or the study of 
+the social causes of erosion by political ecology (Blaikie, 1985 ) – the majority of social and human scientists continued to see soil as a natural 
+variable, a stock of resources, and a simple material basis for the social 
+dynamics that play out on its surface. 
+Soil scientists, on their part, have long contemplated how human 
+activities could be taken into account in their own discipline. Even 
+though Hans Jenny ’s original formulation of the five factors of soil 
+formation (1941 ) did not directly include humans, Jenny insisted that 
+humans have the ability to modify and alter these factors. He later stated 
+that humans were in fact a subset of the ‘organism ’ factor (Amundson 
+and Jenny, 1991 ), a rather naturalizing view of human activities. Others 
+later considered that humans should be thought of as a separate an-
+thropic factor (Effland and Pouyat, 1997 ) or ‘sixth factor ’ of soil for-
+mation (Dudal, 2004 ). Towards the end of the century, these discussions 
+gained importance as the scale of human modification of the earth ’s soils 
+became more apparent. Lehmann and Stahr (2007) prompted the soil 
+sciences to better develop a basic understanding of the functioning of 
+anthropogenic soils, while Richter et al. (2011) insisted that pedology 
+should altogether redefine itself as ‘anthropedology, ’ a proposed disci-
+plinary development that understands human activities as integral to 
+*Corresponding author. 
+E-mail address: Celine.granjou@inrae.fr (C. Granjou).  
+Contents lists available at ScienceDirect 
+Soil Security 
+u{�~zkw! s{yo| kro>! ÐÐÐ1�mt ozmont~om�1 m{y2u{�~zk w2�{tw/�om�~t �Þ!
+https://doi.org/10.1016/j.soisec.2022.100082 
+Received 11 May 2022; Received in revised form 29 November 2022; Accepted 7 December 2022   
+Soil Security 10 (2023) 100082
+2soil genesis. In 2006, the new soil group Technosol made its appearance 
+in the FAO ’s World Reference Base for Soil Resources (WRB), referring 
+to soils and ground types that have been formed or heavily modified by 
+human activities. Even though these attempts have attracted some 
+criticisms because of the somewhat generic understanding of humans 
+and techniques that they encompass (Engel-Di Mauro, 2014 ) based on 
+de-historicised, de-contextualised, and de-politicized concepts of 
+‘anthropos ’ and ‘techne ’, they have helped develop a better mutual 
+understanding between very separate disciplines. The attention towards 
+anthropogenic soils has raised difficult questions about how humans ’ 
+and other animals ’ actions differ, how technique comes to bear its mark 
+on the environment to the point that it becomes hard to differentiate the 
+two, and how to live on a planet that has become durably degraded. 
+Interestingly, these questions are also at the core of new approaches 
+to soils in the humanities and social sciences that we address here. In 
+contrast with earlier static approaches to soil, we have been witnessing 
+an ecological turn of the soil sciences since the turn of the 21st century, 
+relying on a (re)affirmation of the ‘living ’ nature of soil and bolstered by 
+a new interest in the microbial life that inhabits and creates it. The 
+notion of ‘living soils ’ (Gobat et al., 2004 ) – although not exactly a new 
+idea (Balfour, 1943 ; Pessis, 2020 ) –has progressively gained new trac-
+tion in the fields of pedology, ecology, decontamination and agronomy 
+as well as in national and international institutions, opening up aware -
+ness to the role of microbiota within the functioning of the biosphere, as 
+well as a ‘downward ’ extension of the scope of inventorying and con-
+servation concerns around soil meso- and micro-biodiversity. Soil, now 
+described as the ‘last biotic frontier ’ (Andr ˘e et al., 1994 ), is increasingly 
+viewed as the earth ’s largest reservoir of biodiversity, with one gram of 
+soil harbouring up to one million different organisms (Bardgett & van 
+der Putten, 2014 ), most of which are yet to be described or even 
+identified. 
+These new views also paralleled unprecedented attention to soils in 
+the global environmental agenda (Hartemink, 2008 ; Hartemink and 
+McBratney, 2008 ), as evidenced by the revision of the World Soil 
+Charter and the launch in 2015 of the International Decade of Soils, and 
+by the recent publication, alongside reports on global desertification 
+(UNCCD, 2014 ), of reports examining the link between soil degradation 
+and issues pertaining to biodiversity loss (IPBES, 2019 ) and climate 
+change (IPCC, 2019 ), that all stress the rapid degradation of soils at the 
+global level. These reports warn that nearly 33 percent of the world ’s 
+soils have been irretrievably degraded by human activity (FAO & ITPS, 
+2015 ), that 24 billion tonnes of fertile soil is lost each year (UNCCD, 
+2014 ), and that soil in agricultural zones is lost 10 to 40 times faster than 
+it is in natural soil formation and replenishment processes (Pimentel and 
+Burgess, 2013 ). They stress that beyond concerns about threats to soil 
+biodiversity, knowledge of soils is becoming ever more vital to the 
+identification, management and securing of a wide range of ‘services ’ 
+(Robertson, 2012 ; Mc Bratney et al., 2014 ; Baveye et al., 2016 ) provided 
+by soils, including food provision, waste decomposition, water filtration, 
+climate regulation. This rise of soils as a topic in global environmental 
+agendas and programs was also fostered by the rise of more holistic 
+approaches in soil research, leading to the merging of traditional soil 
+and agronomy programs into more environmentally related de-
+partments at the level of university training, and to new linkages and 
+partnerships between pedology, agronomy and related sciences (geo-
+morphology, climate science, etc.). 
+This suggests how the soil sciences have moved from an agronomic 
+model of the soil as a ‘stock ’–a fertile capital subject to human 
+appropriation – to a more ecological model approaching the soil as a 
+dynamic and vulnerable ecosystem continuously produced by the ac-
+tivity of a myriad of organisms that populate it and degrade, transform 
+and combine the materials that constitute it (Lavelle and Spain, 2001 ; 
+Gobat et al., 2004 ; see also Churchman, 2010 for more details on the 
+holistic focus on soil that has long been specific to soil sciences beyond 
+the diversity of their sub-disciplines). In this review article, we assess 
+how these new perspectives on soils as an animated compound, located in the physical and life sciences, offer possibilities for new articulations 
+and understandings of soil-human relations in the human and social 
+sciences. 
+We show that, paralleling the ecological turn in soil sciences and the 
+rising focus on dynamic, living soils, recent literature demonstrates the 
+emergence of a variety of new strands of research and thinking in the 
+human and social sciences related to soils, that share a key concern for 
+unsettling common visions of soil as a surface, a background or a pre- 
+existing, taken for granted stock of resources for human enhancement 
+and cultivation, and provide distinct understandings of soil activity and 
+agency. By focusing on new objects such as public soil policies (Howard 
+and Lawson, 2015 ), urban soils (Meulemans, 2020b ), urban gardening 
+(Mcclintock, 2010 ), the greening of tillage in agriculture (Krzy-
+woszynska, 2019 ), relationships to soil microfauna in alternative agri-
+culture (Birnbaum and Fox, 2014 ), or the use of soil as a convenient 
+receptacle for a variety of wastes (Hird and Clark, 2013 ), these works 
+take note of new approaches to ‘living soil’ (as unfolding in the natural 
+sciences) and suggest to ‘think with soil from the social sciences ’ (Sal-
+azar et al., 2020 ). They call for new approaches to soil, in the dual sense 
+of territory and living substance, that would be able to take the measure 
+of the fundamental importance and vulnerability of underground life 
+forms. Our key point is that this developing literature does not only 
+address the variety of people ’s engagements with soils and the socially 
+constructed nature of soils: it also highlights the embeddedness of social 
+and political patterns within soil shifting ecologies and biophysical dy-
+namics, thus putting a growing emphasis on the importance of soils ’ own 
+biophysical agency in building and shaping societies. This tendency thus 
+tends to give more room for the consideration of the nature, functioning 
+and evolution of soils within the human and social sciences works and 
+literature, as they increasingly recognize that soils are not just as a mere 
+stock, or a set of inert resources for human use and exploitation, but are 
+instead active, dynamic and vulnerable ecosystems. 
+Rather than providing an all-encompassing review of this literature, 
+this paper is intended as a reflexive report and discussion of the fast- 
+growing literature addressing soils in the human and social sciences in 
+the last two decades. Starting from the observation that these works are 
+broadly located in Human Geography (see Table 1), but differ in terms of 
+(i) their linkage with certain soil science disciplines and fields, (ii) the 
+social science fields and theories they mobilise, (iii) their main contri -
+butions, and (iv) their approach to soil materialities and agencies, we 
+identify and present three strands of social research on soil-related 
+issues: 
+(i)The first set addresses the politics of soil knowledge, i.e. in-
+vestigates how soil becomes an object of knowledge and man-
+agement in various human groups and communities.  
+(ii) The second set addresses practices and ethics ofcaring for the 
+living soil and documents the development of new relations and 
+attunements with soil biota beyond productivist and tech-
+noscientific practices of soil fertilisation and control; this 
+research calls for a better recognition of the agencies and 
+vulnerability of the living soil.  
+(iii) The third set of literature offers decolonial approaches to soils, i. 
+e. unravels soils ’ powers and the intertwined agencies of soils and 
+societies; this research encompasses land and deep soils and 
+stresses the role of soils in shaping not only the material basis for 
+human life but also various political organisations and philo -
+sophical ideas across humankind development. 
+It should be noted that this typology does not correspond to well- 
+bounded, successive periods: all three strands of scholarship have 
+rather been coexisting during the last 20 years in an ongoing, still open 
+conversation fostered by an increasing concern among authors to do 
+justice to soils ’ materialities and agencies and their capacity to inter-
+vene, shape and reconfigure human communities and organisations. 
+This conversation has led to the current coexistence of those three bodies C. Granjou and G. Meulemans                                                                                                                                                                                                               
+Soil Security 10 (2023) 100082
+3of work that, each in its own manner, seeks to address not only how 
+humans conceive of soils and transform them, but also how soils 
+contribute to shaping human organisations and collectives. In particular, 
+we would like to highlight social scientists’ growing focus on accounting 
+for the importance of soils’ own biophysical dynamics and agencies in 
+building and shaping societies. We argue that, in the past two decades, 
+social and human thinkers have tended to shift from a focus on the so-
+cially constructed nature of soils, to an emphasis on the role of soils in 
+shaping human organisations, collectives and philosophical ideas. 
+Furthermore, this review suggests that the increasing uptake of soil in 
+the human and social sciences should not be understood in terms of the 
+emergence of a new ‘discipline’ or subfield dedicated to soil. Rather, it 
+attends to human and social sciences’ ongoing efforts and reflections to 
+shape non-anthropocentric theories and epistemologies that would 
+make it possible to rethink social existence no longer in terms of human- 
+only categories and capacities, but in terms of the production of a ‘more- 
+than-human’ world at the juncture of social and bio-geo-physical agencies. 
+In the rest of the paper, we shall describe those three sets of work and 
+emphasise their tensions, mutual criticisms and attempts to better ac-
+count for the co-constitution of soils and societies. 
+2.The politics of soil knowledge– how soil becomes an object of 
+knowledge and management 
+A first set of literature, located in approaches ranging from Science 
+and Technology Studies (STS), Actor Network Theory (Latour, 2005), 
+Political Ecology (Leach and Mearns, 1996) and Foucauldian ap-
+proaches to governmentality (Foucault, 2009) (see Table 1), addresses 
+the way in which soils have been treated as a resource to be managed 
+and exploited. Rather than taking soils as a taken for granted resource 
+for exploitation, this research work aims to denaturalise the category of 
+‘soil’, by showing how the soil is constituted and secured as an object of 
+knowledge, exploitation and government. These authors often posit that 
+‘soils’, as an entity, do not exist out there, ready to be surveyed and 
+extracted as resources: instead the technologies of knowledge and pro-
+specting (i.e. cartography, surveys, assessments and estimates…) 
+contribute to them being constructed as intelligible and governable ob-
+jects and resources. They stress that, to be governed, soils need to be 
+rendered visible and calculable via a range of theories, devices and in-
+stitutions. Several authors have therefore researched how soils are ‘so-
+cially constructed’ as knowable and manageable entities through expert 
+and scientific categories. They often focus on conflicts and discrepancies 
+in how soils are known, measured, and understood. 
+One strand of this literature draws on Actor Network Theory (ANT) 
+(see Table 1) to show how qualifications of soils as ‘resources’ do not 
+directly derive from their natural, taken for granted properties, but 
+rather from discursive, legal and material mechanisms that allow them 
+to be ‘translated’ or ‘assembled’ as such. For example, Murray Li (2014), 
+an anthropologist working in the Indonesian highlands, uses an ANT 
+approach to examine practices and devices that allow assembling 
+formerly common land as a (private) resource open for global invest -
+ment. In Li’s account, devices such as fences, title deeds and regulations 
+allow translating land and soil materially and discursively at the same 
+time, changing how qualities and values are attributed to them, and 
+making them participate in a very different form of social life organised 
+around international trade rather than local dynamics. Accounts such as 
+that of Li therefore describe how values and properties are attached to 
+various soils, thus building the conditions for the exploitation of soil 
+resources and their circulation on markets in the same movement. 
+Other authors taking a critical stance at modern, managerial ap-
+proaches to soil have focused on conflicts and controversies between 
+different ways of knowing and understanding soils – thus unpacking the 
+‘politics of soil knowledge’ meant as the various ways in which soils 
+come to be known, represented, mapped, and conceived of by various 
+soil practitioners, experts, and scientists (Kon Kam King et al., 2018). 
+Farmers, foresters, government officials, soil scientists, or environ -
+mental NGOs know soils in different ways and attach different meanings 
+to them (Warkentin, 2006; Landa and Feller, 2009). Moreover, the di-
+versity of these understandings does not boil down to a simple division 
+between scientific knowledge and local knowledge. Taking inspiration 
+in Science and Technology studies scholarship, authors interested in the 
+production, circulation and application of soil knowledge have shown 
+how scientific and expert knowledge on soil is also situated in different 
+social, disciplinary, institutional and economic contexts. Thus, a 
+pedologist, an agronomist, or a remote sensing analyst differ in their 
+understanding of soil dynamics, and in the scale on which they study 
+them. For example, Kon Kam King and Granjou (2020) addressed the 
+rise of soil digital mapping instruments since the turn of the 21st century 
+and showed how these new techniques contributed to shifting soil sci-
+ence profiles and skills away from classical taxonomical pedological 
+approaches toward making them part of Earth system modelling efforts; 
+and how this contributed to recasting soil as a global container of carbon Table 1 
+Disciplines and fields in the human and social sciences.  
+Field and Discipline Definition 
+Human geography The field of geography interested in social relations to 
+space and the environment. 
+Science and Technology 
+Studies (STS) A field of social sciences that investigates the 
+practices, groups and institutions involved in the 
+production, circulation and mobilisation of knowledge 
+and technologies in society. 
+Social and cultural 
+anthropology Academic discipline that studies the development of 
+human societies and cultures. Environmental 
+anthropology is the branch of anthropology that 
+studies human groups’ relations to the environment. 
+Environmental history A branch of history that addresses the joint 
+transformation of human societies and natural 
+environments and their interactions. 
+Political Ecology A field in social sciences that addresses the political 
+dimensions of environmental issues and problems, and 
+accounts for the power relations and struggles at stake. 
+Continental Philosophy a set of philosophical currents originating in 
+continental Western Europe addressing topics such as 
+the body, power dynamics, or consciousness, and 
+relying on historical or textual analysis rather than 
+formal logics. 
+Theories and approaches Definition 
+Actor-Network Theory 
+(ANT) An approach in Science and Technology Studies that 
+addresses technical innovation in terms of the 
+development of a rising sociotechnical network i.e. a 
+network involving both people and objects. 
+Decolonial theories An approach, cutting across the humanities, that 
+addresses the inequalities and relations of domination 
+in North-South settings and denounces the enduring 
+legacy of European-centric worldviews and colonial 
+forms of imperialism in society. 
+Foucauldian approaches Approaches, cutting across the humanities, inspired by 
+Michel Foucault’s focus on the role and history of 
+knowledge discourses in the constitution of social 
+realities and forms of state power. 
+Multispecies ethnography An anthropological approach aiming to recognise the 
+active role of non-human living beings in 
+ethnographic accounts and unsettle the human- 
+centred lens of anthropology. 
+New materialisms A set of theories, primarily anchored in philosophy 
+and anthropology, aiming to revisit the role of 
+materialities in social sciences thinking. These 
+theories of materialism are ‘new’ because they depart 
+from the notion that the material world determines 
+social and political dynamics (i.e. Marxist 
+materialism) and focus instead on ‘more-than-human’ 
+assemblages and communities where material and 
+immaterial, or social and natural aspects of the world 
+are intimately bounded. 
+Theories of Care Writings that focus on activities and perspectives of 
+caring for people and non-human entities and 
+demonstrate their material and ethical importance.  C. Granjou and G. Meulemans                                                                                                                                                                                                               
+Soil Security 10 (2023) 100082
+4to be measured, mapped and enhanced. 
+In a similar way, environmental historians have shown how, from the 
+onset, the soil sciences have been riddled with controversies about how 
+to define soil and to what end (Engel di Mauro, 2014). Furthermore, 
+privileging certain kinds of soil understanding and sidelining others had 
+direct consequences on the way in which soils are managed and related 
+to. Historian Winiwarter (2014) has shown that the promotion and use 
+of synthetic fertilisers in the 20th century were based on the idea of soil 
+being only a substrate for holding and releasing the nutrients necessary 
+for plant growth, rather than an ecosystem and web of vital interactions 
+sustaining fertility. Ecological approaches to soils that had been devel -
+oped in the first half of the twentieth century (Pessis, 2020) were side-
+lined in favour of physico-chemical approaches, following which, 
+Winiwarter argues, ‘Agricultural practice was changed in order to match 
+the simplified theory that inorganic nutrients are the single most 
+important factor in soil fertility’ (Winiwarter, 2014, p. 114). 
+Finally, some scholars have combined this STS approach to political 
+ecology to study the consequences of specific scientific framings, for 
+example to study how soil scientific knowledge is then used to establish 
+regulations which bear on the life of local soils and communities. They 
+have insisted on how interactions between these different knowledge 
+claims result in tensions and debates regarding how soils should be 
+managed and protected. Hence, the framing and diagnosis of a specific 
+soil-related phenomenon often result in specific recommendations for 
+land use or agricultural practices, which in turn may impact soils and 
+local communities. For example, in a study of the evolution of ideas 
+about tropical soil formation in geomorphology, geographer Duvall 
+(2011) has shown how representations of West African ferricretes 
+(indurated, iron-rich soils) in colonial soil science were congruent with 
+the notion, prominent in early 20th century colonial foresters, that Af-
+rican farmers and pastoralists had degraded the continent’s vegetation 
+and soils. Even though it was based on slim scientific evidence, and later 
+proved to be wrong, this notion persisted for much of the 20th century 
+because ‘the representation of ferricretes as damaged soil also materi -
+alised the idea that European resource management techniques must be 
+imposed to halt the environmental degradation supposedly caused by 
+indigenous land management’ (Duvall, 2011 :123). 
+Going beyond the anthropocentric limitations of earlier work in 
+political ecology, which were criticised for giving too much importance 
+to social discourses and practices and how they ‘construct’ soils, Duvall 
+and other more recent authors attempt to do justice to the active ca-
+pacities of soils themselves, such as their particular opacity, heteroge -
+neity, and their diversity. Duvall insists that humans and soils interact in 
+the production of scientific knowledge, rather than it being a human 
+projection over a passive natural background. To him, soils are agentive 
+in the production of knowledge because it was the long timescale of 
+ferricrete formation –its specific mode of being and development –that 
+made them seem inert to colonial scientists, which supported the view 
+that they were degraded soils. 
+Be they located within environmental history, political ecology, ANT 
+or broader STS approaches (see Table 1), recent scholarship on the 
+politics of soil knowledge clearly emphasises the role of material prop-
+erties of soils themselves in shaping the promises and anticipation of 
+extraction. More broadly put, these approaches help get a sense of how 
+processes of knowledge circulation and application participate in the 
+joint production of soils and society –a cradle in which soils and society 
+are mutually transformed in very concrete ways. Soils are not in the 
+background anymore, as humans make them participate in the social 
+fabric. However, the vitality of soils is acknowledged only inasmuch as 
+humans themselves deploy ways of knowing them as dynamic and 
+lively. Let us now turn to approaches in which soil agencies move more 
+centre stage. 
+3.Soil new materialisms –caring for the living soil 
+The second set of literature, strongly inspired by the new materialisms scholarship (Whatmore, 2002; Bennett, 2010; Coole and 
+Frost, 2010), multispecies ethnography (Haraway, 2008) and theories of 
+care (Puig dela Bellacasa, 2017) (see Table 1), aims for a further step in 
+the recognition that soil and subsoil are not just as a mere stock, or a set 
+of inert resources for human use and exploitation. This literature focuses 
+less on the impacts of various types of soil knowledge on how soils are 
+understood, represented and managed, than on the capacity of soil 
+ecological insights to open up soils, in particular soil biota, to new social 
+conceptions, practices and attachments. It draws on the emergence and 
+diffusion of soil biology and ecology, which gained new traction and 
+institutional importance in the 1990s and 2000s, highlighting the 
+importance of soil organisms, and their interaction with the 
+chemico-physical processes that had received more attention until then 
+(Lavelle and Spain, 2001; Coleman et al., 2004; Gobat et al., 2004). In 
+the past ten years, part of this social science literature was also influ-
+enced by the dramatic rise of microbial ecology and environmental 
+metagenomics developments that offered soil scientists new instruments 
+and technologies to rapidly assess microbial genomes and metabolic 
+capacities, thusproviding unprecedented access to the identities and 
+roles of microbial associations in soil; (Paul, 2015). This literature in 
+human and social sciences elaborates on the emergence and significance 
+of new types of attention and relations toward soil among scientists, 
+farmers, and soil practitioners. 
+At the end of the 2000s, writings by Hird (2009) and Helmreich 
+(2009) pioneered a ‘microbial turn’ in social and human sciences by 
+discussing the omnipresence and instrumental role of microbes in a 
+variety of environments. They suggested how microbes unsettle our 
+understandings of life mostly based on ‘big like us’ organisms and 
+require us to open up our conceptions of life toward new possibilities of 
+existence and agency, not based on the premise of well-bounded in-
+dividuals and ‘species’, in order to reconsider the importance of sym-
+biosis and cooperation instead of competition in biological evolution 
+and adaptation. Further authors extended these insights into soil biota, 
+in line with Darwin’s observations about the role of earthworms in soil 
+formation and social existence in the early nineteenth century. 
+Krzywoszynska emphasised that ‘unlike the big-like-us, microor -
+ganisms such as soil biota challenge the separation between living and 
+nonliving, bios and environmental services. Their bio-geo-chemical 
+agencies have world-making consequences we are struggling to 
+conceive of; their systemic nature confounds us’ (Krzywoszynska, 2020: 
+231). In a similar vein, Meulemans (2019), an ethnographer of scientific 
+work, has described how soil ecologists seek to ‘collaborate’ with 
+earthworms to build soil from urban organic and mineral wastes. 
+Starting from the description of these scientists’ interactions with soil 
+and worms in the lab, Meulemans re-examines classical anthropological 
+understandings of the distinctions between ‘making’ and ‘growing,’ 
+which intersect with broader dichotomies between nature and technique 
+in anthropological thinking. To Meulemans, soil ecologists’ view of soil 
+as a mix of particles continually digested and worked upon by a myriad 
+of organisms allows to propose new anthropological understandings of 
+what it means to make-with, live-with, and collaborate in an animated 
+world, rather than in one of passive materials. Taking inspiration in 
+Donna Haraway’s notion of sympoiesis, which describes processes in 
+which life forms are always ‘making-with’, or ‘worlding-with, in com-
+pany’ (Haraway, 2016:58), rather than ‘making themselves’ (as in 
+autopoiesis), such work builds on soil ecology (both as a set of theory 
+and a way of engaging with soils) as a means to think differently about 
+more-than-human dependencies, questioning common notions of mak-
+ing and growing, activity and passivity, organic and inorganic, or life 
+and non-life. 
+The work of philosopher María Puig de la Bellacasa (2014, 2015, 
+2019) represents an important source of inspiration to these authors. 
+Puig de la Bellacasa called to reconceptualising the role of soil as an 
+invisible yet critical bio-infrastructure for all life on Earth, and to 
+developing better attunements with the slow rhythms of soil organic 
+matter regeneration –far from the rapid rotations of intensive C. Granjou and G. Meulemans                                                                                                                                                                                                               
+Soil Security 10 (2023) 100082
+5agriculture crops –on the basis of her observations with the permacul -
+ture movement. She called to developing more caring practices and 
+approaches to soil, thus doing justice to the existence and capacities of 
+soil biota and extending conservation and ethical concerns to 
+non-human living beings as well as to the material processes of growth 
+and self-regenerating. 
+Puig de la Bellacasa inspired a growing focus not only on the active 
+capacities of the variety of living things –such as earthworms, fungi and 
+bacteria –that inhabit, consume, digest, produce and transform soil 
+(Meulemans, 2019; Krzywoszynska, 2020), but also on the active and 
+dynamic nature of (top)soil and its particular brand of materiality as a 
+heterogeneous mix of living organisms and dead or dying things, 
+emphasising the role of decomposition in soil formation and regenera -
+tion (Lyon, 2020; Abrahamsson and Bertoni, 2014). These writings share 
+the notion that understanding the materiality of living soils requires 
+going beyond any strict separation between the biotic and the abiotic, 
+the organic and the mineral, the living and the inert, the biological and 
+the geological, as well as the natural and the social. They therefore ac-
+count for the development of practices of soil attention, sensing and care 
+both in traditional agricultural settings (Lyon, 2020) and contemporary 
+agriculture (Krzywoszynska, Goulet, 2010), where conventional 
+farmers’ growing recognition of the foundational liveliness of soils is 
+fostering new promises and hopes centred on the possibilities of 
+remaking agriculture (Krzywoszynska, 2020 :229). 
+This body of work also includes a focus on urban settings, by 
+investigating the emerging practices and communities aiming to build 
+fertile soils out of lime and rocks unearthed by the extension of urban 
+infrastructures (i.e. roads, parkings, airports…). By focusing on various 
+experimentations and technics aiming to bring back life to soils seen as 
+waste so far, this literature emphasises soils’ potentialities for growing 
+an exuberant and unexpected life within the ruins and interstices of 
+urban expansion and soil sealing (Meulemans, 2020a). 
+This body of work is strongly committed to developing more atten -
+tive and ethical relations with soil as a living and lively ecosystem, with 
+which human life is deeply entangled, thus echoing research on soil 
+transformation and ‘domestication’ in soil sciences. Starting from the 
+observation that soil types and classifications are akin to biological 
+species, Amundson et al. (2003) asked for instance what fraction of soil 
+species have been transformed and degraded by human activities and for 
+human purposes in the case of the USA, leading to drastic changes in soil 
+biodiversity, soil carbon content etc. Interest for urban soils in the 
+human and social sciences also connects with the works in soil sciences 
+demonstrating that urban expansion is a key factor of soil sealing, 
+leading to a critical loss of habitats and biodiversity extinction (Sca-
+lenghe and Marsan, 2009; Seto et al., 2011). 
+By focusing on the sensory and performative aspects of organic 
+processes such as plant or bacterial life, these approaches call for greater 
+attention to the vulnerability of soil biota (for instance to landfill leak-
+ages: Hird and Clark, 2013) and to the relations and interdependence 
+that link human life to the life of soils, which provide societies and all 
+living things with all the means for their material existence on this 
+planet. For a number of authors, compost has thus become a metaphor 
+for the type of relations and togetherness in which living and non living 
+components ‘become with each other’ without a pregiven plan or goal in 
+a profusion of dynamic and regenerative transformations (Abrahamsson 
+and Bertoni, 2014; Haraway, 2016). 
+However, some authors have remarked, soil life forms do not easily 
+conform to the categories and presence-making technologies that have 
+allowed conservationists to inventory and protect above-ground species 
+and biodiversity (Yusoff, 2012). Indeed, classical policies and metrics of 
+biodiversity conservation are based on the possibility to endow them 
+with a stable identity, making it possible to protect them (for example 
+through endangered species lists) and, above all, to represent them and 
+care for them. As Hird and Clark pointed out, ‘a great many of the living 
+lineages that are now likely to be “disappearing” have never appeared to 
+us in the first place… Too small, too obscure, too reticent to have graced our archives, these beings blink out of existence without ever making 
+their presence felt’ (Hird and Clark, 2013, p. 45). They propose to take 
+the consideration of soil agencies yet one step aside by shifting the gaze 
+away from a focus on organic matter toward deeper soils and the un-
+derground, in order to elaborate new theories and accounts of the ma-
+terialities and agencies of those soils and their role in shaping human 
+societies. 
+4.Soil decolonial studies – unravelling soils’ powers and the 
+intrication of soil and society agentivities 
+The third set of literature draws on continental philosophy, political 
+ecology, decolonial studies (see Table 1) and the rich literature 
+addressing the meanings of the advent of the Anthropocene –under -
+stood as an era marked by the unprecedented and transforming impact 
+of human activities over the whole planet –in the humanities and social 
+sciences. Authors aim to stress the role of land, soils and deep soils in 
+shaping not only the material basis but also the political organisations 
+and philosophical ideas of societies all over the development of hu-
+mankind. They are inspired by scientific insights from soil ecotoxicol -
+ogy, geosciences and Earth system sciences –thus often they do not 
+address soils directly, but rather the role of land and deep soils in the 
+habitability of our planet. They often take soils (and deep soils for that 
+matter) as prime examples of nature’s alterity to (and precedence over) 
+human affairs and as illustrating how human lives and institutions are 
+embedded within and subjected to biogeochemical processes that also 
+foster a permanent condition of human vulnerability. As such, they aim 
+to unsettle anthropocentric accounts of society and to decolonize social 
+sciences approaches from the belief in human exceptionalism inherited 
+from the Enlightment philosophies. 
+We feel that this third strand of literature reflects an emerging 
+attention and related theoretical thread in the humanities and social 
+sciences, and think that it deserves to inspire a deeper and broader 
+consideration of soil agency i.e. soil’simportant role in fostering and 
+shaping various modes of living and thinking across human history. 
+Part of this scholarship starts from a criticism of soil new material -
+isms (i.e. the previous strand of literature) for viewing soil mostly as a 
+site of promising profusion of life, a site of connections, entanglements, 
+symbiosis and mutual flourishing between humans and soil biota (Ureta 
+and Flores, 2018; Tironi, 2020). They highlight instead a different kind 
+of soil agency, related to the rocky and mineral substrates in soils, 
+emphasising the resistance of hard soils and the power of contamination 
+of toxic soils. They emphasise the vitality of soil chemical residue -
+s–dusts, leachates –and their capacity to circulate in the environments 
+and bodies and to contaminate humans, plants and animals (Gramaglia, 
+2020) and even soil microbiota itself (Hird and Clark, 2013). By scru-
+tinising how toxic soils alter the life of people living on contaminated 
+land, they remind us that soils are also characterised by pollution and 
+contamination, and more generally not readily available to human 
+relation and care. 
+This interest in soils whose agencies and transformations constitute a 
+threat for humans is shared by human geographers and philosophers 
+Nigel Clark and Kathryn Yusoff (Clark, 2011, 2017; Clark and Szers -
+zynski, 2021; Yusoff, 2018), who proposed to take yet another step into 
+unpacking the powers of soils –encompassing land and deep subsoils. 
+Hence, Clark writes of ‘in-human’ soils in order to stress the difference 
+with the ‘more-than-human’ entanglements and relations described by 
+soil new materialisms authors, emphasising soils’ capacities to unsettle 
+human life and communities as well as to shape them. He stresses the 
+crucial role of soil in providing human societies with the organic matter, 
+the ore, and various types of combustibles instrumental not only to the 
+development of agriculture, but also of arts and technologies such as 
+metallurgy in ancient times, and fossil fuel-powered machines since the 
+18th century. Clark is also particularly interested in soils’ upheavals, 
+such as earthquakes and volcanic events, and their impacts on human 
+life and communities. He discusses the cultural significance of the C. Granjou and G. Meulemans                                                                                                                                                                                                               
+Soil Security 10 (2023) 100082
+6discovery of plate tectonics in the 1960s and 1970s, suggesting that 
+social thinkers should pay more attention to the fact that peoples and 
+societies have always had to do with the incessant dynamism and violent 
+upheavals of Earth crust. His key point is that soils’ dynamism has had 
+huge consequences both in creating a permanent state of bodily 
+vulnerability attached to human life on the Earth, and in fostering the 
+development of new political organisations and philosophical ideas 
+aiming precisely to undermine this vulnerability and to highlight instead 
+human autonomy, freedom and self-determination. To Clarke, the new 
+awareness of the geological dynamism of the Earth, gained by 18th and 
+19th century scholars1, partly fostered the historical development of 
+Enlightment philosophies with their focus on freedom, reason and 
+self-determination in the 19th century. Philosophers and scholars’ 
+attempt to deny the threats and anxieties induced by the new geo-
+scientific knowledge has been leading to a much exaggerated emphasis 
+on humans’ capacity to dispose of the material world, including soils and 
+land as resources for cultivation, building and mining2. Clark suggests 
+that, because of the legacy of these philosophies, Western social thinkers 
+did not do justice to the capacity of soils both to destroy social com-
+munities, their institutions and moral values almost entirely, and to 
+foster life-changing innovations in human ways of living and thin-
+king –including land cultivation, metallurgy, and fossil fuel 
+combustion. 
+In a similar line of thinking, Bobbette and Donovan (2018) addressed 
+the history of the geological sciences and the role of geologists in 
+shaping our understandings of what Earth and soils are, how they work 
+and their relations with social and political processes. The contributions 
+to their edited volume depart from the view that ‘the earth is a surface 
+upon and across which unfolds the dramas of sovereign territories and 
+their politics’ (p. 2) and focus instead on ‘the earth’s organisation into 
+strata, and the depth of geological time and transformation’ (p. 3), in 
+order to address the intersections of geology and politics. This literature 
+shares with the first set of literature an interest in scrutinising how 
+scientific knowledge contributed to constituting Earth and soils as ob-
+jects of knowledge and representation; yet it also shares with the second 
+set of literature a commitment to paying more attention to soils’ own 
+materialities, agencies and dynamics. Compared with this latter litera -
+ture, this last scholarship gives a new meaning to the idea of soil agency, 
+which takes onboard much broader scales and temporalities than those 
+considered by soil new materialism: soil agency is no longer associated 
+with microbial life but rather with toxic dust durability and with the 
+moves and upheavals of the Earth crust. As such, authors of the third set 
+of research also contribute to suggesting the porosity of the boundary 
+between the realm of the living and that of matter: they suggest the 
+vitality, dynamism and agency of soils and how their composition and 
+genesis demonstrate the constant interactions and hybridisation of 
+matter and living entities. However, authors here are not so much 
+interested in establishing more ethical relations with soil biota than with 
+unpacking the political and cultural significance of soils’ powers and 
+forces –leading to revisiting the vulnerability of human organisations, 
+institutions and ideas. 
+On the other hand, this literature also suggests that the possibility of the development of humankind is closely embedded within the material 
+capacities offered by soils. Clark and Yusoff’s key argument is that the 
+contemporary extraction of chemical resources (such as phosphates or 
+lithium) from soils should not be understood only in terms of the rise of 
+human capacity to make and govern soils as resources (cf. the first body 
+of literature): those developments have also been made possible by the 
+materialities and powers of soil itself, by its capacity to process and store 
+fossilised organic matter over the very long term, for instance. They 
+argue that we need to ‘geologize’ human and social thinkers’ accounts of 
+social history i.e. to do justice to the fact that what is often understood as 
+human innovations and social creativity has been inspired, conditioned 
+and shaped by the material capacities and agency of soils. Inspired by 
+this, Granjou and Salazar (2019) for instance pointed that our narratives 
+of climate change may be too much focused on human-induced increase 
+of greenhouse gases, and should pay more attention to soil’s role in 
+fostering brutal and irreversible tipping points such as permafrost thaw. 
+While its focus on soil is quite broad and encompasses both land, 
+deep subsoils and the Earth crust, we think that this last body of work 
+sketches new avenues to think of human/soil relations in a different, and 
+innovative way, by fostering better accounts of the deep entanglementof 
+soil-related and society-related dynamics and agentivities. 
+5.Discussion and conclusion 
+With this review, we wanted to sketch some of the key contributions 
+and tensions of the growing scholarship on soil in the human and social 
+sciences in the last two decades. Observing a rich and growing amount of 
+research that unpacks various configurations of human/soil relations, 
+we proposed a reading of this scholarship based on three groups of lit-
+erature –also knowing that the ideas and writings often tend to be more 
+permeable to exchanges and circulation than what our review has been 
+able to account for. However, our key goal was not to give an all- 
+encompassing view of the lineages and circulation that link them 
+together: instead we aimed to highlight an ongoing conversation 
+regarding how this literature has been considering the material prop-
+erties and agencies of soils. Table 2 offers an overview of the three sets of 
+literature by outlining the soil science fields and approaches they are in 
+line with, the theories and frameworks in the humanities and social 
+sciences that they rely on, their main ideas and contributions, and 
+eventually the way they address soil materialities and agencies. 
+We argue that there has been a growing concern in the human and 
+social sciences for considering not only how various societies and peo-
+ples engage with soils, but also, symmetrically, how soils contribute to 
+shaping social communities and organisations. As they increasingly 
+recognize that soils are not just a mere stock, or a set of inert resources 
+for human use and exploitation, but are instead active, dynamic and 
+vulnerable systems with their own materialities, agencies and dynamics, 
+the human and social sciences also tend to build new potential linkages 
+and bridges with the soil sciences around the consideration of scientific 
+knowledge on the nature, functioning and evolution of soils. 
+Concerns for the microbial life and functioning of soil are for instance 
+at the core of the development of soil new materialisms and its focus on 
+the agency and vulnerability of soil biota; it is eventually deepened and 
+expanded in the third group of literature focusing on the power of 
+soils –encompassing both land and deep soils –both to destroy and 
+constitute social communities, technical innovations and philosophical 
+ideas. Social scientific scholarship related to soil is thus more and more 
+involved in the endeavour to unsettle the overarching focus of the 
+human and social sciences on the influence of human categories, dis-
+courses and activities on the constitution of the material world –rather 
+than the other way around. 
+Here, we think it is important to note that the increasing uptake of 
+soil, soil issues and soil knowledge in social and human sciences cannot 
+be reduced to a case of applying existing social theories and frameworks 
+to a new object, i.e. soils. While anchored in a range of existing theories 
+and fields, the emergence of social soil studies clearly contributes to an 1 For instance, Clark discusses the major shift in the temporalities considered 
+by European philosophers at the time, away from the notion of a few millennia 
+testified to by religious writings, to the consideration of deep time stretching 
+back to hundreds of millions year back, during which there were no humans on 
+the Earth, leading philosophers to long-lasting anxieties over the place and the 
+fate of humankind on this planet (see: Clark, 2011, 2017, and 2020).  
+2 Yusoff (2018) also stressed that the extraordinary expansion of soil mining 
+activities in the 18th century was not only key to the emancipation and 
+enrichment of Europe through the Industrial Revolution, but also to the rise of 
+new ideas regarding the inert and passive character of matter, ready to be 
+extracted, shaped and used –thus contrasting with the activity, creativity and 
+self-determination of humans. C. Granjou and G. Meulemans                                                                                                                                                                                                               
+Soil Security 10 (2023) 100082
+7increasing concern for rethinking the place of the natural and material 
+world in social and human scientific theories and concepts and 
+achieving better theoretical and empirical accounts of the co- 
+constitution of society and the material world. Obviously, the writings 
+we presented in this review related to soil and soil issues partake in a 
+much broader move within the humanities and social sciences, away 
+from an ‘over-emphasis on discourse and power [which] often over-
+looked the unique capacities of environments and non-human actors to 
+act politically ’ (Bobbette and Donovan, 2018 : 25). As these authors 
+further stated, ‘scholars have since moved towards insisting on under -
+standing non-human agency (…) [thus] allowing the world to properly, 
+fully exist independently of human thought/consciousness ’ (Bobbette 
+and Donovan, 2018 : 25–26). At the heart of this literature is clearly an 
+ongoing attempt to decentre the place of humans in social and human 
+scientific work. It opens up new pathways to put more emphasis on soil 
+itself without renouncing the critical capacity of human and social sci-
+ences to foster critical insights and alternative futures likely to unsettle 
+taken-for-granted views on what soils are and how they work in relation 
+to social existence. It also opens up to new potentialities for communi -
+cating across the soil sciences and the human and social sciences, in line 
+with recent attempts to cross disciplinary boundaries and foster inter-
+disciplinary insights into soil and soil issues (Lago et al., 2019 ; Baveye, 
+2021 ). 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. Data availability 
+No data was used for the research described in the article. 
+Acknowledgments 
+We thank the French National Agency for Research (ANR) for the 
+POSCA research grant (ANR-20-CE26-0016-01) and the ComingGen 
+research grant (ANR 18-CE38-0007-01) that helped carry out the 
+research presented in this article. 
+References 
+Abrahamson, S., Bertoni, F., 2014. Compost politics: experimenting with togetherness in 
+vermicomposting. Environ. Human. 4, 125–148. 
+Amundson, R., Guo, Y., Gong, P., 2003. Soil diversity and land use in the United States. 
+Ecosystems 6, 470–482. 
+Amundson, R., Jenny, H., 1991. The place of humans in the state factor theory of 
+ecosystems and their soils. Soil Sci. 151 (1), 99–109. 
+Andr ˘e, H.M., Noti, M.I., Lebrun, P., 1994. The soil fauna: the other last biotic frontier. 
+Biodivers. Conserv. 3, 45–56. https://doi.org/10.1007/BF00115332 . 
+Balfour, L.E., 1943. The living soil. Faber and Faber, London .  
+Bardgett, R., van der Putten, W.H., 2014. Belowground biodiversity and ecosystem 
+functioning. Nature 515, 505–511. https://doi.org/10.1038/nature13855 . 
+Barrera-Bassols, N., Zinck, J.A., 2003. Ethnopedology: a worldwide view on the soil 
+knowledge of local people. Geoderma 111 (3), 171–195. https://doi.org/10.1016/ 
+S0016-7061(02)00263-X . 
+Baveye, P., 2021. Book review. thinking with soils: material politics and social theory. J. 
+F. Salazar, C. Granjou, M. Kearnes, A. Krzywoszynska, and M. Tironi (eds) 
+Bloomsbury Academic, London, UK, 2020 Eur. J. Soil Sci. 72, 1924 –1927. https:// 
+doi.org/10.1111/ejss.13076 . 
+Baveye, P., Baveye, J., Gowdy, J., 2016. Soil “ecosystem ” services and natural capital: 
+critical appraisal of research on uncertain ground. Front. Environ. Sci. 4, 41. https:// 
+doi.org/10.3389/fenvs.2016.00041 . 
+Bennett, J., 2010. Vibrant Matter. A Political Ecology of Things. Duke University Press, 
+Durham and London .  
+Birnbaum, J., Fox, L, 2014. Sustainable revolution. Permaculture in Ecovillages, Urban 
+Farms, and Communities Worldwide. North Atlantic Books, Berkeley .  
+Blaikie, P., 1985. The Political Economy of Soil Erosion in Developing Countries. 
+Longman, London and New York.  
+Bobbette, A., Donovan, A., 2018. Political Geology: Active Stratigraphies and the Making 
+of Life. Springer, New York.  
+Churchman, J., 2010. The philosophical status of soil science. Geoderma 157 (3), 
+214–221. https://doi.org/10.1016/j.geoderma.2010.04.018 . 
+Clark, N., 2011. Inhuman nature. Sociable Life on a Dynamic Planet. Sage Publications, 
+London .  
+Clark, N., 2017. Politics of strata. Theory Cult. Soc. 34 (2–3), 83–104. 
+Clark, N., Szerszynski, B., 2021. Planetary Social Thought – The Anthropocene Challenge 
+to the Social Sciences. Polity Press, Cambridge, UK.  
+Coleman, D.C., Crossley, D.A., Hendrix, P.F., 2004. Fundamentals of Soil Ecology. 
+Elsevier, Amsterdam .  
+Coole, D., Frost, S, 2010. New Materialisms: Ontology, Agency, and Politics. Duke 
+University Press, Durham, NC.  
+Dudal, R., 2004. The sixth factor of soil formation. In: Proceedings of the International 
+Conference on Soil Classification. Petrozavodsk, Russia, 3-5 August, 2004 .  
+Duvall, C.S., 2011. Biocomplexity from the ground up: vegetation patterns in a West 
+African Savanna landscape. Ann. Assoc. Am. Geogr. 101 (3), 497–522. 
+Effland, W., Pouyat, R., 1997. The genesis, classification, and mapping of soil in Urban 
+Areas. Urban Ecosyst. 1 (4), 217–228. 
+Engel di Mauro, S., 2014. Ecology, soils, and the left. An Ecosocial Approach. Palgrave 
+McMillan, New York.  
+FAO, ITPS, 2015. Status of the world ’s soil resources. Food and Agriculture Organization, 
+Intergovernmental Technical Panel on Soils. FAO, Rome .  
+Foucault, M., 2009. Security, Territory, Population: Lectures at the Collˇege de France, 
+1977-1978. Palgrave McMillan, New York.  
+Gobat, J.-M., Aragno, M., Matthey, W., 2004. The Living Soil: Fundamentals of Soil 
+Science and Soil Biology. Science Publishers, Inc, Enfield, Plymouth .  
+Goulet, F., 2010. Nature et r˘e-enchantement du monde. In: Dans Hervieu, B., Mayer, N., 
+Muller, P., Purseigle, F., R˘emy, J. (Eds.), Les Mondes Agricoles en Politique. Presses 
+de Sciences Po, Paris, pp. 51–71. 
+Gramaglia, C., 2020. Saltkrake - Penser la « vitalit ˘e » des r˘esidus miniers pour mieux 
+appr˘ehender leurs effets toxiques. Rev. Anthropol. Connaissances 14 (4). 
+Granjou, C., Salazar, J., 2019. The Stuff of Soil: Below-ground agency in the making of 
+future climates. Nat. Cult. 14 (1), 39–60. 
+Haraway, D., 2008. When Species Meet. University of Minnesota Press, Minneapolis .  
+Haraway, Donna, 2016. Staying With the Trouble: Making Kin in the Chtulucene. Duke 
+University Press, Durham, NC.  
+Hartemink, A.E., 2008. Soils are back on the global agenda. Soil Use Manag. 24 (4), 
+327–330. Table 2 
+Overview.   
+Politics of Soil 
+knowledge Soil new 
+materialism Soil decolonial 
+studies 
+Linkagewith 
+soil science 
+disciplines Agronomy, 
+pedology, soil 
+mapping, soil 
+sciences Soil ecology, 
+agronomy, 
+environmental 
+sciences Soil 
+ecotoxicology, 
+Earth system 
+sciences, 
+geosciences 
+Social science 
+theories Actor-Network 
+Theory, 
+Environmental 
+History, 
+Foucauldian 
+theories, Political 
+Ecology New materialism, 
+Multispecies 
+Ethnography, 
+Care theories De-colonial 
+studies, 
+Anthropology, 
+Continental 
+Philosophy 
+Main 
+contributions Soils are not pre- 
+existing resources 
+but constituted as 
+knowable, 
+manageable and 
+exploitable; they 
+are known and 
+understood in 
+various, partly 
+conflicting ways. Emphasises the 
+lively and 
+vulnerable nature 
+of the soil; calls to 
+developing better 
+recognition and 
+care practices 
+toward the living 
+soil. Soils and deep 
+soils have 
+participated in 
+shaping the 
+material basis, 
+political 
+organisations and 
+philosophical 
+ideas of peoples 
+and societies 
+throughout the 
+development of 
+humankind. 
+Consideration 
+of soil 
+materialities 
+and agencies Analyses 
+knowledge 
+production and 
+soil management 
+practices about 
+soil –while also 
+accounting, to a 
+certain degree, for 
+soil materialities 
+and agencies Emphasises the 
+life and activity of 
+soil biota and the 
+reciprocity 
+between soil and 
+human flourishing Addresses the 
+power of soil 
+material strata 
+and its role in 
+constituting 
+human 
+communities, arts 
+and philosophical 
+ideas  C. Granjou and G. Meulemans                                                                                                                                                                                                               
+Soil Security 10 (2023) 100082
+8Hartemink, A.E., McBratney, A., 2008. A soil science renaissance. Geoderma 148 (2), 
+123–129. https://alfredhartemink.nl/PDF/2008%20-%20A%20soil%20science%20 
+renaissance.pdf . 
+Helmreich, S., 2009. Alien Ocean : Anthropological Voyages in Microbial Seas. 
+University of California Press, Berkeley .  
+Hird, M.J., 2009. The Origins of Sociable Life: Evolution After Science Studies. Palgrave 
+Macmillan, New York.  
+Hird, M., Clark, N., 2013. Deep Shit. O-Zone: A J. Object-Oriented Stud. 1 (1), 44–52. 
+Howard, T.M., Lawson, A., 2015. Soil governance: accessing cross-disciplinary 
+perspectives. Int. J. Region. Rural Remote Law Policy (1), 98–105. 
+IPBES, 2019. Assessment report on land degradation and restoration. Intergovernmental 
+Science-Policy Platform on Biodiversity and Ecosystem Services. IPBES, Bonn .  
+IPCC, 2019. Special report on climate change and land. Intergovernmental Panel on 
+Climate Change. IPCC, Geneva .  
+Jenny, H., 1941. Factors of Soil Formation: A System of Quantitative Pedology. McGraw- 
+Hill, New York.  
+Kon Kam King, J., Granjou, C., Fournil, J., C˘ecillon, L., 2018. Soil sciences and the French 
+4 per 1000 initiative - the promises of underground carbon. Energy Res. Soc. Sci. 45, 
+144–152. https://doi.org/10.1016/j.erss.2018.06.024 . 
+Kon Kam King, J., Granjou, C., 2020. Mapping soil, losing ground? Politics of soil 
+mapping. In: Salazar, J., Kearnes, M., Granjou, C., Krzywoszynska, A., Tironi, M. 
+(Eds.), Thinking With Soils- Social Theory and Material Politics. Bloomsbury, 
+London, pp. 39–53. 
+Krzywoszynska, A., 2019. Caring for soil life in the Anthropocene: the role of 
+attentiveness in more-than-human ethics. Trans. Inst. Br. Geogr. 44 (4), 661–675. 
+https://doi.org/10.1111/tran.12293 . 
+Krzywoszynska, A., 2020. Nonhuman labor and the making of resources : making soils a 
+resource through microbial labor. Environ. Human. 12 (1), 227–249. https://doi. 
+org/10.1215/22011919-8142319 . 
+Lago, M.G., Plant, R., Jacobs, B., 2019. Re-politicising soils: what is the role of soil 
+framings in setting the agenda? Geoderma 349, 97–106. https://doi.org/10.1016/j. 
+geoderma.2019.04.021 . 
+Landa, E.R., Feller, C. (Eds.), 2009. Soil and Culture. Springer, Dordrecht .  
+Lavelle, P., Spain, A.V., 2001. Soil organisms. In: Lavelle, P., Spain, A.V. (Eds.), Soil 
+Ecology. Springer, Dordrecht, pp. 201–229. https://doi.org/10.1007/0-306-48162- 
+6_3. 
+Leach, M., Mearns, R. (Eds.), 1996. The Lie of the Land: Challenging Received Wisdom on 
+the African Environment. James Currey, Oxford .  
+Lehmann, A., Stahr, K., 2007. Nature and significance of anthropogenic urban soils. 
+J. Soils Sediments 7 (4), 247–260. 
+Lyon, C., 2020. Vital Decomposition – Soil Practitioners and Life Politics. Duke 
+University Press, Durham, NC.  
+McBratney, A., Field, D.J., Koch, A., 2014. The dimensions of soil security. Geoderma 
+213, 203–213. 
+McClintock, N., 2010. Why farm the city? Theorizing Urban agriculturewhy farm the 
+city? Theorizing urban agriculture through a lens of metabolic rift through a lens of 
+metabolic rift’. Cambridge J. Region. Econ. Soc. 3 (2), 191–207. 
+Meulemans, G., 2019. Wormy collaborations in practices of soil construction. Theory 
+Cult. Soc. 37 (1), 93–112. https://doi.org/10.1177/0263276419851857 . 
+Meulemans, G., 2020a. Reclaiming freak soils: from conquering to journeying with urban 
+soils. In: Dans Salazar, J., Granjou C. Kearnes, M., Krzywoszynska, A., Tironi, M. 
+(Eds.), Thinking with Soils- Social Theory and Material Politics. Bloomsbury, 
+London, pp. 157–174. Meulemans, G., 2020b. Urban pedogeneses: the making of city soils from hard surfacing 
+to the urban soil sciences. Environ. Human. 10 (2), 250–266. https://doi.org/ 
+10.1215/22011919-8142330 . 
+Murray Li, T., 2014. What is land? Assembling a resource for global investment. Trans. 
+Inst. Br. Geogr. 39 (4), 589–602. 
+Paul, E.A., 2015. Soil Microbiology, Ecology and Biochemistry, 4th Edition. Academic 
+Press, Cambridge, MA.  
+Pessis, C., 2020. Histoire des sols vivants. Genˇese, projets et oublis d’une cat˘egorie 
+actuelle. Rev. Anthropol. Connaissances 14 (4). https://journals.openedition.org/ 
+rac/12437 . 
+Pimentel, D., Burgess, M., 2013. Soil erosion threatens food production. Agriculture 3 
+(3), 443–463. https://doi.org/10.3390/agriculture3030443 . 
+Puig de la Bellacasa, M., 2014. Encountering Bioinfrastructure: Ecological struggles and 
+the sciences of soil. Soc. Epistemol. A J. Knowl. Cult. Soc. 28 (1), 26–40. https://doi. 
+org/10.1080/02691728.2013.862879 . 
+Puig de la Bellacasa, M., 2015. Making time for soil: Technoscientific futurity and the 
+pace of care. Soc. Stud. Sci. 45 (5), 738–748. https://doi.org/10.1177/ 
+0306312715599851 . 
+Puig de la Bellacasa, M., 2017. Matters of Care - Speculative Ethics in More Than Human 
+Worlds. University of Minnesota Press, Minneapolis .  
+Puig de la Bellacasa, M., 2019. Re-animating soils: transforming human –soil affections 
+through science, culture and community. Sociol. Rev. 67 (2), 391–407. https://doi. 
+org/10.1177/0038026119830601 . 
+Richter, D., Bacon, A., Mobley, M., Richardson, C., Andrews, S., West, L., Skye, W., et al., 
+2011. Human-soil relations are changing rapidly: proposals from SSSA ’s cross- 
+divisional soil change working group. Soil Sci. Soc. Am. J. 75 (6), 2079 –2084 . 
+Robertson, M., 2012. Measurement and alienation: making a world of ecosystem 
+services. Trans. Inst. Br. Geogr. 37 (3), 386–401. https://www.jstor.org/stable/ 
+41678640 . 
+Salazar, J., Granjou, C., Kearnes, M., Krzywoszynska, A., Tironi, M. (Eds.), 2020. 
+Thinking with Soils- Social Theory and Material Politics. Bloomsbury, London .  
+Scalenghe, R., Marsan, F.A., 2009. The anthropogenic sealing of soils in urban areas. 
+Landsc. Urban Plan. 90 (1/2), 1–10. https://doi.org/10.1016/j. 
+landurbplan.2008.10.011 . 
+Seto, K., Fragkias, M., Güneralp, B., Reilly, M., 2011. A meta-analysis of global urban 
+land expansion. PLoS One 6 (8), e23777. https://doi.org/10.1371/journal. 
+pone.0023777 . 
+Swidler, E.M., 2009. The social production of soil. Soil Sci. 174 (1), 2–8. 
+Tironi, M., 2020. Soil refusal: thinking earthly matters as radical alterity. In: Salazar, J., 
+Kearnes, M., Granjou, C., Krzywoszynska, A., Tironi, M. (Eds.), Thinking with Soils- 
+Social Theory and Material Politics. Bloomsbury, London, pp. 175–190. 
+UNCCD, 2014. Land degradation neutrality report. United Nations Convention to 
+Combat Desertification. UNCCD, Bonn .  
+Ureta, S., Flores, P., 2018. Don’t wake up the dragon! Monstrous geontologies in a 
+mining waste impoundment.  Environ. Plann. D Soc. Space 36 (6), 1063 –1080 . 
+Warkentin, B. (Ed.), 2006. Footprints in the Soil – People and Ideas in Soil History. 
+Elsevier, Amsterdam .  
+Whatmore, S., 2002. Hybrid Geographies. Natures, Cultures, Spaces. SAGE Publications, 
+London. New Delhi: Thousand Oaks.  
+Winiwarter, V., 2014. Environmental history of soils. In: Agnoletti, M., Neri Serneri, S. 
+(Eds.), The Basic Environmental History. Springer, New York, pp. 79–119. 
+Yusoff, K., 2012. Aesthetics of loss: biodiversity, banal violence and biotic subjects. 
+Trans. Inst. Br. Geogr. 37 (4), 578–592. 
+Yusoff, K., 2018. A Billion Black Anthropocenes or None. University of Minnesota Press, 
+Minneapolis .  C. Granjou and G. Meulemans                                                                                                                                                                                                               

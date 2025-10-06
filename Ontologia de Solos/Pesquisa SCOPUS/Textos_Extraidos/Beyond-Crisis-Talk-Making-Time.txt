@@ -1,0 +1,822 @@
+© The Author(s) 2025
+Attribution 4.0 International (CC BY 4.0)
+tecnoscienza.unibo.it
+T/S
+TECNOSCIENZA. Italian Journal of Science & Technology Studies  
+15(2)   pp. 39-59   ISSN 2038-3460
+DOI:  10.6092/issn.2038-3460/18076
+Abstract
+In this paper, we focus on soil as a “contested terrain” emerging from the in -
+terplay of competing socio-political and cultural frames. Starting from the 
+analysis of international reports on soil, we show how the urgency frame 
+acts as a powerful discursive device that progressively reduces the inherent 
+complexity of soil as a socio-ecological system, compressing the tempo -
+rality of future perspectives and demarcating the inclusion/exclusion of 
+non-human actors in soil communities. In the second part, we draw on 
+examples of practice from our project BRIDGES to highlight possibilities for 
+re-framing research as a “practice of attention” and experimenting with dif -
+ferent temporalities and modes of relation with soil. Findings point to the 
+need to address the fundamental questions that such an approach poses 
+for all research communities. Bringing sedimented attitudes, perceptions, 
+and ways approaching research to the surface, our experiences cast light 
+on the importance of methodological choices for thinking differently about 
+soil and about slowing down the narratives of research: not as a tool or 
+resource, but as a shared process of crafting mutual relations amongst all 
+kinds of practitioners, including more than humans.
+Keywords
+technoscientific narratives; environmental policies; urgency; soil; practices 
+of attention; post-normal science.
+1. Introduction
+Pivoting on constraining the time available for action, urgency and “crisis” talks have be -
+come a key feature of contemporary policy discourses on socio-ecological issues. As critiqued 
+across multiple domains (see for example Roitman 2014), “governing through emergency” 
+tends to reproduce existing forms and relations of power, preserving the neo-liberal social 
+order (Anderson et al. 2020), which, in order to grant its promise of freedom, is intimately 
+relying on the management of danger and disorder (Pellizzoni 2011). CNR-IRCrES, Rome
+Pianpicollo Selvatico ETSCNR-IREA, Milan
+Pianpicollo Selvatico ETSUniversity of Edinburgh
+CNR-IREA, Milan
+Corresponding author
+Rita Giuffredi
+National Research Council, Research 
+Institute on Sustainable Economic 
+Growth (CNR-IRCrES)
+Via dei Taurini 19, 00185 Rome, Italy
+     rita.giuffredi@cnr.it
+Submitted : January 10, 2023
+Accepted : March 26, 2024
+Rita Giuffredi
+Raffaella SpagnaChristian Colella
+Andrea CarettoLaura Colucci-Gray
+Alba L’AstorinaBeyond Crisis Talk: Making Time for Re-Searching New 
+Narratives of Human Relations With SoilESSAY
+Due to its critical positioning in current environmental debates, the issue of soil is a case 
+in point. Featuring centrally in global discourses on food production, biodiversity loss, land 
+use, but also urban planning and climate regulation, it is by no chance that soil itself both 
+underpins and encompasses all the critical zones identified by Rockström et al. (2009) as the 
+“safe operating space for humanity”. Y et, this raised attention sits alongside imaginaries of 
+soil which remain largely connected to the rural past, disassociated from human experiences, 
+sociality and economic practices in the urban present (Meulemans 2020; Granjou and Meule -
+mans 2023). New contributions from soil science itself have put forward the need for a new 
+anthropedology: “a proposed disciplinary development that understands human activities as 
+integral to soil genesis” (Meulemans 2020, 251). 
+Echoing the dominant rhetoric of human agency in the Anthropocene, global discourses 
+on soil will thus appear to swing between alternative conceptions. On the one hand, the ur -
+gency frame – in policy and scientific institutions alike – pushes for solutions in the imme -
+diate future. This way of presenting problems dominates funding calls from external organ -
+isations (e.g., EU funds, or private investments), a process that, for instance, is also visible in 
+schools and Higher education, via systems and practices emphasising short circuits of input 
+and outputs via measurable outcomes (Hancock et al. 2023). 
+On the other hand, while discourses of urgency prevail, the literature on soil has also wit -
+nessed the progressive emergence of counter-narratives, questioning the timescape imposed 
+by techno-scientific interventions set on maximising fertility and productivity. Such narra -
+tives account for the times of soil renewal and are focused on relations with soil based on 
+“care” (Puig de la Bellacasa 2015), including also local and indigenous knowledges, as well as 
+experiential ways of relating and interacting with soils, as found in ethno-pedology and folk 
+taxonomies (Krasilnikov and T abor 2010; Lyons 2020; Martin et al. 2015). 
+Thus, to break the cycle of crisis-setting, it is necessary to reconsider the implicit assump -
+tions underlying knowledge production practices vis-à-vis the natural system, with particular 
+attention to the images of science and research that are transmitted and nurtured in current 
+scientific and educational establishments (Burnard et al. 2022). To this regard, we are careful 
+to state that it is not our intention to underestimate the warnings coming from the scientific 
+community; quite the opposite, our analysis intends to identify the urgency frame in dis -
+courses about soil, in order to reflect on and articulate the temporalities for a more inclusive, 
+and democratic relation with the soils upon which we intimately depend.
+1.1 Focus of This Paper
+Addressing the wider international debate on soil as a contemporary socio-ecological issue, 
+this paper brings together contributions from the field of policy analysis with emerging lit -
+erature in Science & Technology Studies (STS) to illustrate an example of collective praxis, 
+whereby a multidisciplinary community of researchers sought to enter into dialogue with a 
+plurality of ways of knowing, practices and modes of relating with soil. T o achieve this aim, we 
+first engage with an analysis of narratives pivoting around the concept of urgency produced by 
+international bodies and communicated through the impactful reports on which public poli -
+cies are grounded. We highlight the frame and limitations of technoscientific approaches driv -40
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)41
+en by urgency, characteristically informed by a linear trajectory from problem to solution and 
+pragmatic, rationally planned actions, with experts as privileged knowledge-holders, often sur -
+rogating the public space for debate and deliberation (Benessia et al. 2012; T allacchini 2015). 
+In the second part, we draw upon some of the experiences of BRIDGES (Building Reflex -
+ivity and response-ability Involving Different narratives of knowledGE and Science)1 – a pro -
+ject involving the authors of this paper – to describe and discuss our experience of “slow” sci -
+ence (Stengers 2017) hinged on the practice of transdisciplinary research involving a commu -
+nity of peers, not only humans. BRIDGES engaged a group composed of senior and young 
+researchers, practitioners, artists, students and citizens, in creating extended communities of 
+research with soil, informed by the framework of post-normal science (Funtowicz and Ravetz 
+1992; 2020) and in accord with a socio-ecological and epistemic justice standpoint (Benes -
+sia et al. 2012). Our experience, positioned at the border between research and education, 
+was denoted with an explicit attention to the emergence of tacit narratives shaping our work 
+and our ability – as researchers – to relate with other perspectives and account not only the 
+multiplicity of voices but also the copiousness of both human and non-human temporalities 
+involved in soil care practices. The article will conclude with a discussion on the importance 
+of methodological choices underpinning the creation of soil narratives; and specifically, the 
+possibility of redirecting the narrative of urgency towards new practices of attention, denoted 
+by a slow and continuous conception of time.
+2. Background: Framing Human Relations with Soil in the Anthropocene
+At a time of unprecedented global environmental change, the scientific community has 
+characteristically endeavoured to “speak truth to power”, bringing evidence to bear upon the 
+pervasive disruption of a planet under pressure. Moreover, not only is science tasked to pro -
+vide evidence informing decisions, but also to spur society into action: calling for innovation 
+and investments to “fix” a world that is presented as increasingly fragile, inhospitable and un -
+stable. Ostensibly framed within a techno-scientific view, nature is presented as “scarce”, with 
+resource extraction becoming more expensive and difficult to perform as such resources be -
+come less available (Déry 2007); metaphors like “peak oil”, “peak nitrate”, “peak phosphorus” 
+are used to convey the anxious forewarning of an impending breakdown, by which a resource 
+is heading toward exhaustion without equivalent efforts to renew (Puig de la Bellacasa 2015).
+Indeed, we can identify the conceptualisation of the Anthropocene as an over-compassing 
+master narrative of the troubled relationship between humans and environment. Since the 
+concept was first proposed, in the late 90s, natural scientists, mainly in the geo-environmen -
+tal sciences (Hamilton et al. 2015) have been extensively engaged in debating the thematic 
+core and temporal boundaries of such epoch: when, where and why the radical break with 
+the Holocene took place (Steffen et al. 2015). Randazzo and Richter (2021) have called this 
+perspective “discontinuous-descriptive”, underlining the radical discontinuity, interrupting 
+the linear temporality, underlying such debate. Such framing of the Anthropocene, clear -
+ly highlighting the unfolding of catastrophic and unprecedented ecological changes (IPCC 
+2019), is particularly suitable to ground the pressing call to decision-makers for swift actions.
+In opposition to this master narrative of the Anthropocene, Randazzo and Richter (2021) 
+advance the so-called “continuous-ontological” approach, aiming at “mapping out ecological 
+relationality and agency in a way that precedes, and will outlive, the current ecological chang -
+es that characterise the Anthropocene” (Randazzo and Richter 2021, 297). 
+Running counter to the “positivistic catastrophism” that fuels the construction of the cri -
+sis, the ontological relationality allows for an acknowledgement of the limits of human agen -
+cy (Chandler 2018; T aussig 2020), and a refusal of the eco-modernist myth of technological 
+mastery of nature (Lynch and V eland 2018), going towards a post-cartesian theorization, in 
+which the networked agencies of both human and non-humans become the object of inquiry 
+(Latour 2018). Hence what is at stake in the Anthropocene is “not the scientific measure -
+ment and political management of a set of ecological shifts, but rather a seismic shift in our 
+understanding of being” (Randazzo and Richter 2021, 298).
+While originating within a discourse primarily located within the natural sciences, particu -
+larly geology – which has recently, incidentally, dismissed the Anthropocene as a formal unit of 
+the geological timescale (Witze 2024) – the narrative potency of this epoch has permeated the 
+social sciences, intersecting with post-structuralist, eco-Marxist, and other debates (Bonneuil 
+2015). More importantly, it is something that has evolved from a debate about the “most ap -
+propriate unit of measurement for the crisis” to a reflection on the multiple relationalities and 
+temporalities that traverse humans and non-humans, including the soil and its inhabitants.
+2.1 Narratives and Counter-Narratives of Soil
+As Cronon was urging, as early as in 1992, the challenge to scholars is “telling not just sto -
+ries about nature, but stories about stories about nature”, acknowledging that each and every 
+label we give to phenomena or periods of time implies different narratives and prescribe dif -
+ferent possible endings (Cronon 1992). Studies on shared imaginaries focussed on metaphors, 
+collective representations, paradigms, frames and narratives show how such shared visions, 
+most often tacitly evoked, contribute – together with power structures, interests and rational 
+choices – to shape future developments: they define the horizon of possible and acceptable ac -
+tions, impose classifications, legitimise actors, serve to identify relevant issues and, when used 
+in public debate, can affect collective self-understanding and action (Jasanoff and Kim 2015). 
+“Land imaginaries”, in particular, have recently been proposed by Sippel and Visser (2021) as 
+influencing “the notions of what land is, what it can or should do, and how humans can or should 
+interact with it” (Visser 2021, 315); they concern the shared, implicit ideas grounding how soil-re -
+lated environmental issues are interpreted, the paths towards the desirable futures, the ethical 
+norms underlying actions and the cultural dimensions related to space and place transformations.
+While the dialectic interplay of narratives cannot completely account for the emergence of 
+specific socio-environmental issues, their analysis in science-based policy discourses casts light 
+on epistemic practices, how evidence is selected and used and the levels at which conflict is both 
+managed and understood. Thus paying attention to counter-narratives is important to disclose 
+alternative framings and to open up paths hitherto neglected, in terms of both thinking and 
+action. Often counter-narratives have been used to describe and confer systematicity to minor -
+ity positions, and have been particularly studied, among others, in the field of post-colonial 42
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)43
+studies, to show the existence and relevance of non-W estern conceptualisations and approaches 
+(Schiebinger 2004). Counter-narratives are also suitable to account for more-than-human pro -
+cesses of world-making, as shown by anthropological (Kirksey and Helmreich 2010), sociolog -
+ical (Murdoch 2001), and geographical works (Whatmore 2006) of the last decades. 
+In our reflection, we refer to narratives of research as frames which define the focus of atten -
+tion but also the way in which knowledge is produced and legitimated in academia, as well as 
+their underlying values. This work sets the premise for a rethinking of research practices, recast 
+as a practice of attention, with its inherent features of slow times, relations, reflexivity and care.
+3. Part 1: Frames and Narratives Within Policy Reports 
+As regards big socio-ecological issues, the critical sensitive endeavour of knowledge col -
+lection, comparison, systematisation and editing that sits behind both problem-setting and 
+problem-solving is actually realised within a few international bodies. They function as in -
+termediate authoritative entities between the scientific community, tasked to produce sound 
+and objective knowledge, and the governments, which are finally called to take action. A 
+major instrument of communication of such efforts is the periodic publication of reports, 
+condensing data and proposed policies for policy makers and the media. As such, those docu -
+ments are well positioned to be analysed with the lenses of incorporated narratives and imag -
+inaries, describing the deeply-seated cultural visions of human-environment relationships, as 
+they are shaped within the scientific community and amplified for politics and society. 
+W e focused on the decade 2012-2022, since FAO (Food and Agriculture Organisation 
+of the United Nations) launched the Global Soil Partnership. Recognising soils as a crucial 
+but neglected factor of food production, a number of initiatives and pilot projects were set 
+in motion to raise awareness and support strategic networks, in order to “speak up” for soil 
+and boost action (FAO 2022b).
+W e started from an initial focus on international bodies holding an explicit institutional 
+mandate to address soil: FAO (Food and Agriculture Organisation) and UNCCD (United 
+Nations Convention to Combat Desertification). These institutions are critical for their role 
+in shaping the debate; their reports are normally commissioned to groups of internationally 
+recognised experts, with the power of yielding influence over the terms of the debate. We 
+then expanded the original set by following internal cross-references, proof of mutual recog -
+nition and legitimation as sources of authoritative and trustful knowledge, which allowed us 
+to include IPCC’s (Intergovernmental Panel on Climate Change), IPBES’ (Intergovernmen -
+tal Science-Policy Platform on Biodiversity and Ecosystem Services) and GSP’s (Global Soil 
+Partnership) reports, in addition to those produced by joint institutional initiatives. Broadly 
+following the example of Browne et al. (2018), we performed a theory-driven, qualitative, 
+discourse analysis, in two subsequent steps.
+First, we explored how the themes of crisis and urgency were semantically and conceptually 
+articulated in the reports, recursively identifying the following discursive lines:
+• Crisis : all the discourses articulating around the concept of crisis, depicting negative, 
+fearful  scenarios;
+• Urgency : all the discourses containing a push to urgence;
+• Action : all the discourses proposing actions as responses to problems;
+• Speed : all the discourses referring to quickness (e.g., need of acceleration, timely action);
+• Pragmatism : all the discourses referring to a pragmatic mindset in responding (e.g., 
+tangible, viable, proven, evidence-based, etc.).
+As part of this initial analysis, we also conducted an exploration of the themes of “un -
+certainty” and “care”, in order to identify discourses pointing to alternative framings of the 
+issues affecting soil and options for humans to intervene.
+Secondly, we performed a close-reading of the reports with the heuristical lenses of the 
+different temporalities of the Anthropocene, with a view to identifying actors and solutions 
+which are made visible and possible within the different frames. Since these reports are usually 
+structured with forewords and summary parts targeted to non-scientists, followed by lengthy 
+accounts of technical information, after their extensive readings we carried out a thematic 
+analysis of the parts devoted to summaries and recommendations. This is where conceptual 
+framings are normally found, because these sections are specifically aimed at communicating 
+with societal actors, as well as being the most common source of information relaunched by 
+the media and policy discourses.
+3.1 “Moving to a Crisis Footing”: Framing the Roadmap to Tackle Soil Degradation 
+We are aware that each single Institution has both a story and a specific identity, which 
+shaped its approach, vision and proposals; such diversity emerges clearly also from the respec -
+tive reports. However, here we aim for a synoptic reading of their positions, to highlight some 
+common features of crisis talking at the sensitive interface between research and society (par -
+ticularly media and politics). Where relevant, we will underline peculiar institutional positions.
+An urgency frame generally infuses policy with the necessity for action to address the spe -
+cific issue of soil degradation:
+In a world of profligate consumerism, global supply chains, and a growing population, land 
+resources – our soil, water, and biodiversity – are rapidly being depleted. As a finite resource 
+and our most valuable natural asset, we can no longer afford to take land for granted. We must 
+move to a crisis footing to address the challenge and make land the focus. (UNCCD 2022)
+It is clear in this particular extract the sense of impending danger and calamity which por -
+trays soil as waste-land, unusable and therefore in need to be remedied or salvaged by humans. 
+The “universalist narrative of crisis” (Randazzo and Richter 2021), proper of a discontinuous 
+frame, is also reminiscent of points if discontinuity in the recent past, such as the early Mal -
+thusian warnings of a geometric progression in population growth, coupled with the later 
+neo-Malthusian ecological anxieties (Ojeda et al. 2019).
+Urgency is then further fuelled by a linear logic demanding human intervention:
+It is no longer enough to prevent further damage to the land; it is necessary to act decisively 
+to reverse and recover what we have lost. (UNCCD 2022)44
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)45
+Time is of the essence but the subjects who should be involved to undertake such changes 
+or even to contribute  relevant knowledge towards understanding  the issues at stakes are con -
+cealed in the third-person  written text:
+Time is of the essence. Current trends in natural resource depletion indicate production 
+from rainfed and irrigated agriculture is operating at or over the limit of sustainability. In -
+jecting a sense of urgency into making the necessary transformations in the core of the glob -
+al food system is essential. (FAO 2022a)
+When urgency frames are employed, some recurrent sub-discourses emerge:
+• Crisis times require action;
+• It is necessary to act quickly;
+• It is necessary to act pragmatically;
+• Non-action determines a threat, projecting a gloomy future.
+These elements can be logically visualised as in Figure 1 below, which depicts an accelerat -
+ing short circuit: the situation of crisis needs urgent, strong and practical action, or new crises 
+will emerge, threatening our future and bringing us back to the need of acting urgently.
+Figure 1.
+The thinking pattern underpinning the urgency conceptual frame.
+3.2 “A Full Package of Solutions”: Crisis Times require Action
+All documents share a common, abiding call to action, and the reports themselves conceive 
+of their role as tools to systematise and assess the viable “institutional and technical respons -
+es” (FAO 2022a), leading to a “platform for action to avoid and reduce land degradation and 
+promote restoration” (IPBES 2018). Most interestingly, the appeal to action in rhetorical 
+terms works well as the opposite of inaction, appealing to the highest moral ground of act -
+ing to rescue and take responsibility for others. Indeed, inaction is specifically addressed as 
+an expensive, destructive option. Alternative pathways involving the necessity to slow down, 
+observe, reflect, relate, share experiences and negotiating values appear in fact only marginally. 
+It is necessary to act quickly . Inextricable from the emphasis on urgency, the need to act 
+“immediately”, “timely”, “now” is the invoked time infrastructure. Although longer-term 
+policies and different time scales are also mentioned, the continuous push to urgency suggests 
+a contraction of time over increasingly short time-spans.
+It is necessary to act with a pragmatic mindset . Reinforcing the intended call to action, this 
+is presented as an “outcomes-oriented approach” (FAO and GSP 2022), which encourages 
+thinking in terms of effectiveness, tangibility, practicality, and workability of solutions:
+A “full package” of workable solutions is now available to enhance food production and tackle 
+the main threats from land degradation, increasing water scarcity and declining water quality.  
+(FAO 2022a)
+Impressing upon the soundness of proposals, extensive reference is made to the evi -
+dence-base, informed by data and illustrated by scientific plots. Particularly, IPCC and GSP 
+stressed the value of robust knowledge assessment, performed by “hundreds of experts world -
+wide” (IPCC 2019), and the importance of quantifiable targets and indicators (FAO and GSP 
+2022), while FAO gathered experts from several institutions to describe the “state of the art” 
+of research about soil, following the “tremendous growth in the methods available for the 
+study of soil organisms by the scientific community” (FAO, ITPS, GSBI, CBD and EC 2020).
+Just like the crisis defines the discontinuous-descriptive frame of the Anthropocene, so do 
+the solutions, aiming to turn problems around and restore an optimal situation. Alongside 
+the extensive use of technical knowledge, the reports also borrow from the culture of finan -
+cial valuation, using concepts like “ecosystem services” and “natural capital”, and a general 
+tone of budgetary balance calculation (e.g., the dialectic degradation/restoration), the under -
+lying logic being that “the worth of goods, things, activities, spaces, and other species can be 
+essentially translated into financial evaluations” (Papadopoulos 2018, 31).
+No country can stand alone – alliances, coalitions, partnerships, collaboration, and co -
+operation will be essential to build, scale, and deliver the required mix of human, social, 
+and financial capital needed to restore natural capital and transform land use systems. 
+(UNCCD 2022)46
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)47
+As highlighted by Papadopoulos, cultural framings pivoting on valuation also act as “tech -
+nologies of temporality”, since they are sustained by an underlying objective of “appropriat -
+ing the future” ( ibid. , 40).
+Notably, one of the documents feels compelled to report a critical position towards the 
+prevalent W estern concept of “ecosystem services”, seen as coming from “instrumental value 
+systems”, and describes the effort of reframing it as “nature’s contribution to people”, to be 
+used especially in reference to “relational value systems” (IPBES 2018).
+Non-action determines a threat, projecting a gloomy future . Projected futures are painted 
+with menacing features; even when the rhetorical appeal to urgency is less emphasised, the 
+price of inaction is described as full of “soil threats” (FAO and GSP 2022). We are not dis -
+cussing here the exercises of scenario-building based on available knowledge normally used by 
+environmental modelists. W e are referring to the logical conclusion of the appeal to urgent 
+action: a sanction, in the form of a threat to humans, and their social or economic well-being: 
+[…] [T]he human-environment relationship must drastically change to avoid catastrophic tip -
+ping points whereby the human power of exploitation is overwhelmed by the power of nature.  
+(UNCCD 2022)
+However, imposing an abiding sense of urgency to discourses quickly equates to a device 
+of control, accelerating closure of the debate and narrowing the framing of the problems at 
+stake, expedited by the delivery of effective solutions:
+Establishing the underlying causes of land degradation provides policymakers with the in -
+formation needed to develop appropriate response options, technologies, policies, financial 
+incentives and behaviour changes. (IPBES 2018)
+In the case of complex socio-ecological issues, as is land degradation, problem-framing is 
+particularly sensitive, given their value-based nature, their positioning at the intersections be -
+tween different disciplinary descriptions, and at the crossroad of social realms. The risk here 
+is that reports act as surrogates of open discussions, subsuming different positions and values, 
+and directly proposing (practical) solutions.
+Actors mentioned in the reports have differentiated roles: decision-makers are the first in -
+tended recipients of the messages (each document contains a summary for policymakers), 
+alongside “planners and practitioners” (FAO 2022a), although also the whole group of “sci -
+entists, laymen and policy makers” (FAO and ITPS 2015) are targeted, and in some cases 
+citizens are involved as “consumers” (FAO and GSP 2022). An implicit hierarchy is estab -
+lished: “governments, scientists, farmers, private sector, and local communities” all have the 
+“shared responsibility” to “support target initiatives”, while “youth, indigenous people and 
+local communities” need to be “empowered” (UNCCD 2022); “farmers, pastoralists, forest -
+ers and smallholders […] are nature’s stewards and the best agents of change to adopt, adapt 
+and embrace the innovation we need to secure a sustainable future” (FAO 2022a).
+Hence, although all documents devote attention to indigenous knowledge and local communi -
+ties’ involvement, stating their right to “be given equal footing alongside modern scientific methods” 
+(UNCCD 2022), a framework for actual epistemic justice does not follow, and these actors are more 
+often called to action at the end of the policy development line, to comply to pre-established solu -
+tions. Crucially, although all societal actors are judged relevant and necessary to address the problems 
+concerning land degradation, the overall perspective of the reports is the technopolitical, W estern 
+one. Notably, it is a position that neglects the presence of others, human and non-human actors, 
+resounding with colonial positions against minorities regarded as expendable (Zografos et al. 2020). 
+Alongside the analysis of urgency-related categories, we performed throughout the reports an 
+exploratory search for alternative visions of human-environment interplay. For example, we tested 
+the use of the concept of “uncertainty”, to account for any understanding embracing a non-mas -
+tery relation with nature: when it is not denoted in negative terms (e.g., the uncertainty principle 
+as a dangerous brake to the needed acceleration, used to avoid unpopular or costly decisions, as in 
+IPBES 2018), the term is seldom employed. In some cases, FAO reports introduced the concept 
+in the problem diagnosis, possibly opening up towards a post-normal understanding:
+The uncertainty of climate change and the complex feedback loops between climate and 
+land present agriculture with amplified levels of risk that need to be managed. (FAO 2022a)
+Interestingly, FAO is also the institutional body which more frequently employs the con -
+cept of “care” to denote the interplay with land:
+T aking care of land, water and particularly the long-term health of soils is fundamental to 
+accessing food in an ever-demanding food chain, guaranteeing nature-positive production, 
+advancing equitable livelihoods, and building resilience to shocks and stresses arising from 
+natural disasters and pandemics. (FAO 2022a)
+When interpreted as “stewardship”, the same conceptual approach is mostly used to de -
+scribe the interplay with minority groups, like indigenous and young people.
+In sum, although reasonably employed by international bodies seeking to draw the attention 
+of the public and policy-makers towards severe environmental situations, the usage of a crisis 
+talk cannot avoid the major flaw of representing a narrative of time contraction over the short -
+est periods in the future, i.e., while declaring the need for a resolute jump towards the future, it 
+actually forces a stuck on an eternal, uncanny, present (Bryant 2016). Restricting the space and 
+time available for reflexive discussions and evaluation of problems and possible solutions, and 
+favouring the enactment of action-oriented responses, the urgency frame short-cuts the space 
+for action. T o produce a paradigm change, critical discussion of the process of production of sci -
+entific knowledge, including its actors and values represents the foundation stone, which is ex -
+actly what the urgency frame tends to constrain, finally leading to an actual inability to change.
+3.3 Short-Cutting Time / Short-Cutting Relationships in the Reduction of 
+Controversial Issues
+The analysis of the narratives incorporated within the reports’ discourses showed how 
+the political framing of ecological issues is generally confined to what we have termed as the 48
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)49
+“urgency frame”, expression of the so-called “governance through time” (Pellizzoni 2020) 
+or “chronopolitics” (Kaiser 2015). The urgency frame is pervasive in European policy docu -
+ments of the first two decades of the Millennium, promoting innovation in terms of econom -
+ic and techno-scientific progress: it is necessary to act quickly, it is argued, as serious dangers 
+loom over the “European way of life”, threatening to destroy it (Giuffredi 2019). 
+“Governing through emergencies” has been critiqued for its promise of a crisis resolution 
+based upon a sharp distinction between normal and extraordinary times, often happening 
+at the expense of weaker strands of society (because of class, race or gender), whom, on the 
+contrary, are familiar to chronic states of crisis (“slow emergencies”) (Anderson et al. 2020). 
+In the context of environmental governance, a notable mechanism for implementing ur -
+gent and time-effective measures is the short-cutting of biological relationships. Whether it is 
+about soil depletion or the need to contain a biological infection that is harmful to humans, 
+the most effective package of solutions  will focus on restricting the spreading of a disease by iso -
+lating the sick from the healthy (i.e., quarantine); or minimise its damage through collective 
+interventions (i.e., prophylactic measures); or even by selecting resistant and tolerant varieties 
+as in the case of plant epidemics in agriculture. In such cases, the reduction of biological 
+complexity of a problem may be accompanied by a reduction in the complexity of knowledge 
+at disposal, not only in terms of “scientific cultures” serving the problem, but also for the 
+possibility of including non-academic actors in the debate over potential solutions. 
+A noteworthy case revolves around the management of the Xylella crisis in the Italian context 
+(Colella et al. 2019; Milazzo and Colella 2022), which is illustrative of such reductionist prac -
+tices. Following a wave of olive tree deaths in the province of Lecce (southeast Italy) in 2013, a 
+bacterium identified as Xylella fastidiosa  triggered an emergency procedure under the then-ex -
+isting European phytosanitary policies (2000/29/EC). Along with other prophylactic proce -
+dures targeting plants’ and insects’ lives, infected olive trees and those at high risk of infection 
+in the area were removed and destroyed, in order to contain the spread to other healthy plants. 
+One of the most interesting aspects of the phenomenon was the emergence of local move -
+ments which, employing various tactics (street demonstrations, legal actions, formation of 
+autonomous research groups, etc.), openly critiqued the bio-securitarian framework ruling 
+the containment action, but also the science underlying such decisions. 
+The general thesis upheld by this wave of mobilizations was that the death of the olive 
+trees was not to be attributed solely to the Xylella pathogen, but it was the result of a more 
+protracted crisis rooted in the depleted state of soils. While the scientific and institutional 
+response focussed on the urgent removal of the known pathogen, the civic mobilizations 
+sought to reclaim the possibility of “healing the plant” through experimental practices involv -
+ing a wider range of expertise as well as other representatives of institutions willing to listen 
+to their proposals. The effect of time compression and the consequent social struggles can 
+be depicted through the visual metaphor of the hourglass (see Figure 2). As urgency-infused 
+discourses reduced the breadth of the debate by focussing on symptoms or apparent causes, 
+the complexity of the issue reappears elsewhere, for example in the calls for protection of soils, 
+or as collateral effects re-occurring after the action.
+4. Part 2:  Evolving Understandings of Soil
+Hegemonic understandings of soil, and of its relations with humans, are challenged by the 
+emergence of alternative visions within and outside the Academic community, rooted on a 
+rethinking of the nature-culture dialectic. Starting from the second half of the 1990s, newer 
+takes on materialism and matter stood in opposition to humanist (and dualist) traditions pred -
+icated on a separation of mind and body, humans and non-humans (Coole and Frost 2010). 
+In this context, soil becomes a space to experiment with new reflective research practices 
+that are open to public involvement and a “technoscience from below” (Krzywoszynska et 
+Figure 2.
+A schematic depiction of the “hourglass” structure of time induced by emergency: 
+urgency infused in discourses pushes to reduce the available epistemic options, 
+excluding the more complex hypotheses, only to reinclude the complexity of 
+the issue after the action. The reduction of hypotheses causes a shrinking of the 
+political space available to a narrow set of knowledge producers, reducing the social 
+robustness of the political choice. The image is adapted from (Colella et al. 2019).50
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)51
+al. 2018; Meulemans 2020), encompassing experiences of transdisciplinary research across the 
+sciences, humanities and the arts (Meulemans et al. 2017). Doing research about soil will thus 
+bring into focus some new questions both for policy-making and for science, asking “whose 
+science”, “whose logic” and what kind of research processes can be deployed to understand the 
+problematic and fundamentally dialectical relationship between human communities and soil.
+4.1 BRIDGES: Experimenting in the Minor Key
+Encompassing research and education, the BRIDGES project was designed with a focused 
+attention to the narratives shaping research and the researchers’ ability to relate with other 
+perspectives and the more than human soil. In line with the ideas of post-normal science 
+(Funtowicz and Ravetz 1992; 2020), in which the quality of a research process is grounded 
+into a multiplicity of perspectives and visions framing a problem, the project promoted the 
+creation of a community of research involving a multiplicity of legitimate actors – humans 
+and more-than-humans – in researching with soil. 
+Such approaches, based on exchange of practices and involving different forms of knowledge 
+and disciplinary perspectives, are visibly minoritarian, and are particularly disavowed by the ties 
+and requests of traditional Academic Institutions. Hegemonic narratives of scientific research 
+rooted in the mastery of disciplinary expertise are introduced from the very early stages of educa -
+tion, and consolidated further into one’s research career; hence the task of setting out alternative 
+ways of doing research requires a critical and reflexive stance that must be explicitly introduced 
+and nurtured within the research community. The underlying questions of the project were: 
+how to develop an ecological approach to our research practices transcending disciplinary views 
+and common attitudes to nature? How do we enact attentive and inclusive practices? Which 
+epistemic posture, dispositions and languages lead to re-framing soil and research narratives?
+The process was articulated around a series of transdisciplinary workshops involving young 
+and senior researchers, and a research-artistic residence in the rural environment of Pianpicol -
+lo Selvatico2, in the high hills of Piedmont in Italy3.
+W e began this process by working directly on ourselves as a group of senior researchers, who 
+would later in the project guide the young researchers and local citizens. Amongst us were: 1 sci -
+ence educator, 3 science communicators, 1 sociologist, 2 visual artists, 1 philosopher of science/
+photographer, and 3 natural scientists with cross-disciplinary expertise in botany, geology and 
+agricultural sciences. W e note here that the mix of discipline within our group was not dictated 
+by the ambition of piecing together expertise to solve a set problem as set out by International 
+funding agencies promoting multi and interdisciplinary networks to address the global chal -
+lenges. On the contrary, we sought to create a space for critical reflection and dialogue amongst 
+ourselves and with the soil in order to surface and to explore the values and tacit narratives that 
+we hold, transcending the particular interests of our disciplines (Khoo et al. 2019). Through -
+out the process we took reflective notes of our discussions and audio and video recorded our 
+conversations. Two of us (Giuffredi and Colucci-Gray) were also acting in the double capacity 
+of participants and participant observers in charge of taking notes and offering those as stimuli 
+for shared reflection over the course of the project following the practice of participatory action 
+research in community and educational settings (Chevalier and Buckles 2013).
+4.2 Working Across Frames of Experience
+Our experience set out to examine the dynamics of such a collective experiment of working with 
+the soil in its multi-dimensional and multi-levelled complexity. Important in this regard are the 
+insights of Gregory Bateson (2000) who referred to the “pathologies of epistemology” that inhibit 
+the unconscious, perceptive and fundamentally sensorial processes in order to recover the “experi -
+ence of knowing what one feels” and “feeling what one knows”, as very particular ways of knowing 
+that are rooted in one’s body. One such experience was led in our project by two artists – Andrea 
+Caretto and Raffaella Spagna – who involved us in the performative act of “digging” the soil. 
+Digging is one of the most immediate and perhaps most fundamental of human activities. 
+We dig to find water, minerals, food and we dig in order to plant seeds and work the soil. But 
+following Bryant (2007), digging seen from an arts and humanities perspective is perhaps one 
+of the closest metaphors we associate with doing research. 
+The challenge and the opportunity were to experience the research process as situated in 
+lived and embodied situations, with every single object and every single change experienced in 
+the course of the relation with soil mattered . This approach took charge of recent critiques of 
+attentiveness (see Krzywoszynska 2019), cautioning against the more simply construed idea of 
+care-giving encoded in protocols and best practices etc., moving instead with Stengers’ (2006) 
+call for slowing the time of research and making place for «hesitating». In this sense, research 
+as attentive practice would not simply “seek out” but tend forward towards those interrelations 
+and interdependencies that may not be immediately visible. As Haraway (2008) also described 
+it, soil as the ground for research acts as a spatio-temporal “place” of  “power, knowledge and 
+technique, [and] moral questions” ( ibid. , 205). From the diverse ethnographic records col -
+lected (interviews transcriptions, group discussions recordings, fieldnotes), the experience of 
+“slow”, reflexive science led to critically re-examining some taken-for-granted features of re -
+search, and opened the space for addressing them. We can organise and briefly describe such 
+reflections in parallel with our analysis of the features of the urgency frame, as follows.
+Urgency frame Slow science experience
+Crisis time require action The fatigue and the opportunity of inaction
+It is necessary to act quickly Unaccustomed to slowness
+It is necessary to act with a pragmatic mindset The need for relentless reflection
+Non-action projects a gloomy future Response-ability over our common futures
+Table 1.
+A synthetic view of the features of the urgency frame, as identified and analysed in the 
+devoted section, and some categories of reflection stimulated in the participants to the 
+BRIDGES project by the experimentation of alternative vision and practices of research.52
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)53
+• The Fatigue and the Opportunities of Inaction . The BRIDGES digging experience 
+was framed within an indefinite time of observation. The mandate was to close the 
+observation only when all of us agreed to have had the time to observe and note down 
+everything . This requirement was felt particularly challenging by some of us: some 
+reported feelings of boredom and fatigue of staying within an indefinite present time . 
+Conversely, space was opened to note and record feelings and affective dispositions 
+that are commonly neglected in our working lives (especially when compiling research 
+accounts), such as sensorial experiences (hot/cold, smells and perfumes, hunger/thirst) 
+and the opportunity to notice the presence (or the absence, in some contexts) of ani -
+mal and plant creatures, insects, worms, maggots, different types of grasses, trees and 
+their roots, along with careful and meticulous noting down of the material properties 
+of the soil (dusty/dry/hard/soft/moist). A certain difficulty was also reported regard -
+ing the lack of a proper language to name the objects of observations; alternative ways 
+to describe the observations were then proposed, including sketching the objects and 
+testing the features of soil by preparing colours for painting. 
+• Unaccustomed to Slowness . The experience of digging was performed over the course 
+of all 4 days and it was only at the end of the period spent together that we realised the 
+importance of having been away from our everyday commitments and in a context that 
+invited a curious openness (Haraway 2016). This aspect became particularly apparent 
+when the same experience, constrained in time and space, was proposed in an urban set -
+ting (a public park in Milan). Some participants reported a negative opinion on the ex -
+perience, perceived as being not so meaningful and uncomfortable: the urban context 
+appeared to reduce the space for openness to encounters, in many ways different from 
+the experiences reported by those of us who had been in the rural context of Pianpicollo.  
+Dishabituation to slowness also emerged when dealing with the life of researchers, 
+packed with deadlines, anticipation of outputs and impacts, and in general based on 
+“human” times, removed from the times of relations and the times belonging prop -
+erly to non-humans. This was a problem which affected planning in the project as 
+researching with soil also demanded taking account of its rhythms, the seasonality of 
+plant and animal life as well as the unpredictability of the weather and how this was 
+to be reconciled with the timelines of human working lives. Resonating with the ob -
+servations of Meulemans (2019), our experiences spoke to us about the importance 
+of recognising the modalities and the specific context in which we come to know soil.
+• The Need for Relentless Reflection . Over the course of the project, it became apparent 
+that the journey towards a new way of doing and being in research necessitates times 
+and spaces for reflection, that are not simply individual but shared within a commu -
+nity. This led to modifications in our communication infrastructure to accommodate 
+discussion on emerging issues: in-presence meetings under the guidance of more expert 
+colleagues as well as online research conversations amongst us, shared documents for 
+writing down ideas and the creation of a photographic repository as a memory of our 
+journeys, a way of remembering the community and bringing it together, each time 
+offering a new perspective. Later in the project, when we worked with the group of 
+young researchers, it was notable the need at every meeting to re-discuss the grounds of 
+their research work: for example, when dealing with the idea of developing participa -
+tory indicators of soil fertility, the debate centred on the meaningfulness of such an in -
+strument, for what purpose and for whom; a critical stance towards the overwhelming 
+measuring attitude of the natural sciences emerged regularly as a point of discussion. 
+Many young researchers reported that creating the space for discussion of pre-existing 
+structures and assumptions was one of the most revitalising features of the project.
+• Response-Ability Over our Common Futures . As the project is currently ongoing, 
+the next steps in this inquiry will revolve around addressing the fundamental questions 
+and dilemmas that such an approach poses for all research communities wishing to 
+account for the needs of soil communities. Bringing sedimented attitudes, perceptions, 
+ways and modes of approaching research to the surface, and recasting cognition as part 
+of a set of artistic-relational practices, was the first methodological choice we made to 
+physically bring soil to our own attention; focus and reflect on the role of intermedi -
+aries in this contact-zone, those being our values, prejudices but also our pre-existing 
+knowledge and the tools chosen (or not chosen) for our inquiry. In this sense we began 
+to think differently both about soil and about research: not as a tool or resource, but as 
+a set of mutual relations amongst crafting practitioners of human-nature relationships.
+5. Conclusions: Re-framing Narratives of Research as “Practices of 
+Attention”
+Rhetoric based on urgency is widely diffused across Western countries’ science policy dis -
+courses. Soil in this case is not only the ground upon which we walk, but it is also the terrain 
+of the debate; it is perhaps more appropriately understood with capital “S” as suggested by 
+Ulmer (2017), to mean a state of being which can be framed differently according to alter -
+native master narratives; one such narrative foregrounds results and outcomes over subjects 
+and relations; while the other, which we pointed to as a narrative of attention, is the one 
+which highlights processes of mutual interdependencies and co-evolution, and can be re -
+ferred to as the narrative of Slow (Stengers 2017). 
+Guiding our experiments was the idea of moving in the opposite direction of the narrative of 
+urgency, widening the range of perspectives and points of view and thus slowing down rational 
+action, by making visible and possible dimensions of our existence which are normally negat -
+ed, silenced or left unconscious. As Coole and Frost (2010, 5) observe, ontology facilitates the 
+study of the “existence[s] that shape our everyday relationships to ourselves, to others, and to 
+the world”. In this regard, Slow Ontology is not simply about expanding time to the point of 
+grinding to a halt, or even justifying the lack of action, but it offered us a lens through which 
+to re-examine methodological practices, and our experiences in BRIDGES showed some op -
+portunities but also difficulties. While framing a relationship with Soil within a Slow ontology 
+has the potential to multiply and expand the possibilities and dimensions for knowing, this 
+approach challenges the current system of competitive funding, demanding researchers to 
+work in a hurry as they chase the next paper or the next contract. Time constraints are always 
+problematic for projects but even more so in a project like BRIDGES, which has the ambition 54
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)55
+to develop relationships and community, make tacit narratives emerge and promote a trans -
+formative process. Further research is thus required to understand the extent to which master 
+narratives can be reformulated in everyday research practices within and beyond academia.
+From this perspective, we can at least start exploring what might be alternative rhythms of 
+inquiry running alongside the industrial beat of economic production. In the Slow framing, 
+we can ask different questions of our own research communities: how diverse are the relation -
+ships that are being forged and with whom? What values underpin our practices, aspirations 
+and perspectives? And how far and for how long are we letting the other enter our percep -
+tion, and be prepared to listen? Such questions revolve around methodological choices that 
+are dialogical and sensorial; they do not operate via logical-analytical thinking but they seek 
+patterns, connections, and story-telling, calling for a more-than-human, entangled approach 
+to research with and through the multiple epochs of Soil.
+Acknowledgements
+The authors wish to thank the entire team of the BRIDGES project, which contributed substantially 
+to the development of the research. They also thank Pianpicollo Selvatico ETS for having hosted the 
+residential workshops, as part of the project. BRIDGES is a project funded by Fondazione Cariplo, 
+grant n° 2020-1204. L’ Astorina also acknowledges the contribution from the Italian National Center 
+for the Future Biodiversity (NCFB).
+Notes
+1 See: https://www.progetto-bridges.it .
+2 See: http://www.pianpicollo.org/ .
+3 Not covered in this paper’s account of the BRIDGES project was the final experiment – inspired by 
+Citizen science – involving a number of citizen networks engaged in different forms of soil care activism 
+in the urban area of Milan (Criscuolo et al. 2024). Inspired by the European Responsible Research and 
+Innovation (RRI) Approach (L’Astorina and Di Fiore 2017), the citizen science experiment headed to -
+wards a responsive and iterative process aimed at discussing and collectively co-producing “soil fertility 
+indicators”, based not only on techno-scientific but also social, political, and esthetical categories.
+References
+Anderson, Ben, Grove, Kevin, Rickards, Lauren and Kearnes, Matthew (2020) Slow emergencies: Tem -
+porality and the racialized biopolitics of emergency governance , in “Progress in Human Geography”, 
+44(4), pp. 621-639.
+Bateson, Gregory (2000) Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evo -
+lution, and Epistemology  [Revised edition curated by Mary Catherine Bateson], Chicago, Chicago 
+University Press.
+Benessia, Alice, Funtowicz, Silvio, Bradshaw, Gay, Ferri, Francesca, Ráez-Luna, Ernesto and Medina, 
+Charito (2012) Hybridizing sustainability: Towards a new praxis for the present human predicament , 
+in “Sustainability Science”, 7(Suppl_1), pp. 75-89.
+Bonneuil, Cristophe (2015) The geological turn: Narratives of the Anthropocene , in Clive Hamilton, 
+François Gemenne and Christophe Bonneuil (eds.), The Anthropocene and the Global Environmen -
+tal Crisis: Rethinking modernity in a new epoch , London, Routledge, pp. 17-31.
+Browne, Jennifer, Coffey, Brian, Cook, Kay, Meiklejohn, Sara and Palermo, Claire (2018) A guide to 
+policy analysis as a research method , in “Health Promotion International”, 34(5), pp. 1032-1044.
+Bryant Logan, William (ed.) (2007) On Digging Holes , in Dirt: The Ecstatic Skin of the Earth , New Y ork, 
+W. W. Norton & Company, pp. 136-144.
+Bryant, Rebecca (2016) On Critical Times: Return, Repetition, and the Uncanny Present , in “History 
+and Anthropology”, 27(1), pp. 19-31.
+Burnard, Pam, Colucci-Gray, Laura and Cooke, Carolyn (2022) Transdisciplinarity: Re-Visioning How 
+Sciences and Arts Together Can Enact Democratizing Creative Educational Experiences , in “Review 
+of Research in Education”, 46(1), pp. 166-197. 
+Chandler, David (2018) Ontopolitics in the Anthropocene: An Introduction to Mapping, Sensing and 
+Hacking , London, Routledge.
+Chevalier, Jacques and Buckles, Daniel (2013) Participatory Action Research: Theory and Methods for 
+Engaged Inquiry , Abingdon (UK), Routledge. 
+Colella, Christian, Carradore, Roberto and Cerroni, Andrea (2019) Problem Setting and Problem Solv -
+ing in the Case of Olive Quick Decline Syndrome in Apulia, Italy: A Sociological Approach , in “Phyto -
+pathology”, 109(2), pp. 187-199. 
+Coole, Diana and Frost, Samantha (eds.) (2010) Introducing the New Materialisms , in New Material -
+isms: Ontology, Agency, and Politics , Durham, Duke University Press, pp. 1-43.
+Criscuolo, Laura, Bordogna, Gloria, Barbara, Lara, Benessia, Alice, Bergami, Caterina, Calastri, Elisa, 
+Capocefalo, V alentina, Caretto, Andrea, Cavallo, Chiara, Chakraborty, Anwesha, Colella, Chris -
+tian, Colucci-Gray, Laura, Crosetto, Stefano, De Lazzari, Amelia, Di Lonardo, Sara, Ercole, Enrico, 
+Giuffredi, Rita, Grasso, Francesca, Grasso, Valentina, Laurenza, Lucia, Mallardo, Salvatore, Nigro, 
+Francesco, Oggioni, Alessandro, Piccolin, Fabio, Pizzi, Flavia, Serini, Beatrice, Spagna, Raffaella, Ub -
+biali, Giorgio A., V ergine, Pompilio and L’ Astorina, Alba (2024) Developing a Participatory Process 
+for Soil Fertility: A Case Study in an Urban Area of Italy , in “Sustainability”, 16(12), 4882.
+Cronon, William (1992) A Place for Stories: Nature, History and Narrative , in “The Journal of Ameri -
+can History”, March, pp. 1347-1376.
+Déry, Patrick (2007, August 13) Peak phosphorus . Resilience [Originally published by Energy Bul -
+letin]. Available at: http://www.resilience.org/stories/2007-08-13/peak-phosphorus/  (retrieved 
+July 7, 2015).
+Food and Agriculture Organization of the United Nations (FAO) (2022a) The State of the W orld’s 
+Land and W ater Resources for Food and Agriculture 2021 – Systems at breaking point  [Main Re -
+port]. FAO. Available at: https://openknowledge.fao.org/items/ff3cfcc4-e895-4df0-a925-c8ce -
+240004ab  (retrieved April 30, 2024).
+Food and Agriculture Organization of the United Nations (FAO) (2022b) Global Soil Partnership 
+2012/2022 – A decade of speaking up for soil health  [Video]. Y ouTube. Available at: https://www.
+youtube.com/watch?v=cs39tN0yRfs  (retrieved April 30, 2024).56
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)57
+Food and Agriculture Organization of the United Nations (FAO), Intergovernmental T echnical Pan -
+el on Soils (ITPS), Global Soil Biodiversity Initiative (GSBI), Convention on Biological Diversity 
+(CBD), and European Commission (EC) (2020) State of Knowledge of Soil Biodiversity – Status, 
+challenges and potentialities . FAO. Available at: https://openknowledge.fao.org/items/8562c177-
+1fd4-4630-a704-a54cc3efb21d  (retrieved April 30, 2024).
+Food and Agriculture Organization of the United Nations (FAO) and Global Soil Partnership (GSP) 
+(2022) Global Soil Partnership Action Framework 2022-2030 – Healthy soils for a healthy life and envi -
+ronment: From promotion to consolidation of sustainable soil management  [Framework]. FAO. Avail -
+able at: https://www.fao.org/global-soil-partnership/about/gsp-action-framework-2022-2030/en/  
+(retrieved April 30, 2024).
+Food and Agriculture Organization of the United Nations (FAO) and Intergovernmental T echnical 
+Panel on Soils (ITPS) (2015) Status of the W orld’s Soil Resources (SWSR)  [Main Report]. FAO. Avail -
+able at: https://www.fao.org/policy-support/tools-and-publications/resources-details/en/c/435200  
+(retrieved April 30, 2024).
+Funtowicz, Silvio and Ravetz, Jerome (1992) Connaissance utile, ignorance utile: Dissertation sur deux 
+types de science , in Jacques Theys and Bernard Kalaora (eds.), La Terre outragée: Les experts sont for -
+mels!, Paris, Autrement, pp. 87-101.
+Funtowicz, Silvio and Ravetz, Jerome (2020) Post-Normal Science: How Does It Resonate With the 
+W orld of Today? , in Vladimír Šucha and Marta Sienkiewicz (eds.), Science for Policy Handbook , Lon -
+don, Elsevier, pp. 14-18.
+Giuffredi, Rita (2019) «… before it is too late»: contrazione della dimensione temporale e retorica dell’ur -
+genza nei discorsi europei sulla ricerca , in “Futuri”, 11, pp. 23-31.
+Granjou, Céline and Meulemans, Germain (2023) Bringing soils to life in the human and social sciences , 
+in “Soil Security”, 10, 100082.
+Hamilton, Clive, Bonneuil, Cristophe and Gemenne, François (eds.) (2015) Thinking the Anthropo -
+cene , in The Anthropocene and the Global Environmental Crisis: Rethinking modernity in a new ep -
+och, London, Routledge, pp. 1-13.
+Hancock, Jonathan, Gray, Donald and Colucci-Gray, Laura (2023) A view from the garden: Interrupt -
+ing politics of attainment and re-orienting education towards sustainable futures , in “European Edu -
+cational Research Journal”, 0(0). 
+Haraway, Donna (2008) When Species Meet , Minneapolis, University of Minnesota Press.
+Haraway, Donna (2016) Staying with the Trouble: Making Kin in the Chtulucene , Durham, Duke 
+University Press.
+Intergovernmental Panel on Climate Change (IPCC) (2019) Climate Change and Land – An IPCC 
+Special Report on climate change, desertification, land degradation, sustainable land management, 
+food security, and greenhouse gas fluxes in terrestrial ecosystems  [Report – P. R. Shukla, J. Skea, E. 
+Calvo Buendia, V. Masson-Delmotte, H.-O. Pörtner, D. C. Roberts, P. Zhai, R. Slade, S. Connors, 
+R. van Diemen, M. Ferrat, E. Haughey, S. Luz, S. Neogi, M. Pathak, J. Petzold, J. Portugal Pereira, P. 
+Vyas, E. Huntley, K. Kissick, M. Belkacemi and J. Malley (eds.)]. IPCC. Available at: https://www.
+ipcc.ch/srccl/  (retrieved April 30, 2024).
+Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) (2018) The Assess -
+ment Report on Land Degradation and Restoration  [Report – L. Montanarella, R. Scholes and A. Brainich 
+(eds.)]. IPBES. Available at: https://www.ipbes.net/assessment-reports/ldr  (retrieved April 30, 2024).
+Jasanoff, Sheila and Kim, Sang-Hyun (eds.) (2015) Dreamscapes of Modernity: Sociotechnical Imaginar -
+ies and the Fabrication of Power , Chicago, University of Chicago Press. 
+Kaiser, Mario (2015) Reactions to the Future: The Chronopolitics of Prevention and Preemption , in “Na -
+noEthics”, 9(2), pp. 165-177.
+Khoo, Su-Ming, Haapakoski, Jani, Hellstén, Meeri and Malone, Joanne (2019) Moving from inter -
+disciplinary research to transdisciplinary educational ethics: Bridging epistemological differences in 
+researching higher education internationalization(s) , in “European Educational Research Journal”, 
+18(2), pp. 181-199.
+Kirksey, S. Eben and Helmreich, Stefan (2010) The Emergence of Multispecies Ethnography , in “Cultur -
+al Anthropology”, 25(4), pp. 545-576.
+Krasilnikov, Pavel and Tabor, Joseph (2010) Ethnopedology and Folk Soil Taxonomies , in Willy H. V erh -
+eye (ed.), Soils, Plant Growth and Crop Production – V olume III , EOLSS, pp. 135-160.
+Krzywoszynska, Anna (2019) Caring for soil life in the Anthropocene: The role of attentiveness in more-
+than-human ethics , in “Transactions of the Institute of British Geographers”, 44(4), pp. 661-675.
+Krzywoszynska, Anna, Matt, W atson, Buckley, Alastair, Chiles, Prue, Gregson, Nicky, Holmes, Helen 
+and Mawyin, Jose (2018) Opening Up the Participation Laboratory: The Cocreation of Publics and 
+Futures in Upstream Participation , in “Science, Technology, & Human Values”, 43(5), pp. 785-809.
+L’Astorina, Alba and Di Fiore, Monica (2017) A New Bet for Scientists? Implementing the Responsible 
+Research and Innovation (RRI) approach in the practices of research institutions , in “Relations – Be -
+yond Anthropocentrism”, 5(2), pp. 157-174.
+Latour, Bruno (2018) Down to Earth: Politics in the New Climatic Regime , Cambridge (UK), Polity Press.
+Lynch, Amanda H. and Veland, Siri (2018) Urgency in the Anthropocene , Cambridge (MA), MIT Press.
+Lyons, Kristina M. (2020) Vital Decomposition: Soil Practitioners and Life Politics , Durham, Duke University Press.
+Martin, Aryn, Myers, Natasha and Viseu, Ana (2015) The politics of care in technoscience , in “Social 
+Studies of Science”, 45(5), pp. 625-641.
+Meulemans, Germain (2019) W ormy Collaborations in Practices of Soil Construction , in “Theory, Cul -
+ture & Society”, 37(1), pp. 93-112.
+Meulemans, Germain (2020) Urban Pedogeneses: The Making of City Soils from Hard Surfacing to the 
+Urban Soil Sciences , in “Environmental Humanities”, 12(1), pp. 250-266.
+Meulemans, Germain, Legrand, Marine, T ondeur, Anaïs, Thibault-Picazo, Y esenia and V ergnes, Alan 
+(2017) Soil Fictions: Addressing Urban Soils between Art, Soil Ecology, and Anthropology , in “Collab -
+orative Anthropologies”, 10(1-2), pp. 20-44.
+Milazzo, Enrico and Colella, Christian (2022) “L’emergenza la sentivi ovunque”: Temporalità e Confini 
+della Tecnoscienza e della Cura nell’epidemia di Xylella fastidiosa in Salento , in “Antropologia”, 9(2 
+N.S.), pp. 97-121. 
+Murdoch, Jonathan (2001) Ecologising Sociology: Actor-Network Theory, Co-construction and the Prob -
+lem of Human Exemptionalism , in “Sociology”, 35(1), pp. 111-133.
+Ojeda, Diana, Sasser, Jade S. and Lunstrum, Elizabeth (2019) Malthus’s spectre and the anthropocene , in 
+“Gender, Place & Culture”, 27(3), pp. 316-332.
+Papadopoulos, Dimitri (2018) Experimental Practice: Technoscience, Alterontologies, and More-Than-
+Social Movements , Durham, Duke University Press.
+Pellizzoni, Luigi (2011) Governing through disorder: Neoliberal environmental governance and social 
+theory, in “Global Environmental Change”, 21(3), pp. 795-803.58
+ Giuffredi, Colella, Colucci-Gray, Caretto, Spagna, L’Astorina
+Tecnoscienza. 2024. 15(2)59
+Pellizzoni, Luigi (2020) The time of emergency: On the governmental logic of preparedness , in “AIS”, 16, 
+pp. 39-54.
+Puig de la Bellacasa, Maria (2015) Making time for soil: Technoscientific futurity and the pace of care , in 
+“Social Studies of Science”, 45(5), pp. 691-716.
+Randazzo, Elisa and Richter, Hannah (2021) The Politics of the Anthropocene: Temporality, Ecology, and 
+Indigeneity , in “International Political Sociology”, 15(3), pp. 293-312.
+Rockström, Johan, Steffen, Will, Noone, Kevin, Persson, Åsa, Chapin, F. Stuart III, Lambin, Eric, Len -
+ton, Timothy M., Scheffer, Marten, Folke, Carl, Schellnhuber, Hans Joachim, Nykvist, Björn, De 
+Wit, Cynthia A., Hughes, Terry, van der Leeuw, Sander, Rodhe, Henning, Sörlin, Sverker, Snyder, 
+Peter K., Costanza, Robert, Svedin, Uno, Falkenmark, Malin, Karlberg, Louise, Corell, Robert W., 
+Fabry, Victoria J., Hansen, James, Walker, Brian, Liverman, Diana, Richardson, Katherine, Crutzen, 
+Paul and Foley, Jonathan (2009) Planetary boundaries: Exploring the safe operating space for human -
+ity, in “Ecology and Society”, 14(2), 32. Available at: https://www.ecologyandsociety.org/vol14/
+iss2/art32/  (retrieved April 30, 2024).
+Roitman, Janet L. (2014) Anti-Crisis , Durham, Duke University Press.
+Schiebinger, Londa (2004) Plants and Empire: Colonial Bioprospecting in the Atlantic W orld , Cam -
+bridge (MA), Harvard University Press.
+Sippel, Sarah R. and Visser, Oane (2021) Introduction to symposium “Reimagining land: Materiali -
+ty, affect and the uneven trajectories of land transformation” , in “ Agriculture and Human V alues”, 
+38(1), pp. 271-282.
+Steffen, Will, Broadgate, Wendy, Deutsch, Lisa, Gaffney, Owen and Ludwig, Cornelia (2015) The tra -
+jectory of the Anthropocene: The Great Acceleration , in “The Anthropocene Review”, 2(1), pp. 81-98.
+Stengers, Isabelle (2006) La vierge et le neutrino: Les scientifiques dans la tourmente , Les Empêcheurs 
+de Penser en rond.
+Stengers, Isabelle (2017) Another Science is Possible: A Manifesto for Slow Science , London, Polity Press.
+T allacchini, Mariachiara (2015) To Bind or Not To Bind? European ethics as soft law , in Stephen Hilgar -
+tner, Clark A. Miller and Rob Hagendijk (eds.), Science and Democracy: Making Knowledge and 
+Making Power in the Biosciences and Beyond , London, Routledge, pp. 156-175.
+T aussig, Michael (2020) The Mastery of Non-Mastery in the Age of Meltdown , Chicago, University of 
+Chicago Press.
+Ulmer, Jasmine B. (2017) Writing Slow Ontology , in “Qualitative Inquiry”, 23(3), pp. 201-211.
+United Nations Convention to Combat Desertification (UNCCD) (2022) Global Land Outlook – 
+Land Restoration Recovery and Resilience . UNCCD. Available at: https://www.unccd.int/resourc -
+es/global-land-outlook/global-land-outlook-2nd-edition  (retrieved April 30, 2024).
+Visser, Oane (2021) Persistent farmland imaginaries: Celebration of fertile soil and the recurrent igno -
+rance of climate , in “ Agriculture and Human V alues”, 38(1), pp. 313-326.
+Whatmore, Sarah (2006) Materialist returns: Practising cultural geography in and for a more-than-hu -
+man world , in “Cultural Geographies”, 13(4), pp. 600-609. 
+Witze, Alexandra (2024) Geologists reject the Anthropocene as Earth’s new epoch – after 15 years of debate , 
+in “Nature”, 627(8003), pp. 249-250.
+Zografos, Christos and Robbins, Paul (2020) Green Sacrifice Zones, or Why a Green New Deal Cannot 
+Ignore the Cost Shifts of Just Transitions , in “One Earth”, 3(5), pp. 543-546.

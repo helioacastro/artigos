@@ -1,0 +1,302 @@
+https://doi.org/10.1177/14614448221149945new media & society
+2023, Vol. 25(2) 273 –286
+© The Author(s) 2023
+Article reuse guidelines:  
+sagepub.com/journals-permissions
+DOI: 10.1177/14614448221149945
+journals.sagepub.com/home/nms
+Data centers and the 
+infrastructural temporalities of digital media: An introduction
+Julia Velkova
+Linköping University, Sweden
+Jean-Christophe Plantin
+London School of Economics and Political Science, UK
+Abstract
+While data centres are predominantly studied via their spatial and territorial dimensions, we investigate this critical part of the contemporary Internet infrastructures via its temporalities and their multiple mediations. With this introduction and the articles of this special issue, we collectively complement existing scholarship on critical data studies and media infrastructure by investigating the role that data infrastructure plays in shaping the temporalities of data. Focusing on data centres, the contributors analyze the vast infrastructural assemblage that supports such temporalities. The concept of timescapes (after Barbara Adam) guides us to organize the contributions to this special issue along the analysis of three infrastructural timescapes of data—socio-economic, elemental, and transitory—to reveal new facets of the politics of time in the data economy.
+Keywords
+Data, data center, infrastructure, temporality, timescape
+This special issue engages with the temporalities of data as mediated through a critical 
+part of Internet infrastructures today—data centers. Current practices of automated data tracking, data processing, and algorithmic decision-making appeal to industries and 
+Corresponding authors:
+Jean-Christophe Plantin, Department of Media and Communications, London School of Economics and Political Science, Houghton Street, London, UK. Email: J.Plantin1@lse.ac.uk
+Julia Velkova, Linköping University, Hus T Campus Valla, Linkoping, Sweden.
+Email: julia.velkova@liu.se1149945 NMS 0010.1177/14614448221149945new media & societyVelkova and Plantin
+research-article 2022
+Introduction to Special Issue
+
+274 new media & society 25(2)
+institutions around the world today, not only as sources of “objective knowledge” about 
+anything, but also because of their promise to transform the temporalities of knowing. The prospect of owning and using digital data has established pre-emption as “the pre-sent future” (Pentzold et al., 2020) around which media, citizens, and organizations are 
+algorithmically assembled and classified in relation to categories of risk and economic value (Amoore, 2013; Cevolini and Esposito, 2020; Ziewitz and Singh, 2021). Understanding how data-driven knowledge production is establishing pre-emption as a mode of governing and organizing populations today has become a central question in critical data studies and adjacent fields. Scholars have illuminated the extensive cultural work of narrating, cleaning, sorting, and discarding data through which these temporali-ties are enacted and sustained as modes of governance (Cakici et al., 2020; Gitelman, 
+2013; Pink et al., 2018; Plantin, 2019; Thylstrup, 2019). Their societal implications are today associated with the reproduction of social inequalities across diverse arenas of social practice that range from health, insurance, education, and energy to everyday life. Others have started to examine how temporal regimes of pre-emption become “hard-wired” (V olmar and Stine, 2021) into digital devices and how data times remain diverse, competing, and often contradictory, despite the purported dominance of pre-emption (Douglas et al., 2021: 17; Maguire et al., 2020).
+With this special issue, we extend these perspectives by calling attention to the role 
+data infrastructure plays in shaping the temporalities of data. Temporalities of data emerge in relation to the continuous sociopolitical organization of a vast infrastructural assem-blage that includes code, routing protocols, data centers, cables, people, network equip-ment, territories, soil, air, water, energy, and other human and non-human entities. Of all these entities, we find data centers to be particularly productive for engaging with the poli-tics of time in the data economy. Most Internet content and data today pass through and get stored on these facilities. As we are writing this text, large and small territories on Earth’s five continents, underground, underwater, and in space are being envisioned, planned, and zoned for the construction and operation of new data centers. From Singapore to Iceland, and from Cape Town through Chile to Northern Ireland, data centers have become critical to large-scale industrial projects that render climate, energy, and the planet “knowable” and exploitable through data. The incidental failure of just one such facility has proven capable of knocking out large parts of national services, transnational online platforms, and entertainment media, interrupting the pace of data transmission and digital service provision across several continents for weeks (Rosemain and Satter, 2021). The timely operation of platform services, computation on demand, streaming video, and social media are thus critically dependent not just on software or data capture but also upon organizing and managing their timely provision from within data centers.
+Despite their critical role in mediating time in the digital economies of data, scholarly 
+work on data centers has so far approached these infrastructures overwhelmingly in rela-tion to the politics of place (Hogan, 2015; Holt and V onderau, 2015; Johnson, 2019; Lehuedé, 2022; Mayer, 2019, 2020; Taylor, 2017; Veel, 2017). With this special issue, we call for the importance of adding a temporal perspective to these accounts to under -
+stand the sociopolitical structuring of time in the economies of data. We find such a perspective necessary in order to balance much of the presentist- and emergence-oriented discussion on pre-emption that dominates currently the field, and connect it to broader 
+Velkova and Plantin 275
+debates about the mediation of time through media infrastructure. Such a move allows us 
+to see how data centers extend, suspend or transform relations of power, difference, and economic worth through the socio-material politics of mediating time. To capture these dynamics, we introduce the notion of “infrastructural timescapes of data.” Timescapes connote the rhythmicities, timings, tempos, modalities of past, present, and future, dura-tional changes, and sequences of the multiple “scapes”—landscapes, cityscapes, and sea-scapes—within which technologies operate, and the conflicts that emerge in these interrelations (Adam, 1998: 10). Timescapes, according to Barbara Adam, emerge in the juncture between the multifarious temporalities of economic, geological, and lived time, and bring into purview their embodied and affective dimensions. A timescape analysis does not provide an account of what time is, but rather how it is produced, practiced, and how it enters multiple systems of values (Adam, 2000).
+Infrastructures generate and sustain multiple timescapes. A long lineage of work in 
+the fields of anthropology of technology, science and technology studies, and media studies has asserted that sociocultural temporalities and timings are produced and shaped with and in relation to infrastructure and the visions of people who design, maintain, and shape their operations (Anand et al., 2018; Appel, 2018; Jackson, 2017; Mulvin, 2017). Infrastructures shape social time and inform understandings of modernity (Edwards, 2003); they are also perceived differently on multiple scales (Hecht, 2018; Mattern, 2015). Using the example of scientific collaboration, Ribes and Finholt (2009) also show how infrastructure evolves through constant negotiations between short- and long-term goals, enacting what they call the “long now of infrastructure.” Infrastructures are thus both creatures and agents of time (Jackson, 2017), a dual relationship that evolves over the lifetime of infrastructure. The timescapes of data infrastructures are therefore not singular or linear but heterotemporal and relational (Cohn, 2016). Infrastructures not only emerge—they age, they break down, they are destroyed through prolonged “curated decay” (DeSilvey, 2017) or through quick “irruptions” of time (Starosielski, 2021), for example, a fire, an earthquake, or an event of war might “punctuate” (Guyer, 2007) care-fully scaffolded temporalities.
+Our approach to data infrastructures via their timescapes is further indebted to two 
+cognate concepts. First, we analyze the timescapes of data infrastructures by fore-grounding the multiple power-chronographies (Sharma, 2014) that undergird their oper -
+ations. Power-chronographies, following Sharma, reject universalist claims of speed-up or acceleration and draw attention to the differentiated lived experience of time pro-duced through the biopolitics of labor. The authors participating in this issue describe how various actors, such as local policy makers, site managers, or Internet users, con-stantly “re-calibrate” the temporalities of data infrastructures and themselves to expec-tations toward the tempos and economies of data processing. These re-calibrations of time produce differential configurations of power—such as between users of “cloud” services and the workers who sustain these services from within data centers in different parts of the world; or between consumer experiences of “uptime” of online streaming services and the masculitinies that structure labor in data centers (see Taylor as well as Gonzalez, this issue).
+Second, we draw on the metaphor of temporal polyphony (Tsing, 2015: 23–24) 
+to bring attention to the cultural work done by different actors—human 
+276 new media & society 25(2)
+and non-human—on entangling and disentangling multiple tempos, rhythms, and 
+timelines along which data infrastructures exist. In polyphony, Tsing reminds us that multiple autonomous melodies intertwine, and the listener must pick separate, simultaneous melodies while listening to moments of harmony and dissonance, an act that requires learning to appreciate the multiple temporal rhythms and trajecto-ries of an assemblage. Applied to the temporalities of infrastructures, temporal polyphonies reveal the mutability and transience of data infrastructures, their emer -
+gence and aging, break down, repair, and discard alongside anticipations about their growth and expansion. The concept also prompts considering the forms of care that sustain infrastructures through their polyphonic lifetimes, as well as how transitory temporalities and relations of power take shape.
+We examine how temporal polyphonies and power-chronographies are shaped within 
+three infrastructural timescapes of data that we call socio-economic, elemental, and tran-sitory timescapes, which we use to organize the contributions to this special issue. Devika Narayan, Vicki Mayer, and Steven Gonzalez first explore the diverse forms of data center-related labor that sustain the sociotechnical and economic organization of power-chronographies of data. Tonia Sutherland and Gailyn Bopp, Patrick Brodie and Patrick Bresnihan, and Mél Hogan then analyze how the temporalities of data economies are shaped through power-laden interrelations with the elements, thereby extending colonial and gendered forms of domination and techno-masculinity, but also generating critical responses through artistic practices. Alex Taylor and Julia Velkova finally show how data temporalities are produced in relation to the prospect of failure and processes of aging, discard, and disposal of infrastructure.
+Socio-economic timescapes of data
+Data processing today is crucially dependent on companies’ abilities to organize their access to computation and storage capacities. “Big Tech” companies—as the largest operators of data today—have invested heavily in expanding and managing their own data infrastructure, which includes networks of data centers, ownership of dedicated fiber optic cables, strategic hires of engineers, and customized network management software. They have also commercialized this infrastructure by converting access to it into “commodity computational services” (Ensmenger, 2021). This move toward cloud computing represents, a successful revival of the relatively old technology of time shar -
+ing, through which multiple users share time on a server, transforming computation resources into a new commodity in the data economy (Hu, 2015). The implications of this new model are profound and have a global outreach. For instance, in countries, such as India, it is transforming the balance of power between telecom, media industries and the state (Parthasarathi et al., in press). It also creates conditions for software companies to gain competitive advantage by exposing the Indian software economy to global mar -
+kets and overcoming issues of cost, maintenance, repair, and upgrades of in-house hard-ware and software (Narayan, this issue).
+Key to this economy is the sociotechnical production of the speed of data traffic, as 
+well as maintaining uptime, a measure of the time an online service is available. Speed today is increasingly dependent upon industry decisions on where to locate a data center, 
+Velkova and Plantin 277
+to which fiber optic cables it would connect, to the physical proximity to its expected 
+users, and to selected Internet exchanges (Rosa, 2021) as well as content delivery net-works. Decisions about speeding-up data traffic increasingly rely upon finding the physi-cally shortest and fastest path that data have to travel between two places, what MacKenzie (2017) names the “capital’s geodesic”. In sectors, such as high-frequency algorithmic trading, a speed difference of a millisecond might put a competing organiza-tion out of business and leads to the careful planning and placing of data centers in stra-tegic locations to shorten speeds of traffic (MacKenzie, 2021). Other sectors tolerate greater differences, but speed nevertheless remains a key concern.
+The industrial concern with speeding up data exchanges inscribes data center con-
+struction and operations in the long lineage of their predecessors, for example, large-scale communication infrastructures, such as fiber optic and satellite networks, the telegraph, the telephone, or the railway. These networks have historically informed dom-inant understandings of time and temporality with media in terms of speeding-up. Adding data centers to the list brings into purview the plurality of tempos that compose data speeds and the formation of power-chronographies (Sharma, 2014) that sustain them. Speed, following Sharma, ´is always relational and experienced differently depending on one’s geographic location and one’s subject and social position. As Sharma eloquently writes, speed privileges some workers, consumers, and temporalities while leaving oth-ers to re-calibrate themselves. It creates power differentials between media consumers who have a “seamless” experience of online content delivery, and others who have to contend with degraded images and sound (Larkin, 2004), planned delays (Lobato, 2019), or experiences of “aesthetic lag” (Starosielski, 2015).
+Power differences and temporal re-calibrations are palpable at the sites and locations 
+where data centers are installed, and they are expressed through concerns about  recruiting workers and maintaining “uptime” in data centers. Using as an example the establishment of a Google data center in Groningen in the Netherlands, Vicki Mayer in this issue describes how the temporalities of data infrastructure and labor time get entangled through long-rehearsed narratives of “economic development time, shaping the temporalities and lived experiences of prospective workers’’ (Mayer, this issue). The temporality of labor that surrounds data center establishment in places, such as Groningen carries the promise of linear progress and a form of modern life (Appel, 2018; Edwards, 2003). This promise risks to remain though an incomplete ‘ideal’ (Graham and Marvin, 2001), often deepening social divides and inter-regional conflicts where data centers are emplaced (Burrell, 2020; Johnson, 2019; Mayer, 2020). Depending on their social position, citizens calibrate and occupy different positions in relation to these new infrastructures. Those privileged to find a job in a data center can become an operator or security guard, and have to temporally re-calibrate their bodies to operate in stillness and silence, often alone, providing compan-ionship and care for machines and rehumanizing the spaces they inhabit (Mayer et al., in 
+press; Taylor, 2021; Velkova, 2020). These bodily re-calibrations to the times of machines cannot be separated from gender and identity nor from data economies as such. They manifest through performances of masculinity that become part of the labor of keeping up the ‘uptime of machines,’ as Steven Gonzalez vividly describes in this issue with focus on the maintenance work that data center operators perform.
+278 new media & society 25(2)
+Those on top of these hierarchies—policy makers and data center managers—cali-
+brate themselves instead to the tempos and rhythms of the global flow of data, presenting 
+the construction, expansion, and boosterism of data centers as a necessity (Mayer and Velkova, 2023). Such actors make palpable futures with data infrastructure through a variety of metrics—numbers of jobs, sizes of data center fields, megawatts of computer capacities, and future sizes of expansions, as Vicki Mayer shows in this special issue.  Those left out of data center jobs might be forced instead to negotiate the changing identi-ties of their towns and their transformed social position by curating memories and narrat-ing them to visitors (Mayer and Velkova, 2023). By describing the power-chronographies of data labor, this special issue shows how speed continues to be a shortcut not only for capital extension but also for shaping and organizing power differentials in the economies of data through infrastructural labor. We hope that such analyses would inspire further inquiry of the differential, embodied experiences, and configurations of work that sustain the socio-economic timescapes of data.
+Elemental timescapes of data
+Temporalities in the data economy are critically dependent on the continuous instrumen-tation and infrastructuring of the elements—water, salt, minerals, atmospheres, and soils. Data centers are strategically positioned in places where colder air, seawater, groundwa-ter, or aquifer water can be harnessed as a “natural” coolant for warm servers (Gilmore and Troutman, 2020; Hogan, 2015; V onderau, 2019), and where the intensity of wind or sun can power these structures with green energy (Bresnihan and Brodie, 2021). Besides merely sustaining the operations of data infrastructures, the cultural work upon the ele-ments represents a crucial process of reworking the capacities of infrastructure to gener -
+ate value, for different actors and to different ends (McCormack, 2017: 417). For example, in Nordic climates, data center operators are experimenting with selling warm air in server halls to public institutions and utilities alongside hosting their data (Velkova, 2016). The Irish state is attempting to transform peat boglands into a resource able to sustain the high-energy demands of hyperscalers (Bresnihan and Brodie, this issue). Data centers are also increasingly implicated in the governance of wind flows and the produc-tion of economic value from them as sources of “green” energy (Brodie, 2020); or to agricultural processes and food farming practices that become tied to data processing (Vesterlund, 2021). Thus, data centers organize atmospheres and elements and extract value from them, and, in turn, become used as critical infrastructure for processing envi-ronmental data and modeling climates. In these contexts, data centers mediate the “data-fication of nature” (Nadim, 2021).
+The technoscientific work of making elemental rhythms, environments, and atmos-
+pheres infrastructural to media is of course hardly new. Historically, the operations of media have always depended upon cultural practices of instrumenting terrestrial, atmos-pheric, or aquatic environments for signal transmission, remote sensing, information preservation, and economic value production (Bozak, 2012; Durham Peters, 2015; Groening, 2014, Kaplan, 2018; Parks, 2018; Schwoch, 2018; Starosielski, 2015). For example, the construction of the telegraph in the 19th century in the United States and its transcontinental expansion were crucially dependent on the production of 
+Velkova and Plantin 279
+technoscientific knowledge about weather, landscapes, climates, and the likelihood of 
+storms, landslides, or social unrest and then employing this knowledge to “act upon nature” through decisions for routing, maintenance, and repair of communication net-works—effectively “wiring” the telegraph into nature (Schwoch, 2018). The production of technoscientific knowledge about the materiality and conductivity of air has also been part of its cultural and economic transformation into a medium of broadcast communica-tion and value production (Connor, 2010; Horn, 2018), and later for the exertion of verti-cal power over territories and populations (Parks, 2018). Since then, elemental transformations and related knowledge-making practices have continued to shape the routes, transmission protocols, and paths of the exchange of information, a process that has justified continuous acts of violence and displacement of native populations and local communities, of environmental transformation, and the extension of colonialism deemed necessary for producing the material conditions for communication infrastruc-tures, connectivity, and economic surplus value. Scholars in the fields of political ecol-ogy and anthropology have long posited how infrastructural development is always fraught with politics of power based on caste, class, gender, nation, and identity-belong-ing (Anand, 2017; Rodgers and O’Neill, 2012). It is also closely tied to the exertion of violence, exclusion, or new forms of population and environment governance (V on Schnitzler, 2016). This tension can become particularly untenable in contexts of military conflict, political unrest, or new infrastructure development projects (Weizman, 2019). Contributors to this special issue show that the construction, operation, and decay of data infrastructures cannot be separated from these legacies and critically detail the manifold ways in which these are being extended through mediating between the temporalities and conductive capacities of the elements, and those of digital cultures. For example, Tonia Sutherland and Gailyn Bopp describe how the thermal properties of the Pacific Ocean are harnessed by the data center industry to develop underwater data centers. They posi-tion this innovation within the long relationship between communication infrastructure and colonialism in Hawaiʻi. Specifically, they reveal how the exploitation of geological assets present in underwater data centers directly conflicts with the Aloha ‘Āina, that is, the Native Hawaiʻian ethics of preservation of natural elements. The concern with extending colonialism through elemental instrumentation is also evident in Patrick Brodie and Patrick Bresnihan’s contribution in this issue, where they examine the ways in which carbon and data futures get aligned into a contested imaginary of sustainable living. They critically examine conservation projects of peat boglands by the Irish State and their relation to the data center industry. By doing so, they counter assumptions of Irelands’ peat as mere wasteland waiting to be saved by tech-driven “energy cultures.” These analyses show how gender, race, and colonialism are performed and reproduced at multiple temporal scales of elemental instrumenting—from maintaining the rhythm and pace of everyday circulation of air among servers to the imagining of water and earth as conductive of novel cultural forms of data infrastructures.
+Besides unpacking the politics of power and difference that continue to shape the 
+operations of media infrastructures, these analyses also reveal the extent to which ele-ments are actively shaping collective temporalities of data (Yip, 2022). Like most other information infrastructures, data centers continue to be designed as if they operate out-side of nature and outside of the temporalities of geological and elemental times (cf. 
+280 new media & society 25(2)
+Edwards, 2003). The cultural work of instrumenting environments takes place in a larger 
+timescape of technoscientific futurity. Within this timescape, actors are obliged to follow the imperative to innovate, act quickly and pre-emptively, and take risks (Puig de la Bellacasa, 2015), with little regard nor time to consider the pace of elemental rhythms and processes that operate at different timescales and require a different temporal orien-tation. The industrial futures of data and the elemental timescapes that sustain them are constantly in tension with each other. No matter how much effort engineers make to cali-brate, synchronize, and subject environmental rhythms to the speeds and cultural demands of information traffic, winds change orientation and intensity, oceans change tidal patterns, rivers dry out, ice melts at increasing speeds, solar storms erupt, and earth-quakes rearrange soils and earth layers. Such events irrupt (Starosielski, 2021) into the culturally ordered rhythms and temporalities of media infrastructures and remind us that the elements have their own paces and times and remain unruly.
+Elemental irruptions call for consideration of the multiple worlds that co-exist in the 
+elemental timescapes of data, the relations of power between them, the role of non-human agents—such as wind, geothermal forces, or seawater—in the collective produc-tion of digital time (Tan, 2015), and the modes of care for them. In this issue, we show how modernist and native ontologies—ways of being and knowing the world—co-exist in friction with the temporalities of data infrastructures.
+Contributors to this special issue illuminate the need to engage with the multiple 
+“politics of the possible” (Escobar, 2020) that currently undergird the shaping of infra-structural timescapes of data—some of which reproduce masculinity, violence, and colo-nialism, with others enticing relations of care grounded in decolonial modes of being in the world. These latter politics of the possible could be mobilized through native episte-mologies and ontologies of care for nature and the sea (e.g. Aloha ‘Āina, cf. Sutherland and Bopp, this issue) or through critical data center art projects (Hogan, this issue), through which they cultivate an alternative ethics and aesthetics of care. We hope that such examples could prompt further enquiries on the politics through which the exten-sion of colonial logics and environmental exploitation via data infrastructural futures could be suspended and oriented toward more caring, plural and inclusive futures.
+Transitory timescapes of data
+More than any other temporality, the prospect of the end of the infrastructures built, of the data stored and trafficked, of disruption, erasure, and shutdown acts as a silent force that generates affects, economies, and practices shaping the transitory timescape of data infrastructure. The end of data worlds is both an everyday reality for data center workers and operators, and a well for producing new commodities, such as “preparedness” (Taylor, this issue).
+The end of data infrastructures can come in many forms. Geopolitical conflict can 
+cause the quick shutdown or prolonged dismantling of a data center. Take, for instance, the hyperscale data center of the Russian Internet company Yandex in Finland. In opera-tion since 2016, the data center has become a critical thermal urban infrastructure in the town of Mäntsälä, a small Finnish town close to Helsinki (Velkova, 2021). As Russia invaded Ukraine in the spring of 2022, the data center lost legitimacy and caused anxiety 
+Velkova and Plantin 281
+among the local Finnish community, which has since been trying to force its disman-
+tling—by cutting off its power supply and forcing the facility to run on diesel for months, and by planning its disconnection from the thermal grid of the town (Noponen, 2022). Besides geopolitics, cycles of planned obsolescence also influence data centers’ tempo-rality. The lifespan and presence of data centers is constantly evaluated in relation to the aging of the servers that they host and the transforming geopolitical and economic condi-tions of their operations, continuously leaving open the possibility of relocating as capi-tal demands (Velkova, 2019). Unplanned disasters, such as a fire, can destroy a building in minutes and suspend all services connected to it for weeks thereafter, as happened when a data center located in Strasbourg in France spectacularly burned down in the midst of the COVID-19 pandemic (Rosemain and Satter, 2021). The ongoing impetus of the industry to shift to “edge computing” and place data centers in distributed and modu-lar ways closer to end users further propels the motility—and related ends of life—of data centers. These contexts remind us that media infrastructures age, break down, and are eventually shut down. Sometimes they leave spectacular ruins—large abandoned buildings that have been prematurely closed (Brodie and Velkova, 2021)—at other times, they might leave more subtle ruins in the form of data traces of past structures, or empty spaces part of a civic defense military infrastructure (Velkova, this issue).
+These processes are not unique to data infrastructures and can be traced back, at least, 
+to the abandoned roads and aqueducts of the Roman empire. With the constant roll out of “better” or “newer” digital infrastructures, a huge range of communication infrastructure is constantly pushed into states of devaluation, irrelevance, dismantling, or decay. Older transnational fiber optic cables are being retired, satellite debris cluster in orbit and undersea, and telephone landline networks are being taken down. This special issue inscribes data centers in this long lineage of communication infrastructure decay and orients thinking toward the politics through which data worlds age and die. The end of data centers, as contributors to this special issue show, might produce “cloud ruins” (Brodie and Velkova, 2021), forming diverse landscapes of ruination in the built environ-ment that emerge with datafication, or it could nurture the formation of new commodities in a digital economy scared of its own collapse. For example, relying on the analysis of data centers in bunkers, Alex Taylor reveals how data center and cloud back-up providers position these facilities—and the “data preparedness” they provide—in relation to their past function (protecting against nuclear attack during the cold war) and the constant threat of data loss or information technology (IT) failure in the future. Preparedness for failure becomes a commodity derived from anticipations and fears of the immanent fail-ure and loss of digital data, Taylor shows.
+The transience of data centers calls for thick empirical accounts of the politics of 
+aging and the decommissioning of data infrastructures, as already shown by concepts, such as “broken world thinking,” (Jackson, 2014) “repair-into-decay” (Cohn, 2016), and “dandelion economics” (Parks, 2012). Contributors to this special issue suggest how these can be further enriched with temporal inversions of infrastructure that reveal the fragility and uncertainty of data futures (Velkova, this issue). Mapping the contours and economies of an aging data infrastructure is a tremendous task that remains to be pursued by scholars of critical data studies and media infrastructure studies to address the politics and economies of discarding data and infrastructure.
+282 new media & society 25(2)
+The eight contributions to this special issue track the practices through which the 
+infrastructural timescapes of data are shaped and oriented toward the future, toward 
+their operations in the “extended present” (Nowotny, 1996), or toward historical tem-poralities of colonialism as they unfold undersea, underground, overground, and in different parts of the world. In assembling this special issue, we have been informed by a concern with the diversity of scholarly work, perspectives, and epistemologies. The contributors to the issue are scholars of different races, genders and nationalities and at different career stages. Their work, collectively, reflects a commitment to femi-nist, decolonial, and historical approaches through situated knowledges (Haraway, 1988) and partial perspectives to disentangle the politics of time and power relations at the infrastructural roots of the data economy with care and sensibility to differ -
+ences. The issue also highlights the value of interdisciplinary approaches to media infrastructure, interfacing anthropology, media studies, political ecology, and human geography. We recognize, however, the disproportionate attention to cases from Northern contexts, and we hope that future work will bring more studies from other geographical contexts. We are convinced that such a multi-situated and interdiscipli-narity perspective is imperative to creating more inclusive and nuanced critical under -
+standings of the infrastructural and temporal politics of datafication.
+Acknowledgements
+This special issue began as a panel on “Data Centers and Disposability” during the 4S conference 
+in New Orleans in 2019. The authors thank all attendees and participants in this panel for their insightful comments and papers, as well as the contributors to this special issue for their inspiring 
+work. They are particularly grateful to Steve Jones, Anne Kaun, the Stripe seminar group at 
+Linköping University, and all the peer reviewers of this special issue for their time and valuable feedback at different stages of preparing the issue. Finally, they thank each other for the pleasure of having a deep and ongoing conversation on time and infrastructure for the past 3 years, and the 
+excellent partnership in assembling this issue.
+Funding
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: Julia Velkova’s research and authorship of this article was supported with funding by the Riksbankens Jubileumsfond project “Earth Stations and Data Centers: Network 
+buildings as transnational infrastructures and logistical media”, reference number P18-0654:1. 
+Jean-Christophe Plantin received no financial support for the research, authorship, and/or publica-tion of this article.
+ORCID iDs
+Julia Velkova  https://orcid.org/0000-0002-1643-7392
+Jean-Christophe Plantin  https://orcid.org/0000-0001-8041-6679
+References
+Adam B (1998) Timescapes of Modernity: The Environment and Invisible Hazards (Global envi-
+ronmental change series). London and New York: Routledge.
+Velkova and Plantin 283
+Adam B (2000) The temporal gaze: the challenge for social theory in the context of GM food. The 
+British Journal of Sociology 51(1): 125–142.
+Amoore L (2013) The Politics of Possibility: Risk and Security beyond Probability. Durham, NC: 
+Duke University Press.
+Anand N (2017) Hydraulic City: Water and the Infrastructures of Citizenship in Mumbai. Durham, 
+NC; London: Duke University Press.
+Anand N, Gupta A and Appel H (eds) (2018) The Promise of Infrastructure. Durham, NC: Duke 
+University Press.
+Appel H (2018) Infrastructural Time. In: Anand N, Gupta A and Appel H (eds) The Promise of 
+Infrastructure. Durham, NC: Duke University Press, pp. 41–61.
+Bozak N (2012) The Cinematic Footprint: Lights, Camera, Natural Resources. New Brunswick, 
+NJ: Rutgers University Press. Available at: http://site.ebrary.com/id/10535573 (accessed 11 
+October 2018).
+Bresnihan P and Brodie P (2021) New extractive frontiers in Ireland and the moebius strip of wind/
+data. Environment and Planning E: Nature and Space 4(4): 1645–1664.
+Brodie P (2020) Climate extraction and supply chains of data. Media, Culture & Society 42(7–8): 
+1095–1114.
+Brodie P and Velkova J (2021) Cloud ruins: Ericsson’s Vaudreuil data center and infrastructural 
+abandonment. Information, Communication & Society 24(6): 869–885.
+Burrell J (2020) On half-built assemblages: waiting for a data center in Prineville, Oregon. 
+Engaging Science, Technology, and Society 6: 283–305.
+Cakici B, Ruppert E and Scheel S (2020) Peopling Europe through data practices: introduction to 
+the special issue. Science, Technology, & Human Values 45(2): 199–211.
+Cevolini A and Esposito E (2020) From pool to profile: social consequences of algorithmic predic-
+tion in insurance. Big Data & Society 7(2): 205395172093922.
+Cohn M (2016) Convivial decay: Entangled lifetimes in a geriatric infrastructure. In: CSCW ’16 
+Proceedings of the 19th ACM conference on computer-supported cooperative work & social 
+computing, San Francisco, CA, 27 February–2 March, pp. 1509–1521. New York: ACM.
+Connor S (2010) The Matter of Air: Science and Art of the Ethereal. London: Reaktion Books.DeSilvey C (2017) Curated Decay: Heritage beyond Saving. Minneapolis, MN: University of 
+Minnesota Press.
+Douglas-Jones R, Walford A and Seaver N (2021) Introduction: towards an anthropology of data. 
+Journal of the Royal Anthropological Institute 27(Suppl. 1): 9–25.
+Durham Peters J (2015) The Marvelous Clouds: Toward a Philosophy of Elemental Media. 
+Chicago, IL; London: University of Chicago Press.
+Edwards PN (2003) Infrastructure and modernity: force, time, and social organization in the his-
+tory of sociotechnical systems. In: Misa TJ, Brey P and Feenberg A (eds) Modernity and 
+Technology. Cambridge, MA: MIT Press, pp. 185–226.
+Ensmenger N (2021) The cloud is a factory. In: Mullaney TS, Peters B, Hicks M, et al. (eds) Your 
+Computer Is on Fire. Cambridge, MA: The MIT Press, pp. 29–50.
+Escobar A (2020) Pluriversal Politics: The Real and the Possible (Latin America in translation). 
+Durham, NC: Duke University Press.
+Gilmore JN and Troutman B (2020) Articulating infrastructure to water: agri-culture and Google’s 
+South Carolina data center. International Journal of Cultural Studies 23(6): 916–931.
+Gitelman L (ed.) (2013) “Raw Data” Is an Oxymoron (Infrastructures series). Cambridge, MA ; 
+London: MIT Press.
+Graham S and Marvin S (2001) Splintering Urbanism: Networked Infrastructures, Technological 
+Mobilities and the Urban Condition. London and New York: Routledge.
+Groening S (2014) Towards a meteorology of the media. Transformations 25.
+284 new media & society 25(2)
+Guyer JI (2007) Prophecy and the near future: thoughts on macroeconomic, evangelical, and punc-
+tuated time. American Ethnologist 34(3): 409–421.
+Haraway D (1988) Situated knowledges: the science question in feminism and the privilege of 
+partial perspective. Feminist Studies 14(3): 575.
+Hecht G (2018) Interscalar vehicles for an African Anthropocene: on waste, temporality, and vio-
+lence. Cultural Anthropology 33(1): 1109–1141.
+Hogan M (2015) Data flows and water woes: the Utah Data Center. Big Data & Society. Epub 
+ahead of print 13 July. DOI: 10.1177/2053951715592429.
+Holt J and Vonderau P (2015) ‘Where the internet lives’: data centers as cloud infrastructure. In: 
+Parks L and Starosielski N (eds) Signal Traffic: Critical Studies of Media Infrastructures 
+(The geopolitics of information). Urbana, IL: University of Illinois Press, pp. 71–93.
+Horn E (2018) Air as medium. Grey Room 73: 6–25.
+Hu TH (2015) A Prehistory of the Cloud. Cambridge, MA: MIT Press.
+Jackson SJ (2014) Rethinking repair. In: Gillespie T, Boczkowski P and Foot K (eds) Media 
+Technologies : Essays on Communication, Materiality, and Society. Cambridge, MA: MIT 
+Press, pp. 221–240.
+Jackson SJ (2017) Speed, time, infrastructure: temporalities of breakdown, maintenance, and 
+repair. In: Wajcman J and Dodd N (eds) The Sociology of Speed: Digital, Organizational, and Social Temporalities. 1st edn. Oxford: Oxford University Press.
+Johnson A (2019) Data centers as infrastructural in-betweens: expanding connections and endur-
+ing marginalities in Iceland. American Ethnologist 46(1): 75–88.
+Kaplan C (2018) Aerial Aftermaths: Wartime from Above (Next wave). Durham, NC: Duke 
+University Press.
+Larkin B (2004) Degraded images, distorted sounds: Nigerian video and the infrastructure of 
+piracy. Public Culture 16(2): 289–314.
+Lehuedé S (2022) Territories of data: ontological divergences in the growth of data infrastructure. 
+Tapuya: Latin American Science, Technology and Society 5(1): 2035936.
+Lobato R (2019) Netflix Nations: The Geography of Digital Distribution (Critical cultural com-
+munication). New York: New York University Press.
+McCormack DP (2017) Elemental infrastructures for atmospheric media: on stratospheric vari-
+ations, value and the commons. Environment and Planning D: Society and Space 35(3): 418–437.
+MacKenzie DA (2017) Capital’s Geodesic. In: Wajcman J and Dodd N (eds) The Sociology of 
+Speed: Digital, Organizational, and Social Temporalities. 1st ed. Oxford: Oxford University 
+Press, pp. 55–71.
+MacKenzie DA (2021) Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming 
+Financial Markets. Princeton, NJ: Princeton University Press.
+Maguire J, Langstrup H, Danholt P, et al. (2020) Engaging the data moment: an introduction. STS 
+Encounters 11(1): 7–26.
+Mattern SC (2015) Deep Mapping the Media City. Minneapolis, MN: University of Minnesota 
+Press.
+Mayer V (2019) The second coming: Google and internet infrastructure. Culture Machine (18). 
+Available at: www.culturemachine.net
+Mayer V (2020) From peat to Google power: communications infrastructures and structures of 
+feeling in Groningen. European Journal of Cultural Studies 24(4): 901–915.
+Mayer V and Velkova J (in press) The Social Mapping of Hyperscale Data Center Regions: 
+Placemaking, Infrastructuring, Curating. In: Parks L, Velkova J and De Ridder S (eds) Media 
+Backends: Digital Infrastructures and Sociotechnical Relations. University of Illinois Press.
+Velkova and Plantin 285
+Mayer V and Velkova J (2023) This site is a dead end? Employment anxieties and labour in data 
+centers. The Information Society.
+Mulvin D (2017) The media of high-resolution time: temporal frequencies as infrastructural 
+resources. The Information Society 33(5): 282–290.
+Nadim T (2021) The datafication of nature: data formations and new scales in natural history. 
+Journal of the Royal Anthropological Institute 27(Suppl. 1): 62–75.
+Noponen S (2022) The power of the Yandex server center in Mäntsälä was cut off. Ilta-Sanomat, 
+4 May. Available at: HTTPS://WWW.IS.FI/TALOUSSANOMAT/ART-2000008786174.
+HTML
+Nowotny H (1996) Time: Modern and Postmodern Experience. Cambridge; Malden, MA: Polity 
+Press.
+Parks L (2012) When satellites fall: on the trails of Cosmos 954 and USA 193. In: Parks L and 
+Schwoch J (eds) Down to Earth: Satellite Technologies, Industries, and Cultures. New Brunswick, NJ: Rutgers University Press, pp. 221–237.
+Parks L (2018) Rethinking Media Coverage: Vertical Mediation and the War on Terror. New 
+York: Routledge.
+Parthasarathi V, Bouquillion P and Ithurbide C (in press) Cross-sectoral Relations in VoD Markets: 
+Frontend, Backend, and Deepend in India. In: Parks L, Velkova J and De Ridder S (eds) Media Backends: Digital Infrastructures and Sociotechnical Relations. Urbana, IL: Illinois University Press.
+Pentzold C, Kaun A and Lohmeier C (2020) Imagining and instituting future media: introduction 
+to the special issue. Convergence: The International Journal of Research into New Media Technologies 26(4): 705–715.
+Pink S, Ruckenstein M, Willim R, et al. (2018) Broken data: conceptualising data in an emerging 
+world. Big Data & Society 5(1): 205395171775322.
+Plantin JC (2019) Data cleaners for Pristine Datasets: visibility and invisibility of data processors 
+in social science. Science, Technology, & Human Values 44(1): 52–73.
+Puig de la Bellacasa M (2015) Making time for soil: technoscientific futurity and the pace of care. 
+Social Studies of Science 45(5): 691–716.
+Ribes D and Finholt TA (2009) The long now of technology infrastructure: articulating tensions in 
+development. Journal of the Association for Information Systems 10(5): 375–398.
+Rodgers D and O’Neill B (2012) Infrastructural violence: introduction to the special issue. 
+Ethnography 13(4): 401–412.
+Rosa FR (2021) Internet interconnection infrastructure: lessons from the global South. Internet 
+Policy Review 10(4): 1–22.
+Rosemain M and Satter R (2021) Millions of websites offline after fire at French cloud services 
+firm. Reuters. Available at: https://www.reuters.com/article/us-france-ovh-fire-idUSKBN-
+2B20NU (accessed 19 September 2022).
+Schwoch J (2018) Wired into Nature: The Telegraph and the North American Frontier (The his-
+tory of communication). Urbana, IL: University of Illinois Press.
+Sharma S (2014) In the Meantime: Temporality and Cultural Politics. Durham, NC: Duke 
+University Press.
+Starosielski N (2015) The Undersea Network (Sign, storage, transmission). Durham, NC: Duke 
+University Press.
+Starosielski N (2021) Grounded speed and the soft temporality of network infrastructure. In: 
+Volmar A and Stine K (eds) Media Infrastructures and the Politics of Digital Time: Essays on Hardwired Temporalities. Amsterdam: Amsterdam University Press, pp. 177–189.
+Tan L (2015) For Every Word Has Its Own Shadow: Sunsets, Waves, Notes from Underground. 
+Gothenburg: ArtMonitor, University of Gothenburg.
+286 new media & society 25(2)
+Taylor ARE (2017) The technoaesthetics of data centre “white space.” Imaginations: Journal of 
+Cross-Cultural Image Studies 8(2). Available at: https://doi.org/10.17742/IMAGE.LD.8.2.5
+Taylor ARE (2021) Standing by for data loss: failure, preparedness and the cloud. Ephemera: 
+Theory and Politics in Organisation 21(1).
+Thylstrup NB (2019) Data out of place: toxic traces and the politics of recycling. Big Data & 
+Society 6(2): 205395171987547.
+Tsing AL (2015) The Mushroom at the End of the World: On the Possibility of Life in Capitalist 
+Ruins. Princeton, NJ: Princeton University Press.
+Veel K (2017) Uncertain architectures: performing shelter and exposure. Imaginations: Journal of 
+Cross-Cultural Image Studies 8(2): 30–41.
+Velkova J (2016) Data that warms: waste heat, infrastructural convergence and the computation 
+traffic commodity. Big Data & Society 3(2): 1–10.
+Velkova J (2019) Data centres as impermanent infrastructures. Culture Machine (18). Available 
+at: www.culturemachine.net
+Velkova J (2020) The art of guarding the Russian Cloud: infrastructural labour in a Yandex Data 
+Centre in Finland. Digital Icons: Studies in Russian, Eurasian and Central European New 
+Media (20). Available at: https://www.digitalicons.org/issue20/the-art-of-guarding-the-rus-
+sian-cloud
+Velkova J (2021) Thermopolitics of data: cloud infrastructures and energy futures. Cultural 
+Studies 35(4–5): 663–683.
+Vesterlund M (2021) DC Farming—a guideline for implementing data center and greenhouse 
+symbiosis. 13 June. Available at: https://www.ri.se/en/dc-farming-a-guideline-for-imple-menting-data-center-and-greenhouse-symbiosis
+Volmar A and Stine K (eds) (2021) Media Infrastructures and the Politics of Digital Time: Essays 
+on Hardwired Temporalities. Amsterdam: Amsterdam University Press.
+Von Schnitzler A (2016) Democracy’s Infrastructure: Techno-Politics and Protest after Apartheid 
+(Culture and Technology). Princeton, NJ: University Press.
+Vonderau A (2019) Storing data, infrastructuring the air: thermocultures of the cloud. Culture 
+Machine (18).
+Weizman E (2019) Forensic Architecture: Violence at the Threshold of Detectability. New York: 
+Zone Books.
+Yip J (2022) Sea ice out of time: reckoning with environmental change. Time & Society 31(4): 
+561–583.
+Ziewitz M and Singh R (2021) Critical companionship: some sensibilities for studying the lived 
+experience of data subject. Big Data & Society 8(2):1–13.
+Author biographies
+Dr Julia Velkova is an Associate Professor of media and communication studies at Linköping University. Her work explores the materialities and temporalities of software and data, the inter-sections of digital media with energy politics, and the end of life of large scale media infrastruc-
+ture. She is a ProFutura Scientia XVII fellow, and founder and co-chair of the Data Lab at the 
+Department for Thematic Studies at Linköping University. 
+Dr Jean-Christophe Plantin is an Associate Professor at the Department of Media and 
+Communications at the London School of Economics and Political Science. His research investi-gates the increasingly infrastructural role that digital platforms play in society.

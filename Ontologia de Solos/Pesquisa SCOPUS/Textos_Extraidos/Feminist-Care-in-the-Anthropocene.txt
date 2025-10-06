@@ -1,0 +1,1639 @@
+Feminist Care in the Anthropocene: Packing and Unpacking 
+Tensions in Posthumanist HCI 
+Cayla Key Cally Gatehouse Nick Taylor 
+School of Design, Northumbria School of Design, Northumbria Open Lab, Newcastle University, 
+University, Newcastle upon Tyne, University, Newcastle upon Tyne, Newcastle upon Tyne, United 
+United Kingdom United Kingdom Kingdom 
+c.key@northumbria.ac.uk cally.gatehouse@northumbria.ac.uk nick.taylor@newcastle.ac.uk 
+ABSTRACT 
+As posthumanist or post-anthropocentric research in HCI and 
+design proliferates and further commits to working with more-
+than-humans, design research practitioners are left with many 
+open questions and uncertainties with how to productively engage 
+with more-than-humans in their thinking and working. This paper 
+present results from a workshop with 17 researchers working at 
+the intersection of care ethics and posthumanism to highlight ten-
+sions in posthumanist engagement aimed at unpacking some of the 
+challenges, obstacles, and questions encountered by researchers 
+interested in more-than-human centered design. In foregrounding 
+tensions with representation, legitimization, unseen labor, and ma-
+terial narratives we contribute to a design research agenda which 
+seeks to explicate and challenge dominant anthropocentric forces 
+from design. We conclude by discussing epistemological care and 
+urge practitioners to take up new ways of imagining through truly 
+messy methods which contribute to a feminist unsettling of HCI’s 
+methodological commitments, practices, and praxis. 
+CCS CONCEPTS 
+• Human-centered computing → Human computer interaction 
+(HCI); HCI theory, concepts and models. 
+KEYWORDS 
+Additional Keywords and Phrases care, ethics, posthumanism, work-
+shops, feminisms, feminist, design, methods, Anthropocene, more-
+than-human, Indigenous, Knowledge 
+ACM Reference Format: 
+Cayla Key, Cally Gatehouse, and Nick Taylor. 2022. Feminist Care in the 
+Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI. In 
+Designing Interactive Systems Conference (DIS ’22), June 13–17, 2022, Virtual 
+Event, Australia. ACM, New York, NY, USA, 16 pages. https://doi.org/10. 
+1145/3532106.3533540 
+1 INTRODUCTION 
+The Anthropocene is a proposed geological age where ‘humans’ 
+(as a recklessly homogenized collective [85]) are the primary force 
+of change or harm to planetary systems. Discourses in Human 
+This work is licensed under a Creative Commons Attribution-Share Alike 
+International 4.0 License. 
+DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+© 2022 Copyright held by the owner/author(s). 
+ACM ISBN 978-1-4503-9358-4/22/06. 
+https://doi.org/10.1145/3532106.3533540 Computer Interaction (HCI) and related felds such as Science and 
+Technologies Studies (STS) have embraced this term and work to un-
+derstand anthropocentric ways of thinking and knowing. They aim 
+to characterize the political, epistemological, and ontological excep-
+tionalism from which human’s many exploitative and destructive 
+activities originate. Complicit in these efects, HCI designers and 
+researchers have begun to see their role, at best, as “sustaining the 
+unsustainable” [52] or at worst as “defuturing ” [ibib:10] by means of 
+actively negating futures for humans and non-humans through un-
+sustainable or irresponsible designs. If, as feminist STS scholar Lucy 
+Suchman reminds us, design’s agenda is to produce “technologies as 
+knowledges objectifed in a particular way” [106:3] then practition-
+ers have rightfully begun asking what kinds of things, worlds, or 
+futures are being produced from that anthropocentric and objectify-
+ing standpoint. According to Colombian American anthropologist 
+Arturo Escobar, the feld requires “a signifcant reorientation of de-
+sign from the functionalist, rationalistic, and industrial traditions 
+from which it emerged, and within which it still functions at ease, 
+towards a type of rationality and set of practices attuned to the rela-
+tional dimension of life” [46:42]. In response to these concerns, HCI 
+has increasingly turned to Euro-Western posthumanist scholarship 
+which rejects human exceptionalism and positions humans’ agency 
+as distributed amongst a web of non-human forces in which hu-
+mans participate but to not intrinsically control. Often in response 
+to the climate crisis, HCI has adopted posthumanist philosophies 
+in an attempt to “de-center” humans from within. Posthumanist or 
+post-anthropocentric research in HCI and design has been growing 
+with projects ranging from designing for human-fungi survival 
+[81], to wearable designs for environmental speculation [31], to 
+expanding participation methods to include non-humans [6], to 
+name only a few. However, as the discipline continues to grapple 
+with existing and emerging theories and practices to reframe de-
+sign, many uncertainties with how to productively embody, design, 
+and engage with posthumanist design research remain. 
+With these concerns comes a need to care in new and scalar ways. 
+As a means of accounting for those “relational dimension of life” 
+called for by Escobar, researchers have turned to care ethics as a 
+strategy to explicate and challenge dominant anthropocentric forces 
+from design. Care as a feminist practice is about attending to what, 
+how, and when things get caring attention and come to matter and 
+what, how, and when things don’t. It is a relational, embodied, and 
+ongoing practice which is necessarily particular. So, as practitioners 
+work to understand and express non-anthropocentric alternatives 
+for living in worlds “as well as possible” [48:40] we similarly need 
+methods, capacities, and an ethic which is relational, particular, and 
+non-just-human centered. 
+677
+
+DIS ’22, June 13–17, 2022, Virtual Event, Australia Cayla Key et al. 
+In ‘Letters to Joan Tronto,’ feminist scholars Talevi, Bailer, and 
+Karjevsky ask what we need to “pack with us and what to unpack 
+amongst us” [95:40] as people who care about care. Inspired by 
+their metaphor (which conveys the importance of the journey not 
+over but alongside the destination), this paper contributes learnings 
+from the workshop titled Alternative Care Translations: A Work-
+shop Using Care as a Lens for Speculative Posthumanism. This 
+workshop gathered designers, researchers, philosophers, and artists 
+working at the intersection of care and posthumanism to explore 
+practices, theories, and open questions around how we actually go 
+about negotiating those collaborative (or more-than-just-human) 
+determinations of “as well as possible. ” Feminist care ethics was a 
+critical lens for grounding the workshop’s activities as well as scaf-
+folding attendants’ refections, “not as a stable heuristic but a context 
+driven, and relational tool for both doing and noticing, not necessarily 
+in that order” [72:12]. For STS scholar María Puig de la Bellacasa, 
+“care is relational per se. . .this also means that an understanding of 
+human agencies as immersed in worlds made of heterogeneous but 
+interdependent forms and processes of life and matter, to or not to care 
+about/for something/somebody, inevitably does and undoes relation” 
+[91:69]. The polyphonies between a care ethics and posthumanist 
+agenda provided rich foundational and material points of departure 
+for speculating alternative modes of more-than-human care. 
+Care, as a political, ethical, and material engagement with the 
+excluded or devalued has long been of concern for feminist thinkers 
+[66]. However, when it comes to more-than-human relations, the 
+place-based experience (e.g., [73]) and scholarly discourse of In-
+digenous thinkers and activists (e.g., [107, 111, 124]) have largely 
+been excluded or devalued. Euro-Western discourses often treat the 
+Anthropocene (and undergirding Cartesian divide) “as a teleologi-
+cal fact implicating all humans as equally culpable for the current 
+socio-economic, ecological, and political state of the world” [111:252]. 
+However, there are knowledge systems which have long understood 
+the theoretical and lived reality of the infnitesimal relationality 
+and reciprocity of life, climate, knowing, and being [112]. In ad-
+dition to the feminist Euro-Western body of theoretical work on 
+care and posthumanism, this paper turns to Indigenous Knowledge 
+(or Indigenous Ecological Knowledge) not just to amplify voices, 
+inspire readers through colorful metaphor, romanticize ways of 
+life, or ofer ornaments to reckon with the authors’ (or possibly 
+readers’) lack of prior engagement with Indigenous cosmologies 
+which proceed and exceed modern posthumanist thought. Rather, 
+we are motivated by a humble and genuine desire to learn from 
+scholars and exemplars whose place-based and relational praxis 
+has a lot to teach. The authors are Euro-Western scholars who 
+have benefted from settler colonialisms in the USA and UK which 
+have systematically displaced and suppressed the very ideas and 
+individuals relied upon in this paper. So, while the authors have 
+tried to understand and learn from Indigenous perspectives, we 
+do not claim them as our own and recognize the invaluable yet 
+unidirectional beneft they provide. In engaging with these ideas, 
+we must acknowledge the uneven and unjust frameworks upon 
+which this work was built and disseminated. 
+As more researchers and designers undertake posthumanist or 
+more-than-human projects we hope to contribute fndings from 
+these workshops which trouble enduringly normative and euro-
+centric ways of engaging with more-than-humans. By leveraging the expertise and emergent experience of individuals working with 
+research artifacts, methods, and orientations towards posthuman-
+ist design and the politics and ethics of care, we explore how we 
+might operate and conduct research diferently in the face of such 
+sticky normativity. We contribute to pluriversal design agendas 
+through layering posthumanist, feminist, and Indigenous Knowl-
+edges combined with a making-as-knowing approach which fore-
+grounds tensions with representation, legitimization, unseen labor, 
+and material narratives. This work showcases how care ethics can 
+be used to concretely attend to productions of subjects and objects 
+and to how those anthropocentric mechanisms of production shape 
+the capacities of care relations between humans and non-humans. 
+Lastly, this paper contributes a discussion on epistemological care 
+and urges practitioners to take up new ways of imagining through 
+truly messy methods which contributed to a necessarily intersec-
+tional feminist unsettling of HCI’s methodological commitments, 
+practices, and praxis. 
+2 MORE-THAN-HUMAN RESEARCH IN HCI 
+Euro-Western design as a discipline has primarily concerned itself 
+with human functionalism—with creating useful things to advance 
+humans’ needs and desires. As with Euro-Western design generally, 
+HCI has historically privileged humanist ideals and agendas as it 
+extracts, exploits, and overlooks non-human species, matter, and 
+systems. However, as HCI scholars have begun to acknowledge the 
+existential and material consequences of this humanist approach 
+they are forced to reckon with their role in those consequences. 
+Afterall, Ann Light et al. assert, “we have claimed a stake in the pro-
+duction of futures” [80:723] and therefore have sought alternatives 
+in post-capitalist, post-anthropocentric, and posthumanist projects 
+in an efort to counter those efects from within. 
+Although many of the predominant ideas in more-than-human 
+HCI research are derived from, and readily present in, discourses 
+of Indigenous scholars and activists, Euro-Western design and HCI 
+scholars have ‘re-discovered’ the need for an ontological reposi-
+tioning to support these preferable futures [112]. To make this turn, 
+scholars have relied heavily on the feminist Euro-Western body of 
+theoretical work on posthumanism, which in essence, “expands the 
+circle of moral concern, extending subjectivities beyond the human 
+species” [17:3]. Feminist STS scholars like Donna Haraway have 
+focused on bridging the gap between nature and culture towards a 
+more relational ‘natureculture’ [59, 62] and emphasize networks 
+and relationships of kinship rather than exploitation [61] while 
+Braidotti [34] focuses on the bio-politics of human-centered ecolog-
+ical devastation. Feminist new materialists such as De Wolf [38] 
+and Bennett [ 28] work to breakdown dichotomies of alive vs inert 
+or agental vs non-agental warning that “the image of dead or thor-
+oughly instrumentalized matter feeds human hubris and our earth-
+destroying fantasies of conquest and consumption” [27:ix]. Karen 
+Barad synthesizes new materialist and queer theories to propose a 
+posthumanist, or agential realist, account which “calls into question 
+the givenness of the diferential categories of “human” and “non-
+human, ” examining the practices through which these diferential 
+boundaries are stabilized and destabilized” [14:808]. These and other 
+678
+Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+eforts argue in various ways to acknowledge existing and foster fu-
+ture relationships with actants both human and non-human which 
+are less hierarchical. 
+To address the presumed need to support alternative techno-
+futures with fatter, more harmonious, and therefore more just and 
+sustaining relationships with non-humans and our shared envi-
+ronments, there have been an increasing number of proposals to 
+de-center design from within HCI (e.g., [24, 64, 80, 104, 109, 118]). 
+Researchers have looked to these and other theories such as critical 
+race and decolonial theory (e.g., [49]), object-oriented ontology 
+(e.g., [123]), and care ethics (e.g., [71]). Projects in the feld of Sus-
+tainable Human Computer Interaction (SHCI), in particular, have 
+long been sensitive to the many co-constituting relationships be-
+tween humans and nonhumans. To bring humans and ecologies into 
+conversation, researchers have engaged in posthumanist ethnogra-
+phies, for example, detailing symbiotic encounters with companion 
+species [84], exploring ontological alternatives for agricultural tech-
+nology [29], and using permaculture to show how technology can 
+support working with nature rather than controlling it [83]. 
+Although many of these projects remain more theoretically ori-
+ented, researchers have also productively grounded their inquiries 
+in designerly practices such as photography to examine naturecul-
+tures [82], speculative design artifacts which explore personal and 
+bodily encounters with climate change [31] or how repair and 
+care can challenge hierarchical human-object narratives [72]. Re-
+searchers have adopted and adapted methodologies such as an-
+thropologist Anna Lowenhaupt Tsing’s ‘arts of noticing’ [116] to 
+expand participation in research to non-humans [6], or to design 
+with non-humans for collaborative survival [81]. Biggs et al. blend 
+‘arts of noticing’ with making practices to interrogate their psy-
+chological attachment to the subject/object hierarchy, describing 
+it more as a subject/abject relationship [ 30]. Jönsson et al. borrow 
+from Barad’s notions of posthumanist performativity to introduce 
+‘performative prototypes’ which engage in materially speculative 
+co-design with humans and non-humans alike [69]. 
+These projects share a commitment to working with design as 
+a discipline and phenomena to conceive of and realize better fu-
+tures for more than just humans. However, the project is scalar, it 
+is plural, and the work of self-critiquing and challenging some of 
+its longest-standing commitments has just begun. We argue that a 
+posthumanist design agenda must materially attend to its ethical 
+commitments in connection to its ontological and epistemologi-
+cal ones—troubling and nuancing prevailing notions of justice and 
+agency as entangled, unfxed, and a bumpy rather than fat territory. 
+Without reducing one to the other (or suggesting that either have 
+all the answers), this paper will attempt to demonstrate that femi-
+nist ethics of care and Indigenous Ecological Knowledge are well 
+suited to the task. Although originating from and diverging to quite 
+diferent places these two bodies of knowledge share a faithfulness 
+to relational understandings and expressions of subjects, labors, 
+places, and temporalities which are based in concrete diferences 
+rather than universalized objectifcations. 
+3 ETHICS OF CARE AND RELATIONALITY 
+The notion of an ethical imperative to recognize the life-giving 
+relationships between humans and non-humans (and that such an ethic would account for how the past is simultaneously enacted in 
+the present, therefore shaping how we conceptualize the future) 
+is well understood in many Indigenous philosophies of ecology. 
+Papaschase Cree scholar of Pedagogy Dwayne Donald describes 
+such an ethic—ethical relationality—as “an ecological understanding 
+of human relationality that does not deny diference . . .This form of 
+relationality is ethical because it does not overlook or invisibilize the 
+particular historical, cultural, and social contexts from which a par-
+ticular person understands and experiences living in the world. It puts 
+these considerations at the forefront of engagements across frontiers 
+of diference” [45:6]. Although Donald developed this idea of ethical 
+relationality in the context of Canadian-Indigenous curriculum it is 
+important to understand the breath of Donald’s notion of ecology 
+(from Cree and Blackfoot philosophies) which entails “paying atten-
+tion to the webs of relationships that you are enmeshed in, depending 
+on where you live. So, those are all the things that give us life, all 
+the things that we depend on, as well as all the other entities that we 
+relate to, including human beings” [44]. Henceforth, an ecological 
+understanding of human relationality and ethical responsibility 
+is a critical point of departure both from Kantian ethics but also 
+from many approaches to euro-centric more-than-human research 
+which, in its zeal to decenter humans, erases rather than recognizes 
+human diferences—efectively emancipating humans from that 
+ethical imperative. 
+Feminist ethics of care is similarly committed to understanding 
+interdependence or relationality as an essential organizing force 
+in the world [112] while stressing how those relations are neces-
+sarily particular and situated [45] and privileges responsibility and 
+reciprocity [48] in its understanding of those relations. Although 
+historically oriented towards problematic human-human relations, 
+it is precisely because of care ethic’s concrete and particularized (vs 
+generalized) consideration of selves and others [25] when interro-
+gating the processes, matterings, and materials needed to maintain 
+a world that feminist STS scholars like María Puig de la Bellacasa 
+see such potential in “involving a feminist vision of care in the politics 
+of things [which] both encourages and problematizes the possibility 
+of translating ethico-political caring into ways of thinking with non-
+humans” [91:30]. In her invocation of ‘thinking with,’ Puig de la 
+Bellacasa suggests not just an epistemic relationship, but that care 
+is at the heart of matters all along a “naturecultural ontological con-
+tinuum” [ibib:52], suggesting that looking into the ethico-politics 
+of care for agencies, things, and entities opens possibilities of under-
+standing and representing their relationships without ‘re-objectify’ 
+them. 
+Although care ethics has a robust legacy within feminist study 
+(e.g., [5, 25, 48, 66]) and STS (e.g., [23, 67, 86 it has a relatively new 
+(though generative) and predominantly human-centered history 
+within HCI and design (e.g., [1, 12, 26, 94]). Care as an ethico-
+political nexus has proven a potent way to understand technology-
+mediated social spaces like a home (e.g., [19]), communities such as 
+hacker collectives (e.g., [113]) or to trouble researcher / participant 
+engagement in general (e.g., [77, 78, 115]). A recent strand of HCI 
+has used care ethics as both theoretical and material medium for 
+doing research with non-humans or not-just-humans. For example, 
+Bardzell et al. analyzed ethnographies of farming practices to spec-
+ulatively imagine how HCI might shift away from anthropocentric 
+functionalism in pursuit of more care-ful relationships [17]. Key 
+679
+DIS ’22, June 13–17, 2022, Virtual Event, Australia Cayla Key et al. 
+et al. used care ethics as an analytic and speculative lens to ofer 
+alternative design considerations through more-than-human frame-
+works for embodiment, positionality, temporality, and reciprocity 
+[71]. Wakkary uses care to make visible the politics and ethics of 
+things—with which designers (or co-biographers) need to more fully 
+engage if they ever hope to design for more-than-human-centered 
+worlds [118]. 
+These projects work to shift an underlying question in more-
+than-human HCI from ‘how can humans care more’ to “what hap-
+pens to our work when we pay attention to moments where the ques-
+tion of ‘how to care?’ is insistent but not easily answerable” [91:7]. 
+With this uneasy insistence comes opportunities but also responsi-
+bilities to address the efects of those ethical conditions. We argue 
+it is crucial to adopt non-anthropocentric ethics as an essential 
+process of worlding when reworking those conditions. In the same 
+way that posthumanist HCI has been driven to reject boundaries be-
+tween human and non-human, “such a posthuman ethics contradicts 
+the humanist assumption of a proper boundary between ethics and 
+politics, agency and subjectivation, autonomy and dependence” [10:2]. 
+An attention to the entangled ethics of things might resist univer-
+salizing tendencies by encouraging more specifcity to the forces 
+sustaining perceived boundaries between particular humans and 
+particular non-humans. Lastly, we argue that such an ethical orien-
+tation works to keep humans responsible to an ethical imperative to 
+recognize non-human labors and agencies through acknowledging 
+diference. Within the current discourse on more-than-human HCI 
+we fnd it pertinent to remember Puig de la Bellacasa’s words: “care 
+is not about fusion; it can be about the right distance” [91:5]. 
+4 ALTERNATIVE CARE TRANSLATIONS 
+WORKSHOP 
+To open up conversation and tease out tensions with posthumanist 
+engagement two workshops were held over the course of several 
+weeks with 17 participants. The primary goal was to engage in 
+posthuman speculation vis-a-vis care. This was done through two 
+individual embodied speculative activities followed by small group 
+discussions and a fnal collective group discussion at the end. 
+As designers and design researchers (especially as research-
+through-design, critical design, and speculative design expand and 
+develop) the need for practice as well as theory to advance a posthu-
+manist agenda is made clearer and more urgent. This work is part 
+of a lineage of workshops conducted in HCI which uses design-
+erly methods such as rapid prototyping (e.g., [8]) sketching (e.g., 
+[105]), other forms of ‘thinking through making’ [126] or embodied 
+speculation [36] with participants. In this case, participants en-
+gaged in making in order to generate “back-talk” [97:79] to discuss 
+with other practitioners, creating a materially discursive workshop. 
+Çerçi et al.’s analysis of how probes are used in design research 
+assert that when designers engage in making it amplifes designerly 
+tendencies, brings materials into conversation, captures current 
+interpretations, and foregrounds decision-making [37]. These were 
+key elements to consider for practitioners trying to disrupt and in-
+terrogate their own mental schema, as humans trying to de-center 
+humans in design. 
+While workshops with other researchers are incredibly common, 
+as conference activities (e.g., [7]), to pilot methods, share practices (e.g., [47]), develop new directions (e.g., [102]) etc. they are less com-
+monly reported in archival publications (see e.g., [11, 92, 128] as 
+notable exceptions). One related trend in HCI is for small groups of 
+scholars to engage in collective refection, retrospective, or ethnog-
+raphy (e.g., [13, 40, 55, 68, 127]) as part of a refective practice to 
+“re-understand their own role in the technology design process” and 
+“uncover and alter the limitations of design practice” [98:7]. In these 
+and other frst-person accounts, researchers become research par-
+ticipants. As is the case with duoethnography, trioethnography, 
+etc., each person’s experiences and refections are positioned in 
+dialogue with other research participants’ [ 96] resulting in refrac-
+tions, parallels, juxtapositions, and debate. These were foundational 
+aspirations for the Alternative Translations Workshop. Further in-
+spired by critical refexive practice in feminist HCI [18], our pro-
+cess used participants’ dialogic accounts to examinate the situated 
+ethico-political underpinnings of designs, design practices, and 
+designer/researcher positionality in an attempt learn and unlearn 
+together. 
+4.1 Recruitment 
+To realize collective and discursive refection on researchers’ per-
+sonal approaches to posthumanist and care-ful design we recruited 
+practitioners working with either or both theoretical bodies. Al-
+though most of the participants engage in that work via HCI we 
+choose not to limit the participant pool to technology spaces alone 
+as other disciplines such as anthropology, philosophy, and art have 
+made signifcant contributions to posthumanist and care theory 
+which are germane to HCI. The initial pool of potential participants 
+consisted of 38 individuals which were identifed through a pro-
+cess of literature review, a call to participate in the Care Matters 
+reading group (organized by anthropologists Ioanna Manoussaki 
+Adamopoulou and Emilie Glazer for which the frst author is a 
+member), and through the recommendation of fellow researchers 
+who’s networks extended out to include early stage researchers and 
+PhD students whose interests and knowledge might not be well 
+represented in current literature. Each of these individuals were 
+emailed a brief which explained the purpose, goals, the general 
+structure of the workshop, and invitation to attend one of two on-
+line sessions. From this process, 17 participants were confrmed, 9 
+for workshop 1 and 8 for workshop 2. 
+Although the participants represent a diversity of experience, 
+methodological practice, theoretical grounding, worldviews, and 
+areas of discipline, the original list of 38 was by no means exhaus-
+tive. Researchers were almost entirely from the Global North for 
+example, and selection of the fnal 17 participants was made based 
+on pragmatic factors such as availability and the desire for some 
+symmetry across the two sessions in terms of overall number of 
+participants as well as expertise. This process of selecting partici-
+pants can certainly be seen as a limitation of this work which will 
+always be partial. However, we see this limitation, in part, as the 
+result of a genuine efort to assemble a multi-disciplinary group 
+capable of the types of materially discursive refractions, parallels, 
+juxtapositions, and debates mentioned earlier in the paper while 
+simultaneously recognizing that we can and should do better. 
+680
+Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+Figure 1: A screen capture of the Miro board with GIFs of the frst author demonstrating activity 1: Micro-Situation Reenact-
+ments. The micro-situation demonstrated here is ‘putting on a shirt.’ Sonic phenomena were created using a bone key, radiator, 
+carpet, window, skin, hair, water heater, and more. 
+4.2 Participants 
+Researchers who participated came with their own sets of practices, 
+knowledge, concerns, and dilemmas which were equally valuable 
+and vital to the discursive goals of the workshops. Participants’ 
+research projects range from exploring the agentic materiality of 
+human-data relationships [39], posthuman design for transitions 
+to renewable energies [93], how care ethics can advance pedagogy 
+[99], the UX of climate change [22], blending postphenomenology 
+and thing-perspectives [ 88], using the practice of BioArt to explore 
+relational ontology [51] and arguing for the integration of a feminist 
+care ethics perspective in HCI [115] to name just a few examples 
+(see appendix for further details on participants). 
+However, because of the critical, refective, and multidisciplinary 
+nature of the workshops, participants occupied a somewhat dual 
+role, at once expert researchers and research participants. As such, 
+participants will be referred to by their initials as a narrative device 
+refecting the liminality and at times vulnerability of the workshop 
+space when participants refexively fuctuated between discussing 
+nascent experiences and deeply considered notions. 
+4.3 Structure and Activities 
+To broaden reach and accommodate geographically diverse partici-
+pation, each workshop took place online via Zoom and Miro and 
+lasted approximately 2.5 hours. The sessions began with a brief 
+introduction by the frst author to help frame goals and activities 
+of the session. Participants were invited to introduce themselves 
+and share what they hoped to get out of the event. The workshop 
+consisted of two main activities and a fnal group discussion. Both 
+activities centered around the theme of translations. As art curator 
+and philosopher Nicolas Bourriaud states: “translation always im-
+plies adapting the meaning of a proposition, enabling it to pass from one code to another... Every translation is inevitably incomplete and 
+leaves behind an irreducible remainder” [33:30]. In foregrounding 
+that human-nonhuman translations will always be reductions, it 
+was our hope that participants might begin to uncover ways to 
+take responsibility for—and attend to the specifcity of—how those 
+reductions, adaptations, and remainders are produced, as a matter 
+of ethics and care. 
+Activity 1: Micro-Situation Reenactments . This activity was 
+designed to enlarge participants thinking [25] through resonant 
+translations. Participants were asked to choose a micro-situation 
+(inspired by [71]), which could be a ritual, a habit, a lark, a hap-
+pening (e.g., milk being delivered to the front door, rain washing 
+away your kid’s sidewalk chalk, brushing your teeth, sun fading a 
+rug near a window, etc.) to physically reenact (Figure 1). In this ac-
+tivity, participants used their homes as companion landscapes and 
+partners in these activities to think co-speculatively with. During 
+their reenactments participants created new sonic phenomena and 
+were more attuned to existing ones by tapping, rustling, grinding, 
+swishing, etc. as they reenacted and noticed diferences, harmonies, 
+dissonances, echoes, ambiance, and vibrations (Figure 2). Finally, 
+they translated or annotated their experiences which they discussed 
+in small groups of 3-4 after completing their own reenactments. 
+Participants were provided a series of prompts to guide their group 
+discussions such as: what labor (human and non-human) is involved 
+at each step and how visible it is? What gets neglected so that this 
+micro-situation can occur? In this scenario what is providing care 
+and what is provided/denied care? And what do you think counts 
+as a world? 
+The goal of this activity was not to see from the perspective of 
+another thing, rather it was for participants to see their own bodies 
+681
+DIS ’22, June 13–17, 2022, Virtual Event, Australia Cayla Key et al. 
+Figure 2: A screen capture of the Miro board where participants added images, notes, and GIFs of their own micro-situation 
+reenactments from activity 1. Examples of micro-situations represented above are (from left to right) doing a handstand, 
+making cofee, repotting a plant, and medicating a dog. 
+Figure 3: A screen capture of the Miro board where the frst author demonstrated activity 2: Speculative Translations. 
+in thicker relation to other things (so that they might begin to chal-
+lenge those relational hierarchies) through embodied translations. 
+The aim was to tune in so that non-human liveliness might reach 
+a point of expressivity, legibility, and ultimately translatability al-
+lowing a particular world to emerge to a particular human. This is 
+essential when attuning to the particular conditions (rather than 
+voices) of more-than-human relations and engaging them critically. 
+Activity 2: Speculative Translations. The second activity was 
+aimed at exploring alternative care relationships through specu-
+lative human-thing translations. This activity was very much in-
+spired by Tsing’s writing on translations in the context of human-
+mushroom relations. She writes: [capitalism] "translates across living arrangements, turning worlds into assets . . . Alienation is that form 
+of disentanglement that allows the making of capitalist assets...from 
+all kinds of livelihoods, human and non-human" [116:133]. Tsing’s 
+insight potently provokes the speculative question: then what else 
+might we use to translate between entangled worlds? So, for the 
+second activity’s move towards speculation we asked participants 
+to experiment or play with translating other conditions by expand-
+ing or redirecting who and what gets attention from individuals or 
+regimes of care. 
+Participants each choose one condition such as land ownership, 
+oral history, sanctuary status, etc. to translate between non-humans 
+682
+Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+Figure 4: A screen capture of the Miro board where participants added images, sketches, collages, notes, audio fles, object 
+assemblages, and haikus from activity 2: Speculative Translations. 
+Figure 5: Spreads from the Alternative Care Translations Zine. The spreads were constructed from a mix of scanned collage 
+materials taken from printed transcripts, Miro board screen shots, hand-drawn notes, post-its and digitally created visual 
+elements. 
+in their micro-situation (Figure 3). They were then asked to materi-
+alize their speculative world using basic ofce and home supplies 
+such as printers, tape, paper, string, thread, water, Play-Doh, maga-
+zines, etc. letting the materials help evoke the new conditions of the 
+landscape. Participants could play with what new infrastructures of 
+care would need to emerge to enable that world, or how labors and 
+resources would move because of that translation. Lastly, partici-
+pants wrote a haiku to punctuate their world. Participants would 
+again discuss their experiences in the same small groups of 3-4 
+from the previous activity. The workshops ended with a collective 
+group discussion where we tried to zoom out and identify complex-
+ities, uncertainties, and provocations for posthumanist research 
+and design. 
+Combining modalities of reenactment, discussion, crafting, and 
+writing throughout the workshop resulted in myriad creative out-
+puts ranging from a sonic remix of the sounds of decaying food, to a 
+hand drawn image of pneumatic tube infrastructure for hand cream, 
+and a speculative assemblage with a succulent connected to a mo-
+tor with an alligator clip, and more (Figure 4). These outputs were important for analysis but also for participants to fnd interstices 
+between thinking and doing, between human and non-human. 
+4.4 Making Sense of the Data 
+Workshop material in the form of transcripts, notes, and screen 
+captures from the many Miro boards which include images, sticky 
+notes, poems, collages, audio fles, and GIFs served as the dataset for 
+formal analysis and for a zine/token to thank workshop participants. 
+Yet what began as two discrete activities (zine making and formal 
+analysis), collapsed into a blended process of making, curating, 
+coding, theme fnding, and narrative building. The process began 
+with an initial round of open coding with printed transcripts and 
+screen captures cut into interesting snippets. These bits were then 
+reviewed, organized, and reorganized by the frst author into loose 
+categories. Themes and an overall narrative developed with each 
+step of the zine-making process (Figure 5). 
+Zines have been a part of the creative lexicon of HCI for some 
+time ([50, 89]) and although not typically used as a tool for anal-
+ysis there are parallels in HCI from which this analytic method 
+can build. Desjardins and Key, for example describe the iterative 
+683
+DIS ’22, June 13–17, 2022, Virtual Event, Australia Cayla Key et al. 
+Figure 6: Three examples from activity 2: Speculative Translations with ‘oral history.’ (From left to right) DO’s making cofee 
+with a wooden spoon and oral history, MB’s book reading and oral history, and NH’s putting away groceries and oral history. 
+process of drawing a visual taxonomy of their RtD processes as 
+an integral aspect of their refective practice and analysis saying, 
+“These illustrations are not meant to be decorative, or mere accom-
+paniments to the text. The lines themselves are the ways by which 
+we were able to make sense of our own process” [40:11]. In a similar 
+manner, the iterative process of grouping content, ordering layout, 
+even the choice of typeface opened space to embody, relive, and 
+articulate the experiential qualities of the workshop alongside and 
+in response to themes emerging from the data. This process was a 
+way of tactilely making sense of the nuances, details, and contra-
+dictions present amongst the many forms of data. In the sections 
+below we present fndings from the analysis. 
+5 TENSIONS IN POSTHUMANIST RESEARCH 
+Below we present results from our critical analysis which highlights 
+three tensions in posthumanist engagement aimed at unpacking 
+some of the challenges, obstacles, and questions encountered by 
+researchers interested in more-than-human design. Although by 
+no means extensive, in foregrounding tensions with representation, 
+legitimization, unseen labor, and material narratives we contribute 
+to a feminist and care-ful departure from HCI’s anthropocentrism 
+towards the development of more relational approaches, under-
+standings, and perhaps someday, futures. 
+5.1 The Representation Problem / Producing 
+Legitimate Subjects of Care 
+Throughout the workshop, participants were often oriented to-
+wards questions of who, what, and how things got caring attention 
+as a means of uncovering and refecting on the relations around 
+them. Although all the participants have contributed to or engaged 
+in discourses which challenge dominant and human-centered mech-
+anisms of knowledge production, when it came to expressing non-
+human relationships in the workshop, long standing tendencies 
+towards representationalism often persisted. For example, during 
+a group discussion of activity 2: Speculative Translations—DO no-
+ticed that “almost half of them are speculative translations with oral 
+history” (Figure 6). It is likely not the case that almost half the 
+participants found language (a distinctly anthropocentric process 
+of knowing and organizing) the most interesting or generative 
+speculation. Yet, as Barad reminds us, representationalism is “a par-“internal” and “external” that breaks along the line of the knowing 
+subject” which “is so deeply entrenched within Western culture that 
+it has taken on a commonsense appeal. It seems inescapable, if not 
+downright natural” [16:806]. Participants had diferent ways of un-
+packing the refexive dominance of this way of understanding and 
+expressing possible alternative relations as when RW discusses 
+the broader colonial humanist project saying “humanism has given 
+us all of this language. The project has always been to bring people 
+and things into society or exclude them for society through language. ” 
+Speaking specifcally from a research perspective he continues, “I 
+think we run those risks when we have these kinds of encounters that 
+we want to bring out. Part of this is this struggle. How do we do this 
+if we have to question our epistemological approaches? Which are 
+pretty deep-rooted. ” These examples reiterate some of the limits of 
+epistemologies like language (specifcally English in this context) 
+as it is embroiled in socio-philosophical constructs which constrain 
+the ability to understand and express non-human relations or con-
+ditions as they are rather than how they are represented by default 
+as external rather than relational. 
+In questioning the subjects and objects of caring attention, par-
+ticipants not only confronted separations created through refexive 
+representationalism but also how those separations structured no-
+tions of deservedness. CR encountered this during activity 1: Micro-
+Situations, when reenacting the ritual of applying hand cream be-
+fore bed as they became aware of how easy it was to apply humanist 
+values and qualities to non-humans as a byproduct of noticing. They 
+explained, “When I was re-enacting that I felt quite bad. (Laughter) 
+I was like, "Okay. " I had a moment of guilt, "Maybe I shouldn’t do 
+this. " Also, when I was doing it a couple of times just to hear the noise 
+and think about it, it’s like, "Okay, here I go giving the tube some 
+human quality. Maybe I should be nicer to it. " I think that in itself 
+was also interesting, to see that now me paying attention to it gave 
+it such human qualities. ” The very act of attuning to the perceived 
+experience of the hand cream refexively caused CR to reconsider 
+that care relation based on a supposed harm—asking should I care 
+diferently? And more importantly, why would I? 
+This nascent question of why a non-human (like the hand cream) 
+would deserve diferent treatment was the subject of further discus-
+sion by another group. Because of SA’s work around prisons and 
+policing, they were particularly sensitized to how political mecha-
+nisms produce other humans worthy of care within these contexts, 
+ticularly inconspicuous consequence of the Cartesian division between 
+684
+Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+sharing, “I think there’s a lot of pushback in the radical political 
+circles I’m in about the language of humanizing as if somehow that 
+produces a form of person that becomes palatable to people. ” SA takes 
+the connection between needing to humanize (and the exclusionary 
+politics therein) to build capacity to care and directs that towards 
+non-humans saying, “I think I’m really curious about what tools we 
+have to take these objects or forms or other living beings where they 
+are. I feel like I go in circles about this all the time. How do we think 
+about more-than-human or the not-human in ways that aren’t about 
+humanizing them?” Critically for SA, the ‘we’ in their question 
+and concern implies not only individuals but regimes of care—of 
+which research collectives are very much a part. This points to 
+issues beyond mere individual representationalism and highlights 
+the need to look deeper at institutionalized representationalism and 
+how together they produce not just subjects external to humans 
+but subjects worthy of care. 
+These frictions and contradictions with participants attempting 
+to move beyond representationalism make clear how easy it can 
+be to participate in or enable a dominant oppressive system of au-
+thority (i.e., humans) to produce subjects for representation (i.e., 
+non-humans). Through these subject productions with more-than-
+humans, care is often contextualized as an integral ethic of ‘hu-
+manity.’ This allows non-humans to fall into the same trap as other 
+humans in need of “our” help, rescue, saving, or stewardship which 
+are the racialized, gendered, classist etc. “politics of benevolence and 
+compassion for a sufering human” [110:141]. This phenomenon 
+of joining the cognates human (individual separation), humanity 
+(generalized entity), and humane (moral imperative) [ibid] is at the 
+crux of how care and representationalism is entangled in legitimiza-
+tions of non-humans as subjects of care which further entrenches 
+a subject-object divide. These examples foreground work still to 
+do in fnding the mechanisms, materials, and willpower needed 
+to interrogate the politics of benevolence and compassion for a 
+sufering entity, or (perhaps more pointedly) non-particularized eth-
+ical collectives of entities (i.e., ‘nature’ or ‘technology’). We argue 
+this is critical if Euro-Western discourse hopes to move past those 
+categorical representations and meet non-humans “where they are. ” 
+Furthermore, taking a cue from gender theorist Judith Butler’s work 
+on the production of legitimate (human) subjects beyond refexive 
+actions to account for the political or manufactured [35], designers 
+and researchers need to confront their own individual and system-
+atic representational power and authority present from within their 
+hegemonic structures (i.e., the academy). It is time to take seriously 
+an attention to how such productions of subjects pre-determines 
+the texture and possibilities of care relations between humans and 
+non-humans. 
+5.2 The Labor Problem / Labor is Progress, 
+Labor is For the Living 
+Because care can be described as “a cumulative efort of attentiveness 
+and resilience [that] is easily overlooked” [71:2] for humans and non-
+humans alike, discussion prompts for each activity often focused 
+on questions of labor’s movements, visibility, and efects, especially 
+as they might shift or redistribute in an alternate care relationship. 
+Despite a predisposition from many of the participants towards dis-
+rupting invisible labor hierarchies it took focused attention, efort, and at times a real uncomfortability to locate the labor of anything 
+outside of their own human experience. For example, when SA 
+was refecting on their experience producing and translating reso-
+nances (from activity 1) while reenacting cleaning their glasses in 
+the morning they explain, “I’m always thinking about people who 
+are made invisible, whose labor is made invisible by labor conditions. 
+For me, it actually felt really diferent from that to be thinking about 
+the voice or the labor of the cloth which I think precisely because it’s 
+not human, I think of it as just belonging to me. ” SA then refected on 
+instances of material friction where non-human labor did emerge 
+saying, “for me it’s recognizing that there were certain points where 
+there was like a tension, like a potential snag of the material or the 
+railing catching that, so at these points of resistance where I became 
+aware of the labor. ” 
+This susceptibility to feeling like the sole bearers of labor was 
+evident in all the groups at various stages. In some instances, partic-
+ipants contextualized the invisibility of more-than-human labor in 
+relation to the lack of perceived progress of that labor. In the case of 
+HR reenacting opening her bedroom curtain and disturbing some 
+gnats she explained, “I defnitely perceived them as being disturbed 
+and I guess the labor would be then to kind of achieve a homeostasis 
+again. ” It took HR some time to recognize this form of non-human 
+labor in part because labor is often seen as movement towards 
+something as opposed to a going back, or as a focused efort to get 
+somewhere new and perhaps better. Similarly, MB found himself in 
+relation to a form of non-human labor closer to self-maintenance 
+or persistence in the face of human intervention. When describing 
+his micro-situation of reading a book, he explains, “I’m pretty rough 
+on books. I like to highlight. I mean, it’s my book. I want to be able 
+to engage with this book. So, it’s, kind of, warped; it defnitely had 
+some use. It looks like it has been doing some labor while trying to 
+withstand my engagement with it—putting up with me. ” For MB the 
+non-human labor he connected to was neither progress forward nor 
+movement back but a holding steady, or as RW referred to during 
+the group discussion when describing a door “trying to stay as a 
+door” in his 110-year-old house, “that quiet labor of trying to stay 
+together. ” 
+Although the previous examples of locating non-human labor 
+were all discussed in the broader context of care and care relations, 
+AL directly confronted the notion of labor as progress as care while 
+thinking through her evolving emotional response when reenact-
+ing her micro-situation—opening the front door of her house. She 
+recalls, “I care for the house, but it’s not necessarily caring for me. 
+And then I was thinking, that’s not fair. It cares a great deal. It’s just 
+that it’s kind of quite a static form of caring. ” In the fnal group 
+discussion of workshop 2, CG brings these ideas together when 
+working through what it might mean to live in a world where an 
+anthropocentric link between care, labor, and progress was severed 
+or challenged. She wonders, “If you had to treat everything with 
+a level of care that you would a human, I don’t know, I think you 
+wouldn’t get very much done. Maybe that would be a good thing. ” 
+CG’s provocation takes us one step further to suggest that human 
+labor redirected away from a productivist frame might also be a 
+form of self-care or collective care. Furthermore, her comment un-
+derscores that there is no universal way to care or be in relation. 
+Those are necessarily particular and treating them as such (to care 
+685
+DIS ’22, June 13–17, 2022, Virtual Event, Australia Cayla Key et al. 
+for a door as a door rather than human) is better for both the door 
+and the human. 
+This section illustrates how unproductive labor by non-humans 
+which might be static, non-linear, or resilient gets marginalized 
+and overshadowed by “the persistence of a modern paradigm that 
+associates the future with progress, with an ethico-political imperative 
+to ‘advance”’ [90:693]. By shedding light on these unseen labors, we 
+caught glimpses into the ways in which care relations among entan-
+gled entities are similarly static, non-linear, resilient, and silenced. 
+By mapping these relations through their labors, we arrived at a 
+“topology that defes any suggestion of a smooth continuous manifold” 
+[16:244]. Such a map highlights the agency of non-humans via their 
+labor in ways which begin to resist humanization. Through the 
+very process of locating these labors, participants were required to 
+suspend humanist lenses which prescribe who and what has the ca-
+pacity to labor in ways that were relationally particular. These acts 
+of acknowledgment helped participants begin to reframe produc-
+tion and progress from linear to “nonlinear enfolding[s]” [ibid:244] 
+which suggests an ontologically signifcant opening. 
+5.3 The Material Problem / Narratives of 
+Pureness and Reconfguration 
+The notion that “nothing preexists the relations that constitute it” 
+[32:350] is an established ontological pillar of both care and posthu-
+manist theory. As participants engaged in various forms of mate-
+rial reconfguration throughout the workshops, they confronted 
+long-standing narratives around what is perceived to be pure (i.e., 
+preexisting relation to humans). Within these narratives are an 
+unintended denial of non-human agency which exists outside of a 
+human’s representation. This has the efect of saying: nothing preex-
+ists the representations that constitute it—a damaging notion indeed. 
+However, participants also experienced moments of reconfgura-
+tion which challenged the idea that human agency is self-derived 
+and exists separate from its relation. In this section we will explore 
+the connections we saw between these narratives and the ways 
+they directly afected matters and conditions of care. 
+The phenomena of categorizing value based on material pureness 
+was most present when directed at non-humans as in the case when 
+AL was discussing with her smaller group why she felt a stronger 
+connection and care for one item over another saying, “So I think it 
+is partly because it is just the most amazing living fabric. A lot of the 
+fabric that we work with is so processed that you do not get a sense of 
+its relation to the original material. I mean, in cotton you can kind of 
+see it a little, but for most things their nature is just so extracted. ” Al-
+though her feelings and relationship to this item are more complex 
+than we as deeply discussed, one element to that connection was 
+the fabric’s aesthetic proximity to its unprocessed origins, or rather 
+its comfortable distance from human meddling. Additionally, ro-
+manticizing the material provenance of pure/impure divisions can 
+produce narratives of sacrifce or sufering and therefore legitimize 
+modes of care. This is a concept DO explored during the closing 
+group conversation of workshop 1 when sharing why it felt easier 
+to care for wood over metal: “I am wondering now too, should we 
+get that for metal as well? Are we just having a missed connection 
+there because we cannot see it, because we cannot see the grain of how 
+we can recognize the living of the tree? I wonder if there is a blind spot . . . You know something has been given up for the metal as well, 
+it is just less direct, and then we cannot empathize with it as much.” 
+In her thinking, DO draws connections between pureness and care 
+but also to living versus inert and suggests a danger in that blind 
+spot is how it obscures those relations and limits potential forms of 
+care. HR elaborates the tension between care and the fction that 
+what is living has more to sacrifce as the conversation evolves, 
+“I’m thinking about how a tree in its death, its materials are used to 
+provide life for the other things in its ecosystem. That is a type of care 
+that is contributing through its death. This is probably not the death 
+that it evolved to become, the door, the spoon, the whatever. There was 
+a care that it evolved to fulfll, and we took it out of that loop. ” HR’s 
+refection cognizes the tree as a pure living thing with something 
+akin to destiny, while recognizing “there also maybe a danger is 
+romanticizing materials like that. ” 
+During activity 2: Speculative Translations, participants created 
+physical expressions of speculative worlds in which care conditions 
+were radically diferent. Critically, these were made as situated 
+human bodies—as sites of enmeshed and particular perceptual dif-
+ference. Thus, in addition to the things in and around their homes, 
+participants’ selves were positioned as materials to be playfully 
+reconfgured. This position was often uncanny and unpleasant in 
+the way it unseated a pure/reconfgured dualism for even brief 
+intervals. RW describes the way he felt reconfgured during his 
+speculative translation (redirecting socio-ecological oral history to 
+a door hinge) saying, “I felt that I was reconfgured now as a piece 
+of material, that was my fesh. Then the history of my fesh, of the 
+scar, and that was no diferent, I suppose, than the wood. These things 
+are taken, rendered apart, put back together . . .but I suddenly felt, 
+very quickly, a kind of afnity with the things that I was literally 
+physically connected to. That, I guess, is a diferent confguration that 
+did not exist for me before. I never made the connection between that 
+particular door and my body in that way, until this workshop. But I did 
+feel like an invasive species in terms of all the care relations that are 
+already in place. I felt I did not belong here. Is it a new world? Do you 
+think we created new worlds?” “Yes, defnitely” (MB). “Defnitely—it 
+is surprising to me that I did that, and it defnitely troubles me also” 
+(AR). RW’s experience of feeling a simultaneous afnity for and 
+rejection from the care relations in place among the other materials 
+highlights a distinct ambivalence. From a researcher perspective, it 
+is interesting and exciting to experience moments, however brief, 
+of a relational ontology but there was a marked backlash as well. 
+In the emergence of those worlds—those moments of heightened 
+awareness of ‘being with,’ comes the uncomfortability of dimin-
+ished power (agency), evoking questions of if we feel welcome 
+anymore and are we ready to feel like outsiders? 
+Within these various material engagements with bodies and 
+things we saw how researchers grappled with a morality based 
+on pureness versus reconfguration which treats entities (selves 
+included) as categorical rather than particular or relational. Much 
+like the ‘pristine myth’ construct of the North American wilder-
+ness in Indigenous scholarship which “imagined an unopened wild 
+landscape as pristine, pure, and unspoiled” [57:100] (by Indigenous 
+ways of life) which was “born from the Manifest Destiny ideologies 
+of western expansion” [ibid:92], this fallacy and its moral conse-
+quence, is necessarily a kind of violent colonial erasure of already 
+in-place and place-based relations which are undervalued because 
+686
+Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+they don’t serve white anthropocentric visions of present and fu-
+ture domination. This kind of political interrogation of the ‘pristine’ 
+is especially needed in design research as practitioners confront the 
+moral consequences of what might seem like harmless aesthetic, 
+material, and narrative choices. Furthermore, when researchers 
+turn the lens in on ourselves as materials like any other, susceptible 
+to the same political, moral, and ontological trappings of a pure 
+versus confgured dualism we are all too tempted to look away out 
+of fear of our own erasure. Afterall, as feminist STS scholar Cecilia
+Åsberg uncomfortably reminds, “we have never been purely human 
+in the frst place ” [10:9]. 
+6 DISCUSSION 
+Recalling the metaphor of using this workshop to explore what we, 
+as a research community, need to pack with us and unpack amongst 
+us in the above sections we focused on unpacking three tensions 
+with more-than-human engagement. To further trouble these ten-
+sions and trace where we see them link up, the sections below 
+focus on what we might pack with us ideologically and tactically 
+when navigating our way forward as practitioners committed to 
+posthumanist design research. 
+6.1 The Knowledge–Care Loop / Towards 
+Epistemological Care 
+Within the tensions detailed above is the seeming inescapabilty 
+of anthropocentric epistemologies to reproduce anthropocentric 
+ethics and modes of care. Through our explorations of how partici-
+pants related to material reconfguration and legitimizing subjects 
+we begin to understand that what and how we know (epistemology) 
+and what and how we care (ethics) are bound together in cycles of 
+replication. By drawing a through line to seen and unseen labor as 
+manifestations of uneven reciprocities we will attempt to paint a 
+picture in this section of how we might attempt to know diferently 
+to care diferently. 
+Within posthumanist HCI there has been much attention paid to 
+alternate ways of knowing, to fnding methods which push bound-
+aries to encompass more-than-human voices and knowledges. How-
+ever, during the fnal group discussion in workshop 1, participants 
+began shifting away from trying to see through the eyes of an other 
+(human or non-human) or understand their lived or even lively ex-
+periences. Instead, they focused on unpacking nonrepresentational 
+ways of knowing. RW suggests that “epistemological care might be 
+to not know, might be to not give words to, might be to not categorize. 
+There is a privileging or entitlement that we have to know, or we have 
+to give it some way of knowing. Language does that. If it’s not in 
+language, it doesn’t exist, or we’re not communicating. I think your 
+workshop gets at this and I think there are these epistemological care 
+issues ” to which HR adds “It’s interesting because this not knowing, 
+it’s an important societal power mechanism to be exercised. It’s a way 
+to create order. It’s a way to keep a perspective. It’s also a way to 
+humble, to recognize that there are just not things that you will be 
+able to understand and just lean into that and accept it and fnd other 
+ways to relate to it. ” 
+We further develop this idea of epistemological care frst as an 
+interrogation of the knowledge-care loop, meaning we care to know 
+how we know to care and second as an attempt to disrupt it. This interrogation might begin with the assumption that humans can 
+only perceive of a world from the outside [ 70]. From that distance 
+one must perceive of things (human and non-human) as separate, 
+categorical, legitimate, and in the case of many humans—and all 
+non-humans—much less agentic. This vantage point allows moral 
+judgment to be administer on top of others—as is the case with an 
+ethics of justice. However, there are counter proposals within Indige-
+nous scholarship where thinking/knowing and therefore agency are 
+not merely humanist representations overlaid on top of the world— 
+as if there was a separate and solid surface upon which to place these 
+‘higher level’ thoughts anyway. In her critique of Euro-Western 
+onto-epistemological framing of agency, Haudenosaunee and An-
+ishinaabe scholar of Indigenous Studies & Sociology Vanessa Watts 
+describes ‘Place-Thought’ witch is “the non-distinctive space where 
+place and thought were never separated . . .based upon the premise 
+that land is alive and thinking and that humans and non-humans 
+derive agency through extensions of these thoughts” [124:21]. For 
+Watts, agency isn’t a given for either humans or non-humans but 
+emerges out of the relations between them in a place that rejects 
+human/non-human separation. When applied to an ethics of care 
+this adds consequence and nuance to how knowing (or thinking) 
+diferently might provide openings for caring relations to emerge 
+which do not perpetuate separated, stabilized, and categorical ways 
+of knowing-treating non-humans as less capable or with less ethical 
+agency. 
+To help concretize and articulate mechanisms which might sup-
+port disrupting the knowledge-care loop a feminist care ethics 
+notion of asymmetrical reciprocities might provide a tactical edge. 
+In care ethics reciprocity is not necessarily symmetrical (as in ‘the 
+golden rule’ do unto others as you would have them do unto you) 
+which is a generalized form of justice. Rather reciprocity is seen 
+as complimentary [25] or asymmetrical and particular. This makes 
+obligations to co-operatively maintain a world through concrete 
+acts of care labor an ethical condition of those relationships rather 
+than a moral application. This is an importance distinction because 
+it means that human and non-human agency is equally bound up in 
+those ethical conditions, yet not equally obligated or efected. We 
+saw this manifest most clearly when looking into how non-human 
+labor foregrounds the linkages between agency and care (as in AL’s 
+experience denying then coming to terms with how her home cares 
+for her too). 
+This brings us to a key point: if care ethics is a condition of 
+our entangled existence, where the particularities of those relation 
+(not the abstracted perceptions of humans) are what materialize 
+or actualize agency for humans and non-humans then all entities 
+participate (labor) in how they come to matter. As a result, we argue 
+that by following care labor and linking it to asymmetrical reciproc-
+ities, researchers have a concrete ‘in’ for tracing back through and 
+addressing some of the ethico-onto-epistemological conditions of 
+their relations in ways that interrupt the knowledge-care loop and 
+perhaps begin the work of epistemological care. 
+Furthermore, we argue that this form of labor tracing could be 
+used to create ‘difractive’ maps of non-human relations. For Har-
+away, difraction is the “mapping of interference, not of replication, 
+refection, or reproduction. A difraction pattern does not map where 
+diferences appear, but rather maps where the efects of diferences 
+appear” [60:304]. Mapping the ’through’ with which a situated 
+687
+DIS ’22, June 13–17, 2022, Virtual Event, Australia Cayla Key et al. 
+individual is understanding non-human relations might shift fo-
+cus away from the feelings or experiences of non-humans (which 
+require processes of representation and legitimization through hu-
+manist valuation) and turn to the interference patterns that get 
+created by subject/object boundaries. Using DO’s discussion about 
+the purity of wood over metal as an example, this map would not 
+be an account of what we know or assume about wooden spoons. 
+Rather it would trace how those particular spoons, metal, and peo-
+ple are diferentiated and how that diference matters for spoons, 
+metal, and people in an inspirable ethico-onto-epistemological kind 
+of way. Hence, the resulting map is not ’representative’ of spoons, 
+metal, or people categorically but has something to say about how 
+the diference between them is produced and takes responsibility 
+for how such practices come to matter. Because the labor needed to 
+maintain such relationships and divisions are concrete responses 
+to those diferences, we argue that visibilizing those labors difrac-
+tively is one possible tactic for disrupting the knowledge-care loop. 
+In this way, posthumanist epistemological care for HCI might 
+entail other difractive methodologies for interrogation and disrup-
+tion which seek not to replicate humanism, but which marinate in 
+the unease and tensions of asymmetric reciprocities which may feel 
+non-proximal, illegitimate, or lonely. Such epistemological com-
+mitments could resist the urge to tame or stabilize matter and 
+matterings and create openings within ourselves as knowledge 
+producers to rework those boundaries—a prospect which may be 
+scary or unsustainable yet none the less is our responsibility. 
+6.2 Where is the Risk? / Towards a Diferent 
+Kind of Imagining 
+Throughout the two workshops participants oscillated between 
+enacting a morality based on categorical entities which are com-
+fortably sperate to rejecting those categories and dualisms based 
+on particular and embodied relations which were uncomfortably 
+close. These encounters were marked by feelings of alienation, re-
+jection, and being uncared for. As AB put it during her group’s 
+discussion of activity 1, “I felt like I was interrupting their conference. ” 
+While exploring the romantic materiality of subject/object cuts it 
+became clear that although those categories and dualisms are not 
+absolutes, they possess a haunting aesthetic capacity to marginalize 
+non-humans and humans alike. 
+As designers, makers, or creators of knowledge objects (con-
+structed from an array of diferent materialities) we hold and have 
+claimed some say in that aesthetic. And as researchers committed 
+to posthumanist agendas we are necessarily working with a specu-
+lative aesthetic because imagining how else we might live in worlds 
+“as well as possible” means trekking through relations not yet made 
+or unmade. Therefore, it is worth considering how the origins and 
+functions of speculation are more complex than they might seem 
+and, as we will attempt to unpack here, there is a real risk in our 
+speculations not being risky enough. For philosopher and social 
+theorist Michael Halewood, ‘successful’ situated speculation “re-
+nounces any faith in a settled world that can be immediately known. 
+Instead, it launches itself from, and returns to a world-in-the-making, 
+where one’s speculations can only be assessed in terms of the efects 
+and consequences that they produce as part of the making of the 
+world” [58:60]. Building of Alfred Whitehead, this is an important distinction as it separates productive speculation from idle imagi-
+nation [125]. For Halewood and Whitehead, to speculate is not just 
+to imagine a move but to make a move through the speculating of 
+it. 
+This idea is not new however, and an imaginative landscape can 
+be productively thickened through Indigenous Ecological Knowl-
+edge. According to Haudenosaunee scholars of Indigenous Envi-
+ronmental Studies Joe Sheridan and Dan Longboat, “Imagination, in 
+its ecological sense, is the cognitive and spiritual condition of entwin-
+ing with local and cosmological intelligences. Indeed, imagination is 
+the spiritual medium of those powers that engage humans without 
+humans being the prime movers of the act” [101:370]. Although imag-
+ination in an Indigenous ecological sense and situated speculation 
+share the belief that speculation is not an external doing to a world 
+but rather an act of the world—a medium of its co-becoming—the 
+two philosophies difer on what it means to a take a risk through 
+that act. For Halewood the risk is twofold, it is in the uncertainty 
+of where one will end up as the result of a speculation (because 
+worlds are not fxed) and the socio-political consequences therein 
+(i.e., ridicule from within the academy). For Sheridan and Long-
+boat however, the consequences are much deeper. They explain, 
+“From a Haudenosaunee or Mohawk perspective, we notice that minds 
+colonized by these assertions concerning the universality of imagi-
+nation’s origins and functions are contributing dimensions to larger 
+conceits maintained by anthropocentrically biased cultures. Cultures 
+colonized by these conceits tautologically confrm the interior sources 
+of their intelligence” [101:366]. In the context of imagining (here the 
+paper will shift terms to bring the following ideas into alignment 
+with Sheridan and Longboat’s more consequential formulation) 
+for more-than-human centered design futures, the risk of avoiding 
+methodologies because they make us (Euro-Western researchers 
+and participants) feel uneasy, uncomfortable, unwelcome, uncared 
+for, or shut out roots the very subject/object dualism and human 
+exceptionalism we are trying to speculate ourselves out of. This is 
+an important distinction as it asserts that risk does not rest solely 
+on the shoulders of a human speculator but that imaginative risk 
+scales to the cosmological as a real and inseparable material of an 
+entwined world. 
+In closing his essay on situated speculation Halewood concludes 
+that ‘successful’ situated speculation is rare and very challenging 
+to achieve. In analyzing the Alternative Translations Workshop 
+against Halewood’s notion of success as making a real move from 
+a situated place to one which is unknowable, and which produces 
+consequences and Sheridan and Longboat’s element of risk to hu-
+man self-perception, we realized instances of ‘success’ lay precisely 
+in the moments where participants felt the most physically and 
+emotionally troubled as they challenged perceived contaminants 
+through embodying thresholds. This was the case when RW re-
+confgured his body as a door hinge and felt, but also afected, the 
+boundaries between himself and those other materials. In that act 
+of imagining he challenged the perceived containments of human 
+and non-human ‘successfully.’ In the case of GB explaining to the 
+group her process of imagining alternate care relations with her 
+wall and foor (per activity 2) she begins by describing her daily 
+handstand practice saying, “it’s a very embodied experience, because 
+your entire weight is on your arms, which is not something that we’re 
+688
+Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+used to, as humans, so you’re really focused on your embodied ex-
+perience of the handstand, and you’re really fghting yourself, too. ” 
+GB used the physicality of her connection with the foor and of her 
+own bodily resistance to this reconfguration as starting points for 
+reimagining what at frst seemed like the “passive work of the foor” 
+saying “I came to realize that we both change, that I change with 
+them, and that stability isn’t fxed but relational, not rigid but a dance 
+of trust between bodies. ” For GB, embodying and fghting through 
+thresholds of trust, stability, and autonomy within herself and the 
+two surfaces allowed her to imagine/realize their relationship as 
+more fuid—as something choreographed yet co-created. 
+The tactic of fnding thresholds within a relationship and em-
+bodying them, making them something humans must feel and 
+physically or emotionally endure also resonates with Sheridan 
+and Longboat’s understanding of imagination: “Like everything 
+Haudenosaunee, imagination has a place because imagination is a 
+place , and because everything is connected to everything else, the en-
+counter with imagination is a living communication within a sentient 
+landscape” (original emphasis) [101:369]. Simply put, imagination 
+is not thinking diferently but being diferently because it is a part 
+of our daily worlding practices. This last point underscores why 
+HCI and design research needs to take speculation more seriously 
+and why imagining should/does not solely reside in our minds. 
+In some ways this is quite intuitive for a design audience yet as 
+designers and researchers we are materials to be imagined as well 
+and stand to beneft the most from these kinds of uncomfortable re-
+confgurations as we hold the potential to transfer that imaginative 
+aesthetic through our research materials. After all, “Imagination did 
+not become a quality of a singularly human mind until mind severed 
+itself from landscape and the depths of time. For the Haudenosaunee, 
+imagination possesses no prehistory. Imagination became something 
+other than what it is when mind went solo into Cartesian waters 
+and lost sight of mythological shores” [101:370]. HCI cannot run the 
+risk of speculating more-than-human worlds from disembodied 
+subject minds and needs to relocate critical practices of imagining 
+back within landscapes and specifcally between the boundaries or 
+cuts which severed the two in the frst place. Without these truly 
+messy methods, design and research runs the risk of once again 
+displacing the same elsewhere [15] from a position of nowhere [59]. 
+As AT nicely surmised during workshop two’s closing discussion, 
+“As there is with decay and these remixing, and these messy moments, 
+I think they’re not romantic. Even though I think we kind of want 
+them to be. ” 
+7 CONCLUSION 
+Although care can be described as a “form of political imagination to 
+fuel hope and desire for transformative action” [110:137], relational 
+ethics (like care ethics) are not an ideal, not an innocent, not a 
+utopia. They are not safe, moral, or stable either. This paper reports 
+on the analysis from a workshop which applied such an uneasy 
+relational understanding of ethics to reveal and unravel tensions 
+within posthumanist research practice but also to fuel a transforma-
+tion of how design researchers might imagine and act diferently 
+within those practices. We have argued that is time to take seri-
+ously an attention to how subjects and objects are produced and to 
+how those mechanisms of production shape the capacities of care relations between humans and non-humans. This paper unpacks 
+tensions within posthumanist design and research regarding repre-
+sentationalism, legitimization, unseen labor, and dualistic material 
+narratives. Along the way we have left markers or cairns—small 
+piles of stones delicately balanced atop one another to show how 
+one has proceeded along a path which is unclear. It is our hope that 
+these metaphorical cairns might contribute to orienting posthuman-
+ist design within feminist and Indigenous praxis through conveying 
+their ability to highlight the thickness of our present and to thicken 
+our futures because both make sense of being on earth as a neces-
+sarily interdependent and relational practice of maintenance rather 
+than domination. 
+Although we have taken care to extract these tensions and re-
+sponses, we recognize that engaging issues as deeply rooted as how 
+to de-center design will likely not result in clear-cut directions or 
+enunciations. We take to heart Puig de la Bellacasa’s afrmation that 
+speculative ethics cannot be a sanctuary for its positions and as a 
+practice must stay “aware and appreciative of the vulnerability of any 
+position on the ‘as well as possible”’ [91:7]. We admit to providing no 
+‘answers’ but believe that our process of investigating and respond-
+ing matters more. In the words of Red River Métis/Michif scholar 
+of STS Max Liboiron: “methodologies—whether scientifc, readerly, 
+or otherwise—are always already part of Land relations and thus are 
+a key site in which to enact good relations (sometimes called ethics)” 
+[74:7]. Where we have arrived is the result of a series of difractive 
+‘readings’ built atop and throughout each other, beginning with 
+how the workshop was conceived and curated, to the happenings 
+which took place therein, and in the analysis presented here. This is 
+not to say that if practitioners construct their research from messy 
+difractive methodologies, they are not accountable for their con-
+tributing outcomes. Rather, this underscores the importance and 
+ethics of the journey not over but alongside the destination because 
+we too are reconfgurable through our praxis in ways possibly more 
+consequential than any other. 
+ACKNOWLEDGMENTS 
+We thank the workshop participants for their creativity and in-
+sights. We also thank Audrey Desjardins, and Heidi Biggs for their 
+thoughtful feedback on earlier versions, and the generous peer re-
+viewers for their encouraging and constructive advice. This project 
+has received funding from the European Union’s Horizon 2020 
+research and innovation programme under the Marie Skłodowska-
+Curie grant agreement No 813508. We also acknowledge and honor 
+with gratitude the land itself and the frst people of Seattle, the 
+Duwamish past and present upon whose traditional land this work 
+was written. 
+REFERENCES 
+[1] Shana Agid. 2018. What Do We Want? Designing Cultures of Care in Conditions 
+of Precarity. Designing Cultures of Care : 55. 
+[2] Shana Agid. 2018. ‘Dismantle, change, build’: Designing abolition at the inter-
+sections of local, large-scale, and imagined infrastructures. Design Studies 59: 
+95–116. 
+[3] Shana Agid. 2019. Making ‘safety’, making freedom: Problem-setting, collabora-
+tive design and contested futures. Tricky Design. The Ethics of Things : 115–129. 
+[4] Shana Agid and Elizabeth Chin. 2019. Making and negotiating value: design 
+and collaboration with community led groups. CoDesign 15, 1: 75–89. 
+[5] Sara Ahmed. 2016. Living a feminist life. duke university Press. 
+689
+DIS ’22, June 13–17, 2022, Virtual Event, Australia Cayla Key et al. 
+[6] Yoko Akama, Ann Light, and Takahito Kamihira. 2020. Expanding Participation 
+to Design with More-Than-Human Concerns. In Proceedings of the 16th Par-
+ticipatory Design Conference 2020 - Participation(s) Otherwise - Volume 1, 1–11. 
+https://doi.org/10.1145/3385010.3385016 
+[7] Kristina Andersen, Laura Devendorf, James Pierce, Ron Wakkary, and Daniela 
+K Rosner. 2018. Disruptive improvisations: Making use of non-deterministic art 
+practices in HCI. 1–8. 
+[8] Kristina Andersen and Ron Wakkary. 2019. The Magic Machine Workshops: 
+Making Personal Design Knowledge. In Proceedings of the 2019 CHI Conference 
+on Human Factors in Computing Systems - CHI ’19, 1–13. https://doi.org/10.1145/ 
+3290605.3300342 
+[9] Antonis Antoniou and Steven Heller. 2021. Decoding Manhattan: Island of Dia-
+grams, Maps, and Graphics. Abrams. 
+[10] Cecilia Åsberg. 2013. The timely ethics of posthumanist gender studies. Femi-
+nistische studien 31, 1: 7–12. 
+[11] Amid Ayobi, Katarzyna Stawarz, Dmitri Katz, Paul Marshall, Taku Yamagata, 
+Raúl Santos-Rodríguez, Peter Flach, and Aisling Ann O’Kane. 2021. Machine 
+Learning Explanations as Boundary Objects: How AI Researchers Explain and 
+Non-Experts Perceive Machine Learning. 
+[12] Karen S. Baker and Helena Karasti. 2018. Data care and its politics: designing 
+for local collective data management as a neglected thing. In Proceedings of 
+the 15th Participatory Design Conference: Full Papers - Volume 1, 1–12. https: 
+//doi.org/10.1145/3210586.3210587 
+[13] Madeline Balaam, Rob Comber, Rachel E. Clarke, Charles Windlin, Anna Ståhl, 
+Kristina Höök, and Geraldine Fitzpatrick. 2019. Emotion Work in Experience-
+Centered Design. In Proceedings of the 2019 CHI Conference on Human Factors in 
+Computing Systems - CHI ’19, 1–12. https://doi.org/10/gf2njf 
+[14] Karen Barad. 2003. Posthumanist Performativity: Toward an Understanding of 
+How Matter Comes to Matter. Signs: Journal of Women in Culture and Society 
+28, 3: 801–831. https://doi.org/10.1086/345321 
+[15] Karen Barad. 2007. Meeting the universe halfway. 
+[16] Karen Barad. 2010. Quantum Entanglements and Hauntological Relations of In-
+heritance: Dis/continuities, SpaceTime Enfoldings, and Justice-to-Come. Derrida 
+Today 3, 2: 240–268. https://doi.org/10.3366/drt.2010.0206 
+[17] Jefrey Bardzell, Shaowen Bardzell, and Ann Light. 2021. Wanting To Live Here: 
+Design After Anthropocentric Functionalism. In Proceedings of the 2021 CHI 
+Conference on Human Factors in Computing Systems, 1–24. https://doi.org/10. 
+1145/3411764.3445167 
+[18] Shaowen Bardzell. 2010. Feminist HCI: Taking Stock and Outlining an Agenda 
+for Design. In Proceedings of the SIGCHI Conference on Human Factors in Com-
+puting Systems (CHI ’10), 1301–1310. https://doi.org/10.1145/1753326.1753521 
+[19] Shaowen Bardzell. 2018. Through the “Cracks and Fissures” in the Smart Home to 
+Ubiquitous Utopia. Critical Theory and Interaction Design. MIT Press, Cambridge, 
+MA. 
+[20] Shaowen Bardzell, Shad Gross, Jefrey Wain, Austin Toombs, and Jefrey Bardzell. 
+2011. The signifcant screwdriver: care, domestic masculinity, and interaction 
+design. 371–377. 
+[21] Michael Beach. 2021. The UX of Climate Change: Western Red Cedar Dieback. 
+Retrieved from https://www.hcde.washington.edu/research/archives/fox#cedar-
+wi21 
+[22] Michael Beach. POST(-)HUMAN HAZMAT: Design fction for multispecies 
+care and collaborative survival in cataclysmic climates (a zine). Retrieved from 
+https://michaelwbeach.com/posthumanhazmat/ 
+[23] María Puig de la Bellacasa. 2012. ‘Nothing Comes Without Its World’: Thinking 
+with Care. The Sociological Review 60, 2: 197–216. https://doi.org/10/f33ksz 
+[24] Roy Bendor. 2018. Sustainability, hope, and designerly action in the anthro-
+pocene. Interactions 25, 3: 82–84. 
+[25] Seyla Benhabib. 1992. Situating the self: Gender, community, and postmodernism 
+in contemporary ethics. Psychology Press. 
+[26] Cynthia L. Bennett, Daniela K. Rosner, and Alex S. Taylor. 2020. The Care 
+Work of Access. In Proceedings of the 2020 CHI Conference on Human Factors in 
+Computing Systems, 1–15. https://doi.org/10.1145/3313831.3376568 
+[27] Jane Bennett. 2009. Vibrant Matter: A Political Ecology of Things. Duke University 
+Press. https://doi.org/10.1215/9780822391623 
+[28] Jane Bennett, Pheng Cheah, Melissa A Orlie, and Elizabeth Grosz. 2010. New 
+materialisms: Ontology, agency, and politics. Duke University Press. 
+[29] Heidi Biggs, Tejaswini Joshi, Ries Murphy, Jefrey Bardzell, and Shaowen 
+Bardzell. 2021. Alternatives to Agrilogistics: Designing for Ecological Think-
+ing. Proceedings of the ACM on Human-Computer Interaction 5, CSCW2: 1–31. 
+https://doi.org/10/gnzpfb 
+[30] Heidi R. Biggs, Jefrey Bardzell, and Shaowen Bardzell. 2021. Watching Myself 
+Watching Birds: Abjection, Ecological Thinking, and Posthuman Design. In 
+Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 
+1–16. https://doi.org/10.1145/3411764.3445329 
+[31] Heidi R Biggs and Audrey Desjardins. 2020. High Water Pants: Designing Em-
+bodied Environmental Speculation. 13. 
+[32] D. Bollier and S. Helfrich. 2015. Patterns of Commoning. Commons Strategies 
+Group. Retrieved from https://books.google.com/books?id=_bzhCgAAQBAJ [33] Nicolas Bourriaud. 2009. The Radicant. Sternberg Press. 
+[34] R. Braidotti. 2013. The Posthuman. Wiley. Retrieved from https://books.google. 
+com/books?id=WZASAAAAQBAJ 
+[35] Judith Butler. 2002. Gender trouble. routledge. 
+[36] Stuart Candy and Jake Dunagan. 2017. Designing an experiential scenario: The 
+People Who Vanished. Futures 86: 136–153. https://doi.org/10.1016/j.futures. 
+2016.05.006 
+[37] Sena Çerçi, Marta E. Cecchinato, and John Vines. 2021. How Design Researchers 
+Interpret Probes: Understanding the Critical Intentions of a Designerly Ap-
+proach to Research. 1–15. 
+[38] Kim De Wolf. 2017. Plastic Naturecultures: Multispecies Ethnography and the 
+Dangers of Separating Living from Nonliving Bodies. Body & Society 23, 3: 23–47. 
+https://doi.org/10/gbxscg 
+[39] Audrey Desjardins, Heidi R. Biggs, Cayla Key, and Jeremy E. Viny. 2020. IoT 
+Data in the Home: Observing Entanglements and Drawing New Encounters. In 
+Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 
+1–13. https://doi.org/10.1145/3313831.3376342 
+[40] Audrey Desjardins and Cayla Key. 2020. Parallels, Tangents, and Loops: Refec-
+tions on the “Through” Part of RtD. In Proceedings of the 2020 ACM Design-
+ing Interactive Systems Conference, 2133–2147. https://doi.org/10.1145/3357236. 
+3395586 
+[41] Audrey Desjardins, Cayla Key, Heidi Briggs, and Kelsey Aschenbeck. 2019. 
+Bespoke Booklets: A Method for Situated Co-Speculation. In Proc. DIS’19, New 
+York, ACM Press. 
+[42] Audrey Desjardins and Timea Tihanyi. 2019. ListeningCups: A Case of Data 
+Tactility and Data Stories. In Proceedings of the 2019 on Designing Interactive 
+Systems Conference - DIS ’19, 147–160. https://doi.org/10.1145/3322276.3323694 
+[43] Audrey Desjardins and Ron Wakkary. 2016. Living In A Prototype: A Reconfg-
+ured Space. In Proceedings of the 2016 CHI Conference on Human Factors in Com-
+puting Systems (CHI ’16), 5274–5285. https://doi.org/10.1145/2858036.2858261 
+[44] Dwayne Donald. 2010. On What Terms Can We Speak? Lecture at the University 
+of Lethbridge. Retrieved from www.vimeo.com/15264558 
+[45] Dwayne Trevor Donald. Forts, Curriculum, and Indigenous Métissage: Imagin-
+ing Decolonization of Aboriginal-Canadian Relations in Educational Contexts. 
+24. 
+[46] Arturo Escobar. 2018. Designs for the pluriverse: Radical interdependence, auton-
+omy, and the making of worlds. Duke University Press. 
+[47] Melanie Feinberg, Sarah Fox, Jean Hardy, Stephanie Steinhardt, and Palashi 
+Vaghela. 2019. At the intersection of culture and method: designing feminist 
+action. 365–368. 
+[48] Berenice Fisher and Joan Tronto. 1990. Toward a feminist theory of caring. 
+Circles of care: Work and identity in women’s lives : 35–62. 
+[49] Laura Forlano. 2017. Posthumanism and design. She Ji: The Journal of Design, 
+Economics, and Innovation 3, 1: 16–29. 
+[50] Sarah Fox and Daniela K. Rosner. 2016. Continuing the Dialogue: Bringing 
+Research Accounts Back into the Field. In Proceedings of the 2016 CHI Conference 
+on Human Factors in Computing Systems, 1426–1430. https://doi.org/10.1145/ 
+2858036.2858054 
+[51] Tyler S Fox. 2015. Transductive Praxis in BioArt: Relational Ontology and Aes-
+thetics of Nonhuman Experience. 
+[52] Tony Fry. 2009. Design futuring: sustainability, ethics, and new practice. Berg. 
+New York. 
+[53] Cally Gatehouse. 2016. Feral screens: Queering urban networked publics. 99– 
+104. 
+[54] Cally Gatehouse. 2020. The speculative gaze: design-research as difraction. Uni-
+versity of Northumbria at Newcastle (United Kingdom). 
+[55] Cally Gatehouse and David Chatting. 2020. Inarticulate Devices: Critical En-
+counters with Network Technologies in Research Through Design. In Pro-
+ceedings of the 2020 ACM Designing Interactive Systems Conference, 2119–2131. 
+https://doi.org/10.1145/3357236.3395426 
+[56] Cally Gatehouse, Matthew Wood, Jo Briggs, James Pickles, and Shaun Lawson. 
+2018. Troubling vulnerability: Designing with LGBT young people’s ambiva-
+lence towards hate crime reporting. 1–13. 
+[57] Dina Gilio-Whitaker. 2019. As long as grass grows: The Indigenous fght for 
+environmental justice, from colonization to Standing Rock. Beacon Press. 
+[58] Michael Halewood. 2017. Situated speculation as a constraint on thought. In 
+Speculative Research. Routledge, 52–63. 
+[59] Donna Haraway. 1988. Situated Knowledges: The Science Question in Feminism 
+and the Privilege of Partial Perspective. Feminist Studies 14, 3: 575–599. https: 
+//doi.org/10.2307/3178066 
+[60] Donna Haraway. 1992. The promises ofmonsters: a regenerative politics for 
+inappropriate/d others. Cultural studies : 295–337. 
+[61] Donna Haraway. 2008. When Species Meet. University of Minnesota Press, 
+Minneapolis and London. Retrieved from https://www.upress.umn.edu/book-
+division/books/when-species-meet 
+[62] Donna Jeanne Haraway. 2003. The companion species manifesto: Dogs, people, 
+and signifcant otherness. Prickly Paradigm Press Chicago. 
+690
+Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+[63] Sabrina Hauser, Doenja Oogjes, Ron Wakkary, and Peter-Paul Verbeek. 2018. An 
+Annotated Portfolio on Doing Postphenomenology Through Research Products. 
+In Proceedings of the 2018 on Designing Interactive Systems Conference 2018 - DIS 
+’18, 459–471. https://doi.org/10.1145/3196709.3196745 
+[64] Sara Heitlinger, Marcus Foth, Rachel Clarke, Carl DiSalvo, Ann Light, and Laura 
+Forlano. 2018. Avoiding ecocidal smart cities: participatory design for more-
+than-human futures. 1–3. 
+[65] Sara Heitlinger, Lara Houston, Alex Taylor, and Ruth Catlow. 2021. Algorith-
+mic Food Justice: Co-Designing More-than-Human Blockchain Futures for the 
+Food Commons. In Proceedings of the 2021 CHI Conference on Human Factors in 
+Computing Systems, 1–17. https://doi.org/10.1145/3411764.3445655 
+[66] Virginia Held. 2006. The ethics of care: personal, political, and global. Oxford 
+University Press, Oxford; New York. 
+[67] Hi‘ilei Julia Kawehipuaakahaopulani Hobart and Tamara Kneese. 2020. Radical 
+Care: Survival Strategies for Uncertain Times. Social Text 38, 1 (142): 1–16. 
+https://doi.org/10.1215/01642472-7971067 
+[68] Noura Howell, Audrey Desjardins, and Sarah Fox. 2021. Cracks in the Success 
+Narrative: Rethinking Failure in Design Research through a Retrospective Tri-
+oethnography. ACM Transactions on Computer-Human Interaction 28, 6: 1–31. 
+https://doi.org/10.1145/3462447 
+[69] Li Jönsson. 2015. STAKES AT THE EDGE OF PARTICIPATION: WHERE WORDS 
+AND THINGS ARE THE ENTIRELY SERIOUS TITLE OF A PROBLEM. Design 
+Ecologies, 6: 9. 
+[70] Immanuel Kant. 2008. Critique of Pure Reason. Penguin Classics. 
+[71] Cayla Key, Fiona Browne, Nick Taylor, and Jon Rogers. 2021. Proceed with 
+Care: Reimagining Home IoT Through a Care Perspective. In Proceedings of 
+the 2021 CHI Conference on Human Factors in Computing Systems, 1–15. https: 
+//doi.org/10.1145/3411764.3445602 
+[72] Cayla Key and Audrey Desjardins. REP(AIR): An Olfactory Interface For Bike 
+Maintenance and Care. 16. 
+[73] Rosemarie Kuptana. 1996. Inuit Perspectives on Climate Change -
+Statement by Rosemarie Kuptana, President of the Inuit Circumpo-
+lar Conference to the Second Conference of the Parties to the United 
+Nations Framework Convention on Climate Change. Retrieved from 
+http://www.nzdl.org/gsdlmod?e=d-00000-00---of-0ipc--00-0----0-10-0-- -
+0---0direct-10---4--------1l--11-en-50---20-about---00-0-1-00-0--4----0-0-
+11-10-0utfZz-8-00&a=d&c=ipc&clCL1.6&d=HASH01232a67cf25dc0c3f5dfd91 
+[74] Max Liboiron. 2021. Pollution is colonialism. In Pollution Is Colonialism. Duke 
+University Press. 
+[75] Ann Light. 2011. HCI as heterodoxy: Technologies of identity and the queering 
+of interaction with computers*. Interacting with computers 23, 5: 430–438. 
+[76] Ann Light. 2014. 19 Citizen Innovation: ActiveEnergy and the Quest for Sus-
+tainable Design. DIY citizenship: critical making and social media : 259. 
+[77] Ann Light and Yoko Akama. 2014. Structuring future social relations: the pol-
+itics of care in participatory practice. In Proceedings of the 13th Participatory 
+Design Conference on Research Papers - PDC ’14, 151–160. https://doi.org/10.1145/ 
+2661435.2661438 
+[78] Ann Light and Yoko Akama. 2018. The nature of ‘obligation’in doing design 
+with communities: Participation, politics and care. Tricky Design: The Ethics of 
+Things 131. 
+[79] Ann Light, Ilda Ladeira, Jahmeilah Roberson, N Bidwell, Nimmi Rangaswamy, 
+Nithya Sambasivan, and Shikoh Gitau. 2010. Gender matters: female perspectives 
+in ICT4D research. 
+[80] Ann Light, Irina Shklovski, and Alison Powell. 2017. Design for Existential 
+Crisis. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human 
+Factors in Computing Systems, 722–734. https://doi.org/10.1145/3027063.3052760 
+[81] Jen Liu, Daragh Byrne, and Laura Devendorf. 2018. Design for Collaborative 
+Survival: An Inquiry into Human-Fungi Relationships. In Proceedings of the 
+2018 CHI Conference on Human Factors in Computing Systems - CHI ’18, 1–13. 
+https://doi.org/10.1145/3173574.3173614 
+[82] Szu-Yu Liu, Jefrey Bardzell, and Shaowen Bardzell. 2018. Photography as a 
+design research tool into natureculture. 777–789. 
+[83] Szu-Yu Liu, Shaowen Bardzell, and Jefrey Bardzell. 2018. Out of control: refram-
+ing sustainable HCI using permaculture. 1–8. 
+[84] Szu-Yu (Cyn) Liu, Shaowen Bardzell, and Jefrey Bardzell. 2019. Symbiotic En-
+counters: HCI and Sustainable Agriculture. In Proceedings of the 2019 CHI Con-
+ference on Human Factors in Computing Systems, 1–13. https://doi.org/10.1145/ 
+3290605.3300547 
+[85] Andreas Malm and Alf Hornborg. 2014. The geology of mankind? A critique of 
+the Anthropocene narrative. The Anthropocene Review 1, 1: 62–69. 
+[86] Shannon Mattern. 2018. Maintenance and Care. Places Journal. https://doi.org/ 
+10/gf2wp9 
+[87] Iohanna Nicenboim, Elisa Giaccardi, Marie Louise Juul Søndergaard, Anuradha 
+Venugopal Reddy, Yolande Strengers, James Pierce, and Johan Redström. 2020. 
+More-than-human design and AI: in conversation with agents. 397–400. 
+[88] Doenja Oogjes, Ron Wakkary, Henry Lin, and Omid Alemi. 2020. Fragile! Handle 
+with care: The morse things. 2149–2162. 
+[89] James Pierce, Sarah Fox, Nick Merrill, Richmond Wong, and Carl DiSalvo. 2018. 
+An Interface without A User: An Exploratory Design Study of Online Privacy Policies and Digital Legalese. In Proceedings of the 2018 on Designing Interactive 
+Systems Conference 2018 - DIS ’18, 1345–1358. https://doi.org/10.1145/3196709. 
+3196818 
+[90] Maria Puig de la Bellacasa. 2015. Making time for soil: Technoscientifc futurity 
+and the pace of care. Social Studies of Science 45, 5: 691–716. https://doi.org/10/ 
+gfwpwd 
+[91] María Puig de la Bellacasa. 2017. Matters of care: speculative ethics in more than 
+human worlds. University of Minnesota Press, Minneapolis. 
+[92] Anuradha Reddy, A. Baki Kocaballi, Iohanna Nicenboim, Marie Louise Juul 
+Søndergaard, Maria Luce Lupetti, Cayla Key, Chris Speed, Dan Lockton, Elisa Gi-
+accardi, Francisca Grommé, Holly Robbins, Namrata Primlani, Paulina Yurman, 
+Shanti Sumartojo, Thao Phan, Viktor Bedö, and Yolande Strengers. 2021. Mak-
+ing Everyday Things Talk: Speculative Conversations into the Future of Voice 
+Interfaces at Home. In Extended Abstracts of the 2021 CHI Conference on Human 
+Factors in Computing Systems, 1–16. https://doi.org/10.1145/3411763.3450390 
+[93] Holly Robbins, Joep Frens, Lenneke Kuijer, and Ron Wakkary. 2020. Speculative 
+Energy Futures: Post-human Design for the Energy Transition. 1–3. 
+[94] Samar Sabie and Tapan Parikh. 2019. Cultivating Care through Ambiguity: 
+Lessons from a Service Learning Course. In Proceedings of the 2019 CHI Con-
+ference on Human Factors in Computing Systems, 1–14. https://doi.org/10.1145/ 
+3290605.3300507 
+[95] Sascia Bailer, Gilly Karjevsky, Edna Talevi, Edna Bonhomme, Johanna Bruckner, 
+Teresa Dillon, João Florêncio, Hedva Johanna, Krasny Elke, Reed Patricia, Sumah 
+Yayra, and Joan Tronto. 2020. Letters to Joan. #NEWALPHABETSCHOOL Caring, 
+1–113. 
+[96] Richard D Sawyer and Joe Norris. 2013. Duoethnography. Oxford University 
+Press. 
+[97] Donald A Schon. 1984. The refective practitioner: How professionals think in 
+action. Basic books. 
+[98] Phoebe Sengers, Kirsten Boehner, Shay David, and Joseph “Jofsh” Kaye. 2005. 
+Refective design. In Proceedings of the 4th decennial conference on Critical com-
+puting between sense and sensibility - CC ’05, 49. https://doi.org/10.1145/1094562. 
+1094569 
+[99] Tammy A Shel. 2007. The ethics of caring: Bridging pedagogy and utopia. Brill 
+Sense. 
+[100] Tammy A Shel. 2008. Gender and Inequity in Education. 
+[101] Joe Sheridan and Roronhiakewen" He Clears the Sky" Dan Longboat. 2006. The 
+Haudenosaunee imagination and the ecology of the sacred. Space and Culture 9, 
+4: 365–381. 
+[102] 1M Six Silberman, Lisa Nathan, Bran Knowles, Roy Bendor, Adrian Clear, Maria 
+Håkansson, Tawanna Dillahunt, and Jennifer Mankof. 2014. Next steps for 
+sustainable HCI. interactions 21, 5: 66–69. 
+[103] Alicia Smedberg and Ann Light. 2018. Autonomy and control in Orkney: An 
+inquiry into the social benefts of community wind energy. 
+[104] Nancy Smith, Shaowen Bardzell, and Jefrey Bardzell. 2017. Designing for co-
+habitation: Naturecultures, hybrids, and decentering the human in design. 1714– 
+1725. 
+[105] Miriam Sturdee, Sarah Robinson, and Conor Linehan. 2020. Research Journeys: 
+Making the Invisible, Visual. 2163–2175. 
+[106] Lucy Suchman. 2002. Located accountabilities in technology production. Scan-
+dinavian journal of information systems 14, 2: 7. 
+[107] Juanita Sundberg. 2014. Decolonizing posthumanist geographies. cultural ge-
+ographies 21, 1: 33–47. https://doi.org/10.1177/1474474013486067 
+[108] Neilly H Tan, Brian Kinnee, Dana Langseth, Sean A Munson, and Audrey Des-
+jardins. 2022. Critical-Playful Speculations with Cameras in the Home. 22. 
+[109] Alex S. Taylor. 2017. What Lines, Rats, and Sheep Can Tell Us. Design Issues 33, 
+3: 25–36. https://doi.org/10/gnx7tn 
+[110] Miriam Iris Ticktin. 2019. From the human to the planetary. Medicine Anthro-
+pology Theory 6, 3. https://doi.org/10.17157/mat.6.3.666 
+[111] Zoe Todd. 2015. Indigenizing the anthropocene. Art in the Anthropocene: En-
+counters among aesthetics, politics, environments and epistemologies : 241–54. 
+[112] Zoe Todd. 2016. An indigenous feminist’s take on the ontological turn: ‘Ontol-
+ogy’is just another word for colonialism. Journal of historical sociology 29, 1: 
+4–22. 
+[113] Austin Toombs, Shaowen Bardzell, and Jefrey Bardzell. 2017. The Proper Care 
+and Feeding of Hackerspaces: Care Ethics and Cultures of Making. interactions 
+24, 3: 12–13. https://doi.org/10/gj9mwg 
+[114] Austin Toombs, Colin Gray, Guoyang Zhou, and Ann Light. 2018. Appropriated 
+or Inauthentic Care in Gig-Economy Platforms: A Psycho-linguistic Analysis 
+of Uber and Lyft. In Extended Abstracts of the 2018 CHI Conference on Human 
+Factors in Computing Systems, 1–6. https://doi.org/10.1145/3170427.3188657 
+[115] Austin Toombs, Shad Gross, Shaowen Bardzell, and Jefrey Bardzell. 2017. From 
+Empathy to Care: A Feminist Care Ethics Perspective on Long-Term Researcher– 
+Participant Relations. Interacting with Computers 29, 1: 45–57. https://doi.org/ 
+10/f9wj8w 
+[116] Anna Lowenhaupt Tsing. 2015. The Mushroom at the End of the World. In The 
+Mushroom at the End of the World. Princeton University Press. 
+691
+DIS ’22, June 13–17, 2022, Virtual Event, Australia 
+[117] Ron Wakkary. 2020. Nomadic practices: A posthuman theory for knowing design. 
+International Journal of Design 14, 3: 117. 
+[118] Ron Wakkary. 2021. Things we could design: For more than human-centered 
+worlds. MIT press. 
+[119] Ron Wakkary, Audrey Desjardins, Sabrina Hauser, and Leah Maestri. 2013. A 
+sustainable design fction: Green practices. ACM Transactions on Computer-
+Human Interaction 20, 4: 1–34. https://doi.org/10.1145/2494265 
+[120] Ron Wakkary, Sabrina Hauser, and Doenja Oogjes. 2020. The disappearing acts 
+of the Morse Things: a design inquiry into the withdrawal of things. 
+[121] Ron Wakkary, Doenja Oogjes, and Armi Behzad. Two Years or More of Co-
+speculation: Polylogues of Philosophers, Designers, and a Tilting Bowl. ACM 
+Transactions on Computer-Human Interaction. 
+[122] Ron Wakkary, Doenja Oogjes, Sabrina Hauser, Henry Lin, Cheng Cao, Leo Ma, 
+and Tijs Duel. 2017. Morse Things: A Design Inquiry into the Gap Between 
+Things and Us. In Proceedings of the 2017 Conference on Designing Interactive 
+Systems - DIS ’17, 503–514. https://doi.org/10.1145/3064663.3064734 
+[123] Ron Wakkary, Doenja Oogjes, Henry W. J. Lin, and Sabrina Hauser. 2018. 
+Philosophers Living with the Tilting Bowl. In Proceedings of the 2018 CHI 
+Conference on Human Factors in Computing Systems - CHI ’18, 1–12. https: 
+//doi.org/10.1145/3173574.3173668 
+[124] Vanessa Watts. Indigenous place-thought & agency amongst humans and non-
+humans (First Woman and Sky Woman go on a European world tour!). 15. 
+[125] Alfred North Whitehead. 1929. Process and reality: An essay in cosmology. 
+[126] Danielle Wilde and Patrizia Marti. 2018. Exploring aesthetic enhancement of 
+wearable technologies for deaf women. 201–213. 
+[127] Daisy Yoo, Odeth Kantengwa, Nick Logler, Reverien Interayamahanga, Joseph 
+Nkurunziza, and Batya Friedman. 2018. Collaborative refection: a practice for 
+enriching research partnerships spanning culture, discipline, and time. 1–11. 
+[128] John Zimmerman, Jodi Forlizzi, and Shelley Evenson. 2007. Research through 
+design as a method for interaction design research in HCI. 493. https://doi.org/ 
+10.1145/1240624.1240704 
+APPENDIX 
+This appendix is meant to provide a brief introduction to each 
+participant researcher and pointers to key publications or projects 
+which are by no means exhaustive, but which help situate the 
+starting points of each individual’s research interests. 
+Workshop 1 
+Doenja Oogjes, a design researcher and PhD candidate in the 
+School of Interactive Arts and Technology at Simon Fraser Univer-
+sity uses postphenomenology to move beyond human-centeredness 
+to explore more-than-human design practices [63] and relations 
+with things often utilizing thing-perspectives [88]. Dr. Ann Light is 
+a researcher in the School of Engineering and Informatics at the 
+University of Sussex and the School of Arts and Communication 
+at Malmö University. Her work critically investigates and troubles 
+design through axes of gender [75, 79], ethico-political care [77, 78], 
+sustainability [76, 103], the anthropocene [80], and collaborative 
+more-than-human future making [ 6]. Dr. Shana Agid is an artist, 
+design researcher, activist, and Dean of the School of Art, Media and 
+Technology at the Parsons School of Design whose work engages 
+design and participation [4] across dimensions of care [1] ethics [3] 
+politics [2] and geography and infrastructure via queer experience 
+[9]. Dr. Holly Robbins, a postdoctoral researcher in the Department 
+of Industrial Design at the Eindhoven University of Technology, 
+explores posthuman design for transitions to renewable energies 
+[93]. Dr. Tammy Shel is a feminist philosopher and care ethicists 
+who uses care ethics to advance pedagogical methods and theory 
+[99, 100]. Michael Beach, a PhD student and researcher in the Col-
+lege of Engineering at the University of Washington, has facilitated 
+research on the UX of climate change [21], and has used posthu-
+manist theory to facilitate and design a collection of design fctions Cayla Key et al. 
+or multispecies care and collaborative survival [22]. Dr. Anuradha 
+Venugopal Reddy, a postdoctoral design researcher in the School
+of Arts and Communication at Malmö University, explores tech-
+nological interventions such as AI and CA’s from a non-human 
+perspective to reimagine more-than-human approaches to ethics 
+[87] and agency [92]. Dr. Ron Wakkary is a design researcher in 
+the School of Interactive Arts and Technology at Simon Fraser Uni-
+versity and the Chair of Design for More Than Human-Centered 
+Worlds at Eindhoven University of Technology. His work explores 
+thing-centered design [120, 122, 123], posthumanist reconsidera-
+tions of design epistemology [117], and how posthumanist design 
+(informed by care theory) might decenter humans to enable multi-
+ple and diverse worlds [118, 121], as well as sustainability in design 
+more specifcally [119]. Neilly Herrera Tan is a PhD student and 
+researcher in the College of Engineering at the University of Wash-
+ington who uses speculative design to investigate relationships 
+with power and privacy via smart home cameras [108]. 
+Workshop 2 
+Dr. Alex Taylor at the Centre for Human Computer Interaction 
+Design, at City, University of London is an researcher who has 
+used feminist new materialist relational ontologies to de-center 
+human for alternative food futures [65], to explore re-orientations 
+to design which expand human / non-human relations [109], and 
+feminist care theory to challenge AI and Assistive Technology [26]. 
+Dr. Tyler Fox, an artist and researcher in the Department of Human 
+Centered Design & Engineering at the University of Washington, 
+uses posthumanism, relational ontology, technology, and integrated 
+non-humans as part of an art practice which creates shared experi-
+ence between humans and nonhumans highlighting their relations 
+[51]. Dr. Austin Toombs is an HCI researcher at Purdue University 
+who has argued for the integration of a feminist care ethics perspec-
+tive in HCI to attend to and problematize care entanglements with 
+researcher relationships [115], technology mediated community 
+spaces [113], gendered labour division [20], and gig economy labor 
+practices and technologies [114]. Armi Behzad, a Ph.D. student and 
+design researcher at the School of Interactive Arts and Technol-
+ogy at Simon Fraser University is interested in human-technology 
+relations [121]. Dr. Audrey Desjardins, a design researcher in the 
+School of Art + Art History + Design at the University of Wash-
+ington, uses feminist methods to reimagine everyday encounters 
+with things [41], explores human-data relationships as having an 
+agentic materiality [39, 42], and to deeply investigate the role of 
+designer and thing as co-constituting and co-confgured [43]. Cas-
+sidy is a creative technologist and researcher at a UK university 
+where they use intersectional feminism and queer studies to ground 
+explorations in self-care technologies. Gabrielle Benabdallah is a 
+PhD student, artist, and researcher in the department of Human 
+Centered Design and Engineering at the University of Washington 
+who explores the relationships between humans, technology, lan-
+guage, and creativity. Dr. Cally Gatehouse is a feminist designer 
+and researcher in the School of Design at Northumbria University 
+with an interest in distinctive kinds of knowledge design can pro-
+duce and how that can help designers, researchers and citizens to 
+navigate and understand a world shaped by network technology 
+[53, 54, 56]. 
+692

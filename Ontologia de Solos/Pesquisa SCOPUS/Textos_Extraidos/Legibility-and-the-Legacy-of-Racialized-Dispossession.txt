@@ -1,0 +1,1174 @@
+Author’s addresses: Jen Liu, Cornell University, USA, jenliu@infosci.cornell.edu; Phoebe J. Sengers, Cornell University, 
+USA, phoeobe.sengers@cornell.edu   
+ 
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee 
+provided that copies are not made or distributed for profit or commercial advantage and t hat copies bear this notice and 
+the full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be 
+honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to 
+lists, requires prior specific permission and/or a fee. Request permiss ions from Permissions@acm.org.  
+2573-0142/2021/ 10 – Art480 $15.00  
+© Copyright is held by the owner/author(s). Publication rights licensed to ACM.  
+https://doi.org/10.1145/3479867  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021.  Legibility and the Legacy of Racialized Dispossession  
+in Digital Agriculture  
+JEN LIU,  Cornell University, USA  
+PHOEBE J. SENGERS,  Cornell University, USA  
+ 
+This paper examines the causes and consequences of legibility as an organizing principle in the design of 
+digital agricultur e (DA) systems in the United States. Legibility refers to systems of governance that use 
+simplified understandings of a situation to control and direct action upon it. Legibility in digital agricultur e 
+systems occurs at the conf luence of two traditions of legibility: the data-driven model common in the 
+design of digital systems, and tactics for the control of nature and labor that have developed in the  United 
+States since the foundation of the colonies. Our argument draws from (1 ) a historical analysis of broader 
+patterns of agricultural technology and racialized land dispossession in what is now the United States and 
+(2) empirical fieldwork that examines the adoption and maintenance of digital agriculture systems in rural 
+New Yor k State. We describe the role that legibility historically has played in the development of 
+agricultural systems in the US, and their consequences for who is able to farm and how.  This history 
+raises the questions: What is made legible to whom? In that pr ocess, what becomes illegible? While 
+legibility promises transparent and environmentally beneficial control, in our fieldwork we find that the 
+demands of legibility are also restructuring the physical landscape, creating additional invisible labor, 
+produci ng systems that are brittle to real -world conditions on farms, and creating opaque systems that 
+block people from adapting to their circumstances. In reading our fieldwork together with the historical 
+case, we demonstrate the pressures that are shaping the  stakes, subject, and objects of legibility in 
+agricultural technology.  As more data -driven systems are used for environmental contexts, the CSCW 
+community  needs to extend its ways to  understand how data -driven systems impact land, labor, and 
+resources.   
+CCS Concepts: • Human -centered computing  → Collaborative and social computing  → Empirical studies 
+in collaborative and social computing  
+KEYWORDS : digital agriculture, rural computing, design of data -driven systems, race in agriculture   
+ACM Reference format:  
+Jen Liu & Phoebe J. Sengers . 2021. Legibility and the Legacy of Racialized Dispossession in Digital Agriculture . In 
+Proceedings of the ACM on Human -Computer Interaction,  Vol. 5, CSCW2,  Article 480 (October 2021), 26 pages, 
+https://doi.org/ 10.1145/3 47986 7 
+1 INTRODUCTION  
+Increasingly,  networked  systems are designed, developed , and deployed in the agriculture 
+industry  to address social, economic, and environmental challenges in food production.  Many  of 
+480 
+
+480:2   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. these systems are design ed for on -farm applications  to address issues like rising costs of farm 
+labor and equipment, natural resource management, and weather fluctuations a ssociated with 
+climate change [50,54,59] . These systems include a broad suite of tools and infrastructures that 
+use computing technologies throughout the agricultural process, such as planting, watering, 
+weeding, and harvesting. This development follows a recent trend where networked and data -
+driven systems are developed for a wide variety of settings and activities  [22]. In recent years , 
+the CSCW and HCI community has raised concern s about  how these systems could  affect  
+existing work and practices. This critical scholarship in computin g questions the ethics of these 
+systems by focusing on issues like increasing governance of labor, privacy concerns, and 
+unchecked biases  [22,40,44] . Our paper contributes to this  literature by examining the issues 
+emerging from the confluence of digital systems of control  and the histor ical systems of control 
+of land, living beings, and labor at work in agriculture  in the United States . 
+Our core contention is that  a vision of legibility underlies  many digital  and data -driven  
+agriculture  (DA)  systems currently under development  in the Uni ted States . By legibility , we 
+mean methods of governance that couple simplified understandings of an environment or 
+situation – often produced through quantification – to actions taken to control that system. 
+Hopes that digital agriculture will increase the productivity of agriculture while  reduc ing its 
+environmental impact are grounded in faith in the capacity of automated digital systems to 
+adequately sense, understand , and control land and the living beings dwelling on it . This faith 
+draws strength from the paradigms of data-driven systems  in digital desig n, as well as  from  
+longer -standing traditions of control of land, plants, animals, and labor within the history of 
+agricultural technology and production si nce colonies were established on the continent.  
+In this paper, we analyze the historical legacy and present reality of digital agricultural 
+technologies  in the US  in order to characterize what is at stake in using legibility as a core 
+design frame for cont emporary DA.  While adoption of these systems is nascent, especially in 
+our region of study  in the northeast United States , our observations  and analysis  can inform 
+current approaches to the development of digital agriculture systems.  We ask: in the contex t of 
+digital agriculture, what is made legible to whom? In that process, what becomes illegible?  
+We begin by situating our research in current dialogues in digital ag riculture  research , 
+building on previous work in scienc e and technology studies (STS) and  anthropology . We define 
+legibility as systems of governance t hat bring situations and environments under control by 
+coupling processes of simplified understanding , such as through quantification  and modeling , 
+with action  intended to optimize outcomes from  that situation .  We analyze the causes and 
+consequences of legibility in digital agriculture through two case studies : (1) a historical 
+analysis of broader patterns of agricultural technology and racialized land possession in the 
+United States and (2) a f ield study analyzing the current adoption of  digital agriculture  
+technologies on farms in the northeastern United States . We look at the historical roots of 
+legibility in agricultural technology by analyzing  the rise of agricultural technology and 
+governance in the US, with a focus on the ways in which agriculture in general and modernized 
+agricultural technology in particular have functioned to create a racialized dispossession of 
+land. While legibility can frame our understanding of how technologies may unfold in the field, 
+our historical analysis undermines any notions of neutrality of the logics that drive legibility, 
+such  as extractive data logics and colonial settler logics.  Legibility in digital agricu lture 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:3 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. promises increase d, transparent control over productivity and the environmental impact of 
+agriculture . We find in our fieldwork that the demands of legibility are simultaneously  
+restructuring the environment, creating new forms of invisible labor of data collection and 
+management, producing breakdowns in the face of farm variability, and generating opacity 
+which hinders their users’ ability to adapt devices to farm conditions . These issues raise 
+questions of who legibility is for and what is rendered legible and illegible.  
+Our overall finding  is that t he data-driven  paradigm of digital design reinforces and refracts 
+with the systems for control of land and labor  that have arisen through the history of US 
+agricultural technology. This situation calls a ttention to the need for contextual analysis and 
+historical understanding in the design of such data -driven systems. Our conclusion is the ethics 
+and consequences of digital agriculture  systems  and other systems that measure and impact the 
+land are not sim ply issues about  or for design  in a narrow sense ; they require attention to  the 
+institutions, systems of governance, logics, and histories in which those systems are embedded.   
+2 BACKGRO UND  
+2.1 Agriculture  and CSCW  
+Agriculture and food systems have long been a focus of CSCW and HCI. As Steup et al. has 
+surveyed  [58], many of these efforts have been aimed towards small -scale farms, community 
+gardens, and urban contexts. Much of this existing research focuses on the role of the farmer, 
+grower, or consumer in the food sy stem  [31,33,39,43,48,58] . While these actors play important 
+roles in food systems, we examine additional stakeholder s, such as extension agents, federal 
+institutions, and land -grant universities , to illuminate  the broader politics of agricultural 
+infrastructure . Rather than focus on small -scale growers,  we provide an  account of how 
+networked and data -driven systems are used in industrial agriculture  settings. Industrial, or 
+conventional , agriculture typically refers to large -scale farming that rel ies on a combination of 
+mechanization and chemical interventions, such as synthetic fertilizers, herbicides, and 
+pesticides fo r monocultural row cropping and livestock production. While practices like small -
+scale  organic farming have seen a steady rise in recent years, industrial agriculture continues to 
+be the main form of agriculture in the United States, making up about 9 8% of farm land [67]. 
+Given the dominance of this form of agriculture, many recent efforts towards digital agriculture 
+systems are designed for industrial contexts .  
+Our work is situated in recent technological developments in agriculture that have prompted 
+discussion among researchers, policymakers, and people in industry about whether  these 
+changes will usher in a new revolution in agriculture. This potential  revolut ion, called 
+“Agriculture 4.0” or “the fourth revolution ,” is imagined to be the consequence of  data-driven 
+techniques, such as networked technologies, artificial intelligence, and robotics , to radically 
+transform farming  [50]. Under this understanding, earlier  agricultural  revolutions were 
+characterized  by widespread and large -scale transitions in agricultural methods and practices. 
+These revolutions include the prehistoric shift to agricultural settlements from hunting and 
+gathering, the increase of mec hanization in conjunction with the British Industrial Revolution, 
+and most recently, the Green Revolution, which introduced cultivating and breeding 
+technologies like fertilizers, pesticides, and high -yield crops in the mid 20th century. Proponents 
+480:4   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. of digi tal agriculture often cite pressing concerns like climate change and rising populations as 
+the motivations for this current revolution  [5].  
+Despite the revolutionary language  of digital agriculture , the use of technologies within 
+industrial agriculture is not new. The Green Revolution played a large role in disseminating 
+technologies that bring high crop yields in efforts to increase global food production. 
+Additionally, farmers h ave been using ‘precision agriculture,’ i.e. , digital technologies that 
+incorporate GPS and other satellite positioning technologies , for tasks such as tractor guidance, 
+field mapping, and yield mapping since the 1990’s  [64]. While  such technolog ical development 
+has incre ased the productivity and efficiency of  industrial agriculture, players in the industry 
+are aware of criticisms that  the historical introduction of new technologies has  exacerbate d 
+socioecological issues like biodiversity, fossil fuel consumption, land dis tribution, and 
+contamination of soil and water [27,29] . New  digital agriculture  applications are often framed as 
+a win -win means to address such  criticisms  because their extensive data collection and analysis 
+could be used in efforts to improve sustainability, for example by reducing the indiscriminate 
+use of pesticides, while simultaneously increasing crop yield.   
+In this paper, we specifically analyze the rise of digital agriculture within the context of 
+racialized histories and institutions that are involved in U.S. agricultural production. Race has 
+played a significant role in shaping contemporary agricultural landscapes. According to the 
+2017 US Census o f Agriculture, more than 95% of farmers and farm  owners in the United States 
+are white  [68]. As we will describe, this homogeneity is a result of specific policies and practices 
+that affect  factors like land ownership.  We describe how these policies have been built into 
+federal institutions that steward the development of scientific ag riculture, and we explore the 
+degree to which the aftermath of explicitly racial policies shapes  digital agriculture in the US 
+today.  
+2.2 Critical data studies, agriculture, and the environment  
+While discussions around digital agriculture are nascent in the CS CW community, scholars in 
+other areas have called for examin ation of  the impact of these technologies in agriculture and 
+high-tech development. In c ritical data studies, Christopher Miles suggest s that digital 
+agriculture  is not  a revolution in industrial agriculture,  but a continuation of it, “shorthand for 
+efforts to reorganize conventional farming’s epistemological and professional foundations 
+around informatics, algorithmic principles” [29: 2]. Other social scientists have raised  similar 
+cautions regarding how digital agriculture may transform the industry , such as  how these 
+technologies can “re -script” workflows for farmers [50], redefine what best farming practices 
+are [65], and change relationships between different actors on the farm [26]. The increasing use 
+of automation can invoke tensions between farmers and farmworkers through increasing 
+surveillance or automation of certain tasks [54]. These tensions echo  concerns around how 
+increasing use of technologies can strain relationships  between workers and managers in other 
+workplace environments [22,32] . Additionally, researchers  have addressed how issues from 
+critical data studies around privacy, ownership, and access will arise through the increasing use 
+of Big Data in agriculture , exacerbat ing existing power differences, such as those between 
+farmers and corporations [9,12] .   
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:5 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. Other scholars have connected these concerns to problems and dynamics in environmental 
+sensing.   Many digital agriculture systems incorporate extensive sensing and measurements to 
+understand environmental conditions on the farm. For example, satellite or drone imagery is 
+becoming a more common means to map field health. As critical data studies scholars have 
+shown, data needs to be understood within social and cultural contexts. Rath er than accepting 
+satellite imagery or any other environmental data as showing an impartial “view from 
+nowhere,” the data collected is “endowed with different claims and qualities depending on who 
+obtains it, how, and for what purpose”  [3]. How the data is presented also plays a key role. For 
+Brynsdottir et al., values and perspectives become embedded in the system that affects what 
+data is collected or analyzed. As they show in the design of persuasive sustainable technologies, 
+what counts as environmentally sustainable behavior is often left to the designer or researcher ’s 
+judgement  [10].  Pine and Liboiron discuss a similar story of decision -making in their historical 
+case study on certain measures being excluded from water quality assessments. This exclusion  
+leads to  what they call  “ignorance by design,” where harms that have political and scientific 
+consequences become obfuscated or omitted [45].  
+Digital agriculture systems  thus exis t at the confluence of two technological traditions: the 
+development of large -scale data -driven systems on the one hand, and the development of 
+technol ogies and related forms of control for agriculture and the environment on the other.  Our 
+goal in this work is to elucidate one way these two traditions become knitted together and 
+reinforce each other: through creating systems of legibility. Next, we descr ibe what we mean by 
+legibility and its role in contemporary DA systems.  
+3 LEGIBILITY AS A FEAT URE OF DIGITAL AGRIC ULTURE SYSTEMS  
+Legibility is not exclusive to data -driven systems. Our use of legibility draws crucially on 
+anthropologist James C. Scott’s ana lysis of forms of state control in  Seeing Like a State  [55]. 
+Scott’s overall argument revolves around how modern states h ave sought to use a combination 
+of simplified modeling and top -down optimization of social organization in an  attempt to 
+improve their citizens’ lives . He documents how this top -down focus has  cause d significant 
+harm, particularly under  authoritarian regim es where people are not able to resist these efforts. 
+Legibility in this context refers to tactics of governance that reduce unruly situations to formal 
+models which drive management action. This work has been influential in other recent work in 
+HCI and CS CW, for example to describe how al gorithmic systems incorporate bureaucratic 
+tendencies which can lead to absurd outcomes [1].  
+A key example Scott uses is  the rise of scientific forestry in 18th century Prussia and Saxony 
+as a means to manage resources for state revenue. This management was based on a simplified 
+view of forests , where an “actual tree with its vast number of possible uses was replaced by an 
+abstract tree representing a volume of lumber or firewood. ” [ibid: 12]  Reflecting this  abstract 
+modeling , trees were planted  equidistantly and  in straight rows to allow for eas e of 
+management. This form of legibility narrow ed the vision of what a forest is to a set of measures 
+that can be quantified, controlled, and optimized. Everything that was not a tree that could be 
+commoditized into lumber or firewood was rendered as an ex ternality  in the management 
+scheme . This exclusion included not only flora and fauna, but also the “vast, complex, and 
+negotiated social uses of the forest for hunting and gathering, pasturage, fishing, charcoal 
+480:6   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. making, trapping, and collecting food and va luable minerals as well as the forest’s significance 
+for magic, worship, refuge, and so on. ” [ibid.: 13]  While this tactic proved to be effective for the 
+first crop of trees, leading to greatly increased forest productivity, it eventually led to 
+widespread  “forest death” because simplified forest  management  interrupted the necessary 
+symbiotic relationships the trees  needed  to thrive. Through examples like these, Scott 
+demonstrates a tendency of modern states to govern through actions shaped and selected 
+through simplified models of the world , and the unexpected consequences of leaving other 
+aspects of the world outside of focus .  
+Inspired by Scott, legibility as we are using it refers to systems of governance that use 
+simplified understandings of a situation  to control and direct management action upon it. 
+Digital systems in agriculture have introduced their own forms of legibility, based on data-
+driven systems.  For example, in the case of smart irrigation systems, a model is developed in 
+order to determine o ptimal times and amounts of water to apply to a field [66]. These models 
+are built using measurements  through ga thering data about a situation , which is represented in 
+simplified form in the digital system. In the case of the irrigation system, this model can include 
+data like historic weather patterns, soil moisture, and comparative data from other fields. This 
+collection of measurements is seen to be what is needed to achieve optimal watering patterns 
+for the plants. Based on these measurements, the model can respond dynamically, based on the 
+assumption that the model is homologous to the outside world. Rather than  setting a routine 
+watering schedule, a smart irrigation system can use its model to predict when and how much a 
+field needs to be watered. Through these measurements, the system can mirror the reality of the 
+outside world.  This translation of the world i nto model that drives action is a form of legibility 
+that is a core attribute of many computational systems.   
+In digital agriculture, legibility is seen as a tool for creating responsive approaches to 
+farming that will allow this farming to be sustainable  and productive at scale . Rather than 
+simply mechanically applying water, fertilizers, or other interventions, these systems have the 
+potential to predict and respond to  environmental conditions and needs that arise dynamically.  
+The stakes of legibility ar e clear in how  data-driven farming is promoted by companies in the 
+area, as described by  Steup et al. [58]: their advertising and websites project  a “vigilant farmer” 
+who is in control of their farm thanks to actionable insights generated through data collection;  
+an “efficient farmer” who  uses data to minimize their resource use and maximize profitability, 
+and who automates and streamlines farmworkers’ labor; an “enlightened farmer” who uses data 
+sensing to understand and respond to what nature is doing; and an “empowered farmer” who 
+has access to and can share their data for profit. These visions highlight the imagined role of 
+sensed data as providing  reliable  insight into labor, resources, land, plants, and animals, which 
+in turn allow for them to be managed and controlled by the farmer.  
+In this paper, we explore what is at stake in the centrality of legibilit y as a design frame 
+shaping digital agriculture systems. We start by examining the historical legacy of pre -digital 
+agricultur e management in the US context , with a focus on its racialized dimensions . We argue 
+that legibility is a key organizing principle drawn on in this history, and that th e racialized 
+forms of dispossession that characterize this  history raise urgent questions around who or what 
+is made legible to whom. Then, drawing on fieldwork examining the adoption of digital 
+agriculture technologies  in the northeastern US, we examine the unexpected consequences for 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:7 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. land and labor that arise from the contemporary emphasis on legibility in digital agriculture. 
+We use these analyses to reflect on the stakes of legibility, and to suggest design sensibili ties 
+that better reflect the complicated historical legacies of these systems.  
+4 LEGIBILITY  IN US AGRICULTURAL H ISTORY   
+In this section of the paper, we examine the role of legibility within the history of agricultural 
+management in the US. Following a recen t trend in CSCW to understand computing systems as 
+part of longer historical trajectories  [2,28] , we illuminate reasons why legibility in digital 
+systems resonates  within the agricultural context, and  suggest historical issues with legibility 
+that contemporary digital agriculture systems may  inadvertently  reproduce.  Our examination 
+also reveals the broader constellation of inst itutions that affect the development of digital 
+agriculture technology  beyond its designers.  Rather than seeing legibility as a neutral, inevitable 
+consequence of data -driven farming systems, our analysis show s that legibility is socially and 
+politically situated  within regimes of racialized control . 
+4.1 Legibility in  systematic  racialized dispossession  
+Legibility has been a feature of agricultural management in North America since the 
+establishment of the colonies. Our historical analysis starts with a recogn ition of the broader 
+context of Indigenous conflict with the colonies and later United States, beginning with the 
+occupation of Indigenous lands by European settlers. Native Americans created the first food 
+systems on the land that is now known as the Unit ed States [19]. European settlers used the 
+Doctrine of Discovery, which posits that non -Christians are nonhumans, as the ir justification to 
+claim land and commit genocide .  The land was considered “terra nullius,” or nobody’s land, 
+informed by a European ethic that land should be owned and controlled by those best able to 
+put it to good use [16]. The concept of “terra nullius” justified erasing existing ecologies and 
+people to form an artificial blank canvas  for cultivation . This mass clearing of  landscapes was 
+necessary to support settler methods of farming and food production [19,53] . In this context, 
+legibility refers to simplification in terms of stripping land of existing claims and humans, 
+plants, and animals living on it , in order to be able to impose new regimes of control.  
+In tandem with Indigenous genocide and land dispossession, the United States was built on 
+the la bor of Black slaves , who were  enslaved and brought to the United States primarily to 
+provide  labor for agriculture. The ability for the agricultural industry to produce surplus, and 
+thus generate a profit, was dependent on the use of slave labor for commod ities like cotto n. The 
+large -scale plantations that produced these commodities through forced labor required the 
+development of new management techniques.  Management systems were developed to 
+meticulously collect data on slave labor and output as a means o f extracting profit . For example, 
+cotton planters on plantations in the antebellum American South developed methods to track 
+labor in the form of keeping detailed accounts for individual slaves, such as clothing allotments 
+and the amount of cotton they pic ked day to day [52]. Here, managing a simplified landscape 
+required a complex management system to track the precarious balance between inputs and 
+outpu ts. Legibility here meant collecting data from a recalcitrant workforce in order to better 
+control their labor  and outputs . 
+480:8   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. The forms of ag ricultural legibility described so far are clearly racialized, leading to the 
+nullification and genocide of Indigenous peoples and asserting violent management control over 
+Black persons.  In this context, l egibility was for white people and aligned with their modes of 
+control.  The end of the Civil War, and with it the institution of slavery, heralded a moment 
+when this understanding could potentially shift. Right before the end of the American Civil 
+War, Union general William Tecumseh Sherman issued Special Field Orders  No. 15 to seize 
+lands from the Confederacy in the South and redistribute  them  to recently  eman cipated Black 
+people . This order include d “40 acres and a mule ,” a reference to the offer of land parcels and 
+means to support agricultural work, which has now become a symbolic phrase to reference the 
+continued failure of economic justice for Black Americ ans [18]. After the Civil War, the United 
+States entered an u neasy period of Reconstruction, where the government sought to  address 
+racial inequity after the abolishment of slavery. This included incorporating ideals of settler 
+colonialism  via land distribution , where it was “believed that only through such [land] 
+ownership could real economic and political independence be achieved” [36]. However, racial 
+discrimination and rising white supremacy created hostile conditions for Black Americans to 
+purchase and maintain land.  Despite these conditions, Black land ownership  rose significantly 
+at the end of the 1 9th century and into the 20th century. At the height of this era, Black 
+Americans a ccounted of full or partial ownership of 925,000 farms in 1920  [17]. Over the course 
+of the next 50 years, this number dropped to 45,594, a 93% decrease. Farm consolidation and 
+industrial ization due to  the Green Revolution accounted for a general decline of farms overall, 
+regardless of race. However, during this period, white farm ownership only dropped by 58%. In 
+the 201 7 USDA agriculture census, Black farmers accounted for 3 5,407  farm ow ners out of the 
+over 2 million farms in the United States , or less than 2%  [69].  
+What caused this decrease  in the number of Black farmers?  There were many factors, such 
+as discriminatory property laws [46]. But a  major factor related to legibility was the 
+development of state -supported scientific agriculture, deployed within the context  of federal 
+agencies and legislators who discriminated against Black farmers and farmworkers , as we will 
+examine next.  
+4.2 Legibility and race in the development of scientific agriculture  
+Since the 19th century and the development of the industrial revolution, agriculture has 
+undergone a transformation , leveraging new forms of mechanized  legibility to continue 
+increasing productivity, efficiency, and control, with the push towards industrial agriculture 
+underwritten by both private industry and the state [21]. During this time, there was a focus on 
+new manufacturing processes across several industries, including agriculture, with the goal of  
+using mechanized processes to increase efficiency and productivity. Within agriculture, these 
+mechanized processes inclu ded using tractors, harvesters, and other machinery that replaced 
+manual labor done by humans and nonhuman animals.  The goal was to use science and 
+technology to make farming more productive and less laborious.  Early agriculture scientists 
+include George Washington Carver , who developed methods like organic agriculture to help 
+Black farmers in the South achieve economic autonomy [61]. While  scientific agriculture  had a 
+positive impact in developing new experimental method s to growing food, this approach 
+became systemized when it was adopted by federal institutions. It is here that we  begin to  see 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:9 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. that “the logic of scientific agriculture is…  one of adapting the environment as much as possible 
+to its centralizing and standardizing formulas” [55].   
+Processes of  industrialization generate new forms of legibility. In “Do Artifacts Have 
+Politics?,” Langdon Winner describes the ongoing development of a mechanical tomato 
+harvester by researchers at the University of California [63]. To make sure that the tomatoes 
+can endure this rougher form of harvesting over handpicking, the tomatoes that are suited for 
+this process are bred by scientists to be “hard ier, sturdier, and less tasty. ” [ibid.: 126]  The 
+machine is efficient, with, at the time, the “newest model sorting the tomatoes electronically 
+into large plastic gondolas that hold up to twenty -five tons of produce headed for canning” 
+[ibid.: 126]. To eas e this process of harvesting, the tomato was bred to fit the mechanization 
+process. In other words, it was made legible  to the machine . Other examples include the 
+hybridization of corn and wheat to be made more easily harvestable by certain machinery or be  
+able to be fertilized using chemicals that they could withstand [21]. Under industrial, scientific 
+forms of agriculture, then, ag riculture is managed by simplifying land and the living beings that 
+grow on it to make them amenable, or legible to, automated machinery.  
+Who could be a manager of such mechanized legibility? A simple answer is ‘fewer people.’  
+At the start of the  20th cen tury, the United States Department of Agriculture (USDA) and Black 
+land ownership  were growing in tandem . However, Pete Daniel has argued that “the increase in 
+programs and the USDA’s swelling bureaucracy had an inverse relationship to the number of 
+farmers: the larger the department, the more programs it generated, and the more money it 
+spent, the fewer farmers that survived”  [17]. This rise of agricultural experts, which included 
+economists, farm managers, employees of agricultural colleges, and extension agents, “dreamed 
+of large mechanized operations run on scientific principles by efficient managers who would 
+replace small and less businesslike farmers tied to almanacs and labor -intensive work.” For 
+historian Deborah Fitzgerald, these experts created an industrial vision  of agriculture , which 
+“functioned as a matrix of ideas, practices, and relationships that persuaded  farmers to change 
+the way they did things. This set of practices and relationships was explicitly modeled on 
+factory and business practices that were familiar to this leadership”  [21].   
+The embedding of scientific agriculture within these growing federal agencies in particular 
+was fraught , given explicit racial discrimination within those agencies. For example, in the 
+Pigford v. Gl ickman (1999) lawsuit, 400 Black farmers filed a class -action lawsuit against then 
+Secretary of Agriculture, Dan Glickman, over accounts of the USDA distributing and delaying 
+farm loans and assistance to Black farmers. In farming, delayed loans can mean de laying the 
+start of the growing season. This can lead to later issues of decreased yield, which can make it 
+difficult to repay the loans after harvest. While this case resulted in the largest civil rights 
+settlement with a $1 billion payout for the plainti ffs, numerous cases of discrimination persist 
+[51].  
+This centralization and institutionalization of scientific agriculture within discriminatory 
+governance structures led to a racialization of who could be a scientific farmer. Historian 
+Carmen Harris shows  how Black Americans we re seen as inferior in learning and disseminating 
+scientific agriculture, an attitude that was reflected in the distribution of funding for extension 
+services at the federal level  [25]. While race was not explicitly discussed in these policies, white  
+Southern legislators  systematically  withh eld funding and su pport for improving agricultural 
+480:10   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. conditions for  Black farmers over white farmers. As a result , legislation pushed for investment 
+and development of agricultural technology , rather than  investing in and providing material 
+support  for Black farm ers. For example, s ociologist Monica White describes a case in Sunflower 
+County, Mississippi, in 1967 where James Eastland, a white cotton grower and U.S. senator , 
+received a $167,000 subsidy check from the USDA to improve mechanization whil e letting the 
+fields lay fallow  [61]. As one of the largest landowners in the county , Eastland’s decision  led to 
+the unemployment of Black  farm workers , tenants, and farm managers.  As farms in the county 
+and surrounding areas continued to focus more on mechanization, the population of Black 
+residents dropped , and many  moved to more urban areas for employment.  
+4.3 The legacy of legibility in agr icultural technology  
+To review , legibility refers to systems of governance that aim to control otherwise unruly 
+situations. This is done by making those situations ‘legible’ to would -be managers, i.e. , 
+understandable enough to allow for the imposition of s ystems of control. This is done through 
+processes of simplification, often accomplished through quantification and subsequent 
+optimization. Legibility involves both ways of knowing or seeing in a limited sense, and acts of 
+control and management that deriv e their logic from these ways of knowing.  This historical 
+analysis suggests that when considering legibility in agricultural technology, we should be 
+asking: who or what is being made legible to whom? What is rendered illegible, or external to 
+the system?  
+Legibility emerges in various ways under the regimes we have described. Under colonial 
+conditions, the land was literally cleared of the claims of human and nonhuman actors in order 
+to enable its control. In plantation systems, recalcitrant labor was track ed through ledger 
+systems, while new forms of organization of labor were imposed in order to increase the 
+system’s profit. Mechanization, industrialization, and the breeding of plants to meet 
+industrialized needs create d automated, repetitive forms of acti on, and transform ed the 
+landscape to allow those forms of action to be effective despite their inability to be responsive 
+to that landscape.  
+Legibility in agricultural system s in the US  has historically been undergirded by logics,  i.e. 
+ways of reasoning th at justify actions and decisions. One set of logics is  settler colonial logics , a 
+notion  developed by geographer Sarah Rotz to understand how racial ized narratives continue to 
+shape how white farmers  and institutions  interact with marginalized groups in Canada [53]. 
+These logics are rooted in an idea of personal freedom through permanent family -based 
+ownership and control of dispossessed land, and through management of the labor of a 
+dispossessed working force. Over time , this logic bred centralized private control of large farms 
+and an orientation of extraction rather than care towards the land. These logics shape racial 
+formations in agricultural through the elimination of Indigenous people and exploitation of 
+workers o f color. Settler colonial logics ultimately produces a justification for maintaining 
+control of land and property by white  farmers in North America. Legibility provides one 
+mechanism for enacting these forms of control.  
+A related logic that underwrites leg ibility in agricultural system is extractive logic, which 
+underwrites the  process of removal and disconnection of  resources, land, and labor for the 
+purposes of capital accumulation .  Lourdes Vera et al. describe extractive  logic as “the logic of 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:11 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. pulling r elations out from bodies and lands ” in order to use them for other purposes  [60]. This 
+logic transforms certain entities, such as minerals and coal , into  commodities awaiting 
+extraction. Extractive logics occlude the context in order to narrow the focus on th e target of 
+extraction. For example, in industrial agriculture, certain monocropping practices are designed 
+to extract the nutrients in soil in order to maximize crop yield. Eventually this can lead to soil 
+exhaustion, since the soil ecosystem is unable to  keep up with the rate of extraction  [47]. 
+Legibility, through creating simplified understandings of situations, sharpens certain entities 
+into focus to ready  them  for extraction.   
+Rather than seeing digital agriculture technologies as apart from this histor y and these 
+logics , we see a need  to consider how and to what degree digital agriculture continues these 
+legacies. Data systems of modeling and control that couple sensing, modeling, and actuation 
+allow for more differentiated, responsive forms of action t han purely mechanical forms of 
+legibility. Nevertheless, they are still  based on simplified models and aim to eliminate human 
+action and natural variability as sources of unpredictability in the management of land and 
+labor.  
+Legibility in digital systems may further develop the logics inherent in agricultural history. 
+In discussing environmental data collection, Lourdes Vera et al. describe an extractive data logic  
+that “ignores the situatedness of data , regarding it as a resource to be pulled out for free , 
+without relations or responsibilities .”  [60] They  point out that harm -centered data collection 
+can perpetuate forms of violence against marginalized communities. While environmental data 
+collection is  often done through good intentions to document environmental violence, when it 
+is pursued in an extractive mode, the data’s situatedness within a particular community and 
+their concerns and needs can be lost, further marginalizing them.  
+The issue of extr active data logics underscores the necessity of understanding how historical 
+legacies of marginalization  can be  inadvertently  reproduced  through design logics  in 
+contemporary digital systems.  In the next section of the paper, we explore some of the 
+conseq uences of legibility as a defining characteristic of contemporary DA systems. Through 
+fieldwork with farms and the extension agents working with them in the northeastern United 
+States, we will examine how the pressures of legibility within these systems ar e reshaping farm 
+practices and natural environments.  
+5 METHODOLOGY  
+Our empirical research is drawn from fieldwork conducted over 2019 in the upstate New York 
+region of the northeastern United States.  The upstate region typically refers to areas of the 
+state outside of metropolitan New York City. Based on the 2017 USDA Census of Agriculture , 
+New York State has over 33,438 farms in the region that span almost 7 million acres [70]. While 
+the dairy industry makes up the largest portion of the state’s agricultural income, this region is 
+also known for other crops and commodities like apples, onions, and grapes.  
+This research included interviews with agricultural stakeholders, primarily farm man agers 
+and extension agents , and participant -observation  at farms . Over the course of our study, we 
+interviewed 15 participants. Our intervie w protocol addressed digital technology and sensors 
+used in agriculture, including challenges with adoption, use, and maintenance. Since digital 
+agriculture systems are currently not in widespread use in this region, we expanded our 
+480:12   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. interview protocol to a ddress tools beyond data-driven systems . The research also included 
+visits to  9 farms in the upstate New York region and attending farm events associated with local 
+farming organizations. These farm s were centered around  the production of  agricultural 
+commodities, such as fruit, grains, and vegetables (as opposed to livestock). We employed a 
+thematic analysis on our  interview and field notes  data, in addition to creating memos as a 
+strategy to elaborate on emerging themes.   
+By including e xtension agents in our study,  we see them as one link between research 
+institutions and the agriculture industry. As discussed in our historical analysis, U.S. federal 
+institutions have been invested in scientific agriculture since the 19th century. Extens ion agents 
+are part of this investment as employees  of cooperative extensions, agenc ies associated with 
+land-grant universities in the United States. These institutions, funded by the sales of federal 
+land taken from Indigenous peoples  via the Mor rill Acts  of 1862 and 1890 , were aimed at 
+advancing curriculums centered on agriculture, engineering, and science. Additionally, in 1914, 
+the Smith -Lever Act was passed that created the cooperative extension services, programs that 
+were attached to these land -grant  universities to serve as outreach for institutional research. For 
+example, extension agents would host demonstrations that would showcase new agricultural 
+techniques, a practice that continues to this day. In incorporating  the role of extension agents, 
+we see them having a key role in connecting institutional knowledge to farm operators and 
+managers.  
+Our research design was shaped by our original intention to understand factors that 
+influence technology adoption. This lens led us to focus in data collecti on on farm  owners and 
+managers who were making technology decisions, as well as the extension agents who were 
+actively working to promote new technologies in practice , as opposed to farmworkers or other 
+stakeholders . But our perspective chang ed in response  to experiences in the field  through 
+subsequent memoing and reflection . The stakeholders we spoke with were overwhelmingly 
+white . The lead author, who executed the fieldwork, is not . This led to awkward moments in the 
+fieldwork that highlighted the racial identities of both the researcher and the participants. For 
+example, interviewees appeared uncomfortable in discussing issues around migrant labor, often 
+offering extra reassurance that they were okay with certain forms of immigration. The lead 
+author’s ra cial identity placed them as an outsider in a predominantly white rural landscape. In 
+one case, when they had the wrong address for a meeting, this led to a moment of fear of 
+personal safety. These moments sensitized us to the unspoken role of race in agri culture .  
+Indeed, while the northeast region of the US does not share the same histor y of plantation 
+systems as the American South  (while slavery was legal  in New York State  until 1827, the 
+number of enslaved persons was small) , its agricultural system nevertheless is shaped by 
+legacies of settler colonialism and racism in agriculture. Our study takes place on the lands of 
+the Haudenosaunee Confederacy, a territorial alliance among the Mohawk, Oneida, Onondaga, 
+Cayuga, Seneca, and Tuscarora nations. In 1779, as part of American Revolutionary War efforts, 
+George Washington ordered Generals Sullivan and Clinton to systematically destroy 
+Haudenosaunee villages and farmlands in the region  because of a Haudenosaunee alliance with 
+the British . The result was t he decimation of  the Indigenous  population, with many of those 
+surviving the genocide either fleeing  north to  the then  British -controlled Canada  or west to 
+regions that were eventually incorporated into the United States.   European -American settlers 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:13 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. quickl y moved in to claim the forcibly cleared land, breaking the former Confederacy into 
+pockets of isolated settlements. As part of their legal strategy to justify occupation , white 
+settlers continued to use claims of Indigenous inferiority to make land claims  in forming  what is 
+currently upstate New York  [41].  
+The dominance of white landownership continues, especially in the agricultural sector, 
+where 99% of farmers are white and also own 99% of available farmland  [70]. In examining the 
+state’s agricultural workforce more broadly, we see a racially stratifi ed industry . While 
+demographics of farmworkers can be difficult to collect due to the often temporary and 
+precarious status of farmworkers, several studies point to  the majority of these workers  
+identifying as  people of color, with varying levels of citiz enship statuses  [23,42] . For example, 
+migrant farmworkers  include  those on H -2A visas, a temporary visa for  seasonal labor, or 
+undocumented workers . Despite increasing requests of H -2A positions in the agriculture 
+industry, undocumented farmworkers are estimated to  make up at least half of farmworkers in 
+New York state  [20]. This percentage  can be attributed to the often bureaucratic and time 
+intensive nature of the visa application for both farmer and farmworker, in addition to 
+restrictions such as the limitation on seasonal work.   
+These legacies of dispossession and displaced labor form the often silent backdrop for 
+contemporary farm practices. In what follows, we trace the impact of legibility on farmers’ use 
+of digital tools. In the next section, we see how the consequences of leg ibility are experienced 
+from contemporary farmers’ perspectives and, where possible, trace where issues related to 
+racial dispossession can be seen to emerge. In the discussion section, we will juxtapose these 
+perspectives with those from our historical an alysis, to develop a more wholistic perspective on 
+how colonialism , racialized dispossession, and digital agriculture intertwine.  
+6 FINDINGS: LEGIBLE YI ELDS, LEGIBLE FIELDS   
+In th e following section s, we analyze consequences of legibility on farm practices, landscape, 
+and labor.  Our understanding draws on Scott’s argument that forms of legibility are often based 
+on narrow views and  on our historical analysis that examines how  consequences of these 
+systems draw  attention to what’s out of view.  Our empirical s tudy shows the aftermath of 
+racialized policies and institutions that privilege d practices and practitioners legible to scientific 
+agriculture. Together, these cases  will demonstrate how legibility in data -driven systems 
+restructures the landscapes , create s new and more work, creates systems that are brittle in the 
+face of the variable conditions that exist on farms, and creates opacity in systems  that limit 
+people’s ability to tinker with and adjust them .   
+6.1 Restructuring the Fields  
+The first consequence o f legibility we identified  in our fieldwork  is a need to simplify the 
+landscape itself  in order to render it legible to  digital systems . Visions of farmland can evoke 
+images of fields with evenly spaced rows that stretch into the distance. In the rugged te rrain of 
+upstate NY, these parallel rows seem to undulate in tandem with the uneven topography. Row 
+spacing is largely dependent upon the equipment that is available to a farm operator. Prior to 
+agricultural mechanization, row spacing was often determined based on the width of the horse 
+or other draft animal used to work the field [37]. As more farmers adopted tractors, this width 
+480:14   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. became less fixed. Narrowing the rows means that more plant s can fit into a field, which leads 
+to a higher yield and potential profit increase. In the case of corn, in the mid 20th century , when 
+mass mechanization was adopted across many farms in the United States, row spacing shifted 
+from an average of 40 inches to 30 inches. While mechanized equipment can allow for this 
+decrease in row spacing, the evenness of the rows is still dependent on the skill of the tractor 
+operator. In recent years, laser -guided and GPS -systems have been incorporated into the 
+planting pr ocess to ensure uniform rows.  
+The decision around initial row spacing directs what tools are used, since these tools now 
+need to be able to fit beween  the rows without disturbing  them . At a farm that grows organic 
+vegetables at industrial levels of produc tion, the operators rely on row -crop cultivators to 
+remove weeds. These cultivators trail behind the tractor with a span that is about twice the 
+width of the tractor. Jutting out perpendicular from this frame are shanks, pieces of metal that 
+are shaped to stir the soil in order to pick up and remove unwanted vegetation growing 
+between the rows.  Without proper spacing or placement of the tractor, the tines would lift and 
+pull up the plants, rather than the weeds.  
+We see the importance of straight rows tric kling down to how DA tools are used in the field. 
+For example, o ne type of sensor that is currently incorporated into these systems are cameras 
+that calculate Normalized Difference Vegetation Index (NDVI) for vegetation health.  NDVI can 
+be recorded in several  ways, such as on the ground through a sensor that is carried or attached 
+to a tractor, or through remote sensing, where the sensor is mounted on an aerial device, like a 
+drone. These sensors measure the difference between near -infrared light, which  vegetation 
+strongly reflects, and red light, which vegetation absorbs. This difference results in a score 
+between 0, meaning unhealthy or dead, and 1, meaning optimal plant health. The number can 
+then be placed on a map with GPS coordinates to create a ch oropleth map, a visualization where 
+certain sections are colored to represent a statistical measurement. This map can then be used 
+by the farm operator or grower to see the overall crop health of their fields.   
+This plant health information is also factor ed into the variable rate application (VRA) 
+process. VRA is the automated application of certain materials such as fertilizers or pesticides. 
+While NDVI sensors and GPS systems have been around since the 1970’s and are used for 
+agricultural applications, t he integrated use of the tools in the form of VRA is relatively new. 
+VRA relies on a host of computers and networked systems to process this information and 
+control the application rate for mechanization. This application controls the amount of chemical 
+that is applied based on the crop health and GPS location. For example, areas of a field that are 
+closer to the score of 1 are automatically sprayed with less fertilizer. For areas that are closer to 
+0, more fertilizer might be applied to these low -scoring a reas. This method is considered to be 
+cost-effective and a benefit for the environment because of the reduced use of costly fertilizers 
+or pesticides.   
+By using automation, VRA enforces the need to make the crops legible through uniformity. 
+In the case of  using on the ground NDVI sensors, crops generally need to be grown in straighter 
+rows to ensure a consistent reading. This works for crops that are replanted every year with the 
+aid of GPS units or laser guidance systems. However, this might be more diffi cult for orchards 
+or vineyards that are not replanted annually. In the case of vineyards in some parts of the state, 
+some of these vineyards’ rows were established over a century ago by horse and plow. While to 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:15 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. the human eye  the rows look straight, there i s sufficient variation to make it difficult to receive 
+fluctuation by the sensor. When the farmer drives through the inconsistent vineyard rows with 
+the NDVI sensor mounted on the tractor, the tapering or widening of the rows can complicate 
+the use of futu re VRA methods.  
+The legibility of the fields determines how easily equipment and tools can be used. In the 
+case of row cropping and other planting methods at scale, this spacing allows for tools like 
+tractors and other equipment to go through processes li ke seeding, weeding, and harvesting. 
+Digital agriculture systems inherit and build on these existing practices of agricultural 
+mechanization as a prerequisite for proper data collection. As these systems are developed, how 
+will they embody established prac tices of industrial agriculture?  
+6.2 The Labor of Legibility  
+The second consequence of legibility that we identified is the production of new forms of labor. 
+While digital agriculture systems are often designed and marketed as reducing the amount of 
+manager a nd workforce labor required to run a farm  [58], in practice we found that the 
+demands of legibility also created new forms of labor for those working on farms, including 
+growers and planters, as well as those who provide services for farms, such as extension age nts 
+and consultants.   
+One situation arises because of the ways in which equipment is supplied to farms. There  is 
+often reluctance to invest in a new technology if it will not be frequently used:  
+ 
+“We just planted a new vineyard this year and we hired out  somebody to come in 
+with this laser planter which is a way that plants the grapevines in perfectly 
+straight rows and we paid for that service and we got a really nice, we got the 
+vines planted really well and there’s no way it would have made any sense fo r us 
+to invest in that piece of equipment. So I think there’s one thing that’s interesting 
+to note about agriculture technology, if it’s an irrigation system that’s stuck on 
+the farm that can never leave, that’s slightly different than something that has 
+value that can be moved around.”  [P4, farm manager ] 
+ 
+This model for renting or loaning out equipment is not uncommon in rural agricultural 
+communities for larger or more specialized equipment  [62]. This loaning model is being adapted 
+for networked sensors and technologies. One extension agency piloted a sensor loaner program 
+that allowed farmers to borrow cameras and soil health sensors as  a means to make the 
+technologies more accessible for the farmers. This is a strategic step in encouraging the 
+adoption and use of DA tools.  
+However, this process may not be as seamless as simply providing the physical sensor. In 
+speaking to a specialist on the project, this process entails several steps to get from data 
+collection to information that can be of use to the farm manager or grower. In the following, we 
+recount how the process of how the NDVI sensor is used in the program:  
+ 
+480:16   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. 1. First the farmer needs to receive the sensor by scheduling an appointment with 
+the office. While the program has multiple sensors out for use, there still maybe a 
+wait time for a sensor to become available.  
+2. The sensor then needs to be installed on a tractor and driven through the field to 
+collect data.  
+3. The sensor is then returned to the office where the data is retrieved on a memory 
+card and given to another specialist.  
+4. The specialist will then overlay the sensor data on an existing field block map of 
+the farm. If the farm doesn’t already have a map, there is a precursor step here 
+where the initial map needs to be made.   
+5. The agent then prints out and brings a map of the map to the farm  
+6. Based on the printout , the farm manager can make a decision on how to adjust 
+their practice. For some growers, this map can validate things that they are 
+already aware of, such as a spot on the field that has poor drainage, which 
+translates into red spot indicating poor plant health. For others, this can reveal 
+potential points that need more attention.  
+ 
+This type of work has been described as “articulation work,” i.e. work (often in the 
+background) that is required in order to fit the formally anticipated work (sensing and ma pping 
+a field) to the variable and particular aspects of a situation [57]. This invisible work [57] is a 
+significant basis for making the system function. In the pursuit of more efficient ways of 
+knowing what happens in the field through digital agriculture, new forms  of work are required  
+to make this data collection possible. However, the need to collect information on the workflow 
+entails yet more work  to be performed, and those who perform this work are becoming 
+increasingly ske ptical of its benefit:  
+ 
+“It really makes sense to have one person, maybe two people manage [the 
+tracking software] and so that is the downside, it’s that it’s more keeping track of 
+things and you know this time of year, we’re really busy, we’re like, we h aven’t 
+entered a ton of stuff so at some point we have to sit down and enter it all but 
+yeah, so that’s probably the downside, it’s that it’s more work, hopefully you get 
+something out of that that’s worth it, but it’s definitely more work keeping track 
+of it.” [P4, farm manager ] 
+ 
+Digital systems not only produce labor ; they also provide new means to control labor. In one 
+instance, we witnessed a white tractor operator reporting to a farm manager their observations 
+that migrant farmworkers were taking a lon ger break than was scheduled. Such racialized and 
+hierarchal monitoring  can become embedded through increased data collection.  As Fox et al. 
+note in their work on understanding hygiene infrastructures, this kind of networked technology 
+is likely to privil ege managerial oversight at the expense of the workers [22].  
+Furthermore, infrastructural challenges, such as the connectivity issues which are common 
+in rural areas  [11], further complicate the visions of labor -free data collection which animate 
+the designers of digital agriculture systems :  
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:17 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021.  
+“With a lot of these systems, they need to have a way to take that data out of the 
+field, pull it back and get it to whatever device you want so you can see it in real 
+time. And of ten times the current system is that you’re out in the field and you 
+can’t get your data connectivity, you come back at lunchtime and you upload it  
+or then you can look at it and do some analyses on it, but this would be more of a 
+real time process, so you’re seeing it in real time, you’re able to transmit that 
+information, but yeah, connectivity is a big issue and other farms are taking 
+other practi ces.” [P1, extension agent ] 
+ 
+Creating legibility requires a significant amount of labor to track and manag e data. Mateescu 
+and Elish describe  how integrating AI technologies into farm contexts requires physical 
+reconfigurations that elide a ny notion of a  smooth adoption  [34]. Rather than “real -time” 
+sensing, getting data into a form that is useful for decision -making is a multi -step process that 
+can span days. Proces sing the data is not merely isolated at the field; it is spread across rural 
+agricultural communities, where issues such as rural connectivity present issues for access. This 
+increase of labor  points to a contradiction in framings of digital agriculture as  addressing  
+economic issues such as  labor shortage s, usually framed around lack of farmworkers  to perform 
+tasks such as planting or harvesting . As noted earlier, farmers in this region are finding 
+workers, though temporary and in vulnerable undocumented po sitions. The caveat here is that 
+increased labor is  also needed at the managerial level.   
+6.3 The limits of legibility  
+A third consequence of legibility is that digital systems can easily break due to a  myriad of 
+factors on a working farm that are outside the scope considered in digital systems design. As 
+one extension agent recalled, a sensor that needs to be attached to the tractor was known to fall 
+off in the field due to vibrations of the tractor loosening the screw that held the sensor to the 
+vehicle. Many  external  factors such as  the weather can cause a digital tool to fail:    
+ 
+“They [companies] don’t really know, they don’t even know how long it will last. 
+That’s one of the issues. Even if they want to be honest, with farms, they cannot. 
+Because some of these technologies has not been under farm environments for long 
+enough to be able to document and guarantee that it will remain functional for a 
+certain period of time. And there is farm to farm variation. I mean the environmental 
+conditions in NY state w ith swings in temperatures are so extreme and then you go to 
+California or any other part of the country with very different climates and technology 
+may last a year longer there than here in NY. There’s a lot of moving parts.”  [P2, 
+extension agent ] 
+ 
+In our conversations, participants frequently compared agriculture in New York to other 
+regions of the United States, such as California or eastern Washington. These areas tend to have 
+larger farms on average, in addition to drier climates. If certain mode ls are designed for 
+conditions for a specific geographical region, they may not translate to other regions:    
+480:18   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021.  
+“So you basically, when you start tweaking things, like changing the amount of water 
+or something of a small amount [in California], you can get  noticeable differences, 
+predictable differences. So move that model over to New York. Well, the weather is 
+different everywhere, the soils are highly variable. So you can’t really control 
+anything. You can put irrigation in, and try to control the amount of water that the 
+plants get, but the reality is that in NY, probably almost every year we get too much 
+water.” [P3, extension agent ] 
+ 
+This variability undermines the simplified models that often underly digital agriculture 
+systems. While these systems may  work under ideal conditions or ones similar to their testing, 
+this is no guarantee that they will work in all environments.  As discussed earlier, the 
+development of industrial and scientific agriculture points to a standardizing effect, where 
+farms can se em interchangeable in order to accomplish production goals. The focus on 
+productivity is tied to settler colonial logics that ranks who and what practices are acceptable 
+on occupied land . However, these logics can lead to oversight of other variable factor s that 
+result in environmental degradation we see today in agriculture, such as soil exhaustion and 
+erosion. When digital agriculture incorporates  these  tenets of agriculture, we see similar values 
+of control , and subsequent breakdown , emerge in practice.  
+6.4 The opacity of legibility   
+A fourth  consequence of legibility is that, as  systems become more legible to machines, th ose 
+machines  can become  more opaque  (illegible)  to the people who use the systems. Opacity here 
+refers to  the “black -boxed” nature of cert ain computational systems, where the reason for 
+particular outputs may be unexplainable because of the complexity of the systems [14,58] . In 
+other words, opacity refers to  the inability to understand why something went wrong , or why 
+things go right and function as desired . This affects  both hardware and software aspects of 
+digital agriculture systems, which in turn affects the ability to perform repair and maintenance 
+on the tools  to assure they are working as expected  – a situation which is particularly crucial 
+given the just -described  challenges of getting narrowly designed systems to actually function in 
+the farm context.  
+At one of the farms we visited, a farm operator showed us his tool bag that he keeps in his 
+tractor cabin in case he need s to do minor repairs or adjustments while o ut in the field. When 
+asked why he carried two versions of the same tools, he responded that one set was metric, 
+while the other was Standard American units. The tractor that he drove was built by an 
+American company, while cultivator that was currently at tached was from a German company. 
+Having both sets of tools allowed him to be prepared to address any minor issues that come up.  
+These ad -hoc repairs are part of everyday practice in farm contexts  [30]. However, the ability 
+to repair and maintain farm equipment with digital components is a point of conten tion 
+between farmers and corporations. John Deere’s repair policy makes it illegal for farmers or 
+farmworkers to service their own computerized tractors , a policy that right to repair activists 
+contes t [56].  As equipment becomes more specialized, as we see with digital agriculture tools, 
+these tensions likely will incr ease. In conversations, farmers , farm man agers, and extension 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:19 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. agents  described how the increase of sensors and other digital equipment can make repair work 
+more complex. A few noted how it is easier to throw away broken sensors rather than repair 
+them . On top of proprietary concerns, they need to balance whether the skills and time 
+necessary to repair a tool outweigh the initial cost .  
+The increase of digital tools suggests a changing skill set that is needed for people working 
+on farms , aggravating the lab or issues discussed in the last section . For example, it might be 
+necessary for a person to also have basic programming and hardware skills to maintain and 
+troubleshoot these tools on a farm. This increase in digital skills has farm managers concerned 
+that this demand for targeted skills can make farmworkers unaffordable for full time hire, 
+especially in small to mid -scale farms:  
+ 
+“I guess you would really have to have incredible knowledge to get into the computer 
+on any tractor or car or anything. You rea lly need to be very well trained… If 
+somebody is that well trained, then you can’t afford them because you don’t want 
+them all the time because they’re too expensive.”  [P1, extension agent ] 
+ 
+In making work legible for digital tools, black boxes create situ ations where a human is 
+unable to understand what is happening. These situations can lead to fewer point s of human 
+intervention if (or more accurately when) something goes wrong. With digitization of 
+mechanization, part of the workflow takes place in digital tools and systems that have become 
+increasingly opaque to the people who use these systems in the field. Opacity may seem to run 
+counter to legibility given the lack of transparency. However, this opacity points to a 
+prioritization in the design of  DA systems that places trust in the system , in addition to those 
+who are facilitating the decision making in the first place . Those involved include not only the 
+farm operators or managers, but  agricultural experts and technologists who instill 
+understand ings of how farming should operate via products and practices. As DA systems are 
+developed, it is necessary to examine not only the agendas of government institutions and 
+agribusiness corporations, but  also expand to include the tech corporations that are becoming 
+increasingly involved.  
+6.5 Summary  
+Legibility in the case of digital agriculture systems involves using data to create simplified 
+models of farms, which are then used to inform management decision -making. Optimizations 
+based on these simplified models enable farm managers to boost the efficiency and productivity 
+of their farms. Scott warned about the unintended effects of top -down governance based on 
+such simplification s [55].  In this section, we identified four clear side effects of this legibility. 
+First, it reshapes and simplifies the landscape in order to enable these systems to work. Second, 
+while it is intended to reduce labor, it also creates new forms of invisible labor to articulate farm 
+practices and situations in the forms required by the system and enables new forms of 
+surveillance of its vulnerable workforce. Third, the simplifications neede d in order to make the 
+systems work create brittleness in the face of variability and other material resistances provided 
+by the natural environment and farm equipment. Finally, systems that make farms legible are 
+themselves often opaque to the people usin g them, making it difficult for them to adapt and 
+480:20   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. repair them in the face of their brittleness in the farm context. In the next section, we will 
+juxtapose the results of this fieldwork with our historical analysis to lay out the stakes involved 
+in legibili ty in digital agriculture.  
+7 DISCUSSION  
+In this paper, we have developed the concept of legibility and show ed how it refigures practices 
+and spaces in farms through digital agriculture systems. Our work was guided by questions 
+about  how legibility becomes re alized in the context of digital agriculture systems and why 
+certain practices are more susceptible to legibility. We demonstrated how legibility is not 
+neutral , link ing the history of agricultural technology development  to a legacy of  racialized  
+disposses sion of  land and labor . Our fieldwork examine d four consequences of legibility , 
+demonstrating how the demands of legibility are re shaping the landscape , creating new forms 
+of labor and new surveillance of existing labor, producing brittleness in the face o f farm 
+variability, and rendering systems opaque to tinkering and repair.  
+In this section , we consider what these findings and relations , taken together,  mean for our 
+understanding of legibility in digital agriculture systems. If legibility is not neutral , we need to 
+examine  power dynamics at play . Here we examine three key questions that result  from this 
+understanding : who gets to decide what becomes legible, what is made legible, and what 
+becomes  illegible in the process .  
+7.1 Who sets the agenda for legibility?  
+Identifying who determines what is made legible in digital agriculture systems is a complex 
+question relating to power dynamics in agriculture. Farmers play an important, but often 
+overstated , role in food production. A s our fieldwork shows, the deployment and adoption of 
+digital agriculture systems relies upon other  actors and institutions  outside of the individual 
+farm er. Our fieldwork highlights  the efforts of extension agents who dedicate time and 
+resources to bring these technologies to local farming communities. This  fact is in line with the 
+original goals of cooperative extensions and their respective land -grant universities in 
+supporting rural and agricultural communities through developing and disseminating 
+advan cements  in science and technology .  
+As we s aw in our historical analysis, the establishment of these institutions was also tied to 
+settler colonial logics , which empowered the United States government to occupy Indigenous 
+lands  and underwrote an orientatio n to control the land and a dispossessed workforce . 
+Subsequently, the research agendas of these institutions  has been  tied to  imaginations of who is 
+capable of being a scientific farmer and funding policies set by institutions that have actively 
+undermin ed Black agricultural and rural communities since the Reconstruction period. Tracing 
+this work has shown how scientific agriculture  has come at the expense of Black farmers, 
+contributing to the predominantly white agricultural landscape that we see today. In our 
+present -day fieldwork in New York, we see a landscape where predominantly white farmers 
+manage farmworkers in precarious positions. These racialized and exploitative relationships 
+still exist, albeit  in different forms.  
+In addition to the factors thi s history identified, agribusiness, and more recently, tech 
+corporations also have  invested in the development of digital agriculture systems. This 
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:21 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. investment include s partnerships with universities and federal agencies , where these private 
+companies play a significant role in shaping digital agriculture  [9]. Understanding who sets the 
+agenda for legibility leads to mapping out a web of other actors involved in agriculture. In line 
+with recent calls to articulate rural infrastructures in HCI [24], our research develops a more 
+complex understanding of the institutions, actors, and historical underpinnings of the 
+agricultural industry in the United States. While we see certain practices play out on the farm, 
+these practices are shaped by  broader institutional  and governance histories that  shape  rural  
+technologies, practices,  landscapes,  and actors . Our research suggests that focus on agriculture 
+work in CHI and CSCW need to expand beyond  attention at the level of  individual farms and 
+farmers to ask how institutions are shaping what technologies are available, what practices are 
+possible, and who is able to farm.  
+7.2 What is made legible?  
+While the question of who is at the helm of legibility has a complicated answer, the question of 
+what is being  made  legible is more straightforward. Landscapes must  be altered radically to be 
+made legible. As we saw in our fieldwork, orientation and spacing of crops plays a crucial role 
+in how these fields are read by digital agriculture systems. This precise placement o f the crops 
+makes it easier to manage  farm s at scale,  such as applying fertilizers or determining plant health 
+via sensing. We place legibility within a history  of “terra nullius,” the settler colonial 
+justification for seeing Indigenous land as prime for occupation  and available for clearing and 
+control . This concept was foundational to the beginnings of North American states like the 
+United States and Canada and has lasting resonances in contemporary agriculture  [53]. Through 
+land grabs, the United States go vernment acquired land on a large scale and distributed the land 
+via homesteading acts to white settlers. In order for land to become farmland, the landscape 
+usually required clear cutting and razing of the existing ecology in order to be split and shaped 
+as different fields. With these lands cleared, the land bec ame a blank canvas upon which  
+structure  could be imposed , such as the rows of monocrop s that we see in industrial forms of 
+farming. While developments in scientific agriculture sought to develop be st practices for food 
+production , maximizing yield and productivity in order to ensure food security, it 
+simultaneously played a role in maintaining land ownership for white farmers.  
+The spatial configuration of farms and farmland in the United States is not neutral. These 
+spaces exist because of  specific ways of thinking about the environment and how the world 
+should be oriented [15]. In the case of industrial agriculture in the United States, this is 
+inseparable from Indigenous land dispossession and the subsequent expropriation of Black -
+owned farmland. Our fieldwork was conducted in a landscape long altered by the consequences 
+of these processes, where the distorted demographics of farms has become seemingly 
+normalized. The tools and technologies that are developed to support these practices continue 
+to maintai n the underlying colonial logics, however subtl y. We see this through line  between 
+digital agriculture and terra nullius through the lens of legibility. Much like how scholars are 
+revealing how raci alized  values become embedded in digital systems, s uch as search engines 
+and recidivism risk algorithms [7,38] , a critical eye needs to be cast upon the values embedded 
+in technologies that envision legibility as an outcome, such as digital agriculture systems.  
+480:22   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. We are not claiming  that legibility is inherently a racist or colonial tactic when u sed in  
+digital systems . Rather, we are calling for  a more nuanced understanding of how digital systems 
+transform the environment. Given growing concerns to mitigate and adapt to the impact of 
+climate change, an increasing  number of technological systems are being  developed to address 
+these concerns, including in agriculture [6,49] . Often,  the design of these systems is framed as 
+extracting more data in order to lead to better insights  [8]. As we see the development of these 
+tools that address environmental concerns, we need to understand how they may reproduce 
+historical harm s as a result of the limited ways these may frame  the environment , how human 
+relationship s to it are envisioned as ‘controllers’ or ‘managers ,’ and who is licensed to be in 
+control .  
+7.3 What is left/made illegible?  
+To make something measurable requires simplifying a situation to make it amenable to 
+supervision  and management. Within the design of digital systems, this is accomplished 
+through a process of measurement and quantification across a defined, limited  set of variables. 
+Inevitably through this process, other aspects  are left out of scope; they become illegible within  
+digital agric ulture systems. In our fieldwork, we saw tw o form s of such illegibility.  
+The first form of illegibility related to how the narrow view of digital systems made it 
+difficult for them to function effectively across the true variability of material farm landscapes. 
+Models that are developed to automate decision -making may not fit l ocal conditions. While the 
+landscape is being standardized to fit the requirements of digital agriculture systems, factors 
+such as weather and regional conditions are not amenable to the same forms of control and  
+vary enough to make it hard to create gener alizable models. The challenges to these systems are 
+exacerbated by the unevenness of rural infrastructure, since the design of these systems often 
+rest on assumptions of available power and connectivity which reflect urban, rather than rural, 
+realities.  
+The second form of illegibility has to do with the question of to whom or what the farming 
+situation is being made legible. While the landscape is becoming more legible to digital systems, 
+the functioning of the systems themselves and the reasons behind  their decision -making are 
+becoming less legible to the people who operate them. This makes it difficult for those in the 
+field to repair, tinker with, or adapt the systems to work with local conditions that were outside 
+of scope of the systems’ design , a diff iculty exacerbated by new property regimes embodied in 
+warranties and proprietary contracts.  The opacity of these system to those who best 
+understand the local circumstances aggravate the challenges of breakdown caused by the first 
+form of illegibility.  
+These insights suggest direct design implications, including a need for more transparent 
+interface s and modular , repairable  hardware design s. It also suggests a need for participatory 
+design efforts aimed towards those who are marginalized or left out of t he design of these  
+systems .  But understanding this problem in its historical and institutional  context suggests this 
+issue extend s beyond the socio technical requirements of a particular system. Efforts to move to 
+more mechanized and automated forms of far ming  have been  done intentionally at the expense 
+of workers under the banner of making  larger -scale, white -owned farms technologically 
+advanced. With the systematic erasure of Black farmers over the course of more than a century  
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:23 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. and the systemic eliminatio n of Native American farmers , methods such as those from 
+participatory design may not be sufficient in addressing or repairing these issues , since the 
+relevant stakeholders are no longer on the land . These skewed demographics point to the need 
+to discus s and include  factors of race in digital agriculture research, especially in North 
+American contexts.  
+Certainly,  the inclusion of marginalized farmers in the design of DA systems  is valuable and  
+could  address some inequities . But the framing of legibility in DA systems, where a limited 
+frame of measurements is used to optimize a system for the purposes of its owner/manager, is 
+still based on a settler colonial logic of land as property . Given the trajectory of technologies 
+that increasing ly put workers and marginalized communities at risk  for harm [7,13] , it is 
+important to reflect on the  logics that are being built into digital agriculture systems, to ident ify 
+places where systems built on those logics perpetuate harm, and to develop design orientations 
+for these systems based on alternative logics.  
+CONCLUSION  
+While recent data -driven systems in agriculture may seem new, the logics built into  these 
+systems are not. Our work uses legibility to understand underlying logic s of digital agriculture 
+by pairing historical case analysis with contemporary fieldwork. Legibility  as instantiated in 
+digital agriculture builds on a longer tradition in scientific agricultu re which  is implicated in the 
+racialized  legacies  which have shaped the history of a gricultur al production in the U.S. These 
+histories are embedded in the ways  contemporary  technologies are being developed ; our 
+fieldwork demonstrates the ongoing consequences of a reliance on legibility as a frame for 
+agricultural technology. Without closer examination, we will continue to build systems that 
+reproduce these ways of thinking. This will ultimately run counter to the goals that digital 
+agriculture has in addressing social, economic, or environmental issues in agriculture. These 
+issues cannot be thought of as separate points that can be addressed in isolation.  
+Digital agriculture has been framed in the literatur e as a revolution. Undoubtedly, it is 
+generating  new agricultural practices , fostering new business models , and putting pressure on 
+farms that resist technological adoption . But through its reliance on legibility as a design frame, 
+digital  agriculture  is simultaneously  continuing a  racialized  legacy of industrial farming and 
+scientific agriculture. Legibility is not merely a design trope for digital agriculture systems, it is 
+also part of  a longer trajectory of settler colonialism. Historical analysis sensi tizes us to the way 
+that scientific developments in agriculture have been intimately tied to questions of land access  
+and who has the standing and access to be a scientific farmer.  When building on these 
+traditions in agriculture, digital developments for  industrial farming extend the legacies of 
+settler colonial occupation. Ultimately , we offer in this paper is a way of examining how digital 
+systems can inadvertently uphold legacies of oppression. As work in CSCW begins to work 
+towards liberatory practice s [4] in the work to move beyo nd structural legacies of oppression, 
+we must chart out new pathways for technology based on a sharpen ed understanding of how 
+these systems came to be.  
+480:24   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. ACKNOWLEDGMENTS  
+We wish to thank Steve Jackson, Jenny Goldstein, Steven Wolf, Sarah Sachs, members of the 
+Race and Technology media studies working group, and our anonymous reviewers for feedback 
+throughout the writing process. This research was funded by National Science Foundation 
+Grant s 1955125  and 1908327 , and by a  Cornell Institute for Digi tal Agriculture Research 
+Innovation Fund Summer Stipend.   
+REFERENCES  
+[1] Ali Alkhatib. 2021. To Live in Their Utopia: Why Algorithmic Systems Create Absurd Outcomes. Proceedings o f 
+the 2021 CHI Conference on Human Factors in Computing Systems , Article 95. Retrieved from 
+https://doi.org/10.1145/3411764.3445740  
+[2] Ali Alkhatib, Michael S. Bernstein, and Margaret Levi. 2017. Examining Crowd Work and Gig Work Through 
+The Historical Le ns of Piecework. Proceedings of the 2017 CHI Conference on Human Factors in Computing 
+Systems , 4599 –4616. Retrieved from https://doi.org/10.1145/3025453.3025974  
+[3] Luis F. Alvarez León and Colin J. Gleason. 2017. Production, property, and the construction  of remotely sensed 
+data. Annals of the American Association of Geographers  107, 5 (2017), 1075 –1089.  
+[4] Mariam Asad. 2019. Prefigurative design as a method for research justice. Proceedings of the ACM on Human -
+Computer Interaction  3, CSCW (2019), 1 –18. 
+[5] Athanasios Balafoutis, Bert Beck, Spyros Fountas, Jurgen Vangeyte, Tamme Van der Wal, Iria Soto, Manuel 
+Gómez -Barbero, Andrew Barnes, and Vera Eory. 2017. Precision agriculture technologies positively contributing 
+to GHG emissions mitigation, farm produ ctivity and economics. Sustainability  9, 8 (2017), 1339.  
+[6] Bruno Basso and John Antle. 2020. Digital agriculture to design sustainable agricultural systems. Nature 
+Sustainability  3, 4 (April 2020), 254 –256. DOI:https://doi.org/10.1038/s41893 -020-0510-0 
+[7] Ruha Benjamin. 2019. Race after technology: Abolitionist tools for the new jim code. Social Forces  (2019).  
+[8] Kelly Bronson. Immaculate conception of Data: Agribusiness, Activists, and their Shared Politics of the Future .  
+[9] Kelly Bronson and Irena K nezevic. 2016. Big Data in food and agriculture. Big Data & Society  3, 1 (2016), 
+2053951716648174.  
+[10] Hronn Brynjarsdottir, Maria Håkansson, James Pierce, Eric Baumer, Carl DiSalvo, and Phoebe Sengers. 2012. 
+Sustainably unpersuaded: how persuasion narrow s our vision of sustainability. In Proceedings of the 2012 ACM 
+annual conference on Human Factors in Computing Systems - CHI ’12 , ACM Press, Austin, Texas, USA, 947. 
+DOI:https://doi.org/10.1145/2207676.2208539  
+[11] Jenna Burrell. 2018. Thinking relationall y about digital inequality in rural regions of the US. First Monday  (2018).  
+[12] Isabelle Carbonell. 2016. The ethics of big data in big agriculture. Internet Policy Review  5, 1 (2016).  
+[13] Sasha Costanza -Chock. 2018. Design Justice: Towards an Intersecti onal Feminist Framework for Design Theory 
+and Practice. Proceedings of the Design Research Society 2018  (June 2018). Retrieved from 
+https://ssrn.com/abstract=3189696  
+[14] Kathleen A. Creel. 2020. Transparency in complex computational systems. Philosophy of  Science  87, 4 (2020), 
+568–589. 
+[15] William Cronon. 1996. The trouble with wilderness: or, getting back to the wrong nature. Environmental history  
+1, 1 (1996), 7 –28. 
+[16] William Cronon. 2011. Changes in the land: Indians, colonists, and the ecology of Ne w England . Hill and Wang.  
+[17] Pete Daniel. 2013. Dispossession: Discrimination against African American farmers in the age of civil rights . UNC 
+Press Books.  
+[18] William Darity Jr. 2008. Forty Acres and a Mule in the 21st Century. Social Science Quarterly  89, 3 (2008), 656 –
+664. 
+[19] Roxanne Dunbar -Ortiz. 2014. An indigenous peoples’ history of the United States . Beacon Press.  
+[20] Marnie Eisenstadt. 2019. ICE crackdown meets reality: Half of NY’s farm labor is here illegally, official says - 
+syracuse.com. Retrieved July 12, 2021 from 
+https://www.syracuse.com/news/2018/05/half_of_new_yorks_farm_labor_force_is_here_illegally_what_happen
+s_as_ice_cracks.html  
+[21] Deborah Kay Fitzgerald. 2008. Every farm a factory: The industrial ideal in American agriculture . Yale University 
+Press.  
+[22] Sarah E. Fox, Kiley Sobel, and Daniela K. Rosner. 2019. Managerial Visions: Stories of Upgrading and 
+Maintaining the Public Restroom with IoT. Proceedings of the 2019 CHI Conference on Human Factors in 
+Computing Systems , Paper 49 3. Retrieved from https://doi.org/10.1145/3290605.3300723  
+[23] Margaret Gray and Emma Kreyche. 2007. The Hudson Valley Farmworker Report. Bard College Migrant Labor 
+Project  (2007).  
+[24] Jean Hardy, Dharma Dailey, Susan Wyche, and Norman Makoto Su. 2018. Ru ral Computing: Beyond Access and 
+Infrastructure. Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social 
+Computing , 463–470. Retrieved from https://doi.org/10.1145/3272973.3273008  
+Legibility and the Legacy of Racialized Dispossession in Digital Agriculture   480:25 
+ 
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. [25] Carmen V. Harris. 2008. “ The Extension Service Is Not an Integration Agency”: The Idea of Race in the 
+Cooperative Extension Service. Agricultural history  (2008), 193 –219. 
+[26] Lewis Holloway, Christopher Bear, and Katy Wilkinson. 2014. Re -capturing bovine  life: Robot –cow 
+relationships, freedom and control in dairy farming. Journal of Rural Studies  33, (January 2014), 131 –140. 
+DOI:https://doi.org/10.1016/j.jrurstud.2013.01.006  
+[27] Leo Horrigan, Robert S. Lawrence, and Polly Walker. 2002. How sustainable ag riculture can address the 
+environmental and human health harms of industrial agriculture. Environmental health perspectives  110, 5 (2002), 
+445–456. 
+[28] Vera Khovanskaya and Phoebe Sengers. 2019. Data Rhetoric and Uneasy Alliances: Data Advocacy in US Labo r 
+History. Proceedings of the 2019 on Designing Interactive Systems Conference , 1391 –1403. Retrieved from 
+https://doi.org/10.1145/3322276.3323691  
+[29] Andrew Kimbrell. 2002. The fatal harvest reader: The tragedy of industrial agriculture . Island Press.  
+[30] Ronald R Kline. 2000. Consumers in the country : technology and social change in rural America . Johns Hopkins 
+University Press, Baltimore.  
+[31] Gilly Leshed, Maria Håkansson, and Joseph’Jofish’ Kaye. 2014. “ Our life is the farm and farming is our life” 
+home -work coordination in organic farm families. In Proceedings of the 17th ACM conference on Computer 
+supported cooperative work & social computing , 487–498. 
+[32] Karen Levy and Solon Barocas. 2018. Privacy at the Margins| refractive surveillance: Monitor ing customers to 
+manage workers. International Journal of Communication  12, (2018), 23.  
+[33] Szu-Yu Liu, Shaowen Bardzell, and Jeffrey Bardzell. 2019. Symbiotic encounters: HCI and sustainable agriculture. 
+In Proceedings of the 2019 CHI Conference on Human  Factors in Computing Systems , 1–13. 
+[34] Alexandra Mateescu and Madeleine Clare Elish. AI in Context: The Labor of Integrating New Technologies . 
+Data&Society.  
+[35] Christopher Miles. 2019. The combine will tell the truth: On precision agriculture and algo rithmic rationality. 
+Big Data & Society  6, 1 (2019), 2053951719849444.  
+[36] Thomas W. Mitchell. 2000. From reconstruction to deconstruction: Undermining black landownership, political 
+independence, and community through partition sales of tenancies in comm on. Nw. UL Rev.  95, (2000), 505.  
+[37] R. L. Nielsen. 1996. Perspectives on narrow row spacings for corn (less than 30 inches). (1996).  
+[38] Safiya Umoja Noble. 2018. Algorithms of oppression: How search engines reinforce racism . nyu Press.  
+[39] Erick Oduor , Peninah Waweru, Jonathan Lenchner, and Carman Neustaedter. 2018. Practices and technology 
+needs of a network of farmers in Tharaka Nithi, Kenya. In Proceedings of the 2018 CHI Conference on Human 
+Factors in Computing Systems , 1–11. 
+[40] Ihudiya Finda Ogb onnaya -Ogburu, Angela D. R. Smith, Alexandra To, and Kentaro Toyama. 2020. Critical Race 
+Theory for HCI. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems , 1–16. Retrieved 
+from https://doi.org/10.1145/3313831.3376392  
+[41] Meredit h Alberta Palmer. 2020. Rendering settler sovereign landscapes: Race and property in the Empire State. 
+Environment and Planning D: Society and Space  38, 5 (2020), 793 –810. 
+[42] Daniel Parra. 2020. Split Opinion Over Federal Bill to Legalize Farmworkers as NY’s New Law Takes Effect. 
+Retrieved July 12, 2021 from https://citylimits.org/2020/01/29/split -opinion -over-federal -bill-to-legalize -
+farmworkers -as-nys-new-law-takes -effect/  
+[43] Neil Patel, Deepti Chittamuru, Anupam Jain, Paresh Dave, and Tapan S. Parikh . 2010. Avaaj otalo: a field study 
+of an interactive voice forum for small farmers in rural india. In Proceedings of the SIGCHI Conference on Human 
+Factors in Computing Systems , 733–742. 
+[44] James Pierce. 2019. Smart Home Security Cameras and Shifting Lin es of Creepiness: A Design -Led Inquiry. 
+Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems , Paper 45. Retrieved from 
+https://doi.org/10.1145/3290605.3300275  
+[45] Kathleen H. Pine and Max Liboiron. 2015. The politics of measurement  and action. In Proceedings of the 33rd 
+Annual ACM Conference on Human Factors in Computing Systems , 3147 –3156.  
+[46] Lizzie Presser. 2019. Their Family Bought Land One Generation After Slavery. The Reel Brothers Spent Eight 
+Years in Jail for Refusing to Le ave It. ProPublica . Retrieved from https://features.propublica.org/black -land-
+loss/heirs -property -rights -why-black -families -lose-land-south/  
+[47] Maria Puig de la Bellacasa. 2015. Making time for soil: Technoscientific futurity and the pace of care. Social  
+Studies of Science  45, 5 (2015), 691 –716. 
+[48] Barath Raghavan, Bonnie Nardi, Sarah T. Lovell, Juliet Norton, Bill Tomlinson, and Donald J. Patterson. 2016. 
+Computational agroecology: Sustainable food ecosystem design. In Proceedings of the 2016 CHI Confe rence 
+Extended Abstracts on Human Factors in Computing Systems , 423–435. 
+[49] David Rolnick, Priya L. Donti, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew 
+Slavin Ross, Nikola Milojevic -Dupont, Natasha Jaques, Anna Waldman -Brown, Alexandra Luccioni, Tegan 
+Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Körding, Carla Gomes, Andrew Y. Ng, Demis 
+Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, and Yoshua Bengio. 2019. Tackling Climate Change with 
+Machine Learning.  CoRR  abs/1906.05433, (2019). Retrieved from http://arxiv.org/abs/1906.05433  
+[50] David Christian Rose and Jason Chilvers. 2018. Agriculture 4.0: Broadening responsible innovation in an era of 
+smart farming. Frontiers in Sustainable Food Systems  2, (2018),  87. 
+480:26   Jen Liu & Phoebe J. Sengers  
+PACM on Human -Computer Interaction, Vol. 5, No.  CSCW2 , Article 480, Publication date:  October 2021. [51] Nathan Rosenberg and Bryce Stucki. 2019. How USDA distorted data to conceal decades of discrimination 
+against black farmers | New Food Economy. The Counter . Retrieved February 2, 2021 from 
+https://thecounter.org/usda -black -farmers -discrimination -tom-vilsack -reparations -civil-rights/  
+[52] Caitlin Rosenthal. 2019. Accounting for slavery: Masters and management . Harvard University Press.  
+[53] Sarah Rotz. 2017. ‘They took our beads, it was a fair trade, get over it’: Settler colonial logics, racial hi erarchies 
+and material dominance in Canadian agriculture. Geoforum  82, (2017), 158 –169. 
+[54] Sarah Rotz, Evan Gravely, Ian Mosby, Emily Duncan, Elizabeth Finnis, Mervyn Horgan, Joseph LeBlanc, Ralph 
+Martin, Hannah Tait Neufeld, and Andrew Nixon. 2019. Automated pastures and the digital divide: How 
+agricultural technologies are shaping labour and r ural communities. Journal of Rural Studies  68, (2019), 112 –122. 
+[55] James C. Scott. 2020. Seeing like a state: How certain schemes to improve the human condition have failed . Yale 
+University Press.  
+[56] Agam Shah. 2018. Can You Repair What You Own? Mechan ical Engineering  140, 09 (2018), 37 –41. 
+[57] Susan Leigh Star and Anselm Strauss. 1999. Layers of silence, arenas of voice: The ecology of visible and 
+invisible work. Computer supported cooperative work (CSCW)  8, 1 (1999), 9 –30. 
+[58] Rosemary Steup, Lynn D ombrowski, and Norman Makoto Su. 2019. Feeding the World with Data: Visions of 
+Data -Driven Farming. In Proceedings of the 2019 on Designing Interactive Systems Conference , 1503 –1515.  
+[59] Deepak Vasisht, Zerina Kapetanovic, Jongho Won, Xinxin Jin, Ranveer Chandra, Sudipta Sinha, Ashish Kapoor, 
+Madhusudhan Sudarshan, and Sean Stratman. 2017. Farmbeats: An iot platform for data -driven agriculture. In 
+14th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 17) , 515–529. 
+[60] Lourdes A. Vera, Dawn Walker, Michelle Murphy, Becky Mansfield, Ladan Mohamed Siad, Jessica Ogden, and 
+EDGI. 2019. When data justice and environmental justice meet: formulating a response to extractive logic 
+through environmental data justice. Information,  Communication & Society  22, 7 (2019), 1012 –1028.  
+[61] Monica M. White. 2018. Freedom farmers: agricultural resistance and the Black freedom movement . UNC Press 
+Books.  
+[62] Jeff Williams and Terry Kastens. 2011. Lease, Custom Hire, Rent or Purchase Farm Ma chinery: Evaluating the 
+Options. (October 2011).  
+[63] Langdon Winner. 1978. Autonomous technology: Technics -out-of-control as a theme in political thought . Mit Press.  
+[64] Steven A. Wolf and Frederick H. Buttel. 1996. The political economy of precision far ming. American Journal of 
+Agricultural Economics  78, 5 (1996), 1269 –1274.  
+[65] Steven A. Wolf and Spencer D. Wood. 1997. Precision Farming: Environmental Legitimation, Commodification 
+of Information, and Industrial Coordination 1. Rural sociology  62, 2 (19 97), 180 –206. 
+[66] Kehui Xiao, Deqin Xiao, and Xiwen Luo. 2010. Smart water -saving irrigation system in precision agriculture 
+based on wireless sensor network. Transactions of the Chinese society of Agricultural Engineering  26, 11 (2010), 
+170–175. 
+[67] USDA ERS - Documentation. Retrieved February 2, 2021 from https://www.ers.usda.gov/data -products/organic -
+production/documentation/  
+[68] USDA - National Agricultural Statistics Service - 2017 Census of Agriculture - Volume 1, Chapter 1: U.S. 
+National Level Dat a. Retrieved July 13, 2021 from 
+https://www.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_1_US/  
+[69] 2017 Race, Ethnicity and Gender Profiles | 2017 Census of Agriculture | USDA/NASS. Retrieved February 2, 2021 
+from 
+https://www.nas s.usda.gov/Publications/AgCensus/2017/Online_Resources/Race,_Ethnicity_and_Gender_Profile
+s/ 
+[70] USDA - National Agricultural Statistics Service - 2017 Census of Agriculture - Volume 1, Chapter 1: State Level 
+Data. Retrieved February 2, 2021 from 
+https://w ww.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_1_State_Level/New_Y
+ork/ 
+ 
+Received April 2021, accepted July 2021 . 
+ 

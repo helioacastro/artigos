@@ -1,0 +1,973 @@
+336Cultivating Altruism Around Computing Resources:
+Anticipation Work in a Scholarly Community
+JOHANNA COHOON, University of Utah, USA
+KAZI SINTHIA KABIR, University of Utah, USA
+TAMANNA MOTAHAR, University of Utah, USA
+JASON WIESE, University of Utah, USA
+User research for scientific software can inform design and account for the unique concerns of academic
+researchers. In this study, we explored the user experience on a testbed for cloud computing research, CloudLab.
+Through 15 semi-structured interviews and observation, we observed the importance of time as a resource
+to system users. We observed CloudLab users strategically coordinating their time on the platform with
+other users, navigating the constraints of publication and other academic deadlines. Surprisingly, we found
+that this coordination may involve altruistic behaviors where users share time on CloudLab that had been
+allocated for personal use. In light of prior CSCW literature on how actors seek to harness time, we propose
+concrete opportunities for design interventions. Our strategy across all possible interventions is to increase
+users’ awareness of the rhythms affecting their peers’ platform use, allowing coordination based not just
+on knowledge of CloudLab reservations but also users’ progress toward deadlines. The implications of this
+work inform the design of other similar cyberinfrastructure systems in science where users independently
+coordinate use of resources.
+CCS Concepts: •Human-centered computing →Field studies ;Computer supported cooperative work ;
+Empirical studies in collaborative and social computing ;Visualization systems and tools ;•Social and
+professional topics →User characteristics.
+Additional Key Words and Phrases: cyberinfrastructure, cloud computing, scientific collaboration, science
+studies, coordination, time, temporal rhythms
+ACM Reference Format:
+Johanna Cohoon, Kazi Sinthia Kabir, Tamanna Motahar, and Jason Wiese. 2023. Cultivating Altruism Around
+Computing Resources: Anticipation Work in a Scholarly Community. Proc. ACM Hum.-Comput. Interact. 7,
+CSCW2, Article 336 (October 2023), 22 pages. https://doi.org/10.1145/3610185
+1 INTRODUCTION
+CSCW research has often explored the work involved in developing and sustaining scientific
+software, theorizing about its processes and challenges [ 6,15,17,27,32]. While many of the
+findings from this body of literature can be applied to other contexts, an important theme is the
+relationship between academia and actors’ behavior. Without scholarly credit, certain software
+work and knowledge sharing is disincentivized [ 15,32]. Such insights can inform development
+approaches but they also beg the question of how the scholarly context might affect software use.
+Authors’ addresses: Johanna Cohoon, hannah.cohoon@utah.edu, University of Utah, Salt Lake City, UT, USA; Kazi Sinthia
+Kabir, kskabir@cs.utah.edu, University of Utah, Salt Lake City, UT, USA; Tamanna Motahar, tamanna.motahar@utah.edu,
+University of Utah, Salt Lake City, UT, USA; Jason Wiese, jason.wiese@utah.edu, University of Utah, Salt Lake City, UT,
+USA.
+This work is licensed under a Creative Commons Attribution International 4.0 License.
+©2023 Copyright held by the owner/author(s).
+2573-0142/2023/10-ART336
+https://doi.org/10.1145/3610185
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+
+336:2 Johanna Cohoon et al.
+If scientific software development is meaningfully different from that in commercial settings, how
+does being a scientific researcher affect the user experience?
+We report results from a user experience study of a national cyberinfrastructure project that
+provides cloud computing services to academic researchers, CloudLab (www.cloudlab.us). Users
+of CloudLab are primarily networking, security, or database researchers. Through this study, we
+identified a significant opportunity for improving the user experience while addressing the needs of
+the system developers. We suggest that by using visualizations to raise awareness of the academic
+deadlines affecting colleagues’ use of the system, conflicts over resources can be reduced and use
+of CloudLab can be “gracefully balanced” [ 12] across time. CloudLab developers sensitized us to
+possible conflicts around time when briefing us on their approach to designing the platform. The
+developers indicated that they hoped to broaden access to CloudLab’s computational resources
+by discouraging users from hoarding them for long periods. However, subverting developers’
+expectations, CloudLab users often told us that they altruistically free up computational resources
+as soon as they can.
+To account for this surprising finding we turned to analyses of time in CSCW, drawing on
+the language of anticipation work [30], collaborative rhythms [16], and temporal trajectories and
+horizons [ 26]. Using these concepts, we describe in abstract terms how CloudLab users coordinate
+their use of the system with one another while attempting to keep up with the beat of academia. We
+go beyond providing empirical examples of these concepts, using them to inspire testable design
+interventions that can encourage more altruistic practices.
+The remainder of this paper is organized as follows. We first introduce the literature that guided
+our analysis, describing known strategies for harnessing time including the use of visualization.
+We then present our research site, CloudLab (Section 3), followed by our data collection and
+analysis methods (Section 4). Next, in our results (Section 5), we outline two major themes in
+our data: time as a valued resource and resource sharing. We report how each theme relates to
+time management on CloudLab and the academic environment our participants work within. In
+our discussion (Section 6), we interpret these findings in light of prior work and propose design
+interventions to foster the altruistic behaviors observed. This research makes three contributions
+to move the literature forward:
+•Provide evidence of the interaction between academic deadlines and coordinative (anticipa-
+tion) work on scholarly infrastructure
+•Use existing taxonomies and concepts to describe this interaction in terms of time, expanding
+the use of the term “temporal trajectory” [26]
+•Propose concrete, testable design interventions to cultivate an “alternative temporal experi-
+ence” [19] where time on CloudLab is shared among users with greater facility
+We conclude by showing that our findings resonate with similar research and have applicability
+to other scholarly cyberinfrastructure.
+2 LITERATURE REVIEW
+In this section, we review several ways time has been conceived of in CSCW research, presenting it as
+an enacted, sociotechnical structure. The literature has described how actors align different temporal
+rhythms to coordinate their actions. This alignment work, also called anticipation work [ 30],
+conjures up an imagined future. Prior work suggests that design can be used to support anticipation
+work and that data visualization in particular might help cultivate useful, collective understandings
+of time. Such design interventions enable coordination by increasing awareness of the work context,
+an approach well established in CSCW literature [ 11]. We discuss these points while acknowledging
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:3
+that anticipation work is also mired in values—to seek a future is to assign it priority over other
+possibilities.
+In subsequent sections, we describe our research site, qualitative methods, and the results of our
+thematic analysis. In our discussion, we address how our results relate to the literature presented
+here. Notably, our findings show that time was enacted as a resource valuable to multiple conflicting
+futures imagined by CloudLab users—one of which was unexpected though welcome by the system’s
+developers. We posit that an existing data visualization might be key in the anticipation work to
+bring about this future (one we characterize as altruistic) and discuss other ways to encourage
+prosocial coordination among users.
+2.1 Conceptualizations of Time in CSCW
+In CSCW studies, time is understood to manifest in multiple ways simultaneously. It is recognized
+by researchers through patterns of behavior; rhythms emerge with repetition. Time is not only
+manifested through a technological medium, it is also enacted through social practices.
+Asserting this sociotechnical perspective, Lindley stresses that the “temporal experience” is
+“upheld partly through the interface and partly through social conventions” [ 19]. This take draws on
+Orlikowski and Yates’s [ 22] argument that time is a structure in Giddens’s [ 14] sense: it influences
+behavior and is also influenced by it.
+Lindley [ 19] builds on prior literature to describe concepts like “clock time.” Clock time is a
+set of practices that spur from the continuous flow of time on a metered, forward trajectory.
+Lindley distinguishes this from the “digital time” conveyed through social media services like
+Facebook. Unlike clock time which progresses at regular intervals, Lindley suggests that digital
+time perpetually maintains the presentation of “nowness.” For example, while clock time may tick
+away second by second to indicate forward movement, digital time on social media constantly
+projects the present by displaying currently trending topics and recent content. Lindley argues
+that this design choice influences users’ behavior, encouraging them to post new, rather than old,
+content.
+While maintaining a sociotechnical perspective, other authors have posed different conceptu-
+alizations of time. In their paper, Jackson et al. [ 16] discussed several collaborative rhythms (i.e.,
+conceptualizations of time) among researchers: organizational, infrastructural, biographical, and
+phenomenal. For Jackson et al., who studied ecologists, organizational rhythms are patterns of work
+and collaboration that emerge alongside institutional and organizational structures like the timing
+of academic holidays. Infrastructural rhythms are patterns of work and collaboration that emerge
+around the tooling which supports the work, e.g., the timing of software updates and the practices
+they imbue. Biographical rhythms are the patterns of personal change, according to Jackson et al.
+They note that “patterns of interaction may change radically as key participants undergo certain
+kinds of life transitions” [ 16]; a successful tenure review, for example. Finally, phenomenal rhythms
+are presented as patterns of practices that emerge around any other concern of interest. Jackson
+et al. draw particular attention to natural and regular rhythms like changing seasons as well as
+sporadic events like volcanic eruptions. By recognizing these four rhythms, the authors discuss
+how actors collaborate to align the rhythms when necessary. In Steinhardt and Jackson [ 29], the
+authors build on Jackson et al. [ 16] to emphasize how the activity of planning can elevate or obscure
+rhythms, noting the study of planning as a useful way to explore rhythm alignment.
+Extending this line of research, Chen et al. [ 8] also sought to unpack time as a collaborative
+concept, hoping to improve the design of HPC systems through a nuanced understanding of their
+relationship to temporality. Chen et al. drew a distinction between “machine” and “human” time,
+likening this to a conflict between Jackson et al.’s [ 16] infrastructural rhythms and biographical
+rhythms. Machine time, Chen et al. describe, is time spent using an HPC node (i.e., a high speed
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:4 Johanna Cohoon et al.
+server). The beat of machine time is dictated by how hours of HPC node use are allotted, used,
+forgone, and reallotted. Machine time would ideally be a constant rhythm of use by one researcher
+before a transition to another researcher. While technically possible, Chen et al. [ 8] argue this
+infrastructural rhythm is constrained by “human time issues” that impede the optimal use of the
+HPC system.
+Although this literature clearly makes the point that time is not a simple concept, some ter-
+minology like “clock time” and “machine time” might imply that technology provides an ideal
+interpretation of time that human sociality complicates. However, (like humans) technical systems
+do not necessarily enact time in a straightforward manner. Lamport [ 18], for example, shows
+that when system processes are ignorant of one another, their order of events is ambiguous. “In
+a distributed system,” Lamport [ 18] explains, “it is sometimes impossible to say that one of two
+events occurred first.”
+In our discussion, we draw on these conceptualizations of time to describe the multiple ways
+that time is enacted on CloudLab.
+2.2 Harnessing Time
+The multiple manifestations of time described in the literature above represent “conflicting regimes
+of lived time” [ 33]. To achieve goals, time must be harnessed and these regimes must be aligned.
+Jackson et al. [16] provide an example:
+“The Martian day is precisely 2.7% longer than that on Earth. To make up the difference,
+and to not lose crucial sunlight needed to recharge the Rover’s solar batteries, NASA makes
+the decision to put its Rover team on Mars time for the duration of the project. Members of
+the project team are to live, literally, on Mars time, organizing their work and lives around
+a day 24 hours and 39 minutes long. ”
+In Jackson et al.’s [ 16] language, NASA’s strategy for problem solving showcases the alignment
+of organizational and biographical rhythms with phenomenal ones like planetary motion. While it
+accomplished their goal, it is notable that this solution presented still other challenges like how to
+maintain personal relationships across interplanetary time shifts. “Temporal alignment is therefore
+a strategic and creative activity,” wrote Jackson et al. [16].
+Parmiggiani et al. [ 24] further demonstrate the difficulties that may be involved in temporal
+alignment. The authors studied infrastructuring [ 28] by an oil and gas company seeking to enable
+real-time monitoring of oceanic life. To facilitate multiple stakeholders’ real-time monitoring of
+underwater phenomenal rhythms, Parmiggiani et al. [ 24] found that the company had to adjust
+social practices and technical systems in many ways. A key strategy for achieving alignment with
+minimal disruption was bootstrapping; Parmiggiani et al. saw that the oil and gas company began
+by involving existing technologies and a limited stakeholder group, then grew their efforts to
+introduce more stakeholders, new technology, and new social processes. This approach strategically
+limited the purview of the real-time monitoring initiative, such that the temporal alignment of
+monitoring system users was accomplished gradually.
+Some other qualitative work has also explored the information and strategies that workers use to
+accomplish temporal alignment. Providing a simple example, Delfanti [ 10], shows how researchers
+in the field of high energy physics align themselves to an infrastructural rhythm dictated by the
+preprint service arXiv (https://arxiv.org/) in order to bolster their reputation:
+“Papers are posted daily [on arXiv.org]....Furthermore, physicists know that papers in
+the top or bottom tier of the day’s listing receive more hits and are more likely to be
+detected....Submitting a paper at 4:01 p.m. ensures that it will be among the first ones in
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:5
+the next group of articles. Physicists race to submit their most important papers at the
+right moment in order to meet the need for increased visibility. ”
+Reddy et al. [ 26], who studied collaborative temporal work through an ethnography of a surgical
+intensive care unit (SICU), provide another example of worker’s strategies. Furthermore, the
+authors developed three analytical constructs to describe how actors like surgeons and nurses
+coordinated their behaviors to provide effective medical care. These constructs are temporal
+trajectories, temporal rhythms, and temporal horizons and they can be understood as aids for
+“temporal alignment,” as Jackson et al. [16] describe it. We summarize these constructs presently.
+“Temporal trajectories” are heavily tied to the SICU context. Reddy et al. [ 26] use the term to
+refer to where a patient stands in terms of their recovery. A temporal trajectory is a status which
+implies a certain time to recovery. For instance, Reddy et al. give the example of a patient being
+“post-op 3 days” [ 26]. When contextualized within other knowledge of the patient and medicine,
+a surgeon can use the three-day status to understand how close to discharge the patient is; they
+establish a temporal trajectory.
+Reddy et al. [ 26] present “temporal rhythms” as the patterns that emerge across multiple temporal
+trajectories. The authors report the SICU they studied had many ongoing temporal rhythms such
+as the procedures for nurses’ shift changes or the turnaround times for regular and urgent lab
+tests. Temporal rhythms are emphasized as a collective practice, while temporal trajectories are
+individual.
+Finally, “temporal horizons” are similar to trajectories in that they are goal-oriented and concerned
+with individuals rather than groups. However, whereas the latter is a sensemaking tool for medical
+providers assessing patient conditions, temporal horizons are more general. A temporal horizon
+is how a worker “organizes [her] jobs based on her knowledge of when she has to finish them in
+order to prepare for upcoming activities” [ 26]. The authors characterize horizons as being flexible
+or inflexible and close or distant. Close horizons mean that a deadline is approaching. Flexible
+horizons mean that work need not occur at a specific point in time. Recognizing the characteristics
+of a temporal horizon allows workers to do alignment work, approaching the horizon strategically.
+For example, Reddy et al. saw that as a shift change approached and the horizon became close,
+nurses sped up their work to accomplish their goals on time.
+Many authors have noted that attempts to harness time are not value-neutral. Reflecting on the
+sociotechnical practices of Silicon Valley, Wajcman [ 33] suggests that time is often thought of as
+“an individual resource to be husbanded, rather than as a relational, collective accomplishment” [ 33].
+She contends that digital calendars and the plethora of resources a paying individual can use to carve
+out more time (e.g., food delivery and cleaning crews) attempt to wrangle time for personal benefit
+and workplace productivity. Wajcman [ 33] cautions against the constant pursuit of efficiency.
+Similarly, Puig de la Bellacasa [ 25], argue that the field of soil science has been subject to the
+hegemony of agricultural productivity, a logic which conceives of soil as a consumable for humans
+rather than as a living ecosystem that people participate in. This dominant logic views “maintenance
+and repair of ecological life” as “wasted time” despite its environmental benefits, instead favoring
+the use of technology and innovation to rapidly produce abundance [ 25]. Mazmanian et al. [ 20]
+further draw attention to how harnessing time involves questions of power and which activities
+“are given priority in any one moment.”
+While sometimes controversial, it is this idea of harnessing time that CSCW and HCI researchers
+seek to take advantage of. Given that we enact temporal rhythms through our behavior and
+technologies [22], we ask how can those be modified to “reshape the temporal patterns that form
+the backdrop of everyday life” [ 19]? We take up this question with respect to CloudLab in our
+discussion section.
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:6 Johanna Cohoon et al.
+2.3 Anticipation Work
+Any approach to harnessing time can be understood as what Steinhardt and Jackson [ 30] refer to
+as anticipation work:
+“Anticipation work is the realized, pragmatic and attainable ways actors move toward
+some imagined future (ex. designing protocols for handling specimens, formalizing data
+standards, establishing support groups). ”
+The authors outline several characteristics of anticipation work, defining it as work that “asserts
+normative claims” and “is key in scaling between local and institutional forms” [ 30]. Steinhardt
+and Jackson, who studied the US National Ecological Observatory Network (NEON), demonstrate
+how anticipation work can bridge local and institutional practices through a quote from a staff
+scientist they interviewed:
+“Because of the breadth of those sampling activities, plants, insects, mammals, aquatic
+environments and so on, you’re sourcing information from a variety of different com-
+munities. And even within each of those communities, there are no standard methods of
+practice. One PI and another PI will differ quite strenuously about the right way to do it,
+and so there is no standard within the community of practice. ”
+NEON engaged in anticipation work when they brought together representatives of various
+disciplines to develop standards of practice and when they trained researchers on those standards.
+This anticipation work served to make data from multiple sites reliably comparable, solving the
+problem Steinhardt and Jackson’s [30] interviewee described.
+Anticipation work is evident in findings from many sociotechnical analyses of temporality.
+For instance, Palen [ 23], who studied group calendars in the workplace, describes the practice
+of “scheduling defensively”: “Time can be protected even further by using a fake appointment to
+disguise work time, and minimize the possibility of being asked to attend a meeting instead.” In this
+case, fake appointments anticipate a future with many demands and create one where personal
+time is protected.
+Anticipation is understood to be an abductive process oriented toward optimization [ 9]—actors
+tack between information gathered about the past and “probabilistic anticipations” [ 2] about the
+future, seeking a desired outcome. This concept of a preferred future intertwines anticipation work
+with ethics and values [2, 9, 33].
+The concept of anticipation work informed our analysis substantially. Later, we describe how
+our participants and other CloudLab users anticipated the resources that might be available in the
+future and independently coordinated to optimize the time available to them for experiments.
+2.4 Designing for Anticipation
+A common strategy to support anticipation work is to provide the information necessary for the
+abductive process Adams [ 2] describes; this approach is backed by decades of CSCW research on
+coordination and awareness [ 11]. Palen [ 23], for instance, saw that event coordination became easier
+between employees when they used a groupware calendar system (GCS) that made coworkers’
+availability publicly visible—the GCS depicted a probable future that allowed anticipatory action.
+The visibility offered by the GCS Palen studied is one example of a dominant approach to
+designing for anticipation work: Visualizations are thought to reduce the cognitive burden of
+temporal alignment, thereby assisting in decision making and collaborative work [ 3,5]. Parmiggiani
+et al. ’s [ 24] study provides another example; the web portal that displayed the real-time oceanic data
+was meant to support oil drilling engineers’ decision making by mapping existing infrastructure
+and subsea terrain.
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:7
+Aragon et al. [ 3] have studied the effects of visualizations for astrophysicists. The authors
+visualized the path of astronomical objects on a two-dimensional map, transforming complex three-
+dimensional data to make it simpler for scientists to make quick decisions about what to measure
+and when. Clouds may move and planetary bodies shift, so instruments may need redirection.
+Aragon et al.’s [ 3] visualization replaced an individual’s ad hoc interpretation of the effects of time
+with a standardized map of them.
+Several studies have explored the use of visualizing colleagues’ work activity (e.g., [ 5,13,21]).
+Morrison-Smith et al. [ 21], for example, built a system to track and display computer activity,
+arguing that awareness of others’ work rhythms is useful for collaboration and reducing anxiety.
+Similarly, Begole et al. [ 5] visualized coworkers’ activity traces to create a shared awareness of
+time that would aid in scheduling and timely communication. Such a visualization can surpass the
+ability of “calendar time” to indicate availability by also accounting for other rhythms. For example,
+Begole et al. saw that some participants’ activity visualizations revealed their entanglement with
+the infrastructural rhythm [16] of the local bus schedule [5]:
+“The start and end of the day. . . have a stepped pattern with an interval of approximately
+30 minutes between steps occurring at around 15 and 45 minutes past the hour. This pattern
+has useful implications if you are trying to reach this person because, for example, if he is
+not active at 8:20, you can infer that he is not likely to become active before 8:45. ”
+Visualizations are thus informational tools that can be used to align different temporal rhythms [ 16]
+by providing “awareness information” necessary for coordination [ 11]. As Morrison-Smith et al. [ 21]
+and Begole et al. [ 5] sought to show, shared use of such a tool can cultivate a better understanding
+of “collective” time [ 19]. Furthermore, design can be used to nudge individuals toward certain
+actions, encouraging them to spend time in one way or another [ 31,33]. In our discussion, we
+address how visualizations can be useful for anticipation work on CloudLab and other platforms.
+The literature described above presents anticipation work as action toward a certain goal. Ethno-
+graphic studies show that this work can fall into particular rhythms, but these are highly context
+dependent. Although design may be effective in aligning conflicting rhythms and supporting
+anticipation work, a thorough understanding of users’ values and use context is important. We now
+turn to the context for our own research and describe CloudLab, the system whose use we studied.
+3 RESEARCH CONTEXT
+CloudLab is a testbed facility for researchers who need to construct clouds of their own. Cloud com-
+puting in general provides “on-demand network access to a shared pool of configurable computing
+resources...that can be rapidly provisioned and released” [ 4]. According to its developers, using
+CloudLab “provides more control, visibility, and performance isolation than a typical cloud envi-
+ronment, enabling it to support work on cloud architectures, distributed systems, and applications”
+[12]. These capabilities are meant for scholars who study networking, security, and databases. The
+testbed also proves useful for researchers who simply need more computational power than what
+their local hardware can provide. A popular alternative to CloudLab is the commercial cloud option,
+Amazon Web Services (AWS).
+CloudLab gives access to more than 2000 nodes across a federated network of hosts at no cost
+to users [ 12]. By choosing nodes (i.e., servers) that meet their hardware needs, connecting these
+to one another, and configuring them with appropriate software dependencies, CloudLab users
+construct their own clouds (see example in Figure 1). Most nodes are located at three universities
+in the United States. Each of these host sites specializes in hardware fit for certain purposes. The
+site whose resource availability is displayed in Figure 2, for example, is useful for analytics and
+high-performance workflows [12].
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:8 Johanna Cohoon et al.
+Fig. 1. A four node cloud constructed in CloudLab. Options are shown for node3; this range of options
+is available for each node in the network. Clicking “shell” would allow a user to open a browser-based
+command line tool and then connect directly to an individual node via SSH. Once connected they can install
+dependencies or monitor processes in an experiment. Unlike in some network diagrams, distance between
+nodes is meaningless here.
+Fig. 2. A resource availability graph for University A, one of CloudLab’s node hosts. The table on the left
+indicates currently available nodes of multiple hardware types (e.g., c4130). The line graphs on the right
+display how hardware availability changes over time. CloudLab users leverage these graphs to plan their
+experiments.
+3.1 Experiments, Reservations, and Extensions
+To conduct a study with the CloudLab testbed, researchers must request the necessary nodes and
+use those to establish the computational environment in which they will execute their study. In
+summary, this process involves the user:
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:9
+(1) Creating or logging into a CloudLab account that is associated with a research project
+(2)Choosing or creating a profile that specifies the type of hardware and some software needed
+to run the experiment
+(3)Choosing the number of nodes needed and the site that hosts them (e.g., University of Utah,
+University of Wisconsin-Madison, Clemson University)
+(4) Specifying the dates when the nodes will be needed
+These steps may be performed in different orders. For example, nodes can be reserved for specific
+dates without choosing a profile to instantiate on them.
+Experiments (i.e., profiles instantiated on allocated nodes) expire but can be extended. When a
+researcher seeks to extend for a short period of time, this is usually granted automatically. However,
+longer extensions that last weeks or months require administrative review. Researchers provide a
+reason for their extension request through a form. While an experiment is “up” the user can execute
+scripts that collect data. This data might be, for example, the number of operations performed per
+second, a measure of system throughput.
+Nodes to make up an experiment’s cloud can be requested for now or the future. As Duplyakin
+et al. [ 12] describe it, “A reservation is not an experiment scheduled to run at a specific time, but a
+guarantee of available resources at that time. This allows users to run many experiments either in
+series (e.g., to test different scenarios) or in parallel (e.g., one experiment per student in a class).”
+3.2 Balancing Traffic Across Time
+Because CloudLab is free to use, its developers have taken a different approach from commercial
+cloud systems to their reservation system. Commercial systems like AWS imply access to as many
+nodes as you can pay for, while CloudLab clearly conveys the limits on its available nodes, signaling
+how many nodes of each type are available at a given time on a resource availability graph like
+that shown in Figure 2. It is, therefore, important that a steady flow of nodes becomes available as
+others get reserved. “If users’ needs frequently cannot be satisfied due to insufficient availability,
+those users will likely move to other facilities, ” write Duplyakin et al. [ 12]. While most reservations
+appear to use the computational resources requested, Duplyakin et al. [ 12] have found that 12% of
+all reserved CloudLab node hours go unused, suggesting opportunity for improvement.
+Duplyakin et al. [ 12] introduced the reservation system as an alternative to economic incentives
+that could also balance traffic across time. The reservation system and resource availability graphs
+were designed to help users anticipate when they can complete their work on CloudLab. They state
+that the feature was a bit of “social engineering” [ 12] to ensure enough nodes were available at
+all times. By visualizing the future availability of CloudLab nodes, its developers sought to reduce
+the competition for nodes brought on by conference deadlines and end-of-semester work. Because
+these graphs cannot anticipate extensions to reservations, however, their predictions about future
+availability are not necessarily accurate.
+4 METHODS
+The present paper reports results from a larger project studying the user experience of CloudLab. The
+larger project is focused on improving the user experience as well as increasing the reproducibility
+of experiments conducted on CloudLab.
+We conducted 15 remote interviews with CloudLab users from ten universities. Only one par-
+ticipant was from a CloudLab host university. All but one international participant worked or
+studied at a US university. We sought to include both highly experienced and inexperienced users,
+but had difficulty recruiting participants for the latter group. Our results, therefore, reflect the
+behaviors of CloudLab users who are familiar with the system. Aside from that challenge, collecting
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:10 Johanna Cohoon et al.
+data remotely significantly facilitated recruitment and enabled us to capture data to represent
+CloudLab’s geographically distributed user population.
+Interviews were conducted over video calls and were recorded with participants’ consent. Each
+of these interviews were conducted by at least two researchers; one led the session and the other
+took notes and asked follow-up questions. We transcribed these interviews using an automated
+transcription service (otter.ai).
+Interviews began with a remote observation session where the participants shared their screens
+and the researchers observed as participants went about the usual tasks they undertake on CloudLab.
+Following this typically 30-minute observation session was an interview that generally lasted
+another 30 minutes. Throughout the total hour, participants described how they instantiated
+experiments on CloudLab, monitored their progress, saved their data, and reported their results.
+Due to CloudLab’s interest in supporting reproducibility, we also asked about any experience with
+artifact sharing. Artifact sharing, as implemented by the Association for Computing Machinery
+(ACM), involves sharing research materials like code and data for external review [ 1]. In light of a
+review, an article may be awarded a badge to show it has an artifact that has been evaluated, made
+available, and/or validated the published findings.
+Interviews were analyzed using reflexive thematic analysis [ 7]. This process was conducted
+iteratively and our analysis evolved in light of the team’s ongoing discussions. Thematic analysis
+involves labeling or coding qualitative data to “identify a feature of the data (semantic content or
+latent) that appears interesting to the analyst” [ 7]. Those codes are then reviewed, combined, and
+broken up to identify prominent themes in the data.
+Each interview was coded by at least one author in ATLAS.ti. Coders regularly met to discuss
+their work. During such discussions it was common to provide new evidence for emergent themes
+as well as to discuss exceptions to those themes. After seven interviews were conducted, the coders
+met to create a list of focused codes that would be applied to the remaining interviews. While the
+list evolved as we coded more interviews and continued with open coding, this list of focused codes
+ensured that each member of the research team attended to the same concepts. In practice, we used
+these focused codes as broad labels that preceded specific details. For example, the focused code
+“Resource availability” was applied through the codes “Resource availability: deletes reservation
+to free up resources” and “Resource availability: Bare metal servers of CloudLab not feasible for
+a bigger class.” Other focused codes included “Feeling frustrated,” “Repetitious task,” “Managing
+time,” “Making a reservation,” “Troubleshooting,” and “Monitoring experiments,” among others.
+By reviewing the coded data and notes from prior discussions, and through affinity diagramming,
+the authors organized the codes into larger themes. Given our interest in user experience, many of
+these themes represented common actions that study participants took on CloudLab, e.g., monitoring
+experiments or checking the resource availability graphs. These themes were iteratively refined
+through more diagramming and memoing. For example, we saw that quotes labeled with codes
+like “Resource availability: makes sure resources are deleted after experiment,” “Artifact evaluation:
+provides detailed instruction,” and “Publishing: work in progress stays private” all related to sharing
+resources of different kinds. As we analyzed our data, we remained sensitized to the concepts in our
+literature review and attuned to the CloudLab developers’ concerns about maintaining good node
+availability. Ultimately we developed seven main themes: Time as a resource, Resource sharing,
+Learning CloudLab, Backing up data, Publishing, Security, and Cognitive burdens. The first two of
+these were well saturated and are, therefore, the results presented below.
+5 RESULTS
+Through this iterative analytical process, we identified two themes of importance among our data.
+We present these themes here, describing how they were enacted by our participants and the nuances
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:11
+that bring them together. In summary, we saw that time is a valued resource whose expenditure can
+be optimized through strategic resource sharing. Who benefits from such optimization depends,
+however—CloudLab users may be taught to free up nodes for others’ use whenever possible, but
+concerns around timely progress to deadlines may curb altruistic behavior. Later, in our discussion,
+we describe these findings in terms of anticipation work and temporal rhythms, drawing from the
+literature reviewed above to paint CloudLab use as involving the alignment of social and technical
+temporalities. This alignment, we argue, can be further supported through design intervention.
+Through these interventions, scientific software like CloudLab can account for the unique context
+of its users.
+5.1 Time as a Valued Resource
+The first theme we present from our research is time as a valued resource. We saw that our
+participants placed a high value on time through their dismay at “wasting” it and their strategies
+for working efficiently. Behaviors like reusing resources and requesting extensions for experiments
+showed that it was important to our users to gain time on CloudLab and use it productively by
+collecting data. Similarly, their negative reactions to wasted and lost time also indicated its value.
+Time spent on CloudLab was often valued because it was expected to culminate in a publication.
+Our participants understood the value of CloudLab time to other users as well and sometimes
+sought to share any extra that they might have.
+5.1.1 Reducing wasted time. Our participants described repetitive tasks and periods of waiting
+as frustrations. When dependencies (e.g., required software packages) were being installed or a
+node needed to be rebooted after a failure, participants disliked the minutes or hours they had to
+spend waiting for the process to complete (Figure 1 shows how to reboot a node). For a very short
+experiment like P1’s, these processes could take a third of their CloudLab time:
+“If we look back at the log, you can see that it’s just rebooted. . . .It takes a really long time
+to do that. It’s like, three to four minutes just to reboot. Which is kind of funny, actually.
+Because the whole experiment only takes like eight minutes. ”
+To avoid wasting time, participants used multiple strategies. During waiting periods, for example,
+they often turned to other tasks like processing emails. P1, for example, let their experiment stall
+and did not consider this wasted time because they spent it another way. P1 said,
+“I just let it hang because I was working on something else. ”
+Other strategies to avoid wasting time were also apparent. For instance, to skip the wait for
+human approval of a reservation request, participants often requested short experiment periods
+that could be extended automatically rather than attempting a single long reservation that would
+need more written clarification and an admin’s review. We also observed users speeding up tedious
+and repetitive setup work through automated scripts and the use of disk images, as discussed below.
+5.1.2 Reusing resources to optimize time use. We observed that participants strategically optimized
+their use of time by reusing resources when running experiments. For example, CloudLab is
+designed to support replication through features like profiles. Our interviews and observation
+showed that users took advantage of this: they cut down on the work needed to instantiate multiple
+similar experiments by reusing the same CloudLab profiles multiple times. “Most of the time we
+use the same profile,” P4 told us.
+It was also common for users to reuse software installation and experiment instantiation scripts
+that they or a labmate wrote. P4 said,
+“We just clone our repository that has the setup scripts that we require, and execute those
+setup scripts. ”
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:12 Johanna Cohoon et al.
+This ensured that the same software environment was used and the same actions were taken
+across experiments without the time consuming manual input of each command with each replica-
+tion. If P4 did not clone the repository, they would need to use a more time consuming approach.
+Disk images too were reused in the name of efficiency and reproducibility. Reusing resources saved
+valuable time.
+Sometimes reusing resources might require editing those resources or engaging in repetitious
+behavior–our participants described abandoning those practices because they were not time savers.
+P3, for example, told us that the configuration choices they made for their cloud rendered CloudLab’s
+dataset reuse feature “a little bit tedious,” so they stopped using it.
+5.1.3 Undesirable consequences of losing time. Participants also communicated the value of time as
+a resource when describing the consequences of losing it. When time on CloudLab was unexpectedly
+lost, the downstream consequences could be significant. Participants described several scenarios
+where they had expected to spend time using the CloudLab testbed only to find it unavailable to
+them. For example, one participant was asked to surrender their experiment time to a labmate by
+their advisor, causing them to miss their publication deadline. “My advisor made me delete my
+reservation,” P9 told us. Consequently, they had to submit to a different conference with a later
+deadline. After this experience P9 learned strategies from their “resource hawk” labmates like
+“push[ing] in as many reservations as I can” to ensure P9 would not face a shortage of available
+CloudLab time in the future.
+On other occasions, nodes in a user’s cloud might fail without warning or the researcher may
+forget that an ongoing experiment needs more time. In these cases, the expected progress is arrested
+and the researcher must troubleshoot and restart the study. P8 spoke from experience:
+“Sometimes I forget to extend my experiments. . . I have been in incidents where all of
+my work has been like, deleted because the experiment is not extended, or expired. And
+unfortunately, there is no like a backup period. Or maybe, CloudLab, they don’t have to
+have the recent data somewhere. So I lost all of my work and I have to do that again. ”
+Depending on the time to deadline—usually a publication deadline—this lost time may be more
+or less precious. Lost time may require repeating a period of work like in P8’s case; the repetition
+is perceived as waste.
+5.2 Resource Sharing
+Researchers in our sample considered time as a valued resource and adopted practices like resource
+sharing to optimize their use of time. During observation and interviews, we saw that such resource
+sharing was a nuanced practice. While some users altruistically shared CloudLab time by deleting
+their node reservation, competition for nodes within a lab may still be fierce. Knowledge gained
+through experience and research may be more willingly shared, especially within a lab, and the
+collaborative code development platform Github (https://github.com/) was commonly leveraged to
+that end. However, our participants limited sharing such research artifacts prior to publishing in
+part because they believe sharing in-progress work to be a risk.
+5.2.1 Sharing among labmates. Many CloudLab users belong to research labs where multiple
+members have CloudLab accounts. We observed that lab members often shared the knowledge
+and resources they had developed with their less experienced peers. For example, labmates shared
+tutorials and the scripts they had written to install dependencies. It was also common within a lab
+to reuse any CloudLab profiles they had developed themselves. Such resource sharing saved time
+for new learners.
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:13
+However, we also saw that the use of CloudLab projects could create competition within the
+lab for resources like time. When multiple lab members belong to the same CloudLab project (a
+common occurrence), a reservation made by one member is also available for use by another. It is
+left up to the collaborators or PI to decide who has access to the reserved nodes and when. One
+participant, P3, a professor who supervises several students, uses their authority to determine how
+CloudLab time is allocated:
+“I tell them, ‘Hey, if you’re not using, I’m going to. I’m going to delete your cluster and
+I’m going to ask for those nodes. ’ So, then they have no choice but to say yes. ”
+5.2.2 Sharing time. During our interviews and observation, participants showed that they un-
+derstood CloudLab nodes to be rivalrous resources, unsharable by two users at a given time. The
+competition among lab members for CloudLab time demonstrates this, but we also saw that because
+they understood this rivalry some users were altruistically motivated to share the nodes available
+to them.
+Multiple participants told us that they would end their reservations when they had completed
+data collection so that others could use the nodes. For instance, P2 shared with us:
+“If I feel pretty confident that I’m really done then I’ll just terminate the experiment...I
+usually prefer to terminate it and give the resources back in case somebody else needs
+them, rather than just hold on to them arbitrarily for, you know, ten hours. ”
+P12 described doing the same thing in the “hope that...it will become available for...another user. ”
+P4 also described engaging this altruistic practice “as a courtesy to others.” However, P4 further
+mentioned an important caveat regarding sharing nodes—they shared nodes with others unless a
+publication deadline was approaching:
+“...Once we are sure that we are done with our use we usually terminate that reservation...As
+an avid user of CloudLab, I know how difficult sometimes it’s- it is to get those nodes. . . As
+a courtesy for other users, we just try to. . . delete the reservation once it’s done...We know
+when the paper deadline we planned to would be, so we try to keep it during that time and
+then try to have that node until the end...at least, I mean, unless the paper is submitted,
+we know that we might need it in case. ”
+Beyond just courtesy, we saw that policies may be in place to require the timely return of
+CloudLab nodes. For instance, P10 explained how they enforce the practice of releasing nodes when
+the students in their course are done using them:
+“I tell it to them in my instructions, you know. Every experiment ends with, ‘Make sure
+you delete your resources’. The last question on the lab assignment is ‘upload a screenshot
+showing that you deleted your resources’. ”
+Although we were surprised by the prevalence of this altruistic sharing of CloudLab time, we
+also heard interviewees repeat P4’s anxiety about needing nodes. P12, for instance, explained that
+they keep extra resources on hand temporarily to avoid the ramifications of unexpected failures
+and wasted time:
+“I’m making sure I reserve more nodes than needed. And then after I make sure that
+connectivity-wise the number of nodes I want are fine, I’ll just delete the rest to release
+them. In this case, I avoid this problem. ”
+5.2.3 Coordinative tools. Participants in our study had to align their use of the cloud computing
+system to fit with other users’ reservations already in place. We observed that some features of
+CloudLab such as the resource availability graphs (see Figure 2), table views of experiments, and
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:14 Johanna Cohoon et al.
+(a) Five nodes’ load average over time. A load average of 0 indicates an idle machine. As the load
+average increases, this indicates more processes running or queued up.
+(b) A table view of ongoing experiments in a shared project
+Fig. 3. Additional visualizations for coordinating time. Panel A shows how much computational power is
+used over time; a load of 0 indicates a node is idle and not in use. Panel B is a table CloudLab users can
+leverage to see how many active experiments are ongoing in the project they share with peers.
+other visualizations of computational work done during experiments (i.e., node load average, see
+Figure 3a) served as coordinative tools for managing time.
+Resource availability graphs were a standard reference point for CloudLab users. Although these
+graphs did not instruct researchers on how to use the platform, they provided information that
+was nevertheless critical to experimentation. P7, for example, relied on the visualizations to know
+when they could expect to make use of CloudLab nodes:
+“One thing I find really useful is the resource availability tab. So this, I think, especially
+during the times when the semesters are going on, it’s very hectic. There’s a lot of people I
+think using it....So, this particular graph, along with the time when they will be available,
+helps me plan my future experiments. ”
+The resource availability graphs indicate which nodes with which hardware are available to be
+used or reserved at a given time. This information allowed users to estimate not just the speed
+of their work but also which work would be accomplished. P5, for instance, used the resource
+availability graphs to determine how they would execute their study:
+Interviewer: “So, how do you decide which [experiment setup] profile you would be using?”
+P5: “Based on availability. ”
+Depending on the hardware shown to be available at the time, P5 would construct different
+clouds.
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:15
+Other participants also shared how important the resource availability graph is for coordinating
+their research efforts and estimating their time to completion. However, this sometimes led to
+frustration because pending reservations and future reservation extensions could not be included
+in the visualization. User like P9 felt their ability to plan, budget, and anticipate their time was
+hampered by this:
+“... if the availability graph actually showed included [future] reservations, I think I would
+have adjusted my own expectations to know how fast I would be able to run the experiments
+and how fast I can generate the results. ”
+Despite any shortcomings, the resource availability graphs were key tools to help users inde-
+pendently coordinate their time on CloudLab with other users. When working on a project where
+reservations are shared among members, other visualizations were also useful for managing issues
+of time. P3, for instance, leveraged information provided by the platform to know who among
+their students was “not using” their CloudLab time. A table view of all ongoing experiments and
+line graphs of each experiment’s computational work (i.e., load average) both provide records of
+CloudLab time used (see Figure 3b). P3 relied on the information provided by these tools:
+“So, if I see that the load average is zero for like, several days, then I tell them, ‘Hey, you’re
+not using it. I’m gonna use it’. ”
+5.2.4 Artifacts for the future. While collaborators could synchronously discuss the particulars of
+how to run an experiment, some of our participants also helped future researchers understand
+and reproduce their work by sharing well documented research artifacts like scripts. As this quote
+from P13 demonstrates, one common method for sharing such artifacts was using a public Github
+repository:
+“I guess it depends on the venue but the basic thing is to put everything online in the Git
+repo. So now people can find it. ”
+Github was used by nearly all of our participants but local practices for informing future read-
+ers were evident as well. P15, for instance, described their lab’s routine of sharing experiment
+documentation on their lab website:
+“We have this blog post on our lab’s website, which, basically, we try to make everything
+reproducible and open source. So for this one, we were preparing these instructions. . . When
+someone looks at our experiment, they should be able to run the basic commands and do
+it. ”
+P15’s outlook on what documentation and artifact sharing should accomplish was common
+among our participants; they held that artifacts should be useful and intelligible to future viewers.
+However, we observed different preferences for when these artifacts or materials were created
+for sharing. Some participants said that they do their documentation at the end, right before
+publication. Others explained that internal documentation created during their study is later tidied
+up for publication. For example, P6 told us:
+“So from the very beginning, we tried to make- keep guides and READMEs ready, although
+they may not be of very high quality. . . So for the best interest of the paper, we just polished
+the repository a little bit, refactored a little bit, added some comments, and send the link. ”
+Notably, while research artifacts are by definition relics of past work, some participants expressed
+that sharing them could affect future rewards. The timing of when an artifact is shared matters.
+P12 told us:
+“You do your best to have everything public. Other times because [it’s] still work in progress
+or it may lead to a different project you don’t want to make the work. . . public yet. ”
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:16 Johanna Cohoon et al.
+They elaborated:
+“Sometimes people may just want to get some information from you and use it for their
+own benefit. . . .It may be the case that they published first before you, let’s say, and then
+you don’t get credit for your effort. ”
+Thus, we found that while some researchers may be keen to share their work artifacts with
+others, concerns about receiving proper credit for their work remain.
+6 DISCUSSION
+Through semi-structured interviews and observation, we found that CloudLab users try to optimize
+their use of time when they engage with the system. Learning from peers, mentors, and trial
+and error, users develop strategies to gain and protect CloudLab time—possibly wresting it from
+colleagues. However, we also observed that CloudLab users like P2 perceived the value of CloudLab
+time to others’ and altruistically ceded it when possible, as demonstrated in Section 5.2.2.
+This generosity was unanticipated, though it is a behavior to cultivate. CloudLab developers
+seek to balance node use across time, reducing periods of scarcity to ensure that users can reserve
+time on the platform whenever needed [ 12]. Thus, recognizing this altruistic behavior, we hope
+to encourage it through design to find the balance CloudLab developers aspire for. Lindley [ 19]
+writes, “Designing for an alternative temporal experience means understanding the ways in which
+multiple temporalities intersect.” In this section, we make sense of the temporalities observed in
+the present research by using the language of prior CSCW authors. We present the rhythms of
+CloudLab time and academic deadlines as intertwined, positing that the urgency for action affects
+how users relate to CloudLab time and their willingness to share it. We then further hypothesize
+that visualizations like the resource availability graphs support the anticipation work [ 30] involved
+in aligning disparate rhythms. In light of these insights, we propose several design interventions to
+cultivate an “alternative temporal experience” [ 19] where CloudLab time is shared among users
+with greater facility.
+6.1 Aligning Rhythms
+As described in our results, we observed users working to conduct experiments, produce publica-
+tions, and manage their time. These efforts can be understood as anticipation work [ 30]. Anticipation
+work is an attempt to align present efforts with a desired future. In this case, CloudLab users took
+action to progress toward their personal and communal goals. These actions can be organized into
+Jackson et al. ’s [ 16] taxonomy of collaborative rhythms, allowing us to describe their complementary
+and conflicting nature at an abstract level.
+One salient rhythm in our data is the organizational rhythm [ 16] brought on by publications
+and conference deadlines. Our participants described engaging in new patterns of activity as
+deadlines approached. For example, in anticipation of sharing a research artifact or publishing
+a paper, CloudLab users validate their findings through replication and tidy up their scripts and
+documentation. The routine adoption of such practices in advance of a deadline reveals a rhythm.
+Like Chen et al.’s [ 8] “machine time”, the infrastructural rhythm of CloudLab time is dictated by
+the ebb and flow of free nodes. As the platform developers bring machines online and users request
+their allocation, node availability rises and falls. Duplyakin et al. [ 12] saw that CloudLab traffic
+increases when conference and semester deadlines loom; the experiences reported by participants
+in our study further attest to the salience of this rhythm.
+While we can describe these rhythms separately, in practice CloudLab users’ organizational
+and infrastructural rhythms are entangled; they must produce papers on time with the available
+facilities. Thus, we saw users engage in anticipation work to ensure alignment between the timing
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:17
+of their experiments and CloudLab node availability. Users adopted strategies akin to “scheduling
+defensively” [ 23], attempting to gather enough CloudLab time that an unanticipated loss would
+not be catastrophic. Participants reported using these strategies when working under the pressure
+of a deadline, indicating that the closeness of a temporal horizon [ 26] might prompt them to relate
+differently to infrastructural rhythms.
+Indeed, quotes like that from P4 above suggest that the value of CloudLab time to an individual
+is variable. Close horizons indicating the scarcity of time may increase its value. This would
+explain why we see scenarios like P9 learning to be a “resource hawk,” collecting more CloudLab
+time to avoid missing publication deadlines (see Section 5.1.3). The altruistic behavior we have
+observed can also be understood as an example of this pattern. CloudLab users who have flexible
+and distant horizons have little urgency to their work [ 26] and can, therefore, surrender their
+low-value CloudLab time to others who would value it more. Instead of engaging in anticipation
+work to protect their personal CloudLab time they try to conjure a future where CloudLab time is
+collectively optimized.
+It is this collective optimization that we hope to nurture through design. We next posit that visu-
+alizations played an important role in cultivating altruistic behaviors and supporting anticipation
+work on CloudLab before turning to the design implications of our results and discussion.
+6.2 Visualizing Resource Availability
+We observed that CloudLab users heavily relied on the resource availability graphs (see Figure 2)
+to support their planning and, therefore, anticipation work. Participants referred to these graphs
+regularly to know which nodes would be free for use.
+In light of our literature review and the findings presented above, we hypothesize that the routine
+use of resource availability graphs fostered a collective understanding of CloudLab time and its
+rivalrous nature. A shared or “collective” [ 19] understanding of time may be developed through
+visualizations that simplify mental processes and provide a standard reference to organize action
+around [ 3,5,16,30]. Visualizations thus promote the awareness that CSCW authors have shown is
+critical to coordination [ 11]. The resource availability graphs appear to fill this role by visualizing
+how others’ use of CloudLab constrains the instantiation of new experiments. P5, as previously
+described, chose which experiment profile to use based on how many of which machines were
+available at the time. In this way, the resource availability graphs allow individuals to align their
+own rhythms with the collective’s, possibly optimizing for mutual benefit.
+Individuals may align themselves with the infrastructural rhythm set by all CloudLab users,
+but, as noted in our results, this alignment may also occur at a more local level within labs and
+classrooms. For example, within labs, we saw that colleagues leveraged visualizations other than
+the resource availability graphs to draw conclusions about who needed CloudLab time most. P3
+relied on information like that shown in Figure 3 of Section 5.2.3 to align their students’ work
+rhythms for maximum productivity within the lab, determining who would make the best use of
+CloudLab time. These additional visualizations supported anticipation work at a more local level
+than the resource availability graphs.
+6.3 Designing for an Alternative Temporal Experience
+While the resource availability graphs appear to be useful tools for planning, our findings suggest
+two additional opportunities to further develop the altruistic behavior we witnessed and otherwise
+support the anticipation work of coordinating CloudLab time.
+6.3.1 Reconciling organizational and infrastructural rhythms. First, we can support the anticipation
+work that reconciles organizational rhythms like publication deadlines and semester schedules
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:18 Johanna Cohoon et al.
+with infrastructural rhythms. Participants in our study leaned heavily on the resource availability
+graphs to align their need for CloudLab time with the reservations and ongoing experiments
+already in place. In light of our hypothesis that these graphs afforded a collective sense of CloudLab
+time, we could maximize this shared understanding through new visualizations and supplements
+to the existing graphs. Specifically, these new visualizations would communicate not just the
+infrastructural rhythm of node availability, but also how it intersects with organizational rhythms.
+With such additional shared resources, CloudLab users could plan more effectively. For example,
+the resource availability graph could indicate expected periods of high demand, signaling to users
+that they should reserve nodes early. In this case, the week in advance of a popular conference’s
+deadline might be highlighted in red, indicating the high likelihood of resource scarcity. Another
+similar design intervention could involve collecting data from users making reservations, asking
+them what deadline they are working toward. While responses would not affect the decision
+to approve their reservation request, the data could be made visible to other CloudLab users to
+indicate the sense of urgency their peers have. A banner reading “13% of CloudLab users are
+working toward a deadline at midnight tonight” might prompt a user with unneeded nodes to
+cede them for others’ use. Our strategy with these interventions, like Begole et al. [ 5], Fisher and
+Dourish [ 13], and Morrison-Smith et al.’s [ 21], would be to increase awareness of the multitude of
+peers’ work rhythms, affording better coordination. With this strategy in place, users would be
+able to more accurately compare their own need for CloudLab time to others’, hopefully yielding
+altruistic behavior.
+6.3.2 Using trajectories to anticipate. Second, we observed that anticipation work occurred to align
+individuals with the rhythms of both the collective CloudLab user base and their local lab group.
+When members of a lab group were part of the same CloudLab project, they shared access to the
+same reservations and thus had to coordinate how they spent CloudLab time. As specified above,
+this anticipation work involved visualizations other than the resource availability graphs like the
+load average graphs. It also sometimes led to competition among colleagues. “The fastest person
+wins,” P9 told us. An additional design implication of the present work is, therefore, to further
+support anticipation work at the project level, ideally reducing competition through facilitated
+planning.
+This support could help colleagues establish temporal trajectories like those used by the SICU
+staff in Reddy et al. ’s [ 26] ethnography. While Reddy et al. [ 26] use the term temporal trajectory to
+refer specifically to a patient’s recovery status, we employ the term here more broadly. A temporal
+trajectory, in our sense, is the status of an individual as inferred by others. With a clear sense of
+their colleagues’ experimental temporal trajectories, other project members may be better able to
+anticipate how their desired infrastructural rhythms interact. If a trajectory is known to be behind
+schedule, for instance, this may signal to colleagues that they should delay their own non-urgent
+work, keeping CloudLab time available for their lagging peer.
+In practice, supporting anticipation work by publicizing temporal trajectories could take many
+forms. One option is to simply visualize resource availability at the project level, drawing particular
+attention to colleague’s work rhythms as opposed to all CloudLab users’. Also, similar to the
+above-mentioned options for publicizing deadlines, the approach illustrated in Figure 4 could be
+used to indicate project members’ deadlines and progress toward them. The knowledge that a
+labmate is troubleshooting and aiming for a deadline two months from now would establish a
+very different temporal trajectory from the knowledge that they are replicating their findings for a
+near-term deadline. While this strategy would likely not scale well, it could incite more altruistic
+behavior among labmates and collaborators.
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:19
+Fig. 4. A proposed visualization to add to CloudLab. This visualization displays nodes reserved by the user
+(in orange) and their group members (in blue) over time. A calendar feature allows users to share important
+deadlines and tag those deadlines with their current status (e.g., debugging). We hypothesize this chart
+will raise awareness of project members’ deadlines and their progress toward them, creating a collective
+understanding of time and enabling anticipation work.
+Interestingly, while we expect that raising awareness of project members’ temporal trajectories
+would be useful for coordination, our data also suggest that such information could introduce new
+social complications. As many authors have recognized, allocating time is an exercise of power and
+a judgment on the value of an activity [ 16,20,29]. P3 showed us that PIs may use their power to
+re-allocate CloudLab time among subordinates based on their evaluation of how well that time is
+being spent (see Section 5.2.1). Thus, while design interventions like that shown in Figure 4 are
+intended to yield a more informed approach than P9’s “fastest person wins” strategy, they may also
+increase the likelihood of disputes over authority and research value. Prior authors have raised
+concerns about issues of privacy when visualizing automatically collected activity traces [ 13]; it
+is possible that establishing a temporal trajectory by manually tagging deadlines would mitigate
+concerns of being “outed.”
+6.4 Future Work and Implications for Other Systems
+In future work, we plan to validate the ideas put forth in our discussion. Following the example of
+prior literature (e.g., [ 5,13,21]), we can augment the insights from our qualitative data with those
+derived from quantifiable activity traces. With such traces, we will be able to evaluate the efficacy
+of our proposed interventions like the banner showing the urgency of users’ work. For example,
+we could compare the frequency with which reservations are ended early (an altruistic behavior)
+before and after the banner is introduced.
+The empirical evaluation of methods to support anticipation work has value beyond our own
+research setting. The concerns with time evident in our data are also visible in other rivalrous
+cyberinfrastructure systems in science. Chen et al. [ 8], for example, described their study participants
+as having similar goals to the CloudLab developers: “The HPC center staff juggle complex temporal
+rhythms, attempting to meet scientists’ needs while maintaining high system utilization.” Further
+parallels can be made between the present study and Chen et al.’s [ 8]. For instance, system users
+in both cases were troubled by what they viewed as wasted time spent on moving data between
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:20 Johanna Cohoon et al.
+storage systems or setting up environments. Additionally, the timing of publications, conferences,
+and courses are relevant to the use of any scholarly infrastructure—not just CloudLab.
+Therefore, while our case is unique, the insights we have developed are applicable to other scien-
+tific systems. We have proposed that temporal trajectories [ 26] have utility beyond their original
+medical context and can be employed as a useful cue for anticipation work in other cooperative
+settings. Other CSCW authors may find this broader interpretation of the concept useful as well.
+Furthermore, we have recognized the entangled nature of publications and academic calendars
+with infrastructural rhythms, positing that anticipation work can be facilitated by visualizing
+the relationships between those rhythms. Other scientific cyberinfrastructure systems might also
+explore how the timing and activities of their users are structured by the rhythms of academia.
+They can use design as an opportunity to lean into the anticipation work their users already partake
+in. A conscientious approach is necessary, however, as a person’s temporal trajectory could be used
+against them if made public.
+Finally, we encourage other researchers and cyberinfrastructure developers to establish partner-
+ships such as the one we have with CloudLab. While other studies have considered the relationship
+between time and use of scholarly cyberinfrastructure systems (e.g., [ 3,5,8,10,16,27,29]), this
+work (like ours here) is rarely hypothesis driven (an exception is [ 21]). We look forward to breaking
+this mold in future by evaluating our proposed interventions, an effort that will be greatly facilitated
+by our partnership. The research process from recruitment to data collection will benefit from
+our collaboration with CloudLab developers. Unlike us, these collaborators have ready access
+to users and the ability to make interface changes. In turn, the platform will benefit from our
+empirical findings and the opportunity to offload user research onto experienced scholars. Our
+collaboration is funded by the National Science Foundation, and is predicated on the idea that our
+work will enhance the CloudLab user experience. Partnerships like this can both improve scholarly
+infrastructure as well as our ability to test CSCW theory.
+7 CONCLUSION
+Scientific researchers demonstrate altruistic behaviors when performing research with a free-of-
+cost but rivalrous scientific software or platform. This paper presented the qualitative study of
+such a platform for cloud computing research, focusing on how its users established different
+rhythms of activity structured by the influence of the academic calendar and publication priorities.
+We observed the importance of time as a resource and seek to further cultivate the altruistic
+time sharing practices that some of our participants engaged in. To that end and in light of prior
+literature, we have proposed concrete opportunities for design interventions. Our strategy across all
+possible interventions is to increase users’ awareness of the rhythms affecting their peers’ platform
+use, allowing coordination based not just on knowledge of CloudLab reservations but also on
+users’ progress toward deadlines. The implications of this work inform the design of other similar
+cyberinfrastructure systems in science where users independently coordinate the use of resources.
+ACKNOWLEDGMENTS
+This material is based upon work supported by the National Science Foundation under Grant No.
+2027208. We would also like to thank the CloudLab developers and Robert Ricci, in particular,
+for their time and feedback as we conducted our research and prepared this paper, and to Isha
+Ghosh, who contributed to data collection efforts. Such thanks also go to our participants who we
+hope will benefit from this work. We would further like to acknowledge Sarah Bratt for piquing
+our interest in anticipation work. Finally, thank you to the anonymous reviewers who provided
+valuable feedback to better situate this research and help us think through its implications.
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+Cultivating Altruism in a Scholarly Community 336:21
+REFERENCES
+[1]2020. Artifact Review and Badging - Current. https://www.acm.org/publications/policies/artifact-review-and-badging-
+current
+[2]Vincanne Adams, Michelle Murphy, and Adele E Clarke. 2009. Anticipation: Technoscience, life, affect, temporality.
+Subjectivity 28, 1 (Sept. 2009), 246–265. https://doi.org/10.1057/sub.2009.18
+[3]Cecilia R. Aragon, Sarah S. Poon, Gregory S. Aldering, Rollin C. Thomas, and Robert Quimby. 2008. Using visual
+analytics to maintain situation awareness in astrophysics. In 2008 IEEE Symposium on Visual Analytics Science and
+Technology . 27–34. https://doi.org/10.1109/VAST.2008.4677353
+[4]M L Badger, T Grance, R Patt-Corner, and J Voas. 2012. Cloud computing synopsis and recommendations . Technical
+Report NIST SP 800-146. National Institute of Standards and Technology, Gaithersburg, MD. NIST SP 800–146 pages.
+doi.org/10.6028/NIST.SP.800-146
+[5]James "Bo" Begole, John C Tang, Randall B Smith, and Nicole Yankelovich. 2002. Work Rhythms: Analyzing Visu-
+alizations of Awareness Histories of Distributed Groups. In Proceedings of the 2002 ACM Conference on Computer
+Supported Cooperative Work (CSCW ’02) . Association for Computing Machinery, New Orleans, Louisiana, USA, 334–343.
+https://doi.org/10.1145/587078.587125
+[6]Matthew J. Bietz, Eric P. S. Baumer, and Charlotte P. Lee. 2010. Synergizing in Cyberinfrastructure Development. In
+Computer Supported Cooperative Work (CSCW) , Vol. 19. 245–281. https://doi.org/10.1007/s10606-010-9114-y
+[7]Virginia Braun and Victoria Clarke. 2006. Using thematic analysis in psychology. Qualitative Research in Psychology 3,
+2 (Jan. 2006), 77–101. https://doi.org/10.1191/1478088706qp063oa
+[8]Nan-Chen Chen, Sarah Poon, Lavanya Ramakrishnan, and Cecilia R. Aragon. 2016. Considering Time in Designing
+Large-Scale Systems for Scientific Computing. In Proceedings of the 19th ACM Conference on Computer-Supported
+Cooperative Work & Social Computing (CSCW ’16) . Association for Computing Machinery, San Francisco California
+USA, 1535–1547. https://doi.org/10.1145/2818048.2819988
+[9]Adele E Clarke. 2016. Anticipation Work: Abduction, Simplification, Hope. In Boundary Objects and Beyond . MIT Press,
+85–119.
+[10] Alessandro Delfanti. 2016. Beams of particles and papers: How digital preprint archives shape authorship and credit.
+Social Studies of Science 46, 4 (Aug. 2016), 629–645. https://doi.org/10.1177/0306312716659373
+[11] Paul Dourish and Victoria Bellotti. 1992. Awareness and coordination in shared workspaces. In Proceedings of the
+1992 ACM Conference on Computer-Supported Cooperative Work (CSCW ’92) . Association for Computing Machinery,
+Toronto, Ontario, Canada, 107–114. https://doi.org/10.1145/143457.143468
+[12] Dmitry Duplyakin, Robert Ricci, Aleksander Maricq, Gary Wong, Jonathon Duerig, Eric Eide, Leigh Stoller, Mike Hibler,
+David Johnson, Kirk Webb, Aditya Akella, Kuangching Wang, Glenn Ricart, Larry Landweber, Chip Elliott, Michael
+Zink, Emmanuel Cecchet, Snigdhaswin Kar, and Prabodh Mishra. 2019. The Design and Operation of CloudLab. In
+Proceedings of the 2019 USENIX Conference on Usenix Annual Technical Conference .
+[13] Danyel Fisher and Paul Dourish. 2004. Social and temporal structures in everyday collaboration. In Proceedings of the
+SIGCHI Conference on Human Factors in Computing Systems (CHI ’04) . Association for Computing Machinery, Vienna,
+Austria, 551–558. https://doi.org/10.1145/985692.985762
+[14] Anthony Giddens. 1986. The Constitution of Society: Outline of the Theory of Structuration . University of California
+Press.
+[15] James Howison and James D. Herbsleb. 2013. Incentives and integration in scientific software production. In Proceedings
+of the 2013 Conference on Computer Supported Cooperative Work (CSCW ’13) . Association for Computing Machinery,
+San Antonio, Texas, USA, 459–470. https://doi.org/10.1145/2441776.2441828
+[16] Steven J. Jackson, David Ribes, Ayse Buyuktur, and Geoffrey C. Bowker. 2011. Collaborative rhythm: temporal
+dissonance and alignment in collaborative scientific work. In Proceedings of the ACM 2011 Conference on Computer
+Supported Cooperative Work (CSCW ’11) . Association for Computing Machinery, Hangzhou, China, 245–254. https:
+//doi.org/10.1145/1958824.1958861
+[17] Marina Jirotka, Charlotte P. Lee, and Gary M. Olson. 2013. Supporting Scientific Collaboration: Methods, Tools and
+Concepts. Computer Supported Cooperative Work (CSCW) 22 (Aug. 2013), 667–715. https://doi.org/10.1007/s10606-012-
+9184-0
+[18] Leslie Lamport. 1978. Time, clocks, and the ordering of events in a distributed system. Commun. ACM 21, 7 (July 1978),
+558–565. https://doi.org/10.1145/359545.359563
+[19] Siân E. Lindley. 2015. Making Time. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative
+Work & Social Computing (CSCW ’15) . Association for Computing Machinery, Vancouver, BC, Canada, 1442–1452.
+https://doi.org/10.1145/2675133.2675157
+[20] Melissa Mazmanian, Ingrid Erickson, and Ellie Harmon. 2015. Circumscribed Time and Porous Time: Logics as
+a Way of Studying Temporality. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative
+Work & Social Computing (CSCW ’15) . Association for Computing Machinery, Vancouver, BC, Canada, 1453–1464.
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.
+336:22 Johanna Cohoon et al.
+https://doi.org/10.1145/2675133.2675231
+[21] Sarah Morrison-Smith, Lydia B Chilton, and Jaime Ruiz. 2021. AmbiTeam: Providing Team Awareness Through
+Ambient Displays. In Proceedings of the 2021 International Conference on Graphics Interfaces . Association for Computing
+Machinery. https://sarahmorrisonsmith.com/wp-content/uploads/2022/01/AmbiTeam-Providing-Team-Awareness-
+Through-Ambient-Displays.pdf
+[22] Wanda J. Orlikowski and JoAnne Yates. 2002. It’s about Time: Temporal Structuring in Organizations. Organization
+Science 13, 6 (2002), 684–700. https://doi.org/10.1287/orsc.13.6.684.501
+[23] Leysia Palen. 1999. Social, Individual & Technological Issues for Groupware Calendar Systems. In Proceedings of
+the SIGCHI Conference on Human Factors in Computing Systems (CHI ’99) . Association for Computing Machinery,
+Pittsburgh, PA, USA, 17–24. https://doi.org/10.1145/302979.302982
+[24] Elena Parmiggiani, Eric Monteiro, and Vidar Hepsø. 2015. The Digital Coral: Infrastructuring Environmental Monitoring.
+Computer Supported Cooperative Work (CSCW) 24, 5 (Oct. 2015), 423–460. https://doi.org/10.1007/s10606-015-9233-6
+[25] Maria Puig de la Bellacasa. 2015. Making time for soil: Technoscientific futurity and the pace of care. Social Studies of
+Science 45, 5 (Oct. 2015), 691–716. https://doi.org/10.1177/0306312715599851
+[26] Madhu C. Reddy, Paul Dourish, and Wanda Pratt. 2006. Temporality in Medical Work: Time also Matters. Computer
+Supported Cooperative Work (CSCW) 15, 1 (Feb. 2006), 29–53. https://doi.org/10.1007/s10606-005-9010-z
+[27] David Ribes and Thomas A. Finholt. 2007. Planning infrastructure for the long-term: Learning from cases in the
+natural sciences. In Proceedings of the Third International Conference on e-Social Science . Ann Arbor, MI. http:
+//interoperability.ucsd.edu/docs/RibesFinholt07_LearningFromEScience.pdf
+[28] Susan Leigh Star and Karen Ruhleder. 1996. Steps Toward an Ecology of Infrastructure: Design and Access for Large
+Information Spaces. Information Systems Research 7, 1 (1996), 111–134.
+[29] Stephanie B. Steinhardt and Steven J. Jackson. 2014. Reconciling rhythms: plans and temporal alignment in collaborative
+scientific work. In Proceedings of the 17th ACM Conference on Computer Supported Cooperative Work & Social Computing
+(CSCW ’14) . Association for Computing Machinery, Baltimore, Maryland, USA, 134–145. https://doi.org/10.1145/
+2531602.2531736
+[30] Stephanie B. Steinhardt and Steven J. Jackson. 2015. Anticipation Work: Cultivating Vision in Collective Practice. In
+Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW ’15) .
+Association for Computing Machinery, Vancouver, BC, Canada, 443–453. https://doi.org/10.1145/2675133.2675298
+[31] Richard H Thaler and Cass R Sunstein. 2009. Nudge: Improving Decisions About Health, Wealth, and Happiness . Penguin
+Books.
+[32] Erik H. Trainer, Chalalai Chaihirunkarn, Arun Kalyanasundaram, and James D. Herbsleb. 2015. From Personal Tool
+to Community Resource: What’s the Extra Work and Who Will Do It?. In Proceedings of the 18th ACM Conference
+on Computer Supported Cooperative Work & Social Computing (CSCW ’15) . Association for Computing Machinery,
+417–430. https://doi.org/10.1145/2675133.2675172
+[33] Judy Wajcman. 2019. The Digital Architecture of Time Management. Science, Technology, & Human Values 44, 2 (March
+2019), 315–337. https://doi.org/10.1177/0162243918795041
+Received January 2023; revised April 2023; accepted May 2023
+Proc. ACM Hum.-Comput. Interact., Vol. 7, No. CSCW2, Article 336. Publication date: October 2023.

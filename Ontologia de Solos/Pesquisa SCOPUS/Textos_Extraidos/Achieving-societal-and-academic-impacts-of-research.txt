@@ -1,0 +1,1296 @@
+Science and Public Policy , 2022, 49, 728–738
+DOI: https://doi.org/10.1093/scipol/scac022
+Advance Access Publication Date: 13 May 2022
+Article
+Achieving societal and academic impacts of research:
+A comparison of networks, values, and strategies
+Jonna Brenninkmeijer *
+Department of Ethics, Law & Humanities, Amsterdam University Medical Center, Amsterdam Medical Center, University of Amsterdam,
+Meibergdreef 9, Amsterdam 1105 AZ, The Netherlands and Theory and History of Psychology, University of Groningen, Grote Kruisstraat
+2/1, Groningen 9712 TS, The Netherlands
+*Corresponding author. E-mail: j.m.brenninkmeijer@amsterdamumc.nl
+Abstract
+Science policymakers and funding agencies are increasingly interested in the societal impact of research. In practice, this means that, when
+applying for funding, researchers have to justify the academic impact (e.g. publications and conferences) and the societal impact (e.g. influence
+on policy and practice) of their proposed research. This paper aims to find out how these requirements relate by comparing two ethnographic
+case studies of research in health care and health assessment that aim to combine both forms of impact. I analyze the networks, values, and
+strategies in both research groups, and show that achieving societal and academic impacts are different research practices. Hence, I argue that
+academic and societal impacts should not simply be added up as requirements for research funding or academic career development but should
+be understood and appreciated on their own terms.
+Key words: research impact; social relevance; ethnographic research; good science; social studies of science; research integrity.
+1. Introduction
+In the last decades, science has become increasingly com-
+petitive and output focused. This is probably due to a
+decrease in the share of governmental funding and the intro-
+duction of businesslike models in science policy in many
+European countries and the USA ( Auranen and Nieminen
+2010;Bornmann 2012 ). Scientists have to account for their
+research activities, for example, by defending their research
+plans and the expected impact of their research in proposals
+that are reviewed and funded by external organizations. As
+a result, the question, what research impact is, has become
+an important topic for research organizations and science
+policymakers. This is also reflected in the academic litera-
+ture. According to Web of Knowledge, for example, there
+was a doubling in papers on the topic of research impact
+in the past 5years and an almost tenfold increase in the
+past 15years.1In these papers, researchers not only dis-
+cuss the value of traditional indicators for academic impact
+(e.g. citations), but also urge to include impacts of societal
+relevance (e.g. policy advice) and discuss how to evaluate
+both forms of impact ( Bornmann 2013 ;Hicks et al. 2015 ;
+Hirsch 2005 ). Accordingly, research institutions and science
+policymakers typically encourage scientists to achieve both
+forms of impact with their research. Hence, the question
+what it practically means to combine both forms of impact
+has become urgent. This paper explores how societal and
+academic impacts relate, not by focusing on the outcomes
+or evaluation of research but by studying the activities to
+achieve these forms of impact with two ethnographic case
+studies.2. Academic and societal impacts
+Research impact has long been seen as a strictly academic
+concern—measurable with academic indicators such as a
+number of papers and citations (e.g. Hirsch 2005 ). Only since
+recently, it has been argued that research impact should also
+include societally relevant forms of impact ( Bornmann 2012 ;
+Dance 2013 ;Weijden van der et al. 2012 ). One example of an
+initiative to change (and improve) the evaluation of research
+is the widely shared and signed San Francisco Declaration on
+Research Assessment, first developed in 2012. DORA (2018)
+advises academic institutions and funding agencies: ‘in addi-
+tion to research publications, [and] consider a broad range of
+impact measures including qualitative indicators of research
+impact, such as influence on policy and practice’. In prac-
+tice, this means that the quest for societal relevance emerged
+as an additional requirement for researchers. Most research
+proposal formats encourage to describe the envisioned impact
+of the research in terms of publications and invited lec-
+tures and the societal relevance of the project. Impact is, for
+example, specified as scientific impact, societal impact, and
+output.2Researchers can also be asked to write a 750-word
+text on ‘Knowledge Utilization’ by answering questions like:
+‘Which contribution can the research make to society and/or
+to other scientific areas?’3This demonstrates that researchers
+are nowadays asked to extend their academic qualities with
+societal qualities.
+Researchers are used to framing their work in terms of
+academic output, but what societal impact precisely entails
+is less clear to many of them (de Jong et al. 2016 ). Fund-
+ing agencies and reviewers also appear to have different
+© The Author(s) 2022. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/ ),
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.Downloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+Science and Public Policy 729
+criteriaforwhatsocietalimpactmeans( Meirmansetal. 2019 ;
+Lauronen 2020 ). Societal impact is sometimes measured in
+outcomessuchasbooks, mediaperformances, ordirectlycon-
+sumable or marketable products ( Bornmann 2012 ). Other
+proposedimpactmeasurementsofsocietalimpactcanbe‘pro-
+ductiveinteractions’withstakeholders, contributiontopolicy
+or practice, or disseminating knowledge to other fields or
+the media ( Morton 2015 ;Spaapen and van Drooge 2011 ;
+Viana-LoraandNel-lo-andreu2021 ). Howthisfocusonsoci-
+etalimpactinfluencesorrelatestoacademicqualityisanother
+concern that is addressed ( Ramos-Vielba et al. 2018 ;Weijden
+van der et al. 2012 ). Less addressed in the literature, how-
+ever, is what criteria and logics are actually at play in these
+research evaluation studies ( Williams 2020 ), let alone in the
+research practices to achieve societal and academic impact
+themselves. Moreover, most qualitative research on research
+impact is based on interviews, while ethnographic studies are
+less common in this field.
+This paper examines the relation between societal and aca-
+demicimpacts, notbyfocusingontheoutcomesorevaluation
+of research, nor by studying the ideas of researchers or stake-
+holders with structured interviews or questionnaires, but by
+ethnographically studying the practices to achieve these two
+forms of impact. While Williams (2020) asked what values
+are attributed or created according to the logics of different
+‘power fields’ in research evaluation such as science, media,
+or politics, I focused on the research practices themselves and
+studied what actors are involved in the research networks,
+what values these actors embraced, and what strategies were
+needed to achieve societal and academic impact.
+I followed the daily practices of a research group in reha-
+bilitation medicine that aimed to improve the organization of
+health care and of a research group in Medical Technology
+Assessment (MTA) that aimed to develop a tool to measure
+patients’ quality of life.4Both project teams aimed for aca-
+demic and societal impacts, but the studied practices in the
+health care project were more focused on societal impact
+(solve societal problems, reach broader audiences, and non-
+academic collaborations), while the observed practices to
+develop the measuring instrument were mainly targeted at
+academic impact (publications, methods, and results). This
+offered the opportunity to carefully analyze and compare
+what networks, values, and strategies were used to achieve
+societal and academic impacts.
+3. Studying research in practice
+From September 2017 to May 2018, I conducted ethno-
+graphic fieldwork to study the daily research practices in two
+medical research projects (see Appendix for an overview of
+the case studies).5The first project was a transdisciplinary
+action research that aimed to improve health care for patients
+by developing a new coaching approach.6The other was a
+methodological project that aimed to develop a measuring
+instrument(anapp)thatpatientsorcaregiverscanusetomea-
+sure patients’ quality of life. These specific case studies were
+selected because they were comparable—both were studies in
+health research, and aimed to combine academic and soci-
+etal impact—but also because they were typical, using quite
+different methods and results (action research versus devel-
+oping a measuring tool).7In both settings, I started withan interview with the project leaders (Alice and Peter) and
+I attended research meetings with the project team, inter-
+actions with stakeholders, project or unit celebrations, and
+presentations to colleagues. I also had access to some email
+conversationsandrelevantdocuments. Inbetweenthesemeet-
+ings, I had many conversations with project team members or
+stakeholders.
+The notes that I made during the meetings, together with
+the documents and interview transcripts, form the material
+that was analyzed for this paper.8I analyzed this material
+(using AtlasTI 8.0) by studying the observed meetings and
+events as practices of care. Studying scientific practices as
+practicesofcareisinspiredbyScienceandTechnologyStudies
+(STS) scholars who aimed to find out what good health care
+is (Mol 2002 ,2008;Pols 2004 ). Instead of making judgments
+about what care practices are or work best, these scholars
+studied the norms and values, or the logics, of the practition-
+ers, patients, used technologies, etc., in various health care
+settings. Byarticulatingthe(conflicting)norms, values, orlog-
+ics in these practices, Pols (2015) and others demonstrated
+that it is possible to show a(n) (intra)normativity based on
+the values in the field and hence to find out how good care is,
+or could be, achieved in the specific situation. Since recently,
+the notion of care has also entered other fields of STS to study
+how normative values and logics are or could be involved, for
+example, in bioscience, chemistry, or soil science (e.g. Kerr
+and Garforth 2016 ;Myers 2008 ;Puig de la Bellacasa 2015 ).
+Inspired by these care studies, I aimed to find out how the
+researchers in the health care and health assessment projects
+‘cared’ about good science in the sense of societal and/or aca-
+demic impact. For this, I basically focused on the following:
+who cares; about what; and how. To find out ‘who cares’
+I studied the socio-material networks of the two research
+projects.9Taking social and material actors into account was
+importantbecauseresearchisclearlynotproducedbyhumans
+only—statistical programs, models, papers, graphs, etc., can
+have very important and normative roles as well. For exam-
+ple, a statistical program can define if a result is significant; a
+graphshowsifatendencyisnormal,etc.Tounderstand‘what’
+these actors care about I studied the values involved in their
+actsorphrasings(e.g. whatdotheyseeasimportantorgood).
+Next, to understand ‘how’ these actors or networks cared for
+academicand/orsocietalimpact,Istudiedwhatstrategiesthey
+used to achieve these forms of impact.
+Comparing these networks, values, and strategies made it
+possible to study the differences in the activities to achieve
+societal and academic impacts and to connect these to some
+analytical concepts in STS. As I will show, achieving soci-
+etal and academic impacts exhibit some dissimilarities that
+can be summarized as different forms of Boundary work
+(e.g.Burri 2008 ;Gieryn 1983 ). While activities to achieve
+societal impact were primarily focused on bridging bound-
+aries by making connections to other fields and actors,
+activities to achieve academic impact were targeted on demar-
+cating boundaries by accentuating divisions with other the-
+ories or fields of knowledge. Another difference concerned
+practices that could be phrased as Knowledge translation—
+activitiestodisseminateknowledgetootherfields(e.g. Latour
+2005;Michael 2017 ). In order to achieve societal impact,
+researchers needed to adapt to other cultures or fields to
+explainorpromotetheirknowledgewhileachievingacademic
+impact was especially practiced by emphasizing the noveltyDownloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+730 Science and Public Policy
+and differences in regard to other fields (or publics). Another
+differencethatresultedfrommyanalysiscouldbesummarized
+as a difference in Research scope . I noticed and will show that
+achieving societal impact was more focused on the complex-
+ity of the (actual) situation while achieving academic impact
+aimed to reduce or simplify this complexity, for example,
+with models or statistics (e.g. Law and Mol 2002 ). Finally,
+I noticed a difference in regard to Forms of knowledge—
+explanations that refer to explicable or inexplicable forms of
+knowledge ( Collins 2010 ). It was striking that achieving soci-
+etal impact was often explained with tacit or intuitive forms
+of knowledge, while to achieve academic impact, it seemed
+important to emphasize the logic of an argument.
+In the next sections, I will first describe my analysis of the
+networks (4), values (5), and strategies (6) of both research
+groups. Next, I compare the practices to achieve societal and
+academic impacts and show that these exhibit some dissimi-
+larities in regard to boundary work, knowledge translation,
+research scope, and forms of knowledge (7). Finally, in (8), I
+reflect on the fact that funders generally ask to combine both
+forms of impact and do some further suggestions on how to
+take the differences highlighted by my analysis into account.
+4. Networks
+4.1 Network to improve health care
+The health care project proposal was developed and submit-
+ted in 2017 by Alice, a senior researcher in rehabilitation
+medicine, in close collaboration with Layla, an assistant
+professor in social geography. In a previous project, Alice
+and Layla had developed a social geographical approach for
+patient care, which they wanted to elaborate in this project.
+The research team furthermore included Babette, a social
+scientist who has developed an integrated methodology to
+encourage and evaluate shared learning in societal relevant
+research; and Rob, a professor in active aging who was also
+the official lead applicant of the project. During the offi-
+cial project term, from May 2018 till Dec 2019, a junior
+researcher (Lucy), a former patient who now works as an
+experience expert (Eva), and a process manager (Monika)
+were also part of the project. The health care study was
+divided into three experimental fields: rehabilitation care,
+elderly care, and community care. In these fields, 15 health
+care workers with different backgrounds (physiotherapists,
+visiting nurses, etc.) were trained to use the social geographi-
+cal perspective developed by Alice and Layla in their coaching
+of patients. In addition, around seven managers of the organi-
+zations helped to facilitate the research as experimental field
+leaders.
+All these project members and stakeholders participated
+actively in project events (meetings or trainings). More indi-
+rect actors, who were nevertheless important, were the
+patients. Theydidnotactuallyparticipateintheprojectevents
+but were present in the form of case studies of successful or
+unsuccessful coaching, as interview participants in the quali-
+tative action research, and they were represented by Eva, the
+experience expert, who voiced the perspective of patients. So,
+although patients were not physically around in the project
+meetings, they were involved in multiple ways (case studies,
+interviews, and Eva).
+Besides people, materials and images were also involved.
+Especially important was the social geographical perspec-
+tive of the coaching strategy. It was represented with avariety of pictures, schemes, or summaries in presentations
+or documents. This perspective was not only visualized to be
+explained but also to be used: for example, in the form of a
+‘working frame’—a scheme about past, present, and future
+situations for patients, or in graphics that health care workers
+made about the situation of their patients. Another important
+toolinthehealthcareprojectwasamarker-drawnflowerthat
+summarizedallproblemsthehealthcareworkershadbrought
+up at the start of the project: it was repeatedly used in train-
+ings and meetings to visualize the problems of the health care
+workers that were solved or still had to be solved.
+The health care project did not only involve a diversity of
+researchers, stakeholders, patients (case studies), and some
+materials, it also extended to a variety of places. Besides
+collaborating by email or phone, the researchers and stake-
+holders often met in person. These meetings took place
+all over the city: in offices of health care organizations or
+the municipality; various faculty buildings (medical science,
+social geography, management, and business); and some
+catering establishments or lecturing rooms. That is, typical
+for the socio-material network in this health care project was
+that it was broad, not only socially (researchers, health care
+workers, managers, and ‘patients’) and materially (visualiza-
+tions of problems and theories) but also spatially. It expanded
+to, and ultimately connected, a variety of places.
+4.2 Network to develop the measuring instrument
+The leader of the project to develop the measuring instrument
+was Peter, an associate professor and the head of an MTA
+unit of epidemiology. The aim of this project was to develop
+a measurement tool (an app) that patients or their caregivers
+can use to measure their quality of life. The instrument is
+especially meant to be used in clinical and research settings,
+and it was developed by Peter in collaboration with two
+senior researchers (Tanja and Kate) and a postdoc (Gabriel)
+from the MTA unit, and two researchers (Rick and Valery)
+from a European food industry that also finances the project.
+The development of the measuring instrument had started
+with interviews with patients and physicians (mostly done
+by Gabriel). The responses were then translated into ques-
+tionnaires for the general population and administered by a
+national research company. The technological development
+of the app was conducted by a company in Eastern Europe.
+When I started to observe the research activities in this
+project, the project was in the final stage—which meant that
+Gabriel still had 8 months left from his 3 years postdoc posi-
+tion. The studies were done, the data were collected, the app
+was in development, and the team was in a stage of focus-
+ing on writing papers. The research team (Peter, Tanja, Kate,
+and Gabriel) had meetings at least once a week, and the com-
+munication with the food industry (Western Europe), the app
+developer (Eastern Europe), and the research company (other
+side of the country) went by phone or video calling.
+The project to develop the measuring instrument was part
+of MTA, which was part of epidemiology, and part of a
+research collaboration that involved members of MTA and
+economy. And since Peter was the head of MTA and the
+research collaboration with the economics, the measuring
+instrument was also centrally discussed in these groups. The
+meetings with the project team, other MTA members, epi-
+demiologists, and the economists all took place in academic
+offices or rooms, and most of them within the epidemiologyDownloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+Science and Public Policy 731
+building. Moreover, the meetings with the companies from
+abroad also took place in the academic offices, since these
+were all virtual.
+In the discussions and presentations of the research team,
+(statistical)resultsintheformoftablesorgraphs, andpictures
+and online prototypes of the app were dominant aspects. The
+results were often discussed (‘It is lovely data’, ‘What about
+thesep-values?’; ‘We have problems with the figures. They
+were too good to be true’.); and their logic reviewed (‘This is
+not logical.’, ‘Interaction is messed up’, and ‘the fuzziness is
+between level 2 and 3’). The prototype of the app was often
+discussed in regard to the clarity of its formulations (‘[What
+is]thedifferencebetweennearlyblindandalmostblind?’) and
+its technical possibilities (‘I think it won’t fit on the screen’).
+Moreindirect, butneverthelessimportantactorsinthenet-
+work to develop this measuring instrument were academic
+peers. The research team regularly discussed their results or
+made decisions with the work of other researchers in their
+field in mind. For example, they calculated the value of the
+health states in their instrument with regard to death because
+‘alleconomistsdoit’.10Theydidso, eventhoughtheyactually
+called it ‘offending and ridiculous’ to make such calculations.
+Peers were also involved in the form of potential reviewers
+or respondents at conferences. (Peter: ‘With methodological
+papers peers always start badgering: this is not good, you
+haven’t thought about that; you haven’t referred to this pub-
+lication…’.) That is, the network to develop the measuring
+instrument was both social (researchers, industry, and com-
+panies)andmaterial(presentationsoftheappandresults),but
+also international and virtual (online connections and peers).
+Boththehealthcareandthemeasuringinstrumentresearch
+teamscollaboratedwithorrelatedtocolleaguesfromdifferent
+disciplines; they worked with stakeholders; they used theo-
+retical frames to involve real-world complexities; and they
+connected to different places. However, there were also differ-
+ences: the network to improve health care was more diverse
+and local, while the network of the measuring instrument was
+more international and virtual. Also interesting were the indi-
+rect actors in the form of patients and peers; the health care
+team involved society, while the measuring instrument team
+involved academia in this way. These differences indicate that
+the focus and hence the values in both projects might also dif-
+fer. Hence, the next section concentrates on the values—what
+was seen as important or good—of the identified actors in the
+two networks.
+5. Values
+5.1 Values in the health care network
+The health care research team (Alice, Rob, Layla, Babette,
+Eva, Monika, and Lucy) was very outspoken in their motiva-
+tion to improve health care: they wanted to make health care
+‘smarter, more efficient, and more humane’. Project leader
+Alice designed the proposal, brought everyone together, and
+organized most of the meetings. In conversations with me she
+called herself a ‘boundary worker’; someone who is ‘always
+looking for connections’. In the project team meetings, this
+form of boundary work, making connections, was clearly
+present. The team did not only involve different people from
+different disciplines and institutes but also integrated the-
+oretical perspectives and terminology from different fields.
+Looking for connections, socially and theoretically, was seen
+as something good.One aspect that was very important in this looking for
+connections, and in the project as a whole, was the social-
+geographical concept. This concept was developed by Alice
+and Layla, and represented a crossover of their (social and
+geographical) theoretical ideas. On the one hand, this concept
+represented the academic (social and geographical) justifica-
+tion of the project; on the other hand, it was seen as the
+‘vehicle’, ‘bindingframework’, ‘umbrella’, or‘redthread’that
+gave all the researchers, managers of organizations, health
+care workers, and finally patients a shared perspective and
+approach.
+The health care workers and managers of the health care
+organizations shared the ideal to improve health care, and
+theywerealsoenthusiasticaboutthespecificacademic(social-
+geographical) approach. However, there were also some
+struggles. Thehealthcareworkerswhohadtobetrainedwith
+the new academic perspective were cooperative, but some-
+times they also made remarks that they had already been
+doing this for years, that the training reminded them of ear-
+lier trainings, or that their organization had tried this before.
+That is, in a certain sense, they also seemed to feel that their
+individual value was not sufficiently appreciated (health care
+worker: ‘I also want to use my own experience. Listen to me,
+too.’). Moreover, the research project took only 1.5years, and
+the health care workers became increasingly nervous toward
+the end of the project because, in their opinion, the new
+approach had not really grounded yet. (Monika: ‘I noticed
+that they especially wanted to talk about ‘how to continue’.
+They are afraid to get stuck.’) According to the project team,
+this was especially due to the managers of the organizations
+who had to be convinced that the project was more than ‘just
+a project’ or ‘a pilot’ that would have no follow-up. Hence,
+they put the continuation of the project ideas on the research
+agenda as ‘securing’ (‘How do we get it in the DNA of the
+organizations?’).
+During the project, the research team was especially
+focused on concrete products, such as a training script for the
+healthcareworkers, theorganizationofanevent, aclearillus-
+tration of a theoretical concept, or an article in a (national)
+trade magazine. Especially for Alice, these types of products
+were seen as more important than peer-reviewed publications
+in international journals or presentations at conferences. In
+general, the team was more focused on the process and rel-
+evance of their work than on the results of their research.
+This striving for improvement, the willingness to make con-
+nections with other parts of science/society, and the focus on
+concreteproducts, processes, andcontinuationarevaluesthat
+especially focused on societal impact.
+However, as could already be noticed in the small
+struggles—or slightly different values—between the research
+team and the health care workers, societal impact was not
+the only form of impact that was pursued. Academic impact
+was also seen as important, and in this project (and stage),
+this was especially advocated by Rob. He was the formal lead
+applicant of the research, although he had no experience with
+qualitative action research. His background was in evidence-
+based medicine, and in the health care project also, he was
+looking for evidence. Alice and Layla repeatedly tried to con-
+vince him that it is ‘hard to base this with evidence’ because
+they cannot ‘measure’ patients’ wellbeing, but only at the end
+of the project, Rob concede this (‘we would love to measure
+the effect, but we are not that far yet’). The reason why Rob
+was nevertheless interested in the health care project was thatDownloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+732 Science and Public Policy
+it was ‘at the edge of science. This is what we don’t under-
+stand.’, and ‘a major difference’ with what other researchers
+are doing. And although Rob had no experience so far with
+the specific research, he cared for the project team with his
+academic focus. He brought in relevant research contacts, for
+example,frommanagementandbusiness,andheinitiatedand
+encouraged new funding opportunities for PhD positions.
+TheacademicvaluesrepresentedbyRob—thefocusonevi-
+dence, increasing knowledge, and finding research facilities—
+were especially in favor of Layla, who was in a tenure track
+system for which she had to bring in money and publi-
+cations, and supervise PhD students. Layla had previously
+been successful in publishing about qualitative research and
+the theoretical perspective in the project was based on her
+social geographical background knowledge. Moreover, when
+Layla’s career took a jump because she succeeded in getting
+several grants in a short period, she also became the aca-
+demic justification for research collaborations in the health
+care project. (Alice: ‘I offer you a carrot: Layla just got 1.5
+millioneuros–thatisallabouttheseconcepts.’) Thatis, Layla
+was a crucial element in this research project because she rep-
+resented and connected the academic and societal values. In
+an interview, she said, for example: ‘By doing theoretically
+novel things you can gain more relevant societal insights’ and
+‘I see it as a social responsibility (…) that my research will not
+just end up in a file drawer or something.’
+5.2 Values in the measuring instrument network
+The measuring instrument was developed by Peter and his
+research team (Gabriel, Kate, and Tanja), in collaboration
+with the food industry, and with help of an app developer
+and research company. It also involved a variety of num-
+bers and graphs, technical programs, app prototypes, and
+(virtual or real) academic settings. All these actions and inter-
+actions resulted in a tool that was ‘patient-centered’, ‘user
+friendly’, and ‘state of the art’, according to the website that
+promotes the tool: patient-centered, because the items of the
+questionnaire and tool are defined by interviewing patients,
+and because the app is designed to be used by patients; user-
+friendly, because it is a relatively simple app; state of the art,
+becausethemethodsextendgenerallyacceptedmethodsinthe
+field. In the practices to develop the tool, however, the val-
+ues that I encountered were more diverse and often they were
+more focused on achieving academic than societal impact.
+For example, for Peter and his academic team, a central
+value in the project was that the measuring instrument was
+new and different. (Peter: ‘I did one step further, I devel-
+oped something, something new’; ‘my measuring method is
+very different’; ‘Real scientists discover and create. The rest is
+bulk.’) This focus on new and different was related to other
+(not so new or different) methods or publications, so it indi-
+cated a competition with other researchers in the field. For
+their partners from the food industry, however, this academic
+competition seemed less relevant. (Rick to Peter: ‘Actually,
+you struggle against economists. It is the story of your life.’)
+Instead, the partners of the food industry mainly seemed to
+guard the planning of the project (‘When can we expect a first
+draft?’).
+Moreover, in contrast to the health care team that had
+a shared ideal to improve health care, the shared inten-
+tions regarding the measuring instrument did not become
+completely obvious to me. When I asked why the foodindustry funded the measuring instrument project, Peter first
+answered: ‘I don’t know’. Then, he explained that they
+wantedtomeasurehealthdifferencesinrelationtotheirprod-
+ucts (e.g. proof that their supplements are useful), and he
+added: ‘I told them: I don’t think I will find these differences
+so easily with my measurement method.’ Tanja also said, in
+relation to a proposed study of the food industry: ‘they are
+really not going to find any differences there’. That is, mak-
+ing a difference seemed more important for the research team
+than for the food industry.
+Other important topics for the research team were the
+results. Often these were discussed in relation to numbers
+and graphs that had to be simple, explainable, and logical.
+(‘Simple solutions are the best’; ‘the numbers should be as
+logical as possible’) Results were related to logic but also to
+another central value in this project: evidence. Strong evi-
+dence was important for all team members, also because it
+made publishing easier. Output, in the form of publications,
+was not only important for the academic team but also for
+the industry involved. However, for the industry, a publi-
+cation was a publication, whereas, for the academic team,
+a publication had to be a publication in a goodjournal.
+Together, they were looking for journals that allowed for
+quick publications—efficiency was important for the indus-
+trial and academic members—but when the food industry
+suggestedanonlineopen-accessjournal,Peterexplained:‘that
+is a q2 journal.’, and Tanja added: ‘we don’t get points for
+q2.’11
+Results and output were related to academic values such
+as impact factor (q1), publishing (fast) and also to authorship
+(first is the best, last is the second best). While the food indus-
+try did not really seem to be concerned about the sequence
+of the authors, this was different in the academic team. Kate
+and Tanja, for example, suggested to swap their names on
+the second and third positions a couple of times, and Gabriel
+discussed his last author position on one of the papers: ‘I
+basically did everything. (…) I want to be the first author.’
+Normally, Peter left these discussions about author order to
+the others, but in the situation of Gabriel—he (Peter) was the
+first author of the paper and he answered: ‘You can try it –
+send it today, and if you impress me, you are the first author.’
+Peter’s reply (send it today) not only showed that first
+authorship was important but also indicated another value
+that was especially embraced by Peter: working hard. When
+Gabriel continued the discussion and said: ‘But I did all the
+programming. I did all the work.’., Peter answered: ‘You do
+all the work? You leave the building at 5!!’. For Peter, work-
+ing hard and efficiently was an important working ethos. In
+my observations, he was always very busy and had meet-
+ing after meeting. Hence, he also expected hard and efficient
+work from his team. Gabriel, in particular, was speeded up
+sometimes:
+‘How many hours do you need to make changes in a paper
+with comments? […] this is not very complicated; how
+many hours? No more than 5 hours. Or you are not work-
+ing efficiently. Or you are replacing sentences with old
+sentences’.
+Working efficiently was related to publishing fast—a value
+that all project members shared. During my fieldwork, theDownloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+Science and Public Policy 733
+research team worked on four different papers simultane-
+ously, of which three were in progress and one under review.
+In their meetings, the status of papers, the order of the
+authors, and the impact factor of journals were recurring
+themes. Every week, they started with a discussion about
+the status of the submitted article, and they continued with
+a discussion about all other papers (one by one—the papers
+essentially dictated the agenda). And toward the end of the
+project, they became increasingly annoyed by the slow peer-
+review process that hindered this speed of publication. (Peter:
+‘they should be triggered to speed up’, ‘We will send an email
+[that] we will [otherwise] withdraw’).
+Working hard, efficiency, and publishing fast are values
+that were also clearly present in the MTA group that Peter
+chaired, and in the epidemiology department, this group was
+part of. In MTA meetings, for example, the focus was on
+‘projects, publications, courses, grants, conferences’, as could
+be read in the monthly research agenda. In epidemiology,
+all celebrations that I attended started with the successes in
+termsofpublicationsandnewemployeesorpromotions. This
+makes it difficult to distinguish whether these values were
+specific to the agenda of the team members or were part of
+their institutional environment. In the course of their project,
+for example, the research team became increasingly confused
+about all the papers they were working on (‘Which paper?’,
+‘I just had that paper’, ‘I mix them up’, ‘I will never work on
+four papers simultaneously again’). And in an interview and
+a later conversation, Peter told me that actually he did not
+really care about H-indexes ( Hirsch 2005 ). He explained that
+he had so many publications because he was good in statistics
+and had always helped others to get articles published. This
+was good for his H-index, but in his opinion, most of these
+publications were actually ‘rubbish’. For Peter, the few arti-
+cles and a book about his measurement instrument were the
+most important publications of all of his 150 papers, but to
+his annoyance, there were almost no references to these, yet.
+To summarize, I encountered several values in the develop-
+ment of the measuring instrument, but where it was relatively
+clear who valued what in the health care project, this was
+more ambivalent in the development of the measuring instru-
+ment. For example, the aims of the food industry were hardly
+discussed or simply ignored; the need to publish fast and
+work efficiently was clearly expressed but was also part of
+the broader academic environment; and the societal purpose
+of this tool was not very clear in the conversations of the
+project team, while it was clear on the website that promotes
+the tool (patient-centered; user-friendly). Moreover, my anal-
+ysis of values showed what was articulated as important or
+good per the research team, which does not necessarily say
+something about its (non) occurrence in the other project. For
+example, Alice also often sighed that she worked so hard—
+but this was not something she appreciated (‘I cannot work
+day and night; I already do!’), and the health care team also
+expressed efficiency as important, but especially in relation to
+making (efficient) connections.
+My analysis of the values made clear, however, that the
+focus in the health care project was mainly oriented toward
+societal impact, while the focus on the development of the
+measuring instrument especially concerned academic impact.
+This difference became also visible with an automatic word
+count produced with Atlas.ti of my notes on all meetings in
+both cases studies: in the health care team, the word ‘people’emerged as the first meaningful word (after words like the,
+that, I, and, etc.); in the measuring instrument team, the word
+‘paper’ was the first meaningful word. A comparable contrast
+was articulated in my interviews. While Layla said about her
+work in the health care project that she: ‘wouldn’t want to
+do something that has no societal relevance’, Peter criticized
+the scientific system because: ‘[Nowadays] everything has to
+besocietallyrelevant, andfundingisonlygiventosciencethat
+follows the standard’.
+6. Strategies
+6.1 Strategies to improve health care
+The health care team and the measuring instrument team
+both aimed to achieve societal impact (improve health care
+and develop a patient-centered app) and academic impact
+(PhD students and publications). However, my analysis of
+their networks and values showed that the health care team
+was more focused on societal impact and the measurement
+instrument team on academic impact. This made it relevant
+to compare the efforts of both research teams to achieve
+these kinds of impact. What strategies did they use to achieve
+societal and/or academic impact?
+In the health care project, networking in the form of bridg-
+ing was a crucial aspect. It was necessary to get all different
+parties (e.g. health care organizations) involved and moti-
+vated. Insteadofstayingwithintheboundariesofadiscipline,
+this research had evolved from interdisciplinary (collabora-
+tion with different disciplines) to transdisciplinary (collabo-
+ration with non-academic institutions). Moreover, as stated,
+Alice also literally called herself a boundary worker: some-
+one who connects theories from different disciplines and uses
+these to intervene in society. She described herself as some-
+one who is always looking for connections; not only between
+people but also between disciplines and theories.
+Toconnecttotheworldofhealthcareorganizations, social
+science, medical science, social geography, business, etc., it
+seemed important to speak, or adapt to, these different lan-
+guages. For example, the patients in the health care research
+were named differently across the settings. The health care
+team preferred to talk about the ‘afflicted’, but in clinical
+settings, they adapted this to ‘patients’, with health care orga-
+nizationsto‘clients’,inaresearchsettingto‘participants’,and
+with the municipality, ‘citizens’ was the general term. In some
+settings, people talked about care (medical doctors), health
+care (organizations), well-being (economists), or support
+(municipality/experience experts). All network parties used
+different technical terms that were gradually also integrated
+in the conversations of the research team, such as kitchen
+table conversations (municipality), proms (economists), or
+value-based health care (Rob). And the team also involved
+several theoretical concepts from these different disciplines or
+organizations.
+In these different settings, people used different terms, but
+they also had different cultures. When I joined Alice to a
+meeting with a neurologist, for example, Alice did not knock
+on the professor’s door immediately—as she did with other
+academics—but checked in with the secretary because ‘every-
+thing is a bit more hierarchical here’. And when we then
+had to wait for about 15minutes, she whispered that this
+was ‘part of the game’. Moreover, the academic world in
+general differed very much from the world of health care.Downloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+734 Science and Public Policy
+Academic events generally take the form of a conference with
+lectures and discussions, but the events that I attended with
+health care workers involved all kinds of other activities. As
+the process manager, Monika explained it: ‘they can’t sit still’.
+Alice and Layla did their best to adapt to this non-academic
+culture. In a discussion with the project team about a meet-
+ing with the health care workers, Alice, for example, said:
+‘[Monika] wants to do something nice, with Lego or so. (…)
+Nothing for me, but I will participate.’, and when Alice and
+I ended up in an Energy dance, with a Mexican wave, at a
+health care symposium, she hissed ‘I hate this’ to me—but
+some months later, she asked all participants to make a Mex-
+ican wave during one of their events. That is, to connect
+to different parties, adaptation (of terminology or culture)
+appeared to be an important strategy.
+This adaptation and bridging were not related to a form of
+knowledge that was clearly explained. Alice told me that she
+used her intuition to make the ‘right’ connections. She orga-
+nizedmanymeetingswithpeoplefrominstitutionsorresearch
+groups to see if she could collaborate. To decide beforehand,
+if a meeting would be useful, she relied on her intuition, or as
+shesometimes called it ‘tacit knowledge’.12Thisintuition was
+not only important in organizing and attending useful meet-
+ings but also in combining theories. Alice: ‘It is very intuitive
+I have to say. All of a sudden, you feel you can do some-
+thing with a theoretical frame.’ When the project team gave
+a presentation to their funding organization, one of the fun-
+der’s representatives asked Layla and Alice how they decided
+to collaborate together. And when they explained that their
+collaboration was somewhat coincidental, but worked out
+very well, the representative answered: ‘This demonstrates
+that [action research] works very different than (…) [labora-
+tory work]. It is much more experimental.’ Afterward, Alice
+said in a project meeting: ‘it is not only coincidence, because
+then you would never see each other again. Something comes
+into being. It also has to do with intuition’.
+This need for an unarticulated form of knowledge (intu-
+ition), these forms of adaptation (terminology, culture), and
+these involvements of so many (transdisciplinary) parties
+already indicate that the health care project is rather complex.
+Indeed, this was also repeatedly expressed by the researchers
+involved: ‘Thisissocomplex’, ‘thisprojectissocomplex’, and
+‘this question is so complex’. However, instead of being dis-
+couraged by the complexities in their work, the team involved
+them in their project. For instance, Alice gave a presentation
+entitled: ‘Handling complexities in [healthcare] research’, and
+she explained her work as ‘I study the complexity of prob-
+lems’. In an interview, also Layla explained what complexity
+meant for her work:
+‘To work with this target group brings me new insights
+in my field. These patients are a sort of extreme target
+group. Things become enlarged because the problems are
+so complex. Normally we work with healthy people, huh?
+Because these vulnerable people are so hard to approach,
+etc. But I see it as an added value.’
+That is, working with complexities was not a hindrance
+but a strategy in this project. Complexities were tamed with
+concepts, schemes, and visualizations (e.g. of the coaching
+perspective, the situation of a patient, or the problems that
+have to be solved), but they were also handled by involvingmany different people with different backgrounds, ideas, and
+concepts.
+6.2 Strategies to develop the measuring instrument
+To develop the measuring instrument, on the other hand,
+something as complex as the quality of life in patient groups
+was measured with a method and tool of which the simplic-
+ity was especially emphasized: ‘a simple analysis’, ‘a simple
+tool’. Seen from their papers, flyers, and research proposal,
+this simplicity is related to usability: ‘a simple and attractive
+app’, ‘a simple and practical index’, as well as to credibil-
+ity: ‘a very simple and credible measuring instrument’. In
+their presentations and MTA meetings, it also became clear
+that simplification was a strategy to explain an argument.
+When Peter gave feedback to a PhD student, he, for exam-
+ple, advised: ‘The good thing is to limit yourself. A simple
+story, with simple lines.’ That is, simplification was used as a
+strategy to translate the methods of the measuring instrument
+to another environment—of potential users, or peers.
+Toreducecomplexproblemstosimplequestions, methods,
+and tools, the team used a form of explication that had to be
+transferable. Indeed, oneofthe‘problems’withthemeasuring
+instrument was that not all peers immediately accepted the
+new method:
+‘When you say, this would be better and it has benefits,
+[some people] answer: “No. Somewhere there must be a
+mistake. Otherwise we wouldn’t be working with this old
+method for forty years, would we? That is not possible”.’
+(Peter).
+Therefore, theexplicationoftheargumentwasveryimpor-
+tant. Moreover, the explication had to be logical: ‘numbers
+should be as logical as possible’, ‘a logical order’, and ‘log-
+ical co-efficiency’. Logic reasoning was important to justify
+the simplicity of the tool and the results. So, while the health
+careteamexplainedsomeoftheirdecisionswithintuition, the
+measuring instrument team especially referred to logic.
+‘Ithought“thisisnotcorrect, thiscanbedonebetter”. And
+then I got an idea (…). So, I started to read but couldn’t
+find anything. Then I talked to people – no one could help
+me. (…) And then, at a certain moment, I found it. And it
+appeared to be really simple. (…) So simple that you think:
+of course! And then it is just a matter of working out the
+formula (…) and then it is as logic as can be.’ (Peter)
+In contrast to intuition, logic is articulable—but only for
+peersandotheracademicsinthefield.13Thismeansthatthese
+peers or academics are also important to justify the logic or
+simplicity of the results. For this, publishing peer-reviewed
+papers (in high-quality journals) is a clear approach. This
+couldexplainwhytheresearchteamwassofocusedonpapers
+in ‘good’ (q1) international journals, while the food industry
+was less interested in the classification of the journal; also,
+why Alice often chose to publish in national trade magazines
+wherepeople cared abouther work insteadof in international
+peer-reviewed journals. The food industry and the health care
+team were less focused on academic justification.
+To justify their measuring instrument, the project team
+also put much effort into boundary work: but not so much
+by bridging or making connections (as the health care teamDownloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+Science and Public Policy 735
+did), but by emphasizing differences with other disciplines or
+methods. That is, their boundary work especially consisted of
+makingdemarcations. Theirmeasuringinstrument, forexam-
+ple, was promoted as a ‘new method’, and it was compared
+with other existing methods (‘a better method’, ‘forget the
+past’) in publications and on a website. Also, the research
+team often discussed other measuring instruments and papers
+and emphasized that they wanted to do it differently. (‘When
+we want to do it, we have to do it differently.’) They, for
+example, contrastedthemselveswitheconomists(‘thisiswhat
+health economists always do’, ‘standard health economists
+use these coefficients. We don’t use that.’, ‘economists are
+very normative’); with health scientists (‘[they] know about
+everything nothing’); with their colleagues and methods from
+epidemiology (‘more is not possible in the life of an epidemi-
+ologist’, ‘as soon as people say: we have a data set, you
+know that you don’t have to continue’). That is, although the
+measuring instrument team also adapted to other actors and
+systems, for example, with their calculations of health states
+in regard to death (like all economists do), and their eager-
+ness to publish—they especially put efforts in demarcating
+themselves from other disciplines or methods.
+7 . Achieving societal or academic impact:
+a comparison
+Thehealthcareteamandthemeasuringinstrumentteamboth
+aimed to achieve societal and academic impact. However, in
+the health care project meetings, the focus was mainly on
+the first and in the measuring instrument meetings on the
+latter. Comparing the networks, values, and strategies used
+in these projects showed some dissimilarities in the practices
+to achieving these different forms of impact. In the health
+care project, societal impact was mainly achieved by bridg-
+ingboundaries and making connections with other fields and
+theories—Alice called herself a boundary worker, the social-
+geographical concept was seen as a ‘binding framework’,
+trainings, events, or trade publications were seen as output,
+andmostmeetingswereface-to-faceandoftentookplaceout-
+side of their university building. The measuring instrument
+team, on the other hand, was more focused on demarcating
+their work from other methods and disciplines: they espe-
+cially emphasized the novelty of their work, opposed peer
+reviewers and colleagues, and their contacts were often inter-
+national and virtual, which means that these meetings mostly
+took place within the boundaries of their university building.
+Bridging and demarcating are both practices of a bound-
+ary work but in a different direction. ‘Boundary Work’ is
+a theoretical concept from science studies that refers to the
+construction of a boundary (making a distinction) between
+different forms of science, or between science and non-science
+(Burri 2008 ;Gieryn 1983 ). It also refers to boundary objects,
+whichare‘objects’(e.g. anillustrationofatheory; anitemina
+museum), that are flexible enough to adapt to different view-
+points while developing and maintaining coherence across
+(or bridge) social worlds (e.g. Star and Griesemer 1989 ).14
+This means that boundary work is both about making dis-
+tinctions and about making connections. Emphasizing the
+difference between science and non-science, good science and
+bad science, old science and new science, or between theories
+is important to achieve academic impact (publications in Q1
+journals, citations, and conferences), while to achieve societalimpact, it is necessary to connect with broader audiences such
+as lay public, science policymakers, or other scientific fields.
+Output (or objects) such as a training script, trade magazine
+article, orillustrationcanhelptocreatecoherenceacrossthese
+worlds.
+Another difference that came up in my analysis of the
+research practices in both projects, and that relates to this
+boundary work, is that the health care team adapted to
+other languages, cultures, and theories—they, for example,
+used different concepts in different settings (e.g. patients,
+citizens, and clients), did their best to include social activ-
+ities in their academic events (e.g. the Mexican wave), vis-
+ited stakeholders at their sites, and they made use of a
+combination of theories from a variety of fields (e.g. the
+social-geographical perspective). In the measuring instru-
+ment team, I did not see such forms of adaptation. The
+research team, and especially Peter, occasionally empha-
+sized the difference between their work and that of others
+(‘my measuring method is very different’; ‘Real scientists
+discover and create. The rest is bulk’). Adaptation anddiffer-
+entiation are both strategies to convince others (stakeholders
+and peers), or make them interested, in your theories, meth-
+ods, or other work. It could be phrased as practices of
+‘Knowledge Translation’—turning your knowledge into other
+people’sknowledgebymakingconnectionsand(or)establish-
+ing differences ( Latour 2005 ;Michael 2017 ;Mol 2002 ). My
+analysisshowedthatknowledgewastranslatedtoothersocial
+worlds by adapting to these languages, cultures, and theo-
+ries while convincing academic peers was especially done by
+emphasizing the novelty and differences of your work.
+Also interesting was that the health care researchers
+emphasized the complexities in their work, while the measur-
+ing instrument team especially articulated its simplicities . The
+focus on complexities or simplicities can be understood as a
+different‘ResearchScope’,inthesensethatitsuggestsazoom-
+inginorazoomingoutoftheactualproblem. Thehealthcare
+team decided to ‘study’ or ‘deal with’ complexities. Instead
+of working with healthy people, they took an ‘extreme tar-
+get group’ because it allowed for new insights. Working with
+complexities was not seen as a negative consequence of their
+societal work, it was a strategy. The measuring instrument on
+the other hand aimed to simplify a rather complex question
+(what is quality of life) with a variety of methods, graphs, and
+tools (‘a simple analysis’ and ‘a simple tool’). This simplifica-
+tion of a complex problem, however, should not (simply) be
+seen as a reduction: it was also a strategy to improve (‘Sim-
+ple solutions are the best’) and to convince potential users
+or peers (‘So simple that you think: of course!’). That is, to
+work with problems in society, researchers have to deal with
+its often unpredictable complexities (e.g. patients’ problems,
+different interests of stakeholders, and political involvement),
+whileacademicimpactisperhapsbestachievedbysimplifying
+real-world complexities with predictable models and num-
+bers. Interestingly, the fact that the health care team and the
+measuring instrument team do not only ‘have to’ deal with
+these complexities or simplicities but use it as strategies for
+newinsightsorimprovementsshowsthattherelationbetween
+simplicities and complexities is not a very simple one (see also
+Law and Mol 2002 ).
+Another interesting, but not plain, distinction was the
+accentuation of a different form of knowledge. The health
+care researchers often explained that they used their intuition ,
+forexample, toconnectdifferentsocietalandinterdisciplinaryDownloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+736 Science and Public Policy
+actors or theories, while the measuring instrument team
+emphasized that theories and models had to be logical. These
+explanations can be seen as different ‘Forms of Knowledge’
+(e.g.Collins 2010 ). Intuition might be necessary to make con-
+nections or deal with complexities, but it is a ‘tacit’ form of
+knowledge that is hard to explain. Logic, on the other hand,
+is related to knowledge or reasoning that is explicable and
+probably works better to convince academic peers, and hence
+toachieveacademicimpact. However, suggestingthatsocietal
+impact benefits from intuition while academic impact is based
+on logical reasoning is too simplistic and seems to encour-
+age a value judgment. As many social studies of laboratory
+work have demonstrated, scientific work is often based on
+tacit forms of knowledge ( Cohn 2008 ;Myers 2008 ;Peterson
+2016).
+My analysis of the networks, values, and strategies to
+achieve societal and academic impact showed some interest-
+ing dissimilarities in regard to boundary work (bridging and
+demarcation), knowledge translation (adaptation and differ-
+entiation), research scope (complexity and simplicity), and
+forms of knowledge (intuition and logic). However, it is also
+important to emphasize that these binaries are not so sim-
+ple (Law and Mol 2002 ). Since both research teams aimed
+to achieve both forms of impact, all these dissimilarities could
+alsobeobservedwithintheresearchteams. Forinstance, Rob,
+the researcher who mainly focused on academic impact in
+the health care team, especially emphasized the difference
+and novelty of the health care project (‘a major difference
+with what this discipline is doing’). The health care team
+also used models and simplifications to convince their part-
+ners and approach their problems. In the academic setting,
+the health care team also demarcated their work, for exam-
+ple, from evidence-based medicine or toward other action
+researchers. And surely, the theories and models that were
+used by the health care team are also logical and explica-
+ble. In the measuring instrument project, on the other hand,
+there was also adaptation; the team, for example, adapted
+their tests and ideas to the technical possibilities and design
+of the app (e.g. layout and colors of the text). Peter’s search
+for a better methodology also started somewhat intuitively
+(‘at a certain moment, I found it’), and the measurement team
+also made connections, for example, with the food industry.
+Theirdiscussionsandexplanationsofthenumbersandfigures
+werenotsimplebutverycomplex, andtheknowledgetransla-
+tionoftheirresearchwithmanypublicationsandhigh-impact
+journals was partly also a result of papers they themselves did
+not see as new and different, but as ‘rubbish’ (Peter). That is
+to say, the dissimilarities that I found in regard to boundary
+work, knowledge translation, research scope, and forms of
+knowledge are also related and should not be understood as
+a clear division between the two research projects.
+This makes it relevant to find out how these different prac-
+tices were negotiated in these research projects. As shown,
+both research teams created networks with actors (e.g. expe-
+rience expert, food industry, and researchers with different
+backgrounds)thatrepresenteddifferentsocietalandacademic
+values.Dealingwithandcollaboratingbetweenthesedifferent
+actors and values required some strategies such as adapt-
+ing to different languages and cultures; simplifying complex
+problems with models or theories; specifying the differences
+between their academic work and other academic theories;
+connecting to different audiences, etc. Surely, not everyonewas good in all these activities. Gabriel, for example, was
+very good in computer models and statistics, but according to
+Peter, not a very efficient writer; the food industry brought
+in money and would help to bring the app into use, and
+the app developer and research company did some technical
+and practical jobs, but they were not part of the data anal-
+ysis. In the health care project, the experience expert was
+very good in representing clients, but not part of the research
+team; Rob had no experience with action research, but had
+relevant research contacts and initiated new PhD positions.
+Alicewasmorefocusedonconcreteproducts, whileforLayla,
+academic publications were also important. Moreover, while
+both research teams aimed to combine both forms of impact,
+this paper showed that they focused mainly on one of these
+forms, at least, when strictly regarding the official project
+duration. When the projects and my observations were fin-
+ished, the health care team had several academic publications
+still in the planning and were starting some new PhD projects,
+and the measuring instrument was not really in use yet, but
+this was still the intention. This all means that some of the
+project members continued working on their societal and/or
+academic aims when the project had officially ended.
+8. Conclusion
+Science policymakers and funding agencies are increasingly
+interested in the societal impact of research, and they often
+ask researchers to specify the academic and societal impacts
+of their work. In this paper, I have analyzed how the activ-
+ities to achieve both forms of impact relate by studying the
+research practices of two research teams that aim to com-
+bine these forms of impact. My analysis of their networks,
+values, andstrategiesshowedthatthepracticestoachieveaca-
+demic and societal impacts exhibit some dissimilarities with
+regardtoboundarywork(bridginganddemarcation), knowl-
+edge translation (adaptation and differentiation), research
+scope (on complexity or simplicity), and forms of knowledge
+(intuition and logic).
+For researchers, it might be helpful to take note of these
+differences when planning or doing their research. In the
+case studies selected for this paper, combining societal and
+academic impact was done by mainly focusing on one form
+of impact. I also showed that both research teams created
+broadnetworkswithactorswithdifferent(academicandsoci-
+etal) values, that different research activities were performed
+by different actors, and that not all impact was fully achieved
+duringtheprojectduration. Thissuggeststhatcombiningaca-
+demic and societal impacts is also a negotiation, which will be
+relevant and possible in some, but perhaps not in all research
+situations. It would be worthwhile to further explore in what
+situations researchers could perhaps better focus on one form
+of impact instead of on both.
+Science policymakers and research organizations should
+alsobemoreawareofthecomplexpracticesittakestoachieve
+societalandacademicimpactsofresearch. Whiletheyincreas-
+ingly acknowledge that counting publications and citations is
+not the best way to evaluate research quality and that soci-
+etal impact should be rewarded too, it seems that they simply
+addedupbothformsofimpactasarecipetocalculateresearch
+quality without taking the differences in the societal and aca-
+demic world into account. The result of this was phrasedDownloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+Science and Public Policy 737
+by Peter as: ‘everything has to be societally relevant, and
+funding is only given to science that follows the standard’.
+In other words, although Peter aims to combine both forms
+of impact, he is also critical about the situation that this is
+the standard, because it hinders an important academic value
+and strategy: differentiation. The situation that both projects
+mainly focused on one sort of impact and that not all research
+aims were achieved within the project time furthermore sug-
+gests that standardly asking to combine academic and societal
+impact might hinder some other values and strategies that
+were identified in this paper—such as continuation, dealing
+with complexities, or making connections. Moreover, per-
+haps science policymakers and research organizations should
+also pay attention to the value of ‘working hard’ that was
+articulated in one of these case studies (‘You leave the build-
+ing at five’) but objected in the other (‘I cannot work day and
+night.’).
+Hence, instead of asking researchers to describe the soci-
+etalandacademicimpactoftheirproposedresearch, Isuggest
+thatfunderscouldbetterasktodescribethenetwork,involved
+values, and intended strategies to achieve societal and/oraca-
+demic impact. This would not only help in the planning and
+evaluation of the proposed research; it would also articulate
+the urgency and appreciation of both forms of impact while
+respecting the differences in the societal and academic world.
+Funding
+This work was supported by The Netherlands Organisa-
+tion for Health Research and Development (project number
+445003003).
+Conflict of interest statement. None declared.
+Acknowledgements
+I would like to thank Jeannette Pols, Sonja Jerak-Zuiderent,
+Amade M’charek, Stephanie Meirmans, and Maarten
+Derksen for their helpful comments and discussions.
+Notes
+1.Web of Science gives 73,004 papers in 2021, 36,258 papers in
+2017, and 7,708 in 2007 for the topic: research impact (i.e.
+searches title, abstract, author keywords, and Keywords Plus).
+Derived from www.webofknowledge.com in January 2022.
+2.Pre-proposal form, NWO Open Competition SSH, 2020.
+3.Veni grant application full proposal form, 2019.
+4.These case studies were part of the research project: ‘Achieving
+good science. A cross-disciplinary study’ in which Prof. Jean-
+nette Pols, Prof. Amade M’charek, Dr. Sonja Jerak-Zuiderent and
+the author ethnographically studied research practices across five
+disciplines (philosophy, mathematics, chemistry, anthropology,
+andmedicalscience). See< https://www.zonmw.nl/en/research-and-
+results/fundamental-research/programmas/programme-detail/fos
+tering-responsible-research-practices/t/goal-of-pillar-3-project-
+life-cycles/ > and < https://www.vumc.nl/research/ethiek-recht-hum
+aniora/onderzoek/goede-wetenschap.htm > accessed April 2022.
+5.Thatis, mostofmyobservationstookplaceinthisperiod. Sincethe
+healthcareprojectofficiallystartedafterthisperiod,Ialsoattended
+meetings for this project in the 1.5years after.
+6.Action research combines taking action and doing research using
+criticalreflection. Transdisciplinaryreferstothecollaborationwith
+non-academic stakeholders (i.e. health care professionals). Theproject leader explains her approach as a mutual learning and
+changing process that uses a social geographical theory to improve
+the rehabilitation process of patients.
+7.There are more reasons for this. For example, rehabilitation
+medicineandepidemiologywereopenformyobservationpractices
+whileaclinicalresearchgroupwasmorehesitant. Bothstudiesthat
+were selected were quite unusual projects in their department and
+hence seemed more interesting to follow than, for example, stud-
+ies with data sets. That is, within the reach of what was possible
+and practical, this case selection was based on a mix of ‘typi-
+cal, diverse, extreme, deviant, influential, most similar, and most
+different cases’ ( Seawright and Gerring 2008 : 294).
+8.Allmaterialwasanalyzedbyme, andIregularlydiscussedmyfield-
+work and analysis with my colleagues of ‘Achieving good science.
+A cross-disciplinary study’; all having a background in STS and
+anthropological/ethnographic research. For reasons of anonymity,
+I used pseudonyms for all people, and renamed projects, units, and
+theories mentioned in this paper. I excluded sensitive or private
+information from quotes, as well as detailed information about
+locations. Before this paper was published, I shared a draft ver-
+sion of this manuscript with Alice, Peter, and Layla (see further)
+and I incorporated most of their comments and additions.
+9.Studying daily work in terms of a network is inspired by actor–
+network theory ( Latour 2005 ;Law 1992 ;Mol 2010 ;Michael
+2017) that proposed to follow actors (not only humans but also
+technologies, papers, etc.) in their network (of other humans,
+technologies, etc.).
+10.Researchers in this field calculate a health state (or disease burden)
+as a number on a scale between perfect health (1) and being dead
+(0), or worse than death (−1).
+11.Q stands for a quartile ranking of journals in which Q1 is the 25
+per cent highest ranking and Q4 the poorest.
+12.Tacit knowledge is a theoretical concept from Science Studies and
+refers to knowledge that is hard to verbalize—such as learning to
+ride a bicycle (e.g. Polanyi 1962 ;Collins 2010 ).
+13.Moreover, this quote also shows that logic is not (or not always)
+a priori to the research process: it is an argument that has to be
+developed.
+14.To give an example, in natural history, objects such as speci-
+mens adapt to different viewpoints of, e.g. biologists, historian,
+museumsponsors, andamateursbutarerobustenoughtomaintain
+a common identity, e.g. representing nature ( Star and Griesemer
+1989).
+References
+Auranen, O. and Nieminen, M. (2010) ‘University Research Fund-
+ing and Publication Performance - an International Comparison’,
+Research Policy , 39: 822–34.
+Bornmann, L. (2012) ‘Measuring the Societal Impact of Research’,
+EMBO Reports , 13: 673–6.
+——— (2013) ‘What Is Societal Impact of Research and How Can It
+Be Assessed? A Literature Survey’, Journal of the American Society
+for Information Science and Technology , 64: 217–33.
+Burri, R. V. (2008) ‘Doing Distinctions: Boundary Work and Symbolic
+Capital in Radiology’, Social Studies of Science , 38: 35–62.
+Cohn, S. (2008) ‘Making Objective Facts from Intimate Relations:
+The Case of Neuroscience and Its Entanglements with Volunteers’,
+History of the Human Sciences , 21: 86–103.
+Collins, H. M. (2010) Tacit and Explicit Knowledge . Chicago: Univer-
+sity of Chicago Press.
+Dance, A. (2013) ‘Impact: Pack a Punch’, Nature, 502: 397–8.
+DORA. (2018), DORA Roadmap: A Two-Year Strategic Plan for
+AdvancingGlobalResearchAssessmentReformattheInstitutional,
+National, and Funder Level <https://sfdora.org/2018/06/27/dora-
+roadmap-a-two-year-strategic-plan-for-advancing-global-research-
+assessment-reform-at-the-institutional-national-and-funder-level/ >
+accessed May 2019.Downloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
+738 Science and Public Policy
+Gieryn, T. F. (1983) ‘Boundary-Work and the Demarcation of Science
+from Non-Science: Strains and Interests in Professional Ideologies
+of Scientists’, American Sociological Review , 48: 781–95.
+Hicks, D., Wouters, P., Waltman, L., et al. (2015) ‘Bibliometrics: The
+Leiden Manifesto for Research Metrics’, Nature News , 520: 429.
+Hirsch, J. E. (2005) ‘An Index to Quantify an Individual’s Scientific
+ResearchOutput’, ProceedingsoftheNationalAcademyofSciences
+of the United States of America , 102: 16569–72.
+de Jong, S. P. L., Smit, J., and van Drooge, L. (2016) ‘Scientists’
+Response to Societal Impact Policies: A Policy Paradox’, Science &
+Public Policy , 43: 102–14.
+Kerr, A. and Garforth, L. (2016) ‘Affective Practices, Care and Bio-
+science: A Study of Two Laboratories’, The Sociological Review ,
+64: 3–20.
+Latour, B. (2005) Reassembling the Social: An Introduction to Actor-
+Network-Theory . Oxford: Oxford University Press.
+Lauronen, J.-P. (2020) ‘The Dilemmas and Uncertainties in Assess-
+ing the Societal Impact of Research’, Science & Public Policy , 47:
+207–18.
+Law, J. (1992) ‘Notes on the Theory of the Actor-Network: Ordering,
+Strategy, and Heterogeneity’, Systems Practice , 5: 379–93.
+Law, J. and Mol, A., eds (2002) Complexities: Social Studies of
+Knowledge Practices , 2nd edn. Durham: Duke University Press
+Books.
+Meirmans, S., Butlin, R. K., Charmantier, A., et al. (2019) ‘Science
+Policies: How Should Science Funding Be Allocated? An Evolution-
+ary Biologists’ Perspective’, Journal of Evolutionary Biology , 32:
+754–68.
+Michael, M. (2017) Actor-Network Theory: Trails, Trails and Transla-
+tions. Los Angeles: Sage.
+Mol, A. (2002) The Body Multiple: Ontology in Medical Practice .
+Durham: Duke University Press.
+——— (2008) The Logic of Care: Health and the Problem of Patient
+Choice. London: Routledge Taylor & Francis Group.
+——— (2010) ‘Actor-Network Theory: Sensitive Terms and Enduring
+Tensions’, Kolner Zeitschrift fur Soziologie und Sozialpsychologie ,
+50: 253–69.
+Morton, S. (2015) ‘Progressing Research Impact Assessment: A ‘contri-
+butions’ Approach’, Research Evaluation , 24: 405–19.
+Myers, N. (2008) ‘Molecular Embodiments and the Body-Work of
+Modeling in Protein Crystallography’, Social Studies of Science , 38:
+163–99.
+Peterson, D. (2016) ‘The Baby Factory: Difficult Research Objects, Dis-
+ciplinary Standards, and the Production of Statistical Significance’,
+Socius, 2: 2378023115625071.
+Polanyi, M. (1962) ‘Tacit Knowing: Its Bearing on Some Problems of
+Philosophy’, Reviews of Modern Physics , 34: 601–15.
+Pols, A. J. (2004), Good Care: Enacting a Complex Ideal in Long-Term
+Psychiatry . <https://research.utwente.nl/en/publications/good-care-
+enacting-a-complex-ideal-in-long-term-psychiatry-2 > accessed
+April 2022.
+Pols, J. (2015) ‘Towards an Empirical Ethics in Care: Relations with
+Technologies in Health Care’, Medicine, Health Care, and Philoso-
+phy, 18: 81–90.Puig de la Bellacasa, M. (2015) ‘Making Time for Soil: Technoscien-
+tific Futurity and the Pace of Care’, Social Studies of Science , 45:
+691–716.
+Ramos-Vielba, I., D’Este, P., Woolley, R., et al. (2018) ‘Introduc-
+tion to a Special Section: Balancing Scientific and Societal Impact.
+A Challenging Agenda for Academic Research’, Science & Public
+Policy, 45: 749–51.
+Seawright, J. and Gerring, J. (2008) ‘Case Selection Techniques in Case
+Study Research: A Menu of Qualitative and Quantitative Options’,
+Political Research Quarterly , 61: 294–308.
+Spaapen, J. and van Drooge, L. (2011) ‘Introducing ‘Productive Inter-
+actions’ in Social Impact Assessment’, Research Evaluation , 20:
+211–8.
+Star, S. L. and Griesemer, J. R. (1989) ‘Institutional Ecology, “Trans-
+lations” and Boundary Objects: Amateurs and Professionals in
+Berkeley’s Museum of Vertebrate Zoology, 1907–39’, Social Studies
+of Science , 19: 387–420.
+Viana-Lora, A. and Nel-lo-Andreu, M. G. (2021) ‘Approaching the
+Social Impact of Research through a Literature Review’, Interna-
+tional Journal of Qualitative Methods , 20: 1–11.
+Weijden van der, I., Verbree, M., and van den Besselaar, P. (2012)
+‘From Bench to Bedside: The Societal Orientation of Research
+Leaders: The Case of Biomedical and Health Research in the
+Netherlands’, Science & Public Policy , 39: 285–303.
+Williams, K. (2020) ‘Playing the Fields: Theorizing Research Impact
+and Its Assessment’, Research Evaluation , 29: 191–202.
+Appendix Overview of the case studies
+Health care projectMeasuring instrument
+project
+Field Rehabilitation medicine Epidemiology/MTA
+Project leader Alice Peter
+Project team Senior researchers (3),
+Junior researchers (3)Senior researchers (3),
+Postdoc (1)
+Aim Improving health care Developing a measuring
+instrument
+Methods Action research Statistics (based on
+questionnaires and
+interviews)
+Researchers
+backgroundPhilosophy, social
+geography, business,
+medicineMTA (methodology,
+economics)
+Products Training script,
+improved healthcare
+system, paper(s)Peer-reviewed pub-
+lications (4), App,
+website
+Stakeholders
+(collabora-
+tors)Health care organiza-
+tions, municipality,
+other research fieldsFood industry
+Duration 1.5 years (and 6 months
+extension)3 years (for the postdoc)Downloaded from https://academic.oup.com/spp/article/49/5/728/6585532 by guest on 05 October 2025
+
