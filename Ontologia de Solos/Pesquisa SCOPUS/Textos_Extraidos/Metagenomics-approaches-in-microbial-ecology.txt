@@ -1,0 +1,539 @@
+Keywords •  basic vs. applied science, metagenomics, microbial 
+ecology, sustainable agricultureAbstract •  Technologies such as next generation sequencing ( NGS) are 
+transforming research fields at the methodological, conceptual, and or -
+ganizational level. They open up new possibilities and bring with them 
+new commitments and inherent limitations. We show from a philoso -
+phy of science perspective how NGS-based metagenomics has trans -
+formed microbial ecology and, with it, parts of agricultural soil science, 
+which integrate ecological approaches with the aim to inform agricul -
+tural practices. We reconstruct agricultural science as design science 
+(sensu Niiniluoto) and describe how the possibilities, commitments, 
+and limitations of metagenomics approaches in microbial ecology 
+shape values, situation assessments, and recommendations for inter -
+ventions of soil microbiology in the context of sustainable agriculture.
+Metagenomische Ansätze in der mikrobiellen Ökologie und 
+Forschung für nachhaltige Landwirtschaft
+Zusammenfassung  •  Technologien wie Next Generation Sequencing 
+(NGS) transformieren Forschungsfelder auf der methodischen, konzep -
+tionellen und organisatorischen Ebene. Sie eröffnen neue Möglichkei -
+ten, bringen aber auch neue Festlegungen und inhärente Beschrän -
+kungen mit sich. Wir zeigen aus wissenschaftsphilosophischer Perspek -
+tive wie NGS-basierte Metagenomik die mikrobielle Ökologie und damit 
+auch Teile der agrarwissenschaftlichen Bodenforschung transformiert 
+hat, die ökologische Ansätze integrieren, um landwirtschaftliche Prakti -
+ken zu verändern. Wir rekonstruieren die Agrarwissenschaft als Design -
+wissenschaft ( sensu  Niiniluoto) und beschreiben, wie die Möglichkeiten, 
+Festlegungen und Beschränkungen der metagenomischen Ansätze in 
+der mikrobiellen Ökologie die Werte, Situationsbewertungen und Emp-
+fehlungen für Eingriffe der Bodenmikrobiologie im Kontext nachhalti -
+ger Landwirtschaft beeinflussen.RESEARCH ARTICLE
+Metagenomics approaches 
+in microbial ecology and research 
+for sustainable agriculture
+Robert Meunier, Institute of Philosophy, University of Kassel, Henschelstr.  2, 34127 Kassel, DE (robert.meunier@uni-kassel.de)   0000-0002-4026-6167
+Saliha Bayır, Institute of Philosophy, University of Kassel, Kassel, DE (saliha.bayir@uni-kassel.de)   0000-0002-8105-0215
+Introduction
+A metagenomics approach consist in the sampling of genomic 
+material directly from a selected environment. It can capture a 
+whole ecological community in a given environment such as a 
+patch of soil by means of its collective genomic content. This 
+approach, which became possible through next generation se -
+quencing ( NGS ), is now widely applied in agricultural soil re -
+search. The latter is generally viewed as an applied science, aim -
+ing to improve agricultural practice. The common distinction 
+between basic and applied science is as useful as it is problem -
+atic. Much of the difficulty results from the ambiguity of the no-
+tion of science involved, as it can refer to institutionalized disci -
+plines as much as to research practices or results. Furthermore, 
+applied science needs to be distinguished from the scientifically 
+informed contexts of application.
+In this paper, we adopt a framework suggested by Ilkka Niini -
+luoto (1993) and construe individual projects within a given sci-
+ence, in our case soil microbial ecology, as basic or design sci -
+ence, respectively, depending on whether the outcome  is descrip -
+tive or consists in recommendations for interventions, regardless 
+of the disciplinary affiliations of researchers involved. Basic sci -
+ence projects can be motivated by or funded for their potential to 
+produce knowledge relevant for other fields of human practice. 
+But this alone does not turn them into design science if they do 
+not deliver recommendations. In such cases, one might want to 
+speak of ‘use-inspired basic research’ (Stokes 1997). Basic and 
+design science projects can be pursued in classical university re -
+search settings as well as in non-academic or combined ‘Mode 2’ 
+science settings (Gibbons et al. 1994). Niiniluoto’s classificatory schema allows us to track how metagenomics approaches in ba-sic science projects, aimed at developing novel descriptions and OPEN   ACCESS
+24SPECIAL TOPIC · N ExT  gE NErA TION  SEq uE NCIN g
+ (2021) 30 /2: 24–29 Robert Meunier, Saliha Bayı rThis is an article distributed under the terms of the Creative Commons Attribution License 
+CCBY 4.0 (https:/ /creativecommons.org/licenses/by/4.0/)
+https:/ /doi.org/10.14512/tatup.30.2.24
+Received: Feb.  05, 2021; revised version accepted: May 17, 2021; 
+published online: Jul.  26, 2021 (non-blind peer review)
+establishing new ontologies, and thus pre-configuring the dis -
+cursive universe in which design science recommendations are 
+formulated. Alternative approaches could make the phenomena 
+in question accessible in a different manner, thus resulting in dif -
+ferent recommendations. We thus depart from Niiniluoto’s view 
+by emphasizing the pluralistic and perspectival nature of the re -
+sults of basic science. Such a view, however, is not incompati -
+ble with realism and the notion that science delivers true state -
+ments about the world (Massimi 2018).
+As the purpose of applying Niiniluoto’s framework is to dis -
+tinguish projects with descriptive and normative outcomes in 
+order to reconstruct their interrelation, and to analyze the as -
+pects of values and goals, situation assessments, and interven -
+tions characterizing design science projects, issues of realism 
+need not be further discussed here. While we take these aspects 
+on board, we complement Niiniluoto’s account in a way that al -
+lows us to move beyond the focus on theoretical results empha -
+sized by Niiniluoto as much as by perspectivists. According to 
+these views, knowledge about phenomena in form of the respec -
+tive representations constitutes a perspective or is transferred 
+from basic to design science. We focus, instead, on the ways 
+that research practices themselves are directional and selective 
+in the way suggested by the metaphor of perspective for theoret -
+ical representations. The actor’s category of an approach seems 
+to express this fact: to approach an object implies to move to-
+wards it from a given direction and to access it in a particular 
+way. On our account, an approach is embodied in an experimen-
+tal system enabling specific and selective material and cognitive 
+access to epistemic objects (Rheinberger 1997). Approaches are 
+translated from basic to design science projects and with them theoretical perspectives. Pluralism then results from the co-ex -
+istence of approaches.
+To return to our case, metagenomics approaches were inte -
+grated in experimental systems in microbial ecology and pro-
+vided access to different aspects of microbial life than earlier 
+culture-based approaches and made them available for basic sci -
+ence descriptions in ecological and genomic terms. In addition 
+to the descriptive knowledge, the approach that enabled such 
+knowledge itself was translated by adapting it to design science 
+projects in agricultural soil science. In this way, the latter inher -
+ited the new possibilities and inherent limitations for material 
+access and cognitive and symbolic representation, which then 
+shaped its technical norms.
+In the next section, we will show how accessing microbial 
+communities through their collective genomic material (metage -theoretical perspectives regarding soil microbial communities, 
+re-orients the outlook of the respective design science projects 
+delivering recommendations informing agricultural contexts.
+The translation of approaches from basic 
+to design science projects
+Niiniluoto defines design science as “research aiming at knowl -
+edge that is useful for the activity of design”, where design “in 
+the broad sense includes all ‘artificial’ human activities, i.  e., 
+the production, preparation, or manipulation of natural systems 
+[…] or artefacts” (Niiniluoto 1993, p.  8). Agricultural science 
+is among Niiniluoto’s examples of design science. The relevant 
+profession is the farmer, the practice is agriculture, the skill in -
+volved is the art of farming. Such human practices underwent 
+processes of mechanization, i.  e., the development of tools, as 
+well as scientification, i.  e., the development systematic bod -
+ies of rules. Design science supports both these developments 
+and results in what Niiniluoto calls ‘technical norms’ (not to be 
+confused with technical standards), defined as statements re -
+lating means and ends of the form ‘If you want A, and you be -
+lieve that you are in a situation B, then you ought to do X’. Such 
+statements, unlike the descriptive statements of basic science, 
+are clearly normative. Whether or not one adopts Niiniluoto’s 
+view that their truth value “is an ‘objective’ and general fea -
+ture of the world” (Niiniluoto 1993, p.  12), it is clear that agents 
+can agree on the validity of the statement even if they disagree 
+whether the recommendation should be followed. As Niiniluoto 
+points out, there can be disagreement regarding the values and 
+associated goals, the actual state of the current situation, or the 
+causal relations underlying an intervention. While the latter two 
+issues can be addressed by empirical research, the former is sub -
+ject to political debate. In any case, design science is justified 
+when it is relevant, i.  e., the situations expressed in its technical 
+norms do obtain and the values inscribed in the goal in its an -
+tecedent are held by at least some group. Values and associated 
+goals can result from public policy planning or attitudes of seg -
+ments of civil society.
+Regarding basic science, Niiniluoto holds a realist view. On 
+his account, basic research delivers descriptive knowledge of 
+causal regularities governing the relation of A, B and X under -
+lying the technical norms of design science. In the following, we 
+will go beyond this analysis, by showing how basic science ap -
+proaches make phenomena accessible in the first place, thereby We will show how basic science pre-configures 
+the discursive universe in which design science recommendations 
+are formulated.
+25SPECIAL TOPIC · N ExT  gE NErA TION  SEq uE NCIN g
+ (2021) 30 /2: 24–29 Robert Meunier, Saliha Bayı r
+come the shortcomings of culturing techniques and character -
+ize the biodiversity of environmental samples, researchers be -
+gan to integrate molecular biology techniques. Following Fred -
+erick Sanger’s development of a sequencing technique in 1977 
+and using the insight of Carl Woese and colleagues that highly 
+conserved ribosomal ribonucleic acid (r RNA ) subunits can be 
+employed for phylogenetic characterization (Woese 1983), Nor -
+man Pace and colleagues began to adjust this molecular tech-
+nique as a culture-independent approach for studying the biodi -
+versity of naturally-occurring microbial communities, using en -
+vironmental samples (Pace et al. 1986).
+The early development of sequencing techniques thus offered 
+a new way to access the complexity of microbial life. Molecular 
+phylogenetic analysis and the conclusions drawn about species 
+richness and abundance prompted the beginning of environmen-
+tal metagenomics approaches. As a result of this change of re -
+search culture and ensuing possibilities of environmental micro -
+biology to become more ecology-oriented and address microor -
+ganisms at the community level, microbial ecology established 
+itself as a hybrid between ecology and microbiology (O’Mal -
+ley 2014).2 As the field pushed the advancement and integra -
+tion of sequencing methods, the development of NGS  platforms 
+around 2005 had a strong impact on microbial ecology. NGS  al-
+lowed for massive parallel sequencing of millions of short reads 
+(i. e., sequences of DNA  or RNA  strings of several hundred base 
+pairs), as it decreased the time and costs of sequencing signifi -
+cantly (Slatko et al. 2018).
+This had several consequences as researchers were now able 
+to a) detect also viral particles and free DNA  sequences; b) im-
+prove the description of community composition and phyloge -
+netic relations (Pereira et al. 2017); and c) analyze and predict 
+community functions such as nitrogen or sulfur metabolism, res -
+piration, motility, etc. (Fierer et al., 2012). Especially the latter 
+point implies a new, systems-based understanding of microbial 
+communities based on the analysis of the whole DNA  content 
+of a sample as it characterizes the new NGS -based metagen-
+omics approaches. Analyzing the genes present in a commu-
+nity, the proteins they potentially encode, and the gene-transfer networks and metabolic pathways they form, gradually became 
+more central to research agendas than identifying individual spe -
+cies, community structure, and phylogenetic relations (Gupta 
+et al. 2019). The shift of emphasis from community structure 
+to community functions resulted in a view of microbial com -
+munities as integrated functional units themselves rather than a 
+2   Ecological communities are composed of various species, which interact with 
+each other in a given habitat.nome) re-oriented the conceptual representation of microbial 
+life, from a focus on taxonomic groups (microbiota) and their 
+phylogeny (i.  e., evolutionary relationships) and physiology (i.  e., 
+their functions as a living system), to the study of integrated 
+and interacting communities (microbiomes) and their structure and function, which were then mainly characterized on the level 
+of genes and gene functions.
+1 Subsequently, we will indicate 
+how agricultural soil science adopted these metagenomics ap -
+proaches and with them the genome-centered representation of 
+microbial life. This shaped the conceptualization of goals, sit -
+uations, and interventions in terms of soil quality in relation to 
+agricultural practices and thus the resulting technical norms that 
+potentially inform policy makers, actors in agribusiness, and 
+farmers.
+From microbial cultures to an ecology 
+of genomes in microbial ecology
+Microbial ecology emerged from environmental microbiology 
+as the study of the relationships of microorganisms with their 
+environment and among each other. Due to the need for develop-
+ing procedures for examining microbial life in its natural context 
+and bringing to light life forms which are otherwise invisible, en -
+vironmental microbiology was a technology-driven field since 
+its inception at the beginning of the twentieth century. Soil and 
+marine microbiology were crucial in the development of micro -
+bial ecology. The outlook of these fields differed significantly 
+from those of medical microbiology and food production, which 
+conceived of specific microbes as pathogens to be removed from 
+bodies, or as reagents, respectively (O’Malley 2014). Soil micro-
+biologists, instead, considered the diversity of microbial compo-
+nents of soil as fundamental and as contributing to the richness 
+of soil as substrate for plants. Therefore, the methods of soil mi -
+crobiologists were developed in the context of or applied by ag -
+ricultural sciences early on (Ackert 2007).
+Environmental microbiologists were aware of a discrepancy 
+between the types of viable cells in the cultured samples and the 
+range of diversity observed with microscopes. In the late 1970s 
+it became apparent that only 0,1–1  % of microbial life from sam-
+ples could be retrieved with available culturing techniques, a 
+fact referred to as the “great plate count anomaly” (Staley and 
+Konopka 1985; for recent criticism, see Martiny 2019). To over -
+1   While the term ‘microbiota’ refers to all microbes in a given environment, ‘mi-
+crobiome’ denotes microbial communities in a given habitat, their internal and 
+external interactions, as well as their genomic content (Berg et al. 2020).Metagenomics approaches generate a selective, genome-centered 
+theoretical perspective on soil ecology.
+26SPECIAL TOPIC · N ExT  gE NErA TION  SEq uE NCIN g
+ (2021) 30 /2: 24–29 Robert Meunier, Saliha Bayı r
+plying knowledge and approaches of basic science to the assess -
+ment of situations and the identification of causal regularities 
+suitable for interventions. The study of the microbial dimension 
+of soil in agricultural science has been strongly enhanced by 
+NGS  technologies. In the following, we will briefly indicate how 
+the adoption of metagenomics approaches from microbial ecol -
+ogy has shaped the articulation of values and goals, the assess -
+ment of situations, as well as the recommended interventions in 
+the technical norms delivered by agricultural soil research.
+Values and Goals
+Since agricultural research became institutionalized in various 
+national contexts in the latter half of the nineteenth century, in-
+creasing productivity was a central goal (Noll 2016). With an ev -
+er-increasing demand for food, feed, fiber, fuel and pharmaceuti -
+cals, many depict this goal as more urgent than ever. This goal is 
+derived from the underlying, albeit promissory values of (global) 
+prosperity and well-being. Detrimental effects of agricultural 
+intensification such as ecosystem degradation and biodiversity 
+loss led to a new agenda aimed at halting these processes, result -
+ing in calls for sustainable agriculture (Thompson 2016). The 
+role of science is then seen as mitigating these processes, either 
+by developing alternative strategies, or by delivering technolog -
+ical fixes (Puig de la Bellacasa 2015). In some of these contexts, 
+design science projects could be perceived as ‘post-normal sci-
+ence’ (Funtowicz and Ravetz 1993), which provides advice un -
+der conditions of uncertain facts and diverging values.
+In the context of agricultural science and policies informing 
+its goals, the maintenance of ecosystems and biodiversity is typ -
+ically not presented as an intrinsic value, but in a rather utilitar -
+ian way with respect to the overarching values of prosperity and 
+well-being (Haines-Young and Potschin 2010). The latter are de -
+scribed as depending on ecosystem services which are provided 
+by intact and diverse ecosystems. The notion of ecosystem ser -
+vices implies an anthropocentric understanding of ecosystem 
+function. Without these, it is feared, not only will productivity 
+eventually break down, but other negative consequences, for in -
+stance regarding climate change, will ensue. In the context of 
+these externally set values and goals, agricultural science aims 
+to deliver technical norms that are hoped to mediate the de -
+mands of productivity and sustainability. With metagenomics 
+approaches, ecosystem functions of soils become re-interpreted 
+in terms of networks of genes available in the ecosystem and the 
+metabolic pathways they sustain (Schloter et al. 2018). This then 
+has consequences in turn for the way specific goals are formu -
+lated regarding possible achievements or fixes, and ultimately 
+determines the kinds of interventions suggested.
+Situation assessment
+The assessment of situations in which the goals are relevant and 
+that can be changed through intervention happens on a global 
+and a local level. The growing demands for agricultural prod -
+ucts and the degree of ecosystem degradation and biodiversity 
+loss need to be determined on a global or national level such that sum of individual organisms (Konopka 2009). But as indicated 
+by the concept of the microbiome, these units are now mainly 
+understood through their collective genome (Berg et al. 2020).
+While we showed how NGS  technologies enabled access to 
+previously inaccessible dimensions of microbial life, we con-
+clude that metagenomics approaches generated a genome-cen -
+tered theoretical perspective on soil ecology. Despite our empha -
+sis on the selective nature of these approaches and the resulting 
+perspective on the biological dimension of soil, it is important 
+to note that microbial ecologists typically employ different com -
+plementary strategies in addition to NGS . For instance, soil is 
+submitted to chemical and physical characterizations (Fierer, 
+2017). Furthermore, microbial ecologists are aware of and ad -
+dress limitations of the approach: 1) Predicted community func -
+tions reflect only potential activity as many genes may originate 
+from dormant cells or DNA  debris and as genes are transcribed 
+and translated into proteins only under certain environmental 
+conditions (Prosser 2020). 2)  Testing sequence-based predic -
+tions and gaining knowledge about cell-level anatomy and phys -
+iology, as well as modes of interaction among microbes and 
+between microbes and plants would require culturing microor -
+ganisms in the lab. However, even though new culturing tech -
+niques are developed, various factors such as dormancy, symbi -
+otic interdependency, low abundance, and competition still con -
+stitute difficulties for cultivation under lab conditions (Lewis 
+et al. 2021). 3) Metagenomics results in massive amounts of data 
+and the ‘bioinformatics bottleneck’ diagnosed for other fields 
+employing NGS  applies here as well (Desai et al. 2012). Filter -
+ing out information irrelevant for the pursued research question 
+and analyzing and interpreting data requires special expertise 
+(Kulkarni and Frommolt 2017). Therefore, collaboration with 
+bioinformaticians becomes a necessary organizational feature 
+of microbial ecology.
+The next section addresses the fate of metagenomics ap -
+proaches to soil microbiology in the context of agricultural sci -
+ence.
+The constituents of technical norms 
+in research for sustainable agriculture
+Agricultural science is a multidisciplinary field producing 
+knowledge about elements of agricultural practice on various 
+levels, including soil, plants and pests, chemical and mechani -
+cal production technologies, and crop management strategies, as 
+well as economic and political dimensions (Noll 2016). Many 
+projects deliver descriptive knowledge on these aspects and can 
+be categorized as use-inspired basic research. However, large 
+parts of agricultural science aim at technical norms, i.  e., rec -
+ommendations about how to treat soil, choose or improve crops, 
+handle pests, use technologies or design and implement policies. 
+Such recommendations typically involve (methods for) the as -
+sessment of situations and are delivered under the assumption 
+of a set of values and goals. Technical norms are derived by ap -
+27SPECIAL TOPIC · N ExT  gE NErA TION  SEq uE NCIN g
+ (2021) 30 /2: 24–29 Robert Meunier, Saliha Bayı r
+sessment of situations and possible interventions. We are not 
+suggesting that these fields are limited to a metagenomics ap -
+proach and the associated theoretical perspective. Physical and 
+chemical technologies for soil analysis are also used and further 
+developed. Nonetheless, metagenomics approaches have ori-
+ented the outlook of agricultural soil microbiology strongly on 
+a genome-centered notion of ecosystem services.
+Our analysis suggests that this perspective tends to support 
+instrumental attitudes towards sustainability. In extension to Ni -
+iniluoto’s advice that in order to avoid short term “instrumen -
+tal reason”, focusing solely on economic or technical efficiency, 
+“a technical norm should include among its antecedent A all the 
+relevant valuations that concern the direct and indirect conse -
+quences of the recommended action X” (Niiniluoto 1993, p.  16), 
+it would be possible to suggest another meta-technical norm, 
+i. e., a recommendation as to how to construct technical norms, 
+based on our analysis: When developing or adopting technical 
+norms, the directed and selective nature of approaches underly -
+ing the assessment of situations and delineation of causal rela -
+tions should be taken into account and they should be considered 
+and framed against the background of alternative approaches.
+Acknowledgements
+The research was funded by the Deutsche Forschungsgemeinschaft ( DFG) – 
+362545428.
+References
+Ackert, Lloyd (2007): The “Cycle of Life” in ecology. Sergei Vinogradskii’s 
+soil  microbiology, 1885–1940. In: Journal of the History of Biology 40 (1), 
+pp. 109–145. https:/ /doi.org/10.1007/s10739-006-9104-6
+Berg, Gabriele et al. (2020): Microbiome definition re-visited. Old concepts 
+and new challenges. In: Microbiome 8 (1), p.  103. https:/ /doi.org/10.1186/
+s40168-020-00875-0
+Bowles, Timothy; Jackson, Louise; Loeher, Malina; Cavagnaro, Timothy (2017): 
+ Ecological intensification and arbuscular mycorrhizas. A meta-  analysis 
+of tillage and cover crop effects. In: Journal of Applied Ecology 54 (6), 
+pp. 1785–1793. https:/ /doi.org/10.1111/1365-2664.12815
+Desai, Narayan; Antonopoulos, Dion; Gilbert, Jack; Glass, Elizabeth; Meyer, Folker 
+(2012): From genomics to metagenomics. In: Current Opinion in Biotechno -
+logy 23 (1), pp.  72–76. https:/ /doi.org/10.1016/j.copbio.2011.12.017
+Fierer, Noah (2017): Embracing the unknown. Disentangling the complexities of 
+the soil microbiome. In: Nature Reviews Microbiology 15 (10), pp.  579–590. 
+https:/ /doi.org/10.1038/nrmicro.2017.87
+Fierer, Noah et al. (2012): Cross-biome metagenomic analyses of soil microbial 
+communities and their functional attributes. In: Proceedings of the National 
+Academy of Sciences National Academy of Sciences 109 (52), pp.  21 390–21  395. 
+https:/ /doi.org/10.1073/pnas.1215210110recommendations can inform policies. Also, on the local level 
+of the individual field, farmers need to make decisions regard -
+ing soil and crop management. Much research is thus focused 
+on developing soil quality indicators. Metagenomics approaches 
+are increasingly utilized for this purpose. Microbial indicators 
+can be used to monitor the state of soils on larger scales or re -
+port on the state of a specific field, and it is hoped that degra -
+dation or biodiversity loss can not only be measured, but de -
+tected at early stages, allowing for mitigating actions (Schloter 
+et al. 2018). While physical and chemical indicators are seen as 
+equally valuable, microbial indicators are envisioned to replace 
+other indicators where they are cheaper or easier to apply. Fur -
+thermore, such indicators could be highly specific such that they 
+can measure the availability of specific ecosystem services in a 
+given agroecosystem.
+Intervention
+Technologies developed in basic research projects are sometimes 
+developed further in design science projects as handles for in -
+terventions (e.  g., DNA  specific enzymes were developed into 
+biotechnologies). Knowledge about microbiomes and metagen -
+omics approaches qua indicators, instead, are mainly developed 
+to evaluate practices and plan interventions involving other, of -
+ten well-established technologies such as soil and crop man -
+agement and the use of fertilizers and pesticides. For instance, 
+much research has focused on how tillage and cropping regimes 
+shape the microbiome and this line of design science has deliv -
+ered specific technical norms concerning these practices (Bow -
+les et al. 2016). Especially if reliable microbial indicators were 
+turned into easy-to-use testing kits, farmers could make spe -
+cific interventions based on these technologies, but concerning 
+the use of other technologies. For instance, farmers could apply 
+chemical amendments only when certain metagenomically de -
+fined microbial metabolic functions were found missing. Addi -
+tionally, however, metagenomics knowledge and approaches can 
+be a pre-condition for using microbes as technologies in micro-
+bial community engineering (Ke et al. 2020). Even if commer -
+cially produced microorganisms are available today for coating 
+seeds before planting, much of the research remains promissory 
+at this stage (Oviatt 2020).
+Conclusion
+We have shown how the introduction of NGS -based metagen-
+omics has transformed the way microbial ecology describes eco -
+systems such as soil and how this in turn influences recommen -
+dations delivered by agricultural soil research regarding the as -Metagenomics approaches are increasingly utilized 
+for developing soil quality indicators.
+28SPECIAL TOPIC · N ExT  gE NErA TION  SEq uE NCIN g
+ (2021) 30 /2: 24–29 Robert Meunier, Saliha Bayı r
+Prosser, James (2020): Putting science back into microbial ecology. A question 
+of approach. In: Philosophical Transactions of the Royal Society B: Biological 
+Sciences, 375 (1798), p.  20 190 240. https:/ /doi.org/10.1098/rstb.2019.0240
+Puig de la Bellacasa, Maria (2015): Making time for soil. Technoscientific futurity 
+and the pace of care. In: Social Studies of Science 45 (5), pp.  691–716. https:/ /
+doi.org/10.1177/0306312715599851
+Rheinberger, Hans-Jörg (1997): Toward a history of epistemic things. Synthesizing 
+proteins in the test tube. Stanford, CA: Stanford University Press.
+Schloter, Michael; Nannipieri, Paolo; Sørensen, Søren; van Elsas, Jan (2018): 
+ Microbial indicators for soil quality. In: Biology and Fertility of Soils 54 (1), 
+pp. 1–10. https:/ /doi.org/10.1007/s00374-017-1248-3
+Slatko, Barton; Gardner, Andrew; Ausubel, Frederick (2018): Overview of Next-  
+Generation Sequencing technologies. In: Current Protocols in Molecular 
+ Biology 122 (1), p. e59. https:/ /doi.org/10.1002/cpmb.59
+Staley, James; Konopka, Allan (1985): Measurement of in situ activities of non-
+photosynthetic microorganisms in aquatic and terrestrial habitats. In: Annual 
+Review of Microbiology, 39 (1), pp.  321–346. https:/ /doi.org/10.1146/annurev.
+mi.39.100185.001541
+Stokes, Donald (1997): Pasteur’s quadrant. Basic science and technological 
+ innovation. Washington, DC: Brookings Institution Press.
+Thompson, Paul (2016): The many meanings of sustainability. A  competing 
+ paradigms approach. In: Steven Moore (ed.): Pragmatic sustainability. 
+ Dispositions for critical adaptation. London: Routledge, pp.  16–28.
+Woese, Carl; Gutell, Robin; Gupta, Ramesh; Noller, Harry (1983): Detailed analysis   
+ of the higher-order structure of 16S-like ribosomal ribonucleic  acids. 
+In:  Microbiological Reviews 47 (4), pp.  621–669. https:/ /doi.org/10.1128/
+MR.47.4.621-669.1983Funtowicz, Silvio; Ravetz, Jerome (1993): Science for the post-normal age. 
+In:  Futures 25 (7), pp.  739–755. https:/ /doi.org/10.1016/0016-3287(93)90022-L
+Gibbons, Michael et al. (1994): The new production of knowledge. The  dynamics 
+of science and research in contemporary societies. London: SAGE  Publica-
+tions.
+Gupta, Shashank et al. (2019): Amplicon sequencing provides more  accurate 
+ microbiome information in healthy children compared to culturing. 
+In:  Communications Biology 2 (1), pp.  1–7. https:/ /doi.org/10.1038/s42003-019-
+0540-1
+Haines-Young, Roy; Potschin-Young, Marion (2010): The links between biodiver -
+sity, ecosystem service and human well-being. In: David Raffaelli and 
+Christopher Frid (eds.): Ecosystem ecology. A new synthesis.  Cambridge, 
+U. K.: Cambridge University Press, pp.  110–139. https:/ /doi.org/10.1017/
+CBO9780511750458.007
+Ke, Jing; Wang, Bing; Yoshikuni, Yasuo (2020): Microbiome engineering.  Synthetic 
+biology of plant-associated microbiomes in sustainable agriculture. 
+In: Trends in Biotechnology 39 (3), pp.  244–261. https:/ /doi.org/10.1016/j.
+tibtech.2020.07.008
+Konopka, Allan (2009): What is microbial community ecology? In: The ISME  
+ Journal 3 (11), pp.  1223–1230. https:/ /doi.org/10.1038/ismej.2009.88
+Kulkarni, Pranav; Frommolt, Peter (2017): Challenges in the setup of large-scale 
+Next-Generation Sequencing analysis workflows. In: Computational and 
+Structural Biotechnology Journal 15, pp.  471–477. https:/ /doi.org/10.1016/j.
+csbj.2017.10.001
+Lewis, William; Tahon, Guillaume; Geesink, Patricia; Sousa, Diana; Ettema, 
+Thijs (2021): Innovations to culturing the uncultured microbial majority. 
+In: Nature Reviews Microbiology 19, pp.  1–16. https:/ /doi.org/10.1038/s41579-
+020-00458-8
+Martiny, Adam (2019): High proportions of bacteria are culturable across  major 
+biomes. In: The ISME  Journal 13 (8), pp.  2125–2128. https:/ /doi.org/10.1038/
+s41396-019-0410-3
+Massimi, Michela (2018): Four kinds of perspectival truth. In: Philosophy and 
+ Phenomenological Research 96 (2), pp.  342–359. https:/ /doi.org/10.1111/
+phpr.12300
+Niiniluoto, Ilkka (1993): The aim and structure of applied research. In: Erkenntnis 
+38 (1), pp.  1–21. https:/ /doi.org/10.1007/BF01129020
+Noll, Samantha (2016): Agricultural science and values. In: Paul Thompson and 
+David Kaplan (eds.): Encyclopedia of food and agricultural ethics.  Dordrecht: 
+Springer Netherlands, pp.  1–6. https:/ /doi.org/10.1007/978-94-007-6167-
+4_564-1
+O’Malley, Maureen (2014): Philosophy of microbiology. Cambridge, U.  K.: 
+ Cambridge University Press.
+Oviatt, Peter (2020): Soil drugs of the future. The sustainability of BioAg and 
+the repair of arable land. In: Environment and Planning E: Nature and Space 
+(online first). https:/ /doi.org/10.1177/2514848620943894
+Pace, Norman; Stahl, David; Lane, David; Olsen, Gary (1986): The analysis of 
+ natural microbial populations by ribosomal RNA sequences. In: Kevin 
+ Marshall (ed.): Advances in microbial ecology. Boston, MA: Springer US, 
+pp. 1–55. https:/ /doi.org/10.1007/978-1-4757-0611-6_1
+Pereira, Rui.; Peplies, Jörg; Brettar, Ingrid; Höfle, Manfred (2017): Development 
+of a genus-specific next generation sequencing approach for sensitive and 
+quantitative determination of the Legionella microbiome in freshwater 
+ systems. In: BMC Microbiology 17, p.  79. https:/ /doi.org/10.1186/s12866-017-
+0987-5DR.  ROBERT MEUNIER
+is Principal Investigator of the DFG-funded  project 
+“Forms of Practice, Forms of Knowledge: Method, 
+ Notation and the Dynamics of Perspectives in 
+the Life Sciences” (2018–21) at the Institute of 
+ Philosophy, University of Kassel. He works on the 
+history and epistemology of the life sciences.   
+ 
+SALIHA BAYIR
+is a PhD student in the DFG-funded project “Forms 
+of Practice, Forms of Knowledge: Method,  Notation 
+and the Dynamics of Perspectives in the Life 
+Sciences” (2018–21) since 2019. She has a dual back -
+ground in life sciences and philosophy and works 
+on the history and philosophy of microbial ecology.
+29SPECIAL TOPIC · N ExT  gE NErA TION  SEq uE NCIN g
+ (2021) 30 /2: 24–29 Robert Meunier, Saliha Bayı r

@@ -1,0 +1,1153 @@
+Soil Security  2 (2021) 100004 
+Contents  lists available  at ScienceDirect  
+Soil Security  
+journal  homepage:  www.elsevier.com/locate/soisec  
+Soil health  and well-being:  Redeﬁning  soil health  based  upon  a plurality  of 
+values  
+Claire  N. Friedrichsen  a , ∗ , Sheryl  Hagen-Zakarison  b , Maren  L. Friesen  c , d , Carol R. McFarland  c , 
+Haiying  Tao c , J.D. Wulfhorst  a 
+a Natural Resources  and Society, University  of Idaho, 875 Perimeter  Drive, Moscow, IS 83844, United States 
+b Zakarison  Partnership,  Pullman, WA 99163, United States 
+c Department  of Plant Pathology,  Washington  State University,  Pullman, WA 99164, United States 
+d Department  of Crop and Soil Sciences, Washington  State University,  Pullman, WA 99164, United States 
+a r t i c l e i n f o 
+Keywords:  
+Ethnopedology  
+Soil quality 
+Qualitative  
+Adoption  
+Perception  
+Soil security 
+Nature’s contributions  to people 
+Ecosystem  services a b s t r a c t 
+The dominant  research  paradigm  for soil health emphasizes  instrumental  values to achieve sustainable  food sys- 
+tems. However,  soil provides  a plurality  of values in society beyond instrumental  value contributing  to human 
+well-being.  This research  aims to understand  the relational  values that soil provides  farmers by examining  the 
+meaningfulness  and intrinsic  motivation  for building  soil health among wheat farmers in the Inland Paciﬁc North- 
+west (iPNW).  Data were collected  from two soil health work sessions and 11 in-depth  semi-structured  interviews  
+with innovator  wheat farmers to understanding  broader perspectives  and meanings  of soil health. Four themes 
+of relational  values emerged  from the data showing  the link between  soil health and human well-being.  The 
+results suggest that the term soil health should not be exclusively  assessed  by its instrumental  values but also by 
+its relational  values supporting  a plural valuation  of soil health. Incorporating  soil health’s plural valuation  into 
+research  will contribute  to more eﬀective  holistic innovations  supporting  human and environmental  well-being.  
+This research  provides  important  insights into deﬁning  soil health and for transforming  the innovation  paradigm  
+of soil health to include relational  values and cultural ecosystem  services for transforming  our current food system 
+into an equitable,  sustainable,  healthy,  and just system. Changing  soil health assessments  to acknowledge  addi- 
+tional soil health management  outcomes  related to human well-being  may facilitate  decision-making,  support 
+the intrinsic  motivation  of soil health, and provide support to transformative  food systems.  
+1. Introduction  
+Building  an equitable,  just, sustainable,  and healthy  food system 
+is a complex  and dynamic  challenge.  The three main agro-innovation  
+paradigms  are eﬃciency,  demand  restraint,  and food system transfor-  
+mation ( El Bilali et al., 2019 ). An agro-innovation  paradigm  is the dom- 
+inant framework  of social norms in the research  community,  deﬁning  
+the problem  of focus, the acceptable  methods,  and the breadth  of ac- 
+ceptable  solutions  for transforming  the food system to build a sustain-  
+able future. Soil science  falls within the eﬃciency  paradigm.  Currently,  
+soil science  innovations  aim to improve  environmental  quality while 
+also increasing  economic  viability  and agricultural  production  to trans- 
+form our food systems  ( Peña, 2017; Tilman et al., 2011 ). Therefore,  
+innovations  only promote  soil health’s  instrumental  values, neglecting,  
+and marginalizing  non-instrumental  values of soil health (Ellis et al., 
+2019). For example,  the absence  of the concept  of psychological  well- 
+being from the soil health for human health conversation  ( Brevik et al., 
+2020 ). Instrumental  values of soil are the unilateral  ﬂow of the beneﬁt 
+∗ Corresponding  author. 
+E-mail address: clairef@uidaho.edu  (C.N. Friedrichsen).  from soil to humans  to improve  human well-being  ( e.g., nutrient  cycling,  
+plant available  water, and pollutant  degradation)  ( Alcamo  et al., 2003 ). 
+Developing  innovations  that only advance  instrumentally  valued 
+outcomes  simpliﬁes  the multi-dimensional  social outcomes  of the food 
+system,  neglecting  the non-material  human well-being  aspects  of agri- 
+culture,  which leads to their degradation  ( National  Research  Council,  
+2003; Niles et al., 2018; Stefanovic  et al., 2020 ). We argue that by ignor- 
+ing the relational  and plural valuation  of soil health, soil science  does not 
+eﬀectively  address  the dynamic  and complex  societal  challenges  linked 
+to creating  a sustainable  food system.  The Nature’s  Connection  to Peo- 
+ple (NCP) framework  proposed  by the Intergovernmental  Science-Policy  
+Platform  on Biodiversity  and Ecosystem  Services  (IPBES)  advances  the 
+ecosystem  services  framework  by stating that values are pluralistic  and 
+are determined  by cultural  models ( Díaz et al., 2018; Ellis et al., 2019; 
+Pascual  et al., 2017 ). NCP recognizes  that the relationships  humans  
+have with nature across cultures  and contexts  require  a more nuanced  
+understanding  of the types of values beyond  instrumental  valuation  
+( Ellis et al., 2019 ). And that power diﬀerentials  between  stakeholders  
+https://doi.org/10.1016/j.soisec.2021.100004  
+Received  4 August 2020; Received  in revised form 23 December  2020; Accepted  10 January  2021 
+Available  online 16 January  2021 
+2667-0062/©2021  The Author(s).  Published  by Elsevier Ltd. This is an open access article under the CC BY-NC-ND  license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/  ) 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+determine  which values of nature are pursued  and promoted  within the 
+dominant  agro-innovation  paradigm  ( Arias-Arévalo  et al., 2017 ). 
+There is a diversity  of values related to nature ( Kenter et al., 2019 ). 
+Nature is valued pluralistically  beyond  just instrumental  values, depend-  
+ing on cultural  models or diverse  world views ( Pascual  et al., 2017 ). 
+Intrinsic  values exist outside  of the value placed on nature by humans  
+(e.g., diversity  of soil types). Relational  values are the beneﬁts  derived  
+from a caring relationship  with soil by an individual  or a community.  
+arew are a multi-directional  ﬂow of beneﬁts  from individuals  and com- 
+munities  to the soil, and vice versa through  soil stewardship  ( Chan et al., 
+2016; Pascual  et al., 2017 ). Farmers  have intrinsic  and relational  values 
+for soil derived  from their stewardship  and care for the soil ( Keith et al., 
+2016 ; Puig de la Bellacasa,  2015; Tironi et al., 2020 ). Relational  values 
+of soil stewardship  are the base of indigenous  or traditional  ecological  
+knowledge.  However,  due to the systematic  imperialism  of indigenous  
+knowledge  by soil science,  these values have been erased. This is com- 
+pared to the exploitative  western  perception  and concept  of land own- 
+ership (Peña, 2017) . Relational  values, a concept  taken from indigenous  
+knowledge  ( Gould et al., 2019 ), conceptually  advances  the poorly de- 
+ﬁned term cultural  ecosystem  services,  which is seen as a unidirectional  
+ﬂow of beneﬁts  from nature to humans  ( Daniel et al., 2012; Ellis et al., 
+2019; Himes and Muraca,  2018 ). 
+1.1. Deﬁning  soil health 
+A working  deﬁnition  of soil health is the soil’s ability to func- 
+tion and provide  for the well-being  of humans,  plants, and animals  
+( Kibblewhiteg  et al., 2008 ). These include  attributes,  such as soil or- 
+ganic matter,  soil pH, nutrient  levels, and the prevalence  of pests versus 
+beneﬁcial  organisms,  as well as physical  properties,  such as soil depth, 
+compaction,  and water inﬁltration.  Soil health assessments  are typically  
+done through  a combination  of on-farm  measurements  and sending  sam- 
+ples to commercial  labs for chemical  and biological  measurements.  Im- 
+portantly,  there is no single measurement  that captures  what factors 
+make soil healthy;  diﬀerent  regions  and land-use  histories  will have dif- 
+ferent soil properties  that limit plant productivity  and ecosystem  ser- 
+vices. 
+While the importance  of diﬀerent  indicators  varies, many studies 
+track a soil’s progression  towards  being healthy  through  collecting  soil 
+samples  from speciﬁc  land areas under varying  aspirational  conserva-  
+tion practices  and comparing  these to nearby "business  as usual" soils. 
+Identiﬁed  aspirational  soil conservation  practices  explored  in the litera- 
+ture include  no-till ( Nunes et al., 2018 ) and cover crops ( Stewart  et al., 
+2018 ). In addition,  nearby “undisturbed  land ”( Maharjan  et al., 2020 ) 
+may provide  a baseline  of what a potentially  healthy  soil looks like in 
+a speciﬁc  region and may help deﬁne the potential  range of a system.  
+The act of deﬁning  the baseline  or the range of a potential  system is a 
+valued act. For example,  choosing  “undisturbed  land ”as a baseline  ne- 
+glects the thousands  of years of continued  sustainable  indigenous  soil 
+and land stewardship  (Peña, 2017) . 
+Soil health assessments  need expansion  to also focus on how the 
+user of the soil health assessment  will use it to make decisions,  and 
+their needs and motivators  for behavior  change ( Lobry de Bruyn and 
+Abbey, 2003 ). For example,  indicators  that can show annual progress  of 
+soil health improvement  ( Karlen et al., 2017, 2019 ). Other suggestions  
+include  reformulating  soil health assessments  to ﬁt within the existing  
+routine  of farmers  and require  minimal  paperwork  and limited training  
+( Lobry de Bruyn and Abbey, 2003 ). Soil health measurements  are cur- 
+rently an area of high research  activity,  so ways of involving  growers  in 
+research  and co-innovation  activities  can serve to empower  them. 
+1.2. Motivation  and adoption  of soil health 
+Motivation  can be both intrinsically  and extrinsically  inﬂuenced  
+( McClelland,  2005 ), and is aﬀected  by values ( Stern et al., 1999 ). Schol- 
+arly literature  has examined  extrinsic  monetary  and policy determi-  nants for encouraging  pro-environmental  behavior.  There is limited 
+widespread  adoption  of conservation  practices  with current  extrinsic  
+motivation  leverage  tools ( Napier,  2010 ). However,  this lack of progress  
+may be related to neoclassical  economics’  diﬃculty  in capturing  as- 
+signed values related to non-material  human well-being  ( Wegner  and 
+Pascual,  2011 ). More knowledge  is needed  to understand  soil health 
+behavior  determinants  to increase  conservation  behavior  ( Baum and 
+Gross, 2017 ). Several  frameworks  examine  the relationship  between  en- 
+vironment,  assigned  values, behavior,  environmental  governance,  and 
+management  ( Arias-Arévalo  et al., 2017; Ellis et al., 2019; Schulz et al., 
+2018; Stern et al., 1999 ). 
+Humans  are intrinsically  motivated  by the pursuit of their own well- 
+being and fulﬁllment  of their psychological  needs ( Deci and Ryan, 2008, 
+2012, Maslow,  1943, 1954; Tay and Diener,  2011 ). The concept  of well- 
+being varies across cultures  although  some patterns  of well-being  are 
+cross-cultural  ( Blackstock,  2011; McCubbin  et al., 2013; Tov and Di- 
+ener, 2009 ). Indigenous  peoples  perceive  a strong connection  between  
+relational  values with mother  nature and their well-being  ( Gould et al., 
+2019; Peña, 2017 ). The non-indigenous  conceptualization  of intrinsic  
+motivation  has been dimensionalized  as autonomy,  competency,  and 
+relatedness  ( Deci and Ryan, 2008, 2012 ). Diﬀering  frameworks  of well- 
+being provide  variants  on the broad typologies.  For example,  the in- 
+digenous  derived  Breadth  of Life Theory recognizes  cognitive,  physi- 
+cal, spiritual  and emotional  dimensions  ( Blackstock,  2011 ). The mil- 
+lennium  assessment  (MA) framework  of ecosystem  services  and human 
+well-being  recognizes  ﬁve components  of well-being  beyond  material  
+need: freedom,  choice, health, personal  security,  and social relations  
+( Alcamo  et al., 2003 ). Maslow’s  hierarchy  of needs uses ﬁve broad cat- 
+egories that motivate  behavior:  physiological,  safety, love and belong-  
+ing, esteem,  and self-actualization  ( Maslow,  1954, 1943 ). Needs and 
+motivations  are not hierarchical  as related to pursuing  well-being,  and 
+multiple  needs can motivate  a single behavior,  depending  upon the in- 
+dividual,  culture,  and context  ( Maslow  and Frager, 1987; Paavola  and 
+Adger, 2005; Tay and Diener,  2011 ). 
+The management  of agricultural  soil is determined  by the farmer 
+and/or landowner  assigned  values. The determination  of soil’s assigned  
+value by farmers  beyond  economic  proﬁtability  remains  under-explored  
+in the literature  ( Himanen  et al., 2016 ). Ecosystem  valuation  by farm- 
+ers is determined  by culture,  context,  and perceived  nature connections  
+( Allen et al., 2018 ; Vignola  et al., 2010 ; Wuepper,  2020 ). Eﬃcacy  of soil 
+health hinges on identifying  and understanding  the plurality  of assigned  
+values of soil, as well as how the power of agency relates to the expres-  
+sion of valuing  soil by marginalized  communities  ( Allen et al., 2018; 
+Arias-Arévalo  et al., 2017; Braito et al., 2020 ). 
+Farmers  have diverse  values that motivate  their soil health man- 
+agement  behavior,  ranging  from connectedness  to soil, freedom,  and 
+authority  ( Braito et al., 2020 ). Limited  research  has examined  motiva-  
+tors in under-represented  farmer groups,  such as women  and beginning  
+farmers  ( Barnes and Bendixsen,  2017 ). The prioritization  of values and 
+how they are applied  varies by group ( Ellis et al., 2019; Schulz et al., 
+2019 ) . Care, often attributed  to women,  is a motivator  for community  
+and pro-environmental  oriented  farming  practices  ( Jarosz, 2011; Wells 
+and Gradwell,  2001 ). Women  play an important  role in determining  the 
+adoption  of pro-environmental  soil health practices  in the United States 
+( Bridges  and Napier,  2003 ). A case study with urban African  Ameri- 
+can farmers  in the southern  United States documented  the pursuit of 
+well-being,  the embodiment  of femineity,  and the nurturing  of Mother  
+Earth as critical motivators  for women  to pursue farming  ( Barnes and 
+Bendixsen,  2017 ). More research  is needed  to understand  the prioritiza-  
+tion of values across farmers  related to the assigned  value of soil health 
+and its relationship  with human well-being.  
+This research  has a transdisciplinary  objective  by working  between  
+the social and soil sciences  to identify  additional  assigned  values of soil 
+health by commodity  wheat farmers  and crop advisors  in the inland Pa- 
+ciﬁc Northwest  (iPNW).  This research  aims to advance  soil science  the- 
+ory and paradigm  surrounding  how soil health is deﬁned  and therefore  
+2 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+assessed  using social science  theory and methodology.  We argue that 
+soil health needs to be contextually  deﬁned  and assessed  by the user of 
+the soil health data and that solely relying on predetermined  soil biolog- 
+ical, chemical  and physical  characteristics  do not holistically  evaluate  
+the plurality  of value types soil health provides  to human well-being.  
+Additionally,  this work seeks to ﬁll the knowledge  gap of relational  val- 
+ues associated  with soil health. Currently,  soil science  focuses  on in- 
+strumental  values of soil for human well-being.  By developing  a greater 
+understanding  of the plurality  of the soil health’s  value has across con- 
+texts, we can more eﬀectively  improve  human well-being  through  soil 
+science  innovation.  Radical  change in the soil science  paradigm  is nec- 
+essary to advance  our goals of sustainable  food systems.  The research  
+presented  here includes  equal representation  of female farmers  within 
+the study sample to gain a representative  understanding  of soil health 
+and its connection  with well-being.  Speciﬁcally,  our research  question  
+is: What does the concept  of soil health mean for farmers  as it relates to 
+the pursuit of their own well-being?  
+2. Methods  
+Qualitative  research  provides  a critical methodological  gap to un- 
+derstanding  adoption  and the barriers  to the adoption  of soil man- 
+agement  strategies  ( Lobry de Bruyn, 1999; Prokopy,  2011 ) ( Lobry de 
+Bruyn, 1999 ). Qualitative  research  is founded  on epistemological  and 
+ontological  diﬀerences  from natural  science  that have limited past trans- 
+disciplinary  research  for solving  societal  challenges  related to soil man- 
+agement  ( Howard  and Lawson,  2015 ). Integration  of multiple  stake- 
+holder knowledges  may create trust with science,  create meaning  for 
+science  across society and contextualize  scientiﬁc  results.  The integra-  
+tion of multiple  stakeholders’  knowledge  may be limited by epistemo-  
+logical and ontological  diﬀerences,  giving privilege  to the dominant  ma- 
+jority or scientiﬁc  perspective  due to a power diﬀerential  and poor best 
+management  practices  in stakeholder  engagement  ( Reed, 2008 ). Quali- 
+tative research  collects  non-numerical  data sources  in systematic  ways. 
+One aim of qualitative  research  is to understand  and explore  the phe- 
+nomenon  in question.  The aim is not to understand  the degree that the 
+phenomenon  exists in society or if it is generalizable  ( Charmaz,  2014 ). 
+Best management  practices  in qualitative  research  ensure rigorous  sci- 
+ence ( Bernard,  2000 ). Qualitative  research  uses several diﬀerent  tech- 
+niques to indicate  the quality or rigor of the research,  including  triangu-  
+lation, prolonged  engagement  with the population,  member  checking,  
+peer reﬂection,  rich thick description,  discrepant  information,  and clar- 
+ifying researcher  bias ( Patton,  1999 ). 
+2.1. Context  
+The iPNW spans across the western  portion  of Washington  State, 
+northern  Idaho, and the northwestern  corner of Oregon.  Wheat is the 
+dominant  crop on more than 5 million  dryland  acres in the iPNW 
+( Schillinger  and Young, 2004 ). Both winter and spring wheat varieties  
+are grown in the iPNW in diverse  cropping  systems  across a large va- 
+riety of soil types and precipitation  zones that vary over a steep gradi- 
+ent (150–640  mm annual precipitation)  due to the rain-shadow  of the 
+Cascade  mountains.  Soil health practices  in the region include  reducing  
+or eliminating  tillage, planting  cover crops, using crop rotations  to en- 
+hance soil fertility,  and suppressing  weeds and disease.  In 2017, 25% of 
+all farm operations  in Washington  over 500 acres practiced  no-till, and 
+43% practiced  conservation  tillage ( USDA, 2017 ). 
+2.2. Design 
+A case study research  design aims to develop  a holistic  understand-  
+ing of a particular  outcome  of a context  ( Bernard,  2011 ). This research  is 
+designed  to understand  the meaning  underlying  innovator  wheat farm- 
+ers in the iPNW adoption  of the concept  of soil health. The aim is not 
+to have generalizable  results that can be replicated.  Rather,  this design aims to develop  an understanding  of why innovator  farmers  adopted  the 
+concept  of soil health. This may give insight into the missing  intrinsic  
+motivators  behind soil health and provide  a holistic  understanding  of 
+soil health outcomes  that may assist soil health assessment  across en- 
+vironmental  and social indicators.  Innovator  farmers  in the context  of 
+this study are those who recognize  the importance  of soil health and 
+are exploring  and implementing  various  new practices  to enhance  the 
+health of their soils despite the potential  ﬁnancial  risk ( Rogers,  2010 ). 
+Data were collected  through  two forms: two work sessions  (ﬁve hours 
+each) and 11 semi-structured  interviews.  
+2.3. Data Collection  and Analysis  
+Two ﬁve-hour  work sessions,  a format with elements  of both a work- 
+shop and focus group, with 23 and 20 participants,  respectively,  were 
+conducted  using the liberating  structures  methodology.  The work ses- 
+sions explored  self-motivation  related to soil health, soil health inno- 
+vation opportunities,  and identiﬁed  social capital within the region to 
+promote  soil health innovation.  The work sessions’  aim was to create 
+an innovation  platform  to spur future research  directions  and oppor- 
+tunities.  The work sessions  were funded by the Washington  State Soil 
+Health Initiative  Seed Grant. All participants  granted  informed  consent.  
+A mixture  of farmers,  state agencies,  researchers,  and private companies  
+were represented.  The workshops  were audio recorded.  Notecards  from 
+the activities,  synthesis  conclusions  by the groups,  and evaluations  were 
+collected.  Audio-recordings  were spot-transcribed  during pertinent  dis- 
+cussion  moments  due to audio quality.  
+Selected  workshop  participants  were contacted  to ask if they would 
+like to participate  in follow-up  interviews  to discuss the social dimen- 
+sions of soil health. Selected  participants  were asked to participate  based 
+on expressing  non-economic  and non-external  motivators  for pursuing  
+soil health, for example,  the importance  of creativity  and the embodi-  
+ment of Christian  behavior  in managing  soil health. Snowball  sampling  
+was used to identify  women  commodity  wheat producers  to participate  
+in the research  ( Bernard,  2011 ). Women  producers  are often excluded  
+from social science  research  surveys  ( Rosenfeld,  2017 ). It became  clear 
+from initial interviews  that their missing  perspective  was essential  to 
+pursue and explore.  All participants  granted  informed  consent.  In to- 
+tal, 11 semi-structured  1-2 hour interviews  were conducted  with white 
+farmers  and consultants  —ﬁve female producers,  four male producers,  
+and two male crop consultants.  All participants  self-identiﬁed  with soil 
+health. Two of the female producers  were beginning  farmers  in their ﬁrst 
+year of production  as an operator.  All other participants  had been in- 
+volved with wheat production  for several decades.  Sampling  ended due 
+to identiﬁable  women  producers  during the onset of COVID-19  lock- 
+downs and the beginning  of the spring season.  Interviews  were con- 
+ducted via phone, Zoom, at producers’  homes, or in public spaces, with 
+the audio being recorded  and then transcribed.  Transcript  quality was 
+checked  and corrected  by the interviewer.  
+The semi-structured  interviews  were an inductive  process  during 
+which the interview  guide evolved  as the data were preliminarily  an- 
+alyzed before the next interview  ( Charmaz,  2014 ). Data collection  and 
+analysis  happened  hand-in-hand  and evolved  to explore  new, emergent  
+themes from the participants.  The semi-structured  interviews  were fo- 
+cused on understanding  how and why farmers  attribute  meaning  to the 
+concept  of soil health. There was a focus in the interview  guide to under- 
+standing  meaningfulness  of soil health to the producer.  Meaningfulness  
+is understood  to be a form of deep intrinsic  motivation  ( Chalofsky  and 
+Krishna,  2009; Ward and King, 2017 ). Questions  such as, “What does 
+soil health mean to you? ”a n d “What does soil health mean to your 
+community?  ”w e r e asked to probe into the intangible  well-being  and 
+intrinsic  motivators  for adopting  the concept  of soil health. 
+Transcripts  were coded in MaxQDA  20.2.2 with content  analysis  
+(Bernard  and Ryan, 2010). All coding and data analysis  occurred  by the 
+ﬁrst author.  Data derived  emergent  codes from the interview  transcripts  
+were inductively  categorized  under themes and then super themes re- 
+3 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+Table 1 
+Data analysis  codebook.  
+Super themes Themes Codes 
+Self-actualization  Fulﬁlling  potential  and objective  Goal, passion, hope, tool for measuring  progress  toward a goal, self-challenging,  important,  
+motivation,  morale, enthusiastic,  excited, hope, interesting,  fulﬁlling,  hope, identity, feels good, 
+happy, rewarding  
+Learning  and creativity  Learning,  reﬂection,  creativity,  smarter, experimentation,  fascinating,  risk, search for knowledge,  
+new innovations,  awareness,  knowledge,  ignorance,  out of the box, systems thinking,  
+mindfulness,  growing,  skill, boredom,  new challenges,  fun 
+Esteem Dignity and pride for livelihood  Social status, gratitude,  trust, world citizen, pride, transparency,  social symbol of crop valuation,  
+arrogance,  conﬁdence,  humbling  
+Respect in the farming community  Landlord  acceptance,  role model for behavior  change, social norm, neighbor  cooperation,  
+generational  conﬂict, social value, farmer community,  reputation,  leadership,  social symbol, 
+good farmer, stigma 
+Connectedness  Social learning and peer belonging  Inclusive,  farmer support group, collaboration,  encouragement  by peers, inﬂuence  by peers, no 
+social community,  social connection,  social capital, social learning 
+Rebuilding  rural communities  and 
+food systems Rebuilding  food system, food security,  repopulating  rural communities,  rural social capital, 
+change agent for the food system, helping the community,  part of the community,  
+communities  not commodities,  societal well-being,  rebuilding  rural communities,  reengaging  
+public in agriculture  
+Stewardship,  nurture, and care Stewardship,  care, nurture, consciousness,  connectedness  to soil, family safe, gender 
+discrimination,  reverence  for intrinsic  soil value, femineity  suppressed,  love for the soil, 
+two-way  relationship  with soil, serving soil, healer, apologizing  to soil, scared duty, greed, 
+mimicking  nature, the value of soil 
+Self-determination  Gaining control by working with 
+nature Control over production,  reducing  synthetic  inputs, supporting  natural systems,  utilizing  natural 
+systems,  resiliency  of production  system, harmony  with nature, domination  and control over 
+nature, killing nature, foundation,  holistic interconnectedness  with nature, regenerative  
+Freedom,  autonomy,  and ﬂexibility  Autonomy,  control over product price valuation,  change agent, land tenure, self-suﬃciency,  
+ﬂexibility,  control over product value, resiliency,  control over production,  enslaving,  freedom,  
+liberating,  control over inputs, balance 
+Farm viability Risk, costs, labor, future potential,  soil is livelihood,  income, policy support, productivity,  
+eﬃciency,  debt, marketability  
+Physical and mental health Mental health, pesticide  residues,  physical health, quality of life, stress 
+lated to dimensions  of well-being  ( Table 1 ) ( Deci and Ryan, 2012; 
+Maslow,  1943, 1954 ). One participant  provided  a member  check by pro- 
+viding feedback  on the accuracy  of representing  their lived experience  of 
+the results ( Bernard,  2011 ). Indicators  of quality used in this research  
+include  community  engagement,  triangulation  of workshop  and inter- 
+view data, member  checking,  the inclusion  of codebook,  peer reﬂection,  
+rich thick description  with the use of quotes,  and discrepant  informa-  
+tion of when themes were not unanimously  expressed  by all participants  
+( Patton,  1999 ). 
+3. Results  
+The results are divided  into four dominant  well-being  themes that 
+emerged  from the workshops  and interviews  expressing  how soil health 
+provides  them relational  values and meaning:  self-actualization,  esteem,  
+connectedness,  and self-determination.  Farmers  saw soil as an essential  
+part of supporting  their well-being  and the well-being  of their commu-  
+nities. The results explore  intrinsic  motivation  and the meaning  of soil 
+health. 
+3.1. Self-actualization  
+The farmers  expressed  self-actualization  through  the adoption  of 
+soil health. Two themes emerged  that expressed  the farmers’  self- 
+actualization  through  soil health: fulﬁlling  potential  and objectives,  
+learning,  and creativity  solving  problems.  
+3.1.1. Fulﬁlling  potential  and objective  
+Soil health provided  a goal for the farmers  to work toward.  “Soil 
+health is an important  thing that we’re trying to foster and achieve,  as 
+much as it is an objective,  and it’s a goal, ”said participant  2. Farmers  
+embodied  these goals and objectives  so much that it became  part of their 
+identity.  
+It (soil health)  is very important  to me, probably  more than to some 
+of my neighbors  or friends.  Something  that I’ve been interested  in and have developed  a passion  for. So it (soil health)  is just part of 
+who I am, that I want to do that. Participant  10 
+Furthermore,  fulﬁlling  this potential  and reaching  these goals and 
+objectives  made farmers  feel good. “Being able to focus and feel good 
+about what you’re doing, ”said participant  9. 
+3.1.2. Learning  and creativity  
+Farmers  noted that it was fun and exciting  to learn about how to 
+improve  soil health by experimenting  and problem-solving  in their ﬁeld, 
+as well as by observing  and mimicking  nature. The progress  they saw 
+in improved  soil health gave them motivation  to continue  farming  and 
+continue  learning  and experimenting.  Participant  1 said, “It is exciting  
+and makes farming  fun. ”
+I think seeing it (soil health)  progress  from what it was to what it’s 
+becoming  is really motivating.  And seeing I have some part in the 
+transformation,  I think it’s really cool to see the progression.  And that 
+really motivates  me, and I’ve been wanting  to ﬁgure out a better 
+metric where I can, like, kind of establish  this baseline  and then 
+you know, measure  how far it’s (soil health)  come. I haven’t  really 
+ﬁgured  that out yet. I think the growth  and transformation  is really 
+motivating.  Participant  2 
+Farmers  perceived  problem-solving  as an essential  part of achieving  
+their goals and that they were solving  larger societal,  wicked,  or diﬃcult  
+to solve problems  of the food system.  Participant  3 explains  how solving  
+the problem  of soil health is about embracing  a diﬀerent  perspective  and 
+a new way of tackling  day-to-day  challenges.  
+Instead  of waking  up every day and going, what am I going to kill 
+today? What am I going to spray?...  Instead,  you say, what am I going 
+to plant today? To feed my soil? Whole diﬀerent  thing. It really is a 
+whole diﬀerent  thing. It’s fun. It’s fun to think about it. And it’s, you 
+know, I mean, there is a piece that’s kind of nerve-wracking  about 
+what did we set in motion with what we did last year? I don’t know. 
+I’ve been walking.  I have my suspicions.  Yeah. And nothing  seems 
+4 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+too insigniﬁcant,  but we’re still learning.  And so, you know, there’s 
+a piece where it’s like that’s a challenge  because  it’s like what do I 
+need to learn today so that I can understand  this a little bit better? 
+Participant  3 
+Farmers  saw they could change the food system that they are part of 
+and become  a leverage  agent for positive  change.  Further,  the ability to 
+be that leverage  agent was important  for self-fulﬁllment.  
+So really diversifying  our systems  and looking  at other ways of really 
+making  that system work. That is what’s got me excited  right now is 
+I think we had a breakthrough  in our understanding  of what needs 
+to be done. Participant  9 
+Most participants  expressed  that the current  soil testing options  did 
+not enable them to measure  progress  or reﬂect upon changes  they were 
+experiencing  in their soil, which perpetuates  the power and knowledge  
+gap between  scientists  and farmers’  practices  in their ﬁelds. After one 
+workshop,  one farmer and consultant  pulled out their soil test results of 
+phospholipid  fatty acid (PLFA) proﬁling  of ﬁelds that have been in cover 
+crops and examined  the results with researchers.  After examining  and 
+discussing  the test results’ inconsistency,  they collaboratively  concluded  
+that the expensive  test results were not scientiﬁcally  advanced  enough  
+to accurately  represent  the changes  in the farmer’s  soil resulting  from 
+his adoption  of cover crops. 
+For farmers,  farming  is more than a career. Farming  is a livelihood  
+and lifestyle.  Soil health gives them a focus, goal, target to aim towards,  
+be curious  about, and continuously  learn about. Soil health provides  a 
+means to self-actualization  for the farmers  to make advancements  and 
+progress  throughout  their lifetimes.  
+However,  not all learning  always ended in positive  results that built 
+motivation.  “These young bucks they get in there, and they get on all 
+enthusiastic  over it (soil health),  but when the results don’t show up 
+right, then it’s dampening  their enthusiasm  a little bit, ”said Participant  
+1. 
+3.2. Esteem 
+Soil health is a means for farmers  to improve  their esteem through  
+improving  their perceived  dignity in society,  their respect within the 
+farming  community,  and to give them the freedom  and ﬂexibility  to 
+take control of their farm. 
+3.2.1. Dignity and pride for livelihood  
+Negative  messaging  surrounding  food quality,  pesticide  use, and en- 
+vironmental  impacts  of farming  have impacted  the perceived  dignity 
+and respect farmers  receive  from society.  Soil health provides  a means 
+of communicating  and receiving  respect for their choices  in livelihood  
+and hard work. 
+I actually  had a very good friend that just really oﬀended  me. So bad. 
+I was so mortiﬁed.  I couldn’t  believe  it. It is really hard to ﬁnd help 
+[to work on the farm]. My friends and I had gone to Mexico  for a girl 
+trip, and we were in the airport.  Getting  ready to leave. And there 
+was this really nice bartender,  he was younger,  and I just said, oh 
+my gosh, I would love to bring you home and have him work on the 
+farm for us, or with us. She [friend]  looked at me [and said] ‘Well, 
+that job is below him.’ And I wanted  to just smack her. Because  I 
+thought  that is what I do every day, and it’s below him? So what do 
+you think of being a farmer?  It made me so sad and so upset. What 
+I do for a living is looked down upon by people… People  actually  
+think that farmers,  you’re dumb, or demeaning  job. Little do they 
+realize that that’s the food they put in their mouth.  I mean, we feed 
+them. Participant  8 
+At the end of the day, these [farmers]  are the people that probably  
+care most about that (environmental  protection)… It  is important  
+to have recognition.  The recognition  that we’re providing  a better 
+product  to them. Participant  9 However,  farmers  are currently  limited in their ability to receive  re- 
+spect and dignity from society because  there is little available  scientiﬁc  
+evidence  to support  that healthier  soils result in a higher quality of food. 
+If I can get our soils turned around to where we’re actually  producing  
+a healthier,  denser product  and have a way of proving  that or show- 
+casing that. I don’t know, I think the sky’s the limit. I mean, I really 
+personally  believes  that that’s what the consumer  wants. It’s just how 
+can we get it there? How can we prove it to them? Participant  4 
+3.2.2. Respect in the farming  community  
+In addition  to gaining  dignity in society for their livelihoods,  soil 
+health is a means for farmers  to gain respect within their peer farming  
+community.  
+My husband’s  family’s  reputation,  they’re known as good farmers.  
+And they haven’t  done anything  necessarily  like, you know, out- 
+standing  or like noteworthy.  They don’t get awards  for it, right. 
+[However,]  You go to conferences,  and people say, ‘I know you guys. 
+You are really good farmers.’  And that’s humbling  and nice to see and 
+nice to hear. Legacy probably  means diﬀerent  things to diﬀerent  peo- 
+ple, but I think like if it can mean like good stewardship,  if it reﬂects  
+your good stewardship  of that land, I think that’s a noble thing to go 
+after. Participant  2 
+Esteem  is built by how we perceive  being respected  and our ability 
+to control our own destiny.  
+Soil health supported  and gave farmers  esteem.  By adopting  soil 
+health, the farmers  perceived  dignity within the food system,  conﬁdence  
+that they were making  the right decisions,  recognition  of value by the 
+public and by other farmers,  an increase  in their social status within 
+the innovator  farmer social group, and power to make changes  in their 
+livelihood.  Soil health gave them the conﬁdence  to continue  adopting  
+new agronomic  practices  and empowerment  to make positive  changes  
+that improve  their livelihood.  
+3.3. Connectedness  
+Social learning  and the potential  to support  and regrow rural com- 
+munities  enable farmers  to ﬁnd belonging  within their peer groups and 
+in their larger communities.  Soil health is a way for farmers  to connect  
+to their land and show their love for the resource,  and as a result, they 
+feel positive  reciprocity  for their stewardship.  Finally,  allowing  for the 
+nurturing  aspects  of agriculture  provides  balance  to the domination  of 
+conventional  agriculture.  
+3.3.1. Social learning  and peer belonging  
+Soil health provides  a crucial non-competitive  topic to foster social 
+learning  and provide  a sense of belonging  for farmers  by drawing  them 
+together  in peer learning  groups.  
+There’s  a lot of collaboration  among farmers…it  just kind of helps 
+you feel like you’re part of a larger group with similar values. That 
+always makes you feel good…To  be able to share information  and 
+experience  reaﬃrms  that we’re going after similar things, and we 
+can contribute  to that greater knowledge  and experience  pool. Par- 
+ticipant  2 
+In addition,  Participant  2, 4, and 9 belong to an invitation-only  
+farmer group that supports  self-funded,  self-run  research  across mul- 
+tiple farms for exploring  alternative  agricultural  inputs and soil health 
+practices.  The goal of the group is to learn about bio-farming.  
+3.3.2. Rebuilding  rural communities  and food systems 
+There is considerable  hope that soil health and improving  soil health 
+can be a critical leverage  point for rebuilding  rural communities  and 
+being a food system change agent. Being part of a larger, stronger  rural 
+5 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+community  also provides  a sense of belonging  in the agricultural  land- 
+scape. Participant  9 said, “People  are starting  to do this type of agri- 
+culture,  regenerative  Ag., and they’re rebuilding  a community.  They’re  
+getting people reengaged  in agriculture.  ”
+And by maintaining  the health of the soil, we hope to leave it more 
+productive  for future generations…Farm  sizes have increased.  And 
+so it takes a bigger farm under current  farming  conditions;  it takes a 
+bigger farm to sustain a family. The same farm size once sustained  
+several families.  And so if we could get to a point, it kind of almost 
+going backward  in time. If we could make each farm healthier,  more 
+sustainable,  we could bring more families  back to the community.  
+Participant  6 
+There is hope that soil health can help farms be more economically  
+proﬁtable,  support  more family farms, and repopulate  the rural agrar- 
+ian landscape.  However,  participant  1 did not see hope: “So how is it 
+going to aﬀect our communities?  Not quickly.  It is gonna be a contin- 
+uing erosion  of the communities  as all I can see. ”The farmer saw that 
+the community’s  strength  and vitality  had already  dissolved  beyond  the 
+capacity  to repair. 
+3.3.3. Stewardship,  nurture,  and care 
+Farmers  have a reciprocal  relationship  with their soil. Stewardship  
+drives farmers’care  for the soil, and as a result, soil provides  the farmer 
+with natural  capital.  Participant  5 said, “I think that there’s just some 
+people that love land and being stewards  of the land. ”Farmers  feel that 
+their relationship  with the soil is two-directional.  That both the farmer 
+and the soil serve and take care of one another.  
+I don’t really own this land. I am here as a steward  to serve it. It is 
+a relationship.  It [soil] will serve if I serve it well, it will serve me…
+It is two way. It is a giving on both sides. It’s giving and accepting.  
+Participant  3 
+Other than stewardship,  some participants  expressed  they had a car- 
+ing relationship  with the soil that they compared  to the relationship  they 
+have with their children.  
+It is mostly suppressed,  the feminine  aspects...  I just do truly believe  
+that we’re seeing the quintessential  symbol  of that imbalances,  is the 
+kind of the old white male culture.  It is emblematic  of that 50s and 
+60s and 70s…It  is about domination  and control…I’ve  always felt 
+like you know as a female,  I am connected.  I am connected  in a way 
+because  my mother  is a part of me. I am a part of my daughters.  
+My mother’s  part of my grandmother.  So there’s this line, you know, 
+in connection.  And a beingness.  Whereas,  if you’re a male, you’re a 
+part of your mother,  but there’s not that physical  giving birth. Males 
+are physically  and biologically  isolated.  They have physically  ‘I came 
+from this being’, but they don’t give birth. So there’s not that unbro- 
+ken connection  of ‘I came, I was born from this being I give birth to 
+this’. And that’s the piece that I think is missing.  It’s that deep, deep 
+understanding  of connection,  and it is not revered,  and it is really 
+not respected.  Participant  3 
+Soil degradation  is seen as linked to a mindset  of dominance  over 
+the soil. In contrast,  soil health is perceived  as the balance  between  
+production  and nurturing  of soil. 
+Soil health provided  an outlook  for the farmers  to increase  their con- 
+nectedness  to nature, as well as a sense of belonging.  Soil health gave 
+farmers  a reason to congregate  and form a peer group to learn with. The 
+farmers  perceived  that hopefully,  by increasing  soil health, they could 
+also improve  the well-being  of their rural communities.  They perceived  
+that soil health would give their rural communities  additional  opportu-  
+nities that would hopefully  foster the reversal  of farmers  leaving  the area 
+by demonstrating  viability  in farming  once again, resulting  in increased  
+retention  of the next generation  of farmers,  increased  viability  for fu- 
+ture generations  to live in rural areas, and improving  rural community  
+economics  and food systems.  3.4. Self-determination  
+Farmers  perceived  soil health as a means to gain control over their 
+livelihood  as they lost their sense of control by being locked into an 
+explorative  agronomic  and food system.  They perceived  that by adopt- 
+ing the concept  of soil health and accompanying  practices,  they would 
+be able to gain control of their livelihoods  by working  in balance  with 
+mother  nature, which enables  them to increase  the viability  of their 
+farms and improve  their physical  and mental health. 
+3.4.1. Gaining  control by working  with nature 
+Farmers  feel trapped  by the food system of which they are an es- 
+sential foundation.  The food system demands  they produce  more food 
+despite extensive  externalities,  such as soil degradation  and loss of proﬁt 
+in farming.  Participant  4 said, “We’ve tried to raise more, more bushels,  
+more produce,  more pounds  quicker,  faster, and easier. Throw this at it. 
+It’ll be better. Well, that is not ending out to be the true story. ”Farmers  
+felt like they did not know how they were being controlled  because  of 
+the lack of ﬂexibility  and freedom  of available  agricultural  inputs. 
+There are certain herbicides  that are just like meth. You get on it, you 
+get used to live in this certain way of life and treating  your weeds a 
+certain way. And you get trapped  in that system…It  is hard to break 
+out of that system.  …T h r o w i n g  all of these chemicals  out there is 
+not. Not good from a human health perspective  and not good for the 
+environment.  So I asked our guys a couple of years ago if in their 
+seed treatments  if they had insecticides  on them. And they all said 
+yes. And I asked them why? And they said, Well, that’s how it comes 
+from the seed dealer. Participant  5 
+Soil health means to them that they are able to gain control over 
+their farming  operation  and their livelihood  by working  with nature 
+and by facilitating  nature’s  natural  processes.  Participant  3 said, “You’re  
+working  with nature. You’re not trying to, you know, overcome  it or 
+ﬁght it or do battle or be in a war, so just feels better. ”
+Working  with nature would free the farmers  from being reliant on 
+synthetic  inputs. “It would be wonderful  if we just had no synthetic,  no 
+need for synthetic  fertilizer  use. No need for herbicide.  Yeah, that would 
+be my perfect.  Yeah, yes. Then that takes care of itself, “said Participant  
+6. And that would allow them to gain control over not just how they 
+produce  but also the quality of the products  they produce.  
+That opportunity  to really take a little control over what kind of 
+products  come oﬀof their farm —the food quality.  I think we’re much 
+more focused  on building  a much more nutrient-dense  product…We  
+can impact the real quality of the food that we produce  by regener-  
+ating our soil. Participant  9 
+Soil health is the piece that empowers  farmers  to restore the broken 
+food system and return it into synergy  with nature. 
+3.4.2. Freedom,  autonomy,  and ﬂexibility  
+Achieving  soil health and adopting  new agronomic  practices  that 
+promote  soil health gives farmers  a sense of freedom,  autonomy,  and 
+ﬂexibility  from the conventional  agronomic  system that led to their lim- 
+ited proﬁtability  and the degradation  of resources  to which they are 
+bound. Participant  3 said, “It’s been liberating  to farm this way. It’s 
+been very liberating.  ”
+That freedom  from [synthetic  input applications],  we can change 
+our workﬂow,  spread the workload,  potentially  based on timing of 
+our crops. If you have a cover crop, maybe you don’t need to go out 
+and spray. You don’t need to be there. That is taken care of for you. 
+So certainly  from a labor standpoint.  Freedom  from outside  inputs 
+would be great…there  would be an economic  beneﬁt and then the 
+time savings,  so more family time, less time tied to the farm, greater 
+ﬂexibility.  Participant  6 
+6 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+Farmers  perceived  soil health liberated  them from the restrictive  
+dominant  food system to which they are accustomed.  Soil health pro- 
+vides them the sovereignty  and autonomy  to choose how they want to 
+produce  their crops. It means they are no longer as reliant on deliveries  
+of agricultural  inputs or tractor repairmen.  
+3.4.3. Farm viability  
+Viability  to be a farmer,  viability  to make a livelihood,  and viability  
+to be able to pass this lifestyle  on to the next generation  of farmers  is 
+the hope that farmers  see in soil health, and the potential  soil health has 
+to bring to agriculture.  Soil health is the hope of bringing  back owner- 
+ship of the land to farmers,  improving  their product  quality,  becoming  
+adaptable  to climate  change,  and creating  sustainability.  “I think that 
+the people in our bio-farming  group, or at least some of them, have the 
+hope for them is that that they get back to owning  their farms, ”s a i d 
+participant  9. 
+Even if progress  towards  healthy  soils is slow, the hope for future 
+viability  is enough  to pursue soil health. 
+I don’t know if we will see the huge diﬀerence.  But generations  to 
+come that there is soil there. That can produce  healthy  food as well 
+as keeping  all wildlife  strong. Participant  10 
+There is hope and pride that there is farm viability  security  in the 
+future, and that is essential  for driving  farmer motivation.  
+It is great pride. It makes you feel good, and it’s like, you know, a 
+breath of fresh air. I mean, it’s exciting.  There’s  potential  out there 
+now…It’s  like a big weight has been partially  lifted oﬀof our shoul- 
+ders. Participant  4 
+Farmers  perceived  soil health as an integral  and foundational  part of 
+securing  the viability  of their farms by liberating  them from a restrictive,  
+dominant  food system.  
+3.4.4. Physical  and mental health 
+Farmers  see a threat to their own and their families’  physical  health 
+due to the reliance  on synthetic  fertilizers  by conventional  agriculture.  
+It was probably  the seed treatments  and in the fungicides  and the her- 
+bicides and the witch’s brew that you basically  mix. You put those 
+in a tank mix. You don’t know how they interact  with themselves  
+and each other and with you. The way we farm is not healthy.  It 
+is compromising  people’s  health, physical  well-being,  because  [Hus- 
+band] either he had such a load that his brain just cannot clean it- 
+self… They  think people with Parkinson’s  and Alzheimer’s  literally  
+the brain just cannot ﬂush out toxins. A lot of farmers  suﬀer from 
+it… Paraquat  that’s one of the worst chemicals  for you, you know, 
+contributing  to Parkinson’s.  Participant  3 
+Finally , soil health provides  the security  that supports  emotional  
+well-being  and reduces  stress in farming  by reducing  stress related to 
+extreme  climate  events, ﬁnancial  burden,  connectedness  to the land, 
+and the functionality  of working  in a family business.  
+If your soil is in good shape. Then you don’t wake up in the 
+middle of the night when there’s a rainstorm,  and you know the 
+ground’s  frozen, you know that you’re gonna have horrendous  ero- 
+sion events...A  healthy  farmer,  as far as just emotional  well-being  
+and reducing  the stress as far as just physical,  you’re not having to 
+borrow  the money.  You’re not burning  through.  You’re not spending  
+all this money on inputs and trying to ﬁgure out where you’re gonna 
+come up with the money next time. You can get yourself  out from 
+under the debt trap. Participant  3 
+In addition,  control and reliance  on others by increasing  soil health 
+would lead to healthier  farms, farmers,  wildlife,  and people.  
+Increase  time to do other things, less inputs, less having to rely on 
+your tractors,  or the equipment  you use, less break downs, less stress. I think that our health would be better. People live longer, maybe be- 
+cause they’re not so stressed  out. I guess there’s probably  thousands  
+of beneﬁts  to it [soil health].  Better wildlife.  Wildlife  will be health- 
+ier. Insects will be healthier.  Our water be healthier,  people will be. 
+It is that big old circle again. It’ll help to hopefully  complete  that cir- 
+cle a little bit without  having so many little breaks in it. Participant  
+8 
+Soil health and soil health practices  provide  a means to create se- 
+curity for farmers  that their own health and the health of their future 
+generations  are not at risk for the promise  of proﬁt that isn’t there. 
+The most important  thing, feeling comfortable  to have my baby out 
+in the ﬁeld with me, crawling  on the ﬂoor, eating the dirt, and not 
+feeling like, oh my god, there’s chemicals  in there. But thinking,  oh, 
+this is an inoculation.  That’s totally ﬁne. Yeah, and it’s healthy.  Soil 
+health equals human health…I  mean, soil health to me means I can 
+let my baby crawl in it and eat the dirt. That’s what soil health means 
+to me. Participant  7 
+Soil health provides  a means for farmers  to protect and promote  their 
+physical  and mental security.  
+Farmers  emphasized  soil health was about mimicking  mother  na- 
+ture’s natural  processes  through  soil biology  for supporting  a self- 
+sustaining  system that limits or eliminates  synthetic  inputs for crop pro- 
+duction.  Farmers  expressed  they were re-examining  how they perceived  
+economics  by embracing  this autonomy  and lack of reliance  on input 
+suppliers  as essential  requirements  for having a viable, sustainable  farm 
+plan. Additionally,  farmers  sensed an increase  in self-determination  by 
+reducing  the risk of toxic chemical  exposure  and emotional  stress. 
+4. Discussion  
+The dominant  agro-innovation  eﬃciency  paradigm  frames soil 
+health as the solution  to environmental  degradation  and increasing  the 
+economic  viability  of agriculture.  However,  this remains  a simpliﬁed  
+perspective.  Soil health has value to society and farmers  beyond  instru- 
+mental value in the form of relational  values that emerged  from farm- 
+ers’ narratives  about their motivations  and incentives.  The soil health 
+research  agenda  needs to focus on innovations  that promote  a plurality  
+of values across the food system to address  the dynamic,  complex  chal- 
+lenges facing the food system.  These data document  relational  values 
+derived  from soil health by innovator  commodity  wheat farmers  in the 
+iPNW. However,  more data and research  is needed  to understand  the 
+plurality  of values across the diversity  of farmers,  regions,  agricultural  
+practices,  cultures,  and societies  ( Braito et al., 2020 ). 
+Farmers  are intrinsically  motivated  by relational  values associated  
+with soil health through  self-actualization,  esteem,  connectedness,  and 
+self-determination  to fulﬁll their well-being.  Relational  values of soils 
+expands  our knowledge  of values previously  identiﬁed  as cultural  
+ecosystem  services,  such as spiritual  meaning,  heritage,  recreation,  
+community  food sovereignty,  culturally  appropriate  food production,  
+and aesthetic  provide  value from soil health ( Brevik and Sauer, 2015 ; 
+Friedrichsen  et al., 2018 ; Jónsson  et al., 2017 ; Robinson  et al., 2012 ). 
+The new term relational  values recognizes  the important  two-directional  
+ﬂow of beneﬁt derived  from the soil and the soil steward  through  soil 
+management  ( Tironi et al., 2020 ). 
+In particular,  these perceived  relational  values may play large roles 
+in farmer decision-making  when it comes to changing  management  prac- 
+tices in ways that enhance  soil health. Farmers  perceive  soil health pro- 
+vides them: 
+1) a goal to work towards,  
+2) enjoyment  and excitement  for what they do, 
+3) conﬁdence  and dignity as important  contributors  to society,  
+4) belonging  and support  through  improved  social capital,  
+5) the sense of hope forfor the revitalization  of rural communities,  and 
+7 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+6) an improved  sense of self-determination  in the viability  of their farm 
+and their own health. 
+Refocusing  soil health research  and assessments  to acknowledge  the 
+role of intrinsic  motivation  surrounding  the adoption  of conservation  
+behaviors  may facilitate  innovation  that is more easily adoptable.  The 
+following  sections  discuss how to advance  change within the dominant  
+agro-innovation  paradigm  to include  the plurality  of soil health values 
+and includes  an example  of how the plurality  of values can be incorpo-  
+rated into soil health assessments  to support  a sustainable  food system.  
+4.1. Adding relational  values to the soil science paradigm  
+To actualize  a sustainable  food system requires  breaking  out of the 
+current  soil science  paradigm  that exclusively  focuses  on the instrumen-  
+tal values of soil ( Vanloqueren  and Baret, 2009 ). Widening  the breadths  
+of possible  outcomes  of soil health to include  solutions  that address  the 
+multiple  negative  social outcomes  that agriculture  has on human well- 
+being ( Stefanovic  et al., 2020 ). To do this, farmers  and indigenous  stew- 
+ards need to be recognized  as scientists  who systematical  create and 
+transmit  knowledge  ( Peña, 2017 ). 
+Integrating  the diversity  of intrinsic  motivation  and relational  val- 
+ues of soil health may shed light on how to foster human well-being  
+associated  with agriculture.  For example,  how will this soil health prac- 
+tice support  community  food sovereignty?  Leverage  points for causing  
+a shift in the soil science  paradigm  include  (1) capital support  for the 
+fostering  of niche innovations  of radical solutions,  (2) increasing  diver- 
+sity and supporting  inclusiveness  of who and what ﬁelds can collaborate  
+and conduct  soil science  research,  (3) increasing  support  within profes- 
+sional societies  and research  institutions  for inclusiveness  and interdis-  
+ciplinarity,  (4) supporting  an education  system around soil science  to in- 
+clude multiple,  diverse  knowledge  systems,  (5) increasing  professional  
+awards  for transformative  and interdisciplinary  soil science  research,  
+and (6) implementing  widespread  fair forecasting  of future impacts  of 
+innovations  on multiple  societal  indicators  as part of the research  pro- 
+cess ( Vanloqueren  and Baret, 2009 ). 
+Identiﬁcation  and recognition  of soil’s plurality  values will help ef- 
+fectively  govern soil to provide  the diverse  public goods it provides  
+( Juerges  and Hansjürgens,  2018 ). Eﬀective,  eﬃcient  soil governance  to 
+promote  and protect soil security  cannot occur if the social beneﬁts  and 
+values of soil are unknown  and incomplete  ( Helming  et al., 2018 ). Ad- 
+ditional  research  needs to be conducted  to understand  the diversity  of 
+values, cultural  ecosystem  services,  and intrinsic  motivations  that farm- 
+ers have globally,  contributing  to their choice of livelihood  in farming  
+and pro-environmental  behavior.  
+4.2. Soil health assessments  
+More speciﬁcally,  in this section,  it is discussed  how an example  of 
+what the shift in the soil science  paradigm  might look like if a plu- 
+rality of values were recognized  and integrated.  Currently,  soil health 
+assessments  are designed  to help mostly privileged  commodity  farm- 
+ers and land managers  understand  the impact their decisions  have on 
+soil function  and the instrumental  values soils provide  for mostly priv- 
+ileged communities.  However,  soil health has additional  values and so- 
+cial outcomes  that need to be accounted  for within land management  
+decisions  —relational  values. Exclusively  evaluating  soil health by a list 
+of predetermined  biological,  chemical  and physical  properties  obscures  
+that the term is valued and associated  with valued behaviors.  And there- 
+fore, the plurality  of values soil health holds should be integrated  within 
+the conceptualization  of the term and its assessment.  
+Including  these additional  values into more diverse  versions  of soil 
+health assessments  may increase  their eﬀectiveness  as decision  support  
+tools and motivate  the adoption  of diverse  soil health practices.  For ex- 
+ample, identifying  baseline  datasets  from land stewarded  from multiple  
+cultural  perspectives.  Support  and change are needed  from the govern-  
+mental regimes  to adjust conservation  policy to account  for a plurality  of values, but so far, this has had limited success  in the United States. 
+For example,  currently,  there is limited support  in the United States 
+within cost-share  programs  to ﬁnancially  support  indigenous  soil and 
+water conservation  techniques  ( Peña, 2017 ) or culturally  appropriate  
+soil management  to support  diverse  foodways,  such as inter-cropping  
+( Minkoﬀ-Zern,  2019 ). More research  is needed  on how to eﬀectively  
+and culturally  appropriately  integrate  the plurality  of values soil health 
+has across individuals,  communities,  contexts,  and cultures.  
+These data provide  insight into developing  more eﬀective  soil health 
+assessments  that are goal-oriented,  create attainable  benchmarks  to 
+indicate  observable  and measurable  progression  toward meeting  the 
+farmer’s  goal, and are more holistic  (e.g., supports  farm diversiﬁcation).  
+Soil health assessments  need to go beyond  the paradigm  that soil health 
+can be assessed  with a soil sample removed  from its context,  culture,  
+farming  system,  soil stewards,  and ecosystem  and shift toward evaluat-  
+ing soil within the larger cultural  context  of which it is a piece. 
+5. Conclusion  
+This research  study provides  data on the connection  between  soil 
+health and human well-being.  Some intrinsic  motivators  for innovator  
+farmers  in the iPNW to adopt soil health induce self-actualization,  es- 
+teem, connectedness,  and self-determination.  These themes provide  im- 
+portant  insight into the relational  values that contribute  to the farmers’  
+well-being  that have been neglected  in the current  dominant  paradigm,  
+which emphasizes  soil’s instrumental  valuation.  A qualitative  methodol-  
+ogy provided  a way to collect data from various  stakeholders  in a man- 
+ner for understanding  a larger breadth  of how they value soil. Improved  
+valuation  of all assigned  values that soil provides  society can help lead 
+the way to create a sustainable  food system.  However,  to do so requires  
+a transformation  of the current  soil science  paradigm  to include  the plu- 
+rality of values of soil health. A change in the soil science  paradigm  
+will require  an institutional  and social change to support  radical inno- 
+vations.  Reﬂecting  on underlying  values that have shaped the soil health 
+dialogue  and widening  soil health innovations  outcomes  to include  re- 
+lational  values as desired  outcomes  is necessary  for transformation.  Soil 
+health assessments  need to take into consideration  the potential  larger 
+holistic  plurality  of values soil health and its outcomes  on human well- 
+being, which may help facilitate  the transformation  of the food system 
+to be equitable,  just, healthy,  and sustainable.  
+Funding  
+This work was supported  by the Washington  State Soil Health Initia- 
+tive, the USDA National  Institute  of Food and Agriculture,  Hatch project 
+1014527  and by United States Department  of Agriculture  (USDA-ARS  
+NACA # 58-3064-8-002  ), an agreement  with the University  of Idaho . 
+This research  was a contribution  from the Long-Term  Agro-ecosystem  
+Research  (LTAR)  network.  LTAR is supported  by the United States De- 
+partment  of Agriculture.  The funding  agencies  had no involvement  with 
+the research.  
+Declaration  of Competing  Interests  
+The authors  declare  that they have no known competing  ﬁnancial  
+interests  or personal  relationships  that could have appeared  to inﬂuence  
+the work reported  in this paper. 
+The authors  declare  the following  ﬁnancial  interests/personal  rela- 
+tionships  which may be considered  as potential  competing  interests.  
+Acknowledgements  
+We would like to acknowledge  Carol McFarland  and Dr. Haiying  Tao 
+for their enthusiasm  and leadership  in facilitating  and running  the Soil 
+Health work sessions.  
+8 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+References  
+Alcamo, J. , Ash, N.J. , Butler, C.D. , Callicott,  J.B. , Capistrano,  D. , Carpenter,  S.R. , 
+Castilla, J.C. , Chambers,  R. , Chopra, K. , Cropper, A. , Daily, G.C. , Dasgupta,  P. , de 
+Groot, R. , Dietz, T. , Kumar Duraiappah,  A. , Gadgil, M. , Hamilton,  K. , Hassan, R. , 
+Lambin, E.F. , Lebel, L. , Leemans,  R. , Jiyuan, L. , Malingreau,  J.-P. , May, R.M. , 
+McCalla, A.F. , McMichael,  T. , Moldan, B. , Mooney, H. , Naeem, S. , Nelson, G.C. , 
+Wen-Yuan,  N. , Noble, I. , Zhiyun, O. , Pagiola, S. , Pauly, D. , Percy, S. , Pin- 
+gali, P. , Prescott-Allen,  R. , Reid, W.V. , Ricketts, T.H. , Samper, C. , Scholes, R. , 
+Simons, H. , Toth, F. , Turpie, J.K. , Watson, R.T. , Wilbanks,  T.J. , Williams,  M. , 
+Wood, S. , Shidong, Z. , Zurek, M.B. , 2003. Millennium  Ecosystem  Assessment:  Ecosys- 
+tems and human well-being:  a framework  for assessment.  Island Press, Washing-  
+ton/Covelo/London  . 
+Allen, K.E., Quinn, C.E., English, C., Quinn, J.E., 2018. Relational  values in agroecosystem  
+governance.  Current opinion in environmental  sustainability.  Sustain. Challenges  35, 
+108–115.  doi: 10.1016/j.cosust.2018.10.026  . 
+Arias-Arévalo,  P., Martín-López,  B., Gómez-Baggethun,  E., 2017. Exploring  intrinsic, in- 
+strumental,  and relational  values for sustainable  management  of social-ecological  sys- 
+tems. Ecology and Society 22. https://doi.org/10.2307/26799016  . 
+Bernard, H.R. , 2011. Research  Methods in Anthropology:  Qualitative  and Quantitative  
+Approaches,  5th ed. AltaMira,  Lanham, Md . 
+Barnes, K.L., Bendixsen,  C.G.and Safety, 2017. When This Breaks Down, It’s Black 
+Gold ”: Race and Gender in Agricultural  Health. Journal of Agromedicine  22, 56–65. 
+https://doi.org/10.1080/1059924X.2016.1251368  . 
+Baum, C.M., Gross, C., 2017. Sustainability  policy as if people mattered:  developing  a 
+framework  for environmentally  signiﬁcant  behavioral  change. J Bioecon 19, 53–95. 
+https://doi.org/10.1007/s10818-016-9238-3  . 
+Bernard, H.R. , 2000. Social Research  methods:  Qualitative  and Quantitative  Approaches.  
+Sage Publications,  Inc., Thousand  Oaks . 
+Blackstock,  C. , 2011. The emergence  of the breadth of life theory. Journal of Social Work 
+Values and Ethics 8 . 
+Braito, M., Leonhardt,  H., Penker, M., Schauppenlehner-Kloyber,  E., Thaler, G., Flint, C.G., 
+2020. The plurality of farmers’ views on soil management  calls for a policy mix. Land 
+Use Policy 99, 104876. https://doi.org/10.1016/j.landusepol.2020.104876  . 
+Brevik, E.C. , Sauer, T.J. , 2015. The past, present, and future of soils and human health 
+studies. Soil 1, 35–46 . 
+Brevik, E.C., Slaughter,  L., Singh, B.R., Steﬀan, J.J., Collier, D., Barnhart,  P., Pereira, P., 
+2020. Soil and Human Health: Current Status and Future Needs. Air, Soil and Water 
+Research  13. https://doi.org/10.1177/1178622120934441  . 
+Bridges, T.R., Napier, T.L., 2003. Factors that inﬂuence  farm women to advocate  
+the adoption of environmentally  benign agricultural  production  practices.  Inter- 
+national Journal of Agricultural  Resources,  Governance  and Ecology 2, 201–219.  
+https://doi.org/10.1504/IJARGE.2003.002087  . 
+Chalofsky,  N., Krishna, V., 2009. Meaningfulness,  Commitment,  and Engagement:  The 
+Intersection  of a Deeper Level of Intrinsic Motivation.  Advances  in Developing  Human 
+Resources  11, 189–203.  https://doi.org/10.1177/1523422309333147  . 
+Chan, K.M.A., Balvanera,  P., Benessaiah,  K., Chapman,  M., Díaz, S., Gómez-Baggethun,  E., 
+Gould, R., Hannahs,  N., Jax, K., Klain, S., Luck, G.W., Martín-López,  B., Muraca, B., 
+Norton, B., Ott, K., Pascual, U., Satterﬁeld,  T., Tadaki, M., Taggart, J., Turner, N., 
+2016. Opinion: Why protect nature? Rethinking  values and the environment.  PNAS 
+113, 1462–1465.  https://doi.org/10.1073/pnas.1525002113  . 
+Charmaz,  K. , 2014. Constructing  Grounded  Theory, 2nd Ed. SAGE, Los Angeles . 
+Daniel, T.C., Muhar, A., Aznar, O., Boyd, J.W., Chan, K.M.A., Costanza,  R., Flint, C.G., 
+Gobster, P.H., Grêt-Regamey,  A., Penker, M., Ribe, R.G., Spierenburg,  M., 2012. Con- 
+tributions  of cultural services to the ecosystem  services agenda. PNAS 109. E3147- 
+E3147. https://doi.org/10.1073/pnas.1213520109  . 
+Deci, E.L., Ryan, R.M., 2008. Self-determination  theory: A macrotheory  of human moti- 
+vation, development,  and health. Canadian  Psychology/Psychologie  canadienne  49, 
+182–185.  https://doi.org/10.1037/a0012801  . 
+Deci, E.L., Ryan, R.M., 2012. Self-determination  theory. In: Handbook  of Theories of 
+Social Psychology,  1. Sage Publications  Ltd, Thousand  Oaks, CA, pp. 416–436 
+https://doi.org/10.4135/9781446249215.n21  . 
+Díaz, S., Pascual, U., Stenseke,  M., Martín-López,  B., Watson, R.T., Molnár, Z., Hill, R., 
+Chan, K.M.A., Baste, I.A., Brauman,  K.A., Polasky, S., Church, A., Lonsdale,  M., Lar- 
+igauderie,  A., Leadley, P.W., Oudenhovenvan,  A.P.E., Plaatvan der, F., Schröter,  M., 
+Lavorel, S., Aumeeruddy-Thomas,  Y., Bukvareva,  E., Davies, K., Demissew,  S., 
+Erpul, G., Failler, P., Guerra, C.A., Hewitt, C.L., Keune, H., Lindley, S., Shi- 
+rayama, Y., 2018. Assessing  nature’s contributions  to people. Science 359, 270–272.  
+https://doi.org/10.1126/science.aap8826  . 
+El Bilali, H., Callenius,  C., Strassner,  C., Probst, L., 2019. Food and nutrition security 
+and sustainability  transitions  in food systems. Food and Energy Security 8, e00154. 
+https://doi.org/10.1002/fes3.154  . 
+Ellis, E.C., Pascual, U., Mertz, O., 2019. Ecosystem  services and nature’s contribution  to 
+people: negotiating  diverse values and trade-oﬀs  in land systems. Current Opinion in 
+Environmental  Sustainability,  Sustainability  governance  and transformation  38, 86–
+94. https://doi.org/10.1016/j.cosust.2019.05.001  . 
+Friedrichsen,  C.N., Daroub, S.H., Monroe, M.C., Stepp, J.R., Wani, S.P., 2018. Mental mod- 
+els of soil management  for food security in peri-urban  India. Urban Agricult. Regional 
+Food Syst. 3. doi: 10.2134/urbanag2017.08.0002  . 
+Gould, R.K., Pai, M., Muraca, B., Chan, K.M.A., 2019. He ʻike ʻana ia i ka 
+pono (it is a recognizing  of the right thing): how one indigenous  world- 
+view informs relational  values and social values. Sustain Sci 14, 1213–1232.  
+https://doi.org/10.1007/s11625-019-00721-9  . 
+Helming,  K., Daedlow,  K., Paul, C., Techen, A.-K., Bartke, S., Bartkowski,  B., Kaiser, D., 
+Wollschläger,  U., Vogel, H.-J., 2018. Managing  soil functions  for a sustainable  bioe- conomy —assessment  framework  and state of the art. Land Degradat.  Devel. 29, 3112–
+3126. doi: 10.1002/ldr.3066  . 
+Himanen,  S.J., Mäkinen,  H., Rimhanen,  K., Savikko, R., 2016. Engaging  farmers in cli- 
+mate change adaptation  planning:  assessing  intercropping  as a means to support farm 
+adaptive capacity.  Agriculture  6, 34. doi: 10.3390/agriculture6030034  . 
+Himes, A., Muraca, B., 2018. Relational  values: the key to pluralistic  valuation  of ecosys- 
+tem services. Current Opinion in Environmental  Sustainability,  Sustainability  Chal- 
+lenges: Relational  Values 35, 1–7. https://doi.org/10.1016/j.cosust.2018.09.005  . 
+Howard, T.M., Lawson, A., 2015. Soil governance:  accessing  cross-disciplinary  perspec- 
+tives. Int. J. Rural Law Policy 1–8. doi: 10.5130/ijrlp.i1.2015.3776  . 
+Jarosz, L., 2011. Nourishing  women: toward a feminist political ecology of community  
+supported  agriculture  in the United States. Gender, Place & Culture 18, 307–326.  
+https://doi.org/10.1080/0966369X.2011.565871  . 
+Jónsson, J.Ö.G., Davíðsdóttir,  B., Nikolaidis,  N.P., 2017. Chapter twelve - valuation  of 
+soil ecosystem  services. In: Banwart,  S.A., Sparks, D.L. (Eds.), Advances  in Agronomy,  
+Quantifying  and Managing  Soil Functions  in Earth’s Critical Zone. Academic  Press, 
+pp. 353–384.  doi: 10.1016/bs.agron.2016.10.011  . 
+Juerges, N., Hansjürgens,  B., 2018. Soil governance  in the transition  towards 
+a sustainable  bioeconomy  –a review. J. Cleaner Prod. 170, 1628–1639.  
+doi: 10.1016/j.jclepro.2016.10.143  . 
+Karlen, D.L., Goeser, N.J., Veum, K.S., Yost, M.A., 2017. On-farm soil health evaluations:  
+Challenges  and opportunities.  Journal of Soil and Water Conservation  72, 26A–31A.  
+https://doi.org/10.2489/jswc.72.2.26A  . 
+Karlen, D.L., Veum, K.S., Sudduth,  K.A., Obrycki, J.F., Nunes, M.R., 2019. Soil health 
+assessment:  Past accomplishments,  current activities,  and future opportunities.  Soil 
+and Tillage Research  195, 104365. https://doi.org/10.1016/j.still.2019.104365  . 
+Keith, A.M., Schmidt, O., McMahon,  B.J., 2016. Soil stewardship  as a nexus 
+between ecosystem  services and one health. Ecosyst. Serv. 17, 40–42. 
+doi: 10.1016/j.ecoser.2015.11.008  . 
+Kenter, J.O., Raymond,  C.M., van Riper, C.J., Azzopardi,  E., Brear, M.R., Calcagni,  F., 
+Christie, I., Christie, M., Fordham,  A., Gould, R.K., Ives, C.D., Hejnow- 
+icz, A.P., Gunton, R., Horcea-Milcu,  A.-I., Kendal, D., Kronenberg,  J., Massen- 
+berg, J.R., O’Connor,  S., Ravenscroft,  N., Rawluk, A., Raymond,  I.J., Rodríguez-  
+Morales, J., Thankappan,  S., 2019. Loving the mess: navigating  diversity 
+and conﬂict in social values for sustainability.  Sustain Sci 14, 1439–1461.  
+https://doi.org/10.1007/s11625-019-00726-4  . 
+Kibblewhiteg,  M., Ritz, K., Swiftj, M., 2008. Soil health in agricultural  systems. Philo- 
+sophical Transactions  of the Royal Society B: Biological  Sciences 363, 685–701.  
+https://doi.org/10.1098/rstb.2007.2178  . 
+Lobry de Bruyn, L. , 1999. Farmers’ perspectives  on soil health: Capturing  and adapting 
+intuitive understanding  of soil health to monitor land condition.  Presented  at the. 
+Proceedings  of the “Country  Matters ”Social Sciences …. 
+Lobry de Bruyn, L. , Abbey, J. , 2003. Characterisation  of farmers’ soil sense and the im- 
+plications  for on-farm monitoring  of soil health.. Australian  Journal of Experimental  
+Agriculture  43, 285–305 . 
+Maslow, A.H. , 1954. Motivation  and Personality.  Harper and Row, New York . 
+Maharjan,  B., Das, S., Acharya, B.S., 2020. Soil Health Gap: A concept to establish a 
+benchmark  for soil health management.  Global Ecology and Conservation  23, e01116. 
+https://doi.org/10.1016/j.gecco.2020.e01116  . 
+Maslow, A.H. , 1943. A theory of human motivation.  Psychol. Rev. 50, 370–396 . 
+Maslow, A.H. , Frager, R. , 1987. Motivation  and personality.  Harper and Row, New York . 
+McClelland,  D. , 2005. Achievement  motivation  theory. In: Organizational  Behavior:  Es- 
+sential Theories of Motivation  and Leadership.  M.E. Sharpe, Armonk, pp. 46–60 . 
+McCubbin,  L.D., McCubbin,  H.I., Zhang, W., Kehl, L., Strom, I., 2013. Relational  Well- 
+being: An Indigenous  Perspective  and Measure.  Family Relations  62, 354–365.  
+https://doi.org/10.1111/fare.12007  . 
+Minkoﬀ-Zern,  L.-A. , 2019. The new American  farmer: immigration,  race, and the strug- 
+gle for sustainability,  Food, health, and the environment.  The MIT Press, Cambridge,  
+Massachusetts  . 
+Napier, T.L. , 2010. Conclusion.  In: Human Dimensions  of Soil and Water Conservation.  
+Nova Science Publishers,  pp. 373–379 . 
+National Research  Council , 2003. Frontiers  in Agricultural  Research:  Food, Health, En- 
+vironment,  and Communities,  Committee  on Opportunities  in Agriculture.  National 
+Academies  Press, Washington  DC . 
+Niles, M.T., Ahuja, R., Barker, T., Esquivel,  J., Gutterman,  S., Heller, M.C., 
+Mango, N., Portner, D., Raimond,  R., Tirado, C., Vermeulen,  S., 2018. Cli- 
+mate change mitigation  beyond agriculture:  a review of food system opportu- 
+nities and implications.  Renewable  Agriculture  and Food Systems 33, 297–308.  
+https://doi.org/10.1017/S1742170518000029  . 
+Nunes, M.R., van Es, H.M., Schindelbeck,  R., Ristow, A.J., Ryan, M., 2018. No-till and 
+cropping system diversiﬁcation  improve soil health and crop yield. Geoderma  328, 
+30–43. https://doi.org/10.1016/j.geoderma.2018.04.031  . 
+Paavola, J., Adger, W.N., 2005. Institutional  ecological  economics.  Ecological  Economics  
+53, 353–368.  https://doi.org/10.1016/j.ecolecon.2004.09.017  . 
+Pascual, U., Balvanera,  P., Díaz, S., Pataki, G., Roth, E., Stenseke,  M., Watson, R.T., 
+Ba ş ak Dessane, E., Islar, M., Kelemen,  E., Maris, V., Quaas, M., Subrama-  
+nian, S.M., Wittmer, H., Adlan, A., Ahn, S., Al-Hafedh,  Y.S., Amankwah,  E., 
+Asah, S.T., Berry, P., Bilgin, A., Breslow, S.J., Bullock, C., Cáceres, D., Daly- 
+Hassen, H., Figueroa,  E., Golden, C.D., Gómez-Baggethun,  E., González-Jiménez,  D., 
+Houdet, J., Keune, H., Kumar, R., Ma, K., May, P.H., Mead, A., O’Farrell,  P., Pan- 
+dit, R., Pengue, W., Pichis-Madruga,  R., Popa, F., Preston, S., Pacheco-Balanza,  D., 
+Saarikoski,  H., Strassburg,  B.B., van den Belt, M., Verma, M., Wickson,  F., 
+Yagi, N., 2017. Valuing nature’s contributions  to people: the IPBES approach.  Cur- 
+rent Opinion in Environmental  Sustainability,  Open issue, part II 26–27, 7–16. 
+https://doi.org/10.1016/j.cosust.2016.12.006  . 
+9 
+C.N. Friedrichsen,  S. Hagen-Zakarison,  M.L. Friesen et al. Soil Security 2 (2021) 100004 
+Patton, M. , 1999. Enhancing  the quality and credibility  of qualitative  analysis. Health 
+Services Research  34, 1189–1208  . 
+Peña, D.G. , 2017. Sodbusters  and the “Native Gaze ”: Soil governance  and indigenous  
+knowledge.  In: Peña, D.G., Calvo, L., McFarland,  P., Valle, G.R. (Eds.), Mexican-Ori-  
+gin Foods, Foodways,  and Social Movements.  The University  of Arkansas,  Fayetteville,  
+pp. 343–364 . 
+Prokopy,  L.S., 2011. Agricultural  human dimensions  research:  The role of qualitative  re- 
+search methods.  J. Soil Water Conserv. 66, 9A–12A. doi: 10.2489/jswc.66.1.9A  . 
+Puig de la Bellacasa,  M., 2015. Making time for soil: Technoscientiﬁc  futurity and the pace 
+of care. Soc Stud Sci 45, 691–716.  https://doi.org/10.1177/0306312715599851  . 
+Reed, M.S., 2008. Stakeholder  participation  for environmental  management:  a literature  
+review. Biol. Conserv. 141, 2417–2431.  doi: 10.1016/j.biocon.2008.07.014  . 
+Robinson,  D.A., Hockley, N., Dominati,  E., Lebron, I., Scow, K.M., Reynolds,  B., 
+Emmett, B.A., Keith, A.M., Jonge, L.W., de, Schjønning,  P., Moldrup,  P., 
+Jones, S.B., Tuller, M., 2012. Natural capital, ecosystem  services, and soil change: 
+why soil science must embrace an ecosystems  approach.  Vadose Zone J. 11. 
+doi: 10.2136/vzj2011.0051  . 
+Rogers, E.M. , 2010. Diﬀusion  of Innovations,  4th Ed. Simon and Schuster . 
+Rosenfeld,  R.A. , 2017. Farm Women: Work, Farm, and Family in the United States. UNC 
+Press Books . 
+Schillinger,  W.F., Young, D.L., 2004. Cropping  Systems Research  in the 
+World’s Driest Rainfed Wheat Region. Agronomy  Journal 96, 1182–1187.  
+https://doi.org/10.2134/agronj2004.1182  . 
+Schulz, C., Martin-Ortega,  J., Glenk, K., 2018. Value landscapes  and their impact 
+on public water policy preferences.  Global Environmental  Change 53, 209–224.  
+https://doi.org/10.1016/j.gloenvcha.2018.09.015  . 
+Schulz, C., Martin-Ortega,  J., Glenk, K., 2019. Understanding  Public Views on a Dam 
+Construction  Boom: the Role of Values. Water Resour Manage 33, 4687–4700.  
+https://doi.org/10.1007/s11269-019-02383-9  . 
+Stefanovic,  L., Freytag-Leyer,  B., Kahl, J., 2020. Food System Outcomes:  An Overview  
+and the Contribution  to Food Systems Transformation.  Front. Sustain. Food Syst. 4. 
+https://doi.org/10.3389/fsufs.2020.546167  . 
+Stern, P. , Dietz, T. , Abel, T. , Guagnano,  G. , Kalof, L. , 1999. A Value-Belief-Norm  Theory 
+of Support for Social Movements:  The Case of Environmentalism.  Human Ecology 
+Review 81–97 . Stewart, R.D., Jian, J., Gyawali, A.J., Thomason,  W.E., Badgley, B.D., Reiter, M.S., Strick- 
+land, M.S., 2018. What We Talk about When We Talk about Soil Health. Agricultural  
+& Environmental  Letters 3, 180033. https://doi.org/10.2134/ael2018.06.0033  . 
+Tay, L., Diener, E., 2011. Needs and subjective  well-being  around the 
+world. Journal of Personality  and Social Psychology  101, 354–365.  
+https://doi.org/10.1037/a0023779  . 
+Tilman, D., Balzer, C., Hill, J., Befort, B.L., 2011. Global food demand and the sustainable  
+intensiﬁcation  of agriculture.  PROC. NAT. ACAD. OF SCI. (U.S.A.) 108, 20260–20264.  
+https://doi.org/10.1073/pnas.1116437108  . 
+Tironi, M. , Kearnes, M. , Krzywoszynska,  A. , Granjou, C. , Salazar, J.F. , 2020. Soil Theories:  
+Relationa,  Decolonial,  Inhuman.  In: Thinking  with Soils: Material Politics and Social 
+Theory. Bloomsbury  Publishing,  pp. 15–38 . 
+Tov, W., Diener, E., 2009. Culture and Subjective  Well-Being,  in: Diener, E. 
+(Ed.), Culture and Well-Being:  The Collected  Works of Ed Diener, So- 
+cial Indicators  Research  Series. Springer Netherlands,  Dordrecht,  pp. 9–41. 
+https://doi.org/10.1007/978-90-481-2352-0_2  
+USDA, NASS , 2017. 2017 Census of Agriculture.  United States Department  of Agriculture  
+Agricultural  Statistics Service . 
+Vanloqueren,  G., Baret, P.V., 2009. How agricultural  research systems shape a technologi-  
+cal regime that develops genetic engineering  but locks out agroecological  innovations.  
+Res. Policy 38, 971–983.  doi: 10.1016/j.respol.2009.02.008  . 
+Vignola, R., Koellner,  T., Scholz, R.W., McDaniels,  T.L., 2010. Decision-making  by farmers 
+regarding  ecosystem  services: factors aﬀecting soil conservation  eﬀorts in Costa Rica. 
+Land Use Policy 27, 1132–1142.  doi: 10.1016/j.landusepol.2010.03.003  . 
+Ward, S.J., King, L.A., 2017. Work and the good life: how work contributes  to meaning in 
+life. Res. Org. Behav. 37, 59–82. doi: 10.1016/j.riob.2017.10.001  . 
+Wegner, G., Pascual, U., 2011. Cost-beneﬁt  analysis in the context of ecosystem  services 
+for human well-being:  A multidisciplinary  critique. Global Environmental  Change, 
+Special Issue on The Politics and Policy of Carbon Capture and Storage 21, 492–504.  
+https://doi.org/10.1016/j.gloenvcha.2010.12.008  . 
+Wells, B.L., Gradwell,  S., 2001. Gender and resource management:  Community  sup- 
+ported agriculture  as caring-practice.  Agriculture  and Human Values 18, 107–119.  
+doi: 10.1023/A:1007686617087  . 
+Wuepper,  D., 2020. Does culture aﬀect soil erosion? Empirical  evidence from Europe. Eur. 
+Rev. Agric. Econ. 47, 619–653.  doi: 10.1093/erae/jbz029  . 
+10 

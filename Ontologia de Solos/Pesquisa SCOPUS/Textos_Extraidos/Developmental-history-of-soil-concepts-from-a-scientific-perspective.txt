@@ -1,0 +1,948 @@
+applied  
+sciences 
+Article
+Developmental History of Soil Concepts from
+a Scientiﬁc Perspective
+Katsutoshi Mizuta1,2,*
+, Sabine Grunwald2, Wendell P . Cropper, Jr.3
+and Allan R. Bacon2
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045 /gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Citation: Mizuta, K.; Grunwald, S.;
+Cropper, W.P ., Jr.; Bacon, A.R.
+Developmental History of Soil
+Concepts from a Scientiﬁc
+Perspective. Appl. Sci. 2021 ,11, 4275.
+https://doi.org/10.3390/
+app11094275
+Academic Editor: Giulia Maisto
+Received: 9 April 2021
+Accepted: 6 May 2021
+Published: 9 May 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).1Precision Agriculture Center, Department of Soil, Water and Climate, University of Minnesota,
+Saint Paul, MN 55108, USA
+2Soil and Water Sciences Department, University of Florida, Gainesville, FL 32611, USA; sabgru@uﬂ.edu (S.G.);
+allan.bacon@uﬂ.edu (A.R.B.)
+3School of Forest, Fisheries, and Geomatics Sciences, University of Florida, Gainesville, FL 32611, USA;
+wcropper@uﬂ.edu
+*Correspondence: toshim@umn.edu
+Featured Application: New concepts within the soil science community have emerged through
+multiple actions: (1) reﬂection on the social, cultural, and/or political needs that exist outside the
+soil science community, and (2) by being progressive and relevant to new emergent interests (e.g.,
+health and security). Future applications of research communication are expanding from tradi-
+tional formats (e.g., papers, books, printed journals) to digital research platforms that enhance
+the capacity of growth in soil science research.
+Abstract: Various soil concepts have emerged since the beginning of the twentieth century, with
+some shared similarities. These concepts have contributed to a rise in the awareness of protecting
+limited soil resources, but not every idea has equally gained widespread attention from scientists. The
+purpose of this study was to document the developmental history of 10 soil concepts from 1900 to 2018
+and investigate their growth/decline. Articles containing words related to the selected soil concepts
+in titles, abstracts, or publication contents available in the Web of Science were examined. “Soil
+production” was the oldest concept, found in a paper published in 1910, followed chronologically in
+the literature by soil care, fertility, conservation, quality, health, protection, security, sustainability,
+and resilience. Most of the concepts were initially found in non-soil-science journals that predated
+publications in soil science journals, which implies slowness of the soil science community’s adoption.
+The statistical publication trend for each concept over time was analyzed and interpreted based
+on diffusion of innovation theory. The results suggest that all of the soil concepts experienced a
+statistically positive/upward shift ( p< 0.01) over time. In particular, soil concepts cited in soil science
+journals tended to maintain their momentum and communal value over time in soil science research,
+except the soil care concept. Applications of soil concept research based on collaboration between
+scientists of different nationalities, afﬁliations, and research expertise would further increase the
+possibility of citation frequency and foster interdisciplinary and transdisciplinary collaboration.
+Keywords: soil health; soil quality; soil security; soil conservation; soil fertility; soil sustainability;
+soil productivity; soil care; soil protection; soil resilience
+1. Introduction
+Various soil concepts have been discussed over time in the soil science community,
+and narrative descriptions of these concepts have been developed to capture the increasing
+complexity of soil–environmental issues. Many of these have helped to raise awareness
+of the need to protect limited soil resources [ 1], but some are used inconsistently or in-
+terchangeably due to the shared semantics of their deﬁnitions, aims, and/or scopes [ 2].
+Soil quality and soil health are examples of concepts that improve public awareness of the
+Appl. Sci. 2021 ,11, 4275. https://doi.org/10.3390/app11094275 https://www.mdpi.com/journal/applsci
+Appl. Sci. 2021 ,11, 4275 2 of 19
+importance of soil resources, with short- and long-term soil management that inﬂuence
+soil functions and processes in practice [3,4].
+Soil concepts seem to arise from a combination of various pathways: researchers in
+the scientiﬁc community (top-down); dialogue in professional organizations (top-down
+and bottom-up); and communication with stakeholders (bottom-up). Mizuta et al. (2018)
+summarized diverse deﬁnitions of soil concepts, including soil quality, soil health, and soil
+security [ 2]. These deﬁnitions were proposed by scientists and professional organizations,
+such as the Soil Science Society of America (SSSA). Semantic similarities can be found
+among the deﬁnitions of each soil concept. Soil quality and soil health are used loosely and
+interchangeably with another soil concept, soil fertility [ 5]. Stevens explained soil health
+as a holistic measure of soil productivity, resilience, and sustainability [ 6]. Soil care has
+been promoted, along with soil productivity and fertility, in the service of farmers [ 7]. Soil
+care can be seen as a broad concept encompassing soil fertility, soil conservations, and/or
+protection from soil degradation [8].
+Professional institutions seem to play the role of aggregating individual proposed
+ideas into an adaptable form for various stakeholders. On the other hand, Sojka et al.
+(2003) sounded an alert in regard to the impacts of institutionalizing deﬁnitions of soil
+concepts that may prevent speciﬁc stakeholders from protecting/managing soil resources
+properly [ 9]. The gap between individual and collective perceptions/perspectives must be
+revealed and closed. For instance, Grunwald et al. (2017) addressed this need using the
+Meta Soil Model, which is rooted in integral theory and integral ecology [ 10]. Bouma (2011)
+asserted that the different opinions of various stakeholders (farmers, non-governmental
+organizers, manufacturers, researchers, etc.) and policymakers must be aligned to enable
+successful projects based on a review of sustainability problems in Dutch agriculture [ 11].
+Ng and Zhang (2019) stated that top-down policy-driven changes in soil health manage-
+ment will be necessary for the common good [ 5]. However, the bottom-up approach is
+underappreciated in current soil concepts.
+Understanding how soil concepts have evolved in the soil science community is
+crucial for soil scientists, because the concepts’ backgrounds may reﬂect social, cultural,
+and/or political needs and events/situations. In addition, quantitative trend analysis
+of soil concepts over time can reveal how each concept has gained attention and been
+popularized through scientiﬁc research.
+Thus, the purpose of this study is to quantitatively understand the developmental
+history of various soil concepts (1900 to 2018) and demonstrate changes in their frequency
+of use over time. Identifying the origins of each soil concept in publications for the ﬁrst
+time may provide insights into how the soil science community adopts new ideas in
+scientiﬁc research.
+2. Materials and Methods
+2.1. Searching Soil Concept Publications in the Web of Science
+Ten major soil concepts were selected for investigation: soil productivity, care, fertility,
+conservation, protection, sustainability, resilience, quality, health, and security (Table 1).
+The number of publications that contain each concept available in the Web of Science was
+analyzed. Materials published from 1900 to 2018 were retrieved on 29 July 2019. The “all
+languages” setting was used in the retrieval process, with 52 different languages available
+on the website. Search keys for the analysis were imputed with the wildcard character,
+asterisk (*), as right-hand truncation and quotation marks (Table 1). Though the wildcard
+works for searched items in English only and turns off the automatic lemmatization function
+and internal synonym ﬁnder, this process identiﬁed exact phrases and variant spellings
+of a word. The following document types were selected for the search: article, editorial
+material, book, book chapter, letter, note, proceedings paper, and review. Each category is
+described in the Web of Science Core Collection Help section (accessed on 30 July 2019 :
+http://images.webofknowledge.com). The text areas searched for the selected soil concepts
+in the published materials were limited to titles, abstracts, and key words. This process
+Appl. Sci. 2021 ,11, 4275 3 of 19
+was expected to minimize the risk of retrieving records that used a given soil concept term
+in contexts that differed from its conceptual deﬁnition.
+Table 1. Search keys for each soil concept (in English).
+Soil Concepts Search Keys
+Soil Care “Soil care*”
+Soil Conservation “Soil conservat*”
+Soil Fertility “Soil fertilit*”
+Soil Health “Soil health*”
+Soil Productivity “Soil productiv*”
+Soil Protection “Soil protect*”
+Soil Quality “Soil qualit*”
+Soil Resilience “Soil resilien*”
+Soil Security “Soil securit*”
+Soil Sustainability “Soil sustainabilit*”
+Note that the asterisk (*) is the wildcard that represents any group of characters, including no character.
+Two groups, soil science journals and “all” (i.e., both soil science and non-soil science)
+journals, were searched to identify pioneering contributions from scientists across the
+research ﬁelds. A total of 35 soil science journals exclusively within the soil science category
+were examined to analyze the number of publications containing each soil concept. Of the
+35 soil science journals, the earliest publication was the Soil Science (SS) journal in 1916,
+and the most recent was Geoderma Regional in 2016. Journals without an impact factor
+were considered in identifying pioneer contributors for each concept but not in the trend
+analyses. The annual impact factor (IF) for year 2018 is automatically generated on the
+website with the equation:
+IF=X/Y (1)
+where Xis the number of 2018 citations and Yis the number of source publications pub-
+lished during the previous two years (2016–2017). The IF measures citations of published
+articles divided by the number of recent articles and represents the signiﬁcance of cita-
+tion frequency by eliminating biases such as the size of the journal, issue frequency, and
+citable body size of the literature [ 12]. The calculation of eigenfactor scores (ES), on the
+other hand, is based on the number of times articles from the journal published in the
+past ﬁve years are cited and excludes self-citations from the calculation. The metrics are
+calculated using network analysis to determine the mathematical weights and apply them
+to each citation depending on the citation inﬂuence of the source publication [ 12]. Total
+numbers of publications for soil concepts in soil science journals and all journals were
+calculated to understand the contribution from the soil science community for each soil
+concept. The earliest publications with soil concepts were also retrieved from the Web of
+Science database.
+2.2. Statistical Methods for Change Point Detection and Trend Analysis of Publications
+A single change point, at which the number of publications for each soil concept
+signiﬁcantly increases/decreases during the search period (1900–2018), was identiﬁed
+using a nonparametric method, Pettitt’s test [ 13]. This point represents abrupt changes in
+the data when a property of the time series shifts. In other words, statistical distributions
+would likely differ for past and future data at that point. This analysis does not assume that
+Yivalues (number of publications over time in our case) are normally distributed, because
+the algorithm is based on the ranks of the elements of a series rather than on the values
+themselves [ 14]. Thus, it is less sensitive to outliers. The analysis was conducted using the
+“trend” package in R (3.5.3) [15].
+A nonparametric trend analysis, the Mann–Kendall test, was also performed to assess
+whether there is a statistical upward/downward trend in the number of publications
+separately for each soil concept over time. This rank-based analysis does not assume
+that the Yivalues conform to any unique distributions [ 16]. The algorithm computes the
+Appl. Sci. 2021 ,11, 4275 4 of 19
+difference between the later-measured value and all earlier-measured values to identify
+positive/negative differences or no differences [ 17]. Hirsch et al. (1982) described this
+method as appropriate for quantifying the large magnitude of changes over time [ 18]. The
+analysis was conducted using the “Kendall” package in R [19].
+3. Results
+A total of 35 journals were grouped in the soil science category in the Web of Science
+(Table 2). The youngest journal with over 10,000 total citations was Catena , which began
+publishing in 1983. No journals published within the past decade have yet reached 2000
+citations. A few journals published before 2015 have not reached more than 1000 citations,
+such as Agrochimica ,Arid Land Research and Management , and Soil and Water Research .
+Table 2. List of soil science journals found in Web of Science on 27 July 2019.
+Journal TitleYear of First
+PublicationTotal
+Citations1Impact Factor
+(2018)Eigenfactor
+Score ( 1000)
+Soil Science (SS) 1916 7053 1.70 1.18
+Plant and Soil 1948 33,620 3.26 23.64
+Agrochimica 1965 221 0.65 0.16
+Canadian Journal of Soil Science 1965 3130 0.95 1.37
+Pedobiologia 1965 2480 1.83 1.20
+Journal of Soil and Water Conservation (JSWC) 1967 4171 2.18 3.03
+Clays and Clay Minerals (CCM) 1968 5550 1.84 1.22
+Geoderma 1968 23,042 4.34 21.89
+Soil Science Society of America Journal (SSSAJ) 1972 24,121 2.00 7.28
+Communications in Soil Science and Plant Analysis (CSSP A) 1974 5644 0.69 2.69
+Soil Biology & Biochemistry (SBB) 1974 36,977 5.29 31.75
+Soil Science and Plant Nutrition 1976 3205 1.42 1.93
+Soil & Tillage Research (STR) 1980 12,573 4.68 10.33
+Catena 1983 13,025 3.85 16.62
+Biology and Fertility of Soils (BFS) 1985 8837 4.83 6.39
+Soil Use and Management 1986 2958 1.96 2.13
+Acta Agriculturae Scandinavica Section B-Soil and Plant Science 1992 1070 0.81 1.17
+Eurasian Soil Science 1992 1783 0.88 1.11
+European Journal of Soil Biology 1993 3139 2.24 3.18
+Applied Soil Ecology 1994 9096 3.45 10.78
+European Journal of Soil Science 1994 7014 2.82 4.94
+Compost Science & Utilization 1995 757 1.00 0.27
+Land Degradation & Development (LDD) 1996 5333 4.28 6.94
+Nutrient Cycling in Agroecosystems 1996 4344 2.85 2.86
+Journal of Plant Nutrition and Soil Science 1999 4564 2.06 3.68
+Arid Land Research and Management 2001 518 0.99 0.53
+Vadose Zone Journal (VZJ) 2002 4450 3.63 5.00
+Pedosphere 2003 2896 3.19 3.22
+Revista Brasileira De Ciencia Do Solo 2003 3553 1.17 2.54
+Journal of Soils and Sediments (JSS) 2005 5572 2.67 8.44
+Journal of Soil Science and Plant Nutrition 2010 1440 2.01 2.01
+Soil and Water Research 2010 318 1.21 0.46
+Archives of Agronomy and Soil Science 2011 1605 1.68 2.73
+Soil Research 2011 1110 1.57 2.29
+Geoderma Regional 2016 311 1.50 0.91
+1Total number of times each journal has been cited by all journals included in the database from the time when the journal began publishing.
+The following journals were ranked as having the ﬁve highest IF and ES scores: Soil
+Biology & Biochemistry (SBB); Biology and Fertility of Soils (BFS); Soil & Tillage Research (STR);
+Geoderma; and Land Degradation & Development (LDD). Both the Vadose Zone Journal (VZJ)
+and Pedosphere (PDP), which began publishing within the past decade, ranked in the top 10
+in terms of IF but not for ES. On the other hand, the Journal of Soils and Sediments (JSS) and
+theSoil Science Society of America Journal (SSSAJ) ranked within the top 10 for ES.
+Appl. Sci. 2021 ,11, 4275 5 of 19
+In some cases, journals were ranked higher for IF and/or ES with fewer total citations.
+For example, Clays and Clay Minerals (CCM) from 1968 and LDD from 1996 were similar in
+terms of total citations, but the IF of CCM was nearly two times higher than that of LDD.
+Even journals with fewer total citations, such as PDP , received higher IF and ES scores than
+CCM. Communications in Soil Science and Plant Analysis (CSSPA), which received a similar
+number of total citations as CMM, had a higher ES score but only half the IF score of CMM.
+The ES score of the JSS was notably high, considering that its total citations were similar to
+those for CCM.
+3.1. Scientiﬁc Attention to Soil Concepts in All-Category Journals and Soil Science Journals
+The number of publications from all-category journals (i.e., both soil and non-soil
+science, labelled “all journals” hereafter) and soil science journals was derived for each soil
+concept (Table 3). Soil fertility and soil quality received great attention in both all journals
+and soil science journals, followed by soil conservation and soil health. Soil productivity
+and soil resilience concepts appeared in soil science journals relatively more often than the
+other concepts, at more than 36%. The rates of publications found in soil science journals
+out of those in all journals ranged from 25% to 54%, with most rates under 40%.
+Table 3. Number of publications using soil concepts in all journals and soil science journals.
+Soil Concepts All Soil Science (%)
+Soil Fertility 12,498 3064 (24.52)
+Soil Quality 8029 2846 (35.45)
+Soil Conservation 3554 883 (24.85)
+Soil Health 1657 459 (27.70)
+Soil Productivity 1318 483 (36.65)
+Soil Protection 793 210 (26.48)
+Soil Sustainability 166 57 (34.34)
+Soil Resilience 119 64 (53.78)
+Soil Security 33 15 (45.45)
+Soil Care 21 6 (28.57)
+3.2. Early Studies of Soil Concepts
+The earliest soil concept publications were identiﬁed in all journals and soil science
+journals available in the Web of Science. In all journals, soil fertility was the earliest
+concept published in a journal (1908), followed chronologically in the literature by soil
+productivity, conservation, quality, health, protection, care, security, sustainability, and
+resilience ( Table 4 ). Soil quality was examined in one article written in German; all the
+other materials were written in English. Interestingly, the earliest article on soil health was
+found in a medical journal (Table 4). Soil sustainability and soil resilience were the only
+concepts that, on the ﬁrst occasion, were published in soil science journals.
+When the search window was limited to soil science journals, the order of ﬁrst ap-
+pearance for some soil concepts was different from the order for all journals (Table 5). The
+earliest literature for soil fertility was found in 1917, which was nine years after the article
+was published in a non-soil-science journal. Ten authors were identiﬁed for early studies
+of soil conservation. The authors (H.H. Bennett, A.L. Patrick, T.S. Buie, R.H. Musser, L.P .
+Merrill, A.E. Mccymonds, C. Luker, C., and J.H. Christ) published their article in 1947 in
+the same issue of Soil Science Journal (SSJ, volume 64, issue 6). The author who published
+the ﬁrst articles about soil resilience in the category ‘all journal’ and soil science journals
+was R. Lal [ 20]. The soil quality concept appeared for the ﬁrst time in an article in the Soviet
+Soil Science-USSR (SSS-USSR) in 1971.
+Appl. Sci. 2021 ,11, 4275 6 of 19
+Table 4. Search results for soil concepts found in articles in all (soil and non-soil science) journals (1900 to 2018) available at Web of Science.
+Soil Concepts Year Author Title of Published Article Name of Journal Volume Issue Pages
+Soil Fertility 1908Schreiner, O. and
+Shorey, E.C.The isolation of picoline carboxylic acid from soils
+and its relation to soil fertilityJournal of the American Chemical Society 30 8 1295–1307
+Soil Productivity 1910 Russell, E.J. The Effect of Earthworms on Soil Productiveness Journal of Agricultural Science 3 246–257
+Soil Conservation 1926 Lipman, J.G. Future Trends in Soil Conservation Industrial and Engineering Chemistry 18 1034–1040
+Soil Quality 1939 Wolff, W.Die bodenkundlichen Grundlagen der deutschen
+Reichs-Bodenschätzung (The science of soil basis of
+German soil quality evaluation)Naturwissenschaften 27 374–376
+Soil Health 1951 Forman, J. Soil, Health, and the Dental Profession Journal of Prosthetic Dentistry 1 5 508–522
+Soil Protection 1953 Tabor, P . Crabgrass for Soil Protection and Forage Agronomy Journal 45 3 123–123
+Soil Care 1972 Anonymous Soil Care Agriculture Journal 79 12 549–550
+Soil Security 1985Tadanier, R. and
+Ingles, O.G.Soil Security Test for Water Retaining Structures Journal of Geotechnical Engineering-ASCE 111 3 289–301
+Soil Sustainability 1992 Friend, J.A. Achieving Soil Sustainability Journal of Soil and Water Conservation 47 2 156–157
+Soil Resilience 1993 Lal, R.Tillage Effects on Soil Degradation, Soil Resilience,
+Soil Quality, and Sustainability-IntroductionSoil & Tillage Research 27 1–4 1–8
+Appl. Sci. 2021 ,11, 4275 7 of 19
+Table 5. Search results of soil concepts in soil science journal articles (1900 to 2017), Web of Science.
+Soil Concepts Year Author Titles Name of Journal Volume Issue Pages
+Soil Fertility 1917 Gainey, P . L.The Signiﬁcance of Nitriﬁcation as a Factor in
+Soil FertilityCommunications in Soil Science and
+Plant Analysis3 5 399–416
+Soil Conservation 1947Bennett, H. H.; Patrick, A. L.;
+Buie, T. S; Musser, R. H.;
+Merrill, L.P .;
+Mccymonds, A.E.; Luker, C.;
+Christ, J.H.1Development of Our National Program of Soil
+Conservation and Good Land Use in the
+United StatesSoil Science 64 4 259–364
+Soil Productivity 1948 Hopp, H. and Slate, C.S. Inﬂuence of Earthworms on Soil Productivity Soil Science 66 6 421–428
+Soil Quality 1971 Taychinov, S.N. A Method for Rating Soil Quality Soviet Soil Science-USSR 3 1 40-+
+Soil Protection 1974 Braley, N.D.; Smith, D.A. Soil Protection for Spud Production Soil Conservation 39 11 14–16
+Soil Sustainability 1992 Friend, J.A. Achieving Soil Sustainability Journal of Soil and Water Conservation 47 2 156–157
+Soil Health 1992 Haberern, J. A Soil Health Index Journal of Soil and Water Conservation 47 1 6–6
+Soil Resilience 1993 Lal, R.Tillage Effects on Soil Degradation, Soil
+Resilience, Soil Quality, and
+Sustainability-IntroductionSoil & Tillage Research 27 1-4 1–8
+Soil Care 1994 Wallace, A. S. Soil Care and The USA National DebtsCommunications in Soil Science and
+Plant Analysis25 1-2 153–157
+Soil Security 2013 Bouma, J. and McBratney, A.Framing Soils as an Actor When Dealing with
+Wicked Environmental ProblemsGeoderma 200 130–139
+1Seven authors published articles in a journal in the same volume and issue, which investigated the different regions of the United States. Each title was listed in the order of authors in this table: Development of
+Our National Program of Soil Conservation; Soil Conservation and Good Land Use in the Northeastern Region; Soil Conservation and Good Land Use in the Southeastern Region; Soil Conservation and Good
+Land Use in the Upper Mississippi Region; Soil Conservation and Good Land Use in the Western Gulf Region; Soil Conservation and Good Land Use in the Northern Great Plains Region; Soil Conservation and
+Good Land Use in the Southwestern Region; Soil Conservation and Good Land Use in the Paciﬁc Region.
+Appl. Sci. 2021 ,11, 4275 8 of 19
+Several soil science journals published pioneering work for different soil concepts
+(Table 5). For example, CSSPA recorded the earliest articles for soil fertility and soil care;
+SSJ produced the earliest articles on soil conservation and soil productivity concepts;
+and the Journal of Soil and Water Conservation (JSWC) produced the earliest work on soil
+sustainability and soil health. These journals appeared before 1974 and can be classiﬁed as
+relatively old journals for soil concepts.
+3.3. Quantitative Trends in Soil Concepts
+Soil concepts were introduced and popularized at different times. Pettitt’s test was
+conducted to ﬁnd the change point in the number of publications for soil concepts over
+time (Table 6). The test shows that all soil concepts, except for soil care and soil security,
+experienced statistically signiﬁcant shifts in the number of citations between 1900 and 2018.
+Table 6. Statistics summary of Pettitt’s test and Mann–Kendall test for soil concepts.
+Soil ConceptsPettitt’s Test Mann–Kendall Test
+U Statistics p-Value Change Point (Year) Kendall Score Kendall’s Tau Statistic p-Value
+Soil Conservation 3296 <0.01 1967 4437 0.77 <0.01
+Soil Fertility 3203 <0.01 1971 4462 0.70 <0.01
+Soil Quality 2676 <0.01 1979 3423 0.69 <0.01
+Soil Productivity 2943 <0.01 1981 3867 0.70 <0.01
+Soil Protection 2548 <0.01 1991 3039 0.64 <0.01
+Soil Sustainability 1840 <0.01 1992 2013 0.52 <0.01
+Soil Health 2208 <0.01 1992 2478 0.59 <0.01
+Soil Resilience 1953 <0.01 1993 2058 0.52 <0.01
+Soil Care 564 0.65 1994 540 0.25 <0.01
+Soil Security 678 0.39 2013 680 0.31 <0.01
+Results from the Mann–Kendall test showed that all soil concepts had positive tau
+values ( p< 0.00), indicating that the trend of citing the soil concepts overall has statistically
+increased. Soil care and soil security did not observe a statistically signiﬁcant change point
+(p> 0.05). A possible reason could be the low number of publications found in the literature
+analysis. We found that soil care did appear in published articles at low frequency, but
+more prominently on websites. Soil security was introduced in soil science journals more
+recently, which is likely the reason that it had the lowest frequency of citations.
+The differences between the year when each soil concept appeared for the ﬁrst time in
+all journals (A) and the soil science journals (B) and the change points (C) were calculated
+in detail (Table 7). Many soil concepts appeared in soil science journals 20 years or more
+after they appeared in non-soil-science journals for the ﬁrst time (B-A in Table 7). Soil
+fertility was an exception, with a nine-year difference. Soil resilience and soil sustainability
+concepts had a value of zero because they appeared in soil science journals ﬁrst. Many
+soil concepts reached their change point almost 40 years or more after appearing in all
+journals (C-A in Table 7). However, change points for soil quality, soil health, and soil care
+came almost immediately after the soil science journals published articles with those soil
+concepts (C-B in Table 7).
+The number of publications for each soil concept overall increased over time, particu-
+larly since 1990 (Figure 1). Soil concepts differed in the speeds at which their publication
+rates increased. Most journals experienced visibly upward trends in publications up to
+2018, except for soil care.
+Appl. Sci. 2021 ,11, 4275 9 of 19
+Table 7. Exploratory analysis of soil concepts based on inﬂection points and time of appearance in the all-journal category
+and soil science journals.
+Soil ConceptsFirst Appearance (Year) Change PointC(Year) B-A (Years) C-A (Years) C-B (Years)
+All (A) Soil Science (B)
+Soil Fertility 1908 1917 1971 9 63 54
+Soil Productivity 1910 1948 1981 38 71 33
+Soil Conservation 1926 1947 1967 21 41 20
+Soil Quality 1939 1971 1979 32 40 8
+Soil Health 1951 1992 1992 41 41 0
+Soil Protection 1953 1974 1991 21 38 17
+Soil Care 1972 1994 1994 22 22 0
+Soil Security 1985 2013 2013 28 28 0
+Soil Sustainability 1992 1992 1992 0 0 0
+Soil Resilience 1993 1993 1993 0 0 0
+Appl. Sci. 2021, 11, x FOR PEER REVIEW  10 of 21  
+ 
+Figure 1. Number of publications citing the 10 different pre -selected soil concepts over time from 
+soil science journals (black circles with a solid black line) and all journals (orange triangle with a 
+dashed orange line) available on the Web of Sc ience.  
+  
+Figure 1. Number of publications citing the 10 different pre-selected soil concepts over time from soil
+science journals (black circles with a solid black line) and all journals (orange triangle with a dashed
+orange line) available on the Web of Science.
+Appl. Sci. 2021 ,11, 4275 10 of 19
+4. Discussion
+4.1. The Emergence of Soil Concepts
+Many soil concepts have emerged at different times over the years. The soil fertility
+concept appeared to be the earliest of all of the soil concepts examined in both all journals
+(1908) and soil science journals (1917) (Tables 4 and 5). Viets (1977) argued that much
+of the research that contributed to progress in soil fertility research was conducted even
+before the establishment of a formalized soil science [ 21]. McNeill and Winiwarter (2004)
+supported this idea and asserted that the oldest writing on the topic—the book Yugong ,
+which described the characteristics of soil fertility in Northern China—appeared in around
+500 B.C.E. [22].
+The soil fertility concept has a strong association with measurements of soil nutrients
+for crop production [ 23]. Patzel (2004) found the historical linkage between human fertility
+and soil fertility in the writing— Mother Earth [24,25]. The linkage has been developed
+across diverse cultures as farmers developed a general agronomic theory in the late 18th
+century [ 26]. Social and technological development and understanding have also impacted
+the development of soil concepts. Food supply shortages during and after the World Wars
+led questions of soil fertility to be central [ 22] at a time when urgent demand for farm
+products and high prices confronted U.S. farmers [ 27]. Many countries in Europe also
+recognized the need to increase agricultural production, especially after World War II [ 28].
+Justus von Liebig and John Lawes were early scientists in Europe who contributed to the
+initial development of organic chemistry for soils and mineral fertilizer production, which
+revolutionized agricultural production. A German chemist, Fritz Haber, later synthesized
+and industrialized nitrogen fertilizers, which coincided with trends to industrialize and
+corporatize agriculture and forest industries (e.g., machinery- and technology-derived
+agricultural revolutions). Land reform after World War II, enforced by U.S. occupation
+forces, also played an essential role in consolidating fragmented agricultural land in
+Japan [ 29]. Other countries in South Asia have increased external inputs to enhance
+agricultural production by diversifying biophysical and chemical conditions. Soil fertility
+currently emphasizes the biological, chemical, and physical soil attributes important for
+provisioning crop nutrients and water [ 30,31]. The measurements and analysis of such soil
+properties have been explored as well in context of soil fertility studies, e.g., [32,33].
+The concepts of soil conservation and soil productivity appeared in soil science jour-
+nals at almost the same time in the late 1940s (Table 4). The ﬁrst author found in the search
+process for all journals in the Web of Science was Lipman (1926), who argued that soil
+conservation should deal with both plant-food ingredients and the ability of the soil to
+attain maximum crop production capability under all environmental conditions [34]. The
+change point for the soil conservation concept came about 20 years later with Hopp and
+Slater’s (1948) article, published in SS [ 35]. Hornbeck (2012) reported that many U.S. Plains
+areas had cumulatively lost more than 75% of their original topsoil due to deep plowing
+and drought, which was notably visible by the 1940s [ 36]. Bennett (1974), argued that the
+origin of the U.S. national soil conservation program occurred much earlier than the U.S.
+Dust Bowl era of the 1930s [ 37]. The author stated that an article he wrote, which was
+published by the Department of Agriculture in the 1920s, was the ﬁrst comprehensive
+appraisal of the erosion issue in the U.S. Many regional erosion stations were built and
+thousands of soil and water measurements were performed to comply with the Buchanan
+Amendment to the Agricultural Appropriations Bill for 1930. Bennett argued that the
+commitment of scientists to prevent nutrient runoff and soil erosion was undertaken at
+the national level using a top-down approach. According to Ice [ 38], the Soil Conservation
+Act of 1935, which sought to develop practical methods of managing lands, was the origin
+of the best management practices (BMPs) of today. Agricultural BMPs were designed
+to address and minimize agricultural non-point-source pollutions by the applications of
+excessive fertilizers and pesticides in the U.S. in the 1960s [ 39]. This movement seems
+to correspond to the time when R. Carson published the famous book, Silent Spring , in
+1962. As public concerns for environmental degradations and pollutions had spread, soil
+Appl. Sci. 2021 ,11, 4275 11 of 19
+conservation also experienced the change point in 1967 (Table 6). From the mid-1960s
+onward, an increasing number of publications about soil conservation reﬂected the gradual
+accumulations of public understanding and awareness.
+The enhancement of soil quality was regarded as a goal of improving soil fertility and
+agricultural productivity through soil conservation [ 40]. The term “soil quality” appeared
+in a German soil science journal shortly after articles on soil conservation were published in
+a non-soil-science journal (Table 4). Wolff (1939) used the term to explain the effect of land
+use changes on soil characteristics and, in particular, from soil proﬁling perspectives [ 41].
+The article was published in a German journal that focused on natural sciences [ 42]. The
+journal was founded in 1913, and the article was published in Nazi Germany (1933–1941).
+The vision was to be self-sufﬁcient in producing food for Germans toward World War II
+that demanded soil assessment (Reichs-Bodenschätzung). This approach to soil assessment
+could be considered a predecessor to more modern forms of digital soil mapping that
+emerged in the 1980s [ 43]. Hans Jenny developed a conceptual model based on the soil-
+forming factors that were rooted in Vasily V . Dokuchaev’s work, and the model became a
+standard feature of U.S. survey reports in the 1940s and 1950s [44].
+The soil quality concept appeared in a soil science journal for the ﬁrst time 32 years
+after the term appeared in a non-soil-science journal (Table 7). The article was available
+as an English translation after being published in the SSS-USSR by Taychinov (1971) [ 45].
+The author used the term to describe the fundamental physicochemical, biological, and
+hydrological properties of soils as those attributes relate to productivity for agriculture,
+economic beneﬁts, proﬁtability, and production costs. The deﬁnitions/scopes/aims of soil
+quality were revisited by various authors [ 2,46–49]. According to Karlen et al. (2001), the
+concept of soil quality was introduced in the North American literature after the mid-1980s,
+which was immediately after the concept’s change point in the number of publications
+over time (Table 7) [ 50]. This may mean that the deﬁnition was initially overlooked or not
+used in North America. A review of soil quality by Bünemann et al. (2018) shows that
+the broader deﬁnition considered soil productivity for agriculture as well as the quality
+of the environment and animal and human health [ 31]. The authors argued that the term
+“soil quality” was introduced by Mausel (1971) [ 51]; however, some authors pointed to
+others, such as Warkentin and Fletcher (1977) [ 52], as being among the ﬁrst to introduce
+the concept [ 47]. In our opinion, the author initially found in the article search, W. Wolff
+(1939), introduced the term “soil quality.”
+The similarity/difference between soil quality and soil health is arguable [ 31]. In
+deﬁning the concept of soil quality, Parr et al. (1992) stated that soil quality indices could
+be used to assess the impact of management practices on human and animal health [ 53].
+Though the appearance of soil health in all journals and soil science journals, as well as
+the change point, occurred many years later than soil quality, the terms have been used
+interchangeably. For example, Haberern (1992), whose article appeared in the search result
+for soil science journals, advocated for a soil health index as a report card to document
+gains and losses in soil quality [ 54]. Moebius-Clune et al. (2016) posited that soil quality
+and soil health could be considered synonymous [ 55]. Bünemann et al. (2018) suggested
+that the preferred term depends on the stakeholders (i.e., soil quality for researchers and
+soil health for farmers), although apparently there are no scientiﬁc surveys to validate
+this argument [ 56]. Stevens (2018) deﬁned soil health as “a holistic measure of a soil’s
+productivity, resilience, and sustainability [ 6]”. The concept is straightforward in the
+abstract, yet challenging to deﬁne in practice from various viewpoints such as farmers, soil
+scientists, economists, and policymakers.
+Some prominent deﬁnitions of soil health and soil quality proposed over the past
+20 years were summarized and compared by Mizuta et al. (2018) [2]. For example, Doran
+and Saﬂey (1997) deﬁned it as the “continued capacity of soil to function as a vital living
+system, within ecosystem and land-use boundaries, to sustain biological productivity;
+promote the quality of air and water environments; and maintain plant, animal, and
+human health [ 57]”. The U.S. Department of Agriculture—Natural Resources Conservation
+Appl. Sci. 2021 ,11, 4275 12 of 19
+Service (USDA-NRCS) simpliﬁed the deﬁnition of soil health in relation to soil quality
+as “the continued capacity of soil to function as a vital living ecosystem that sustains
+plants, animals, and humans” [ 58]. Stewart et al. (2018) proposed measuring the dynamic
+variables that mainly fell within biological, environmental, and agronomic groups that
+are responsive to soil management, such as cover crop, based on a meta-analysis of 192
+unique peer-reviewed papers [59]. These variables include soil respiration, soil aggregate
+stability, mineralizable nitrogen (N), soil erosion, inﬁltration, runoff, nutrient leaching,
+weed control, diseases, soil fauna, microbial indicators, soil N 2O emissions, microbial
+biomass N, and other soil health indicators. These variables were measured for traditional
+soil surveys as indicators of soil quality. Instead, new aggregation methods of existing
+soil information into a comprehensive, sensible, and scientiﬁc-sounding index are the
+focal point of current discussions in the soil science community [ 5,60]. Thus, soil health
+must be reconsidered similar to other soil concepts with the purpose of overcoming some
+limitations of past soil survey efforts, such as inconsistent soil measurement protocols.
+Under a large umbrella, the concepts of soil quality and soil health share the common goals
+of multiple stakeholders by targeting sustainable soil resource management under natural
+and anthropogenic pressures.
+The earliest publication on soil sustainability was found in a soil science journal in
+1992; one year later, a soil resilience paper appeared. These concepts were the only ones
+found ﬁrst in soil science journals (Tables 4 and 5). Considering that the two concepts
+appeared at almost the same time, they would likely share similar content, target, audiences,
+and semantic deﬁnitions, because they may be used interchangeably. However, A. J. Friend
+(1992), the author of the ﬁrst soil sustainability publication available in the Web of Science,
+claimed differently [ 61]. The author ﬁrst deﬁned soil sustainability as the “susceptibility
+of soil to change under natural or anthropogenic perturbations,” while soil resilience
+was deﬁned as “soil’s ability to recover to the antecedent state following degradative
+perturbation or change in land use.” Soil degradation would be the manifestation of a loss
+of soil sustainability and resilience. The author also argued that soil sustainability was
+characterized by three aspects, soil stability, soil resilience, and soil quality, all of which
+can be inﬂuenced by soil surface management (e.g., tillage) to a large degree. This view
+of soil stability and resilience seems to be consistent with other publications as well. For
+example, Vogel et al. (2018) argued that the stability and resilience of soil are produced by
+the complex interactions of functional soil attributes. The important question of how to
+integrate fragmented knowledge on soil processes from various perspectives was addressed
+in the article [62].
+The roots of the resilience concept can be found in ecology [63]. C. S. Holling, whose
+work was published in 1973, is considered to be the founder of modern ecological resilience
+by distinguishing ecological and engineering resilience [ 64]. However, Olsson et al. (2015)
+argued that the prevalent theory was not integrated with sociology as socio-ecological
+resilience [ 65]. This integral development has altered the earlier deﬁnition of the ecological
+resilience by a different view. Speciﬁcally, that resilience expresses the achievement of a
+new state or equilibrium after perturbations.
+Ludwig (2018) considered sustainability from a biodiversity perspective and asserted
+that potential maximum ecological performance (MEP) is the measurable part of soil char-
+acteristics for sustainable management [ 66]. Three ecological stages were delineated in
+the framework: resistance, resilience, and regime. The threshold between the ﬁrst two
+responses to a disturbance of the ecosystem is expressed by effective MEP , while the thresh-
+old between the last two is characterized by potential MEP . However, the sustainability
+framework is often rather holistic. Wu and Wu (2012) organized various indicator frame-
+works based on social, environmental, economic, and institutional dimensions [ 67]. The
+authors introduced hundreds of various indicators that would be aggregated into indices
+as measures of sustainable development. The measures of soil sustainability and resilience
+are still open for discussion. New techniques to quantify the functions or capabilities of
+Appl. Sci. 2021 ,11, 4275 13 of 19
+soils through integration of existing information with communal consensus seem valuable
+in advancing the monitoring of soil resources for sustainable use.
+The soil care concept does not seem to be used often in scientiﬁc journal publications.
+The concept itself has not been discussed deeply, in terms of deﬁnitions, conceptual framing,
+and practical applications. Review papers were not identiﬁed in the database. However,
+the soil care concept may play a role as a foundation of various soil management strategies
+based on top-down and bottom-up approaches. Yaalon (1996) deﬁned the concept as “the
+activity of selecting and implementing, locally and regionally, a system of soil and land
+use management suitable for maintaining and improving soil usefulness and quality for
+any selected purpose [ 8].” Yaalon also argued that knowledge on the topic also needs
+to be discussed deeply, quantiﬁed, and organized, similar to other soil concepts such as
+soil sustainability. However, Krzywoszynska (2019) addressed the act of care beyond
+ethical and practical commitments of securing matters by introducing attentiveness [ 7].
+Attentiveness was described as a focal point to relational ethics as “attending to the non-
+human other, of becoming response-able to them” (p. 4). According to the author, this
+practice of attentiveness fosters ethical expansions and transformations through encounters
+between humans and non-humans. Forming care networks of interconnected entities whose
+existence enables the well-being of the primary object of care, soil is necessary. Grunwald
+(2021) proposed a novel Pluralistic Integral Soil Ethics (PISE) framework of which one of
+the pillars is soil care [ 68]. The ethics of soil care (relational ethics) is rooted in cognitive
+empathy, which is what a person thinks and understands about soils and the environment,
+and emotional empathy, which is what a person viscerally feels in relation to soils. Purely
+cognitive empathy provides factual understanding about soils, while emotional empathy
+is an embodied experience. They both rely on each other to support action, but empathic
+concern is a necessity to bring forth compassionate actions (e.g., conservation management).
+In essence, soil care arises from a compassionate lived emotive relationship between carer
+(person/community) and cared-for (soil/land/nature). It follows that if somebody (or a
+community) does not care for soil, and attributes less (or no) value to soil compared to
+other things, soil degradation and loss in soil quality are tolerated. This conception of soil
+care stands in contrast to earlier deﬁnitions by Yaloon and Wallace that are system-oriented
+and only involve cognitive empathy.
+Soil security also experienced its change point almost immediately after soil science
+journals published articles. This indicates that publishing research on soil concepts in soil
+science journals may be a key step in enhancing awareness of newly proposed soil concepts,
+though the soil science community might not acknowledge the value of new ideas for
+many years. Interestingly, the deﬁnition of soil security found in the ﬁrst article published
+in a non-soil-science journal differed from the one ﬁrst published in a soil science journal.
+Tadanier and Ingles (1985) used the term to refer to a physical feature of soil (i.e., water
+retention ability) [ 69], while Bouma and McBratney (2013) used the term to frame soils as a
+broader term to address environmental issues, deﬁning soil security as the “maintenance
+or improvement of the world’s soil resource so it can provide sufﬁcient food and ﬁber,
+fresh water, contribute to energy sustainability and climate stability, maintain biodiversity
+and overall environmental protection and ecosystem services” [ 70]. Most of the results
+for the soil security concept used the holistic deﬁnition. The sources of publications for
+soil security can be found in Global Soil Security [71], though the Web of Science did not
+recognize the book in the database. The ﬁrst book chapter conceptualized soil security
+similarly to food and water security, though soil security was not perceived as a global
+existential challenge by the public as much as the other security concepts were [ 72]. Bouma
+and McBratney (2013) proposed the ﬁve C dimensions that deﬁne soil security: capability,
+condition, capita, connectivity, and codiﬁcation [ 70]. Grunwald et al. (2017) proposed
+another C, cognizance, as the fundamental factor that binds the other ﬁve dimensions [ 73].
+This feature was characterized as ecological awareness that motivates actions that value,
+care for, and secure limited natural resources. Although all aforementioned soil concepts
+aim to protect and preserve soils, their underlying motivations and justiﬁcations differ
+Appl. Sci. 2021 ,11, 4275 14 of 19
+widely [ 68]. Soil quality, soil health, and soil fertility (and possibly soil productivity as well)
+have a tight linkage to agricultural production systems, in which the values of the concepts
+are found in optimized management so that they meet the needs of people and, potentially,
+other organisms. An anthropocentric stance undergirds soil conservation, suggesting that
+humans control soil/land/nature to provide beneﬁts for people and the environment. Soil
+sustainability is associated with “good” stewardship for future generations, while the
+security of soils refers to being free from the risk of losing functionality and goods and
+services of sustainable environment [10].
+4.2. Factors for Propagating New Ideas in Soil Science
+Overall, many soil concepts appeared in soil science journals 20 years or more after
+they appeared in non-soil-science journals for the ﬁrst time. This reﬂects the soil science
+community’s slow adaptation to new concepts. However, the earlier a soil concept appeared
+in the ﬁrst article in the category ‘all journal’, the earlier the change points occurred in
+general, except for soil quality and soil health (A and C-A in Table 7). This phenomenon
+is possibly due to the more recent rapid increase in the number of articles on newer soil
+concepts (Figure 1). Publishing new soil concepts in soil science journals is essential for
+the soil science community to recognize and build communal understanding and values
+though that would not be a sufﬁcient factor. Sharing a new concept with a large general
+readership would also help the propagation of soil concepts.
+Older concepts were generally cited more over time (Table 3, Figure 1). The minimum
+number of citations necessary to experience a statistical change point of the publications
+or a citation inﬂation in soil science journals was 57 (Table 3), while the number for all
+journals was 119 (Table 3). The readership of journal subscribers/attention/citations
+has varied by journal over time, though each journal has ﬁxed scopes/aims/deﬁnitions
+and speciﬁc readers. Publishing soil concept articles in a journal with a large readership
+would be the best strategy, or creating a journal based on a given soil concept is another
+strategy. For instance, the change point for a number of publications on soil conservation
+occurred the same year that the JSWC published the ﬁrst articles (Table 7). Out of 798 and
+49 journals in all journals and soil science journals, the journal published the most articles
+on soil conservation.
+To enhance attention from soil science communities and beyond, other important
+factors must be considered. Rogers (2010) proposed the diffusion of innovation theory
+to explain how and at what rate a new idea or technology spreads in an organization
+or community [ 74]. The diffusion approach has been used to evaluate the impact of
+development programs in agriculture, family planning, public health, and other ﬁelds.
+According to Rogers, there are ﬁve elements of a new concept/idea/innovation that will
+each partly determine whether the adoption or diffusion of a new one will occur: relative
+advantage, compatibility, complexity, trialability, and observability. These elements are
+designed to answer some of the same questions raised in this study (e.g., Why do certain
+innovative ideas spread more quickly than others, and why do others fail?). Relative
+advantage is the degree to which a new concept is perceived as better or more useful for
+particular stakeholders. Compatibility is the degree to which a new concept is consistent
+with or relevant to existing experiences, values, and the needs of stakeholders. Complexity
+evaluates how easily a new concept is comprehended—that is, the easier the concept is
+to understand, the more rapidly it can spread. Trialability indicates whether a new idea
+can be tested repeatedly. The last criterion, observability, ensures that a new concept will
+produce visible results.
+The ﬁrst three elements of the diffusion theory are essential to improve the adaptabil-
+ity of new ideas for various stakeholders. For example, the choice of wording may draw
+different associations and intuitions that could track the attention of stakeholders. Puig
+de la Bellacasa (2015) stated that soil care is a widely used notion, though the publication
+result for this concept was relatively low [ 75]. The term soil care has been associated with
+intimate relationships, nurturing motherly care (for something or somebody), qualitative
+Appl. Sci. 2021 ,11, 4275 15 of 19
+values (e.g., long-term sustainability to secure our children’s future), and the feminine,
+which have been devalued in the sciences and overpowered in societies attuned to prof-
+itability (e.g., maximize crop production from soil), achievement (e.g., maximize soil carbon
+sequestration), power, and doing-orientation (e.g., manage and control soils, production
+agriculture, or “ﬁx the soil degradation crisis”). More discussions on the soil care concept
+can be found in Grunwald (2021) [68].
+Earlier concepts of soil, on the other hand, seem to be limited to agricultural perspec-
+tives but were cited in many publications. Multiple factors explain the propagation of
+new ideas in a community, including needs (e.g., soil degradation); crises/problems (e.g.,
+the Dust Bowl, global climate change); curiosity; psychological (e.g., spiritual or inner
+motivation to use speciﬁc soil concepts); and social (tribal patterns, e.g., scientists may feel
+inclined to study soil health because their colleagues study soil health).
+Social and environmental changes, along with technological advancements and public
+awareness regarding the need for poverty reduction and sustainable management of natural
+resources, have impacted public or professional organizations and soil science. Trends in
+science can shift over time based on the interests of scientists and funding agencies [ 76].
+The prominence of conceptual studies in the literature reﬂects a given research emphasis
+and how it has sustained momentum over time.
+Soil quality is a good example: it has a clear history of broadening its deﬁnition to
+address complex soil/environmental challenges [ 31,49]. These conceptual criteria can also
+be found in the assessments of various soil concept indices. For example, Karlen et al.
+(1997) asserted that the critical characteristics of a soil quality framework should be that it
+is (1) inﬂuential for the purpose of the assessment (i.e., relative advantage); (2) measurable
+(i.e., trialability/observability); and (3) sensitive to detect differences at the point scale
+in time and space (i.e., compatibility) [ 46]. Doran (2002) proposed that the important
+criteria for soil quality/health indices are (1) utility and accessibility for agricultural spe-
+cialists, producers, conservationists, and policymakers (relative advantage/complexity,
+trialability, and observability) and (2) sensitivity to management and climatic variations
+(compatibility) [77].
+Despite the conceptual criteria for the adoption or diffusion of a new concept, this
+study offers practical viewpoints for propagating awareness of soil concepts. The choice of
+journals in which to publish articles on a soil concept inﬂuences the citation trend of soil
+concepts. The large audience/readership outside of the soil science communities needs to
+be considered because 63% of the citations for the soil concepts selected for this study were
+from non-soil-science journals. The united efforts of professional organizations/institutes
+within a country are also valued. It is notable that publication sizes for authors in the
+Chinese Academy of Science (CAS) for many soil concepts were the largest, including soil
+conservation, fertility, productivity, quality, and sustainability. This observation may be
+linked to a large number of scientists from 114 institutions under the CAS, which is the
+world’s largest research organization recognized by Nature Index [ 78]. However, one might
+claim that this is not a fair comparison because many countries, including the U.S., have
+not adopted the scheme that the Chinese have. Collaborations across nations or people
+who speak different native languages is another factor in determining scientiﬁc awareness
+as a part of cultural adaptability. The most prominent languages varied depending on the
+soil concept, but the least cited concepts—soil care and soil security—were only published
+in English. Efforts by a single organization (i.e., the University of Sydney) contributed the
+majority of publications on soil security in all journals (39.4%) and soil science journals
+(46.7%), which indicates the monopolization. However, opposite trends were found for
+other soil concepts that showed pronounced diversiﬁcation in the form of English/non-
+English publications indicating cultural and social adaptability.
+A cultural or typological aspect may play an important role in restricting citations. Lal
+(1993) referred to soil resilience as “soil’s ability to recover to the antecedent state following
+degradative perturbation or change in land use” [ 20]. However, Olsson et al. (2015)
+argued that the use of the term “resilience” in the natural sciences may cause disciplinary
+Appl. Sci. 2021 ,11, 4275 16 of 19
+tensions with the social sciences [ 65]. The application of resilience theory may change the
+deﬁnition from coherent to internally contradictory, from precise to vague, from descriptive
+to normative to predictive, and from concise to comprehensive. Sojka et al. (2003) also
+warned that the vague quality of assessments requires deconstruction for interpretation [ 9].
+Expanding stakeholders by broadening soil concepts may succeed in considering diverse
+stakeholders and functions of soils, but it also seems to be a tradeoff with the possibility
+of losing the capability for scientiﬁc advancement. Furthermore, vagueness can confuse
+readers/users, and, as a result, divisions within soil science might be created. Soil quality
+and soil health are good examples because these are interchangeably used depending on
+the author.
+4.3. Limitations of This Research and Future Research
+Some limitations of the study can be opportunities for future research. Some articles
+originally written in German were identiﬁed in the English translation, so articles in original
+languages other than English might not be as readily accessible to readers in the Web of
+Science. Adding other sources, such as Google Scholar, may retrieve soil concept articles
+unavailable in the Web of Science.
+In addition, different search settings may produce different results for total citations
+for all journals and soil science journals. The wildcard character and quotation marks were
+used to identify exact phrases of soil concepts with slight ﬂexibility in plurality (e.g., soil
+care and soil cares). However, some articles—for instance, the paper titled “Soil structure
+and sustainability” [ 79]—were not counted in the total citations for soil sustainability in all
+journals. Thus, expanding searchability may increase the chance of ﬁnding unidentiﬁed
+articles published earlier than those found in this study.
+5. Conclusions
+Soil concepts have emerged at different times, often changing in the frequency of their
+use and their meanings over time. Whether soil concepts persist, are replaced, diffuse, or
+make room for new ones reﬂects real societal needs and improved scientiﬁc understanding.
+However, soil scientists may require decades of time and a signiﬁcant number of publi-
+cations published in soil and non-soil-science journals to adopt new ideas within the soil
+science community. The increasing number of citations in both the short- and long-term
+also requires the expansion of audience/stakeholders in different countries/organizations,
+including those who use languages other than English or Chinese as their primary lan-
+guage. While not every soil concept has attracted widespread interest, those cited more
+than 50 times in the soil science journals have tended to acquire momentum, communal
+value, and understanding in diverse communities. Establishing new concepts with a lack
+of novel semantics inherently risks creating communication barriers between scientists
+and other stakeholders, speciﬁcally if those concepts are regarded as scientiﬁc buzzwords
+and/or jargon. Older soil concepts that emerged in soil science journals in the early 1900s
+apparently related to agriculture and productivity. The newer concepts developed since the
+1970s address management, functionality (e.g., soil security and soil health), and biocentric
+themes (e.g., soil resilience). Within the semantic ﬁeld, it seems that the original meaning
+of a speciﬁc soil concept at emergence relaxes and broadens over time, with research
+publications diverting from the original deﬁnition. This phenomenon is exempliﬁed by the
+concept of soil health, with exponentially growing publications over the past decade but a
+loss of clear and precise semantics of the term soil health.
+The deﬁnition of each concept has been modiﬁed over time, depending on external
+crises in society/environment (e.g., global climate change, food security) and/or internal
+interests within the soil science community. The soil concepts that are successfully popular-
+ized will likely be impacted in the future by shifts from disciplinary soil-centered research
+toward more inter- and trans-disciplinary environmental research as global ecological and
+humanitarian crises intensify.
+Appl. Sci. 2021 ,11, 4275 17 of 19
+Author Contributions: K.M., S.G., W.P .C.J., and A.R.B.: conceptualization. K.M. and S.G.: funding
+acquisition and writing—original draft. K.M., S.G., W.P .C.J., and A.R.B.: methodology. S.G.: supervi-
+sion. S.G., W.P .C.J., and A.R.B.: writing—review and editing. All authors contributed to the article
+and approved the submitted version. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The datasets [GENERATED/ANALYZED] for this study can be found
+in the Web of Science (https://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=
+WOS&search_mode=GeneralSearch&SID=8EHWxYMplCTgS18LdFs&preferencesSaved=) (accessed
+on 29 July 2019).
+Acknowledgments: K.M. receives general support for research from the Japan Student Services
+Organization, the University of Florida Soil and Water Sciences Department, and Yuxin Miao.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Eijsackers, H. Leading concepts towards vital soil. In Vital Soil: Function, Value, and Properties ; Doelman, P ., Eijsackers, H.J.P ., Eds.;
+Elsevier: Amsterdam, The Netherlands, 2004; Volume 29, pp. 1–20.
+2. Mizuta, K.; Grunwald, S.; Phillips, M.A. New Soil Index Development and Integration with Econometric Theory. Soil Sci. Soc.
+Am. J. 2018 ,82, 1017–1032. [CrossRef]
+3. Karlen, D.L.; Andrews, S.S.; Wienhold, B.J.; Zobeck, T.M. Soil Quality Assessment: Past, Present and Future ; USDA-ARS/UNL
+Faculty: Lincoln, NE, USA, 2008.
+4. Lehmann, J.; Bossio, D.A.; Kögel-Knabner, I.; Rillig, M.C. The Concept and Future Prospects of Soil Health. Nat. Rev. Earth
+Environ. 2020 ,1, 544–553. [CrossRef]
+5. Ng, E.L.; Zhang, J. The Search for the Meaning of Soil Health: Lessons from Human Health and Ecosystem Health. Sustainability
+2019 ,11, 3697. [CrossRef]
+6. Stevens, A.W. Review: The Economics of Soil Health. Food Policy 2018 ,80, 1–9. [CrossRef]
+7. Krzywoszynska, A. Caring for Soil Life in the Anthropocene: The Role of Attentiveness in More-than-Human Ethics. Trans. Inst.
+Br. Geogr. 2019 ,44, 661–675. [CrossRef]
+8. Yaalon, D.H. Soil Science in Transition: Soil Awareness and Soil Care Research Strategies. Soil Sci. 1996 ,161, 3–8. [CrossRef]
+9. Sojka, R.E.; Upchurch, D.R.; Borlaug, N.E. Quality Soil Management or Soil Quality Management: Performance versus Semantics.
+Adv. Agron. 2003 ,79, 1–68.
+10. Grunwald, S.; Mizuta, K.; Ceddia, M.B.; Pinheiro, É.F.M.; Wilcox, R.K.K.; Gavilan, C.P .; Ross, C.W.; Clingensmith, C.M. The
+meta soil model: An integrative multi-model framework for soil security. In Global Soil Security ; Field, D.J., Morgan, C.L.S.,
+McBratney, A.B., Eds.; Progress in Soil Science; Springer International Publishing: Berlin/Heidelberg, Germany, 2017; pp. 305–317.
+ISBN 978-3-319-43393-6.
+11. Bouma, J. Applying Indicators, Threshold Values and Proxies in Environmental Legislation: A Case Study for Dutch Dairy
+Farming. Environ. Sci. Policy 2011 ,14, 231–238. [CrossRef]
+12. Clarivate Analytics Journal Citation Reports: Eigenfactor Score Frequently Asked Questions. Available online: https:
+//support.clarivate.com/ScientiﬁcandAcademicResearch/s/article/Journal-Citation-Reports-Eigenfactor-Score-Frequently-
+Asked-Questions?language=en_US+%29 (accessed on 18 March 2020).
+13. Pettitt, A.N. A Non-Parametric Approach to the Change-Point Problem. J. R. Stat. Soc. Ser. C (Appl. Stat.) 1979 ,28, 126–135.
+[CrossRef]
+14. Wijngaard, J.B.; Tank, A.M.G.K.; Können, G.P . Homogeneity of 20th Century European Daily Temperature and Precipitation
+Series. Int. J. Climatol. 2003 ,23, 679–692. [CrossRef]
+15. Pohlert, T. Non-Parametric Trend Tests and Change-Point Detection ; The Comprehensive R Archive Network; 2018; p. 18. Available on-
+line: https://cran.microsoft.com/snapshot/2017-11-08/web/packages/trend/vignettes/trend.pdf (accessed on 23 March 2020 ).
+16. Mann, H.B. Nonparametric Tests against Trend. Econometrica 1945 ,13, 245–259. [CrossRef]
+17. Meals, D.W.; Spooner, J.; Dressing, S.A.; Harcum, J.B. Statistical Analysis for Monotonic Trends ; U.S. Environmental Protection
+Agency: Fairfax, VA, USA, 2011; pp. 1–23.
+18. Hirsch, R.M.; Slack, J.R.; Smith, R.A. Techniques of Trend Analysis for Monthly Water Quality Data. Water Resour. Res. 1982 ,18,
+107–121. [CrossRef]
+19. McLeod, A.I. Package ‘Kendall’ ; The Comprehensive R Archive Network; R Software: London, UK, 2011; pp. 1–12.
+20. Lal, R. Tillage Effects on Soil Degradation, Soil Resilience, Soil Quality, and Sustainability. Soil Tillage Res. 1993 ,27, 1–8. [CrossRef]
+Appl. Sci. 2021 ,11, 4275 18 of 19
+21. Viets, F.G. A Perspective on Two Centuries of Progress in Soil Fertility and Plant Nutrition. Soil Sci. Soc. Am. J. 1977 ,41, 242–249.
+[CrossRef]
+22. McNeill, J.R.; Winiwarter, V . Breaking the Sod: Humankind, History, and Soil. Science 2004 ,304, 1627–1629. [CrossRef] [PubMed]
+23. Fixen, P .E.; Bruulsema, T.W.; Jensen, T.L.; Mikkelsen, R.; Murrell, T.S.; Phillips, S.B.; Rund, Q.; Stewart, W.M. The Fertility of North
+American Soils, 2010. Better Crops Plant Food 2010 ,94, 6–8.
+24. Patzel, N. The soil scientist’s hidden beloved: archetypal images and emotions in the scientist’s relationship with soil. In Soil and
+Culture ; Landa, E.R., Feller, C., Eds.; Springer: Dordrecht, The Netherlands, 2009; pp. 205–226. ISBN 978-90-481-2960-7.
+25. Fallou, F.A. Pedologie Oder Allgemeine Und Besondere Bodenkunde [Pedology or General and Particular Soil Science] ; G. Schönfeld’s
+Buchhandlung: Dresden, Germany, 1862.
+26. Feller, C.; Blanchart, E. “Rock–stone” and “soil–earth”: Indigenous views of soil formation and soil fertility in the West Indies. In
+Soil and Culture ; Landa, E.R., Feller, C., Eds.; Springer: Dordrecht, The Netherlands, 2009; pp. 277–286. ISBN 978-90-481-2960-7.
+27. Kellogg, C.E. A Challenge to American Soil Scientists: On the Occasion of the 25th Anniversary of the Soil Science Society of
+America. Soil Sci. Soc. Am. J. 1961 ,25, 419–423. [CrossRef]
+28. Bullock, P .; Montanarella, L. Soil information: Uses and needs in Europe. In Soil Resources of Europe ; Jones, R.J.A., Houškov á, B.,
+Bullock, P ., Montanarella, L., Eds.; Ofﬁce for Ofﬁcial Publications of the European Communities: Luxembourg, 2005; pp. 397–417.
+29. Niroula, G.S.; Thapa, G.B. Impacts and Causes of Land Fragmentation, and Lessons Learned from Land Consolidation in South
+Asia. Land Use Policy 2005 ,22, 358–372. [CrossRef]
+30. Bockheim, J.G.; Gennadiyev, A.N.; Hammer, R.D.; Tandarich, J.P . Historical Development of Key Concepts in Pedology. Geoderma
+2005 ,124, 23–36. [CrossRef]
+31. Bünemann, E.K.; Bongiorno, G.; Bai, Z.; Creamer, R.E.; De Deyn, G.; de Goede, R.; Fleskens, L.; Geissen, V .; Kuyper, T.W.;
+Mäder, P .; et al. Soil Quality–A Critical Review. Soil Biol. Biochem. 2018 ,120, 105–125. [CrossRef]
+32. Bartels, J.M.; Sparks, D.L. Methods of Soil Analysis ; SSSA, Soil Science Society of America: Madison, WI, USA, 2009; ISBN 978-0-
+89118-825-4.
+33. Klute, A. Methods of Soil Analysis Part 1 Physical and Mineralogical Methods ; Soil Science Society of America Book Series; Soil Science
+Society of America: Madison, WI, USA, 2006; ISBN 978-0-89118-811-7.
+34. Lipman, G.J. Future Trends in Soil Conservation. Ind. Eng. Chem. J. 1926 ,18, 1034–1040. [CrossRef]
+35. Hopp, H.; Slater, C. Inﬂuence of Earthworms on Soil Productivity. Soil Sci. 1948 ,66, 421–428. [CrossRef]
+36. Hornbeck, R. The Enduring Impact of the American Dust Bowl: Short- and Long-Run Adjustments to Environmental Catastrophe.
+Am. Econ. Rev. 2012 ,102, 1477–1507. [CrossRef]
+37. Bennett, H.H. Development of Our National Program of Soil Conservation. Soil Sci. 1974 ,64, 259–273. [CrossRef]
+38. George, I. History of Innovative Best Management Practice Development and Its Role in Addressing Water Quality Limited
+Waterbodies. J. Environ. Eng. 2004 ,130, 684–689. [CrossRef]
+39. Logan, T.J. Agricultural Best Management Practices for Water Pollution Control: Current Issues. Agric. Ecosyst. Environ. 1993 ,46,
+223–231. [CrossRef]
+40. Lal, R. Sequestering Carbon and Increasing Productivity by Conservation Agriculture. J. Soil Water Conserv. 2015 ,70, 55A–62A.
+[CrossRef]
+41. Wolff, V .W. Die Bodenkundlichen Grundlagen Der Deutschen Reichs-Bodenschätzung. Naturwissenschaften 1939 ,27, 374–376.
+[CrossRef]
+42. Thatje, S. The Science of Nature–A New Era, a New Name for Naturwissenschaften. Sci. Nat. 2015 ,102, 6. [CrossRef]
+43. Grunwald, S. What do we really know about the space-time continuum of soil-landscapes. In Environmental Soil-Landscape
+Modeling ; CRC Press: Boca Raton, FL, USA, 2005; pp. 16–49.
+44. Brown, D.J. A historical perspective on soil-landscape modeling. In Environmental Soil-Landscape Modeling ; CRC Press: Boca Raton,
+FL, USA, 2005; pp. 61–103.
+45. Taychinov, S.N. A Method for Rating Soil Quality (Translated from Pochvovedeniye, 1971, No.1:24-34). Sov. Soil Sci. USSR 1971 ,
+3, 40–49.
+46. Karlen, D.L.; Mausbach, M.J.; Doran, J.W.; Cline, R.G.; Harris, R.F.; Schuman, G.E. Soil Quality: A Concept, Deﬁnition, and
+Framework for Evaluation (A Guest Editorial). Soil Sci. Soc. Am. J. 1997 ,61, 4–10. [CrossRef]
+47. Karlen, D.L.; Ditzler, C.A.; Andrews, S.S. Soil Quality: Why and How? Geoderma 2003 ,114, 145–156. [CrossRef]
+48. Sojka, R.E.; Upchurch, D.R. Reservations Regarding the Soil Quality Concept. Soil Sci. Soc. Am. J. 1999 ,63, 1039–1054. [CrossRef]
+49. Warkentin, B.P . The changing concept of soil quality. J. Soil Water Conserv. 1995 ,50, 226–228.
+50. Karlen, D.L.; Andrews, S.S.; Doran, J.W. Soil Quality: Current Concepts and Applications. Adv. Agron. 2001 ,74, 1–40.
+51. Mausel, P .W. Soil Quality in Illinois—an Example of a Soils Geography Resource Analysis. Prof. Geogr. 1971 ,23, 127–136.
+[CrossRef]
+52. Warkentin, B.P .; Fletcher, H.F. Soil Quality for Intensive Agriculture ; Society of Science of Soil and Manure: Tokyo, Japan, 1977;
+pp. 594–598.
+53. Parr, J.F.; Papendick, R.I.; Hornick, S.B.; Meyer, R.E. Soil Quality: Attributes and Relationship to Alternative and Sustainable
+Agriculture. Am. J. Altern. Agric. 1992 ,7, 5–11. [CrossRef]
+54. Haberern, J. A Soil Health Index. J. Soil Water Conserv. 1992 ,47, 6.
+Appl. Sci. 2021 ,11, 4275 19 of 19
+55. Moebius-Clune, B.N.; Moebius-Clune, D.J.; Gugino, B.K.; Idowu, O.J.; Schindelbeck, R.R.; Ristow, A.J.; van Es, H.M.; Thies, J.E.;
+Shayler, H.A.; McBride, M.B.; et al. Comprehensive Assessment of Soil Health–the Cornell Framework ; Cornell University: Geneva, NY,
+USA, 2016.
+56. Romig, D.E.; Garlynd, M.J.; Harris, R.F.; McSweeney, K. How Farmers Assess Soil Health and Quality. J. Soil Water Conserv. 1995 ,
+50, 229.
+57. Doran, J.W.; Saﬂey, M. Deﬁning and assessing soil health and sustainable productivity. In Biological Indicators of Soil Health ;
+Pankhurst, C., Doube, B.M., Gupta, V .V .S.R., Eds.; CAB Internation: New York, NY, USA, 1997; pp. 1–28.
+58. USDA-NRCS Soil Health. Available online: https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/health/ (accessed on
+22 March 2020).
+59. Stewart, R.D.; Jian, J.; Gyawali, A.J.; Thomason, W.E.; Badgley, B.D.; Reiter, M.S.; Strickland, M.S. What We Talk about When We
+Talk about Soil Health. Agric. Environ. Lett. 2018 ,3, 180033. [CrossRef]
+60. Mizuta, K.; Grunwald, S.; Phillips, M.A.; Cropper, W.P ., Jr.; Lee, W.S.; Vasques, G.M. New Indication Method Using Pedo-
+Econometric Approach. Data Envel. Anal. J. 2019 ,4, 207–241. [CrossRef]
+61. Friend, J.A. Achieving Soil Sustainability. J. Soil Water Conserv. 1992 ,47, 156–157.
+62. Vogel, H.-J.; Bartke, S.; Daedlow, K.; Helming, K.; Kögel-Knabner, I.; Lang, B.; Rabot, E.; Russell, D.; Stößel, B.; Weller, U.; et al. A
+Systemic Approach for Modeling Soil Functions. SOIL 2018 ,4, 83–92. [CrossRef]
+63. Cretney, R. Resilience for Whom? Emerging Critical Geographies of Socio-Ecological Resilience. Geogr. Compass 2014 ,8, 627–640.
+[CrossRef]
+64. Holling, C.S. Resilience and Stability of Ecological Systems. Annu. Rev. Ecol. Syst. 1973 ,4, 1–23. [CrossRef]
+65. Olsson, L.; Jerneck, A.; Thoren, H.; Persson, J.; O’Byrne, D. Why Resilience Is Unappealing to Social Science: Theoretical and
+Empirical Investigations of the Scientiﬁc Use of Resilience. Sci. Adv. 2015 ,1, e1400217. [CrossRef] [PubMed]
+66. Ludwig, M.; Wilmes, P .; Schrader, S. Measuring Soil Sustainability via Soil Resilience. Sci. Total Environ. 2018 ,626, 1484–1493.
+[CrossRef]
+67. Wu, J.; Wu, T. Sustainability indicators and indices: An overview. In Handbook of Sustainable Management ; Imperial College Press:
+London, UK, 2012; pp. 65–86.
+68. Grunwald, S. Take care of soils: Toward a pluralistic integral soil ethics. In Cultural Understanding of Soil ; Patzel, N., Grunwald, S.,
+Brevik, E.C., Feller, C., Eds.; Springer Publisher: Berlin/Heidelberg, Germany, 2021; in press.
+69. Tadanier, R.; Ingles, O.G. Soil Security Test for Water Retaining Structures. J. Geotech. Eng. 1985 ,111, 289–301. [CrossRef]
+70. Bouma, J.; McBratney, A. Framing Soils as an Actor When Dealing with Wicked Environmental Problems. Geoderma 2013 ,200–201 ,
+130–139. [CrossRef]
+71. Global Soil Security; Field, D.; Morgan, C.L.; McBratney, A.B. Global Soil Security ; Progress in Soil Science; Springer International
+Publishing: Berlin/Heidelberg, Germany, 2017; ISBN 978-3-319-43393-6.
+72. McBratney, A.B.; Field, D.J.; Morgan, C.L.S.; Jarrett, L.E. Soil security: A rationale. In Global Soil Security ; Field, D.J., Morgan, C.L.S.,
+McBratney, A.B., Eds.; Progress in Soil Science; Springer International Publishing: Berlin/Heidelberg, Germany, 2017; pp. 3–14.
+ISBN 978-3-319-43393-6.
+73. Grunwald, S.; Clingensmith, C.M.; Gavilan, C.P .; Mizuta, K.; Wilcox, R.K.K.; Pinheiro, É.F.M.; Ceddia, M.B.; Ross, C.W. Integrating
+New Perspectives to Address Global Soil Security: Ideas from Integral Ecology. In Global Soil Security ; Field, D.J., Morgan, C.L.S.,
+McBratney, A.B., Eds.; Progress in Soil Science; Springer International Publishing: Berlin/Heidelberg, Germany, 2017; pp. 319–329.
+ISBN 978-3-319-43393-6.
+74. Rogers, E.M. Diffusion of Innovations , 4th ed.; Simon and Schuster: New York, NY, USA, 2010; ISBN 978-1-4516-0247-0.
+75. Puig de la Bellacasa, M. Making Time for Soil: Technoscientiﬁc Futurity and the Pace of Care. Soc. Stud. Sci. 2015 ,45, 691–716.
+[CrossRef] [PubMed]
+76. Chen, C. CiteSpace II: Detecting and Visualizing Emerging Trends and Transient Patterns in Scientiﬁc Literature. J. Am. Soc. Inf.
+Sci. Technol. 2006 ,57, 359–377. [CrossRef]
+77. Doran, J.W. Soil Health and Global Sustainability: Translating Science into Practice. Agric. Ecosyst. Environ. 2002 ,88, 119–127.
+[CrossRef]
+78. Nature Index 10 Institutions That Dominated Science in 2017. Available online: https://www.natureindex.com/news-blog/
+twenty-eighteen-annual-tables-ten-institutions-that-dominated-sciences (accessed on 23 March 2020).
+79. Lal, R. Soil Structure and Sustainability. J. Sustain. Agric. 1991 ,1, 67–92. [CrossRef]

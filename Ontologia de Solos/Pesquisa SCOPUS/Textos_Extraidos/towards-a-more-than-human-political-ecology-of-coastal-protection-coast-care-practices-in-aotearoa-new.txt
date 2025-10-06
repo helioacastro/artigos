@@ -1,0 +1,584 @@
+Article Nature and Space
+T owards a more-than-human
+political ecology of coastal
+protection: Coast Care
+practices in Aotearoa
+New Zealand
+Friederike Gesing
+University of Bremen, Germany
+Abstract
+Coastal protection measures are intended to stabilize the boundaries of land and sea—and ofprivate property. But structural engineering solutions, such as seawalls, have negative side-effectsin terms of environmental and climate justice: they cause erosion of adjacent areas, they limitpublic access, and they can lead to the loss of sandy beaches. So-called ‘‘soft’’ coastal protectionapproaches promise more sustainable and just alternatives. The article explores the role of themore-than-human in such practices. Arguing that the popular framing of coastal protection as‘‘working with nature’’ is a strategic naturalization, the paper aims to develop a more-than-human
+take on the political ecology of coastal protection. The empirical basis is built from ethnographic
+material on volunteer dune restoration by Coast Care groups in Aotearoa New Zealand. Theanalysis shows that the ‘‘multispecies agencies’’ (Locke, 2013) at work in various practicesassociated with Coast Care include communities of plants and animals, human care work andartefacts, as well as abiotic elements such as sand, wind, water and concrete. The article arguesthat to foster political and practical engagements for more sustainable coastal naturecultures,these entanglements should be made explicit and accountable. A more-than-human politicalecology approach to understand the promises of soft coastal protection therefore combines
+three analytic sensibilities. Firstly, it looks at the ontological politics and categorization
+practices that define and enact specific versions of coastal nature. Secondly, it focuses on thepolitics of care in multispecies worlds, including the abiotic. And thirdly, it takes into account the‘‘ordinary politics’’ of contested coastal space, decision-making and planning.
+Keywords
+Aotearoa New Zealand, coastal protection, ethnography, more-than-human political ecology,sociomaterial practices
+Corresponding author:
+Friederike Gesing, University of Bremen, artec Sustainability Research Center, Enrique-Schmidt-Str. 7, Bremen 28259,
+Germany.Email: f.gesing@uni-bremen.deEPE: Nature and Space
+2021, Vol. 4(2) 208–229
+!The Author(s) 2019
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/2514848619860751
+journals.sagepub.com/home/ene
+
+Introduction: More-than-human coastal space
+How to protect people and infrastructure against the widespread eﬀects of erosion and
+ﬂooding—today and in a climate-changed future—is an important issue faced by coastalcommunities worldwide. Katherine Sammler (2017) has noted that the so-called coastline is
+not a line but a fractal universe (cf. Stratford et al., 2011). Coastal space is deﬁned by its
+proximity to the sea—it is limited in extent, fragile, and potentially on the move. As anensemble of sociomaterial practices, coastal protection does not simply secure coastal space.It coproduces the material, symbolic, and spatial dimensions of land and sea. Decisionsabout present and future coastal protection strategies touch upon important issues ofenvironmental and climate justice: What should be protected, why, by whom, andapplying which methods? Which temporal and spatial scales need to be taken intoaccount for coastal protection to be(come) sustainable, and just (Agyeman, 2014; Cooper
+and McKenna, 2008a)? David Pellow (2016a: 223–224) has further called for critical
+environmental justice approaches that ‘‘attend to the ways that both the human and themore-than-human world are impacted by and respond to environmental injustice.’’ In regardto coastal protection strategies, abiotic elements such as wind, sand, or concrete are not onlybackground conditions. They are deeply entangled with human practices of coastalprotection, and the living and dying of plant and animal species. Seawater even deﬁessimple categorizations as living or (dead) matter. As a naturalcultural hybrid, it is asubstance and a medium in which microbial life and microplastics entangle (Helmreich,
+2011) and arguably form a new sphere of life (De Wolﬀ, 2017). All of these more-than-
+human elements, living and non-living, aﬀect, and are aﬀected by coastal protectionpractices.
+Damian White and Chris Wilbert have encouraged us to ‘‘develop political ecologies that
+more explicitly recognize how our social-ecological worlds are actively made through diverseproductions, circulations, and entanglements of people with other diverse non-humans,ecosystems, material and immaterial devices, and artifacts’’ (White and Wilbert, 2009:10–11). Political ecology, having set out to explore the relation between natural and social
+factors, has its own tradition of reproducing the distinction between the spheres of nature
+and society (Braun, 2004: 162). A more-than-human approach to political ecology, ﬁrstsuggested by Sarah Whatmore (2013), brings the very categorization practices that enactthe divide between nature and society/culture into the core of the analysis (Braun, 2015).Consequently, the concept of a singular ‘‘capital-N nature’’ is replaced by an ontology ofmultiplicity, or multiple natures. Steve Hinchliﬀe (2007: 191) has argued that if nature isunderstood as the outcome of multiple (human and more-than-human) practices, ‘‘[h]ow toengage in the making of better natures is a fraught empirical and political question’’ that is
+‘‘both ontological and political, and requires detailed engagement in the multiple practices of
+nature making.’’
+In regard to making nature at the coast, Cormac Walsh (2018) has demonstrated that
+within both coastal protection and nature conservation, culturally embedded‘‘metageographies’’ are at work which deﬁne the boundaries of separate spaces for natureand culture. Where the practice of diking has a long tradition, as is the case in the EuropeanNorth Sea region, coastal protection works embody an ongoing struggle to stabilize coastalspace and to enforce clear and endurable boundaries between nature and society. Other
+approaches and traditions are less concerned with an absolute separation of land and sea.
+For the Paciﬁc context, the cultural anthropologist Epeli Hau’ofa has coined the term ‘‘seaof islands,’’ which provides an alternative image of an ocean of connections betweenseafaring indigenous communities (Hau’ofa et al., 1993). Today however, Paciﬁc islandcommunities are disproportionately under threat from rising sea levels (Klepp andGesing 209
+Herbeck, 2016). Coastal engineering is the common answer to coastal erosion and ﬂooding
+in Oceania as much as in Northern Europe and the US, albeit in a less systematic way andwith limited state funding.
+Yet over the last two decades, a remarkable trend can be observed in coastal management
+worldwide: an emerging interest in the use of ‘‘softer and less obtrusive coastal [protection]
+structures’’ (Sorensen, 2006: 5). The US Army Corps of Engineers—the federal US agencyresponsible for coastal protection—even observes an outright ‘‘shift from hard to softalternatives’’ in its Coastal Engineering Manual, an internationally recognized referencepublication (US Army Corps of Engineers, 2008: V-3-91). The UNFCCC (2006: 13)deﬁnes these alternatives as ‘‘soft structures’’ which include ‘‘dune or wetland restorationor creation’’ and beach nourishment. The reasons listed for this paradigm shift in the makingare manifold. They range from the experienced failure of traditional approaches, to rising
+costs expected under the conditions of climate change, to aesthetic considerations and
+concerns with environmental injustices (Cooper and Pilkey, 2012). The California CoastalCommission, for example, is developing an environmental justice policy which problematizesthe loss of publicly accessible beaches due to the combined eﬀects of rising sea level andseawalls built to protect private property (California Coastal Commission, n.d.: 2).
+Within the circles of coastal management practitioners, but also in the public discourse,
+these concerns often translate into the belief that for a more sustainable future, coastalprotection should be reoriented towards approaches that are working with nature —and
+not against it (Cooper and McKenna, 2008b; Defra, 2005; Eurosion, 2004; Inman, 2010).
+While the traditional ‘‘engineering paradigm’’ (interview with Jim Dahm, December 2010)conceptually builds upon a fundamental conﬂict between human and non-human nature, theincreasing popularity of ‘‘soft approaches’’ signals potential changes in the framing of(coastal) naturecultures (cf. Haraway, 2008). In this paper, I will situate this globalizedemergence of soft coastal protection in the Aotearoa New Zealand
+1context, where a
+growing community of practice (Wenger, 1998) explores alternative coastal protectionapproaches. Drawing on long-term ethnographic research,
+2I will focus on the most
+important soft protection practice in Aotearoa New Zealand: dune restoration projects
+carried out by publicly funded volunteer Coast Care and Beachcare groups.
+The Coast Care constituency typically represents actors who want to contribute to the
+transition to a more sustainable coastal future. In their everyday care practice, Coast Carevolunteers encounter massive economic interests in coastal space. Rising real estate valuesand coastal sprawl fuel their concerns over the fortiﬁcation of the coastline. As thediscussion will show, the ‘‘sociotechnical imaginary’’ (Jasanoﬀ, 2015; Gesing, 2016) ofcoastal protection that works with nature builds upon a strategic naturalization of coastal
+nature, regardless of the multiple, more-than-human practices involved in restoring and
+reconstructing coastal space. From a more-than-human political ecology perspective, thiscategorizing of certain practices and outcomes as ‘‘natural’’ can be read as a form of‘‘ontological politics’’ (Mol, 2002). This ﬁnding is of vital importance for just andsustainable more-than-human coastal futures, because the ‘‘working with nature’’imaginary is not only popular within the community of restoration practice. Rather, thisimaginary potentially frames very diverse objectives. The World Association for WaterborneTransport Infrastructure, for example, has issued its own position paper on ‘‘Working with
+Nature’’ (PIANC, 2011). Similar to the Dutch ‘‘Building with Nature’’ strategy (Deltares,
+2013; Ecoshape, 2012), it argues that nature can be enhanced in the scope of infrastructuraldevelopment. Departing from a logic of compensation for environmental damage caused,construction projects are discussed as ‘‘a unique opportunity to induce positive change’’(Deltares, 2013)—of nature enhanced, and not compromised, by human intervention. The210 EPE: Nature and Space 4(2)
+assumption that ‘‘man-made projects are an inherent part of the environment’’ (Deltares,
+2013) resonates with coproductive understandings of social nature (Castree and Braun,2001) or naturecultures (Haraway, 2008).
+This example illustrates the situatedness of an ontological politics of the natural. The
+extent to which actual practices are contributing to more sustainable coastal naturecultures
+remains a question for empirical analysis. A feasible way to explore such promises is to lookmore closely at the material practices of care. Care can be framed as an everyday, situatedform of ‘‘slow activism’’ (Liboiron et al., 2018). In the words of Maria Puig de la Bellacasa(2011: 90), care is an ‘‘ethically and politically charged practice.’’ The politics of care takesthe ‘‘reproduction, maintenance and repair of ecological life’’ seriously as an essentialpractice for ‘‘creating livable and lively worlds’’ (Puig de la Bellacasa, 2015: 708).Therefore, a focus on naturalcultural care practices might help to address David Pellow’s
+urgent question, ‘‘how can we work together with nonhuman natures as our allies and
+partners to promote and secure environmental justice and sustainability for all?’’ (Pellow,2016b: 386, original emphasis). This better ‘‘relationship of human beings to the broadernonhuman world’’ (Pellow, 2016a: 233) envisaged by Pellow explicitly includes abiotic andinfrastructural elements and objects. Consequently, it is suggested here that a more-than-human focus on the political ecology of dune restoration also includes the sand, storms andwater which, together with the assemblage of plants and human and more-than-humananimals, build and rebuild dune ﬁelds. Based on a non-dualistic ontology of coastal
+nature(s), this more-than-human approach departs from the understanding of clearly
+separable natural and social dimensions that underlies Integrated Coastal ZoneManagement and Marine Spatial Planning approaches. It looks at the entanglements ofhuman and more-than-human actors as they work together, with and against each other,rather than reproducing the separation of human and more-than-human, biotic and abioticelements.
+A more-than-human political ecology of coastal protection then brings together three
+analytic sensibilities. Firstly, it zooms in on the ontological politics of coastal nature, and
+asks what is brought into existence as a part of nature, and which actors, objects, and
+timescales are included in the practices observed. Secondly, it focuses on the politics ofcare in multispecies worlds which also include the abiotic. And thirdly, it continues toscrutinize what I will call the ‘‘ordinary politics’’ of coastal space, namely itscommodiﬁcation and economization, questions of public and private responsibility,access, and contested processes of decision-making and coastal planning. Taken together,a more-than-human political ecology is oriented towards the question, what could be(come)environmentally just coastal protection? How can coastal protection that aims to work with
+nature build just and sustainable coastal futures that provide for the more-than-human
+as well?
+Aotearoa New Zealand: Caring for the coast
+Aotearoa New Zealand is a nation in the South Paciﬁc consisting of two major and severalsmaller islands. Its beaches are ‘‘naturalcultural contact zones’’ (Haraway, 2008: 6f.) thathave co-shaped Aotearoa New Zealand’s history in material and symbolic ways. Enabling
+access to the country’s often rugged hinterland terrain, they served both as landing sites for
+the canoes of the ﬁrst Polynesian settlers arriving approximately 1000 years ago, and astransport routes during European colonization in the 19th century (Hickford, 2012). In the20th century, the coast became important as a site of leisure and freedom from urbanconstraints (Hayward, 2008; Peart, 2009). Simple, often self-constructed huts—theGesing 211
+proverbial kiwi beach ‘‘baches’’—characterized imaginations of the coastal landscape from
+the 1950s onwards (Grigor, 2008; Kearns and Collins, 2006). The beach ‘‘bach’’ myth is stillwell-represented in popular culture. The Auckland Maritime Museum, for example, exhibitsa typical 1950s bach. Out on the beaches, however, most baches were replaced by more
+permanent holiday homes in the last decades of the 20th century.
+Overall, Aotearoa New Zealand has experienced an investment and development friendly
+political climate since the early 1980s. With growing prosperity, the number of beach housesreferred to as ‘‘second homes’’—and real estate prices—have increased considerably(Freeman and Cheyne, 2008). The majority of the country’s 4.5 million inhabitants livesnear the coast (Statistics New Zealand, 2006: 4). Nevertheless, the (imagined or actual)encounter with pristine nature remains a core topos of national identity (Clark, 2004) fora population that understands itself as possessing a ‘‘‘birthright’ to enjoy undeveloped
+coastal places’’ (Kearns and Collins, 2012: 943). This paradox between the sprawling
+infrastructures providing for a maritime lifestyle on the one hand, and the desire toretreat to an unspoiled coastal environment on the other is reﬂected in ever growingconcerns about coastal development and the loss of natural beaches (Collins and Kearns,2010; Morton et al., 1973; Peart, 2009). About a quarter of Aotearoa New Zealand’s coastsexperience periodic or chronic erosion (De Lange, 2012), and many residential areas havebeen built very close to the shoreline (Blackett et al., 2010). Their fate has become the subjectof a growing number of local conﬂicts over the use of hard measures that protect private
+properties to the detriment of beaches, especially where such protection structures impede
+public access (Gesing, 2017).
+This is an important environmental justice concern in a context where coastal
+communities bear the eﬀects of hard protection works that safeguard prime real estate fora few inhabitants who are often absent for most of the year, while limiting access to thebeach for the wider community. Traditional, ‘‘hard’’ protection structures are intended to ﬁxthe boundaries between land and sea, and nature and culture. Their actual eﬀects, however,are often messy and make natural and social forces interact. For example, coastal
+fortiﬁcation can inﬂuence sediment availability and transport, and thereby induce
+increased erosion elsewhere. Furthermore, while seawalls are very eﬀective in protectinginfrastructure on land, sandy beaches in front of such structures often continue to erode.In Aotearoa New Zealand, this so-called ‘‘coastal squeeze’’ (Dean and Dalrymple, 2004)eﬀect of engineered structures, as well as their negative impact on the aesthetic experience ofthe coastal landscape, raises particular concerns (Jacobson, 2005). National coastal policysignals the will to transition to more sustainable approaches, and requires territorialauthorities to promote alternatives to hard protection structures, including the use of so-
+called ‘‘natural defenses’’ (Department of Conservation (DOC), 2010: 24). Typically, the use
+of ‘‘natural defenses’’ involves the restoration of coastal sand dune vegetation undertaken byCoast Care and Beachcare groups and, to a much smaller extent, the (re)construction offrontal dunes.
+In Aotearoa New Zealand, dune restoration takes place in the context of large-scale
+environmental change caused by various interrelated, human and more-than-humanpractices: deforestation, wind erosion, damage by vehicles, livestock grazing andpedestrians, coastal development, and the eﬀects of newly introduced plant and animal
+species such as rabbits (Dahm et al., 2005; McGlone, 1989; Star, 2009). As a result,
+coastal sand dunes in their current state often do not function as envisaged in theirintended use as ‘‘natural defenses’’—erosion protection—for coastal settlements. CoastCare was ﬁrst developed in the Bay of Plenty (BOP) region in the 1990s as ‘‘part of thenew paradigm of coastal management, which focuses on working with natural processes, not212 EPE: Nature and Space 4(2)
+against them’’ (Jenks, n.d.). Coast Care BOP and several similar programs now active in
+other regions receive funding from territorial agencies and the federal DOC. They provideresources for local groups, including plants, fertilizer, tools, and other materials such asfences or information boards. Brochures, reports, and educational material about
+objectives, practices, and more-than-human actors such as common plants and pests are
+issued by Coast Care programs, DOC and the Coastal Restoration Trust of New Zealand(formerly: Dune Restoration Trust of New Zealand (DRTNZ)).
+Environmental care groups are in general a popular concept in Aotearoa New Zealand.
+They rely on a widespread hands-on volunteer work ethic, and are logistically supported by asmall number of professional coordinators. From the outset, using dune restoration as ameans of erosion control was one of Coast Care’s central objectives. It remains the mainmotivation for many volunteers. Over time, however, biodiversity conservation has gained
+increasing recognition as a goal in its own right. This development is reﬂected by an
+increasing number of Coast Care projects restoring backdune environments (interviewwith Coast Care coordinator, June, 2011; DRTNZ, 2013). With Coast Care, localresidents, holidaymakers, schoolchildren and girl scouts, members of local M /C22aori
+communities, company groups, international ‘‘voluntourists’’ (Callanan and Thomas,2005) and people sentenced to community service participate to varying degrees and withdiﬀerent motives in the task of restoring Aotearoa New Zealand’s sand dunes (Gesing, 2016:177–203) (removed for the purposes of review). Their shared practices, which are
+transforming and maintaining the dunes, also translate into a shared understanding of the
+appropriate state of coastal nature. In the Coast Care imaginary, this appropriate state ofAotearoa New Zealand coastal nature is characterized by sand dunes with typical ‘‘native’’vegetation, ﬁrst of all Spinifex and P /C22ıngao.
+3
+A natural defense against erosion: Reconstructing native nature
+Once, societies for ‘‘acclimatization’’ systematically introduced new species to Aotearoa New
+Zealand (Star, 2009). Today, the protection and conservation of biodiversity is Aotearoa
+New Zealand’s top conservation priority. The classiﬁcatory practices deﬁning nonhumanspecies as either native or introduced are themselves ontological (Comaroﬀ and Comaroﬀ,2001; Helmreich, 2009; Subramaniam, 2014; Warren, 2007). Because these classiﬁcations arepartly structured by reference to human action, Stefan Helmreich (2009: 151) argues that‘‘[n]ature and culture are the organizing rubrics in this metataxonomy.’’ Species are referredto as alien, introduced or invasive depending on whether they have arrived with intentionalor unintentional human help, and whether they are categorized as harmful from today’s
+perspective by speciﬁc groups of actors (Helmreich, 2009: 150). That the native plant is a
+historically contingent, naturalcultural category is particularly evident in relation to so-called ‘‘canoe species,’’ which travelled to the Paciﬁc islands alongside early Polynesiansettlers. Their classiﬁcation as either native or introduced depends on whether the arrivalof Captain Cook in the Paciﬁc is understood as an epochal change to the natural state of theislands, or as an acceleration of a process that began with Polynesian settlement (Helmreich,2009: 160). Ecological restoration projects are subject to such varying deﬁnitions of theassumed ‘‘natural’’ baseline (cf. Lorimer, 2012).
+In Aotearoa New Zealand, the programmatic Coast Care literature argues that dunes
+covered with native dune plants are also better suited for coastal protection purposes thanthose with introduced species, which are less eﬀective in ‘‘repairing storm-damagedfrontal dunes’’ (Dahm et al., 2005: 9). This observation also applies to Marram grass(Ammophila arenaria ), which was introduced from Northern Europe for the purpose ofGesing 213
+dune stabilization in the past. Marram clad dunes tend to form a diﬀerent shape than those
+covered with Spinifex and P /C22ıngao:
+[Marram plants] create really steep and narrow dunes, whereas Spinifex creates a really wide
+dune. So the wider, the better. Marram is better than nothing, but ...it doesn’t allow that
+accretion to go forward. And it also is so vigorous, that it sort of outcompetes the Spinifex.
+So you end up with these Marram dunes that are just so enormous. They’re not bad, it’s better
+than no dune, but it just doesn’t allow natural dunes. (Interview with Waikato Beachcarecoordinator, July 2011)
+This deﬁnition of ‘‘natural’’ and thus proper dunes combines aesthetics and function: these
+dunes look better and function better for the intended purpose of protecting coastalproperty, because they are larger and shallower, and have less impact on the sea views of
+beachfront properties. On the other hand, this also means that buildings remain visible to the
+public walking along the beach (see Figure 1). The example shows that the functionality ofdunes is also a situated category: what and whose purpose they serve matters.
+Yet, the functionality of native dune plant vegetation is not only discussed in relation to
+the physical stabilization of coastal sand dunes, but also in other material and symbolicregisters. In the case of P /C22ıngao, its traditional usage by M /C22aori as a weaving material is widely
+referenced in Coast Care brochures (Bay of Plenty Regional Council, 2013), even thoughcontemporary weavers rarely use P /C22ıngao anymore. Due to its relatively short and irregular
+blades, P /C22ıngao is not very suitable for beginners, who work almost exclusively with
+Harakeke, the New Zealand ﬂax ( Phormium tenax ) (ﬁeldnotes, Te Teko Weaving School,
+5 August 2011). Furthermore, its decline makes P /C22ıngao sometimes diﬃcult for weavers to
+ﬁnd. Nevertheless, P /C22ıngao has retained an important symbolic function as a symbol for re-
+weaving naturalcultural connections (interview with Ng /C22ati Makino Coast Care volunteer,
+July 2011). P /C22ıngao is endemic; it only occurs in Aotearoa New Zealand. Its brightly yellow
+blades have a very distinct presence in the dunes. A M /C22aori origin story introduces P /C22ıngao as
+Figure 1. P/C22ıngao covered dunes, Papamoa beach, picture by author, 28 June 2011.214 EPE: Nature and Space 4(2)
+the embodiment of the eyebrows of the forest god Tane, marking the boundary between his
+sphere of inﬂuence and the ocean, symbolized by Tangaroa:
+[Tane] and Tangaroa, the god of the sea, were always ﬁghting until one day Tane decided he had
+had enough. He plucked out his eyebrows and gave them to Tangaroa as a sign of peace.But Tangaroa wasn’t ready to forgive Tane and he threw the eyebrows onto the shore and
+there they grow today as P /C22ıngao, which is the boundary between the forest and the sea.
+(McFadyen, 2008: 6)
+This narrative is also used in educational material provided by the DRTNZ (2011c). Its
+popularity shows that planting native dune plants involves much more than just thefunctional restoration of sand dunes to form a ‘‘natural defense’’ against the sea. Thediscourse about appropriate dunes as well as the material and symbolic role of P /C22ıngao
+show that Coast Care is also a practice of (re-)establishing a coastal nature and landscape
+typical of Aotearoa New Zealand, which P /C22ıngao embodies in a characteristic way. In the
+same vein, Greg Jenks (2007), founder of Coast Care in the Bay of Plenty region, isenthusiastic about the ‘‘incredible functional and aesthetic superiority of New Zealand’snative dune plants.’’ He claims that
+not all sand-dwelling plants are created equal, with native dune plants again, for the ﬁrst
+time in over 100 years, demonstrating their clear superiority in all regards ...The
+diﬀerences in dune function and aesthetic appeal of native versus introduced plants are very
+pronounced and unequivocally in favour of the perfectly adapted indigenous species.
+(Jenks, 2007: 293)
+Jenks’ argument for the functional and aesthetic superiority of indigenous plants is based on
+their perfect adaptation to their habitats. However, while the plants are praised for their veryunique adaptation to their original environment, including to the dynamics of erosion andaccretion, there is also a discourse of endangerment at work. Dune restoration experts pointout the existential threat to native dune vegetation posed by introduced plants, which are
+described as more competitive and adept with a tendency to ‘‘out-compete’’ native plants.
+Consequently, the latter need to be supported by restoration work, especially pest control,argues Bergin (2011).
+When the focus is laid too narrowly on native plants as individual entities, there seems to
+be an evident contradiction in the discourse—describing native plants both as perfectlyadapted and as threatened and in need of assistance. This picture changes if the plants areunderstood as parts of a larger naturalcultural assemblage. Under post-colonial conditions,such as human development of the coast and the dispersal of newly arrived species, the
+human and more-than-human composition of coastal environments has thoroughly
+changed. New plants and animals are gathering here, and human practices have altered.Not least, people increasingly expect the dunes to ‘‘function’’ as elements of natural coastalprotection, safeguarding permanently built-up areas close to the beach from the eﬀects ofrecurring erosion events. The once perfectly adapted plants are now at a disadvantage. Whileother authors have pointed to similarities between the classiﬁcation of humans as notbelonging and racializing discourses about introduced and invasive species (Subramaniam,2014), Mastnak et al. (2014: 363) argue that in postcolonial settler societies, it is more useful
+to think of introduced plants as remnants of a ‘‘multispecies colonial endeavor.’’ They
+describe invasive species as a vital legacy of colonization.
+Dune restoration tries to reconciliate this situation by providing an enabling environment
+for the plants in the wider dune system. This dune system however includes not onlymore-than-human life, but necessarily also human artefacts and care work, as will beGesing 215
+illustrated below. In eﬀect, native nature is not simply restored, it is (re)constructed. In
+contrast to other projects which explicitly seek to develop biodiversity conservationpractices without recurring to a capital-N nature or pre-deﬁned baseline conditions, suchas rewilding or other ‘‘wild experiments’’ with novel ecosystems (see Lorimer and Driessen,
+2014), Coast Care works with a clear intention to reinstall native dune plants as the
+stronghold of coastal dunes, and as a vital prerequisite for enrolling these dunes into theprotection of the coast as ‘‘natural defenses.’’ Lien and Davison (2010) understandrestoration in settler societies as an increasingly moral practice aimed at amending sins ofthe past. Always operating from a contingent present, it expresses and rearranges speciﬁcunderstandings of preferred and meaningful naturalcultural conditions. Coast Carepractices, however, not only intend to reverse historical changes, but also link up topressing concerns of the present. In light of increasing public concern over the rapid
+development of remote coastlines, Coast Care volunteers declare that they want to
+‘‘protect what is left.’’
+Cultivating native nature
+The Spinifex and P /C22ıngao seedlings planted by Coast care volunteers are naturalcultural
+objects. The form in which they grow and enter the dune environment is a result ofexperimental practices of plant cultivation that only work out if human experience and
+knowledge, infrastructures and abiotic objects, and the plants collaborate successfully.
+Prior to the establishment of the ﬁrst New Zealand Coast Care programs, Spinifex andP/C22ıngao had not been cultivated or reproduced with human assistance in a closed
+environment. No practical experience or theoretical knowledge about the production ofthese plants was available when a group of restoration professionals interested in nativedune species began investigating the issue in the mid-1990s. Naturally Native, a nurseryspecializing in native plant production, eventually developed a method for thereproduction of Spinifex. A sales manager from Naturally Native attended a meeting of
+the initial group, but soon realized that the meeting ‘‘wasn’t really for selling plants. It was ...
+about ﬁnding out how to grow them’’ (interview with Mark Dean, August 2011). Indeed,conventional breeding practices were not applicable to Spinifex reproduction. The commontechnique of pricking—transplanting seedlings into new containers—did not work properly:plants had to be grown at the spot where their seeds had ﬁrst germinated. Today, deep treeseedling containers are used for this purpose.
+During the 1970s, Naturally Native founder Mark Dean had produced kiwi plants for the
+rapidly developing kiwifruit industry, but expected that ‘‘one day the Bay of Plenty would be
+full of kiwifruit and no one would need any more plants’’ (interview with Mark Dean,
+August 2011). When he ﬁrst started native plant production around 1980, this area ofactivity only catered to a few botany enthusiasts:
+[I]n those days ...the attitude of farmers was, ‘‘I’ve spent 40 years chopping the native plants oﬀ
+my farm, why should I plant them?’’ ...People thought of native plants as just being bush;
+they didn’t think of them as being able to be used in gardens. (Interview with Mark Dean,
+August 2011)
+Interest in native plants, however, steeply rose over the next decades—‘‘suddenly, they have
+come very hot in landscaping’’ (interview with landscape architect, August 2011; see alsoSpellerberg and Frey, 2008). This development, which is not limited to AotearoaNew Zealand, echoes Mastnak et al.’s (2014: 363) call for a conscious act of ‘‘native plantadvocacy as part of a broad process of botanical decolonization,’’ which could serve as ‘‘a216 EPE: Nature and Space 4(2)
+strategic location for ethical action in the Anthropocene’’ (Mastnak et al., 2014: 363). In this
+context, dune restoration and other practices that aim to re-establish or maintain indigenousbiodiversity could be understood as more-than-human approaches to postcolonial(environmental) justice.
+While shifting to the production of native dune plants, Naturally Native acquired an
+additional nursery facility located at the Bay of Plenty coast. The climatic conditionsthere were more suitable for the cultivation of dune plants, and further experimentsreﬁned the growing practices. Today, hundreds of thousands of specimens of Spinifex,P/C22ıngao and many other native dune species are produced by Naturally Native each year.
+4
+The plants are sold almost exclusively to Coast Care and Beachcare programs on advance
+order. Operating on the basis of a concept named ‘‘ecosourcing,’’ Coast Care groups useplants grown from ‘‘local’’ seeds. These are collected on site and sent to the nursery to
+propagate. In the greenhouse, the seedlings are arranged and labelled according to the
+Coast Care territory in which the seeds were sourced. In the following year, the seedlingsare redistributed to the planting sites. The localness of the plants is thereby produced inpractice—deﬁned by the area in which a Coast Care group is active, and the spatialarrangement in the nursery’s greenhouse. This Coast Care practice is designed to preservelocal diﬀerences between plant populations, which is particularly prominent betweenspecimens from the more sheltered East Coast locations and the rougher West Coast. Thelatter are more robust and can be visually distinguished (see Figure 2).
+While the nursery owner respects this desire for local plants, he comments that from a
+‘‘horticultural point of view,’’ a diﬀerent logic would be applied, which would mean ‘‘ﬁndingthe biggest, fastest growing Spinifex that we can lay our hands on and planting that all overthe place so that we get much better sand holding ability’’ (interview Mark Dean, August2011). In the event of storm-cut erosion, Coast Care orders new plants to help restore thedunes. Mark is convinced that people will always
+want to put some more [plants] in there to make sure that they’re going to get the Spinifex and
+P/C22ıngao growing out to trap the sand .... That’s why I think the whole thing of Coast Care is
+about, is building the buﬀer to be eaten away and then helping it build again later. [We produce]
+sacriﬁcial plants! (Interview with Mark Dean, August 2011)
+Maintaining nature: Caring and killing practices
+Planting these ‘‘sacriﬁcial plants’’ is Coast Care’s most well-known and popular task.
+Spinifex and P /C22ıngao are both saltwater tolerant and develop stolons, sometimes several
+meters long, which collect grains of sand and enable the primary dunes to grow.
+Therefore, sand dunes re-form more quickly after storm erosion events when they haveSpinifex and/or P /C22ıngao cover (Dahm et al., 2005: 9). To accelerate plant (and dune)
+growth further, the volunteers always add a handful of slow release fertilizer granules—ifthe fertilizer runs out, the planting will not be continued on that day (interview with CoastCare contractor, August 2011). Deep planting holes are meant to protect the small plantsfrom minor sand movements. If very young or unexperienced volunteers fail to dig deepenough, the coordinators return after the ‘‘working bee’’ and replant every single plant, so
+that the sacriﬁce is not claimed too quickly by the sea.
+Planting, however, represents only a fraction of the actual Coast Care work. Recurring
+routines of pest and weed control involve a commitment to open-ended care for certainplants. ‘‘Care is a selective mode of attention: it circumscribes and cherishes some things,lives, or phenomena as its objects. In the process, it excludes others,’’ as Aryn Martin et al.Gesing 217
+(2015: 3) observe in their discussion on the politics of care. Weeding is an unpopular, yet
+ubiquitous task, which takes up about 80% of volunteer time (interview with Coast Carecoordinator, June 2011). Coast Care projects usually begin with removing the existing coverof introduced vegetation. Ornamental plants such as the South African ice plant(Carpobrotus edulis ) and Agapanthus ( Agapanthus praecox ) spread from neighboring
+gardens or from illegal waste disposal in the dunes. Coast Carers call them ‘‘garden
+escapees.’’ The resilient Kikuyu grass ( Pennisetum clandestinum ), which was once
+introduced to enable pastoral farming on deforested hillsides, forms impenetrable carpetsin the dunes; their rhizome-like root balls are diﬃcult to distinguish from Spinifex.
+Controlling certain animal species and their movements is another recurring part of Coast
+Care practice. ‘‘The rabbits absolutely love’’ P /C22ıngao, as a Coast Care volunteer explains
+(interview with Pukehina Beach Coast Care volunteer, July 2011). In the absence ofpredators, the rodents have reproduced very quickly (Peden, 2008) since their introduction
+and release for hunting purposes in the 1830s. Rabbit control is an essential part of Coast
+Care. To this end, Pindone baits are laid out in the dunes each year, a practice whichhas been controversial in some areas because of concerns that dogs and other companionanimals may be harmed as well. In rural areas, some dune areas are protected with rabbit-proof fences (see Figure 3), and rabbits are shot in nocturnal operations by hunterswearing night vision devices. Bans on cars and motorcycles on the beaches and dunes,in contrast, are more easily enforced in suburban areas. While the rabbit-proof fencesare impenetrable for the rodents, the wooden bollards and ropes used to protect
+the dunes against human passers-through form a symbolic barrier at ﬁrst, which over
+time manifests itself as a well-deﬁned pathway (see Figure 4). Compared to the variouspractices of excluding unwanted actors—plants, animals and humans—planting is ‘‘almostmore of a participation feel-good aspect’’ (interview with Coast Care coordinator,June 2011).
+Figure 2. Spinifex seedlings with labels from different areas. Picture by author, 17 March 2010.218 EPE: Nature and Space 4(2)
+The constant human care work involved shows that coastal restoration does not simply
+transform nature into a state in which it can maintain itself. A long-term volunteercomplains about the lack of recognition from others for her continuous eﬀort, and callsfor understanding of the fact that all this work needs to be repeated—including, sometimes,
+Figure 3. Planting and laying out baits alongside rabbit-proof fence in rural T e T umu Kaituna, picture by the
+author, 11 September 2011.
+Figure 4. Keeping humans on track at popular Waihi Beach, picture by author, 17 June 2011.Gesing 219
+the planting itself. She relates these characteristics of coastal care work to the repetition
+involved in carrying out everyday chores, when she argues that
+...it’s just like a lot of things; you’ve just got to keep nibbling away at it and doing what you can.
+Some people say to us ...that we’re just wasting our time, that the sea will take it, that the public
+will trample on it or that the plants will die because of climate change ...But I just say to them,
+well, at home we mow our lawns every time they grow; we don’t just say it’s a waste of time
+because they’ll grow again. I mean you paint your house when the paint starts ﬂaking oﬀ it ...
+You don’t just say, ‘‘Well, it’s going to need painting again in ten years if I paint it now, soI won’t bother.’’ It’s like ...washing your hair, it’s going to get dirty again, but you know, to me
+it’s just stupid to say it’s a waste of time because it will need doing again later, or more weeds will
+come, or more rubbish. Because that’s life, isn’t it? (Interview with Waihi Beach Coast Carevolunteer, August 2011)
+This reﬂects Puig de la Bellacasa’s point that as a relational practice, care becomes better
+over time and in repetition, as it ‘‘requires attention and ﬁne-tuning to the temporal rhythmsof an ‘other’ and to the speciﬁc relations that are being woven together’’ (Puig de laBellacasa, 2015: 705f.). This need for continuous, long-term care work is also the reasonwhy the dunes are often in an ecologically better condition in more densely populated areas,despite the negative eﬀects of increasing development and beach use (interview with CoastCare coordinator, June 2011). The quickly progressing suburbanization in parts of the
+country makes some practices of humans and their companions—e.g. cattle grazing and
+driving on the beach—disappear, while others, such as volunteering, become more common.
+The Bay of Plenty Coast Care coordinator distinguishes between two diﬀerent objectives
+guiding the future relationship between human and more-than-human actors. Thecharacteristics of Coast Care sites in this region vary considerably: a small fenced-oﬀ areaat a surf club in a little residential town, a forestry site on a harbor island, a wide strip ofundeveloped M /C22aori-owned coastal land outside a growing port city, the busy main beach of
+a seaside resort. In areas of intensive human use, restored dunes in the ‘‘best possible
+condition’’ should serve as the material representation of appropriate coastal nature,
+featuring Spinifex, P /C22ıngao and the iconic Pohutukawa trees, allowing beach goers to get
+‘‘the right mental picture of ...what a sandy beach environment is’’ (interview with Coast
+Care coordinator, June 2011). The possibilities in the here and now are to be demonstrated;the ‘‘Gold Standard Beach’’ creates a place where coastal nature is how, and what, it oughtto be (cf. Jasanoﬀ, 2004). In larger areas, the goal is to restore a larger community of nativeplants andanimals:
+[W]here you’ve got a natural dune system that goes further back, that’s kind of where you can
+demonstrate, at an ecological level, [how to] get a functioning community back again ...That
+should be not just plants, but animals as well ...The rabbit-proof fence is removing one of those
+animal threats to trying and rebuild the animal community as well as the plants. And then you
+could maybe overlay ...hedgehog and stoat, [and] cat control. And try and allow the animals,
+especially the lizard population [to return]. I think the lizard population gets hammered by cats,all along our beaches. And it would be nice to think that ...a few places, that would be like ...
+absolutely full of lizards, and, the way it would have been. (Interview with Coast Care
+coordinator, June 2011)
+This dune system reaching further back can be understood both spatially and temporally.
+The Coast Care coordinator suspects that the widespread loss of native animal species oncepresent in the dunes has interrupted the processes of seed dispersal and pollination andaccelerated the decline in native ﬂora. The natural distribution mechanisms have therefore220 EPE: Nature and Space 4(2)
+been replaced by the new constellations described above, in which human activity has
+become essential for the reproduction and distribution of dune plants. The coordinator’svision of a ‘‘functioning community’’ focuses on the return of lizards and the revitalizationof plant–animal relations. At the same time, human-centered practices (hedgehog, stoat and
+cat control) and artefacts (the rabbit-proof fence) remain essential for reconstructing the
+dune environment in ‘‘the way it would have been’’—envisioned as a world without humans.
+Naturalizing coastal erosion
+This understanding of vital dune communities is complemented by a systemic perspective ofthe interaction of abiotic elements—sand, water and wind—in the formation of beaches. TheCoast Care ‘‘philosophy’’ (interview with coastal planner, Bay of Plenty Regional Council,
+October 2011) is based upon framing the beach as a dynamic system, characterized by
+continuous change combined with an underlying stability. Coast Care materialdisseminates the understanding that erosion and deposition are ‘‘natural processes’’ atwork ‘‘on every beach in the world’’ (Field Notes, DRTNZ Annual Conference, 2011).Diagrams are used for presentations at public workshops and conferences by coremembers of the community of practice, to demonstrate how sand is washed oﬀ the beachduring storm erosion events, deposited on the seabed and slowly transported back onto theshore by wave activity (DRTNZ, 2011b). In coastal science terms, the beach is in a state of
+dynamic equilibrium (Dean, 2005). Spatially, it extends beyond the dry zone and includes
+areas usually covered by water. In other words, the visible part of the beach is only a tinyfraction of the larger beach system which is mostly under water. The Coast Care volunteers’common sense understanding of the beach becomes replaced by the concept of a beachsystem, which despite constant change retains its stability on a larger spatial and temporalscale. Coastal restoration experts argue that insuﬃcient knowledge about these naturalevents and their sometimes sudden occurrence are the reason why hard protectionstructures are still widely used:
+Storm cut erosion is probably the most widespread and impressive natural process operating on
+the sandy beaches of the New Zealand coastline. In just a few hours, it can radically reshape
+beaches, lowering beach levels and seriously eroding dunes. The result is towering vertical cliﬀsof sand where a gently sloping vegetated dune previously existed and the equivalent of hundreds
+of truck loads of sand having disappeared from sight. This can evoke strong emotions and even
+fear. It commonly leads to demands to ‘‘do something’’ and for the erosion to be ‘‘controlled’’.The concern is that if it is not ‘‘stopped’’ the erosion will just keep coming. Thismisunderstanding commonly leads to the placement of rock and other seawalls. (DRTNZ,
+2011b: 1)
+Erosion can happen in a very short timeframe, while dune recovery takes time. Dune plants
+cannot prevent erosion, but they have a signiﬁcant eﬀect on the timescales of erosion andaccretion. As described above, the runners of Spinifex and P /C22ıngao plants trap sediment that
+is redistributed by wind and waves and thereby support and speed up the ‘‘recovery’’ of thedune (DRTNZ, 2011a). The foredune plants are not framed as a component of the beachsystem in the closer sense. But due to their role in quickly rebuilding dune fronts, they are
+indispensable for dunes used as ‘‘natural defenses’’—for coastal protection. If necessary, the
+dune recovery process is further accelerated by Coast Care volunteers who plant additionalplants and/or replace those ‘‘sacriﬁcial plants’’ that have been washed out completely.Without plant cover, the time between two erosion events might not suﬃce for the duneto return to its previous shape: ‘‘This can result in the next storm picking up where the lastGesing 221
+one left oﬀ, giving rise to more serious dune erosion than would have occurred with some
+more natural dune recovery between the two events’’ (Dahm et al., 2005: 9). In the process of‘‘natural dune recovery,’’ foredune plants allow for dunes to serve as ‘‘natural defenses’’ forbeach-front properties, because they help to retain the sand in shape and place. The Dunes
+Trust concludes that
+[i]f you have all three factors in place at your beach—suﬃcient dune width, cover of native sand
+binders, [and] an understanding that storm cut and recovery is natural—you can sit back and
+enjoy the natural spectacle of storm cut and recovery! (DRTNZ, 2011b: 4)
+In eﬀect, for coastal protection purposes, both a suﬃcient amount of shifting sediment and a
+suitable vital dune community (native plants at least, possibly supported by native fauna) arenecessary. These two more-than-human ‘‘factors’’ need to be complemented by appropriate
+human knowledge practices. From the human point of view, erosion and accretion can work
+out as cyclical processes within acceptable temporal and spatial scales only as far as peoplehave allocated enough space for the sediment to shift, have provided and cared for theappropriate dune vegetation and show the proper understanding and attitude towardsstorm events.
+Discussing coastal erosion as a purely natural process can be seen as an attempt to shift its
+normative valuation. Distinguishing the natural process of erosion from the human reactionunderlines the argument that society’s response should be better adapted to the logic of
+coastal nature—in a way that works with nature, and not against it. A similar point is made
+by coastal scientists Cooper and McKenna, who argue that ‘‘[c]oastal erosion problems arise
+from the presence of human infrastructure in areas threatened by erosion; identifying erosionas a problem is therefore a human value judgement’’ (Cooper and McKenna, 2008a: 296,original emphasis). Similarly, the Coast Care coordinator hopes that Coast Care volunteersand coastal residents in general will gradually come to understand that ‘‘erosion andrecovery is a great natural process and example of nature. And erosion is not necessarilya bad thing’’ (interview with Coast Care coordinator, June 2011). According to this framing,
+there is only one universal, natural process of erosion—and many ‘‘human-made’’ problems
+resulting from it. The erosion and deposition of sediment are clearly distinguished from thesocial, political and cultural context in which erosion is ‘‘problematized’’ (Rabinow, 2002).
+But erosion problems are complex precisely because there is no clear divide between cause
+and eﬀect, natural event and societal problem. Coastal erosion is coproduced andcoproductive. Its causes and eﬀects defy clear classiﬁcation as either natural or social.Rising sea levels and increasingly frequent extreme weather events, ongoing coastaldevelopment, the increasing material and immaterial value of coastal space both for
+human settlements and more-than-human nature, and not least the unwanted side eﬀects
+of coastal protection structures themselves all need to be factored in. However, on the side ofthe actors involved in Coast Care and similar practices, the distinction made between thenature and culture of coastal erosion does not necessarily signal a lack of understanding ofthe complexity of coastal erosion problems. It can also indicate a ‘‘strategic naturalizing’’ (cf.Thompson, 2001) that is a reminder of the ‘‘processes of naturalization, de-naturalization,and re-naturalization’’ (Franklin, 2003: 68) which cultural anthropologists have observed inthe ﬁeld of assisted reproduction.
+5This take on Coast Care as an ensemble of naturalization
+practices is not diminished by the fact that, compared to technoscientiﬁc reproduction
+technologies, Coast Carers apply rather ‘‘low tech’’ practices and objects. Such adistinction would only obscure how ‘‘diverse peoples have always been enmeshed andentangled in complex social, ecological, and technological networks’’ (White and Wilbert,2009: 9).222 EPE: Nature and Space 4(2)
+Drawing clear boundaries between the assumed physical nature and human perception of
+erosion is an attempt to disentangle this socionatural mess. More readily than the complexand historical relationship of humans with native ﬂora and fauna, the interaction of theabiotic elements of the ‘‘beach system’’—water, sand and wind—may be perceived as a
+stable natural process. Dune restoration as a ‘‘working with nature’’ approach then
+enables plants to supplement and better support this natural, but primarily abiotic,system. While human assistance is acknowledged here, the political nature of the practiceis downplayed by the appeal to seemingly universal solutions and strategies of ‘‘working withnature.’’ By referring to coastal erosion as an exclusively natural process, these actors claimthe legitimizing power of universal nature for coastal restoration practices and suggestsolutions to erosion problems that are seemingly independent of political or culturalpreferences. Seen in this light, the distinction made between the nature and culture of the
+coast is rather a reaction to the intermeshing of natural or social factors evident in erosion
+problems.
+Conclusion: T owards a more-than-human understanding of the
+ontological and ‘‘ordinary’’ politics of caring for the coast
+Through the lens of a more-than-human political ecology, Coast Care emerges as an
+ensemble of naturalcultural practices. Human, plant and animal practices, multispecies
+agencies (Locke, 2013) and logics (Beisel, 2015) enfold in the encounter with the elements
+of sand, wind, and water. The permanent care and maintenance work that Coast Carevolunteers contribute with the assistance of various artifacts—tools, fertilizer, fences,poisoned baits, traps, et cetera—coproduces a speciﬁc assemblage of animals and plantsas native nature. The category of the native plant, ubiquitously referred to in the ﬁeld, isfar from self-evident or simply natural. Its properties such as local speciﬁcity and ability toadapt to the environment are not static. These are relational achievements that aredestabilized by changes in the composition of human and more-than-human actors and
+coastal practices. The actual form that native nature takes is a matter of nature and
+culture. It includes symbolic and functional aspects, e.g. the usefulness of coastal sanddunes with native plant cover as ‘‘natural defenses’’ against the sea, and the importanceof ‘‘ecosourcing’’ practices that (re)produce local plants according to the boundaries ofCoast Care territories.
+Just as plant–animal relations and abiotic elements play central roles in dune restoration
+practice, everyday human care work is an essential part of this picture. From the perspectiveof the Coast Carers and their professional supporters, however, it makes good sense to
+approach soft coastal protection rather as a matter of (assisting) nature than as a politics
+of care (Puig de la Bellacasa, 2011). Soft coastal protection is thereby depoliticized, but in thehope to establish an ensemble of alternative practices. The popular framing of ‘‘workingwith nature’’ shows a general concern for the more-than-human actors and forces at work,such as the dune community of plants and animals, and the beach system shaped by erosionand accretion of sediment. However, the power of this widespread ‘‘sociotechnicalimaginary’’ (Jasanoﬀ, 2015; Gesing, 2016) lies, ironically, in it (re)producing a dividebetween the nature and the culture of the coast, regardless of the complex ensemble of
+sociomaterial practices—human and more-than human—that produce and maintain these
+coastal environments. This strategic naturalization of coastal nature is a form of ontologicalpolitics (Mol, 2002).
+Coast Care practices enact a speciﬁc understanding of what nature is: a speciﬁc Aotearoa
+New Zealand coastal nature, which consists of sand dunes clad with native and endemicGesing 223
+plants, cared for by engaged volunteers. The result of their eﬀorts is a characteristic, natural
+dunescape—notwithstanding the naturalcultural practices involved in (re)constructing it.Reference to this naturalized coastal nature reconciliates diﬀerent expectations for a coastthat is both natural and accommodates human desires to be close to the sea. The dune as a
+‘‘natural defense’’ brings together a lively more-than-human community with the extended
+spatiotemporalities of the beach as a system in dynamic equilibrium. This allows the coast tobe a space for nature, and a space for (soft) coastal protection at the same time. The‘‘working with nature’’ imaginary gives additional weight to this community of practice’spolitical goal to combat the extensive use of hard protection measures. But once ‘‘workingwith nature’’ is understood as ontological politics itself, it becomes evident that there arerisks associated with its denial of the inherent multiplicity of coastal natures. It is thereforeimportant to note that any coastal protection practice, including ‘‘soft’’ and ‘‘working with
+nature’’ approaches, produces and preserves speciﬁc socionatural and spatiotemporal
+arrangements, and not a singular, universal coastal nature as such. A ﬁrst step in thisdirection is to make this gathering of actors, practices, and objects involved in coastalnaturecultures explicit and visible.
+This could be the genuine contribution of a more-than-human political ecology lens that
+combines a focus on the ontological politics of nature and the practices of care in a more-than-human world with attention to what might be called the ‘‘ordinary politics’’ of thecoast, such as planning decisions about whether hard protection structures should be placed
+on public beaches and under which circumstances. Understanding erosion problems as
+speciﬁc, localized entanglements pluralizes erosion(s) and departs from a universalconcept of erosion which is natural through and through, while the answers to it areframed as social, and hence changeable. Erosion is a product of various entanglementsand connections of material and social nature(s), living and non-living entities. Coastalprotection practices have evident and material environmental justice eﬀects, ranging frombeach accessibility for the wider public to the question of whether beaches continue to existat all, or whether they are lost due to the side-eﬀects of hard protection built to protect
+private property. Furthermore, it is important to ask who this public is, or what it becomes,
+in coastal settlements undergoing substantial structural changes, where baches are replacedby second homes and property values increase. These developments cause problems for long-term property owners who struggle to keep up with rising rate payments. They also have thepotential to lead to renewed requests for coastal protection structures in the near future.
+For an understanding of what becomes an erosion problem—for whom and under what
+conditions—and thus also for which solutions are realistic and politically intended, it isnecessary to examine these naturalcultural entanglements in empirical detail. This is a
+prerequisite for taking full political responsibility for the choice of human practices,
+including the ensemble of human and more-than-human actors they embrace and allow toﬂourish, to move around and together form the coast, materially and symbolically. Animportant part of this is acknowledging that while timeless nature is a myth, more-than-human temporalities do matter. Sustainable and just coastal protection that takes account ofthe more-than-human therefore needs to extend beyond limited human timescales.
+Further empirical analysis of practices framed by the ‘‘working with nature’’ imaginary or
+other emerging concepts like soft engineering or green infrastructure will be useful to ﬁgure
+out what is actually done by whom and how, what the outcomes are, who proﬁts, and who
+or what is left out of such projects of naturemaking (Hinchliﬀe, 2007: 186). To achieve this,the political character of coastal care work needs be focused on and made visible, in a waythat includes the agency of more-than-human nature. In order to politicize caring practices,the ontological politics of coastal nature—putting it into practice, and thereby deﬁning the224 EPE: Nature and Space 4(2)
+relation of nature and society—need to be ﬂanked with attention to the politics of care, and
+the questions of who contributes the work and which other actors besides the human areacknowledged and cared for. Martin et al. (2015: 3) have pointed to the power asymmetrieswithin caring practice, which require us to ask, ‘‘Who has the power to care? Who has the
+power to deﬁne what counts as care and how it should be administered?’’ (Martin et al.,
+2015: 3). As has been argued, dune restoration is a deeply political practice in itself, whichincludes and excludes actors and deﬁnes certain forms of coastal natureculture as desirable.
+A possible way to tease out the political in the practice of care is to look at it as something
+that is itself multiple (Martin et al., 2015). Understood as a generative practice, care is notlimited to maintaining what is there. Rather, ‘‘we must take care of things in order to remainresponsible for their becomings’’ (Puig de la Bellacasa, 2011). Puig de la Bellacasa describesthese relations built from multispecies caring as ‘‘material, ethical and aﬀective ecologies’’
+(Puig de la Bellacasa, 2015). At the same time, it remains important to ask what part humans
+can play in this multispecies world. Pellow (2016a: 233) has made it clear that to reach whathe calls ‘‘ecological sustainability’’ in a multispecies world, it is humans who ﬁrst of all needto accept their ‘‘responsibility for practicing transformative socioecological political work.’’This includes a deliberation about the human ‘‘power of care’’ (Martin et al., 2015), as wellas attention to ordinary coastal politics, such as decisions about coastal planning anddevelopment projects, and the weighing of public and private interests in coastal space,now and in the future.
+Highlights
+.Ethnographic ﬁeldwork in Aotearoa New Zealand shows that dune restoration is an
+ensemble of human and more-than-human sociomaterial practices.
+.The popular framing of soft coastal protection as ‘‘working with nature’’ is a strategic
+naturalization that can serve diﬀerent political ends.
+.In its search for sustainable and just coastal protection practices, a more-than-human
+political ecology of coastal protection needs to include living and abiotic elements.
+.More-than-human political ecology of coastal protection critically analyzes the
+ontological politics that categorize coastal nature and culture, the politics of care inmultispecies worlds, and the ‘‘ordinary politics’’ of contested coastal space.
+Acknowledgments
+I would like to thank the Coast Care volunteers and coastal management professionals who discussed
+their experiences with me and allowed me to participate in various dune restoration projects
+throughout the Bay of Plenty. I thank the anonymous reviewers for their helpful and constructiveremarks on the paper.
+Declaration of conflicting interests
+The author(s) declared no potential conﬂicts of interest with respect to the research, authorship, and/orpublication of this article.
+Funding
+The author(s) disclosed receipt of the following ﬁnancial support for the research, authorship, and/orpublication of this article: Work on this project has been funded by the German Research CouncilGesing 225
+(DFG) in the scope of the International Research Training Group INTERCOAST (Integrated
+Coastal /C0Zone and Shelf /C0Sea Research) at the University of Bremen (Germany) and the University
+of Waikato (Aotearoa, New Zealand).
+ORCID iD
+Friederike Gesing https://orcid.org/0000-0001-6405-0355
+Notes
+1. The composite term used in this article refers to the country in both official languages—English and
+Te Reo M /C22aori.
+2. The empirical material has been collected during long-term, multi-local ethnographic fieldwork I
+conducted in the years 2010–2011 and 2015 in several locations on the North Island of Aotearoa
+New Zealand.
+3. ‘‘Native’’ is the common umbrella term used for indigenous species in Aotearoa New Zealand, see
+discussion below. The dune grass Spinifex sericeus is native to the North Island of Aotearoa New
+Zealand, the northern half of the South Island as well as Australia and the Pacific Islands. Thegolden sand sedge Desmoschoenus spiralis , mostly known under the M /C22aori name P /C22ıngao, is endemic,
+and found only throughout Aotearoa New Zealand (Wassilieff, 2012).
+4. Backdune plants such as Muehlenbeckia complexa ,Euphorbia glauca andCoprosma acerosa have
+gained importance in recent years, as dune restoration projects increasingly move from the foredune
+to backdune areas.
+5. Charis Thompson (Thompson, 2001, 2005) refers to ‘‘strategic naturalizing’’ in her analysis of a
+complex ‘‘ontological choreography’’ carried out in order to make the Euro /C0American principle of
+biological kinship fit with the possibilities of new reproductive technologies. By highlighting some
+connections, downplaying others, these practices eventually produce parenthood as socially and
+naturally grounded.
+References
+Agyeman J (2014) Environmental justice and sustainability. In: Giles A, Simon D, Eric N, et al. (eds)
+Handbook of Sustainable Development . Cheltenham: Edward Elgar Publishing, pp. 188–205.
+Bay of Plenty Regional Council. (2013) Dune Plants . Whakatane: Bay of Plenty Regional Council.
+Beisel U (2015) Markets and mutations: Mosquito nets and the politics of disentanglement in global
+health. Geoforum 66: 146–155.
+Bergin D (2011) Weed Control Options for Coastal Sand Dunes – A Review . SCION, Rotorua, New
+Zealand.
+Blackett P, Hume T and Dahm J (2010) Exploring the social context of coastal erosion management in
+New Zealand: What factors drive particular environmental outcomes? Available at:
+www.massey.ac.nz/~trauma/issues/2010-1/blackett.htm (accessed 18 June 2019).
+Braun B (2004) Nature and culture: On the career of a false problem. In: Duncan J, Johnson N and
+Schein R (eds) A Companion to Cultural Geography . Oxford: Blackwell Publishing Ltd, pp. 151–179.
+Braun B (2015) From critique to experiment? In: Perreault T, Bridge G and McCarthy J (eds) The
+Routledge Handbook of Political Ecology . London: Routledge, pp. 102–114.
+California Coastal Commission (n.d.) Environmental justice . Available at: https://documents.coastal.ca.gov/
+assets/env-justice/CoastalCommission_EJHandout.pdf (accessed 18 June 2019).
+Callanan M and Thomas S (2005) Volunteer tourism: Deconstructing volunteer activities within a
+dynamic environment. In: Novelli M (ed.) Niche Tourism: Contemporary Issues, Trends and Cases .
+Oxford: Butterworth-Heinemann, pp. 183–200.
+Castree N and Braun B (eds) (2001) Social Nature . Malden: Blackwell, pp. 1–21.
+Clark N (2004) Cultural studies for shaky islands. In: Bell C (ed.) Cultural Studies in Aotearoa New
+Zealand . South Melbourne: Oxford University Press, pp. 3–18.226 EPE: Nature and Space 4(2)
+Collins D and Kearns R (2010) ‘‘Pulling up the Tent Pegs?’’ The signiﬁcance and changing status of
+coastal campgrounds in New Zealand. Tourism Geographies 12: 53–76.
+Comaroﬀ J and Comaroﬀ JL (2001) Naturing the nation: Aliens, apocalypse and the postcolonial
+state. Journal of Southern African Studies 27: 627–651.
+Cooper JAG and McKenna J (2008a) Social justice in coastal erosion management: The temporal and
+spatial dimensions. Geoforum 39: 294–306.
+Cooper JAG and McKenna J (2008b) Working with natural processes: The challenge for coastal
+protection strategies. Geographical Journal 174: 315–331.
+Cooper JAG and Pilkey OH (2012) Pitfalls of Shoreline Stabilization: Selected Case Studies .
+Dordrecht: Springer.
+Dahm J, Jenks G and Bergin D (2005) Community-based Dune Management for the Mitigation of
+Coastal Hazards and Climate Change Eﬀects: A Guide for Local Authorities . Wellington: Ministry
+for the Environment.
+De Lange W (2012) Coastal erosion – People, houses, and managing erosion . Available at:
+www.TeAra.govt.nz/en/coastal-erosion/page-3 (accessed 18 June 2019).
+De Wolﬀ K (2017) Plastic naturecultures: Multispecies ethnography and the dangers of separating
+living from nonliving bodies. Body & Society 23: 23–47.
+Dean RG (2005) Dynamic equilibrium of beaches. In: Schwartz ML (ed.) Encyclopedia of Coastal
+Science . New York: Springer, pp. 399–400.
+Dean RG and Dalrymple RA (2004) Coastal Processes: With Engineering Applications . Cambridge:
+Cambridge University Press.
+Defra. (2005) Making Space for Water: Taking Forward a New Government Strategy for Flood and
+Coastal Erosion Risk Management in England . London: Defra.
+Deltares (2013) EDD – Introduction – Building with nature principles . Available at: https://
+publicwiki.deltares.nl/display/BWN/EDD+-+Introduction+-+BwN+principles (accessed 18
+June 2019).
+Department of Conservation (2010) New Zealand Coastal Policy Statement . Wellington: Department
+of Conservation.
+Dune Restoration Trust of New Zealand (2013) Newsletter Autumn 2013 . Wellington: Dune
+Restoration Trust of New Zealand.
+Dune Restoration Trust of New Zealand (2011a) How dunes work. Natural dune dynamics – Storm cut
+and recovery . Available at: www.dunestrust.org.nz/dune-restoration/how-dunes-work/ (accessed 18
+June 2019).
+Dune Restoration Trust of New Zealand (2011b) Understanding (and enjoying) storm cut erosion and
+recovery. Wow!! ...What on earth is going on here? Technical Article No. 2.2, Wellington, New
+Zealand.
+Dune Restoration Trust of New Zealand (2011c) Pingao – Golden sand sedge – Ecology, distribution
+and habitat. Technical Article No. 7.3, Wellington, New Zealand.
+Ecoshape (2012) Overview building with nature program . Available at: www.ecoshape.nl/overview-
+bwn.html (accessed 18 June 2019).
+Eurosion (2004) Living with Coastal Erosion in Europe: Sediment and Space for Sustainability. A Guide
+to Coastal Erosion Management Practices in Europe . Luxembourg: Oﬃce for Oﬃcial Publications of
+the European Communities.
+Franklin S (2003) Re-thinking nature–culture: Anthropology and the new genetics. Anthropological
+Theory 3: 65–85.
+Freeman C and Cheyne C (2008) Coasts for sale: Gentriﬁcation in New Zealand. Planning Theory &
+Practice 9: 33–56.
+Gesing F (2016) Working with Nature in Aotearoa New Zealand: An Ethnography of Coastal Protection .
+Bielefeld: transcript.
+Gesing F (2017) Whose beach, which nature? Erosion control and the coproduction of coastal
+naturecultures in Aotearoa New Zealand. In: Du ¨rr E and Pascht A (eds) Environmental
+Transformations and Cultural Responses: Ontologies, Discourses, and Practices in Oceania . New
+York: Palgrave Macmillan, pp. 126–156.Gesing 227
+Grigor J (2008) Baches and Cribs . Auckland: Penguin Books (NZ).
+Haraway D (2008) When Species Meet . Minneapolis: University of Minnesota Press.
+Hau’ofa E, Waddell E, Naidu V, et al. (1993) A New Oceania: Rediscovering Our Sea of Islands . Suva:
+School of Social and Economic Development, The University of the South Paciﬁc in association
+with Beake House.
+Hayward B (2008) ‘‘Nowhere Far from the Sea’’: Political challenges of coastal adaptation to climate
+change in New Zealand. Political Science 60: 47–59.
+Helmreich S (2011) Nature/culture/seawater. American Anthropologist 113: 132–144.
+Helmreich S (2009) Alien Ocean: Anthropological Voyages in Microbial Seas . Berkeley: University of
+California Press.
+Hickford M (2012) Law of the Foreshore and Seabed . Available at: www.teara.govt.nz/en/law-of-the-
+foreshore-and-seabed (accessed 18 June 2019).
+Hinchliﬀe S (2007) Geographies of Nature: Societies, Environments, Ecologies . Los Angeles: Sage.
+Inman M (2010) Working with water. Nature Report Climate Change 4: 39–41.
+Jacobson M (2005) NZCPS coastal hazard policies. Planning Quarterly March 24: 6–8.
+Jasanoﬀ S (2004) Ordering knowledge, ordering society. In: Jasanoﬀ S (ed.) States of Knowledge: The
+Co-production of Science and Social Order . London: Routledge, pp. 13–45.
+Jasanoﬀ S (2015) Imagined and invented worlds. In: Jasanoﬀ S and Kim S-H (eds) Dreamscapes of
+Modernity: Sociotechnical Imaginaries and the Fabrication of Power . Chicago: University of Chicago
+Press, pp. 321–341.
+Jenks G (2007) Back to the future: The incredible functional and aesthetic superiority of New
+Zealand’s native dune plants. New Zealand Journal of Botany 7: 287–298.
+Jenks G (n.d.) Adapting to Climate Change in New Zealand – The Role of Community-Based Dune
+Restoration in the Bay of Plenty . Available at: www.boprc.govt.nz/media/31629/ClimateChange-
+090527-AdaptingtoclimatechangePresentation.pdf (accessed 18 June 2019).
+Kearns R and Collins D (2006) ‘On the rocks’: New Zealand’s coastal bach landscape and the case of
+Rangitoto Island. New Zealand Geographer 62: 227–235.
+Kearns R and Collins D (2012) Feeling for the coast: The place of emotion in resistance to residential
+development. Social & Cultural Geography 13: 937–955.
+Klepp S and Herbeck J (2016) The politics of environmental migration and climate justice in the Paciﬁc
+region. Journal of Human Rights and the Environment 7: 54.
+Liboiron M, Tironi M and Calvillo N (2018) Toxic politics: Acting in a permanently polluted world.
+Social Studies of Science 48: 331–349.
+Lien ME and Davison A (2010) Roots, rupture and remembrance. Journal of Material Culture 15:
+233–253.
+Locke P (2013) Explorations in ethnoelephantology. Environment and Society 4: 79.
+Lorimer J (2012) Multinatural geographies for the anthropocene. Progress in Human Geography 36:
+593–612.
+Lorimer J and Driessen C (2014) Wild experiments at the Oostvaardersplassen: Rethinking
+environmentalism in the Anthropocene. Transactions of the Institute of British Geographers 39:
+169–181.
+Martin A, Myers N and Viseu A (2015) The politics of care in technoscience. Social Studies of Science
+45: 625–641.
+Mastnak T, Elyachar J and Boellstorﬀ T (2014) Botanical decolonization: Rethinking native plants.
+Environment and Planning D: Society and Space 32: 363–380.
+McGlone MS (1989) The Polynesian Settlement of New Zealand in relation to environmental and
+biotic changes. New Zealand Journal of Ecology 12: 115–129.
+McFadyen T (2008) Nana’s koha : With photographic illustrations by Theresa Reihana. Kaitaia: Te
+Roopu Whakaoranga o te Taha Moana Trust.
+Mol A (2002) The Body Multiple: Ontology in Medical Practice . Durham: Duke University Press.
+Morton JE, Thom DA and Locker RH (1973) Seacoast in the Seventies: The Future of the New Zealand
+Shoreline . Auckland: Hodder and Stoughton.228 EPE: Nature and Space 4(2)
+Peart R (2009) Castles in the Sand: What’s Happening to the New Zealand Coast? Nelson: Craig Potton
+in Association with the Environmental Defence Society.
+Peden R (2008) Story: Rabbits . Available at: www.TeAra.govt.nz/en/rabbits/ (accessed 18 June 2019).
+Pellow DN (2016a) Toward a critical environmental justice studies: Black lives matter as an
+environmental justice challenge. Du Bois Review: Social Science Research on Race 13: 221–236.
+Pellow DN (2016b) Environmental justice and rural studies: A critical conversation and invitation to
+collaboration. Journal of Rural Studies 47: 381–386.
+PIANC (2011) PIANC Position Paper ‘‘Working with Nature’’.
+Puig de la Bellacasa M (2011) Matters of care in technoscience: Assembling neglected things. Social
+Studies of Science 41: 85–106.
+Puig de la Bellacasa M (2015) Making time for soil: Technoscientiﬁc futurity and the pace of care.
+Social Studies of Science 45: 691–716.
+Rabinow P (2002) Midst anthropology’s problems. Cultural Anthropology 17: 135–149.
+Sammler K (2017) The Deep Paciﬁc: Island governance and seabed mineral development. In: Stratford
+E (ed.) Island Geographies: Essays and Conversations . New York: Routledge, pp. 10–35.
+Sorensen RM (2006) Basic Coastal Engineering . New York: Springer.
+Spellerberg IF and Frey M (2008) Living With Natives: New Zealanders Talk About Their Love of
+Native Plants . Christchurch: Canterbury University Press.
+Star P (2009) Humans and the environment in New Zealand, c. 1800 to 2000. In: Byrnes G (ed.) The
+New Oxford History of New Zealand . South Melbourne: Oxford University Press Australia and
+New Zealand, pp. 47–70.
+Statistics New Zealand. (2006) Are New Zealanders Living Closer to the Coast? Wellington: Statistics
+New Zealand.
+Stratford E, Baldacchino G, McMahon E, et al. (2011) Envisioning the archipelago. Island Studies
+Journal 6(2): 113–130.
+Subramaniam B (2014) Ghost Stories for Darwin the Science of Variation and the Politics of Diversity .
+Urbana: University of Illinois Press.
+Thompson C (2001) Strategic naturalizing: Kinship in an infertility clinic. In: Franklin S and
+McKinnon S (eds) Relative Values: Reconﬁguring Kinship Studies . Durham: Duke University
+Press, pp. 175–202.
+Thompson C (2005) Making Parents: The Ontological Choreography of Reproductive Technologies .
+Cambridge: MIT Press.
+U.S. Army Corps of Engineers (2008) Coastal Engineering Manual . Washington, DC: U.S. Army
+Corps of Engineers.
+UNFCCC (2006) Technologies for Adaptation to Climate Change . Bonn: Climate Change Secretariat
+(UNFCCC).
+Walsh C (2018) Metageographies of coastal management: Negotiating spaces of nature and culture at
+the Wadden Sea. Area 50: 177–185.
+Warren CR (2007) Perspectives on the ‘‘alien’’ versus ‘‘native’’ species debate: A critique of concepts,
+language and practice. Progress in Human Geography 31: 427–446.
+Wassilieﬀ M (2012) Story: Coastal Shoreline . Available at: www.teara.govt.nz/en/coastal-shoreline/
+page-5 (accessed 18 June 2019).
+Wenger E (1998) Communities of Practice: Learning, Meaning, and Identity . Cambridge: Cambridge
+University Press.
+Whatmore SJ (2013) Earthly powers and aﬀective environments: An ontological politics of ﬂood risk.
+Theory, Culture & Society 30: 33–50.
+White DF and Wilbert C (2009) Inhabiting technonatural time/spaces. In: White DF and Wilbert C
+(eds) Technonatures: Environments, Technologies, and Spaces in the Twenty-First Century . Waterloo:
+Wilfrid Laurier University Press, pp. 1–30.Gesing 229
