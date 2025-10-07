@@ -1,0 +1,919 @@
+
+Care in Technology 
+  
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ 
+ 
+  
+ 
+  
+To Bernadette Bensaude-Vincent, who taught me a lot 
+In testimony of friendship 
+ 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Innovation and Responsibility Set 
+coordinated by  
+Robert Gianni and Bernard Reber 
+Volume 7 
+Care in Technology 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Xavier Guchet 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ 
+ 
+  
+ 
+ 
+First published 2021 in Great Britain and the United States by ISTE Ltd and John Wiley & Sons, Inc. 
+Apart from any fair dealing for the purposes of research or pri vate study, or criticism or review, as 
+permitted under the Copyright, Designs and Patents Act 1988, th is publication may only be reproduced, 
+stored or transmitted, in any form or by any means, with the pr ior permission in writing of the publishers, 
+or in the case of reprographic reproduction in accordance with the terms and licenses issued by the  
+CLA. Enquiries concerning reproduction outside these terms shou ld be sent to the publishers at the 
+undermentioned address: 
+ISTE Ltd  John Wiley & Sons, Inc.  
+27-37 St George’s Road  111 River Street 
+London SW19 4EU Hoboken, NJ 07030 UK  USA  
+www.iste.co.uk  www.wiley.com 
+ 
+ 
+© ISTE Ltd 2021 
+The rights of Xavier Guchet to be identified as the author of t his work have been asserted by him in 
+accordance with the Copyright, Designs and Patents Act 1988. 
+Library of Congress Control Number: 2020951011 
+ 
+British Library Catalogui ng-in-Publication Data 
+A CIP record for thi s book is available from  the British Librar y  
+ISBN 978-1-78630-559-6 
+ 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ 
+Contents 
+Acknowledgments  ..................................  i x  
+Foreword  .........................................  x i  
+Bernard R EBER  
+Introduction  .......................................  x v i i  
+Chapter 1. Care and Technology: An Anthropological  
+Question  .........................................  1  
+1 . 1 .  F r o m  m a s t e r y  t o  c a r e  ..............................  1  
+1.1.1. Making good use of technology, anticipating its  
+potential risks: two possible examples of care in technology? . ......  1  
+1.1.2. Do we need to learn to master our technological mastery?  .....  1 1  
+1.1.3. The limits of the externalist approach to technological  
+r e g u l a t i o n  ......................................  2 2  
+1.2. In what sense can technol ogies be “inherently” caregiving?  .......  2 7  
+1.2.1. Can there be an intrinsic morality of technology? ...........  2 7  
+1 . 2 . 2 .  T e c h n o l o g y  a n d  c a r e :  a  d i f f i c u l t  a r t i c u l a t i o n  ..............  3 5  
+1 . 3 .  T a k i n g  c a r e  o f  l i v i n g  b e i n g s  ..........................  4 9 
+1 . 3 . 1 .  C a r e  a n d  t e c h n o l o g y :  f r o m  e t h i c s  t o  a n t h r o p o l o g y  ..........  4 9  
+1 . 3 . 2 .  C a r i n g  a b o u t  v a l u a t i n g  l i v i n g  b e i n g s  ..................  5 6  
+1 . 3 . 3 .  T h e  d i f f i c u l t y  o f  t h i n k i n g  t e c h n o l o g y  f r o m  l i f e  ............  7 2  
+1.4. Transition .....................................  8 7  
+ 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+vi     Care in Technology 
+Chapter 2. Technology and Life: Analysis of a Divorce  .........  8 9  
+2 . 1 .  B o d y ,  g e s t u r e s ,  t e c h n o l o g y ,  p r o d u c t i o n  ...................   89 
+2.1.1. Work without skill .............................  8 9  
+2 . 1 . 2 .  C o n t r o l  a n d  d i s c i p l i n e  o f  t e c h n o l o g y  ..................  9 9  
+2.1.3. A rupture in the conception of technology: the divorce  
+o f  t e c h n o l o g y  a n d  l i f e  ...............................  1 0 6  
+2.2. The intellectualist conception of technology: the Kantian  
+t u r n i n g  p o i n t  ......................................  1 2 3  
+2 . 2 . 1 .  D i f f i c u l t y  i n  t h i n k i n g  o f  t h e  a r t i s a n ’ s  a c t i v i t y  .............  1 2 3  
+2 . 2 . 2 .  T e c h n o l o g y  e x c l u d e d  f r o m  t h e  f i e l d  o f  a e s t h e t i c s  ...........  1 3 0  
+2.2.3. Technology, a synthetic activity without representation  
+a n d  w i t h o u t  r u l e ...................................  1 3 4  
+2.3. Transition .....................................  1 5 0  
+Chapter 3. The Conditions of Care in Technology  ............  1 5 1  
+3 . 1 .  V i t a l i s t  a p p r o a c h e s  t o  t e c h n o l o g y  .......................  151 
+3.1.1. The concept of technological evolution: contributions  
+a n d  l i m i t s  w i t h  r e g a r d  t o  c a r e  ...........................  1 5 1  
+3.1.2. Technology as an “organ projection”: contributions  
+a n d  l i m i t s  w i t h  r e g a r d  t o  c a r e  ...........................  1 5 6  
+3.1.3. The utopia of Erewhon: analysis of an aporia. First  
+condition of care in technology .........................  1 5 9  
+3.2. Philosophical anthropology, a promising way to articulate  
+c a r e  a n d  t e c h n o l o g y ?  .................................  1 7 5  
+3.2.1. Plessner’s biological anthropology: redefining the  
+c o n c e p t s  o f  o r g a n  a n d  o r g a n i s m  .........................  1 7 5  
+3.2.2. Industrialization, work, and life. Critique of modernity   
+i n  G e h l e n  .......................................  1 8 3  
+3.3. The organ-instrument. Second condition of care in technolo g y  .....  1 8 8  
+3.3.1. From the organ as part of the organism to the organ  
+a s  a n  i n s t r u m e n t  w i t h  u s e - v a l u e  .........................  1 8 8  
+3.3.2. Putting the individual point of view first in the ethica l  
+e v a l u a t i o n  o f  t e c h n o l o g y  .............................  1 9 3  
+3 . 4 .  F r o m  a n t h r o p o l o g y  t o  a e s t h e t i c s  .......................  2 13 
+3.4.1. Is it enough to recognize that humans “belong to nature”   
+t o  o r i e n t  t e c h n o l o g y  t o w a r d s  c a r e  f o r  n a t u r e ?  .................   213 
+3.4.2. Creating a new perception. Fourth condition of care  
+i n  t e c h n o l o g y  ....................................  2 2 0  
+3.5. Transition .....................................  2 2 4  
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Contents     vii 
+Chapter 4. Design, Technology and Life  ...................  2 2 7  
+4 . 1 .  A t  t h e  s o u r c e s  o f  d e s i g n  f o r  l i f e  ........................   227 
+4 . 1 . 1 .  T h e  p r e m i s e s  o f  d e s i g n  ..........................  2 2 7  
+4.1.2. Overcoming the conflict of arts and industry: the ration al  
+a e s t h e t i c s  o f  P a u l  S o u r i a u  .............................  2 3 5  
+4.1.3. Industry and the fragmentation of experience: anthropolo gy  
+and instrumentality in Dewey’s work ......................  2 4 1  
+4.1.4. Life as judge of technology. Lewis Mumford .............  2 4 6  
+4 . 1 . 5 .  T o w a r d s  a  d e s i g n  f o r  l i f e :  L á s z l ó  M o h o l y - N a g y  .......... .   257 
+4 . 1 . 6 .  O p e n i n g  ...................................  2 6 2  
+4 . 2 .  T o w a r d s  r e s p o n s i b l e  a n d  c a r i n g  i n n o v a t i o n  ................ .   264 
+4.2.1. Technical activities and ca re: practical lessons from an cient  
+China and Greece ..................................  2 6 4  
+4 . 2 . 2 .  T h e  s q u a r e  o f  c a r e  i n  t e c h n o l o g i c a l  d e s i g n  ...............  2 7 2  
+Conclusion  ........................................  2 8 7  
+References  ........................................  2 9 3  
+Index  ............................................  3 1 1  
+ 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ 
+Acknowledgments 
+Several colleagues were kind enough to re-read all or part of t his book and give 
+me suggestions for improving it. I thank them very warmly: Bern ard Reber first of 
+all, for his very careful reading and his advice, as well as Em anuele Clarizio whose 
+comments are always invaluable. Charles Lenay and Pierre Steine r then, who 
+enlightened me on the TAC thesis and its philosophical sources.  Dimitri El Murr 
+who allowed me to see more clearly in certain terminological pr oblems linked to 
+ancient Greek. 
+My thanks also go to Rionne, for his support and encouragement.   
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ 
+Foreword 
+A good number of the works that combine innovation and responsibility1, 
+science and society, or even ethics and new, emerging or contro versial technologies 
+do not really take the technologies themselves seriously, nor t heir relationships to 
+humans and the environment. To be more precise and less unfair,  they still base 
+themselves upon dualisms: nature/technology, technology/life, t echnology/humans, 
+humans/nature, subject/object. Wh at they are desperately lackin g is an informed, 
+balanced, and plausible philosophy of technology. However, this  well-documented 
+work by Xavier Guchet, who leads an interdisciplinary team at t he University of 
+Technology of Compiègne, member of the Sorbonne University Alli ance, offers not 
+only a strong thesis, but is backed up by a panorama as broad a s it is assembled to 
+good use. I emphasize the fact that his immersion in a university of engineers gives 
+even more credit and plausibility to his work. This book is not  only addressed to 
+philosophers, but to engineers and any person who takes account  o f  o u r  
+technological environments2, sometimes as threats, sometimes as sources of 
+revelation and solutions, but al so with a role to play in our d efinition as humans. 
+First of all, we have here a state of the art of the most inter esting approaches to 
+the philosophy of technology, ranging from Greek philosophy, es pecially that of 
+Aristotle, to contemporary work. Configurations of the debate w hich we have 
+inherited from ancient times have not lost their relevance. Aga inst the Sophists who 
+enthusiastically welcomed the development of technology conside red from the 
+perspective of an infinite progress, Plato’s metaphysics alread y indicated this danger  
+ 
+                                 
+1 For a general overview see Sophie Pellé and Bernard Reber, From Ethical Review to 
+Responsible Research and Innovation , ISTE and Wiley, 2016. 
+2 One approach that strives to combine technology and ethics is  that of Armen Khatchatourov, 
+with the collaboration of Pierr e-Antoine Chardel, Andrew Feenbe rg and Gabriel Périès, 
+Digital Identities in Tension, Between Autonomy and Control , ISTE and Wiley, 2019. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xii     Care in Technology 
+of unlimited variation of forms in the polis , by separating Being and becoming, and 
+submitting the latter to the unchangeable order of the former. Even more, Aristotle 
+had already domesticated technology in a quadruple principle of  limitation that 
+prevents a collapse into excess: by form (formal cause), by the  “implicit forms” of 
+the material (material cause), by the ultimate purpose (final c ause) and by the 
+corporeal possibilities of the living being (efficient cause). 
+Xavier Guchet therefore presents the broad progress of the biol ogical philosophy 
+of technology, whose connecting thread is the concept of the ex ternalization of life 
+in technology, with great names as Ernst Kapp, Alfred Espinas, Henri Bergson, 
+Edouard Le Roy, André Leroi-Gourhan, Georges Canguilhem, and so me lesser 
+known such as William Morris, John Dewey, Lewis Mumford, Laszlo  Moholy-
+Nagy, Gilbert Simondon, whose co mmon feature is that they have considered 
+technology from the point of view of its links with life, with the theme of projection 
+of the organs or of externalization. This also concerns René De scartes, Karl Marx, 
+Arnold Gehlen, Helmuth Plessner, Jose Ortega y Gasset, Paul Als berg, Francisco 
+Varela, Pietro Montani and Bernard Stiegler. It is gratifying t hat the Innovation and 
+Responsibility  set of books devotes several pages to the French philosopher o f 
+technology Gilbert Simondon, quite unique in this field and lit tle known in the 
+English language, at least in a f orm which is not solely exeget ic. 
+One of the originalities of this discussion is the presentation  o f  t h e  K a n t i a n  
+conception of technology as a decisive philosophical reading of  the divorce between 
+technology and life, as it was emerging in the 18th century. Ka nt’s genius is to have 
+endorsed this divorce, while indicating, as if in negative spac e, the conditions for it 
+to be surpassed. Far from continuing to conceive technology, as  had been done 
+before him, as organon , he proceeded to a split in the v ery concept of technology in 
+parallel with another, that between organic life and the life o f any singular rational 
+and moral person. Technology points toward the representation o f goals, but it also 
+sinks into the depths of the body to the point of lodging in th e automatism of the 
+living machine. It is somewhat m echanical and somewhat finalize d, between 
+causation and purpose. We can understand this “somewhat” as “at  the same time”. 
+Companionship with Kant allows Xavier Guchet to discuss the wor k of Dewey 
+on the aesthetic experience as a perception of the relationship  between my action 
+and its effects in the world, between the things I manufacture and the relations that 
+these things will forge with other beings in the world, or rece nt research in bio-
+aesthetics. This is the case for example with Montani who sketc hes a third way, that 
+of the concept of institution, between the heteronomous constit ution of the subject 
+and the forms of its experience through technology and the abso lute self-constitution 
+of the subject. The concept of institution allows us to say tha t the subject is not self-
+created and what brings it into e xistence is not a set of struc tures imposed upon it by 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Foreword     xiii 
+a foreign authority. The subject does not belong to itself with out experiencing a sort 
+of heteronomy. 
+S i m i l a r l y ,  X a v i e r  G u c h e t ’ s  b o o k  c a s t s  a  c r i t i c a l  e y e  o v e r  t h e  p roject of the 
+Encyclopédie,  following the historical philosopher Michel Foucault in his co urse at 
+the College of France (1976), but which Kant might also have sh ared: far from being 
+only a political or ideological opposition to the monarchy and to a form of 
+intransigent Catholicism, the Encyclopédie is a political and economic operation of 
+homogenization of technol ogical knowledge according to four mec hanisms for the 
+disciplining of knowledge and technical know-how: a selection s eparating 
+knowledge into legitimate and non-legitimate; standardization a nd hierarchization of 
+dispersed knowledges and a pyramidal centralization which allow s control over 
+them. If the Encyclopedists canno t be accused of having opened the way to 
+industrial technology or even to the scientific organization of  labor, Diderot and his 
+partners had already initiated, in some respects, the expulsion  of the craftsman from 
+his know-how of experience, by a formalism that drew up an orga nization of 
+knowledge and technological prac t i c e s  e n t r u s t e d  t o  t h e  c a r e  o f  a new category of 
+experts, a certain type of l ogicians, as Diderot writes. 
+These conceptions are only traces  of history; projects such as following the 
+traces of Amazon employees, which Guchet describes and aptly de nounces, are of 
+the same vein. 
+In the relationships between ethics and technology, he is very interesting in the 
+reconfigurations to which he invites us, through his assiduous and precise 
+examination of philosophers of technology, including the “Const itutive/Constituent 
+Anthropological Technology” curr ent, very well represented in h is laboratory at 
+Compiègne, as well as the four currents of the biological philo sophy of technology 
+which he discusses and distinguishes. 
+One of the main theses is as follows. It is often and too readi ly admitted that 
+there is, on the one hand, a positive technology oriented to ca re and, on the other, a 
+negative technology, animated by the aim of mastery slipping in to predation toward 
+all forms of biological as well as social and subjective life. However, according to 
+him, a thought of care in technology includes two fundamental r equirements: 
+understanding the technological relationship of human beings to  the world according 
+to the category of insertion  and not that of mastery, and never forgetting the capacity 
+of individuals for autonormativity3. His intuitions have a long history since these are 
+the Greek analyses of medicine, with their “square of care” whi ch is designed to 
+impose itself as the whole set of guiding principles for the pr actice of engineers and 
+                                 
+3 In the series Responsible Research  and Innovation  see the book by Marc Maesschalck, 
+Reflexive Governance for Research and Innovative Knowledg e, ISTE and Wiley, 2017. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xiv     Care in Technology 
+designers today. This square of care in the design of technolog y, which he will detail 
+with the support of a large portion of the traditions of the ph ilosophy of technology, 
+is based on the following principles: 
+Care results from a double movement of incorporation and insert ion of natural 
+processes into the operations of human action. 
+The human being fulfils its nature as a living being in making a technician of 
+itself. Technology repays its “debt to life”, to quote Simondon , by letting itself be 
+guided by the goal of a fulfilment of life, that is to say of v alue-creating activity 
+once we recognize the value of non-human living beings. Here he  is particularly 
+indebted to Dagognet, Simondon and Dewey. 
+The technological object gains a n aesthetic dimension when it i s no longer a 
+detachable tool which is transportable everywhere, but a realit y inserted into both 
+the natural and human worlds, and when it gives rise to a sense  of technological 
+beauty. 
+The imperative of knowledge.  
+These practical principles do not allow us to determine in adva nce what is 
+entailed by care in each situatio n. They are only regulatory, t o employ Kant’s 
+terminology. In effect a thought  of care in technology is a mat ter of reflective 
+judgement, and not of the faculty of determinant judgement. 
+He convincingly shows a large limitation in the ethics of care4. Intending to “care 
+for nature” without taking the fight onto the ground of the des ign of technologies 
+and of the technical organization of chains of production, is t o fatally leave intact the 
+distribution of the sensible which defines the social and polit ical order of the 
+moment; even worse, it is to let carelessness flourish, where p roduction process is 
+kept invisible. 
+Against very superficial conceptions of the idea of responsible  innovation which 
+do not question the ultimate goal of these policies and merely encourage and 
+accelerate the passage of fundamen tal research toward industria l applications while 
+ensuring in advance their “social acceptability”5,  t h i s  b o o k  g o e s  m u c h  f u r t h e r .  I f  
+responsible innovation conceived in such a fuzzy manner does no t guard against the 
+                                 
+4 In a complementary way , see Sophie Pellé’s book, Business, Innovation and Responsibility , 
+in which she interrogates conceptions of responsibility, availa ble in the Responsible Research 
+and Innovation  set of books. 
+5 For a more economic critique of this failing see Nikolova Bla govesta, The RRI Challenge . 
+Responsibilization in a State of Tension with Market Regulation , ISTE and Wiley, 2019. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Foreword     xv 
+creation of new vulnerabilities, and if the human remains outsi de nature, one may 
+understand that some advocate surpassing this conception throug h an innovation 
+which is oriented by care. Yet h is critique, inspired by Dewey,  in some way takes 
+the opposite tack to this critique: the human is an instrument for the improvement of 
+the natural world. Care thus consists of acting technologically  i n  s u c h  a  w a y  t h a t  
+nature is fulfilled, improved, and optimized according to its o wn potentialities, and 
+not by reference to the interests of a subjectivity cut off fro m the world. 
+ 
+Bernard R EBER  
+December 2020 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ 
+Introduction 
+Humanity by itself creates much devastation. A highly technolog ized 
+humanity, intelligently technologized through a network, which has a 
+geographical sense, is much less dangerous for nature than huma nity 
+by itself. 
+Gilbert S IMONDON  
+A nagging question haunts our era: can we yet avoid the major e cological 
+disruptions that more than two centuries of industrialization b ased on fossil energies 
+seem to have rendered inevitable? It is in fact more and more w idely recognized that 
+these disruptions, which there is every reason to believe will have disastrous 
+consequences for all of life on Earth (including humans), will occur no matter what 
+we do today to prevent them. We may, at best, limit their magnitude somewhat, 
+provided however that the major industrialized countries take d rastic measures 
+without delay – which seems unfortunately not to be the most pr obable option as 
+evidenced by the tepidity of the (at best, modest) advances mad e by the international 
+conferences on the environment th at have been held for many yea rs. 
+Should we consider the question as definitively closed, and thi nk that our 
+technological choices have comple tely committed us on an irreve rsible path to 
+planetary ecological disaster? Must we even go as far as to con sider, with François 
+Jullien for example (Jullien 2004), that the technological rela tionship with the world 
+as it has been conceived and developed in the western world, an d whose model we 
+have inherited from the ancient Greeks, is essentially the expr ession of a will to 
+mastery of nature, the outcome of which, to the extent that our  technological activity 
+acquires more and more powerful means of action, could only be the predicted 
+disaster which we must face today? 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xviii     Care in Technology 
+This book aims to answer these questions in the negative, showi ng on the 
+contrary that the western conception of technology is historica lly articulated with a 
+genuine requirement of care for things and beings. It is true t hat with the Industrial 
+Revolution, this requirement seems to have deserted our technol ogical action. The 
+latter seems since then to have been controlled only by the pow er of calculation 
+(metron ) and seems no longer subject to what should have yet remained the guiding 
+principle of all technologi cal activity: the faculty of metrion ,  t ha t  i s  t o s a y  of  f a i r  
+measure, of suitability and of care – which faculty precisely c annot be reduced to the 
+rationality of calculation. How have we come to so radically di ssociate technology 
+from care, metron  f r o m  metrion – and especially, how to reintroduce metrion , 
+correctness and care, into our technological activity? Can we reforge the frayed links 
+between technology and care? 
+I.1. Care for nature 
+The need to develop technologies which are more “respectful of nature” is very 
+widely shared among the general public but also among engineers  and designers, 
+who consider themselves more and more concerned by environmenta l issues 
+(especially in the case of students who, notably in France, hav e over the last few 
+years developed a growing awareness of their present and future  responsibility in the 
+matter1). The effort to introduce the aim of protecting nature into th e activities of 
+engineering and technological design has in fact a long history . The concepts of 
+green  design, eco-design or sustainable  design also show a significant change in the 
+openness of technological design to ecological issues in the 19 80s and 1990s, 
+reflecting more exactly the fact that this openness has gone ha nd in hand with an 
+increasingly radical and comprehensive understanding of the res ponsibility of 
+engineers and designers in eco logical matters (Madge 1997). 
+The links between technological  design and ecological thinking are older still. 
+Thus, some of the great figures of the Bauhaus such as Walter G ropius (its founder) 
+or László Moholy-Nagy in the 1930s had already forged contacts with 
+representatives of the ecological  sciences in London, where the y had emigrated 
+following the closure of their school in Germany by the Nazis ( Anker 2010). The 
+reflection on design integrated e cological questions very early on. 
+The current context is marked by the success of a new mobilizin g watchword, 
+which is currently bringing together a growing number of initia tives intended to get 
+the industrialized countries to adopt a less destructive relati onship to nature. This 
+watchword is expressed in terms of a fairly simple imperative: we must take care of 
+                                 
+1 See for example the “Student M anifesto for an Ecological Awak ening” in French, https:// 
+pour-un-reveil-ecologique.org/fr / (accessed Fe bruary 4, 2020). 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Introduction     xix 
+nature . The expression “take care of nature and of people [may indeed  appear as] a 
+new watchword of late modernity. It responds to a social crisis  [as well as] an 
+environmental crisis” without pr ecedent (Pierron 2013b). We wou ld thus be in the 
+process of moving from a society whose priority is the search f or well-being to a 
+care society (Rodotà 1995, p. 103). Businesses themselves compete in order to win 
+the Grand Prize for Caring, as f ar as the most trivial acts of consumption – buying 
+recycled toilet paper, for examp le (Puig de la Bellacasa 2012) – which now seems to 
+relate to taking care of nature2. 
+Beyond the excitement that it inspires in advertising executive s, care for nature 
+has found important theoretical developments in moral philosoph y, more precisely 
+in the so-called ethics of care (Laugier 2012). In opposition t o a long tradition of 
+moral philosophy for which the subject cannot be moral unless r ecognized to be 
+rational, autonomous and free, the ethics of care argue that hu mans constitute 
+themselves as moral subjects in their vulnerability and in the relations of dependence 
+which flow from it. Vulnerability and dependence are therefore not only accidents 
+which may occur at certain critical moments of life (early chil dhood, old age or 
+disease); they are our lot. Our moral life is based primarily o n our ability to attract 
+attention to, and to pay attention to, everything that allows t he ordinary of our lives 
+and which, literally, nourishes us (Pelluchon 2019a). The ethic s of care thus put the 
+emphasis on what we do not generally see, on what is rendered i nvisible by denial of 
+attention, that is to say on everything that makes our lives possible and supports 
+them on a daily basis. However, as noted by Sandra Laugier, ind ifference, or even 
+negligence and recklessness “in relation to the consequences of  our daily actions on 
+the surrounding environment” is expressed more and more today i n terms of 
+carelessness (Laugier 2012). In  making its irruption into envir onmental ethics, care 
+does not however limit itself to adding, to the ethical issues centering on the 
+“intrinsic value”3 of nature or on rational calculation of the consequences of ou r 
+actions upon it, a generous and caring attitude. Environmental  care expresses more 
+essentially the recognition of our dependence on nature – a dependence which, for 
+                                 
+2 Incidentally, it is not altoge ther new that human relationshi ps to nature, in industrial 
+societies, should be envisaged by the standard of care, as evid enced for example by the 
+curricula of education on nature in the elementary schools of W estern Europe, which have 
+combined at least two ways to teach nature to children througho ut the past century: although 
+the scientific and instrumental conception of nature has massiv ely infused the curricula of 
+secondary education, in contrast  the primary schools have never  really abandoned leading 
+children, by observation, to create an experience and a concept ion of nature oriented by caring 
+concerns (Postma 2006, p. 3). 
+3 Catherine Larrère thus emphasi zes the existence of an incompa tibility between, on the one 
+side, the environmental ethics which proclaim the concepts of i ntrinsic value and wild nature 
+(wilderness), still dominant on the North American continent, a nd on the other side the ethics 
+of care for nature (Larrère 2012). 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xx     Care in Technology 
+most authors, primarily has a contextual4 meaning which, moreover, is in no way a 
+characteristic specific to the ethics of care. 
+For all that, the meaning and ev en the relevance of the injunct ion to take care of 
+nature are debated (Gaille 2013; Hess 2013). Thus, can we unify  care for humans 
+and care for nature in one and th e same concept of care, or are  there several kinds of 
+care (Pierron 2013b)? Can we export “concepts explored in relat ions with humans to 
+relations with nature” (Pierron 2013a), by so doing deriving co ncern for nature and 
+for the world, in its widest extension, from care as it is depl oyed in inter-human 
+relations, and not the reverse5? There is no unambiguous and consensual response to 
+these issues. We must state in fact that extending care beyond individual 
+interactions, toward a care for the world in its entirety, does  not necessarily lead to 
+care for nature. Thus, in a book devoted to examining the condi tions of care for the 
+world, Elena Pulcini (2013) explains that only a transformation  in our concept of the 
+subject can allow us to overcome the “pathologies” of the globa lized world 
+(exaggerated individualism, communalist temptations). We must d o away with the 
+self-referential and sovereign subject of modernity, dominated by Promethean 
+hubris  a n d  n a r c i s s i s m ,  t o  c o n c e i v e  a  s u b j e c t  t h a t  i s  r e l a t i o n a l ,  v u l n erable, and 
+dependent on others, but also assuming its responsibility with respect to the 
+vulnerability of others. However, Pulcini says nothing with reg a r d  t o  h o w  t h i s  
+relational subject relates with non-human natural beings, and w ith nature in general. 
+Care for the world certainly im plies, as a basic condition, the  preservation of life. 
+However, the object of care is not, according to Pulcini, life as such, and even less 
+nature, but the world of human intersubjectivity. 
+Based on these difficulties some argue that even the idea of ca r e  f or  n a t ur e  i s  
+suspicious and that upon consideration, it is based on very wea k philosophical 
+grounds. French philosopher Aliénor Bertrand (2013a, 2013b) thu s points to the 
+distortion of principle which exists between the “type of philo sophical 
+anthropology” that und erlies care and the “naturalism” which gu ides the relationship 
+with the nature of industrial societies. By naturalism, Bertran d here understands 
+naturalist ontology as defined by anthropologist Philippe Desco la (2005): it is a 
+mode of identification of the existing beings which rests on th e attribution to all of 
+the same “physicality” (meaning that all beings in the world, l iving or not, are held 
+to be dependent on the same physico-chemical laws, their behavi or can always be 
+explained with reference to these laws) but on the attribution of different 
+“interiorities” between all the existing beings: thus, only hum ans are assigned a soul, 
+a consciousness or a spirit, all the other existing beings depr ived of this. The very 
+                                 
+4 ”The theme of care allows a pragmatist and particularist trea tment of environmental issues, 
+beyond the major principles and incentives to moralise or to (u n)assign guilt” (Pelluchon 
+2019a, p. 14). 
+5 Pierron J.-P. 2019, pp . 104–105, citing F. Worms. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Introduction     xxi 
+concept of “nature” is, in fact, unknown to all human groups wh ich distribute 
+ontological attributes among existing beings according to other  identification 
+schemes. The concept of nature therefore has only meaning in re ference to a 
+particular ontology, naturalism, suspected of having served as a foundation for so-
+called modern science and technology, and consequently of havin g paved the way to 
+a mode of development based on t he depredation of the environme nt. How could the 
+concept of “nature” in these conditions become the reference te rm for an attitude to 
+care with regard to the living an d the environment? Naturalist ontology has led us, 
+we Westerners of the industrial era, to conceive in a very impo verished manner our 
+possible relationships with nature; it is inevitable that the c oncept of care for nature 
+inherits this poverty and in no way allows us to reorient our a ttitude towards it. In 
+sum, “the problems raised by natural resources are subsidiary i n relation to the issue 
+of values … they only arise, in fact, from within a generally a nthropocentric 
+conception of the relations hip of humanity to nature6”. “To enact all the changes that 
+would put us on the good path, whether on the level of the figh t against global 
+warming or as regards animal welfare… it is important to change  our representations 
+of animals and of the place of the human in nature…” (Pelluchon  2019b). The 
+anthropocentric conception classi cally situates the human outsi de nature, and assigns 
+to the latter only an instrumental value, which tends to justif y the behavior of 
+unlimited exploitation7. For us to show more care in regards to nature, we would 
+first of all have to deal with this conception of humanity isol ated and cut off from 
+nature, that we replace the human being within the entirety of relations that it has 
+with its environment, and that we cease to consider nature simp ly as a “background 
+in front of which we perform our activities” (Pierron 2013a). 
+To assume that human beings are not cut off from nature is equi valent to 
+remembering that this being, who likes to define itself above a ll by its reason, its 
+intelligence and its freedom, doe s not yet cease to be a living creature among living 
+creatures. If societies that have chosen industrialization have  ransacked nature, it is 
+because the humans in these societies have ceased to think of t hemselves as living 
+beings and have made of themselves, in the words of André Leroi -Gourhan, a 
+“dematerialized image”. They have imagined themselves as separa ted from the 
+community of beings that they form with all living creatures on  Earth, and have 
+assumed the right to exercise over these, and over nature in ge neral, unlimited 
+domination. As Claude Lévi-Strauss also said, “We started by cu tting man off from 
+nature and establishing him in an absolute reign. We believed o urselves to have thus 
+erased his most unassailable characteristic: that he is first a  living being. Remaining 
+                                 
+6 Hess cited by Pierr on (Pierron 2013c). 
+7 It should be noted however that anthropocentrism does not nec essarily imply a predatory 
+attitude in respect to nature. “Weak” anthropocentrism may only  assign to nature an 
+instrumental value, without jus tifying its exploitation: this v alue may be aesthetic, cognitive, 
+etc., which requires a protective rather than destructive attit ude. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xxii     Care in Technology 
+blind to this common property, we gave frein rein to all excess es” (Lévi-Strauss 
+1976, p. 41). To reconnect with a conception of the human being  as a living being 
+among other living beings should in sum lead us, in a way logic ally, to put care in 
+our relationships with nature.  
+The question of how to get out o f naturalistic ontology, if tha t is indeed what it is 
+all about, while retaining the term that it has posed in relati on to humans, namely 
+“nature”, remains at this point. The question of how it is poss ible, concretely, to 
+“change anthropology”, as by decree, also remains entirely open . 
+However, apart from these thorny questions, would this planned change in our 
+conception of the human being suffice to make the very notion o f a care for nature? 
+Nothing is less certain. 
+I.2. The two-layered model of care 
+That there is a close link between, on the one hand, the fact t hat the human is a 
+living being – which makes it dependent on various conditions t o meet its vital 
+needs – and, on the other hand, the fact that it has an essenti al relationship to the 
+care applied to the maintenance and provision of these conditio ns, has been widely 
+stressed by the ethics of care8. This link is highlighted, incidentally, in a fable which 
+comes to us from a Latin author named Hygin, which Heidegger re lates in paragraph 
+42 of Being and Time  (Heidegger 1962, p. 242): 
+Once when ‘Concern’ [who is also care, Cura ] was crossing a river, she 
+saw some clay: she thoughtfully took up a piece and began to sh ape it. 
+While she was meditating on what she had made, Jupiter (Jovis) came 
+by. ‘Concern’ asked him to give it spirit, and this he gladly g ranted. But 
+when she wanted her name to be bestowed upon it, he forbade thi s, and 
+demanded that it be given his name instead. While ‘Concern’ and  
+Jupiter were disputing, Earth (Tellus) arose and desired that h er own 
+name be conferred on the creature, since she had furnished it w ith part 
+of her body. They asked Saturn [that is, Time] to be their arbi ter, and he 
+made the following decision, which seemed a just one: ‘Since yo u, 
+Jupiter, have given its spirit, you shall receive that spirit a t its death; and 
+since you, Earth, have given its body, you shall receive its bo dy. But 
+since ‘Concern’ first shaped this creature, she shall possess i t as long as 
+it lives. And because there is now a dispute among you as to it s name, 
+let it be called homo , for it is made out of humus  (earth).  
+                                 
+8 And not only by them, by the way; many other philosophies hav e established this link, 
+including those of the ancie nt Greeks, as we will see. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Introduction     xxiii 
+Commenting briefly on this fable, Heidegger notes that Concern or Care is not 
+envisaged only as that to which the human Dasein  remains committed during its 
+entire life and as that which constitutes it, but that “this pr iority of ‘care’ emerges in 
+connection with the familiar way of taking man as compounded of  body (earth) and 
+spirit” (Heidegger 1962, p. 243). 
+ The meaning of the fable is that the human being will only be a composite of 
+body and spirit at its death, and at this time only can the sha ring between Jovis and 
+Tellus be made; before this, what  defines the human is the fact  that it lives, that it is 
+a living being. As a living being, the human is one, not split,  care being precisely 
+that which prevents the split between its natural and not-natur al parts. Care, in terms 
+of the human being, means above all else refusing any form of s plit between the 
+body and the spirit: there is not, on one side, care in the sen se of purely 
+technological caregiving, with an objectivized body as its area  of intervention; and 
+on the other side care in the sense of taking care, attentive t o the human being as 
+spirit and free will. Care cannot be two cares, it is a unity o r nothing at all9. 
+This requirement of unity in care, an indivisibility of caregiv ing and taking care, 
+has been particularly pronounced i n the field of medical ethics , except however that 
+these two aspects of care, althoug h not separate, are not so mu ch merged into a truly 
+unitary care. There are two layer s of care and they are clearly hierarchical. It has in 
+effect become a commonplace to recall that the therapeutic act in the technical sense 
+of the term, that is to say caregiving (cure), is devoid of any moral value if it is not 
+inserted into a more essential relationship of care which envel opes it. The greatest 
+risk is that, while thus conceived according to a two-layer mod el, care becomes 
+precisely two quite distinct and unrelated cares – and even wor se, that care within 
+the meaning of caregiving will eventually prevail over care wit hin the meaning of 
+taking care. As psychoanalyst Donald W. Winnicott deplored at t he beginning of the 
+1970s, “Cure, in the sense of remedy, successful eradication of  disease and its cause, 
+tends today to overlay cure as care” (Winnicott 2017, p. 192). However, as stressed 
+by the preface writers of an Italian collective work (Donghi an d Preta 1995), the risk 
+of splitting care and giving priority, as Winnicott deplored, t o cure as remedy  
+over care, results specifically in an inability to properly pos e the problem of  
+the relationships between body and spirit, and their unity. In other words, a 
+relationship of reciprocal implication is forged here between, on one hand, the  
+ 
+                                 
+9 The reading that Warren T. Reich proposes of Hygin’s fable ce rtainly emphasizes the 
+existence of a tension in care – tension between care as a burd en and care as solicitude. By its 
+physical and telluric nature, car e is a load, a burden; by its spiritual nature, it is solicitude. 
+This reading, however, does not affect the unity of care; it do es not mean that there is not one 
+but two cares; there is a single care. However, any care implie s this internal tension (Reich 
+1995). 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xxiv     Care in Technology 
+conception of the human as a living being – but in the sense of  a being composed of 
+body and spirit unified by care – and on the other hand, a two- layer conception of 
+care. 
+However, this two-layer conception of care, well documented in the field of 
+medical ethics, does not confine itself there: it is also found  in the invocation of care 
+for nature and it leads to a blurring of its meaning. Not, inci dentally, that any idea of 
+care for nature should invariably find its only possible model in medical care 
+(Pierron 2019). Thus, van Rensselaer Potter, one of the theoreticians of the concept 
+of bioethics, considered that medical bioethics, far from being  possibly the basis for 
+a global concept of care by extension of the care due to humans  to the care due to 
+nature, was on the contrary only a shrinkage of a broader conce pt of bioethics, 
+linking human health and health of the environment (Gaille 2013 ). That being said, 
+the need to establish a hierarchical relationship between cure and care now extends 
+to the whole set of activities where care is required. The penetration of the ethics of 
+care into environmental ethics illustrates this phenomenon of e xtension: we are 
+required not only to interact in a prudent and careful manner w ith nature, but also to 
+assume that these interactions are of a moral scope and that, t herefore, we are 
+morally obliged to comply with the values of prudence and fair measure. 
+In its most general sense, the idea of care for nature therefor e points towards the 
+same two-layer conception of car e as that of medical ethics. It  is still a matter, here 
+as there, of conceivi ng care as a single care; however, this ca re does indeed have two 
+layers in a hierarchical relationship. On the one hand, there i s the properly technical 
+level of care, which is the care that we must take of natural t hings if we are to 
+succeed in our undertakings, in order to avoid the misfortunes of the man of Song. 
+Mengzi, a Chinese philosopher of the 4th century B.C.E., a foll ower of Confucian 
+thought, tells us that “a man of Song10, distressed to not see his plants growing fast 
+enough, had the idea of pulling on them from above. Returning h ome in haste, he 
+said to his people: “I am tired today, I have been helping the corn to grow long” 
+(Mencius, 1970, p. 190). On hearing this, his son rushed to go to see, but the shoots 
+had already dried. Here is an unwise technical act, harmful due  to lack of attention 
+and care brought to the specific needs of the plants; but there  is also, on the other 
+hand, the moral layer of care, which must provide technical act s of care with their 
+guiding values. The two-layer conception of care extends to nat ure particularly when 
+it is assigned an intrinsic and not only instrumental value11: moral respect for nature 
+must regulate the technical  acts that are deployed. 
+                                 
+10 One of the Chinese states of  the so-called Spring and Autumn period. 
+11 The concept of the intrinsic value of nature, as well as its  relationship to care for nature, 
+will be discussed later. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Introduction     xxv 
+I.3. The intellectualist conception of technology 
+There is moreover a conception of technology implicit in the tw o-layer model of 
+care. This model is in fact underpinned by three assumptions af fecting the relations 
+between human life, technology, and care. The first assumption is that human life 
+can be summed up in two dimensions which are difficult to defin itively articulate: 
+life is understood on the one han d according to the dimension o f the being-in-life, 
+and on the other hand, as a life of the mind. We are “first of all” living beings 
+according to Lévi-Strauss, which means that we are “subsequently”, also, something 
+else than living beings. We are not cut off from nature, certai nly, but that does not 
+mean that we have absolutely no exteriority in relation to it. 
+The other two presuppositions of the two-layer model of care re late to the very 
+concept of technology. On the one hand (and thus the second pre supposition), 
+technology is defined as the whole set of means available to us  to be able to 
+intervene in nature, both inert and living, from a point of vie w exterior to it. This 
+conception of technology is intellectualist. Technology is the means by which 
+intelligence intervenes upon nature as upon an external, recept ive material. 
+On the other hand (third presupposition), technology as such, o r at least a certain 
+type of technology, is considered to be incompatible with care.  The two-layer model 
+of care, affirming the unity of all care, is certainly unequivo cal: no relationship of 
+care cannot be conceived without technology. A negligent action , performed without 
+precaution and devoid of any real involvement of the one who pe rforms it, is not in 
+the service of care. A gesture t hat is not careful, that is to say which is not executed 
+with the required technique (which is learned and requires trai ning) cannot be 
+caregiving – such is the message of the parable of the man of S ong. Caregiving 
+requires competence. That being said, when technology refers no  longer to modestly 
+equipped know-how but to the innovations of chemical and mechan ical industry, for 
+example, its relationship to car e appears less obvious, more ex ternal, and more 
+conflicted. In sum, there are two conceptions of the relationsh ip between care and 
+technology: a relationship of necessary implication on one hand – there is no care 
+without the security of a controlled and properly equipped acti on, whether it is care 
+for humans or care for nature; on the other hand, a relationshi p of exteriority in 
+principle, making problematic the possibility of caregiving whe n the concept of 
+technology signifies, to continue the example, the devices of m echanical industry 
+and chemical products. 
+The first assumption, affecting both contradictory meanings of the concept of 
+life, is absolutely essential and commands the other two. Indee d, it is because life, in 
+humans, is regarded as dual, consisting of a subject pole (inte lligence, the spirit) and 
+an object pole (the body, the being-in-life), that technology m ust inevitably be 
+understood according to the same division: it is an emanation o f the subject pole and 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xxvi     Care in Technology 
+it applies to the object pole from a point of view external to it. An intellectualist 
+concept of technology is the result of a bifurcated conception of life in humans. In 
+addition, to the extent that its intervention targets the objec t pole, that is nature as 
+the theatre and support of the vital processes, technology has an ambivalent 
+relationship to care: certainly there is no care without techno logy, but the risk of a 
+dissociation between performing cure and taking care is widenin g as technologies 
+become technosciences. 
+I.4. From design of nature to care for “ordinary nature” 
+These three presuppositions thus constitute the unthought-of di mension of the  
+two-layer model of care. However, in the light of the foregoing  considerations, it 
+appears more and more doubtful that this model can provide a sa tisfactory 
+theoretical base for the idea of care for nature. The example o f permaculture 
+illustrates quite well the difficulty of transposing this model  of care onto nature. 
+Permaculturists12, however, explicitly put care for nature and for humans at the  heart 
+of their system of values. They claim to have a holistic concep tion of the human 
+being, refusing to separate “the  body, the affective and emotional sphere, the 
+intellect, the spiritual13”. Therefore, they seem to exceed any bifurcated vision of 
+care: care for the body is inseparable from care for the spirit , and care for human 
+beings from care for the earth. “ Care for the earth. Care for people. Fair share ”: the 
+motto of permaculture gestures toward a unitary vision of care,  and toward a non-
+dual conception of human life. How ever, the continuum of care s eems to be 
+contradicted here by the prioritization of the concept of desig n. Permaculturists 
+speak in fact of a real change of paradigm. Their analysis is a s follows: historically, 
+human groups have grown up in highly diverse habitats. This acc umulated 
+                                 
+12 Permaculture is a method of agriculture theorized in the 197 0s by the Australians Bill 
+Molisson and David Holmgren. The initial motivation of Molisson  and Holmgren was to 
+propose an alternative to intensi ve agriculture, in which the s earch for higher yields by the 
+massive artificialization of envi ronments has resulted in the e xhaustion of microbiological life 
+present in the soil and, eventually, the sometimes dramatic dec line of their fertility. The 
+services that are normally rendered by these microorganisms (de gradation of the bedrock to 
+create humus, input material nitr ogen, etc.) have thus had to b e substituted by other means, 
+including by the provision of chemical inputs. In contrast to t hese artificializing industrialist 
+approaches, permaculture proposes to return to bio-inspired agr icultural practices, capable of 
+taking advantage of natural functions. Nature has in effect giv en birth over the long term to 
+ecosystems that are extremely complex and robust, based on the existence of multi-level 
+relations of interdependence between many elements, mineral as well as organic: a 
+permacultural farm aims to reproduce this complex network of el ements in interaction at all 
+orders of magnitude. See e.g. (Hervé-Gruyer 2018). 
+13 See the website of the Bec Hellouin permacultural farm – htt ps://www.fermedubec.com/ 
+la-permaculture/notre-philosophi e/ (accessed November 25, 2018) . 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Introduction     xxvii 
+experience is a wealth of which permaculture intends to take ad vantage, drawing on 
+traditional knowledges and know-how. On the whole, however, the  growth of the 
+human population on Earth was more like a fumbling adventure th an a conscious 
+plan. In place of this globally b lind human expansion, the perm aculturists intend to 
+substitute a planned habitation, supported by specific knowledg e relating to the 
+environment and to the operation of living beings. It is now a matter of thinking of 
+habitation from the viewpoint of design – to propose a “permacu ltural design”. 
+However, if we can understand what permacultural design entails  at the level of the 
+farm or even of the territory, what becomes of this vocation of  designer when the 
+scale of intervention becomes th e Earth itself (care for the Ea rth)? Must we admit 
+that the human must become the chief designer of global nature?  This would be a 
+strange way to defend the idea of care for nature. It is hard t o see in any case how 
+we would escape the ambition of becoming masters and owners of nature. “How can 
+o n e  s e t  o n e s e l f  u p  a s  a  d e s i g n e r  o f  t h e  w o r l d  w h i l e  a c k n o w l e d g i ng that one is 
+subject to it?” asked Vilèm Flusser (Flusser 1999). 
+A dual conception of the human; an intellectualist conception o f technology; the 
+idea that some technologies are i n essence contradictory to car e (permaculturists ban 
+mechanization as well as chemical inputs from their farms): per maculture remains 
+well and truly dependent on the two-layer model of care and its  assumptions, which 
+leads to a difficulty in rendering robust the goal of care for nature or, in the terms of 
+the permacultural philosoph y, care for the earth. 
+In sum, Aliénor Bertrand sees clearly when she stresses how muc h the idea of 
+taking care of nature risks surreptitiously returning to a dualistic anthropology – 
+even that one which, in seeing humans as beings outside of natu re due to their 
+reason or their spirit, has led t o the most predatory behaviors  in respect of the natural 
+world. The sincerity of permaculturalists is of course not in q uestion here, and 
+neither are the truly caregiving modalities of their relationsh ips with the cultivated 
+land. That being said, they seem to continue to conceive of the  human according to a 
+duality of perspectives, as living beings belonging to nature i n their organism, but 
+not in their technological intelligence. Humans belong to natur e, but they remain 
+designers of nature. They must simply create a better design fo r it. 
+How to get out of this impasse in order to better understand th e conditions of a 
+more caring technological action?  For what should this action b e caring, if not for 
+nature taken globally? A possible answer comes from one current of environmental 
+ethics, the ethics of so-called “ordinary” nature, whose diagno sis is almost that 
+which we have just established: considering all of nature as an  object of care, 
+especially by giving it an intrinsic value, in no way leads to escaping from the 
+dualism of the human being and nature; on the contrary, it lead s to a hardening of 
+this dualism because the human, despite the assertion that it r emains a living being  
+ 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xxviii     Care in Technology 
+among living beings, appears engaged in a confrontation with na t u r e  w h i c h  h a s  
+nothing to do with the dialogue of the living being and its mil ieu. As emphasized by 
+French philosopher Rémi Beau (2013), the shift of environmental  ethics toward the 
+concept of care for ordinary nat ure (i.e. to care, not for natu re, but for natural things 
+in our daily environment), could then allow us to dispense with  the double 
+conception of a human being which despite everything remains ou tside of nature, 
+and of a nature without humans. 
+I.5. Technology, life and care 
+L e t  u s  s u m m a r i z e .  T h e  c o n c e p t  o f  t h e  h u m a n  a s  c o m p o s e d  o f  b o d y  and spirit 
+unified by care became closely li nked to the two-layer model of  care, as well as to 
+an intellectualist conception of  technology. In this theoretica l framework, 
+technological intelligence has a vocation to reconfigure the world – to design it. The 
+only way in this case to guard against the excesses and ravages  of technology is to 
+impose upon it a limiting framework, but from outside: ethics s eems to have today 
+the function of providing this. Technology is in itself foreign  to the values of caution 
+and modesty inherent in care: the imperative of care must neces sarily be imposed by 
+an external and overhanging instance. 
+What however of the relationshi p between technology and care, o nce abandoned 
+not only the dualistic conception of human life, but also the t wo-layer conception of 
+care and the intellectualist conception of technology? As a mat ter of fact, the 
+philosophical literature on care is almost completely silent on  this subject. It still 
+very often proceeds from an attit ude of foreclosure in respect of technologies: here 
+these are, so to speak, never questioned in their possible rela tionship to care, even if 
+some philosophers of care, as we will see, are moving in some r espects toward this 
+questioning. 
+The intellectualist conception of technology seems to act, even  today, as the 
+common basis for debates on the relationship between care and t echnology – even 
+though the non-intellectualist, rather vitalist, conception of technology as Organon , 
+that is to say as an extension of a living body acting on its s urrounding environment, 
+remained unchanged overall over a very long historical period, ranging from the 
+ancient Greeks (who had rigorously established this definition)  until the century of 
+the Enlightenment. In what conditions exactly, and why, did thi s transition occur? 
+What have been the implications of this for the thought of tech nology, and for the 
+conception we have of the relationship between humans and natur e? We will attempt 
+in this book to make a chronology, exactly, of the historical m utations that have led 
+us to make technology a kind of “unthought-of” of care. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Introduction     xxix 
+We will thus clarify what conception of technology, breaking wi th the 
+intellectualist framework within which it still very often rema ins defined, can orient 
+toward a more careful and caring attitude in respect of nature.  What does it mean to 
+think of technology otherwise than based upon intelligence, but  as we will see, 
+based upon life? Does this not lead to a counter-intuitive, eve n disturbing, 
+conception of technology? Does a vitalist conception not mean i n effect defending a 
+purely and simply anti-rationalist position? We will show that this is not the case, 
+and conclude by explaining the guiding principles, which are pe rfectly rational and 
+capable of guiding the work of engineers, for a conception of t echnology alternative 
+to its intellectualist definition. 
+This book is therefore a book of philosophy of technology. More  precisely, it 
+intends to demonstrate that the problem of knowing how to orien t technological 
+design towards the care of all existing beings and of the world  cannot be solved only 
+by choosing materials and processes that are more “respectful o f nature”. This 
+problem engages a global philosophical reflection on technology , which French 
+philosopher Jean-Yves Goffi emphasized at the end of the 1980s (Goffi 1988) that it 
+had always gathered, since Plato, three inseparable dimensions:  a phenomenological 
+or ontological dimension, consisting of a description of techni cal reality through its 
+various manifestations (tools, instruments, machines, gestures,  practices, operations, 
+etc.); an anthropological dimensi on signaling towards the idea that every technique 
+finds its true raison d’être and its ultimate meaning in the ne cessity of satisfying 
+vital needs; and finally an evaluative dimension. What characte rizes contemporary 
+philosophies, Goffi wrote at the time, is a relative fragmentat ion of this approach. 
+Evaluative, anthropological and ontological approaches are ofte n dissociated: few 
+are the unitary philosophies of technology (Goffi 1988, 52-53).  According to Goffi, 
+this situation could be explained by the gradual rise in import ance of the evaluative 
+perspective, which has pushed the other two dimensions into the  background. The 
+current philosophy of technical artefacts, to which we shall re turn later, undeniably 
+strives to overcome this imbalance and to regain a unitary conc eption of the 
+technical fact, by integrating th e ontological and evaluative d imensions to a greater 
+extent. However, the anthropological dimension remains to this day the poor relation 
+of philosophical analyses of contemporary technology. The prese nt work is intended 
+to fill this gap. In sum, this book is a book of philosophy of technology, the 
+objective of which is to respond to the following questions: in  what sense can we 
+speak of “care in technology”? F or there to be care, is it not necessary for there to be 
+a subject to dispense care? According to what concept of care t hen can we speak of 
+technologies able to perform care by virtue of their very desig n ,  i f  t h a t  i s  i n d e e d  
+what we mean? What meaning can b e given to the concept that see ms to emerge 
+here, and which seems at best se lf-contradictory, at worst devo id of meaning: that of 
+an objectified care, reified in technology – that is to say of a care which no longer 
+operates through the activity of a subject who provides care? 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+xxx     Care in Technology 
+One might object to the great naivety of this exercise, or even  to its profound 
+ignorance of the real mechanisms  that have historically led to the depredation of 
+n a t u r e .  C a n  w e  r e a l l y  b e l i e v e ,  w e  m i g h t  s a y  f o r  e x a m p l e ,  t h a t  i t is due to the 
+persistence of a dualistic anthropology and a two-layer model o f care that plastic 
+waste accumulates in hundreds of thousands of tons in the ocean s (Eriksen et al.  
+2014), thus forming what we might call a new continent – a cont inent of waste? 
+Behind this phenomenon, and many others of the same kind, lie n ot anthropological 
+or philosophical postulates, but quite certainly actors, includ ing industrial ones, who 
+have taken decisions based on their interests. French philosoph er Grégoire 
+Chamayou (2019) has recently highlighted the role of brewery an d soft-drink 
+industrialists of as early as the 1930s, in the United States, in promoting disposable 
+cans and bottles which came to replace the old system of recove rable and reusable 
+containers (a system based on deposits). The industrial lobbies  have worked very 
+well and they certainly have a role in the explosion of astrono mical quantities of 
+waste which must now, in fact, be recycled. Let us cease to bea t about the bush and 
+point the finger directly at the problem – not in the heaven of  philosophical ideas 
+about humanity and about care, but in the strategies of the maj or industrial players. 
+This objection is unstoppable, and it must be clear: no miracle  recipe will come 
+out of these analyses and, of course, it is above all through s truggles and the efforts 
+of regulation that things will change. Bergson warned us: a mor e frugal mode of life, 
+one therefore less detrimental to nature, would have to go thro ugh a very deep moral 
+reform. However, such a reform being apparently unattainable, “ we must be content 
+with shifts and submit to more and more numerous and vexatious regulations” 
+(Bergson 1935, p. 274). 
+There is always an aspect of our daily lives by which, whatever  our goodwill and 
+our sincerity, we produce a defect  of care. Manufacturing and u sing a smartphone or 
+a computer, taking a plane trip, turning on electricity inevitably involves a defect of 
+care, since these technological ob jects or gestures depend upon  industrial clusters 
+which are deleterious to natural environments and humans that a re sometimes very 
+distant from us. There is no loophole, even if otherwise we pro mote low tech  
+philosophy or agriculture without chemical inputs. We have buil t our habitation of 
+the world upon the (de)predatio n of nature; we can without doub t be less 
+(de)predatory, but we can hardly stop being so altogether. But this thought must not 
+discourage us. It in no way prevents us from defining the theor etical conditions and 
+practical principles of caring technological action, to impleme nt as much of it as 
+possible in the aim of reducing the (de)predation exerted upon nature and upon 
+living beings in general. This book has no other ambition than to indicate what these 
+conditions and principles are. 
+ 10.1002/9781119821403.fmatter, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781119821403.fmatter by Capes, Wiley Online Library on [06/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

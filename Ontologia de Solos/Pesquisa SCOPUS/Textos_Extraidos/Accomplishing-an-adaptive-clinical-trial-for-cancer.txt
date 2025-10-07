@@ -1,0 +1,820 @@
+Contents lists available at ScienceDirect
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+Accomplishing an adaptive clinical trial for cancer: Valuation practices and
+care work across the laboratory and the clinic
+Julia Swallowa,∗, Anne Kerrb, Choon Key Chekarc, Sarah Cunningham-Burleyd
+aCentre for Biomedicine, Self and Society, Usher Institute, Old Medical School, University of Edinburgh, Edinburgh, Scotland, EH8 9AG, UK
+bSchool of Social and Political Sciences, University of Glasgow, Glasgow, Scotland, G12 8QQ, UK
+cDivision of Health Research, Faculty of Health & Medicine, Lancaster University, Lancaster, LA1 4YG, UK
+dUsher Institute, Old Medical School, University of Edinburgh, Edinburgh, Scotland, EH8 9AG, UK
+ARTICLE INFO
+Keywords:
+UKGenomic medicineClinical trialsCancerValuation practicesBackstage labour
+CareABSTRACT
+A new generation of adaptive, multi-arm clinical trials has been developed in cancer research including those
+oﬀering experimental treatments to patients based on the genomic analysis of their cancer. Depending on the
+molecular changes found in patients ’cancer cells, it is anticipated that targeted and personalised therapies will
+be made available for those who have reached the end of standard treatment options, potentially extending
+survival time. Results from these trials are also expected to advance genomic knowledge for patients in the
+future. Drawing on data from a qualitative study of one such trial in the UK, comprising observations of out-patient clinic appointments, out-patient biopsy procedures, laboratory work, and interviews with practitioners,
+this paper explores how the clinical and research value of one such trial was accomplished in everyday practice
+by focussing on the work of clinical trials and laboratory sta ﬀacross recruitment, laboratory analysis, and results
+management. In the face of numerous potential set-backs, disappointments and failure, we explore how prac-
+titioners worked to balance the need to meet established measures of value such as numbers of patients recruited
+into the trial, alongside cultivating the value of positive a ﬀects for patients by managing their expectations and
+emotions. This care work was performed primarily by practitioners whose roles have historically been devaluedin healthcare practice and yet, as we show, were critical to this process. We conclude by arguing that as complex
+multi-arm adaptive trials become more commonplace, we need to attend to, and render visible, the dynamic and
+care-full valuation practices of backstage practitioners through which experimental biomedicine is accom-plished, and in doing so show that care both achieves clinical and research value, and is also a series of practices
+and processes that tends to tissue, patients and sta ﬀin the context of ever-present possibility of failure.
+1. Introduction
+Scienti ﬁc advances in cancer research have led to techniques for
+understanding the molecular pro ﬁle of cancer tumours and subse-
+quently the development of targeted therapies and treatments.
+Randomised control trials, the ‘gold standard ’of evidence-based med-
+icine (see Cartwright, 2007 ), have been superseded by what Keating
+and Cambrosio (2011) describe as a ‘new style of practice ’in medical
+oncology, which is based on large scale, multi-sited trials to developtargeted therapies for subtypes of cancers based on genomic pro ﬁling
+(See also Berry, 2015; Shojaee and Nana-Sinkam, 2017 ). Umbrella
+adaptive multi-arm trials are currently being developed and trialled in
+the UK for some cancer types. An umbrella trial stratiﬁ es patients with
+the same type of cancer to di ﬀerent treatment arms based on themolecular pro ﬁle of their tumour. A multi-arm trial involves testing
+several di ﬀerent treatments at once. If a particular drug is not proving
+eﬃcacious the trial arm can be closed and new treatment arms brought
+in (see Medical Research Council, 2014 ;West, 2017 ). The clinical value
+of these large-scale, adaptive trials for patients is that, depending on the
+molecular changes found in patients' cancer cells, targeted and perso-
+nalised therapies may become available at di ﬀerent points on the
+treatment pathway and not only when they have reached the end ofstandard treatment options, potentially extending survival time. The
+purported research value of these trials is that they will advance
+genomic knowledge for patients in the future.
+Accomplishing these trials alongside routine diagnostic work can,
+however, be di ﬃcult: trial protocols for tissue collection and analysis
+are complex and continually subject to revision, it is critical that tissue
+https://doi.org/10.1016/j.socscimed.2020.112949
+Received 5 October 2018; Received in revised form 16 March 2020; Accepted 19 March 2020∗Corresponding author.
+E-mail addresses: julia.swallow@ed.ac.uk (J. Swallow), Anne.Kerr@glasgow.ac.uk (A. Kerr), c.chekar@lancaster.ac.uk (C.K. Chekar),
+sarah.c.burley@ed.ac.uk (S. Cunningham-Burley).Social Science & Medicine 252 (2020) 112949
+Available online 24 March 2020
+0277-9536/ © 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license 
+(http://creativecommons.org/licenses/BY/4.0/).
+T
+is obtained and analysed in a timely manner, and molecular pro ﬁling
+relies on obtaining tissue of su ﬃcient quantity and quality for analysis,
+which is di ﬃcult given that this often involves invasive needle biopsy
+procedures ( Hiley et al., 2016 ). These procedures are not without risk
+for patients and the subsequent samples obtained are not always of the
+quality or quantity necessary for molecular testing ( Hiley et al., 2016 ).
+The rate of progression of lung cancer and the fact that patients oftenpresent when the cancer is advanced also means that this patient po-
+pulation is often very unwell, thus limiting their eligibility for trial
+participation. Eligibility criteria for the screening study and subsequent
+trial include patients who have been diagnosed with Stage 3 or Stage 4
+non-small cell lung cancer and with low Performance Status (a measure
+used to quantify cancer patients' well-being and activities of daily
+living), which can also be a barrier to recruiting patients.
+In this paper, we focus on one such large-scale trial for patients with
+advanced non-small cell lung cancer that is currently being conducted
+in the UK. Contributing to Science and Technology Studies (STS) and
+sociology of medicine literatures on valuation practices and care work
+in experimental biomedicine, we trace how a complex trial was ac-
+complished in everyday practice by focussing on the work of clinical
+trials sta ﬀand laboratory sta ﬀ. We explore how clinical and research
+value was cultivated, investigating the kinds of work that this involvedacross recruitment, laboratory work, and managing results (including
+their absence) in the context of potential setbacks and failure. In doing
+so, we focus on ‘valuing ’as a prominent series of activities (see
+Dussauge et al., 2015 ;Heuts and Mol, 2013 ) in experimental biome-
+dicine; expanding the deﬁ nition of ‘valuing ’, which is predominantly
+used in the economic sense to denote monetary worth (see Graeber,
+2002 ), to include other bene ﬁts of participation valued by patients and
+professionals, especially positive emotions produced by the work ofcare-workers such as clinical trials sta ﬀ(Allen, 2014; Tronto, 1994 ).
+The value of the trial was not solely a matter of meeting establishedmetrics of clinical and research value (patient recruitment, retention,sample viability, progression-free survival), but also about successful
+management of advanced cancer patients' expectations and emotions
+(Heuts and Mol, 2013 ).
+1.1. Promissory rhetorics, valuation practices and care work
+The‘genomic turn’ in cancer clinical trials ( Nelson et al., 2014 ) has
+primarily been studied by sociologists interested in epistemic and in-stitutional developments in biomedicine and technoscience (see
+Cambrosio et al., 2017 ;Keating and Cambrosio, 2011; Kohli-Laven
+et al., 2011 ), with only a few studies exploring practitioners' and pa-
+tients' embodied experiences of trial participation (see for example,
+Brown and de Gra ﬀ, 2015). Whilst scholars such as Keating and
+Cambrosio (2011) have explored the continually shifting organisational
+and institutional practices and procedures which render large-scale
+research workable, less attention has been given to the everyday
+practices involved in trial work ( Dussauge
+ et al., 2015; Helgesson and
+Krafve, 2015 ;Heuts and Mol, 2013).
+Experimental large-scale research such as adaptive multi-arm trials
+promise more precise, personalised treatments and extended survival
+for cancer patients both now and in the future. Scholars in the ﬁeld of
+the sociology of expectations ( Borup et al., 2006; Brown, 2015) argue
+that promissory rhetorics perform particular values or ‘worths ’culti-
+vating speci ﬁc‘matters of concern ’(see Dussauge et al., 2015; Latour,
+2004 ). This is part of the wider bioeconomy of promissory capitalism,
+where disease-free futures are continually re-envisaged (see Cooper,
+2008 ;Michael, 2000 ) and where expectations about personal and col-
+lective futures feature prominently (see Del Vecchio Good et al., 1990;
+Haase et al., 2015; Novas, 2006). As Brown and de Gra ﬀ(2015) de-
+monstrated in their analysis of the lived experiences of advanced cancer
+patients involved in phase II and phase III randomised control trials,
+however, both hope and despair are key to trial arrangements in
+practice (see also Cooper, 2008; Cooper and Waldby, 2014; Will andMoreira, 2010). Negotiating the promissory rhetorics of contemporarybiomedicine in practice therefore involves the cultivation of low ex-
+pectations as well as hope ( Gardner et al., 2015 ).
+Contributing to discussions concerning promissory rhetorics and the
+wider bioeconomy of biomedical innovation, sociology and anthro-
+pology literatures have shown the way in which materials (tissue and
+other objects) at the centre of biomedicine become conduits for value as
+meanings are inscribed in their forms, their uses, their trajectories'(Appadurai, 1986 : 5). As Street (2016 : 956) argues, precious tissue,
+scienti ﬁc, medical and patient labour, and technologies are part of re-
+gimes of ‘relational, epistemic and economic value ’(see also Kelly and
+Geissler, 2013; Rajan, 2006; Waldby and Mitchell, 2006 ). Vital biolo-
+gical materials like stem cells and embryos have been shown to acquire
+‘biovalue’ in the ﬁeld of regenerative medicine in particular (see for
+instance, Gardner
+ and Webster, 2017 ;Hauskeller and Beltrame, 2016;
+Lee, 2016 ;Mitchell and Waldby, 2010; Tupasela, 2006 ;Waldby, 2002).
+Vermeulen et al. (2011) have also shown how other tissues rendered
+alien or waste for patients –tumours for example –can be reconstituted
+as valuable scienti ﬁc resources in the bioeconomy (see also Street,
+2016 ). Across these literatures, value is primarily framed in economic
+terms: materials become conduits for value and contribute to the widerbioeconomy of experimental medicine.
+In this paper, we extend discussions concerning the value of ex-
+perimental biomedicine by attending to the everyday practices through
+which a complex genomic based trial was accomplished. We ask, ‘what
+comes to count as valuable, desirable, or otherwise worth caring for ’
+(Dussauge et al., 2015: 10) and who was involved in this work? In doing
+so, we situate our analysis within the interdisciplinary study of valua-tion practices, which focuses on the enactment of value through socio-
+technical assemblages (see Dussauge et al., 2015 ).‘Valuing ’is a set of
+activities and practices to render something ‘good ’or‘successful ’
+(Dussauge et al., 2015 ;Heuts and Mol, 2013 ). As Heuts and Mol (2013)
+show in their analysis of what encompasses a ‘good ’tomato, various
+activities are employed to make tomatoes ‘good ’and yet despite these
+eﬀorts, ‘success can never be guaranteed ’(p.125). In this paper, we
+explore how value from this genomic based trial was cultivated amidstnumerous challenges associated with its implementation, focussing on
+‘sustained and respectful tinkering towards improvement ’(Heuts and
+Mol, 2013: 125) and on-going care work ( Puig de la Bellacasa, 2017 ).
+Following Puig de la Bellacasa (2015) , we investigate care as a
+‘material vital doing ’and an ‘aﬀective state ’and pay attention to ‘dis-
+comfort,
+unease, and trouble in matters of care ’(Murphy, 2015: 721),
+including the uncertainties, anxieties and disappointments of partici-pation ( Puig de la Bellacasa, 2017 : 42). We consider how patients'
+hopes and expectations were managed alongside the tissue (the gate-keeper to the trial) via ‘care from many di ﬀerent bodies to “realize ”
+what is assumed to be their vital potential ’(Lee, 2016 : 460).
+In focussing on valuation and care, we render visible the work of
+clinical trials sta ﬀand laboratory practitioners whose roles have his-
+torically been devalued in healthcare practice and biomedical research.
+We trace the embodied and a ﬀective practices through which care was
+performed in the laboratory (see Kerr and Garforth, 2015 ;Myers, 2008;
+Star, 2007; Star and Strauss, 1999 ) and the clinic (see Allen and
+Hughes, 2017; 2014 ), including the backstage practices of practitioners
+acting as ‘intermediaries between the bedside and the laboratory ’
+(Bourret et al., 2011: 817). Our focus is on how these labours became
+‘generative doings ’in the accomplishment of experimental biomedicine
+and in negotiating the complexities provoked by these large-scalegenomic based trials ( Puig de la Bellacasa, 2017: 54).
+2. Methods
+This article is based on a qualitative study of a screening study and
+subsequent umbrella adaptive multi-arm clinical trial in the UK. The
+trial was multi-sited but the ﬁeldwork we draw on here was conducted
+in one of the participating institutions as part a wider programme ofJ. Swallow, et al. Social Science & Medicine 252 (2020) 112949
+2
+Wellcome Trust funded research exploring experiences of genomic
+techniques and tests within oncology research and practice
+(Translations and Transformations in Patienthood: Cancer in the post-
+genomics era). The trial we followed was part of a national project
+aiming to advance treatment for people with lung cancer, funded by a
+research charity in collaboration with industry partners. The aim of the
+trial was to determine the bene ﬁt of treatments for individual patients
+based on the genomic pro ﬁle of their cancer tumour and to assess
+changes in circulating DNA in the patient's blood to identify drug re-
+sistance. The protocol involved a screening study which determined
+eligibility to be part of the trial. At this stage, patients gave their con-
+sent for surplus tissue from routine biopsies to be analysed using next-
+generation sequencing technology; their results determined their elig-
+ibility for entry into the adaptive trial. If patients consented to the
+screening element of the study, the histopathologists in the histology
+laboratory prepared the surplus tissue from routine biopsies for DNA
+extraction in cytogenetic laboratories, which included marking which
+part of the sample to carry out the extraction. This required histo-
+pathologists to negotiate routine diagnostic work with clinical trial
+work which could be di ﬃcult given that diagnostic work takes pre-
+cedence in these laboratories. The samples were then sent to anotherinstitution for analysis and if a full successful genetic panel was re-
+turned then patients were asked to consent to be entered into the multi-
+arm trial. Entry into the trial required patients to consent to a further
+separate biopsy procedure and the tissue was then prepared in histo-
+pathology, DNA extracted in the cytogenetics laboratories, and then
+further analysed using next generation sequencing at a separate in-
+stitution to direct entry into one of the trial treatment arms.
+Consultant oncologists introduced the screening element of the
+study to patients and the senior clinical trials assistant was responsible
+for recruiting patients and seeking consent. If patients were eligible for
+the multi-arm trial following analysis of the screening study samples,
+then consultants approached patients about the trial and both the re-search nurses, and the senior clinical trials assistants, were responsible
+for recruiting eligible patients to the trial. These practitioners were
+involved in organising the re-biopsy procedures, the tracking of the
+samples, and in liaising directly with the laboratories and separate in-
+stitution. They were also the ﬁrst point of contact for patients on the
+treatment arms and were heavily involved in their care throughouttheir time on the trial.
+Fieldwork was conducted over a one-year period between 2017 and
+2018 and included 27 observations of specialist multi-disciplinary team
+(MDT) meetings, out-patient clinic consultations, biopsy procedures,
+and cytogenetic and histopathology laboratories where the samples
+were analysed and processed. Seventeen observations of clinical con-
+sultations were carried out to explore how patients were recruited to
+the screening study, the results of which determined eligibility to the
+trial. We also observed two biopsy procedures and three specialist MDT
+meetings to explore how eligibility to the trial was negotiated. Five
+observations were carried out in the cytogenetics laboratories to ex-
+amine how both the samples from the screening element of the study as
+well as the samples from the biopsy for entry into the trial were ana-
+lysed and DNA extracted. Observations were recorded in handwritten
+notes which were typed up and shared with the project team.
+In-depth interviews were also conducted with health care practi-
+tioners involved with the screening study and trial, including four
+consultant oncologists, two pathologists, one clinical trials assistant and
+two research nurses to gather a wide range of perspectives and ex-
+periences of the trial, and to capture the di ﬀerent epistemic cultures
+which made up the screening and trial team. We were unable to in-terview the cytogeneticist involved in DNA extraction due to the fact
+that they moved to a di ﬀerent laboratory at another institution during
+theﬁeldwork. One interview was carried out with each practitioner and
+during the interviews, we focussed on their views on the screening
+study and trial and its challenges, which included accessing, analysing
+and processing samples, and discussing the research and results ofgenomic analysis with patients. Interviews were audio-recorded and
+transcribed verbatim. We adopted a situational analysis approach to
+analyse interview transcripts and ﬁeldnotes thematically, dealing with
+data manually to avoid becoming overwhelmed by quantity and scope(see Clarke et al., 2016 ). The research project was approved by the
+relevant NHS Research Ethics Committee [REC number: 16/YH/0229].
+The complex design of the adaptive trial was a key challenge for
+practitioners and included continual negotiation of complicated pro-tocols, e ﬀorts to ensure the sampling and analysis of tissue occurred in a
+timely manner (tissue had to be provided to another institution foranalysis in a speci ﬁc timeframe and in a particular format), and nego-
+tiation of the di ﬃculties associated with obtaining the tissue which was
+not straightforward, especially when it involved needle biopsies.
+Practitioners'
+handling of these issues was further complicated by or-
+ganisational challenges, including sta ﬀshortages. The above factors
+contributed to the institution's low rates of recruitment to this trial in
+comparison to some other centres, yet there was a prevailing sense of
+the need to manage these di ﬃculties in order to make the trial a ‘suc-
+cess’.
+In what follows, we explore how value was realised by clinical trials
+assistants, nurses and laboratory sta ﬀ. We begin by exploring how pa-
+tients were recruited to the screening study –theﬁrst gateway to the
+trial. We analyse how the clinical trials assistant produced clinical andresearch value by meeting recruitment metrics at the same time as they
+cultivated positive a ﬀects of participation for patients in the trial by
+managing, and at times lowering, their expectations. We then go on tocapture how practitioners across the laboratory and the clinic worked
+to contain the precarity of the tissue to maximise participation in the
+trial. Activities of valuing included caring for the tissue ( Lee, 2016 )t o
+optimise its clinical and research value, and to minimise disappoint-ments for patients for whom this was their last possible chance for
+treatment. In the ﬁnal section, we explore how value to patients was
+generated despite the ever-present possibility of failure, as the trial
+created opportunities for sta ﬀto care for unwell patients by opening up
+time and space for patients to display emotions.
+Across the paper, we argue that such value was generated by care as
+a‘material vital doing ’(Puig de la Bellacasa, 2017 ) as practitioners
+acknowledged and (re)con ﬁgured patients' expectations and emotions
+in response to the challenges associated with implementing the studyand trial (c.f. Heuts and Mol, 2013 ). Negotiating patients' options and
+emotions through the study and trial process was key to the work ofpractitioners, operating alongside their e ﬀorts to meet established
+measures of value in a highly bureaucratised and complex trial. Bysurfacing these di ﬀerent ways in which the trial was rendered valuable
+for patients participating, or seeking participation, we show that va-luation practices encompass and entwine metrics, tissue and a ﬀects.
+2.1. Practices of recruitment to the screening study: managing expectations
+In this section, we explore how patients were recruited to the
+screening study by drawing predominantly on observations and con-versations with the Senior Clinical Trials Assistant (SCTA1) responsible
+for leading patient recruitment. At this stage of recruitment, patients
+diagnosed with advanced lung cancer were asked to participate in the
+study providing they met the eligibility criteria. These patients may
+have already been on treatments such as chemotherapy or radiotherapy
+or they may have already had their tumour tested separately from the
+study and prescribed treatments which target ALK or EGFR ampli ﬁca-
+tions or mutations. The study and subsequent trial provided patientswith the possibility of further treatment once the cancer had stoppedresponding to standard therapies.
+SCTA1 was responsible for patient recruitment and worked along-
+side consultant oncologists to recruit suitable patients to the screening
+study. Following routine out-patient appointments, the consultant
+brieﬂy discussed the study with patients thought to be suitable and
+directed them to SCTA1 for further information. SCTA1 spentJ. Swallow, et al. Social Science & Medicine 252 (2020) 112949
+3
+approximately 30 min with the patient and family member/accom-
+panying person talking through the study and seeking consent where
+appropriate. Meeting recruitment targets for the screening study, was a
+vital part of SCTA1's work. Prior to each clinic the practitioner screened
+the clinic lists for ‘possibilities ’(Observation 2 Out-patient Clinic)
+stressing during interview with the researcher the need to ‘keep trying ’
+despite di ﬃculties associated with recruiting unwell patients. At other
+times SCTA1 expressed concern that the ‘numbers are really bad ’
+(Observation 3 Out-patient Clinic) when it was time to submit monthly
+recruitment ﬁgures to the charity funding the screening study and trial.
+SCTA1 was therefore constantly on the lookout for patients to recruit,which included waiting around in clinic corridors to ‘catch ’patients and
+following up with, and cajoling, consultants in an e ﬀort to meet re-
+cruitment targets.
+During consultations with patients, SCTA1 also worked to under-
+play the possibility of the study delivering actionable results.
+Minimising expectations about the possibility that results from the trial
+would change treatment decisions in the short term involved framing
+the results of the genomic analysis as of potential value in the future,
+focussing on the need to not worry in the present. For example:
+SCTA1 asked if the patient had had a biopsy …and then explained
+that they require a blood sample to send o ﬀto [hospital in south of
+England] which may ‘potentially help ’with future treatment but not
+to worry about the results as it'll be a bit of time before they receive
+the results from the test.
+(Observation 4 Out-patient Clinic)
+The complexity of the process and the precious materiality of the
+tissue were further reasons for keeping patient expectations in check
+and allowing sta ﬀto take on the mantle of worry on their behalf, as
+illustrated in the extract below:
+SCTA1 explained to the patient that ‘it may take a while for the
+results to come back from the teaching hospital, we may have to run
+them more than once. We're working with tiny bits of tissue and
+“perfecting the process ”’. The family member nodded. The patient
+hadn't spoken yet. SCTA1 reassured them by saying ‘don't worry, I'll
+worry about everything for you ’.
+(Observation 9 Out-patient Clinic)
+Alongside the work of meeting recruitment targets and reducing
+participants' worries, SCTA1 also sought to ‘bracket ’patients' hope for
+success to avoid disappointment and anxiety. As SCTA1 describedduring one conversation after she had consented a patient to the study,
+‘I didn't want to get the lady's hopes up ’, a point she reiterated during
+interview when discussing recruitment,
+Yeah. I don't give them any hope. I know that sounds really hard
+actually, I try and just make them realise it's a test and we'll get it
+back and we'll cross that bridge when we get there.
+(Interview SCTA1)
+The potential for worry and concern evoked by the study results not
+coming back quickly or the tests having to be re-run was therefore
+minimised for patients and families. This required a ﬀective labour on
+the part of practitioners, who described ‘tak[ing]
+on worry ’and feeling
+‘guilty ’, as elaborated here:
+You feel guilty because you think –if I've put a patient into [the
+screening study] and I know that their results are not gonna pass, I
+feel guilty for entering them into the trial …I feel guilty on one side,
+it's kinda like the good and the evil angel but then I think well,maybe it will pass. But then when it doesn't pass it's like, oh god, just
+wasted their time and built their hopes up. And I don't wanna do
+that to patients. I wanna see those results pass but we can't do that
+unless we bring more and more patients in.(Interview SCTA1)
+Elsewhere SCTA1 also described feeling hopeful about recruitment
+of new patients as in the extract below:
+As the clinical trials assistant walked back into the room following adiscussion with the consultant about patient eligibility, she said, ‘the
+patient may be a good 2 (referring to the patient's performancestatus), I live in hope ’.
+(Observation 1 Out-patient Clinic)
+Here, we see how SCTA1's work involved carefully balancing the
+need to meet recruitment targets whilst acknowledging and attending
+to patients' expectations and potential for disappointments and failures.
+For other practitioners, this included changing how the study was ex-
+plained to patients as Consultant Oncologist 4 explained,
+We've changed how we've sold [it]. We've sold it as a screens studyrather than saying, “You might be eligible for the [trial] ”–‘cos most
+people won't be.
+(Interview Consultant Oncologist 4)
+At other times recruitment sat in tension with what practitioners
+described as patients ’best interests. This included moments where
+practitioners did notrecruit, as demonstrated during an observation
+with SCTA1:
+I hate it when people ask you why you haven't consented. I feel like
+saying, ‘you come to clinic for a day and see what it ’s like ’, you see
+the patients crying in the waiting room and with this guy, the fact hecan't even walk alone or lift his shoe o ﬀthe ground. I'm not going to
+consent just to get the statistics and I will tell people that.
+(Observation 8 Out-patient Clinic)
+As SCTA1 explained, recruitment to the study and therefore sub-
+sequent trial involved more than managing ‘statistics ’to generate po-
+tential clinical and research value via recruitment. Valuing here meant
+actively displacing recruitment in favour of caring for unwell and
+emotional patients.
+Through these activities we see valuing in recruitment work as
+multi-faceted and dynamic as practitioners sought to meet recruitment
+targets, encourage su ﬃciently positive but not excessive expectations
+amongst patients, and reduce the worry of participation. At other timespatients' health and wellbeing were prioritised over recruitment to the
+trial. Through this work, practitioners cultivated value from the trial,
+trying to make it a ‘success ’for individual participants and future pa-
+tients, all the while managing the potential for failure. As we now go onto discuss, these activities were closely connected to deriving value
+from the tissue, which was used to direct entry into the trial.
+2.2. Handling tissue across the laboratory and the clinic: containing
+precarity
+Trials depend on tissue being obtained and analysed in a timely way
+given that tissue can degrade over time and become unsuitable forgenetic testing ( Hiley et al., 2016). This becomes even more important
+in trials with very unwell patients who are running out of time andavailable treatment options.
+Participation in the trial we studied was highly dependent on tissue
+passing quality checks and on successful extraction and sequencing of
+DNA.
+To maximise the value of the trial for prospective participants and
+future patients more generally, practitioners sought to improve the
+likelihood of successful entry to the trial by caring for the tissue in order
+to maintain its viability. This happened during laboratory analysis and
+DNA extraction of the samples for the screening study and multi-arm
+trial, the biopsy procedures for entry to the multi-arm trial, and sub-
+sequent laboratory work to prepare the samples to be sent to a separate
+institution for further analysis. In these contexts, the tissue emergedJ. Swallow, et al. Social Science & Medicine 252 (2020) 112949
+4
+‘not as a waste product, evacuated from the body, nor simply as a
+biological resource …but as a product of care ’(Lee, 2016: 458), where
+staﬀwere ‘taking care of [its] potentials and promises anchored to
+them ’(Lee, 2016 :ibid.: 472).
+The following extract is taken from an observation with a cyto-
+geneticist carrying out the initial DNA extraction on a patient's tissue
+sample for the screening element of the study. Provided there was
+adequate DNA for extraction, the sample would be sent for genomic
+analysis and the subsequent results could direct involvement in the
+multi-arm trial. The cytogeneticist described the complexities of sample
+size and quality in relation to the hopes and expectations for the study:
+Before the practitioner began the scraping process, I asked howimportant it was for the sample to be of good quality (and what this
+constitutes) before it reaches cytogenetics. The geneticist responded,
+‘oh very important but it's di ﬃcult as some of the samples are so
+small’ . At this, the geneticist pointed to one of the patient's samples
+(no bigger than 5mm in diameter) and said ‘you know that's a very
+small sample that I don't think we'll get a lot of DNA from but we'll
+try, it's always worth a try. You can just tell by looking at some.
+What is dispiriting is when it completely fails and this happens a lot
+with [this study] –we want to do all we can but it's di ﬃcult.
+…the time frame from consent to when the samples get sent to the
+other institution …can be di ﬃcult for the patient –‘they may die in
+this time, turnaround in the other institution can be 21 days. Forthese patients this is often their last chance ’.
+(Observation 1 DNA extraction for the screening study in a cyto-
+genetic lab)
+Here, the scientist tried to extract DNA to give patients a chance,
+trying to overcome the di ﬃculties of small samples and minimise de-
+lays. Other cytogeneticists noted the urgency of analysis and kept pa-tients in mind through their work. For example, one commented: ‘be-
+cause it's for a trial I don't like to leave it hanging around in the system ’
+(Observation 1 DNA extraction for the adaptive trial in a cytogeneticlab) and others spoke about the need to speed up the process, to handle
+samples in a timely manner because of the precarious position of pa-
+tients. The tissue subsequently emerged as a proxy patient, to be cared
+for in the best way possible, and to secure its position as gatekeeper to
+the trial as it moved between the clinic and the laboratory.
+The team associated with collecting and sending the tissue to the
+laboratory also focused on trying to keep the patient in mind in the
+laboratory, as Research Nurse 1 explained during interview:
+The bit that was left here went to cytology, they couldn't completethe [molecular pro ﬁling] test [related to access to targeted thera-
+pies] because they didn't have enough of it, it was exhausted, it wasinsuﬃcient. So we'd sent it o ﬀto the trials o ﬃce for [biomarker]
+testing [related to immunotherapy], they did the [biomarker]testing, then they did the [molecular pro ﬁling] testing as well …I've
+asked for it, the block to be sent back for [the screening study], but
+didn't realise that they've actually taken another sixteen slices o ﬀit,
+so
+there's a little tiny bit left, so we've just asked [name of pathol-
+ogist] to see if there's enough in there to send o ﬀfor [the screening
+study]. The reason I've done this is because I know this patient'sstarted to progress. So I've got to be thinking all the time, well what's
+the next step…
+(Interview Research Nurse 1)
+In this account, the nurse sought to keep track of and stave o ﬀthe
+deterioration of patients and of tissue, keeping a sense of what was
+possible and how tissue and patients changed over time; balancing
+competing priorities and opportunities. This involved negotiations with
+oncologists, other nurses, pathologists and scientists to try to maximise
+the quality of the tissue to ensure it did not become ‘exhausted ’by
+routine diagnostic work as well as other kinds of analysis outside of thisstudy/trial. This was especially important for patients who had dete-riorated and were no longer responding to standard treatment: practi-
+tioners had to capture the tumour in the right ‘state ’of mutation,
+somewhere between the disease progressing too little (when respondingto treatment) and too much (when the patient becomes too unwell to
+proceed with another biopsy), described by Consultant Oncologist 7 as
+‘sequential management ’.
+We also found that nurses were particularly involved in maintaining
+or valuing patients ’interests via e ﬀorts to ensure appropriate and
+timely preparation and analysis of tissue in histology labs, as SCTA1described:
+It takes absolutely forever for a sample to get cut …the histology
+departments don't see it as an urgent type of thing. There needs to be
+a lot of education going into histology and why we are asking for
+these samples to be cut, and what those samples actually mean to
+that patient. That is huge because I think sometimes they just end up
+at the bottom of the pile and …they just add more and more and
+more on top …And why do I have to prod them [scientists] to do it?
+I shouldn't have to do any of that.
+(Interview SCTA1)
+In this excerpt, SCTA1 frames her role as the guardian of patients'
+interests via the careful stewardship of tissue, freighting it with
+meaning and urgency for patients and worrying that this may not be a
+priority in the histology laboratory where diagnostic work takes pre-
+cedence. Her concern was to remain attentive to and negotiate the
+competing priorities of histology laboratories and cytogenetic labora-
+tories. This meant that SCTA1 was sometimes present in the biopsy
+procedure for the multi-arm trial to ‘pass over ’tissue to the histology
+lab and keep close to the patient to ensure the tissue did not get ‘lost’as
+below:
+As we left the consultation room the practitioner handed me the
+sample explaining that she needed to message the pathologist
+leading the trial to inform them it would be heading to the lab for
+analysis –‘covering my back after the last sample was lost ’. On ar-
+rival at the lab, SCTA1 whispered to me as we waited for the pa-thologist to arrive, ‘this is where it all goes wrong. ’I responded and
+asked if she worries about what will happen to the sample and sheexplained that she feels responsible as she doesn't trust that it will
+reach the right person or be analysed in time for the DNA quality to
+remain intact …‘got to hope it's handled in a timely way ’.
+(Observation 1 Adaptive Multi-arm Trial Biopsy)
+In this discussion, there is a sense of the patient as an absent yet
+vital
+party, and the practitioner as an advocate on their behalf. Other
+similar kinds of ad hoc work to ensure the tissue was ready for analysisincluded nurses prompting doctors to write onto vials and forms where
+vials were marked as ‘urgent ’for analysis –‘this wouldn't harm the
+process if it is fast tracked ’(Observation 2 Adaptive Trial Biopsy). The
+diagnostic work in histology laboratories however took precedence
+over clinical trial work, requiring research nurses and clinical trials sta ﬀ
+to work closely with sta ﬀin these labs to emphasise the importance of
+timely analysis, minimise the likelihood of failure, and draw their at-
+tention to the patient waiting on the results.
+These multiple activities of valuing involved caring for the tissue
+alongside managing patients' expectations: negotiating competing
+priorities and opportunities to improve patients ’health and wellbeing,
+including choreographing re-biopsy procedures for possible entry intothe trial. Tinkering towards improvement and cultivating the possibility
+of success involved valuation practices across laboratory and clinical
+settings where the possibility of failure was ever-present.
+In the ﬁnal section, we look more closely at how the prospects and
+realities of failure were managed, including by the cultivation of other
+kinds of value for patients and practitioners. We focus in particular on
+practitioners' framing of participation as a valuable opportunity to doJ. Swallow, et al. Social Science & Medicine 252 (2020) 112949
+5
+emotional work to support patients and manage their own feelings of
+guilt and disappointment. These kinds of ‘material vital doing(s) ’(Puig
+de la Bellacasa, 2017) were backstage but a key aspect of the valuationpractices of the trial.
+2.3. Managing results and their absence
+Feminist approaches to care demonstrate how this kind of work is
+often devalued as ‘unproductive ’(Adam, 2004 : 127) but remains vital
+to social life. As we show in the following section, caring for patients
+did not always generate value in the form of recruitment to trials or
+eﬀective treatments, but it was critical to making the prospects or
+realities of potential failure more bearable by generating other kinds ofpositive a ﬀects for practitioners and patients.
+For those patients who ‘pin their hopes on the test’ (Observation 4
+Lung cancer clinic), as a way to access novel experimental treatments,
+practitioners carefully crafted both time and space to respond to their
+concerns, potential anxieties and disappointments, and in so doing at-
+tended to the work of ‘discomfort, unease, and trouble in matters of
+care’(Murphy, 2015: 721). The following extract from an interview
+with Research Nurse 1 highlights the lengths to which practitioners
+could go to try to get patients onto an arm of the adaptive trial.
+We've recently had a patient who has been waiting and waiting and
+waiting and to be fair the [other institution] have been really, really
+amazing and they've tried everything to get a result; not to manip-
+ulate the result but to try and get a genetic result for this patient,
+and unfortunately the patient didn't have enough deletions in the
+gene. They only had one deletion, they needed two deletions, so
+ultimately the patient wasn't eligible to go into that arm of trial and
+it's just absolutely heartrending really sometimes, because you know
+that these patients are at the end of a very long journey and this was
+the only beacon of hope for them, and they come back as not
+compatible to an arm of the trial. So it is very hard.
+(Interview Research Nurse 1)
+The research nurse outlined the work involved in trying to make the
+trial a success for the patient across institutional settings, holding on to
+the hope of success, however limited, in the context of failure. This
+prevailing sense of hope was attached to what SCTA1 described as
+searching for the ‘unicorns ’who would respond well to treatment,
+And that I think is kind of what keeps us going, is that maybe there
+could be more unicorns.
+(Interview SCTA1)
+When faced with patients being unable to enter the trial, practi-
+tioners also spoke of the importance of carrying out the emotional work
+of trying to make the best out of failure by making time for patients and
+listening to their concerns, as SCTA1 explained,
+I just let them talk, yeah …I just let them talk about what –whatever
+they want really and just listen …most of the time they just really
+want somebody to listen to them.
+(Interview SCTA1)
+However, carefully navigating potential failure meant practitioners
+navigating disappointments and their own ‘guilt ’at being unable to
+deliver a positive result for entry into the trial, which at times meant
+caring from a distance as discussed below:
+Research Nurse 1 told me about a patient who keeps ringing at leasttwice a day to ask where their results are –she keeps having to tell
+the patient that they don't have results to feedback as the test hasfailed …we discussed the fact that this makes conversations with
+patients very hard …Research
+ nurse 1 then told SCTA1 about the
+patient who keeps ringing ‘I don't know what to do ’(SCTA1). At this
+point SCTA1 quickly scans the appointment sheet in front of themand realises that this lady is in clinic. The trials assistant remarks onhow ‘guilty ’she feels not being able to give a positive result (no
+result despite re-biopsying) and that if she came across the patientagain, she ‘wouldn't know what to say ’;‘it's hard for me, never mind
+the patient ’. SCTA1 describes the e ﬀort she goes to, to avoid the lady
+in clinic including walking around the perimeter of the clinic rather
+than through the waiting room which is exactly what we did when
+we left.
+(Observation 1 Out-patient Clinic)
+Whilst avoidance has the potential to be seen as ‘careless ’(Mol
+et al., 2010) we argue that the avoidance described above is in fact
+emblematic of practitioners' work to protect and care for patients,
+which at times meant not being in touch. Practitioners had to carefully
+navigate when or if to engage with patient concerns to protect both
+themselves and patients from negative emotions. In so doing, they
+maintained a sense of the trial being valuable despite delays and anxi-
+eties. Research nurses were key to this work, as discussed during aninterview with Consultant Oncologist 7:
+It's hard for everybody.And as you say, probably me as a clinician
+will get less.They'll listen to me but then they'll agonise over it and
+ring the research nurses and say, “Well, what happened? ”because
+they feel that they can do that with the research nurses …research
+nurses spend a long time with them.
+(Interview Consultant Oncologist 7)
+As this practitioner described, this kind of care o ﬀered reassurance
+and a sense of being cared about for patients and relatives even if they
+were not able to participate in the trial. As Consultant Oncologist 7 and
+SCTA1 explained, coordinating time and listening to patients during,
+before, and after appointments where results or participation were not
+promising, was another valuation practice which was revealed as cri-
+tical to the accomplishment of the trial.
+Across these caring activities, we can see e ﬀorts to derive value for
+patients from their engagement with the trial, even when they were not
+able to proceed onto an adaptive trial arm. This included engagement
+with patients' desire for progress in and beyond clinic appointments,
+listening to patients' concerns and anxieties, as well as practitioners ’
+management of their own emotions of frustration and disappointment.It also involved maintaining a sense of the value of the trial by at times
+avoiding engaging with the anxieties of patients. What was at stake
+(Dussauge et al., 2015) shifted as attending to a ﬀect and emotion was at
+times privileged and other times superseded by the epistemic and or-ganisational workings of a bureaucratic large-scale research endeavour.
+3. Discussion
+The purpose of this paper has been to investigate how the value of
+an experimental genomic based trial was cultivated in conditions of
+complexity and ever-present possibility of failure. Whilst there is an
+increasing body of literature exploring the institutional and organisa-
+tional procedures through which large-scale genomic based research is
+accomplished, less attention has been given to the everyday practices
+involved in trial work, particularly the backstage practices of those
+involved in recruitment and laboratory work. In addressing this gap, we
+have begun to consider how achieving value by meeting recruitment
+targets or rates of sample viability sat alongside the cultivation of other
+kinds of value to patients and participants that were not quanti ﬁed and
+thereby formally recognised as important to making a success of these
+kinds
+of trials.
+We have captured how e ﬀorts to meet established measures of
+clinical and research value sat alongside other kinds of e ﬀorts to gen-
+erate positive a ﬀects from the trial for patients by managing their ex-
+pectations and emotions in the context of setbacks and ever-present
+possibility of failure. We have shown how these valuation practicesJ. Swallow, et al. Social Science & Medicine 252 (2020) 112949
+6
+could coalesce but also work in tension. They involved emotions, bu-
+reaucratic processes and lively and precarious tissue, encompassing
+care as both a ‘material vital doing ’and an ‘aﬀective state ’(Puig de la
+Bellacasa, 2017 ). Another key theme in our analysis of these valuation
+practices are their dynamic nature, encompassing processes of tinkering
+towards improvement when success could not be guaranteed ( Heuts
+and Mol, 2013). We have also shown that much of this work was or-dinary but nevertheless vital. It involved nurses speaking to patients on
+the phone between appointments, following up on the location of
+samples and progress of analysis, corridor talk with fellow professionals
+expressing frustrations and concerns, and avoidance. Laboratory prac-
+titioners were also involved in the work of looking after the tissue and
+trying to achieve trial entry on their behalf.
+In tracing such activities of valuing, we have situated our analysis
+within wider STS and sociology of medicine literatures on value prac-
+tices and care work, mapping the trial from initial recruitment via the
+screening study, to DNA extraction and analysis of tissue, to manage-
+ment of results (and their absence). Across the paper, we showed the
+coordinative practices through which value was cultivated and in doing
+so extended deﬁ nitions of ‘valuing ’beyond notions of economic worth,
+which dominate literatures on experimental biomedicine ( Helgesson
+and Krafve, 2015 ).
+In the ﬁrst section of the analysis, we demonstrated the work in-
+volved in recruiting patients to the screening element of the study
+where practitioners downplayed the idea that the study and trial would
+be immediately bene ﬁcial for patients during the consent process: an-
+ticipating future failure. Minimising or (re)calibrating patients' ex-pectations in an e ﬀort to avoid disappointment cultivated positive af-
+fects amongst patients, sometimes working alongside e ﬀorts to increase
+recruitment ﬁgures whilst at other times superseding such e ﬀorts. In the
+second section of the analysis, we demonstrated the way in which re-search nurses, clinical trials assistants and cytogeneticists took care of
+the precarious and yet precious tissue, which was key actant or gate-keeper for entry into the trial. Generating and maintaining the value of
+the tissue included a variety of backstage practices on the part of these
+practitioners which at times included stewarding, labelling, and pro-
+tecting tissue from exhaustion as it moved between di ﬀerent tests, de-
+partments and institutions in an e ﬀort to contain its precarity and
+maximise success. Practitioners worked to cultivate the tissue as vital
+material and in doing so secure its clinical and research value. We
+suggested that the tissue also emerged as a kind of ‘proxy-patient ’(cf.
+Parry, 2018) to be cared for in order to cultivate clinical and researchvalue as well as patients' emotions, o ﬀsetting and minimising potential
+disappointments and setbacks for patients waiting on the possibility oftreatment. In the third section of analysis, we drew further attention to
+the work of attending to a ﬀects and emotions when entry to the trial
+was foreclosed. We focused in particular on e ﬀorts to manage the ab-
+sence of positive laboratory results, exploring how practitioners dealt
+with uncertainties and anxieties when success could not be guaranteed,
+variously trying to maintain positivity, a sense of the value of the trial,
+and to o ﬀer comfort to some patients, whilst caring at a distance for
+others ( Heuts
+ and Mol, 2013).
+Across the paper, we have shown that generating and cultivating
+value was more than a matter of the overall success of recruitment andpatient entry into the trial, but of cultivating positive a ﬀects amongst
+patients and at times practitioners through sometimes quite ordinarykinds of care work. As Lopez Gil (2007) argues, care as a series of
+material and a ﬀective tasks often makes them di ﬃcult to value but, as
+we demonstrated in this paper, the work of maintaining, repairing or
+tinkering was critical to making the trial bearable for patients in the
+advanced stages of cancer who were facing numerous setbacks.
+As multi-arm adaptive trials become more commonplace, we need
+to attend to the dynamic and care-full valuation practices of backstage
+practitioners which are critical to accomplishing experimental biome-
+dicine and accounting for the ever-present possibilities of failure. In
+rendering this work visible, we have begun to unsettle and disrupt‘sedimented arrangements of valuation and devaluation ’(Murphy,
+2015 : 722) to capture how care is both a way of achieving clinical and
+research value, and a series of practices and processes that tends to
+tissues, patients and sta ﬀwhich come to be valued in their own right.
+Author contribution
+All authors were involved in conceiving, researching and editing
+this paper and Swallow and Kerr wrote the paper.
+Acknowledgements
+This article is based on research funded by the Wellcome Trust
+(Collaborative Senior Investigator Award in Society and Ethics across
+University of Leeds and University of Edinburgh, grant reference:
+104831/Z/14/Z). We are extremely grateful to all the participants who
+agreed to take part in the research and we would also like to thank
+colleagues at the University of Leeds for reading and commenting on
+early drafts of the article.
+References
+Adam, B., 2004. Time. Polity Press, Cambridge.
+Allen, D., 2014. The Invisible Work of Nurses: Hospitals, Organisation and Healthcare.
+Routledge, London .
+Allen, D., Hughes, D., 2017. Nursing and the Division of Labour in Healthcare. Macmillan
+International Higher Education, London .
+Appadurai, A., 1986. Introduction: commodities and the politics of value. In: Appadurai,
+A. (Ed.), The Social Life of Things: Commodities in Cultural Perspective. Cambridge
+University Press, Cambridge, pp. 3 –63.
+Berry, D.A., 2015. The Brave New World of clinical cancer research: adaptive bio-
+marker ‐driven trials integrating clinical practice with clinical research. Molecular
+oncology 9, 951 –959.
+Borup, M., Brown, N., Konrad, K., Van Lente, H., 2006. The sociology of expectations in
+science and technology. Technol. Anal. Strat. Manag. 18, 285 –298.
+Bourret, P., Keating, P., Cambrosio, A., 2011. Regulating diagnosis in post-genomic
+medicine: Re-aligning clinical judgment? Soc. Sci. Med. 73, 816 –824.
+Brown, N., 2015. Metrics of hope: disciplining a ﬀect in oncology. Health 19, 119 –136.
+Brown, P., De Graaf, S., Hillen, M., 2015. The inherent tensions and ambiguities of hope:
+towards a post-formal analysis of experiences of advanced-cancer patients. Health 19,
+207–225.
+Cambrosio, A., Bourret, P., Keating, P., Nelson, N., 2017. Opening the regulatory black
+box of clinical cancer research: transnational expertise networks and “disruptive ”
+technologies. Minerva 55, 161 –185.
+Cartwright, N., 2007. Are RCTs the gold standard? BioSocieties 2, 11 –20.
+Clarke, A.E., Friese, C., Washburn, R., 2016. Situational Analysis in Practice: Mapping
+Research with Grounded Theory. Routledge, London .
+Cooper, M., 2008. Life as Surplus. Biotechnology and Capitalism in the Neoliberal Era.
+University of Washington Press, Seattle, WA and London .
+Cooper, M., Waldby, C., 2014. Clinical Labor: Tissue Donors and Research Subjects in the
+Global Bioeconomy. Duke University Press, Durham, NC .
+Del Vecchio Good, M.-J., Good, B.J., Scha ﬀer, C., Lind, S.E., 1990. American oncology
+and the discourse on hope. Cult. Med. Psychiatr. 14, 59 –79.
+Dussauge, I., Helgesson, C.-F., Lee, F., Woolgar, S., 2015. Value Practices in the Life
+Sciences and Medicine. Oxford University Press, Oxford .
+Gardner, J., Webster, A., 2017. Accelerating innovation in the creation of biovalue: the
+cell and gene therapy catapult. Sci. Technol. Hum. Val. 42, 925 –946.
+Gardner, J., Samuel, G., Williams, C., 2015. Sociology of low expectations: recalibration
+as innovation work in biomedicine. Sci. Technol. Hum. Val. 40, 998 –1021 .
+Graeber, D., 2002. Towards an Anthropological Theory of Value: the False Coin of Our
+Own Dreams. Palgrave McMillan, London .
+Haase, R., Michie, M., Skinner, D., 2015. Flexible positions, managed hopes: the pro-
+missory bioeconomy of a whole genome sequencing cancer study. Soc. Sci. Med. 130,
+146–153.
+Hauskeller, C., Beltrame, L., 2016. Hybrid practices in cord blood banking. Rethinking the
+commodiﬁ cation of human tissues in the bioeconomy. New Genet. Soc. 35, 228 –245.
+Helgesson,
+C.-F., Krafve, J.L., 2015. Data transfer, values, and the holding together of
+clinical registry networks. In: Dussauge, I., Helgesson, C.-F., Lee, F., Woolgar, S.(Eds.), Value Practices in the Life Sciences and Medicine. Oxford University Press,
+Oxford, pp. 224 –247.
+Heuts, F., Mol, A., 2013. What is a good tomato? A case of valuing in practice. Valuation
+Studies 1, 125 –146.
+Hiley, C.T., Le Quesne, J., Santis, G., Sharpe, R., De Castro, D.G., Middleton, G., Swanton,
+C., 2016. Challenges in molecular testing in non-small-cell lung cancer patients withadvanced disease. Lancet 388, 1002 –1011 .
+Keating, P., Cambrosio, A., 2011. Cancer on Trial: Oncology as a New Style of Practice.
+University of Chicago Press, Chicago .
+Kelly, A.H., Geissler, P.W., 2013. The Value of Transnational Medical Research: Labour,
+Participation and Care. Routledge, London .J. Swallow, et al.
+Social Science & Medicine 252 (2020) 112949
+7
+Kerr, A., Garforth, L., 2015. A ﬀective practices, care and bioscience: a study of two la-
+boratories. Socio. Rev. 64 (1), 3 –20.
+Kohli-Laven, N., Bourret, P., Keating, P., Cambrosio, A., 2011. Cancer clinical trials in the
+era of genomic signatures: biomedical innovation, clinical utility, and regulatory-
+scienti ﬁc hybrids. Soc. Stud. Sci. 41, 487 –513.
+Latour, B., 2004. Why Has Critique Run Out of Steam? from Matters of Fact to Matters of
+Concern. Crit. Inq. 30 (2), 225 –248.
+Lee, J., 2016. Placental economies: care, anticipation and vital matters in the placenta
+stem cell lab in Korea. BioSocieties 11, 458 –475.
+Lopez Gil, S., 2007. Las logicas del cuidado. Diagonal 50 .
+Medical Research Council, 2014. Clinical Trials: Why Multi-Arms Are Better than Two.
+[Online]. Available from: http://www.insight.mrc.ac.uk/2014/07/25/clinical-
+trials-why-multi-arms-are-better-than-two/ , Accessed date: 30 August 2018.
+Michael, M., 2000. Futures of the present: from performativity to prehension. In: Brown,
+N., Rappert, B. (Eds.), Contested Futures: A Sociology of Prospective Techno-Science.
+Routledge, London, pp. 21 –39.
+Mitchell, R., Waldby, C., 2010. National biobanks: clinical labor, risk production, and the
+creation of biovalue. Sci. Technol. Hum. Val. 35, 330 –355.
+Mol, A., Moser, I., Pols, J., 2010. Care in Practice: on Tinkering in Clinics, Homes and
+Farms. transcript Verlag .
+Murphy, M., 2015. Unsettling care: troubling transnational itineraries of care in feminist
+health practices. Soc. Stud. Sci. 45 (5), 717 –737.
+Myers, N., 2008. Molecular embodiments and the body-work of modeling in protein
+crystallography. Soc. Stud. Sci. 38, 163 –199.
+Nelson, N.C., Keating, P., Cambrosio, A., Aguilar-Mahecha, A., Basik, M., 2014. Testing
+devices or experimental systems? Cancer clinical trials take the genomic turn. Soc.
+Sci. Med. 111, 74 –83.
+Novas, C., 2006. The political economy of hope: patients' organizations, science and
+biovalue. BioSocieties 1, 289 –305.
+Parry, B., 2018. The social life of “scaﬀolds”examining human rights in regenerativemedicine. Sci. Technol. Hum. Val. 43, 95 –120.
+Puig de la Bellacasa, M., 2015. Making time for soil: technoscienti ﬁc futurity and the pace
+of care. Soc. Stud. Sci. 45, 691 –716.
+Puig de la Bellacasa, M., 2017. Matters of Care: Speculative Ethics in More than Human
+Worlds. University of Minnesota Press, Minneapolis, MN .
+Rajan, K.S., 2006. Biocapital: the Constitution of Postgenomic Life. Duke University Press,
+Durham, NC .
+Shojaee, S., Nana-Sinkam, P., 2017. Recent advances in the management of non-small cell
+lung cancer. F1000 Research 6 .
+Star, S.L., 2007. Interview. In: Olsen, J.K.-B., Selinger, E. (Eds.), Five Questions in
+Philosophy of Technology. Automatic VIP Press, New York, pp. 223 –231.
+Star, S.L., Strauss, A., 1999. Layers of silence, arenas of voice: the ecology of visible and
+invisible work. Comput. Support. Coop. Work 8, 9 –30.
+Street,
+A., 2016. The hospital and the hospital: infrastructure, human tissue, labour and
+the scienti ﬁc production of relational value. Soc. Stud. Sci. 46, 938 –960.
+Tronto, J., 1994. Moral Boundaries: A Political Argument for an Ethic of Care. Routledge,
+London .
+Tupasela, A., 2006. Locating tissue collections in tissue economies —deriving value from
+biomedical research. New Genet. Soc. 25, 33 –49.
+Vermeulen, E., Schmidt, M.K., Cornel, M.C., Knoppers, B.M., Van Leeuwen, F.E.,
+Aaronson, N.K., 2011. Connective tissue: cancer patients' attitudes towards medicalresearch using excised (tumour) tissue. BioSocieties 6, 466 –486.
+Waldby, C., 2002. Stem cells, tissue cultures and the production of biovalue. Health 6,
+305–323.
+Waldby, C., Mitchell, R., 2006. Tissue Economies: Blood, Organs, and Cell Lines in Late
+Capitalism. Duke University Press, Durham, NC .
+West, H.J., 2017. Novel precision medicine trial designs umbrellas and baskets. JAMA
+Oncology Patient Page 3 (3), 423 .
+Will, C., Moreira, T., 2010. Medical Proofs, Social Experiments: Clinical Trials in Shifting
+Contexts. Routledge, London .J. Swallow, et al.
+Social Science & Medicine 252 (2020) 112949
+8
