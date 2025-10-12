@@ -1,0 +1,903 @@
+Article
+Rev Bras Cienc Solo 2016;40:e01504971 DOI: 10.1590/18069657rbcs20150497* Corresponding author:  
+E-mail: grasielarodrigues@gmail.com
+Received:  December 2, 2015
+Approved:  August 23, 2016
+How to cite:  Medeiros GOR, 
+Giarolla A, Sampaio G, Marinho 
+MA. Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil. Rev Bras Cienc Solo. 2016;40:e0150497.
+Copyright: This is an open-access 
+article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided that the original author and source are credited.Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+Grasiela de Oliveira Rodrigues Medeiros(1)*, Angelica Giarolla(2), Gilvan Sampaio(3) and 
+Mara de Andrade Marinho(4)
+(1) Instituto Nacional de Pesquisas Espaciais, Programa de Pós-graduação em Ciência do Sistema T errestre, 
+Centro de Ciência do Sistema T errestre, São José dos Campos, São Paulo, Brasil.
+ (2) Instituto Nacional de Pesquisas Espaciais, Centro de Ciência do Sistema T errestre, São José dos Campos, 
+São Paulo, Brasil.
+(3) Instituto Nacional de Pesquisas Espaciais, Centro de Ciência do Sistema T errestre, Cachoeira Paulista, São 
+Paulo, Brasil.
+(4) Universidade Estadual de Campinas, Faculdade de Engenharia Agrícola, Campinas, São Paulo, Brasil.
+ABSTRACT: Soil is a natural resource that has been affected by human pressures 
+beyond its renewal capacity. For this reason, large agricultural areas that were productive have been abandoned due to soil degradation, mainly caused by the erosion process. The objective of this study was to apply the Universal Soil Loss Equation to generate more recent estimates of soil loss rates for the state of São Paulo using a database with information from medium resolution (30 m). The results showed that many areas of the state have high (critical) levels of soil degradation due to the predominance of consolidated human activities, especially in growing sugarcane and pasture use. The average estimated rate of soil loss is 30 Mg ha
+-1 yr-1 and 59 % of the area of the state 
+(except for water bodies and urban areas) had estimated rates above 12 Mg ha-1 yr-1, 
+considered as the average tolerance limit in the literature. The average rates of soil loss in areas with annual agricultural crops, semi-perennial agricultural crops (sugarcane), and permanent agricultural crops were 118, 78, and 38 Mg ha
+-1 yr-1 respectively . The 
+state of São Paulo requires attention to conservation of soil resources, since most soils led to estimates beyond the tolerance limit.
+Keywords: erosion, USLE, soil conservation, GIS, geoprocessing.Division – Soil Use and Management   |  Commission – Soil and Water Management and Conservation
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+2
+Rev Bras Cienc Solo 2016;40:e0150497INTRODUCTION
+Recent scientific discussions emphasize the need to set limits for exploitation of natural 
+resources with a view to poverty eradication, food security, and economic growth 
+(Rockström et al., 2009; Reid et al., 2010). Increased soil erosion arising from conversion 
+of natural lands into agricultural systems and intensive soil exploitation beyond soil 
+capability for recovery, driven by the growing demand for food, energy, and fiber, 
+intensified by projections of population growth for the coming decades, have been severe 
+consequences of anthropogenic pressures on soil resources (Lal, 2007a,b).
+As a result of this intense exploitation of the soil resource, about 12 million ha of arable 
+land is abandoned annually in the world (Pimentel et al., 1995). In the state of São Paulo, 
+80 % of cultivated land has been affected by erosion beyond the limits of natural soil 
+recovery (São Paulo, 2000). Worldwide about 1 billion hectares has already been affected, 
+70 % of which is severely compromised (Lal, 2003).
+The problems caused by erosion have implications on different scales, ranging from 
+interference in local/regional hydrological processes, sediment flow, and even changes in 
+climate patterns (Dotterweich, 2013), in addition to socioeconomic losses (T elles, 2010). 
+Loss of nutrients and organic matter frequently lead to decline in soil quality and yield 
+losses in locu to sedimentation, silting of lakes and rivers, loss of biodiversity, reduced 
+food supply, and increasing food prices on the local, regional, and global level (Lal, 
+1998). Erosion processes occur significantly faster in Brazil than in temperate climate regions, which has been attributed by Stocking (2003) to rainfall high intensity and the occurrence of erosion-prone soils.
+Estimation of soil erosion rates is an important initial step in diagnosing the intensity 
+of erosive processes and in relating erosion to economic, environmental, and social 
+problems (D’Agostini, 1999). In this context, erosion models provide predictions of soil loss rates that are valuable tools for developing public policies, such as priority setting 
+for areas of applying investments, control of urban sprawl, and recommendation of 
+conservation practices for agricultural areas, among others. These models involve 
+biophysical and anthropic parameters (Kinnell, 2010; Vente et al., 2013). In recent years, 
+ease in establishing models, owing to development of Geographic Information Systems 
+(GIS) and advances in data acquisition by Remote Sensing, has paved the way for 
+dissemination of analytical methods and applications on regional scales (Renschler and 
+Harbor, 2002). Meanwhile, Soil Science, recognized since the late nineteenth century as 
+an independent science with specific subject matter (soil) and methodologies, has been increasingly required in issues involving Earth System Science (Janzen, 2004; Bockheim and Gennadiyev, 2010; Janzen et al., 2011).
+Therefore, current studies on erosion and soil conservation indicate an imminent 
+demand for interdisciplinary applications on larger scales and kindle discussions in the 
+systemic context of global sustainability beyond the original scope (Hartemink, 2008; 
+Hartemink and McBratney, 2008; Camargo et al., 2010; Bouma, 2014; Díaz-Fierros, 
+2015; Bellacasa, 2015).
+As a consequence, soil conservation studies have become possible on the regional scale 
+by the implementation of soil loss estimation models in the computer environment 
+(Lu et al., 2004; Lino, 2010; Pulido-Gómez, 2012; Rocha, 2013). For the state of São Paulo, 
+available studies focusing on estimation of soil loss are outdated due to an intense process 
+of converting lands from natural to anthropogenic uses, which has been going on over the 
+past decades. Relevant erosion studies for the state were carried out by Marques et al. (1961) and Kertzman et al. (1995), despite the limitations of platforms and digital data, as well as by Bertoni and Lombardi Neto (2012) and other researchers of the Agronomic 
+Institute of Campinas (Instituto Agronômico de Campinas - IAC), a pioneer institution in 
+investigation of erosion and related themes in this region over the past several decades.
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+3
+Rev Bras Cienc Solo 2016;40:e0150497Another important aspect in the study of erosion refers to the concept of “soil loss 
+tolerance” or “T-value”, a criterion to interpret soil loss rates, defined by Wischmeier 
+and Smith (1978) as “the maximum annual soil erosion rate that still allows a high level 
+of crop productivity”. For the state of São Paulo, Lombardi Neto and Bertoni (1975) 
+established standards of soil loss tolerance considering the solum  depth and other 
+physical soil properties from 375 soil profiles. The estimated T-values ranged from 
+4.5 to 13.4 Mg ha-1 yr-1, for soils with textural B horizon (argillic horizon), and from 
+9.6 to 15 Mg ha-1 yr-1 for soils with a Latosolic B horizon (Oxisol horizon). For the state 
+of Santa Catarina, Bertol and Almeida (2000) estimated tolerance limits from 14.5 to 
+1.88 Mg ha-1 yr-1 for Terra Bruna Estruturada (Alfisols and/or Ultisols) and for Solos Litólicos  
+(Entisols), respectively . In general, soil loss tolerance corresponds to a mean tolerable 
+loss of up to 12.5 Mg ha-1 yr-1 for deep, well-drained, and permeable soils, whereas mean 
+losses from 2 to 4 Mg ha-1 yr-1 are tolerable for soils with unfavorable, shallower subsoil 
+(Bertoni and Lombardi Neto, 2012).
+Considering that studies related to soil loss for the state of São Paulo are outdated and, 
+according to the literature cited, there is an imminent need to estimate soil loss rates 
+to establish limits of soil exploration, which is a non-renewable resource with regard 
+to energy and food security (Rockström et al., 2009), erosion in the state of São Paulo should be diagnosed as a contribution to discussion addressing conservation. Thus, the objective of this study was to estimate soil loss rates for the state of São Paulo by the 
+Universal Soil Loss Equation (Wischmeier and Smith 1965, 1978) on a regional scale, 
+using GIS and medium resolution spatial data (30 m).
+MATERIALS AND METHODS
+Study area
+The study addressed the entire area of the state of São Paulo, between the parallels 
+19° 50’ S and 24° 30’ S and the meridians 44° W and 53° 30’ W, covering an area of 248,209.4 km
+2 (Figure 1).
+The state of São Paulo is part of the Southeastern region of Brazil and includes several soil 
+types due to the occurrence of a great diversity of climate, parent materials, relief, and 
+vegetation (Lepsch, 2010). The climate in the south of the state is humid temperate with 
+hot summers (Cfa), based on the Köppen (1936) classification system; in the central and 
+northwest parts, it is humid temperate with dry winters and hot summers (Cwa); and in the 
+Figure 1.  Localization of study area, state of São Paulo (Brazil).
+52o30'W22o30'S2 0o0'S75oW6 0oW4 5oW
+25o0'S45oS1 5oS1 5oN 0o30oS47o30'W 50o0'W4 5o0'W
+Atlantic
+Ocean
+01 00 200 kmState of São Paul oLegend
+Municipal boundarie s
+State boundaries
+Mesoregion boundarie sAtlantic
+OceanPacific
+OceanSouth America
+N
+0 2000 4000 km
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+4
+Rev Bras Cienc Solo 2016;40:e0150497north it is classified as humid temperate with dry winters and temperate summers (Cwb). T otal 
+average annual rainfall ranges from 1,000 to 1,400 mm and is concentrated in the summer.
+Latossolos (Oxisols) and Argissolos (Ultisols and Alfisols) are prevalent and are distributed 
+across the highlands and peripheral depression. In the mountainous region, the less 
+developed Cambissolos (Inceptisols) and Neossolos Litólicos (Entisols) are predominant. 
+Along rivers, there are Gleissolos (Aquents, Aqualfs, Aquepts), Organossolos (Histosols), 
+and Neossolos Flúvicos  (Entsols/Fluvents) (Oliveira et al., 1999).
+Cartographic material, basic data, and software
+The digital data used in this study were stored and processed by ArcGIS 10.1 software 
+(ESRI, 2014) to constitute the database, proceed with analysis, and present results and included: 1) vector soil map (Oliveira et al., 1999) at a 1:500,000 scale (Figure 2a) for 
+the state of São Paulo; 2) land use cover map of 2005 in raster format at 1:100,000 
+(São Paulo, 2013) (Figure 1b), and 3) digital Elevation Model of the TOPODATA project (Valeriano, 2008), with a spatial resolution of 30 m (Figure 2c).
+METHODS
+Erosion model
+The annual soil loss rates were estimated by the Universal Soil Loss Equation (USLE), 
+an empirical erosion model “designed to predict longtime average soil loss rates in runoff 
+from specific field areas in specified cropping and management systems” (Wischmeier 
+Figure 2.  Data used: (a) Pedological map; (b) Land use map of 2005; and (c) Map of Digital Elevation Model (m).
+N
+01 50 300 km
+Low: 0High: 2791Elevation (m )Argissolos/Ultiso l
+Cambissolo s/Inceptisols
+Chernossolo s/Mollisol s
+Espodossolo s/Spodosol s
+Gleissolos/Aqualf
+Latossolos/Oxisols
+Neossolos/Entisols
+Nitossolos/Oxisols
+Organossolo s/Histosols
+Planossolo s/AlfisolsSugarcane
+Restingas
+Reforestatio n
+Permanent agricultural cro p
+Pasture
+Mining zone s
+Riparian forest
+Forest
+Mangroves
+Industrial
+Annual agricultural cropWate r
+Cerrado
+Humid area s
+Urban areas
+Airports
+Port areas(a) (b)
+(c)
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+5
+Rev Bras Cienc Solo 2016;40:e0150497and Smith, 1965; 1978). The model is easy to implement and requires relatively simple 
+entry data; according to Chaves (2010), it has been more effective in predicting erosion 
+on hillsides than other robust methods. Although this model was originally designed to 
+estimate erosion in homogeneous plots (Bertoni and Lombardi Neto, 2012), it has been 
+successfully applied to estimate soil loss rates from complex topographies on regional scales 
+(Martín-Fernández and Martínez-Núñez, 2011; T etzlaff et al., 2013; Galdino et al., 2015).
+As described by equation 1, the USLE model consists of the product of six major factors, 
+which predicts soil loss per unit area in Mg ha-1 yr-1.
+A = R × K × L × S × C × P           Eq. 1
+where A: computed soil loss per unit area or soil loss rate (Mg ha-1 yr-1), R: rainfall and 
+runoff factor (MJ mm ha-1 h-1 yr-1), K: soil erodibility factor (Mg h MJ-1 mm-1), L: slope-length 
+factor (adimensional), S: slope-steepness factor (adimensional), C: cover and management 
+factor (adimensional), and P: support practice factor (adimensional).
+Rainfall erosion index (Factor R)
+The rainfall erosion index (R) expresses the ability of rainfall to induce erosion in an area 
+without protection from vegetation. The factor R is directly proportional to the product 
+of two rainfall characteristics: total kinetic energy (Ec) and maximum rainfall intensity in 
+30 min (I30) (Bertoni and Lombardi Neto, 2012). In our study, however, we employed the 
+annual erosion indexes determined by Medeiros (2016) (Figure 3), using the regionalized 
+calculation method proposed by Mello et al. (2013).Soil erodibility factor (K-Factor)
+The soil erodibility factor (K-factor) is a quantitative value experimentally determined by the 
+rate of soil loss per erosion index unit (Wischmeier and Smith, 1978). Denardin (1990) and 
+Mannigel et al. (2002) describe the diversity of soil erodibility in São Paulo based on their 
+classes and subclasses. Data compiled by Silva and Alvares (2005) were used in this study.
+52oW5 0oW4 8oW4 6oW
+24oS2 2oS2 0oS
+5202 - 6318
+6318 - 64856485 - 65696569 - 6681
+6681 - 6820
+Erosive Potential Uniform Zone s
+CIIAGRO (IAC/APTA) Stations6820 - 7044Mesoregions of the state of 
+São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicab a
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+7044 - 7295
+7295 - 77697769 - 91929192 - 12290R-factor (rainfall erosivity)
+(MJ mm ha
+-1 h-1 yr-1)Legend
+Atlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 2000ParanáMato Grosso
+do SulMinas
+Gerais
+05 0 100 200
+kmN
+Figure 3.  Rainfall erosivity map obtained by Medeiros (2016).
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+6
+Rev Bras Cienc Solo 2016;40:e0150497Topographic factor (LS-Factor)
+Slope-length and slope-steepness effects (L-Factor and S-Factor)
+The topographic properties required in the USLE, slope-length (L) and slope-steepness 
+(S), were calculated from the Digital Elevation Model of the state of São Paulo provided 
+by the TOPODATA project (Valeriano, 2008).
+For application of the model to the conditions of complex topography on a regional 
+scale, the L-factor was calculated employing the method of Desmet and Govers (1996), Equation 2, whose algorithm uses the concept of accumulated area and flow directions (Moore et al., 1991). This transposition in scale was also possible due to considerable 
+development of GIS technology in recent decades, which has enabled the implementation 
+of methods and handling of data on digital platforms for large areas, as well as advances 
+in data acquisition, particularly topographical data, by Remote Sensing.
+Li,j =(Ai,j-i,n + D2)m + 1 - (Ai,j-i,n)m + 1
+(Dm + 2) × (xi,jm) × (22,13)m           Eq. 2
+where  is the slope-length factor of a grid cell (i,j),  is the area of contribution of a grid 
+cell (i,j), D is the width/height of the cells forming a regular grid (m) (in this case 30 m),  
+is the flow direction value calculated according to the aspect [x = sen (β) + cos(β), 
+where β is aspect – see Moore et al. (1991) about topographic attibutes] , and m is the 
+coefficient determined according to steepness (θ): 0.5 if θ ≥5 %; 0.4 if 3 % ≤ θ ≤5 %; 
+0.3 if 1 % ≤ θ ≤3 %, and 0.2 if θ >1 %.
+The S-Factor was calculated from equations 3 and 4 as proposed by McCool et al. (1987), 
+considering a steepness threshold (α) of 9 %. The slope map used was obtained from 
+manipulation the topographic data from the TOPODATA database in ArcGIS software.
+S = 10.8 × sen(α) + 0.03;  if  α<9 %          Eq. 3
+S = 16.8 × sen(α) - 0.5;  if  α≥9 %          Eq. 4
+where S is the slope-steepness factor (adimensional), and  is the slope or steepness 
+angle (degrees).
+Cover and management factor (C-factor)
+The cover and management factor (C-factor) is the ratio of soil loss from land cropped 
+under specified conditions to the corresponding loss from clean-tilled, continuous fallow 
+(Wischmeier and Smith, 1978). The different aspects of a given crop system, e.g., soil 
+tillage, management effectiveness, rainfall, soil fertility, and the crop development 
+stage, are obtained from experimental results. In our study, however, average values of the C-factor extracted from the literature (T able 1) were associated with the mapped 
+categories of land use cover (Figure 2c).
+Support practice factor (P-Factor)
+The support practice factor (P-factor) is calculated by the “ratio of soil loss with a 
+specific support practice to the corresponding loss with up-and-down-slope culture”  
+(Wischmeier and Smith, 1978; Bertoni and Lombardi Neto, 2012). In the case of 
+the state of São Paulo, it can generally be assumed that agricultural management 
+is largely mechanical in all stages of agricultural production, but the conservation 
+practices for each production plot cannot be determined. Therefore, as suggested by 
+Bertoni and Lombardi Neto (2012), we used the methodology proposed by Oliveira et al. (2007), which defines the slope (α) as the key property for soil conservation practices and states the following p values according to the slope angle (α): p=0.6, 
+for 0≤ α ≤5%; p=0.69947-0.08991 α + 0.01184 α
+2 – 0.00035 α3, for 5 %< α ≤20 %; 
+and p=1, for α >20 %.
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+7
+Rev Bras Cienc Solo 2016;40:e0150497T o simplify discussions, these six factors were analyzed according to the mesoeconomic 
+division of the state of São Paulo, as proposed by IBGE (2002). Multiplying these factors, 
+the soil loss rates (Mg ha-1 yr-1) for the state of São Paulo is estimated. The application 
+of USLE on a regional scale, favored by digital data management in GIS, results in 
+generalizations, as mentioned particularly for the factors C and P . In addition, it is 
+known that the USLE does not take the sediment deposition on the slopes into account 
+(Zhang et al., 1995), but only estimates the interrill erosion and soil loss from small 
+grooves, a weakness limiting approaches focused on nutrient planning and transport, 
+for example. Another interesting aspect is that the results are related to potential soil 
+loss rates based on mean erosivity values (R) calculated for a wide range of data and 
+do not apply to a particular rainfall event (Merrit et al., 2003), but they still satisfactorily 
+indicate the need for erosion control in the most critical areas.
+RESULTS AND DISCUSSION
+Erosion modeling
+Spatial variability of soil erodibility (K-factor) in the state of São Paulo is high, with 
+numerous areas susceptible to erosion (Figure 4). This is a result of the presence of 
+Argisols, whose mean soil erodibility value reaches 0.0425 Mg h-1 MJ-1 mm-1 on 43 % of 
+the territory. These soils have an eluvial A horizon that is coarse textured and generally 
+sandy (Lepsch, 2010), which is conducive to water erosion because of its fragil structure 
+and weak aggregation. Furthermore, during longer rainfall events, the water flow could 
+reach the illuvial B horizon (argillic), which is less permeable, resulting in the loss of 
+large quantities of soil.
+The Oxisols (Latossolos), with their high state of weathering, are normally erosion resistant, 
+due to physical conditions unfavorable to soil loss and through being mostly located on 
+smooth landscapes. The erodibility value of this class is low (0.0162 Mg yr-1 MJ-1 mm-1). 
+These soils occur in 43 % of the state of São Paulo and are predominant in areas where slopes allow agricultural mechanization.
+Erodibility indices above 0.0508 Mg yr
+-1 MJ-1 mm-1 in the state of São Paulo are observed 
+in soils of the southern region where Inceptisols (Cambissolos ), Podzols (Espodossolos ), 
+and Histosols (Organossolos ) occur. Poorly developed Inceptisols, with a cambic B horizon, 
+occur on approximately 4 % of the surface area of the state. In the case of Podzols Table 1. C-factor for each land use cover class of the state of São Paulo in 2005
+Land use cover Factor C Reference
+Annual agricultural crop 0.4238 Lino (2010)
+Sugarcane 0.3066 Weill (1999)
+Permanent agricultural crop 0.1318 Lino (2010)
+Pasture 0.0610 Galdino (2012)
+Reforestation 0.0030Bertoni and Lombardi Neto (2012),  
+Resende and Almeida (1985)
+Forest 0.0001 Bertoni and Lombardi Neto (2012)
+Riparian forest 0.0001 Bertoni and Lombardi Neto (2012)
+Humid areas 0.0001 Adapted from De Maria (1995)
+Mangroves 0.0010 De Maria (1995)
+Restingas 0.0007 Rio de Janeiro (2009)
+Cerrado 0.1500 Pulido-Gómez (2012)
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+8
+Rev Bras Cienc Solo 2016;40:e0150497(Espodossolos), which account for less than 1 % of the area of the state, the sandy texture 
+in most of the profile and the presence of a spodic horizon, a drainage barrier horizon 
+of low fertility, explain their medium value of soil erodibility (0.0592 Mg yr-1 MJ-1 mm-1). 
+Finally, the Histosols (Organossolos), characterized by a composition of at least 80 g kg-1 
+of organic matter,  also occur in less than 1 % of the area of the state, and their soil 
+erodibility could exceed 0.0310 Mg yr-1 MJ-1 mm-1.
+The L-factor ranges from 0 (zero) to 3,141 (Figure 5); the lowest values occur in interfluves 
+(hilltops) and the highest towards the bottom of the valley, exactly where the distances 
+from the interfluve zone and the flow convergence are significant and steep slopes 
+(same behavior as in the cumulative area), with conditions similar to those found by Silva 
+(2003) and Michette (2015). The detail of figure 5 shows that the higher the L factor, the 
+greater the runoff speed and concentration, leading to the conclusion that these areas are prone to the occurrence of laminar erosion.
+This study used data with a spatial resolution of 30 m. According to Wu et al. (2005), soil 
+loss rates are extremely sensitive to the effect of factor L, so that the more refined the topographical data are, the higher the reliability of the estimates will be.
+The slope-steepness factor (S-factor) ranges from 0.03 to 9.89 (Figure 6). The lowest 
+values indicate regions with plain and gently rolling topography and account for 60 % of the study area, according to the slope-steepness category map (Figure 7). The highest 
+values were found for hilly, mountainous, strongly rolling, and rugged areas, and account 
+for 40 % of the total area. The highest S-factor values are predominant in the southern and southeastern regions, which correspond to the geomorphological areas of the Serra do Mar, some areas of the mesoregions of Marília, Araraquara, and Piracicaba, and in 
+the east on the border with the state of Minas Gerais. In the soil exploration context, 
+slope-steepness is a topographical property that predicts land use, particularly agricultural 
+and livestock use, and land occupations, because management techniques, soil acidity, 
+and fertility correction can be used to minimize chemical limitations related to the 
+concentrations of calcium, iron, magnesium, potassium, and other nutrients. Thus, in the 
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oS
+No data0.0351Mesoregions of the 
+state of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis4 Bauru
+5 Campinas
+6 Itapetining a
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicab a
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+0.0361
+0.04250.0508
+0.05920.0097
+0.01620.02370.0309
+0.0310K-factor (soil erodibility)
+(Mg h MJ
+-1 mm-1)Legend
+Atlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 200 0ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+kmN
+Figure 4.  K-factor map of the state of São Paulo.
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+9
+Rev Bras Cienc Solo 2016;40:e0150497flat and gently rolling areas appropriate for agricultural activities, the use of agricultural 
+machinery or other management practices tends to be intensive, confirming the high soil loss rates in these locations.
+Figure 5.  L-factor map of the state of São Paulo.
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oSMesoregions of the state of 
+São Paul o
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicaba
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+≤1
+1 - 2
+2 - 5
+5 - 10
+10 - 1515 - 20
+20 - 50
+50 - 100
+100 - 500
+500 - 3141L-factor (slope-length)
+(adimensional )Legend
+Atlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 2000ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+kmN
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oS Mesoregions of the 
+state of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicaba
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+Low.: 0.03High.: 9.87S-factor (slope-steepness)
+(adimensional )Legend
+Atlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 2000ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+kmN
+Figure 6.  S-factor map of the state of São Paulo.
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+10
+Rev Bras Cienc Solo 2016;40:e0150497The C-factor (Figure 8) ranges from 0 (zero) to 1. C-factor values closer to zero are 
+indicative of very good protection by crop cover and management systems, and in 
+contrast, values closer to one indicate very poor protection. Thus, predominantly in 
+areas of crop production, higher C-factor values (>0.3) were attributed, according to surveys of the literature, highlighting vast areas in the mesoregions of Ribeirão Preto, Araraquara, Bauru, and Assis. According to the Agricultural Census of 2006 
+(IBGE, 2006), 76 % of crop/livestock farms employ conventional tillage (with plowing 
+and disking), a practice that significantly contributes to the erosion process. This 
+tillage practice is common throughout the study area, except in mountainous 
+areas and the middle region of the south coast. Regarding the C-factor for pasture areas, we consider the degree of degradation of the pastures of the entire state of 
+Sao Paulo as high, adopting the C-factor value of 0.0610, previously determined 
+by Galdino (2012) from experimental data. Although the Agricultural Census of 
+2006 indicated that half of the state’s pasture areas are natural and the other half 
+correspond to planted pastures, and that of the total planted pasture area, only 
+4 % is degraded, one can not explicitly assign the location of each pasture type 
+(natural, planted-degraded, or planted-in good condition) since the Census shows 
+values for the municipality. For this reason, we consider that all pastures had at 
+least some degree of degradation.
+For the P-factor (Figure 9), the distribution patterns is similar to that of the slope values 
+since the calculation method used in this study assumed that this was the critical 
+topographical property to define the conservation practices. In the mesoregions along 
+the state border with Minas Gerais and the mesoregions of Itapetininga, the southern 
+coastal line of São Paulo, Metropolitan São Paulo, and Paraíba Valley of São Paulo, with 
+rugged and strongly rolling relief, the P factor was close to 1. The minimum P value was 
+calculated as 0.6 for the most effective conservation practices. For some widely used 
+conservation practices, Marques et al. (1961) determined P-factor values (downslope 
+cultivation = 1; contour planting = 0.5).Figure 7.  Slope map based on Embrapa classification.
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oS Mesoregions of the 
+state of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paul o
+11 Piracicaba
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+Flat
+Smooth rollin g
+WavyStrong wavy
+Hilly
+CraggyNo dataSlope
+(EMBRAPA, 1999 )Legend
+Atlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 200 0ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+km
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+11
+Rev Bras Cienc Solo 2016;40:e0150497The estimated soil loss rates for the state of São Paulo ranges from 0 (zero) to 
+216,000 Mg ha-1 yr-1, and the average soil loss rate was estimated as 30 Mg ha-1 yr-1 
+(Figure 10). In fact, since the model does not estimate sediment deposition on the slopes, 
+those rates represent potential soil loss rates, which indicate the intensity of the erosion 
+process in the different regions of the State.
+Interpretation of these values considered the soil loss tolerance values (T-values) 
+determined by Lombardi Neto and Bertoni (1975), who took into account the solum  
+depth and the physical properties of 75 soil profiles of the state of São Paulo. The 
+estimated T-values ranged from 4.5 to 13.4 Mg ha-1 yr-1 and from 9.6 to 15 Mg ha-1 yr-1 
+for soils with an argillic horizon (B textural ) and oxic horizon (B latossólico), respectively. 
+In general terms, however, according to Bertoni and Lombardi Neto (2012), an average 
+T-value of 12 Mg ha-1 yr-1 could be adopted for deep, permeable, and well-drained soil. 
+For shallow soils or for soils with very unfavorable subsoils, average T-values range 
+from 2 to 4 Mg ha-1 yr-1.
+Thus, the results in figure 10 were classified in two categories according to the criterion 
+of tolerance to soil loss: tolerable rates of soil loss, ranging from 0 to 12 Mg ha-1 yr-1, 
+and intolerable rates for those above 12 Mg ha-1 yr-1 (Bertoni and Lombardi Neto, 2012) 
+(Figure 11). The results show marked ongoing erosion in 44 % of the soils of the state 
+of São Paulo, where soil loss rates exceed the upper threshold of soil loss tolerance 
+(12 Mg ha-1 yr-1). The erosion rates throughout the state were also high, except in the 
+mountainous region, due to protection from vegetation (rainforest).
+Among areas with soil loss rates higher than 12 Mg ha-1 yr-1, 30 % is dedicated to planting 
+of sugarcane and other 67 % to pasture, corresponding to 29,000 and 65,000 km2, 
+respectively. T able 2 shows the proportion of the area by mesoregion where soil loss 
+rates are superior to 12 Mg ha-1 yr-1 (not tolerable) and also shows that in 12 out of 
+15 regions analyzed, the predominant and secondary uses of these areas are pasture 
+or sugarcane. The areas whose estimated erosion rates stand out through great 
+intensity of soil loss processes are located mainly in the north and northeast of the Figure 8.  C-factor map of the state of São Paulo.
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oS Mesoregions of the 
+state of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicab a
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+C-factor (cover and management)
+(adimensional )Legend
+0.0001(forest)
+0.0007(restingas)
+0.0030(reforestation)
+0.0610(pasture)0.1318(permanent agricultural crop)
+0.1500(cerrado)
+0.3066(sugarcane)
+0.4283(annual agricultural crop)
+No dataAtlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 2000ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+kmN
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+12
+Rev Bras Cienc Solo 2016;40:e0150497state, corresponding to the mesoregions of Ribeirão Preto, São José do Rio Preto, 
+Assis, Itapetininga, and Piracicaba, and in the central and southwest regions, such as 
+the mesoregion of Assis and Itapetininga. These regions are historically dedicated to agricultural activities.
+Figure 9.  P-factor map of the state of São Paulo.
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oS Mesoregions of the 
+state of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicab a
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+P-factor (support practice )Legend
+High: 1
+Low: 0.6Atlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 2000ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+kmN
+Figure 10.  Map of estimated annual rates of soil loss of the state of São Paulo.
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oS Mesoregions of the 
+state of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicab a
+12 Presidente Prudente13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+Soil loss estimate
+(Mg ha-1 yr-1)Legend
+<1 ; 28 %
+1 - 5 ; 15 %
+5 - 10 ; 12 %
+10 - 25 ; 14 %
+25 - 50 ; 17 %
+>100 ; 6 %50 - 100 ; 7 %
+No dataAtlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 2000ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+kmN
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+13
+Rev Bras Cienc Solo 2016;40:e0150497The highest average soil loss rate was associated with crop areas, similar to that reported 
+by Weill and Sparovek (2008) and Lino (2010). The average estimated soil loss rates for 
+annual, semi-perennial, and perennial crops were 118, 78, and 38 Mg ha-1 yr-1, respectively, 
+far above the accepted average rate of tolerance to soil loss of 12 Mg ha-1 yr-1. These 
+results suggest the need for implementing more effective soil management techniques Table 2. Quantity of areas with land use cover where the estimates of soil loss rates are greater than the average rate of soil loss 
+tolerance of 12 Mg ha-1 yr-1
+Mesoregion IDTotal 
+areaArea with 
+soil loss 
+>12 Mg ha-1 yr-1Land use cover where soil loss rates are greater than 
+12 Mg ha-1 yr-1
+Predominant land use Secondary land use
+km2km2% % %
+São José do Rio Preto 1 29545 14593 41 Pasture 66 Sugarcane 29
+Ribeirão Preto 2 27569 13036 47 Sugarcane 60 Pasture 37
+Araçatuba 3 16897 6572 39 Pasture 62 Sugarcane 34
+Bauru 4 26809 10442 39 Pasture 70 Sugarcane 29
+Araraquara 5 9483 4454 47 Sugarcane 47 Pasture 43
+Piracicaba 6 9057 3839 42 Pasture 60 Sugarcane 33
+Campinas 7 14229 6108 43 Pasture 74 Sugarcane 21
+Presidente Prudente 8 24292 10488 43 Pasture 80 Sugarcane 16
+Marília 9 7209 4205 58 Pasture 89 Sugarcane 8
+Assis 10 12798 5673 44 Pasture 53 Sugarcane 46
+Itapetininga 11 20224 6063 30 Pasture 72 Sugarcane 12
+Macro Metrop. Paulista 12 12307 3679 30 Pasture 92 Sugarcane 7
+Litoral Sul Paulista 13 13223 1229 9 Pasture 94 Permanent agricultural crop 4
+Metropolitana de São Paulo 14 9300 1271 14 Pasture 94 Reforestation 4
+Vale do Paraíba Paulista 15 16172 5337 33 Pasture 97 Reforestation 1Figure 11.  Map of soil conservation/degradation of the state of São Paulo based on average rate of tolerance to soil loss of 12 Mg ha-1 yr-1.
+52oW5 0oW4 8oW4 6oW4 4oW
+24oS2 2oS2 0oS Mesoregions of the 
+state of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assis
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+10 Metrop. São Paulo
+11 Piracicab a
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba Paulista9 Marília
+Soil loss rate as a function of
+T = 12 Mg ha-1 yr-1Legend
+≥12<12
+No dataAtlantic Ocea n
+Geographic Coordinate System
+Datum SIRGAS 2000ParanáMato Grosso
+do SulMinas Gerais
+05 0 100 200
+kmN
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+14
+Rev Bras Cienc Solo 2016;40:e0150497and conservation practices in agricultural production areas in the state of São Paulo. 
+Public policies can be defined in which land capability or suitability would be considered 
+a primary factor for determining sustainable agricultural use of natural resources. For 
+example, the Environmental Department of the state of São Paulo established technical 
+guidelines for licensing in the sugar and alcohol sector in São Paulo (Resolução Estadual 
+No. 88). This guideline is based on the State Agro-Environmental Zoning of the Sugarcane 
+Sector, determined by the Instituto Agronômico de Campinas, which classifies regions of 
+São Paulo into four suitability categories for sugarcane cultivation, namely: i) adequate, 
+ii) limited suitability, iii) restricted suitability, and iv) inadequate. Thus, as of 2008, 
+in areas classified as inadequate, environmental licenses were no longer granted for 
+setting up or expanding existing enterprises in the sugarcane sector (São Paulo, 2008).
+Factors that accelerate erosion are mainly related to high intensity of land use, beyond 
+agricultural potential, and to inadequate management of more fragile soils. Most areas 
+with high estimated soil loss rates are located in regions where IPT (1995; 1997) and 
+Kertzman et al. (1995) have reported high erosion susceptibility in ravines and gullies. 
+Although the focus of these studies was not exclusively on water erosion, the conclusions 
+of these authors were related to natural susceptibility . In an integrated analysis of land 
+features, Kertzman et al. (1995) investigated water behavior and the occurrence of erosive 
+processes (interpretation of aerial photographs) in relation to geological, geomorphological, 
+and soil data. They concluded that these areas are highly susceptible to degradation since 
+they have very favorable natural conditions for development of erosion, regardless of the forms of land use and occupation. These findings can be extrapolated to this study, confirming our results in areas where the estimated erosion rates were high.
+Studies addressing soil erosion using detailed information on a regional scale are scarce. 
+For the state of São Paulo, Lino (2010) estimated soil loss rates using the USLE and 
+reported variations from 0 (zero) to 179 Mg ha-1 yr-1. This author reported that in 35 % of 
+the area of the state, estimated soil loss rates ranged from 0 to 9 Mg ha-1 yr-1, in 50 % from 
+9 to 118 Mg ha-1 yr-1, and in 15 % they exceeded 118 Mg ha-1 yr-1. In comparison, for the 
+same respective intervals, 53 %, 41 %, and 6 % were found in this study. This variation can 
+be attributed to methodological differences, e.g., in the calculation of erosivity (R-factor), 
+since the author used only the equation developed for the region of Campinas, and 
+differences in the C-factor adopted for each category of land use. In an analysis of soil loss, 
+Rocha (2013) also used the USLE for the entire Brazilian territory. Although there are also 
+many methodological differences with regard to how the model factors were obtained and 
+a quantitative comparison with our study would not be possible, there was an apparent 
+qualitative agreement in regions with estimates of a high rate of soil loss.
+However, taking into account only the soil loss tolerance criterion to interpret the intensity 
+of soil erosion could be insufficient in view of the diversity of soil types, climatic conditions, 
+and other aspects. Therefore, the relationship between the estimated soil loss rate, 
+soil renewal rate, and erosion tolerance can be a guideline in determining the stages 
+of degradation. In other words, soil loss tolerance should be understood as a dynamic 
+concept in space and time since it is defined in terms of soil loss and renewal rates, 
+a methodological approach followed in another study (Medeiros et al., 2016). In practice, 
+scientific studies on the dynamics of erosion in lands conditioned by spatial-temporal 
+variation on a regional scale are limited by the limited availability of data.
+The results of this study contribute to diagnose the conservation status of the topography 
+of the state of São Paulo and to feed - the now urgent - discussions on the implementation 
+of conservation practices and land use policies, motivated by the threat of resource 
+depletion if no soil protection practices are applied. The state of São Paulo has a history 
+of agricultural activities that make it a protagonist in the economic scenario of the 
+country and the world and, therefore, it is a strategic area from the perspective of food 
+security and future energy and fiber demands. Consequently, continuous overuse of 
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+15
+Rev Bras Cienc Solo 2016;40:e0150497soils without consideration for their limits/suitability, as well as inadequate conservation 
+and management practices, may cause humanity to slide into an even deeper state of 
+environmental crisis in the coming decades and push the expansion of agricultural frontiers 
+towards areas of social interest, compromising policies of preservation of biodiversity 
+and water supply, for example.
+In methodological terms, with regard to the inherent generalizations of local-regional 
+adaptation, this study should be understood as an initiative to introduce Soil Science 
+into an agenda of global discussions, as suggested by Hartemink (2008), Bockheim 
+and Gennadiyev (2010), Camargo et al. (2010), and Bouma (2014). In other words, Soil 
+Science in its original concept has not been effectively taken into consideration in the 
+current discussions involving Earth System Sciences, but soil has been addressed mainly 
+in terms of land use change (Land Use Cover Change - LUCC) and few references are made to it as a finite natural resource that if not properly managed, on a human time scale, may be exhausted.
+CONCLUSIONS
+The average soil loss rate estimated for the entire state of São Paulo was 30 Mg ha-1 yr-1, 
+which exceeds the average tolerance limit of 12 Mg ha-1 yr-1 adopted in this study .
+In about 59 % of the study area, excluding surface water and urban areas, soil loss rates 
+exceeded 12 Mg ha-1 yr-1, and in those areas the predominant land uses were sugarcane, 
+semi-perennial crops, and pastures.
+The average soil loss rates in areas used for cultivation of annual, semi-perennial and 
+perennial crops were 118, 78, and 38 Mg ha-1 yr-1, respectively .
+For the state of São Paulo, attention must be paid to soil conservation mainly in terms 
+of soil suitability for agriculture and incentives for the implementation of appropriate 
+management practices.
+ACKNOWLEDGMENTS
+We wish to acknowledge the financial support of the Ecometrica Platform (www.
+ecometrica.com); the Fundação de Ciência, Aplicações e Tecnologia Espaciais  
+(FUNCATE); the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior  
+(CAPES); and the Centro de Ciência do Sistema Terrestre (CCST) of the Instituto 
+Nacional de Pesquisas Espaciais (INPE).
+REFERENCES
+Bellacasa MP .  Making time for soil : T echnoscientific futurity and the pace of care. Soc Stud Sci. 
+2015;1:691-716. doi:10.1177/0306312715599851
+Bertol I, Almeida JA.  Soil loss tolerance to erosion for Santa Catarina state soils. Rev Bras Cienc 
+Solo. 2000;24:657-68. doi:10.1590/S0100-06832000000300018
+Bertoni J, Lombardi Neto F .  Conservação do solo. 8a ed. São Paulo: Ícone; 2012.Bockheim JG, Gennadiyev AN.  Soil-factorial models and earth-system science: A review. 
+Geoderma. 2010;159:243-51. doi:10.1016/j.geoderma.2010.09.005
+Bouma J.  Soil science contributions towards sustainable development goals and their 
+implementation: linking soil functions with ecosystem services. J Plant Nutr Soil Sci. 2014;177:111-20. doi:10.1002/jpln.201300646
+Camargo FA, Alvarez V VH, Baveye PC.  Brazilian soil science: from its inception to the future, 
+and beyond. Rev Bras Cienc Solo. 2010;1:589-99. doi:10.1590/S0100-06832010000300001
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+16
+Rev Bras Cienc Solo 2016;40:e0150497Chaves HML.  Incertezas na predição da erosão com a USLE: impactos e mitigação. Rev Bras 
+Cienc Solo. 2010;34:2021-9. doi:10.1590/S0100-06832010000600026
+D’Agostini LR.  Erosão: o problema mais que o processo. Florianópolis: UFSC; 1999.
+De Maria IC.  Perdas de terra por erosão hídrica e razão de perdas de solo para sistemas de 
+manejo da cultura de milho [tese]. Piracicaba: Universidade de São Paulo; 1995.
+Denardin JE.  Erodibilidade do solo estimada por meio de parâmetros físicos e químicos [tese]. 
+Piracicaba: Universidade de São Paulo; 1990.
+Desmet PJJ, Govers G.  A GIS procedure for automatically calculating the USLE LS factor on 
+topographically complex landscape units. J Soil Water Conserv. 1996;51:427-33.
+Díaz-Fierros VF .  What does the future hold for soil science? Spanish J Soil Sci. 2015;5:54-9. 
+doi:10.3232/SJSS.2015.V5.N1.05
+Dotterweich M.  The history of human-induced soil erosion: Geomorphic legacies, early 
+descriptions and research, and the development of soil conservation - A global synopsis. Geomorphology. 2013;201:1-34. doi:10.1016/j.geomorph.2013.07.021
+Environmental Systems Research Institute - ESRI.  ArcGIS Desktop [computer program]. Version 
+10.1. Redlands: 2014.
+Galdino S, Sano EE, Andrade RG, Grego CR, Nogueira SF, Bragantini C, Flosi AHG.  Large-scale 
+modeling of soil erosion with RUSLE for conservationist planning of degraded cultivated 
+Brazilian pastures. Land Degrad Dev. 2015;27:773-84. doi:10.1002/ldr.2414
+Galdino S.  Estimativa da perda de terra sob pastagens cultivadas em solos arenosos da bacia 
+hidrográfica do Alto T aquari - MS/MT [tese]. Campinas: Universidade Estadual de Campinas; 2012.
+Hartemink AE, Mcbratney A.  A soil science renaissance. Geoderma. 2008;148:123-9. 
+doi:10.1016/j.geoderma.2008.10.006
+Hartemink AE.  Soils are back on the global agenda. Soil Use Manage. 2008;24:327-30. 
+doi:10.1111/j.1475-2743.2008.00187.x
+Instituto Brasileiro de Geografia e Estatística - IBGE.  Censo Agropecuário 2006. Rio de Janeiro: 2006.
+Instituto Brasileiro de Geografia e Estatística - IBGE.  Divisão T erritorial Brasileira. Rio de Janeiro: 2002.Instituto de Pesquisas T ecnológicas - IPT.  Departamento de Águas e Energia Elétrica - DAEE. 
+Mapa de Erosão do Estado de São Paulo, SP . São Paulo: 1997.
+Instituto de Pesquisas T ecnológicas - IPT.  Departamento de Águas e Energia Elétrica - DAEE. 
+Mapa de Erosão do Estado de São Paulo, SP . São Paulo: 1995. (IPT. Relatório, 33.402).
+Janzen HH, Fixen PE, Franzluebbers AJ, Hattey J, Izaurralde RC, Ketterings QM, Lobb A, 
+Schlesinger WH.  Global prospects rooted in soil science. Soil Sci Soc Am J. 2011;75:1-8. 
+doi:10.2136/sssaj2009.0216
+Janzen HH.  Carbon cycling in earth systems - a soil science perspective. Agric Ecosyst Environ. 
+2004;104:399-417. doi:10.1016/j.agee.2004.01.040
+Kertzman FF, Oliveira AMS, Salomão FXT, Gouveia MIF .  Mapa de erosão do Estado de São Paulo. 
+Rev Inst Geol. 1995;16:31-6.
+Kinnell PIA.  Event soil loss, runoff and the Universal Soil Loss Equation family of models: 
+A review. J Hydrol. 2010;385:384-97. doi:10.1016/j.jhydrol.2010.01.024
+Köppen W.  Das geographische System der Klimate. In: Köppen W, Geiger R, editors. Handbuch 
+der Klimatologie. Berlin: Gebrüder Bornträger; 1936. p.1-44.
+Lal R.  Soil erosion and the global carbon budget. Environ Int. 2003;29:437-50. 
+doi:10.1016/S0160-4120(02)00192-7
+Lal R.  Soil erosion impact on agronomic productivity and environment quality. Crit Rev Plant 
+Sci. 1998;17:319-464. doi:10.1080/07352689891304249
+Lal R.  Soil science and the carbon civilization. Soil Sci Soc Am J. 2007b;71:1425. 
+doi:10.2136/sssaj2007.0001
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+17
+Rev Bras Cienc Solo 2016;40:e0150497Lal R.  Soils and sustainable agriculture. A review. Agron Sustain Dev. 2007a;28:57-64. 
+doi:10.1051/agro:2007025
+Lepsch IF .  Formação e conservação do solo. 2a ed. São Paulo: Oficina de T extos; 2010.Lino JS.  Evolução do Sistema Plantio Direto e produção de sedimentos no Rio Grande do Sul 
+[dissertação]. Piracicaba: Universidade de São Paulo; 2010.
+Lombardi Neto F, Bertoni J.  T olerância de perdas de terra para solos do Estado de São Paulo. 
+Campinas: Instituto Agronômico de Campinas; 1975. (Boletim técnico, 28).
+Lu D, Li G, Valladares GS, Batistella M.  Mapping soil erosion Risk in Rondonia, Brazilian 
+Amazonia: Using RUSLE, remote sensing and GIS. Land Degrad Dev. 2004;15:499-512. 
+doi:10.1002/ldr.634
+Mannigel AR, Carvalho MP, Moreti D, Medeiros LR.  Fator erodibilidade e tolerância de perda dos 
+solos do Estado de São Paulo. Acta Sci. 2002;24:1335-40. doi:10.4025/actasciagron.v24i0.2374
+Marques J, Quintiliano A, Bertoni J, Barreto GB.  Perdas por erosão no Estado de São Paulo. 
+Bragantia. 1961;20:1139-82. doi:10.1590/S0006-87051961000100047
+Martín-Fernández L, Martínez-Núñez M.  An empirical approach to estimate soil erosion risk in 
+Spain. Sci T otal Environ. 2011;409:3114-23. doi:10.1016/j.scitotenv.2011.05.010
+Mccool DK, Brown GR, Foster GR, Meyer LD.  Revised slope steepness factor for the universal 
+soil loss equation. Am Soc Agric Eng. 1987;30:1387-96. doi:10.13031/2013.30576
+Medeiros GOR.  Diagnóstico da erosão acelerada do solo e a expansão da cultura da 
+cana-de-açúcar no Estado de São Paulo [tese]. São José dos Campos: Instituto Nacional de Pesquisas Espaciais; 2016.
+Medeiros GOR, Giarolla A, Sampaio G, Marinho MA.  Diagnosis of the accelerated soil erosion 
+in Sao Paulo State (Brazil) by the soil lifetime index methodology. Rev Bras Cienc Solo. 2016;40:e0150498. doi:10.1590/18069657rbcs20150498
+Mello CR, Viola MR, Beskow S, Norton LD.  Multivariate models for annual rainfall erosivity in 
+Brazil. Geoderma. 2013;202-203:88-102. doi:10.1016/j.geoderma.2013.03.009
+Merritt WS, Letcher RA, Jakeman AJ.  A review of erosion and sediment transport models. 
+Environ Model Soft. 2003;18:761-99. doi:10.1016/S1364-8152(03)00078-1
+Michette JF .  Modelos de previsão de erosão pluvial utilizando SIG: estudo na bacia hidrográfica 
+da Represa do Lobo (BROA), SP [Dissertação]. São Carlos: Universidade de São Paulo; 2015.
+Moore ID, Grayson RB, Ladson AR.  Digital terrain modelling: a review of hydrological, 
+geomorphological, and biological applications. Hydrol Process. 1991;5:3-30. doi:10.1002/hyp.3360050103
+Oliveira AMMD, Pinto SDAF, Lombardi Neto, F .  Caracterização de indicadores da erosão do 
+solo em bacias hidrográficas com o suporte de geotecnologias e modelo preditivo. Est Geogr. 2007;5:63-86.
+Oliveira JB, Camargo MN, Rossi M, Calderano Filho B.  Mapa pedológico do Estado de São Paulo: 
+legenda expandida (mapa). Campinas: Instituto Agronômico; Rio de Janeiro: Embrapa Solos; 1999.
+Pimentel D, Harvey C, Resosudarmo P, Sinclair K, Kurz D, McNair M.  Environmental and 
+economic costs of soil erosion and conservation benefits. Science. 1995;267:1117-23. doi:10.1126/science.267.5201.1117
+Pulido-Gómez JD.  Estimativa de erosão pela Equação Universal de Perda de Solo (USLE) 
+e transferência de sedimentos para todo território Brasileiro [dissertação]. Piracicaba. 
+Universidade de São Paulo; 2012.
+Reid W, Chen D, Goldfarb L.  Earth System Science for Global Sustainability: Grand Challenges. 
+Science. 2010;330:916-7. doi:10.1126/science.1196263
+Renschler CS, Harbor J.  Soil erosion assessment tools from point to regional scales - the role 
+of geomorphologists in land management research and implementation. Geomorphology. 2002;47:189-209. doi:10.1016/S0169-555X(02)00082-X
+Medeiros et al.  Estimates of Annual Soil Loss Rates in the State of São Paulo, Brazil
+18
+Rev Bras Cienc Solo 2016;40:e0150497Resende M, Almeida JR.  Modelos de predição de perda de solo: uma ferramenta para manejo e 
+conservação do solo. Inf Agropec. 1985;11:38-54.
+Rio de Janeiro. Fundação Centro de Informação e Dados do Rio de Janeiro. Índice de qualidade 
+dos municípios – verde (IQM – Verde). Rio de Janeiro: CIDE; 2009.
+Rocha GC.  Aplicação da estimativa espaço-temporal da tolerância à perda de solo no 
+planejamento do uso da terra [dissertação]. Piracicaba: Universidade de São Paulo; 2013.
+Rockström J, Steffen W, Noone K, Persson A, Chapin FS, Lambin EF, Lenton TM, Scheffer M, Folke 
+C, Schellnhuber HJ, Nykvist B, Wit CA, Hughes T, van der Leeuw S, Rodhe H, Sörlin S, Snyder 
+PK, Constanza R, Svedin U, Falkenmark M, Karlberg L, Corell RW, Fabry VJ, Hansen J, Walker B, Liverman D, Richardson K, Crutzen P, Foley JA. A safe operating space for humanity. Nature. 
+2009;461:472-5. doi:10.1038/461472a
+São Paulo. Departamento de Água e Energia Elétrica. Áreas Degradadas. São Paulo: 2000.São Paulo. Secretaria do Meio Ambiente. Mapeamento de Cobertura da T erra do Estado de São 
+Paulo 2005 – Escala 1:100.000. São Paulo: Coordenadoria de Planejamento Ambiental; 2013.
+São Paulo. Secretaria Estadual de Meio Ambiente. Resolução SMA Nº 88, de 19 de dezembro de 
+2008. Diário Oficial [do] Estado de São Paulo, São Paulo, 26 mar. 2009.
+Silva AM, Alvares CA. Levantamento de informações e estruturação de um banco de dados 
+sobre a erodibilidade de classes de solos no Estado de São Paulo. Geociências. 2005;24:33-41.
+Silva VC. Cálculo automático do fator topográfico (LS) da EUPS, na bacia do Rio P aracatu. Pesq 
+Agropec T rop. 2003;33:29-34. doi:10.5216/pat.v33i1.2395
+Stocking M.  Erosion and crop yield. In: Chesworth W, editor. Encyclopedia of soil science. New 
+York: Marcel Dekker; 2003. p.1-4.
+T elles TS.  Os custos da erosão do solo [dissertação]. Londrina: Universidade Estadual de 
+Londrina; 2010.
+T etzlaff B, Friedrich K, Vorderbrügge T, Vereecken H, Wendland F . Distributed modelling of mean 
+annual soil erosion and sediment delivery rates to surface waters. Catena. 2013;102:13-20. 
+doi:10.1016/j.catena.2011.08.001
+Valeriano MM.  TOPODATA: guia de utilização de dados geomorfométricos locais. São José dos 
+Campos: Instituto Nacional de Pesquisas Espaciais; 2008. (Relatório técnico). (INPE-15318-RPQ/818)
+Vente J, Poesen J, Verstraeten G, Govers G, Vanmaercke M, van Rompaey A, Arabkhedri M, 
+Boix-Fayos C.  Predicting soil erosion and sediment yield at regional scales: Where do we stand? 
+Earth Sci Rev. 2013;127:16-29. doi:10.1016/j.earscirev.2013.08.014
+Weill MAM, Sparovek G.  Estudo da erosão na microbacia do Ceveiro (Piracicaba, SP): 
+II - Interpretação da tolerância de perda de solo utilizando o método do Índice de T empo de Vida. Rev Bras Cienc Solo. 2008;32:815-24. doi:10.1590/S0100-06832008000200035 
+Weill MAM.  Estimativa da erosão do solo e a avaliação do seu impacto na microbacia do 
+Ceveiro (Piracicaba, SP) através do Índice de T empo de Vida [tese]. Piracicaba: Universidade de São Paulo; 1999.
+Wischmeier WHE, Smith DD.  Predicting rainfall erosion losses from cropland east of the Rocky 
+Mountains. Washington, DC: USDA; 1965.
+Wischmeier WHE, Smith DD.  Predicting rainfall erosion losses: a guide to conservation 
+planning. Washington, DC: USDA; 1978.
+Wu S, Li J, Huang G.  An evaluation of grid size uncertainty in empirical soil loss modeling with 
+digital elevation models. Environ Model Assess. 2005;10:33-42. doi:10.1007/s10666-004-6595-4
+Zhang L, O’Neill A, Lacy S.  Spatial analysis of soil erosion in catchments: a review of modelling 
+approaches. Water Res Ecol. 1995;3:58-64.

@@ -1,0 +1,1499 @@
+Cult ivating Care through Ambiguity:  
+Lessons from a Service Learning Course
+Samar Sabie  
+Department of Information Science  
+ Cornell Tech  
+ New York City, NY, USA  
+ sks286@cornell.edu  Tapan Parikh  
+ Department of Information Science  
+ Cornell Tech  
+ New York City,  NY, USA  
+ tsp53@cornell.edu
+ 
+ABSTRACT  
+Given the focus of professional graduate ICT programs on 
+technical and managerial skills, pedagogical engagement 
+with external organizations tends to be transactional and 
+artifact-centered. This inhibits  the students ’ ability to 
+understand social, technical and ethical issues in context, 
+or to develop affective relationships with users and other 
+stakeholders. To address this, we designed a service 
+learning course th at partnered students with non -profit 
+organizations to help with their technology challenges. The 
+service project was deliberately left open -ended to force 
+students (and partners) to tackle important questions 
+around project scoping and impact. By drawing parallels to 
+soil care practices, we explore how “care time” emerged in 
+this context, and how the incorporation of ambiguity 
+galvanized students, community, and faculty to make time 
+to navigate it. This led to non -tangible yet vital outcomes 
+such as overcoming social limitations, building symbiotic 
+relationships, and enacting acts of care necessary for more 
+ethical orchestration of technology . 
+CCS CONCEPTS  
+• Social and professional topics → Information technology 
+education  
+KEYWORDS  
+Service Learning ; Relation ality; Care;  Community E ngagement   
+ACM Reference format:  
+Samar Sabie and Tapan Parikh . 2019. Cultivating Care through Ambiguity: 
+Lessons from a Service L earning Course . In 2019 CHI Conference on Human 
+Factors in Computing Systems Proceedings (CHI 2019), May 4 –9, 2019, 
+Glagsow, Scotland, UK. ACM, New York, NY, USA. 12 pages. 
+https://doi.org/10.1145/3290605.3300507  1 INTROD UCTION  
+Technological  development is one of the primary drivers  of 
+contemporary political economies. Within its arena, there 
+is a deliverance of “restless futurity ” that privileges novelty, 
+emphasizes productionism, and cultivates  a sense of  
+urgency to act now and fast to catch a future that is being 
+“written in the present ” [13]. This dominant mode of 
+techno -innovation mirrors  the “anticipatory ” state of our 
+daily lives, shaped by a ttempts to manage the unknown 
+ahead, inhibit its “states of uncertainty ”, and build “the best 
+possible future ” [2]. The present is therefore a tumultuous 
+worksite for cultivating capacities and resources, 
+compressed in favor of a grand future of a happier “us”, 
+enmeshed in safe, healthy, accessible, prospe rous, 
+optimized, and more equitable societies.  
+Technological advancements do more than promise to 
+enhance our lives and tickle our fancies; they perpetuate 
+the pervading “Thou shall not regress ” imperative  [66] 
+committed to “the speculative extraction of future 
+economic value ” in a “progressivis t, productionist and 
+restless mode of futurity ” [56]. But in their sweeping 
+propagatio n, tech innovations can also produce 
+“unnerving, unfair, unsafe, unpredictable, and 
+unaccountable” outcomes [64] such as implicit bias [51], 
+algorithmic manipulation and opaque politics [12,21,63] , 
+impregnable “black box ” systems [5], invasive monitoring 
+and control [38], and unbalanced accountability [20]. This 
+begs the question of how to responsibilize the “innovate or 
+perish ” tech paradigm so that ethical  implications on 
+human lives are considered . 
+One high -leverage strategy could be to focus on students 
+in professional graduate programs, who already are or will 
+become  the leaders of this exhilarating yet concerning  
+trajectory o f techno -futurity. However, s tudents in short 
+and costly graduate programs typically have very little time 
+to engage their technological learning in real -world 
+context s, or cultivate relations, relatedness, and care 
+towards a wide range of worlds  their work will impact  “in 
+order to make a difference ” [55]. As a result, w hen these 
+professional degree holders  move on to “change the world ”, Permission to make digital or hard copie s of all or part of this work for personal or 
+classroom use is granted without fee provided that copies are not made or  distributed 
+for profit or commercial advantage and that copies bear this notice and the full citation 
+on the first page. Copyrights for components of this work  owned by others than the 
+author(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or 
+republish, to post on servers or to redistribute to  lists, requires prior specific permission 
+and/or a fee. Request perm issions from Permissions@acm.org.  
+CHI 2019, May 4 -9, 2019, Glasgow, Scotland, UK.  
+© 2019 Copyright is held by the owner/author(s). Publication rights licensed to ACM. 
+ACM ISBN 978 -1-4503-5970-2/19/05...$15.00.  
+https://doi.org/10.1145/3290605. 3300507  
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 1
+
+ 
+ their relational  sensibilities typically lag behind their 
+technical mastery . After all, m aking time to enact  care,  
+interdependence, patience, attention, attunement, and 
+maintenance  towards target users seems obscure  and 
+inefficient  in the  context of streamlined notion s of 
+productivity, success, and innovation of the field .  
+To address these limitations, we designed a service 
+learning course titled “Remaking the City ” that asked these 
+students to apply their knowledge and skills to help real -
+world local non -profit organ izations. We were motivated 
+by the work of Science and Technology Studies (STS) 
+scholar Maria Puig de la Bellacasa on human -soil relations  
+[56], where she weaves a strong case for  augmenting 
+productionist logic with making time for care; an 
+increasingly popular framework within ICT discourse 
+[39,67,72] . In this paper, we report on our experience with  
+the course, focusing on the importance of th e design 
+principle of ambiguity in creating space for students and 
+the partner ing organizations to navigate their relationships 
+and understand the value of care in their own terms.  The 
+paper’s main  contribution is translating the relational 
+notion of care,  typically applied in ICT research contexts, 
+to a pedagogical context through the deliberate 
+introduction of ambiguity. The tensions to be discussed 
+illustrate that it is neither easy nor natural to introduce 
+such a framework into professionally -oriented H CI 
+graduate programs that rarely go beyond user (and 
+product) centered design. We further contribute an analogy 
+to holistic soil care practices from STS to make it easier for 
+readers and students to concretize the notions of 
+contradicting t imelines, harmful consequences, 
+interdependence, and collective flourishment that we found 
+valuable for our analytic framework.  
+2 RELEVANT WORK  
+2.1 Service Learning  
+Service learning is a project -based teaching technique 
+where students apply what they  learn in class at local 
+agencies to promote positive change [1,25] . In addition to 
+the potential community benefits, service lear ning has been 
+shown to create a more positive learning climate [58] and 
+help students develop professional skills such as 
+collaborative work, project management, and leadership  
+[32,52] . On a more interpersonal level, service 
+learning  nurtures a sense of civic engagement and 
+citizenship  [11,14,42,44] , self -efficacy  [6,26] , critical 
+thinking and problem solving  [27,45] , practical knowledge 
+application  [69], trade -off analysis  [50], contextual 
+awareness  [14,44] , career exploration [69], and role finding 
+within a larger context  [22]. Furthermore, service learning transforms the course into a social activity through which 
+students find meaning within the context they engage in, 
+connect to social networks  [23], develop empathy and 
+humility  [29,59] , and feel empowered to be a part of society 
+[49]. 
+A prevailing challenge in tech service projects is that 
+they typically require time to concretize and deploy be yond 
+the course timeframe [28,40] . Unless elaborate constructs 
+are applied to ensure continuity [68], there is an 
+“asymmetr y problem ” [61], with students gaining skills but 
+the community not benefiting. Furthermore, there is a 
+concerning assumption that “ICT is ultimately a social good 
+and hence providing free ICT consulting is by definiti on a 
+social good as well”, which Connolly cautions against, 
+calling for a more critical and relational approach to the 
+paramount complexities of technology and society [15]. 
+Our work adopts this critical stance to service learning, by 
+engag ing the question of how systems and institutions 
+sustain social problems and injustice, and focusing on 
+“developing authentic relationships in the classroom and in 
+the community” as one way of addressing asymmetry [43]. 
+Scholars  have found that foregrounding academia -
+community relationships through service learning reveals 
+the tensions of doing for  vs. doing with  and the challenge of 
+balancing real impact with pedagogical goals  [42]. 
+Involving  students in this discussion concretizes, 
+augments, and even challenges what they learn as they 
+directly grapple with the forces, biases, uncertainty, and 
+unexpected circumstances [10]. Hayes and Cuban capture 
+the gestalt of such service learning experiences with a 
+“border crossing metaphor” , both physical and 
+demographic, where “self, knowledge, and culture” are 
+constructed [30]. They note that unlike highly -structured 
+modes of learnin g, ambiguity and complexity can arise 
+when real communities are brought in. But “rather than 
+seeing this as problematic, suggesting the need to give 
+students more structure or direction” , we must “appreciate 
+and value ambiguity and uncertainty as opportuni ties for 
+different types of learning from service…[and] constructing 
+new kinds of knowledge and relationships …. that go 
+beyond what we or they may have anticipated. ” In that 
+sense, “knowledge is always partial, continually being 
+created and recreated in r esponse to new ideas and 
+experience. ”  
+Our work echoes many of the positive ou tcomes, 
+sentiments, and challenges reported in the literature. But it 
+abandons the interventionist approach of technology and 
+the “deficit -oriented” view of the community  [16], focusing 
+instead on how students and community organizations find 
+shared mean ing by facing ambiguity and negotiating 
+relationships. Furthermore, we highlight through 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 2
+ 
+ qualitative analysis the often -omitted perspective of 
+community organizations  on technology service  projects , 
+and how technology served as  a “hook ” for stimulating a 
+collective conversation on care, solidarity, accountability 
+and situational awareness.  
+2.2 Participatory Design and Infrastructuring  
+Participatory Design (PD) facilitates direct collaboration 
+between users and designers in co ntexts beyond formal 
+enterprises and institutional structures, including activist, 
+hobbyist, and non -profit community groups [18]. Such 
+groups often lack the resources and capacity to successfully 
+design, implement and deploy technological solutions. 
+Furthermore, their projects often relate to a wid e range of 
+stakeholders who may not be fully represented during the 
+co-design process  [8]. PD scholars advocate 
+“infrastructuring” [19] to address these  limitations and the 
+overarching ethical implications of co -designing tech 
+ecosystems in community contexts. Le Dantec and DiSalvo 
+define infrastructurin g as “the work of creating socio -
+technical resources that intentionally enable adoption and 
+appropriation beyond the initial scope of the design”  [17]. 
+This approach emphasizes the potency of relationships 
+within intric ate social spheres in driving tech -infused 
+outcomes [34], recognizes their role in supporting “ethics 
+in practice” [39], prioritizes “socio -material working 
+relations” over artefacts, and broadens the notio n of 
+innovation beyond products to include “a principle, an idea, 
+a piece of legislation, a social movement, an intervention, 
+or some combination of them” [8]. 
+In applying this expanded, relationally -charged 
+appro ach to design, Le Dantec and Fox narrate the work it 
+takes to build and mend relationships with the academic 
+institution’s proximate community [37], Bødker and Kyng 
+speak about building partnerships for a new impactful form 
+of PD [9], Agid theorizes the relational practices em erging 
+in her work as a designer with a social justice organization 
+[3], and Light and Akama explore the nuances of 
+interdependence when intentionally “co-designing 
+ongoing future societal relations beyond the immediacy of 
+designing objects or services during project time ” [39]. Our 
+work translates these frameworks of relationship -building  
+from design and research contexts  towards the goal of 
+training future ICT practitioners. We show in a pedagogical 
+setting what it takes to infrastructure social -mate rial 
+relationships, deal with their ambiguities and nuances, and 
+enact care for local communities.  
+2.3 ICT and Care  
+Prior literature includes care as one of the perspectives 
+students acquire and demonstrate through service learning [59]. The theoretical lens of care is also increasingly 
+adopted in ICT  discourse  [39,46,48,67,71,72] . Maria Puig de 
+la Bellacasa posits care as affective enactment, an “ethico -
+political obligation ” [54], and a relational ontology; “to care 
+about something, or for somebody, is inevitably to c reate 
+relation” [55]. She invites us to attune to the care 
+permeating everyday relations and  make “care time ” for 
+what matters, be it in biological, sociotechnical, or scholarly 
+contexts [57]. By foregrounding involvement, affect, 
+interdependence, care time, relationality, and repetitive 
+adjustment, nurturant relation alities can emerge as 
+alternatives to the aggressive temporality of profit -driven 
+techno -scientific innovation  [56]. Care supports 
+“continuity of life ”, affirms “a moral relation ” to the cared 
+for [33], and its “slowness ” nourishes co -existing ecologies 
+not running at the speed of innovation -driven capitalist 
+economies. In this sense, care  time offers “glimpses into a 
+diversity of timelines that, despite being made invisible or 
+marginalized in the dominant timescape, can challenge 
+traditional notions of technoscientific innovation ” [56]. 
+Light and Akami build on Puig’s rationale of caring “as 
+intrinsically relational, situated inside interdependency” 
+with in the context of pa rticipatory design  [39]. Toombs et 
+al.’s ethnographic inquiry of the “sociality of hackerspaces ” 
+elucidates how the culture of independence, techno 
+proficiency, and neoliberali sm in such spaces is 
+counterbalanced by implicit and explicit acts of care, with 
+“hidden -but-enacted” interdependence that deepens the 
+hackers ’ relationship with the broader community [67]. 
+Zegura et al. advocate social good  through the practice of 
+“care -oriented data science” that valorizes “collective 
+tinkering” from the community [72]. From ICTD, Wong -
+Villacres et al.  examine how care helped reconcile online -
+offline disaster  relief  efforts  [71] while Karusala et al. reveal 
+how caring behaviors create a sense of interdependency 
+and community at an underserved learning center in India 
+and how to extend that with technology [36]. In academic 
+settings, Atkinson -Graham et al. probe care dynamics 
+emerging throughout their careers as graduate students 
+with advisor, collaborator, and research subject/object 
+encounters. When understood as sensitizers to what is 
+subjectively important, action s of reflection, tension, 
+assurance, puzzlement, engagement, withdrawal, and self -
+interest then become facets of “how to care ” [7]. Finally, 
+Martin et al. argue that care can emerge out of anxiety and 
+uncertainty as much as by positive intentions  [41]. 
+Our work translates  this relational notion of care from 
+research to  a pedagogical context . Research allows  longer 
+timeframes with subjects trained in ethnography and 
+focused on research outcomes. It is therefore difficult to 
+adapt this framework to pedagogical contexts given 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 3
+ 
+ constrained time frames and different incentives. We probe  
+how to make care time when time has a high premium, 
+such as in busy and expensive graduate programs, 
+mirroring  the high pressure and output -driven work 
+environments that students will encounter in the future. 
+We show  how dominant pedagogical “timescapes ” can 
+team with timelines of care towards the c ommunity even if 
+that renders student output  “unproductive ” with in the 
+dominant innovation logic.   
+3 Background and Motivation  
+Soil care practices inspire us to see  an analogy in how  
+techno -innovation focuses on the cultivation of novel  
+artef acts and intellectual property through the application 
+of venture capital the way food production harnesses soil’s 
+fertility to intensify crop yield. In both, furious 
+productionism eliminate s interdependent relations in order 
+to mainta in an uninterrupted production trajectory. Puig de 
+la Bellacasa draws our attention to the danger s of the 
+eradication  of this interdependence  which in the case of 
+soil, includes seasonal rain, bustling predators, and 
+fluctuating biota conditions. By (1) ig noring “the complex 
+diversity of soil renewal processes ”, asynchronous with 
+tight capitalist timeframes, and (2) invisibilizing its wealth 
+of organisms with off -farm testing and entomological 
+potions, soil is reduced to lifeless substance, its biota 
+aggres sively eradicated, and future food outputs 
+jeopardized  [56].  
+Similarly,  real communit ies are often dismissed in most 
+technology development  paradigms , being  compressed to 
+personas, stakeholders, prototypes, and other design 
+abstractions. This is because external depende ncies, such as 
+probing common assumptions about technology at real 
+sites of digital divides, can induce delays, complexities, and 
+uncertainty transgressive to the tight timeframes of 
+implementation and monetization . As a result , deep  
+engagement is not recognized as valuable in training 
+contexts given the marketable technical and managerial 
+skills that students must acquire.  
+Indeed, within the applied/professional master’s 
+programs at our institution, it is normal for students to take 
+6-7 courses per term, work on assignments until the early 
+morning hours, continuously prepare  for job and 
+internship applications, as well as work as research and 
+teaching assistants. Such an intensely productionist 
+approach does not leave  future practitioners  enough time 
+to fathom their “accountabilities to the worlds that [they] 
+co-construct” [41]. Cultivating an ethos of care for the 
+community therefore seems as subordinated as slowing down food production to the natural rhythm of the soil 
+habitat.  
+3.1 Making Care Time through Engagement  
+Puig de la Bellacasa and other soil scientists [24,31]  
+advocate making food production pra ctices more 
+responsible by giving farmers the time to develop a feeling 
+for the soil, to appreciate its biology and conditions through 
+manual sampling and testing , long-term observation, and 
+working with its natural ecological cycl es. Through “co-
+mingling with its substance ”, “commitment, co ncern, and 
+empathy ” and an appreciation for natural soil dynamics  
+develop  [70]. As a result , fertility is improved, output is 
+increased, and production is sustained in the long term [56]. 
+Analogously, we see the need to cultivate an intrinsic sense 
+of care in future ICT practitioners towards communities 
+through similar co -mingling, with the hope that trainees 
+show “commitment, concern, and empathy ” towards the 
+users of their future sy stems. But embodied immersion in 
+societal spheres is not as straightforward as the haptic 
+engagement of farmers with the soil and its fauna with 
+apple corers and basic microscopes. For one thing, a 
+relationship already exists between farmers and soil. 
+Fostering symbiotic community relationships is typically 
+not part of most students’  academic training , especially 
+those focused on technology . Care through direct 
+engagement, be it in soil or pedagogical contexts, shifts 
+relations from obliviousness, defiance,  or control to that of 
+interdependence, attention, and maintenance.  
+3.2 Situated Engagement  
+Puig de la Bellacasa  sees soil for what it really is: a 
+community right underneath us, lively, vibrant, and 
+teeming with life. She calls on humans to become members 
+of th is community , rather than mere consumers  of its 
+natural capital . Analogously, there are living communities 
+directly “beneath ” campuse s: diverse, human, and lively , 
+with robust social capital of their own . University  students 
+typic ally relate to them through compulsory spatial 
+consumption : sharing streets, communal facilities, transit 
+hubs, and zip codes, but not necessarily through 
+pedagogical bridges. With such bri dges, t his shared 
+physical reality , co-mingling , and inevitable co llision s 
+could incentiviz e various forms of collaboration , allow 
+“thoughtful and pr otracted observation ”, and give  students 
+the chance to “experience  the specific ‘schedules’ 
+happening within  the arrangement of life cycles ” [47] in 
+their institution’s proximate community . We believe that 
+such active  form s of situated membership can carve  more 
+opportunities for busy students to make  time to learn to 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 4
+ 
+ enact  care through tech interventions and carry that with 
+them in their future practices.   
+Our prior ICTD research  in India, Sub -Saharan Africa, 
+Central America, and the Middle East  helped us relate to  
+how the physical and social detachment from these sites 
+made it hard to sustain projects or gauge their positive or 
+negative impact in the long term. By situating work in our 
+own communities , everyone  can work together to env ision, 
+implement, and sustain new technologies, services, and 
+delivery models th at we are collectively held accountable 
+for. Community members and leaders can then grab us on 
+the bus, street, sup ermarket, park, or doctor’s office, and 
+ask “What’s going on here? Why is this not working the 
+way it should? ”. This forces us to dedicate  “attention and 
+fine tuning to the … rhythms of an ‘other ’ and to the 
+specific relations that are being woven together .” 
+Furthermore, this approach positions us not  as external 
+technology designers and implementers , but “as attentive 
+members of a specific … community ” [56]. Our pedagogical 
+approach to tech that privileges  an open -minded, humble , 
+and attentive perspective is further  shaped by  our personal 
+involvement with the community by residing  on the island  
+and engag ing in various activities such as co-teaching a 
+digital humanities unit at the local middle school, hosting a 
+civic design summer program for youth, serving with  the 
+residents’ association , and organizing events to bring 
+together academic and community insights  on relevant 
+topics , among others .  
+4 REMAKING THE CITY  
+Remaking the City  is a master ’s level service learning course 
+that we taught to engage  students in service learning 
+projects with local community partners .  
+4.1 Background  and C ontext  
+Our institution’s new  campus started operations  on August 
+1st, 2017. It is situated within a large metropolis, on a 
+narrow  3.2 km -long island  encompassing affordable and 
+luxury residential developments, schools, shops, 
+restauran ts, parks, a bank, a postal office, and a long -term 
+care hospital. A community affairs director was stationed 
+on the island durin g the planning and construction  of the 
+campus , holding regular office hours in the art gallery . Over 
+these three years, members of the community expressed 
+trepidations, curiosity and anticipation of what the island -
+university relationship m ight look like. The ir primary 
+concerns included fear of continued  gentrification, 
+increased load on transportation and other infrastructure, 
+too much outside attention that would jeopardize the calm 
+and intimate vibe of the island, and highly transient  student populations that come and leave without contributing to 
+the community.  
+The campus is located on the south end of the island, 
+close to the ferry terminal, tramway, and subway station. 
+Island residents speculated that these transportation 
+options  would act as “a vacuum ”, sucking students to other 
+parts of the city to eat, shop, or otherwise hang out. Several 
+residents mentioned that they were concerned that 
+students would not visit the north part of the island where 
+the majority of community lives and most organizations 
+and businesses are located .  
+Admittedly, our context is unique: a new high -profile 
+campus on a small island within but apart  from a busy 
+metropolis. We have not concealed the qualities of  our 
+location because the specifics matter  – and are intrinsic to 
+describing our subjective position in this research . We were 
+also inspired and  cautioned by Le Dantec and Fox [37] 
+about some of the corrosive dynamics academic institutions 
+could enact on their proximate communities . In our case, 
+the university h ad already displaced a large public hospital 
+that provided long -term rehabilitativ e care to low -income 
+patients.  Our goal was to ameliorate some of the disruptive 
+impact of our presence, by support ing students in 
+becomi ng “confidants ”, “advocates ”, and “collaborators ” 
+[37], and by facilitat ing knowledge exchange and care 
+between the two populations . This is because to “become of 
+the community ” requires a collective ethos , as societal 
+relationships entail many individuals, each with their own 
+notion of belonging. Furthermore , the outcomes of 
+engagement and partnership are “secondary to the issue of 
+how we [intend] to work with the community ” [37]. The 
+essence of “building rapport ” is in the process itself, akin to 
+the way care emerges in o rdinary moments such as 
+cultivating soil  [56], working in a hackerspace [67], or 
+conversing with a mentor  [7].  
+While there were a few faculty and staff who lived on 
+the island , our roughly 500 students (more than 75% of 
+whom  live on campus)  constitute d the vast bulk of our 
+human capital. Most of  these students  are enrolled in one 
+to two-year professional  master programs, requiring  five to 
+seven courses per term . Many are also employed as 
+teaching and research assistants, and intern  during the 
+summer  to address the high financial costs of attendance . 
+50% are international  and tend to travel home or explore 
+the rest of the city and region during downtime rather than 
+mesh into the local community. Given these  demands  on 
+their time, i t is difficult for students  to collectively 
+negotiate societal membership and shared temporality with  
+the community, and to be cognizant of the need to co-
+construct alternatives immediately outside cam pus while 
+simultaneously working towards global impact.  
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 5
+ 
+ 4.2 Course Goals and Partnerships  
+One of the course goals was to understand the unique 
+technological challenges faced by small civic organizations 
+and the role technology can play in service delivery in 
+urban contexts . Most techn ology ventures focus  on serving 
+individual  consumers or large organizations , leaving 
+smaller organizations in the lurch.  W e reached out through 
+our community affairs  director to several such 
+organizations on the island during the summer of 
+2017.  Eventual p artnering organizations included the local 
+municipal body, historical society, garden club, dance 
+theater, senior center, and  art gallery. Some  partner s had 
+more than one project  and worked with multiple student 
+groups . One student group worked independently with a 
+variety of retail and food vendors  on the island . 
+4.3 Activities and Timeline  
+Remaking  the City was defined  by open -endedness  in terms 
+of project scope , nature of deliverables, and level of 
+technical innovation expected . To ensure that this 
+ambiguity did not result in a lack of accountability  to the 
+course or project partners , multiple const ructs  were 
+embedded  to (1) create opportunities for students and 
+partners  to encounter and navigate this ambiguity, and (2) 
+strike a balance between learning, service, impact, and 
+affective engagement . 
+4.3.1 Service Component : Teams  of 2-3 students  were 
+asked to “commit up to 5 hours per week to support their 
+partnering organization’s technology needs. ” We left the 
+actual requirements open to encourage  student s and 
+partner s, each with unique needs, resources,  skills,  and 
+interests, to individualize their collaboration. By avoiding  
+overly prescriptive requirements, our goal was to foster  
+mutual  dependency in navigating this  ambiguity . Examples 
+of service projects  include d creating a Google map of  green 
+space s on the island , introducing maint enance personnel  to 
+a cloud -based GIS service , designing a new website , 
+prototyping web literacy cards for sen iors, and helping an 
+organization migrate to Google Apps email  hosting . 
+4.3.2 Speculative Design Component : Six weeks before the 
+end of the course , students were asked to start thinking 
+about a plan for a project, technology or initiative that 
+would impact  the island or a specific community on it 
+within 3 -5 year s. Two of the student teams chose to work 
+with their existing partners to come up with this proposal. 
+The f inal deliverable was a presentation and report with a  
+low-fidelity prototype and  implementat ion plan.   
+4.3.3 Meet and Greet Mixer: This informal  event was 
+organized  during the first week of class (also the first 
+official week of campus) at the island art gallery (also a 
+project partner) . Partners  pitched their organizations’ history, mission, whom they serve , and where they need ed 
+help (better mapping, mobile GIS, remote access to elderly 
+patients, updated websites, etc.). Students had the chance 
+to chat with the se organizations before deciding which they 
+wanted to work with . The conviviality of this symbolic co-
+mingling  at the island’s mid -point , with food, art, and 
+impromptu  conversations on life and  technology , prompted  
+a sense of togetherness , warranted independent care 
+initiat ives, and exposed fertile ground for emerging 
+collaboration s.  
+4.3.4 Weekly Critical Reflection s: Students were asked to 
+post weekly reflections on the course blog addressing the 
+activities they did with their partner , their  perceived utility , 
+the resultin g outcomes/ design artifacts, emerging needs , 
+obstacles, and tensions, and how their vision and ideas 
+align ed with their partners ’. Reflections helped students tie 
+their “constantly evolving perceptions, beliefs, and 
+knowledge” [59] with the class material. It was also an 
+opportunity to articulate the troubles they were f acing in 
+navigating ambiguity, get feedback from us and their peers, 
+and to ensure accountability to the course goals and to their 
+partners . We  discussed the blog reflections once a week in 
+class, exchanging advice and suggestions, and connecting 
+student experien ces to broader themes explored in the 
+course .  
+4.3.5 Semi -weekly Project Share -Outs: Every 2 -3 weeks , 
+project group s shared their progre ss with the whole class 
+or in smaller groups . The unique and open -ended nature of 
+each project necessitate d a forum for students to vent, hear  
+other articulation s of “progress ”, demonstrate value being 
+delivered to  the partners , and discuss  various nuances  of 
+building relationality . 
+4.3.6 Guest Lecturers : Island residents active in civics , 
+politics , and business  came as guest speakers to address a 
+variety of topics including  island governance, urban 
+planning, “civic” technology , the island’s historical 
+significance, and  the campus planning and construction 
+process. This bolstered the multi -faceted community 
+engagement in the course and  helped students understand 
+and navigate the  rich historical, economic, and socio -
+political dynamics  of the island  they increasingly  
+encounter ed through  their service projects .  
+4.3.7 Lectures and Readings : Material cover ed in the 
+course lectures  include d guidelines on managing 
+community relationships, participant observation, user 
+research, participatory design, and urban studies covering 
+salient issues such as race, immigration and gender . We 
+also conducted several design exercises  envision ing new 
+technological possibilities for the island including  local  
+currenc ies and interactive Internet kiosks.  Through 
+discussion  and small group meetings, we emphasized care, 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 6
+ 
+ impact, partnerships, patience, mutual benefit, and 
+persistence  over rushed technical interventions .  
+4.3.8 Other  Events : During the first we ek of class, the 
+president of the local historical society (also a project 
+partner)  took students on a walking tour  of the island , 
+which for many students was their first time venturing 
+north  on the island . Students also engaged with the 
+community by organizing  a food fair  on campus , attending 
+local townhall meetings, and pitching their speculative 
+designs at the end of the term to an audience including 
+island organizations and residents.  
+5 METHODOLOGY  
+This paper is based on  both authors’ firsthand experience 
+teaching the course and interacting with students and 
+organizations, analyzed through Charmaz grounded theory 
+approach , and interpreted  through  the lens of care. The first 
+author was a teaching assistant for the cou rse, and the 
+second author was the lead instructor. The findings are 
+derived  primarily from  the qualitative analysis of 10 in-
+depth semi -structured interviews conducted in January 
+2018 with 5 (out of 23) students and 5 (out of 6) partnering 
+organizations . Interviewees were organizational  leaders or 
+board members  with whom  students had worked directly 
+during the term. The limited  student participation can be 
+attributed to some of them graduating immediately after 
+the cour se, and their overall busyness with classes, 
+specialization project s, and job hunting. Interview 
+questions for both included why they chose to participate, 
+their expectations, challenges faced, perceived benefits, and 
+recommendat ions for the course.  
+The interviews were audio -recorded and transcribed. All 
+participants gave their consent to be audio recorded. The 
+first author (who was not directly involved in grading or 
+establishing partnerships), initiated the interview invites, 
+coordinated scheduling, and conducted the interviews.  
+Interviews ranged in length from 25 to 120 minutes. The 
+first author and a research assistant transcribed interview 
+audio recordings and imported transcripts into QDA Miner 
+Lite. Charmaz grounded theory approach was applied  to 
+inductively cod e the interview data . The first author read 
+each transcript, assigning a code to every sentence (open 
+coding), focusing on sentiments, actions, and timeframes 
+that capture  meaning making between students and 
+partnerin g organizations. Example codes included “partner 
+indecisiveness”, “enjoyed talking to partners”, “gauging 
+meaningfulness to community”, “inviting students to feel at 
+home”, and “hard to anticipate timeframes”. Once 
+consistent codes began to emerge, we draf ted the first 
+round of codes and tentative categories such as “ambiguity causing anxiety”, “non -tangible gains”, and “border 
+crossing”. Thematic analysis was further supported by  our 
+observations, local media coverage, the final course  
+presentations and reports, and 130  student blog posts. We 
+did not code this data as  we were highly familiar with it 
+through grading, frequent discussions with the students 
+and research team, and re -visiting for paper  writing . 
+Instead, w e used a constant comparative method to 
+simultaneously compare codes and categories with un -
+coded data and refine  accordingly. We also discussed 
+emerging codes and themes with the research team and 
+colleagues. After three iterations, the core theoretical idea 
+of “care through ambiguity” began to  emerge and was 
+further refined along with the codes.  
+6 FINDINGS  
+6.1 The Compounded Ambiguity of Service  
+Students generally found the  design project  easier to 
+navigate as it did not require working with partners (only 
+two out of 10 groups continued to work wi th their partners 
+on the design project) , and it emulated processes typical in 
+their curriculum: visioning, stakeholder analysis, 
+requirement elicitation, and pitching . On the other hand, 
+the intentional open ended -ness of the service component 
+was found t o be much more challenging , for both student s 
+and partners . While partners  were excited by the course 
+and its potential, interviews showed that they did not know 
+what to anticipate , how much to trust students, what to 
+make of this initial collabor ation, or what could be expected 
+from a 5-hour weekly commitment. As one partner  noted, 
+“I don't think I've ever worked with that large a group on 
+something that was so completely wide open .”  
+9 out of the 10 service projects started with  need -finding 
+and participatory project -scoping . Such need -finding 
+further compounded the natural uncertainty as sociated 
+with real -world rather than “boxed ” and “highly -scripted ” 
+classroom problems; “ I never try something like [that], we 
+don't have specific needs and we are  trying to find the needs 
+not only from them [the partner ] but also people who we are 
+targeting ” one student recalled.  
+Ambiguity was also nurtured by the students’ sensitivity 
+towards their partners , privileging the latter’s needs over 
+more technologicall y sophisticated  projects that might 
+better augment their CV and skills. This implicit act of care 
+was common ly referred to  in student interviews: “ you can't 
+go hey this is my tool kit, this is all I can do. You have to be 
+open right?  So, we were very open  minded about it .” It was 
+also reciprocated by the partners , who worked hard to 
+include the students’ abilities, ideas, preferences, and 
+“excitement ”. As one partner  put it “ we needed to come to 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 7
+ 
+ some kind of understanding about where each of us is coming 
+from.”  
+While partners  put in time and effort, they were not 
+willing to commit material resources such as licensing fees, 
+web hosting fees, or hardware purchases for trust and 
+funding purposes . Such constraints  crippled  the ambitious 
+proposals students pitched, making them experience a 
+looming sense of ambiguity and uncertainty as they could 
+not address the partner  needs using their familiar  
+knowledge,  skills, and training . Even non-ambiguous  
+technological interventions , such as adding a donate/shop 
+feature to a website or switching to a mobile -friendly GIS 
+platform, were not straightforward to implement due to 
+infrastructure constraints  (e.g. organization volunteers 
+unable to learn “newer ” platforms such as WordPress ), data 
+gaps, and bureaucracy, thus impell ing cycles and cycles of 
+need finding and solution scoping  transgressive to well-
+defined  homework  problems .  
+In general , we tried to nurture  a collective interest in 
+impactful rather than novel ideas . This was  supported by 
+lecture material, th e partners ’ passion for their work, and 
+the students increased sense of accountability towards their 
+new community. Ideation and prototyping cycles were like 
+a “tug of war ”, as a student phrased it, with all sides 
+involved tempted at time s to jump into implementation, but 
+ultimately hunting for practical ideas that would truly 
+benefit them and the community.  For example, while user 
+research revealed that a voice -activate d ride sha ring app 
+might be great for seniors, one t eam ended up proposing  a 
+less “innovative ” set of paper -based web literacy cards that 
+were more practical , and would provide definite and 
+immediate value . 
+6.2 Navigating Ambiguity through  Interact ions  
+Many projects remained in the aforementioned state of flux 
+two months into the semester. Partners  were accustomed 
+to that, and even found it refreshing; “ I love the organic 'lets 
+just wing it’ and see what happens”  a partner  noted. Still, 
+many student s reported feeling a sense of a nxiety as their 
+projects did not appear to be making “progress” ; “it caused 
+me more anxiety just not knowing what was going on…we 
+felt we didn't know what we were doing so we need to figure 
+something out ”, a student recalled.  “As things went along, it 
+goes pretty messy ”, another student declared.  
+Nearly all teams reported in interviews or blog posts a 
+commitment to regular weekly meetings , primarily in 
+person. These  meetings continued  despite the extremely 
+hectic sc hedules of students and partners . One partner  
+described how she at times forgot about the meetings or 
+had to tend to urgent matters, but students were happy to 
+chat with other personnel or community members or follow her around and talk as she got things done around 
+the organization. A self -described “ socially -awkward ” 
+student who felt their partner  did not take them seriously 
+at the beginning commented on how their partner  grew 
+more “excited ” with each meeting . 
+It was through these repeated meeting s that both sides 
+report ed that their relationship gradually morph ed into 
+oneness. Typically, students are accountable to partners  on 
+the one hand and to the professor and TAs in charge of 
+their grades on the other : they must help the former and 
+meet the curricular  expectations of the latter. In Remaking, 
+the interviews reveal a n emerging collective sense of 
+responsibility , with the students and partners  becoming 
+one body, in one vessel, navigating ambiguity to (1) provide 
+benefit to the community and (2) meet course expectations 
+collaboratively. As one student boasted, “our partners were 
+so willing to tackle the problems with us. They want to design 
+with us. They want to propose ideas.”   
+Over time, partners  started  to loop in more of their staff 
+and community members , sharing their day -to-day tasks  
+and challenges. “ They helped us get to know the problems 
+and everything that they had. We got three different 
+perspectives…we got to see all those thi ngs and with [ the 
+partner’s name ] we got to see how the places administered 
+and everything.”  These  conversations were not confined to 
+offices; they reverberated in streets, coffee shops, 
+apartments, festivals, on campus , at the farmers’ market on 
+the islan d, and in one case over a Thanksgiving dinner that  
+students were invited to .  
+One of the most promising projects emerged from a 
+team that was committed to  meeting every week and 
+talking for hours at various locations throughout the island. 
+When  they we re asked about the success of their 
+collaboration, they would say “w e're not really sure, but it's 
+working. We couldn't explain [to the organization board] the 
+gestalt of this really amazing process.”  Frequent interactions  
+helped everyone make it through “ the transitionary path ”, 
+care about each other, and find joy in  the collaboration.  
+6.3 Building Relationships Over Artefacts  
+Partners  mentioned in interviews gaining several  indirect  
+practical benefits , such as students exposing data gaps, 
+realizing th e limits of their financial/infrastructural means, 
+discovering new things about their users  through surveys 
+and prototype deployment , testing new ideas, and 
+completing  dormant tasks.  But s tudents and partners  
+seem ed to value  the relationships they developed  more 
+than any concrete outcomes or deliverables that did or did 
+not result . Partners  were unanimously grateful and 
+enthusiastic about future collaborations; even if the project 
+did not achieve any material goal, they valued  the 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 8
+ 
+ collaboration, fresh ideas, web and social media guidance, 
+and learning things about our institute  (for example, that 
+we are not nerds “ who spent their day in the dark starting at  
+a computer screen ”), and ultimately their own organizations .  
+On the student side, they  seem ed to get the value of 
+“partnership with people. I got that idea … to understand their 
+needs before rolling up my sleeves to do something for them. 
+Pretty quickly I think I got on the right track towards just 
+talking with them, having a great time, bu ilding our 
+relationship. Talking about work also talking about 
+something from everyone's life so we can maintain a 
+relationship like friends. ”  
+Some students felt that these relational outcomes were 
+not usefu l for their portfolios or CVs , especially w hen 
+compared to building  sophisticated technologies  like in 
+other courses and research activities . But students 
+acknowledge d in interviews and course evaluations that 
+they valued learning about product design , initiating 
+collaborations, talking to the community to find solutions, 
+and acquiring  new skills to fit partner  needs.  
+Finally, most interviewees appreciated that the course 
+was explicitly not about high -tech; “ this kind of a class is a 
+break for me from  everything else that I do . For every other 
+course I do there are assignments when I'm sitting in front of 
+monitor you know staying awake for 3 -4am… I was totally ok 
+with not doing machine learning for this course… I wanted to 
+have a good experience and I wanted to partner with someone, 
+work in a team ”, as one student explained.  
+6.4 Partner s’ Co-Ownership of Remaking   
+Our partners  took co-ownership  of the course from the 
+time they first met students . They also helpe d us frame the 
+class pedagogically  by making  the students and us  
+understand the value of engagement  and demonstrating 
+real acts of care  to students .  
+Partners  approached their involvement with Remaking 
+as providing value and servic e to our institution ; “we are 
+more than willing to do things for the students ”, as one 
+partner  summed up her participation. Furthermore, 
+partners  named many skills students would have to acquire 
+to succeed in life such as interacting with needy customers, 
+managing real projects, expanding professional networks, 
+taking initiative, and finding people with similar interests. 
+As one partner  elaborated, “ this whole island is a network. 
+And that's why [your institution]  has to become part of the 
+network… the stud ents have to find their own network … 
+[because] you have to get a job, you have to deal with people .” 
+Another partner  called it  “a sharing experience. They can 
+learn from us, we can learn from them .” The learning and 
+growth symmetry, propelled by frequent ly ambiguous  
+interactions, cultivated respect, care, and commitment, and not only fulfilled the civic mission of service learning, but 
+thwarted physical borders, demographic boundaries, and 
+power dynamics, allowing both sides to interweave their 
+worlds into  “interdependent existences” that fostered 
+affective and material engagement ” [55]. 
+Our brand -new campus is “ an architect's delight ” where 
+novel and revolutionary  ideas are nurtured to drive global 
+techno -economic innovation. But it can also feel alienating; 
+“too programmed and sanitized ” as one partner  put it. The 
+short  duration of the  professional  graduate programs (1 -2 
+years) and large international student population further 
+exacerbate the issue.  It is no wonder that student 
+interviews (and partner  speculations) reflected a sense of 
+collective isolation and loneliness. For example, despite  
+regularly asking  students to share project updates and 
+challenges with the entire class or in smaller groups,  one 
+student reported that “ it felt like we were this group 
+foundering alone ”. It was therefore heartening to hear the 
+students feeling “ warmly embraced ” by the ir neighbors.  
+Students were invited to  Thanksgiving dinners , 
+festivals, and pizza, were given gifts and hugs, and asked 
+caring questions such as “are you eating enough?”, “do you 
+miss your family?”, and “aren’t you working too darn 
+hard?”. “ It’s something that doesn’t happen at [our campus] !” 
+a student exclaimed. She had found a warm refuge at the 
+senior center where she connected with many seniors 
+despite the ir age and culture gap. Others interacted with 
+local immigrants who were also building their “ own 
+American dream. ” These affective dynamics  and acts of care  
+“changed a lot of my life on [the island]  ... I was so happy 
+throughout the semester… now I owe [the island] ” another 
+student fondly reported.  
+In return, partners  spoke fondly of the excitement of 
+interacting with the students and our institution , the 
+students’ persistence in working ar ound obstacles, the 
+energy that made residents “ come alive” , and engagement 
+beyond the service project. For example, a partner  recalled 
+how one student “would just stop in and say hello. I love that. 
+I thought it was really wonderful that he would just sto p in 
+and say hello.”  
+7 DISCUSSION  
+The service dynamics in Remaking the City and its inherent 
+ambiguity helped co -creat e social relations, rapport, and 
+shared contexts with in our community. This entailed 
+challenging predominant pedagogical strategies aligned 
+with future -driven productionist paradigms and the 
+“erosion of casual encounters ” [39]. By revealing the 
+“invisible cement” [39] of relationship building, we showed 
+what it means to appreciate  the “biology ” of the community 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 9
+ 
+ through care time and  learn to share space (figuratively and 
+materially) rather than being mere consumers . 
+Furthermore, since c are “unfolds in action ” [72] and is 
+“vague ” [53] and “messy ” [48], we articulated examples of 
+its specificities that legitimize its varied forms and 
+sentime nts of enactment. This is especially important for 
+tech students who are typically exposed to streamlined and 
+alienated notions of productivity, success, and innovation . 
+7.1 Ambiguity as a Way for F inding  Meaning  
+Students a nd partners  had un ique needs, resources, skills, 
+and expectations . Therefore, the course valued emergent 
+qualities, processual frameworks, and persistence 
+implicitly (through open -ended requirements ) and 
+explicitly (through  feedback , discussion,  readings, and 
+grades). Students who regularly talked to us about their fear 
+of not meeting expectations were assured  that they were 
+fine as long as they were  making effort and  letting the 
+process take its course. But students and partners  still 
+experienced the “forms of discomfort, confrontation, 
+tension an d precariousness” that Akama et al. report on 
+their uncertainty -promoting  design  project  [4]. 
+In our case , the pragmatic and symbolic role of 
+ambiguity was to (1) democratize the collaboration  process 
+so that partners  and students had full control over what 
+was meaningful to implement, (2) grant both sides the 
+choice to purposefully forgo parts of the formal design 
+processes given the tight semester timeline, and (3) free 
+students from their intrinsic tendenc y to optimize for 
+grades and CV credentials. In return , we legitimized less 
+utilitarian, less measurable, and more affective dynamics 
+such as care, shared ethos, civic engagement, situatedness, 
+and dismantling interaction barriers. That he lped students 
+learn firsthand that knowing takes commitment and 
+immersion, good ideas require time, partners  are not 
+predictable, and the shear messiness of the interaction of 
+technology with real life .  
+To navigate ambiguity, students had to leave behind the 
+artefact -centric, investor/manager (for which the professor 
+serves as a proxy) mindset , involve their partners  in the 
+quest to negotiate desired outcomes given the time and  
+resource constraints, build relationships, and handle the 
+emergent together, making that in itself a “central and 
+welcome quality of how both … experience  processes, 
+relationality and environments”, and that experience 
+“…relies upon trust – in the process and in one another – 
+and a sense of optimism and confidence that something will 
+come through” [4]. The result was not only interventions 
+and proposals, but symbiotic caring practices, each being 
+“affective state”, “ethical obligation”, and “practical labor ” 
+[55]. Avoiding prescriptive orientations presented a 
+challenge, particularly when it came to the fine line 
+between negotiating emergent relations and just “ slacking  
+off”. We introduc ed collective accountability through  
+student progress reports on the blog, semi -weekly project 
+updates in class , and meeting with  groups that were 
+confused or not making progress . We repeatedly stressed 
+in class that the service project should provide immediate 
+and tangible value for organizations  - we just did not 
+specify exactly what should be produced , hence the 
+diversity of outcomes in 4.3.1. Our goal in introducing 
+ambiguity was to redirect accountability from the class and 
+university to relations with and within the community 
+itself. Constructs in 4.3 (weekly blogs, class updates, 
+presentations, fi nal reports, check -ins with organizations, 
+and final presentations with an audience of community 
+members) were incorporated  to support an active process 
+of reflection  while ensuring that students were learning 
+and partners benefiting, as evident in section  6.3. We also 
+modeled care through our own involvement in the 
+community. Ultimately , by giving students the time to care 
+and embark on a journey to get the “biology ” of the 
+community despite the “looming time limits ”, we aimed to 
+transcend the transactiona l and achieve the relational .  
+7.2 The Cost and Value of Making Care Time  
+ICT literature narrates the  unfolding of care within a 
+specific orchestration such as data collection or working in 
+a hackerspace [67,72] . In the case of Remaking, care time 
+was not marginal to the tasks on hand; it was the chief 
+vessel for navigating ambiguity that it compressed the 
+innovation expected by predominant pedagogical sc opes in 
+tech. From a capitalist perspective, care here was not 
+“value-creating work ” [56] because it contradicted material 
+production and efficiency: the time students spent 
+interacting with the community in various capacities was 
+time not spent on coding, conducting rigorous user studies, 
+or perfecting elevator pitches to attract VCs.  Indee d, none  
+of the service projects were novel or innovative from a 
+technical  perspective. Students and partners  discovered 
+through the course of their collaboration that good ideas 
+take a long time to procure, as does building relationships.  
+To justify the i mportance of making time for care, Puig 
+de la Bellacasa argues that such time is irreducible to 
+productionist agendas, so we should not be “focusing on 
+demonstrating the productive c haracter of activities of 
+care”  and must instead show the importance of th e “vital 
+practices and experiences that are discounted, or crushed, 
+by the productionist ethos”  [56]. Steve Jackson’s work on 
+care and repair [33] shows that “no output, no growth in 
+the future, and …. no innovation or emergence of newness 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 10
+are possible without a commitment to the everyday 
+maintenance and repair that supports the work of ca re and 
+continuity of life”  [56]. Care is vital for creating “livable ”, 
+“lively ”, and r elevant worlds.  
+When we see soil as “living ” and care -worthy, we are 
+humbled by its ability to take care of its internal processes 
+more holistically than alternative techno -scientific 
+methods. Analogously, as students experienced “the 
+fragility of the wor lds we inhabit ”, and saw innovation and 
+development counteracted by fragmentation, and resource 
+asymmetry, they experienced the “the ongoing activities by 
+which stability …. is maintaine d” [33], and how they as 
+technologists and designers might participate in that 
+careful balance . Furthermore, whether they started  out as 
+student s, partners , or instructors, everyone’s identities 
+inflated into listeners, messengers, teachers, learners, and 
+advocators. That fed into a collaboration that was “a 
+collective achievement” [53], ethically -engrossed, and 
+driven by “persistent tinkering in a world full of complex 
+ambivalence and shifting tensions” [46].  
+Working with paper cards, “legacy”  web platforms , and 
+existing software tools , contradicted innovation as “the 
+start of the technology chai n, in moments of q uasi-mythical 
+origination ” [33]. It tackled the “inescapable troubles of 
+interdependent existences ” [55]. As one partner  put it, “the 
+win-win is knowing each  other. The win is walking up that 
+staircase together with you. This isn't about Cornell  doing 
+something for you or the island being genuine and welcoming 
+people, this is about all of us together because we're all in this 
+together whether anyone likes it or doesn't like it, this is the 
+way it is. And we need to go forward with that.”  
+When the transactional transcended to relational, we co -
+constructed infrastructures, which is a “fundamentally 
+relational concept” critical to participatory design [65]. 
+Whereas  technical skills are taught pervasively in course 
+after course, societal membership is not; “ if not for the 
+course, I would never have the chance to know those people, 
+to have time to make conversation with local residents and 
+have this relationship that we get to meet weekly and share 
+our insights ” a student explained. Once we accepted this 
+interdependence, then in our “worlds made of 
+heterogeneous interdependent forms”, we found that “to 
+care about something, or for somebody, is inevitably to 
+create rela tion” [55]. When we run into each other now at 
+the bus stop, subway station, supermarket, doctor’s office, 
+we all have a reason to engage in a conversation, to exercise 
+care, and be accountable towa rds each other.   
+7.3 Technology was the Starting P oint 
+We cannot forget that technology was a starting point for 
+these conversation s. As one partner  put it: “ manpower is not necessarily  something that we are looking for. It’s much more, 
+we run a business and every business these days has to have 
+a strong tech department. What often happens with non -
+profits is they don't have that because they don't have the 
+finances to support it .” 
+Farme rs have a relationship with soil ; students have no 
+such pre -existing relationship with the community . What 
+they have is a desire to serve the community with what 
+they know best: technology . Furthermore, s tudents, 
+partners, and community members being  “differently 
+positioned in their capabilities and readiness with rega rd to 
+information literacy and …  technology use ” [35] was a form 
+of “social lubrication ” [39] that helped interactions  flourish 
+and discarded in its manifestation “the positivist [HCI] 
+tradition  .... of producing an unambiguous result ” [62]. 
+Remaking  emulated  Light  and Akama’s  design  model 
+where designing  “is no longer led or owned  by designers, 
+but becomes  a co-articulation  of concerns  and issues  in a 
+world highly mediated by technology ” [39].  
+Furthermore,  if making  time for care  as a goal  seems 
+disengaged from the futuristic techno drive, what if we see 
+it as a form of “ancient wisdom ” for instilling ethics of care 
+in tech programs or as an alternative ontology within the 
+innovation paradigm? It (1) has the tension, tiresomeness, 
+and messiness  of wiring  circuit  boards,  cleaning  training 
+sets, and debugging  code,  (2) is as non-linear  as the 
+innovation  trajectory  itself,  (3)  it galvanizes  our 
+imagination and problem-solving neurons, and (4) it is real: 
+care after  all is  “a necessary  everyday  doing ” [56].  While 
+most  technology  curricula “ suspend  and compress ” the 
+present,  Remaking  distended  the present,  “thickening  it 
+with a myriad  of deman ding attachments”  [56].  Fear, 
+urgency, and output had to be distanced  in order to focus 
+on caring,  and it was  repetition  and  commitment  that 
+helped navigate the restless anxiety of the ambiguous.  
+We hope  that  this bricolage  of technology-time-care  is 
+reflected in the students’ future work  and careers , and that 
+the complex  relationships  of people to each  other  are 
+considered  within  participatory  design  practice  as 
+“embodied,  located,  and emergent ” [3]. After  all, it  is 
+increasingly  accept ed that design  activities  do not 
+“specifically  involve  the making  of digital  products  or 
+services  as a means  of structuring  relations,  but instead, 
+they attempt  to co-design  awareness  and understanding, 
+and scaffold  connections  among  people,  some  of which 
+may manifest  in  enhanced  design,  deployment, 
+customization or use of ICT ” [39].  
+CHI 2019 Paper 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 11
+Despite the positive interviews and course evaluations, the 
+course was not without its pitfalls.  Not all of the service 
+projects led to a succ essful outcome. Students  had to work 
+hard to overcome or work around mistrust (e.g. partner  
+declining to divulge credentials for students to access  their 
+social media accounts), skeptical board members (to 
+approve  proposed service projects), and communication 
+hiccups (e.g. forgotten meetings). They also had to 
+demonstrate commitment and set boundaries (e.g. partners  
+expecting our institution to pay for licenses). In return, 
+some partners  felt the students, while “ brilliant ” and “ work 
+too darn hard”, did not have the skills the partner  really 
+needed to advance their organiz ational mission .  
+It also not clear how to qualify or measure the  care 
+emerg ing. Our findings are  based on observation and 
+interview data : through crossing to uncomfortable  and 
+unfamiliar worlds, discovering ways to relate to the 
+community through hobbies, food, and events, maintaining 
+patience  and persistence when facing resource limitations, 
+and prioritizing the organizations’ needs  over their own 
+were some of the ways students demonstrated care. Clearly 
+more work is needed to explore different pedagogical 
+approaches to cultivating care  and studying  the results 
+empirically. 
+Furthermore,  not all of the students appreciated the 
+peda gogical goals and values of the class  (perhaps that is 
+why some of them declined to be interviewed) . Some 
+students felt that they were being used to improve the 
+image of our institution on the island. This is a justifiable 
+sentiment  if students did not appreciate the soft skills they 
+acquired , what they learned  as citizens and human beings , 
+or how these skills  would (or would  not) translate into 
+direct economic benefit for themselves  and their future 
+projects  – especially on a campus founded on notions of 
+innovation -driven entrepreneurial activity . We observed 
+this tension first hand as students completed the course and 
+moved on to their other endeavors. As far as we know, 
+none of the students continued their projects beyond the 
+class . It is an open question how long the ir relationships 
+will last, although  we do know of a few instances where 
+students and partners are still in touch.  
+In some ways, the legacy of Remaking the City lies in (1) 
+relationships that have already outlived the projects and 
+artefacts as friendship and mentorship, and (2) the good 
+will created on both sides of the university -community 
+divide. The issue of sustai nability though leads us to ask: 
+what is next?  Robertson and Wagner  draw our attention to 
+the ethics of envisi oning the future in participatory design, 
+recommending that “increased attention be paid to the 
+ways that design is completed as a way to contribute to 
+resolving ethical issues/conflicts that arise in use” [60]. But we also share Akama’s emphasis on the design of relations, 
+which is “intangible , on-going and never completed, 
+spreading through encounter and exchange” [39], which, as 
+shown in this paper, takes significan t time and effort  on 
+both sides . 
+9 CONCLUSION  
+In this paper, we discuss how we introduced  care and 
+care time within a futurity -driven  graduate  technology  
+program through service learning pedagogy. We showed 
+how the course became an “initiation ri tual” between a 
+brand -new campus and its skeptical community. Through 
+the deliberate incorporation of ambiguity in the course, 
+what started as an endeavor to engage students in 
+responsible citizenship and help  local civic organization s 
+improve their technology  infrastructure, culminated with 
+building relationships, transforming roles, and all of the 
+involved parties expressing acts of care towards each other. 
+The course created a structured entry point, a purpose, a 
+timeslot on busy calendars, and a c ontext for "strangers" 
+with shyness and other social limitations to enact care with 
+new people who may become their friends, neighbors, and 
+future design targets. Finally, starting  with Puig de la 
+Bellaca’s invitation to consider care in more -than-human 
+relations , we showed how this can be operationalized  in a 
+more -than-university context. We invite the community to 
+consider what would be the care vessel and time constructs 
+for other contexts  because “to care about something,  or for 
+somebody, is inevitably to create relation ” [55]. 
+ACKNOWLEDGMENTS  
+The authors would like to thank Jane Swanson for her 
+endless support, enthusiasm , and help in planning, 
+running, and finding  partners for the course. We thank our 
+research assistant Arunima Grover  for her indispensable 
+help with data processing and analysis , professors Solon 
+Barocas and Malte  Ziewitz for their valuable suggestions , 
+as well as all the course  partners, students, and guest 
+speak ers. This work is based in part upon projects  
+supported by the National Science Foundation under Grant 
+Number IIS -1319849. We also acknowledge the support of 
+a Sloan Foundation fellowship, a Kaplan Fellowship , and 
+Engaged Cornell . 
+REFERENCES  
+[1] Joseph Brian Adams and Erica Runkles. 2004. “May We Have Class 
+Outside?”: Implementing Service Learning in a CS1 Curriculum. 
+Journal of Computing Sciences in Colleges  19, 5: 25 –34. 
+[2] Vincanne Adam s, Michelle Murphy, and Adele E  Clarke. 2009. 
+Anticipation: Technoscience, Life, Affect, Temporality. Subjectivity  
+28, 1: 246 –265. 
+CHI 2019 Paper 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 128 LIMITATIONS 
+[3] Shana Agid. 2016. “...it’s your project, but it’s not necessarily your 
+work...”: Infrastructuring, Situated ness, and Designing Relational 
+Practice. In Proceedings of the 14th Participatory Design Conference  
+(PDC’16), 81 –90. 
+[4] Yoko Akama, Sarah Pink, and Annie Fergusson. 2015. Design + 
+Ethnography + Futures: Surrendering in Uncertainty. In Proceedings 
+of the 3 3rd Annual ACM Conference Extended Abstracts on Human 
+Factors in Computing Systems  (CHI EA ’15), 531 –542. 
+[5] Mike Ananny and Kate Crawford. 2018. Seeing without Knowing: 
+Limitations of the Transparency Ideal and its Application to 
+Algorithmic Accountabili ty. New Media & Society  20, 3: 973 –989. 
+[6] Alexander W  Astin, Lori J Vogelgesang, Elaine K  Ikeda, and Jennifer 
+A Yee. 2000. How Service Learning Affects Students . Higher 
+Education Research Institute, University of California, Los Angeles.  
+[7] Melissa Atkinson -Graham, Martha Kenney, Kelly Ladd, Cameron 
+Michael Murray, and Emily Astra -Jean Simmonds. 2015. Care in 
+Context: Becoming an STS Researcher. Social Studies of Science  45, 
+5: 738 –748. 
+[8] Erling Björgvinsson, Pelle Ehn, and Per -Anders Hillgren. 201 0. 
+Participatory Design and “Democratizing Innovation.” In 
+Proceedings of the 11th Biennial Participatory Design Conference
+(PDC ’10), 41 –50. 
+[9] Susanne Bødker and Morten Kyng. 2018. Participatory Design That 
+Matters —Facing the Big Issues. ACM Trans. Comp ut.-Hum. Interact.  
+25, 1: 4:1 –4:31. 
+[10] Marilynne Boyle -Baise. 2002. Multicultural Service Learning: 
+Educating Teachers in Diverse Communities . Teachers College Press , 
+New York. 
+[11] David J Burns. 2011. Motivations to Volunteer and Benefits from 
+Service Learning: An Exploration of Marketing Students. Journal for 
+Advancement of Marketing Education  18, Summer 2011: 10 –23. 
+[12] Jenna Burrell. 2016. How the Machine ‘Thinks’: Understanding 
+Opacity in Machine Learning Algorithms. Big Data & Society  3, 1: 
+1-12. 
+[13] Tim Chatterton and Georgia Newmarch. 2017. The Future is 
+Already Here: It’s Just Not Very Evenly Distributed. Interactions  24, 
+2: 42 –45. 
+[14] Susan Benigni Cipolle. 2010. Service -Learning and Social Justice: 
+Engaging Students in Social Change . Rowma n & Littlefield 
+Publishers, Lanham, M D. 
+[15] Randy W  Connolly. 2012. Is There Service in Computing Service 
+Learning? In Proceedings of the 43rd ACM Technical Symposium on 
+Computer Science Education  (SIGCSE ’12), 337 –342. 
+[16] Cynthia Gordon da Cruz. 2017.  Are We Really Helping 
+Communities? A Teaching Case to Challenge Dominant Narratives 
+about Sources of Inequity. Journal of Community Engagement and 
+Scholarship  10, 1: 100 –108. 
+[17] Christopher A Le Dantec and Carl DiSalvo. 2013. Infrastructuring 
+and the Fo rmation of Publics in Participatory Design. Social Studies 
+of Science  43, 2: 241 –264. 
+[18] Carl DiSalvo, Andrew Clement , and Volkmar Pipek. 2012. 
+Communities: Participatory Design for, with and by Communities. 
+In Routledge International Handbook of Parti cipatory Design , Jesper 
+Simonsen and Toni Robertson (eds.). Taylor & Francis Group, 
+London, 182 –209. 
+[19] Pelle Ehn. 2017. Learning in Participatory Design as I Found It 
+(1970 –2015). In Participatory Design for Learning: Perspectives from 
+Practice and Rese arch (1st edition), Betsy DiSalvo, Jason Yip, 
+Elizabeth Bonsignore and Carl DiSalvo (eds.). Routledge, New York, 
+7–21. 
+[20] Madeleine Elish. 2016. Moral Crumple Zones: Cautionary Tales in 
+Human -Robot Interaction. In Proceedings of We Robot 2016 . 
+[21] Virginia Eubanks. 2018. Automating In equality: How High -Tech 
+Tools Profile, Police, and Punish the Poor . St. Martin’s Press, New 
+York, NY.  
+[22] Janet Eyler and Dwight Giles. 2002. Beyond Surveys: Using the
+Problem Solving Interview to Assess the Impact of Service -Learning 
+on Understanding and  Critical Thinking. In Service -Learning: The 
+Essence of the Pedagogy , Andrew Furco and Shelley H. Billig (eds.). 
+Information Age Publishing, Greenwich, 147 –159. [23] Constance Flanagan and Peter Levine. 2010. Civic Engagement and 
+the Transition to Adulthoo d. The Future of Children  20, 1: 159 –179. 
+[24] Masanobu Fukuoka. 1978. The One -Straw Revolution: An 
+Introduction to Natural Farming . Rodale Press, Emmaus.  
+[25] Andrew Furco. 1996. Is Service -Learning Really Better Than 
+Community Service? In Service Learnin g: The Essence of the 
+Pedagogy , Andrew Furco and Shelley H. Billigs (eds.). Information 
+Age Pub, Greenwich, CT, 23 –50. 
+[26] Karl-Heinz Gerholz, Verena Liszt, and Katrin B Klingsieck. 2018. 
+Effects of Learning Design Patterns in Service Learning Courses. 
+Active Learning in Higher Education  19, 1: 47 –59. 
+[27] Michele A  Govekar and Meenakshi Rishi. 2007. Service Learning: 
+Bringing Real -World Education Into the B -School Classroom. 
+Journal of Education for Business  83, 1: 3 –10. 
+[28] Charles Hannon. 2006. Servic e Learning in Information Technology 
+Leadership: A Natural Connection. Peer Review  8, 4: 16 –19. 
+[29] Andrew Hatala, Lisa Erickson, Osemis Isbister -Bear, Stryker Calvez, 
+Kelley Naytowhow, Tamara Pearl, Omeasoo Wahpasiw, Rachel 
+Engler -Stringer, and Pamela Do wne. 2017. The Interpersonal Skills 
+of Community -Engaged Scholarship: Insights from Collaborators 
+Working at the University of Saskatchewan’s Community 
+Engagement Office. Journal of Community Engagement and 
+Scholarship  10: 44 –58. 
+[30] Elisabeth Hayes and Sondra Cuban. 1997. Border Pedagogy: A 
+Critical Framework for Service -Learning. Michigan Journal of 
+Community Service Learning  4, 1: 72 –80.
+[31] Elaine R Ingham and Matthew D Slaughter. 2014. The Soil Foodweb 
+–Soil and Composts as Livi ng Ecosystems. In  Proceedings of the 
+International Conference Soil and Compost Eco -Biology , 127–139. 
+[32] M M Irfan and P  Sammaiah. 2017. Service Learning Course in the 
+Engineering Curriculum: EPICS. Journal of Engineering Education 
+Transformations , Special Issue.  
+[33] Steven J  Jackson. 2014. Rethinking Repair. In Media Technologies , 
+Tarleton Gillespie, Pablo J  Boczkowski and Kirsten A  Foot (eds.). 
+The MIT Press, 221 –240. 
+[34] Helena Karasti. 2014. Infrastructuring in Participatory Design. In 
+Proceedings of the 13th Par ticipatory Design Conference: Research 
+Papers - Volume 1  (PDC ’14), 141 –150. 
+[35] Helena Karasti and Karen S Baker. Community Design: Growing 
+One’s Own Information Infrastructure. In Proceedings of the 2008 
+Tenth Anniversary Conference on Participatory Design  (PDC '08) : 
+217–220. 
+[36] Naveena Karusala, Aditya Vishwanath, Arkadeep Kumar, Aman 
+Mang al, and Neha Kumar. 2017. Care a s a Resource in Underserved 
+Learning Environments. Proc. ACM Hum. -Comput. Interact.  1, 
+CSCW: 104:1 –104:22.  
+[37] Christopher A  Le Dantec and Sarah Fox.  2015. Strangers at the Gate: 
+Gaining Access, Building Rapport, and Co -Constructing 
+Community -Based Research. In Proceedings of the 18th ACM 
+Conference on Computer Supported Cooperative Work & Social 
+Computing  (CSCW ’15), 1348 –1358.  
+[38] Karen E C  Levy. 2015. The Contexts of Control: Information, Power, 
+and Truck -Driving Work. The Information Society  31, 2: 160 –174. 
+[39] Ann Light and Yoko Akama. 2014. Structuring Future Social 
+Relations: The Politics of Care in Participatory Practice. In 
+Proceedings of t he 13th Participatory Design Conference: Research 
+Papers - Volume 1  (PDC ’14), 151 –160. 
+[40] Panagiotis K  Linos. 2012. Ten Years of EPICS at Butler University: 
+Experiences from Crafting a Service -Learning Program for 
+Computer Science and Software Engineer ing. In Service -Learning in 
+the Computer and Information Sciences , Brian A. Nejmeh (ed.). 
+Wiley -IEEE Press, 39 –75. 
+[41] Aryn Martin, Natasha Myers, and Ana Viseu. 2015. The Politics of 
+Care in Technoscience. Social Studies of Science  45, 5: 625 –641. 
+[42] Jed Metzger. 2012. Teaching Civic Engagement: Evaluating an 
+Integrative Service -Learning Program. Gateways: International 
+Journal of Community Research and Engagement  5: 98–114. 
+[43] Tania D Mitchell. 2008. Traditional vs. Critical Service -Learning: 
+Engagin g the Literature to Differentiate Two Models. Michigan 
+Journal of Community Service Learning  14, 2: 50 –65. 
+CHI 2019 Paper 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 13
+ 
+ [44] Tania D  Mitchell. 2015. Using a Critical Service -Learning Approach 
+to Facilitate Civic Identity Development. Theory into Practice  54, 1: 
+20–28. 
+[45] Barbara E. Moely and Vincent Ilustre. 2014. The Impact of Service -
+Learning Course Characteristics on University Students’ Learning 
+Outcomes. Michigan Journal of Community Service Learning  21, 1: 
+5–16. 
+[46] Annemarie Mol, Ingunn Moser, and Jeannette P ols (eds.). 2010. Care 
+in Practice: On Tinkering in Clinics, Homes and Farms . Transcript -
+Verlag, Bielefeld, Germany.  
+[47] Bill Mollison. 1992. Permaculture: A Designers’ Manual . Tagari 
+Publications, Tyalgum, N.S.W., Australia.  
+[48] Michelle Murphy. 2015. Unsettling Care: Troubling Transnational 
+Itineraries of Care in Feminist Health Practices. Social Studies of 
+Science  45, 5: 717 –737. 
+[49] Rodica Neamtu. 2013. The Classroom as an Extension of Our 
+Society: Empowering Students through Technology in Ser vice 
+Learning to Bridge the Global Digital Divide. Procedia - Social and 
+Behavioral Sciences  106: 2636 –2644.  
+[50] Brian A  Nejmeh. 2012. Preface. In Service -Learning in Computer and 
+Information Sciences: Practical Applications in Engineering 
+Education , Brian A. Nejmeh (ed.). Wiley -Blackwell, Hoboken, NJ.  
+[51] Safiya Umoja Noble. 2018. Algorithms of Oppression: How Search 
+Engines Reinforce Racism . NYU Press, New York.  
+[52] William  Oakes and J  Spencer. 2005. EPICS: Engineering Projects in 
+Community Service. 34th Annual Frontiers in Education, 2004. FIE 
+2004.  21, 1: 139 –150. 
+[53] Anna Pichelstorfer. 2012. Thematic Review of Annemarie Mol’s The 
+Logic of Care and Care in Practice. Culture Unbound  4, 2012: 533 –
+535. 
+[54] Maria Puig de la Bellacasa. 2011. Matters of Car e in Technoscience: 
+Assembling Neglected Things. Social Studies of Science  41, 1: 85 –106. 
+[55] Maria Puig de la Bellacasa. 2012. ‘Nothing Comes Without Its 
+World’: Thinking with Care. The Sociological Review  60, 2: 197 –216. 
+[56] Maria Puig de la Bellacasa.  2015. Making Time for Soil: 
+Technoscientific Futurity and the Pace of Care. Social Studies of 
+Science  45, 5: 691 –716. 
+[57] Maria Puig de la Bellacasa. 2017. Matters of Care: Speculative Ethics 
+in More than Human Worlds . University of Minnesota Press, 
+Minn eapolis.  
+[58] Dan Richard, Cheryl Keen, Julie A Hatcher, and Heather A  Pease. 
+2016. Pathways to Adult Civic Engagement: Benefits of Reflection 
+and Dialogue across Difference in Higher Education Service -
+Learning Programs. Michigan Journal of Community Service 
+Learning  23, 1: 60 -74. 
+[59] Janet C  Richards. 2017. Transformations in Graduate Education 
+Majors’ Relational Care in a Service -Learning Writing Course. 
+Reading Improvement  54.3: 112.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [60] Toni Robertson and Ina Wagner. 2012.  Ethics: Engagement, 
+Representation and Politics -in-Action. In Routledge Handbook of 
+Participatory Design , Jesper Simonsen and Toni Robertson (eds .). 
+Taylor and Francis, Hoboken, 6 4-87. 
+[61] Tony Robinson. 2000. Service Learning as Justice Advocacy: Can 
+Political  Scientists Do Politics? PS: Political Science and Politics  33, 3: 
+605–612. 
+[62] Jennifer A  Rode. 2011. Reflexivity in Digital Anthropology. In 
+Proceedings of the SIGCHI Conference on Human Factors in 
+Computing Systems  (CHI ’11), 123 –132. 
+[63] Christian S andvig, Kevin Hamilton, Karrie Karahalios, and Cedric 
+Langbort. 2014. Auditing Algorithms: Research Methods for 
+Detecting Discrimination on Internet Platforms. The 64th Annual 
+Meeting of the International Communication  Association . Data and 
+Discrimination: Converting Critical Concerns  into Productive I nquiry : 
+1–23. 
+[64] Andrew  D Selbst and Solon Barocas. 2018. The Intuitive Appeal of 
+Explainable Machines. Fordham Law Review  87, 3: 1085 –1139.  
+[65] Susan Leigh Star and Karen Ruhleder. 1996. Steps Toward an 
+Ecology of Infrastructure: Design and Access for Large Information 
+Spaces . Information Systems Research  7, 1: 111 –134. 
+[66] Isabelle Stengers. 2012. Reclaiming Animism. e-flux 36, July 2012.  
+[67] Austin L  Toombs, Shaowen Bardzell, and Jeffrey Bardzell. 2015. The 
+Proper Care and Feeding of Hackerspaces: Care Ethics and Cultures  
+of Making. In Proceedings of the 33rd Annual ACM Conference on 
+Human Factors in Computing Systems  (CHI ’15), 629 –638. 
+[68] David Vader. 2012. The Collaborator. In Service -Learning in the 
+Computer and Information Sciences: Practical Applications in 
+Enginee ring Education , Brian A. Nejmeh (ed.). Wiley -IEEE Press, 77 –
+116. 
+[69] Marie Watkins and Linda Braun. 2005. Service -Learning from 
+Classroom to Community to Career . JIST Publishing, Inc, 
+Indianapolis, USA.  
+[70] Guy Watson and Jane Baxter. 2008. Riverford Far m Recipe Book . 
+Fourth Estate, London.  
+[71] Marisol Wong -Villacres, Cristina M  Velasquez, and Neha Kumar. 
+2017. Social Media for Earthquake Response: Unpacking Its 
+Limitations with Care. Proc. ACM Hum. -Comput. Interact.  1, CSCW: 
+112:1 –112:22.  
+[72] Ellen Ze gura, Carl DiSalvo, and Amanda Meng. 2018. Care and the 
+Practice of Data Science for Social Good. In Proceedings of the 1st 
+ACM SIGCAS Conference on Computing and Sustainable Societies  
+(COMPASS ’18), Article 34 (June 2018), 9 pages.  
+ 
+CHI 2019 Paper 
+ 
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+Paper 277
+Page 14

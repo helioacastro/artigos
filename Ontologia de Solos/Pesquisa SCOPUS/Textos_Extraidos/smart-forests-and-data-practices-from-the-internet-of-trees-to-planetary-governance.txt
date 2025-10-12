@@ -1,0 +1,665 @@
+Commentary
+Smart forests and data practices:
+From the Internet of Trees to
+planetary governance
+Jennifer Gabrys
+Abstract
+Environments are increasingly becoming technologized sites of data production. From smart cities to smart forests,
+digital networks are analyzing and joining up environmental processes. This commentary focuses on one such under-studied smart environment, smart forests, as emerging digital infrastructures that are materializing to manage and
+mitigate environmental change. How does the digitalization of forests not only change understandings of these environ-
+ments but also generate different practices and ontologies for addressing environmental change? I first analyze smartforests within the expanding area of smart environments, and then discuss five digital practices that characterize smart
+forests. Based on this analysis, I suggest that forests are not only becoming highly digital environments but also that
+forests are transforming into technologies for managing environmental change. Smart forest interventions thereforeexpand the scope of what could count as a technology, especially in the context of data-oriented planetary governance.
+Keywords
+Smart environments, smart forests, environmental data, environmental change, data practices, planetary governance
+Imagine the replanting of a forest. A common image
+that springs to mind might be of individual cultivators
+walking a terrain and planting trees by hand. The pro-cess can be careful yet slow. While these practices arestill important and widespread, start-up drone compa-nies are now developing digital techniques for mass-planting forests from the sky. Working toward theobjective of planting a billion trees per year, these tech-
+nologies are meant to offer rapid and “industrial-scale”
+reforestation techniques to compensate for industrial-scale deforestation. Forests, digital technologies,and data analytics are shifting in potentially“revolutionary” ways through these new approachesto reforestation and environmental change.
+Smart forests are one among many environments
+that are increasingly becoming technologized sites ofdata collection, processing, and analysis. Not justdrones but also sensors, artiﬁcial intelligence, and
+robots are transforming forest environments in order
+to manage their environmental contributions throughdata collection and data analytics. The digital technol-ogies that comprise these smart environments areinstalled on tree trunks and embedded in forest soil
+(Figure 1). They are ﬂoating airborne through forestcanopies, and they are located in distant clouds and
+servers where data analytics unfold. Forest technolo-
+gies include unmanned aerial vehicles (UAVs), ordrones, for planting trees and monitoring forest ﬁres;
+sensor networks for monitoring forest processes that
+(in a play on the “Internet of Things”) have beendubbed the “Internet of Trees” (Figure 2); Light
+Detection and Ranging (LIDAR) scanning for assess-
+ing changes in forest structure; machine learning forautomating or responding to forest events such as wild-
+ﬁres; remote sensing for detecting changes in forest
+cover and detecting deforestation in real time; andcivic apps, platforms for monitoring forest conditions
+Department of Sociology, University of Cambridge, Cambridge, UK
+Corresponding author:
+Jennifer Gabrys, Department of Sociology, University of Cambridge, Free
+School Lane, Cambridge CB2 3RQ, UK.
+Email: jg899@cam.ac.ukBig Data & Society
+January–June: 1–10!The Author(s) 2020
+DOI: 10.1177/2053951720904871
+journals.sagepub.com/home/bds
+Creative Commons Non Commercial CC BY -NC: This article is distributed under the terms of the Creative Commons Attribution-
+NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and dis-
+tribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+and search engines for contributing to reforestation
+initiatives.
+While these technologies are proliferating, they are
+also generating new forms of data and social–political
+impacts that have yet to be extensively researched. Inthis overview of smart forests, I ask: How does digita-
+lization not only change understandings of environ-
+ments but also generate different practices and
+ontologies for addressing environmental change? To
+address this question, I ﬁrst look at how smart environ-ments are expanding across multiple different areas.
+Second, I consider ﬁve speciﬁc digital practices that
+are materializing within smart forests, including obser-vation, automation and optimization, dataﬁcation,
+participation, and transformation and regulation, as
+data-based operations with distinct social–political
+effects. Third, I consider how the digitalization of
+forest environments is leading to a condition whereforests also begin to operate as technologies . In this
+sense, I further analyze not just how digital technolo-
+gies are remaking forests but also investigate how for-ests are becoming social–political technologies for
+addressing environmental change. Forests and the
+social–political relations that sustain them are shifting
+so that forests function as technical instruments
+informed by data that are meant to mitigate and evensolve the problem of environmental change. Yet this
+reworking of forests also involves a reworking of tech-
+nology toward new conjugations of humans,nonhumans and environments—through digital and
+data-intensive operations.Forests are crucial to acting on environmental
+change. They are key contributors to the carbon cycle
+and biodiversity, as well as air and water quality. Giventhe urgency of addressing environmental change, poli-
+cymakers, scientists, and communities have identiﬁed
+forests as important spaces to conserve and cultivate.
+Meeting climate targets requires both halting defores-
+tation and contributing to practices of mass-scale refor-estation. In this context, forest practices are emerging
+together with environmental policies and sustainable
+development goals that attempt to conserve forests as
+carbon sinks, and to sustain and cultivate forests as
+green infrastructure. In diverse regions around theworld—from Germany to New York City to
+Thailand—smart forests are now emerging where dig-
+ital technologies are used to manage, monitor, enhance,
+and expand these rural and urban spaces in response to
+environmental change. There are increasing numbersand types of smart forests being developed to address
+environmental change, at the same time that forests are
+under threat from deforestation and land use change.
+This text then considers how these digital and data-
+based reworkings of forests potentially lead tosigniﬁcant changes in environmental engagement and
+planetary governance.
+Smart environments: From smart cities to
+smart forests
+While there is now extensive research on smart cities
+and data, other “smart” environments have been less
+Figure 1. Experimental forest with sensors, photo by author.2 Big Data & Society
+well studied within the social sciences.1Smart cities
+research has focused on the complex entanglements
+of digital technologies, governance, and social–politicallife (Antenucci, 2019; Datta, 2015; Dourish, 2016;Gabrys, 2014b; Marvin et al., 2016; Tironi and
+Valderrama, 2018). However, environments that are
+becoming sites for smartiﬁcation such as forests haveyet to be extensively analyzed for their social and polit-
+ical impacts, even when forests have been test sites for
+developing smart city technologies (Cuff et al., 2008;Gabrys, 2016a; cf. Bakker and Ritts, 2018). For
+instance, digital technologies facilitate practices orient-
+ed toward measurement, data collection, and automa-tion, often by expert or elite actors through processesthat can exacerbate inequalities. These dynamics have
+been extensively studied within online spaces and in
+relation to economic and racial inequality (Benjamin,2019; Eubanks, 2017; Noble, 2018), yet are less well
+understood in relation to the environmental inequal-
+ities that materialize or are reinforced, especially inlocations that span from the urban to the rural, and
+from the Global North to the Global South.
+2The inﬂu-
+ence of emerging digital technologies on the inhabitedand social spaces of forests is less well documented. At
+the same time, diverse types of “forests” can emerge
+through digital technologies, which differently sense,value, and assess forest processes and relations(Gabrys, 2012). The promissory aspects of the
+Internet of Trees thus present as many points of con-
+sideration as the more comprehensively discussedInternet of Things. Research in this area is needed in
+order to further establish how these technologies both
+enable and constrain particular modes of governanceand engagement with forests. Without this research, the
+development of smart environments such as smart for-
+ests runs the risk of producing social–political inequi-ties and undemocratic governance, as has beenidentiﬁed with smart cities (Shelton et al., 2015;
+Zook, 2017).
+Smart cities literature has demonstrated how the
+digital rewiring of environments has consequences forthe experience, governance, and organization of smart
+urban environments (Bulkeley et al., 2016; Luque-
+Ayala and Marvin, 2015; Rose, 2017). Furthermore,“smart” is a contested term, operationalized by tech-nology companies, governments, NGOs, and commu-nity groups to advance distinct development or
+governance agendas (Hollands, 2008; cf. Dalton
+et al., 2019; Schick and Winthereik, 2013). The prolif-eration of smart technologies, infrastructures, and ini-tiatives can shift the locus of governance from often
+local or urban governmental actors to more remote
+and global corporate actors that control technologiesand networks, thereby transforming governance andparticipation (Barns et al., 2017; Meng and DiSalvo,
+2018; Shelton and Lodato, 2019). While some insights
+from smart cities and smart infrastructure literature aretransferrable to an understanding of wider smart envi-ronments, there also are numerous unstudied effects
+and transformations that are unique to these locations.
+By focusing on overlooked environments, technologies,and communities, research on smart environments suchas forests can investigate what “smart” as a concept
+and development framework operationalizes within a
+wider range of locations.
+Such research can also address how planetary gov-
+ernance, democratic engagement, and environmental
+processes and relations are transformed through these
+technologies. These transformations can havedeleterious consequences that are obscured by techno-optimistic narratives that promote connecting technol-
+ogy with “nature” at a “planetary scale.” Technology
+companies, along with researchers, are beginning tofocus more centrally on developing digital solutions
+Figure 2. Internet of T rees, European Space Agency.Gabrys 3
+to environmental problems, from “AI for Earth,” to
+the Internet of Trees for sensor-based forest manage-ment (Joppa, 2017; Microsoft, n.d.; World Economic
+Forum, 2018). Digital technologies are used to monitor
+forest health and disease, track logging activities, pre-dict changes in forest structure, optimize resource use,
+and map urban forest networks (Campbell, 2017; Lu
+et al., 2010). Moreover, the increasing occurrence offorest ﬁres worldwide is now spurring the development
+of drones, wireless sensor networks, and machine learn-
+ing to detect and extinguish ﬁres as they occur in realtime (Borba Neumann et al., 2018). Smart forestrymight even appear to be an augmentation, promotion,
+and advancement of the smart city, as the controversial
+Sidewalk Labs development by Alphabet in Torontohas emphasized the beneﬁts of smart ecosystems as
+part of its smart urban infrastructures (cf.
+Nitoslawskia et al., 2019).
+In this way, digital technologies are often presented
+as necessary if unproblematic tools for meeting ambi-
+tious environmental objectives, including climatechange targets that are often more planetary in scope.
+For instance, the 2011 Bonn Challenge associated with
+the International Union for Conservation of Nature(Dave et al., 2017) and the New York Declaration onForests (2014) have expressed a commitment to restore
+150 million hectares of deforested and degraded land
+worldwide by 2020, and 350 million hectares by 2030.However, this objective would require planting an esti-
+mated 300 billion trees in less than two decades. Drone
+companies are therefore developing “precision forest-ry” techniques to undertake mass aerial planting of
+billions of trees per year to meet climate objectives.
+3
+Yet the locations and communities that would be
+involved in these practices are often underspeciﬁedwhen focusing on forests as a problem of metrics,
+data, and digital devices. At the same time, reforesta-
+tion initiatives are at turns promoted and critiqued,and often the contestations over the beneﬁts of these
+measures are based on environmental data that is
+meant to prove or question whether the preservationor augmentation of forests will have its stated effects,
+irrespective of communities’ social–political engage-
+ment with these forests.
+4
+Many of these assessments of environmental change,
+along with mitigating actions to be taken, are based on
+environmental datasets that translate into practices of
+environmental management and planetary governance(see also Gabrys, 2016b). These practices are based on
+intersecting and expanding environmental datasets that
+present the problem of environmental change througha particular set of metrics that in turn legitimate spe-
+ciﬁc technological interventions to meet targets for
+averting environmental catastrophe. Such practicescould be oriented toward planetary governanceobjectives for meeting climate change targets, but
+could lead to less responsive governance practices in
+actual forest contexts. Moreover, while they can poten-
+tially introduce new and additional problems for
+social–political inequality related to environments and
+land use, these same technologies can also contribute tothe very problem of environmental change that they
+would avert by requiring signiﬁcant energy and mate-
+rial resources for computer hardware and data process-
+ing (Dobbe and Whittaker, 2019; Gabrys, 2011, 2014a).
+The increased production of data, as well as advance-
+ment in data analytics and automation, are promoted
+as strategies for more effectively managing forest eco-systems (Pinho et al., 2018). Decisions can be taken
+about how to manage forests based on digital sys-
+tems—indeed these decisions are seen to be “less vul-
+nerable to politicization” (Joppa, 2017). Yet as
+extensive research in digital social research and scienceand technology studies demonstrates, the use of digital
+technologies does not elide politics, but rather can
+inform and extend politics into new engagements.
+The following section identiﬁes ﬁve key digital practices
+that are materializing for forest management and plan-
+etary governance that give rise to pressing social–polit-
+ical concerns.
+Digital practices for governing
+environmental change
+From cryptocoin for forest protection to contestations
+over satellite data tracking Amazon deforestation,
+through to sensor networks forming an Internet ofTrees, forests are transforming through digital technol-
+ogies for addressing environmental change. I outline
+here how these social–political effects include digital
+practices of observation (Benson, 2010; Helmreich,
+2009; Lehman, 2018), automation and optimization
+(Mackenzie, 2017; Stacey and Suchman, 2012), data-
+ﬁcation (Lippert, 2016; Nafus, 2016), participation(Isin and Ruppert, 2015), and technological regulation
+and transformation (Ascui et al., 2018). By attending to
+these transforming intersections of environments, data,
+digital technologies and social life, it might be possible
+to more fully identify and address the consequences ofsmartiﬁcation as a response to the planetary crisis of
+environmental change.
+Observation
+There are numerous ways that digital technologies havecontributed to the observation of forests. Some of these
+practices are not new, with remote sensing of forestshaving taken place for many decades now. However,
+the scale of observation, along with the fusion of
+remote sensing with additional and new digital4 Big Data & Society
+technologies, is contributing to what is arguably a trans-
+formed condition of planetary and forest observation
+(cf. Goldstein, 2019; Loukissas, 2016; Nadim, 2016).
+Because forests are increasingly situated as key resourcesto preserve and manage, environmental change objec-tives are driving the demand for new technologies of
+observation to ensure the integrity of forests. For
+instance, because up to 80% of deforestation has nowbeen attributed to corporate supply chains, there are an
+increasing number of digital technologies from remote
+sensing to blockchain that are used to monitor, scan,and validate supply chains of forest-intensive products,
+including timber as well as palm oil, soy, and beef (cf.
+Howson et al., 2019). Through the use of such observa-tional technologies, however, forests might primarily
+become visible as stores of timber or carbon sinks, but
+not as sites that sustain cultural narratives or indigenouscosmologies. In other words, observational technologies
+could always already assume that the forest is a resource
+to be managed (de la Cadena 2015).
+The introduction, expansion, and interconnection of
+observational technologies within forest environ-
+ments—whether through remote sensing, ubiquitouscomputing, or supply-chain monitoring—raise the
+question of how smart forests emerge as particular
+developments for managing environmental changeand policy. From forest sites in Brazil, Paraguay, to
+Indonesia and Thailand, the ways that forests are
+observed also informs how they are governed and man-aged—not just for environmental change objectives but
+also for resource extraction. Observational technolo-
+gies of tracking and tracing speciﬁcally conﬁgure, aswell as propose, ways of acting on forests (Bj €ork
+et al., 2011). Technologies and techniques for observing
+deforestation mobilize and legitimate distinct actors to
+address this problem, while multiple other actors areoften excluded from these same sites of social–political
+relevance and action. Observation is further entangled
+with strategies such as transparency and auditing(Ananny and Crawford, 2018; Asdal, 2008;
+Ballestero, 2012), which are proposed as ways to
+better manage the problem of deforestation but thatalso present distinct limits to the actors and practices
+that might be involved in evidentiary techniques. The
+analysis of observational technologies and networks isthen a key area of study for understanding how forests
+become a global environmental problem through spe-
+ciﬁc observational practices, as well as the social–polit-ical effects of these environmental data practices.
+Automation and optimization
+Forest ﬁres are now increasingly common around theworld, and the surge in ﬁre frequency and intensity hasbeen attributed to climate-change related factors. Inresponse, technologies for detecting and suppressing
+ﬁres have emerged that use artiﬁcial intelligence, infra-
+red video, image software, wireless sensor networks,
+and UAVs to detect and manage ﬁres. Digital technol-ogies are now becoming automated and optimizedcomponents within forest ecosystems. At the same
+time, the management of ﬁre landscapes has direct con-
+sequences for communities living in forests and forest-edge landscapes. The distribution and ongoing
+operation of these digital infrastructures can inﬂuence
+forest land-use activities and have differential effectsfor communities that may beneﬁt to greater or lesser
+degree from these warning and mitigation systems if
+deployed at scale.
+From locations spanning the northern boreal forests
+to the Mediterranean to the western areas of North
+America, automation and optimization techniques arebeing developed to manage environmental change in
+the form of increased ﬁres. The consequences of auto-
+mating forest management functions in these ways,however, have not been studied in detail. The develop-
+ment and installation of monitoring technologies will
+raise questions about who organizes and runs thesenetworks, and how data is gathered, stored, and oper-
+ationalized. Techniques of automation and optimiza-
+tion could align or conﬂict with existing forestpractices across stakeholder groups, from scientists to
+community groups and citizen scientists, and create
+power imbalances around the digital forest practicesthat are implemented. Smart forest projects using arti-
+ﬁcial intelligence, wireless sensor networks, and UAVs
+to detect and manage real-time forest events especiallyin the form of forest ﬁres demonstrate how distinctdecisions are made about what to automate and opti-
+mize—and that these are not de-politicized decisions,
+but rather emerge as differently conﬁgured politicalengagements that span machine logics, data analytics,
+situated forests practices, policy, and environmental
+change. Moreover, as the processes of artiﬁcial intelli-gence change through ongoing engagement with these
+environments, different social–political encounters
+emerge as they are informed by digital operations.These practices also register within a securitization of
+environments, where the tracking and tracing opera-
+tions of drones (Suchman et al., 2017) and the distinctregimes of local, national, or planetary governance,
+security, and control that these technologies generate
+(Kaplan and Parks, 2017) become central to the man-agement of environmental change.
+Datafication
+Forests are now sites of intensive data production. Notonly do they generate data from advancing practices ofearth observation but also they are locations whereGabrys 5
+sensors, LIDAR, and other data-generating technolo-
+gies such as Internet of Trees networks monitor envi-ronmental conditions. Real-time data from these
+installations is meant to allow for an immediate under-
+standing of forest dynamics, which in turn are meant toprovide an indication of related events in nearby envi-
+ronments. Data becomes a distinct object and tool of
+governance, where environmental processes and enti-ties are increasingly dataﬁed in order to address envi-
+ronmental change. Forest-speciﬁc data analytics such
+as “Treemetrics” are meant to offer new techniques forresource management, environmental governance, anddecision-making. And dataﬁed social networks present
+new data-oriented ways to facilitate care for forest
+spaces. In these conjugations of “trees, people anddata” (Svendsen and Gunther, 2016), new approaches
+to land management then occur through mapping and
+analyzing forest-related networks.
+Decisions about what to measure and monitor, the
+formation of evidence in support of environmental
+change objectives, and the extent to which this data isable to effect change are part of a complex set of
+social–political struggles about how to make forests
+matter. The production of data in forests is neitherself-evident nor is it all-encompassing, since some for-ests might also be sites of more focused study and
+attention, while others become less central in science
+and policy discussions—often depending upon thecarbon storage potential of forests (Ehrenstein and
+Muniesa, 2013; Gabrys, 2009). Yet the use of data tech-
+nologies and practices in multiple forests worldwide,from Internet of Things (IoT) to data analytics and
+carbon emissions monitoring, are informing how envi-
+ronmental change objectives are formed and addressed.Distinct digital practices transform forests into data inorder to act on environmental change. (cf. Latour,
+1999; Walford, 2012). Yet as often as not, these prac-
+tices leave out accounts of environments that do not ﬁtwith prevailing modes of research, governance, or
+social–political interaction (Bowker, 2000; Lippert,
+2015). The politics of expertise that emerge throughthe dataﬁcation of forests can also inﬂuence whether
+citizen data is able to register as an alternative or
+admissible form of evidence, and whether diverginggovernance objectives can co-exist. The struggles thatemerge over data in and about forests are not merely a
+matter of creating a more comprehensive account of
+environmental processes. Instead, they can challengethe social–political conditions and cosmologies by
+which forests come to be relevant (cf. Verran, 2002).
+By analyzing the social and political consequences ofthe increasing dataﬁcation of forests (Turnhout et al.,
+2013; cf. Couldry and Yu, 2018), it might be possible to
+attend to how emissions inventories, resource metrics,and related policy instruments align or conﬂict withcommunity processes for valuing and evaluating
+forests.
+Participation
+From platforms such as Global Forest Watch andopen-source software such as I-tree, as well as defores-tation alerts and hotlines, and participatory mappingof forest boundaries using GPS and Open Street Mapto establish community rights, there are a number of
+technologies emerging that are meant to enable partic-
+ipation with forests and forest protection. In addition,civic apps and search engines variously provide mech-anisms to support reforestation measures, from theTreedom platform for supporting tree planting and cal-culating carbon offsets to the Ecosia search engine thatdonates a portion of proﬁts to reforestation initiativesaround the world. Digital technologies are promoting
+new and forest-speciﬁc forms of participation, which
+also intervene in various ways in forest conditions,thereby redistributing and changing forms of forestgovernance and engagement.
+Whether through deforestation “watch” platforms,
+apps for reporting illegal logging, or monitoring tech-nologies such as acoustic sensors or camera traps forcapturing poaching, participatory technologies makethe forest present, senseable, and actionable in certain
+ways, for distinct actors, and through speciﬁc datasets.These participatory apps, platforms, and sensing devi-
+ces are often most oriented toward tracking deforesta-
+tion, while also supporting and funding reforestationinitiatives, through what might be referred to as“mediatized worlds” (Hepp and Krotz, 2014). Suchparticipatory technologies often operate as part of theusual matrix of smart city toolkits, but it is less wellunderstood how they could facilitate or reshape civicengagement with forests and environmental change.
+These digital modes of engagement could propagate
+distinct exclusions while enabling or delimiting speciﬁcengagements with diverse and situated forest commu-nities (cf. Agrawal, 2001; Brammer et al., 2016).Moreover, while urban forests are on the rise, largerand more remote forests are increasingly engaged withthrough participatory technologies and practices thatfacilitate engagement with these often-distant environ-
+ments. For better or worse, these same dynamics of
+remote participation could introduce speciﬁc regimesof power and politics in the control and managementof forests that come to be seen as planetary resources,as occurred recently with the ﬁres in the Amazon. Byconsidering civic technologies for forest engagementwithin the larger context of environmental participa-
+tion (Chilvers and Kearnes, 2016; Lane et al. 2011)
+and planetary governance, it might be possible to6 Big Data & Society
+consider how digital technologies facilitate or impede
+distinct modes of participation.
+Regulation and transformation
+The proliferation of digital technologies within and inrelation to forests is now contributing to distinct prac-tices for regulating and transforming these environ-ments. As mentioned at the introduction to thiscommentary, “precision forestry” that uses UAVs, sen-
+sors, computer models, data analytics, and artiﬁcial
+intelligence to expedite reforestation initiatives is onekey example of how these initiatives are developing toautomate environmental management. The ways thatmore mass-scale and automated planting might alterenvironmental engagements is an overlooked area ofresearch. For instance, planting trees is often discussedas a civic project that advances and enhances demo-
+cratic engagements with environments (B €ackstrand
+and L €ovbrand, 2006; Fisher et al., 2015). It is less
+clear what the civic or political equivalent of plantingtrees by drone might be.
+Start-up technology companies worldwide are now
+creating digital devices and data practices for regulat-ing, and in turn, transforming forest environments.Digital technologies such as UAVs and their networksare used in support of reforestation and to respond tospeciﬁc environmental objectives, policies, and targetsthat are often formed through practices of planetary
+governance (cf. L €ovbrand and Stripple, 2006). In the
+process, these practices are organizing approaches toforests as technologies that are meant to offer “naturalclimate solutions” by optimizing and augmenting forestprocesses. As digital devices and data practices prolif-erate in forests spaces, so too do forests transform intoenvironmental infrastructures (Bruun Jensen, 2015)and technologies for responding to and mitigating envi-
+ronmental change. These transformations could gener-
+ate different relations across human and nonhumancommunities, which are activated or affected by theseemerging techno-ecologies (Hinchliffe, 2007; cf. Kohn,2013; Puig de la Bellacasa, 2015). The smart forestbecomes at once a space of regulation and transforma-tion. Technologies that would govern these environ-ments in order to address and mitigate environmental
+change are also transforming them into entities that are
+meant to operate as technologies. Smart forest technol-ogies and systems thus contribute to the reworking ofwhat a forest is and how it operates. Such a point oforientation could expand existing approaches to smartand digital technologies, while reworking conventionalunderstandings of what counts as a technology, by
+researching how forests transform into technologies
+through technical and policy interventions.Conclusion: Questioning planetary
+governance through the smart forest
+Smart environments are now expanding beyond smart
+cities to encompass many different milieus, from smart
+forests to smart oceans and smart agriculture.
+Technology companies, environmental scientists, and
+state actors are contributing to the development and
+expansion of these digital systems often to address
+the urgent problem of environmental change. But
+these ambitions also become evident as emerging plan-
+etary modes of governance that have yet to be ade-
+quately assessed for their social–political effects.
+Technologies that operate at the “scale” of the plane-
+tary can operationalize universal and less accountable
+interventions into environments (Gabrys, 2018). As a
+relatively overlooked area within social sciences
+research, the problem of smart environments and the
+data that is collected, stored, and operationalized tomanage these spaces is one that requires greater atten-
+tion to the social–political relations and inequalities
+that emerge with and through these systems, as well
+as the transformations that occur when environments
+operate as technologies.
+“Smart Forests” is the topic of a larger research
+project now underway that this text outlines.
+5This
+project investigates the role of digital devices in recon-
+ﬁguring forests as socio-technical ecologies by examin-
+ing the power relations and modes of governance that
+are generated through digital practices of observation,
+automation, optimization, dataﬁcation, participation,regulation, and transformation. These technologies
+and operations raise key questions about smart envi-
+ronments as they are developing beyond the smart city,
+how democratic engagement with environmental
+change might be extended or limited, and what
+modes of planetary governance are mobilized in rela-
+tion to forest spaces, communities and practices. Such a
+research focus seeks to demonstrate the consequences
+and possibilities that digital technologies have for new
+modes of environmental politics and sociality as they
+develop in response to environmental change.
+Acknowledgments
+This commentary is based on a proposal for an ERC
+Consolidator Grant, Smart Forests: TransformingEnvironments into Social-Political Technologies (866006),which was awarded in December 2019.
+Declaration of conflicting interests
+The author(s) declared no potential conﬂicts of interest with
+respect to the research, authorship, and/or publication of this
+article.Gabrys 7
+Funding
+The author(s) disclosed receipt of the following ﬁnancial sup-
+port for the research, authorship, and/or publication of this
+article: This study was funded by TBC.
+ORCID iD
+Jennifer Gabrys https://orcid.org/0000-0001-5545-2459
+Notes
+1. Smart environment are, however, a long-standing and
+increasingly popular topic within computer science. For
+instance, see Cook and Das (2005).
+2. Practices of measurement and inequality are well estab-
+lished in relation to forests through analyses of theREDD þmechanism and other policy measure to prevent
+deforestation. However, the effects of increasingly digitalforms of observation and measurement (as they also scaleup to “smart” development projects) in relation to forest
+environments have yet to be extensively studied. On
+REDD þ, see for example Gupta et al. (2012) and
+Paladino and Fiske (2017).
+3. There are also proposals now to plant a trillion trees. See
+https://www.trilliontrees.org. Related to the topic of pre-cision forestry is the emerging body of research on“precision agriculture” that is of relevance to this discus-sion, but for which there is no space to address here.
+4. For an example of a critique of reforestation proposals,
+see http://www.realclimate.org/index.php/archives/2019/
+07/can-planting-trees-save-our-climate.
+5. Smart Forests, https://smartforests.net.
+References
+Agrawal B (2001) Participatory exclusions, community forest-
+ry, and gender: An analysis for South Asia and a concep-tual framework. World Development 29(10): 1623–1648.
+Ananny M and Crawford K (2018) Seeing without knowing:
+Limitations of the transparency ideal and its applicationto algorithmic accountability. New Media & Society 20(3):
+973–989.
+Antenucci I (2019) The making of urban computing environ-
+ments: Borders, security and governance. Synoptique 8(1):
+54–64.
+Ascui F, Haward M and Lovell H (2018) Salmon, sensors,
+and translation: The agency of big data in environmentalgovernance. Environment and Planning D: Society and
+Space 36(5): 905–925.
+Asdal K (2008) Enacting things through numbers: Taking
+nature into account/ing. Geoforum 39(1): 123–132.
+B€ackstrand K and L €ovbrand E, (2006) Planting trees to mit-
+igate climate change: Contested discourses of ecological
+modernization, green governmentality and civic environ-mentalism. Global Environmental Politics 6(1): 50–75.
+Bakker K and Ritts M (2018) Smart earth: A meta-review
+and implications for environmental governance. Global
+Environmental Change 52: 201–211.Ballestero A (2012) Transparency short-circuited: Laughter
+and numbers in Costa Rican water politics. Political and
+Legal Anthropology Review 35(2): 223–241.
+Barns S, Cosgrave E, Acuto M, et al. (2017) Digital infra-
+structures and urban governance. Urban Policy and
+Research 35(1): 20–31.
+Benjamin R (2019) Race after Technology: Abolitionist Tools
+for the New Jim Code . Cambridge: Polity Press.
+Benson E (2010) Wired Wilderness: Technologies of Tracking
+and the Making of Modern Wildlife . Baltimore, MD: Johns
+Hopkins University Press.
+Bj€ork A, Erlandsson M, H €akli J, et al. (2011) Monitoring
+environmental performance of the forestry supply chain
+using RFID. Computers in Industry 62(8–9): 830–841.
+Bonn Challenge (2011) Available at: www.bonnchallenge.
+org/content/challenge (accessed 22 November 2019).
+Borba Neumann G, Pinheiro de Almeida V and Endler M
+(2018) Smart forests: Fire detection service. In: 2018 IEEE
+symposium on computers and communications (ISCC) .
+pp. 01276–01279.
+Bowker GC (2000) Biodiversity data diversity. Social Studies
+of Science 30(5): 643–683.
+Brammer JR, Brunet ND, Burton AC, et al. (2016) The role
+of digital data entry in participatory environmental mon-itoring. Conservation Biology: The Journal of the Society
+for Conservation Biology 30(6): 1277–1287.
+Bruun Jensen C (2015) Experimenting with political materi-
+als: Environmental infrastructures and ontological trans-formations. Distinktion: Journal of Social Theory 16(1):
+17–30.
+Bulkeley H, McGuirk PM and Dowling R (2016) Making a
+smart city for the smart grid? The urban material politics
+of actualising smart electricity networks. Environment and
+Planning A: Economy and Space 48(9): 1709–1726.
+Campbell LK (2017) City of Forests, City of Farms
+Sustainability Planning for New York City’s Nature .
+Ithaca: Cornell University Press.
+Chilvers J and Kearnes M (eds) (2016) Remaking
+Participation: Science, Environment and Emergent
+Publics . London: Routledge.
+Cook D and Das SK (2005) Smart Environments: Technology,
+Protocols and Applications . Hoboken, NJ: John Wiley &
+Sons.
+Couldry N and Yu J (2018) Deconstructing
+dataﬁcation’s brave new world. New Media & Society
+20(12): 4473–4491.
+Cuff D, Hansen M and Kang J (2008) Urban sensing: out of
+the woods. Communications of the ACM 51(3): 24–33.
+Dalton C, Wilmott C, Fraser E, et al. (2019) “Smart” discourses,
+the limits of representation, and new regimes of spatial data.Annals of the American Association of Geographers .A v a i l a b l e
+at: https://www.tandfonline.com/doi/abs/10.1080/24694452.
+2019.1665493
+Datta A (2015) New urban utopias of postcolonial India:
+Entrepreneurial urbanization in dholera smart city.
+Dialogues in Human Geography 5(1): 3–22.
+Dave R, Saint-Laurent C, Moraes M, et al. (2017) Bonn
+Challenge Barometer of Progress: Spotlight Report 2017 .
+Gland, Switzerland: IUCN.8 Big Data & Society
+de la Cadena M (2015) Uncommoning nature. E-ﬂux Journal
+65, May–August. Available at: http://supercommunity.e-ﬂux.com/texts/uncommoning-nature/ (accessed 22November 2019).
+Dobbe R and Whittaker M (2019) AI and climate change:
+How they’re connected, and what we can do about it.Medium, 17 October 2019. Available at: https://medium.
+com/@AINowInstitute/ai-and-climate-change-how-theyre-connected-and-what-we-can-do-about-it-6aa8d0f5b32c (accessed 22 November 2019).
+Dourish P (2016) The internet of urban things. In: Kitchin R
+and Perng S-Y (eds) Code and the City . London:
+Routledge, pp.27–46.
+Ehrenstein V and Muniesa F (2013) The conditional sink:
+Counterfactual display in the valuation of a carbon off-setting reforestation project. Valuation Studies 1(2):
+161–188.
+Eubanks V (2017) Automating Inequality: How High-Tech
+Tools Proﬁle, Police, and Punish the Poor . New York:
+St. Martin’s Press.
+Fisher DR, Svendsen ES, Connolly J (eds) (2015) Urban
+Environmental Stewardship and Civic Engagement: HowPlanting Trees Strengthens the Roots of Democracy .
+London: Routledge.
+Gabrys J (2009) Sink: The dirt of systems. Environment and
+Planning D: Society and Space 27(4): 666–681.
+Gabrys J (2011) Digital Rubbish: A Natural History of
+Electronics . Ann Arbor, MI: University of Michigan
+Press.
+Gabrys J (2012) Sensing an experimental forest: Processing
+environments and distributing relations. Computational
+Culture (2). Available at: http://computationalculture.
+net/sensing-an-experimental-forest-processing-environments-and-distributing-relations/ (accessed 22 November2019)
+Gabrys J (2014a) Powering the digital: From energy ecologies
+to electronic environmentalism. In: Maxwell R, RaundalenJ and Vestberg NL (eds) Media and the Ecological Crisis .
+New York and London: Routledge, pp.3–18.
+Gabrys J (2014b) Programming environments:
+Environmentality and citizen sensing in the smart city.Environment and Planning D: Society and Space 32(1):
+30–48.
+Gabrys J (2016a) Program Earth: Environmental Sensing
+Technology and the Making of a Computational Planet .
+Minneapolis: University of Minnesota Press.
+Gabrys J (2016b) Practicing, materializing and contesting
+environmental data. Big Data & Society 3(2): 1–7.
+Gabrys J (2018) Becoming planetary. e-ﬂux Architecture .
+Available at: www.e-ﬂux.com/architecture/accumulation/217051/becoming-planetary (accessed 22 November 2019).
+Goldstein JE (2019) The volumetric political forest: Territory,
+satellite ﬁre mapping, and Indonesia’s burning peatland.
+Antipode. First published: 10 October 2019. Available at:
+https://doi.org/10.1111/anti.12576 (accessed 22 November2019).
+Gupta A, L €ovbrand E, Turnhout E, et al. (2012) In pursuit of
+carbon accountability: The politics of REDD þmeasuring, reporting and veriﬁcation systems. Current
+Opinion in Environmental Sustainability 4(6): 726–731.
+Hepp A and Krotz F (eds) (2014) Mediatized Worlds: Culture
+and Society in a Media Age . London: Palgrave Macmillan.
+Hinchliffe S (2007) Geographies of Nature: Societies,
+Environments, Ecologies . London: Sage.
+Helmreich S (2009) Alien Ocean: Anthropological Voyages in
+Microbial Seas . Berkeley: University of California Press.
+Hollands RG (2008) Will the real smart city please stand up?
+City 12(3): 303–320.
+Howson P, Oakes S, Baynham-Herd Z, et al. (2019)
+Cryptocarbon: The promises and pitfalls of Forest protec-tion on a blockchain. Geoforum 100: 1–9.
+Isin E and Ruppert E (2015) Being Digital Citizens . London:
+Rowman & Littleﬁeld.
+Joppa LN (2017) AI for earth.
+Nature 552(21/28 December):
+325–328.
+Kaplan C and Parks L (eds) (2017 ) Life in the Age of Drone
+Warfare . Durham: Duke University Press.
+Kohn E (2013) How Forests Think: Towards an Anthropology
+beyond the Human . Berkeley: University of California Press.
+Lane SN, Odoni N, Landstr €om C, et al. (2011) Doing ﬂood
+risk science differently: An experiment in radical scientiﬁcmethod. Transactions of the Institute of British
+Geographers 36(1): 15–36.
+Latour B (1999) Pandora’s Hope: Essays on the Reality of
+Science Studies . Cambridge: Harvard University Press.
+Lehman J (2018) From ships to robots: The social relations of
+sensing the world ocean. Social Studies of Science 48(1):
+57–79.
+Lippert I (2015) Environment as datascape: Enacting emis-
+sion realities in corporate carbon accounting. Geoforum
+66: 126–135.
+Lippert I (2016) Failing the market, failing deliberative
+democracy: How scaling up corporate carbon reportingproliferates information asymmetries. Big Data &
+Society 3(2): 1–13.
+Loukissas YA (2016) A place for big data: Close and distant
+readings of accessions data from the arnold arboretum.Big Data & Society 3(2): 1–20.
+L€ovbrand E and Stripple J (2006) The climate as political
+space: On the territorialisation of the global carboncycle. Review of International Studies 32(2): 217–235.
+Lu JWT, Shane M, Svendsen E, et al. (2010)
+MillionTreesNYC, Green Infrastructure, and UrbanEcology: Building a Research Agenda . New York: City of
+New York Parks and Recreation.
+Luque-Ayala A and Marvin S (2015) Developing a critical
+understanding of smart urbanism? Urban Studies 52(12):
+2105–2116.
+Mackenzie A (2017) Machine Learners: Archaeology of a
+Data Practice . Cambridge: MIT Press.
+Marvin S, Luque-Ayala A and McFarlane C (eds) (2016)
+Smart Urbanism: Utopian Vision or False Dawn ?
+London: Routledge.
+Meng A and DiSalvo C (2018) Grassroots resource mobili-
+zation through counter-data action. Big Data & Society
+5(2): 1–2.Gabrys 9
+Microsoft (n.d.) IoT for natural resources. Available at:
+https://azure.microsoft.com/en-gb/product-categories/iot/(accessed 22 November (2019)
+Nadim T (2016) Blind regards: Troubling data and their sen-
+tinels. Big Data & Society 3(2): 1–6.
+Nafus D (ed.) (2016) 2016. Quantiﬁed: Biosensing
+Technologies in Everyday Life . Cambridge: MIT Press.
+New York Declaration on Forests (2014) Climate Summit
+2014. New York: United Nations Headquarters.
+Nitoslawskia SA, Galle NG, Van Den Bosch CK, et al.
+(2019) Smarter ecosystems for smarter cities? A reviewof trends, technologies, and turning points for smarturban forestry. Sustainable Cities and Society 51
+(November): 101770.
+Noble SU (2018) Algorithms of Oppression: How Search
+Engines Reinforce Racism . New York University Press.
+Paladino S and Fiske SJ (eds) (2017) The Carbon Fix: Forest
+Carbon, Social Justice, and Environmental Governance .
+London: Routledge.
+Pinho TM, Coelho JP, Oliveira J, et al. (2018) An overview
+on visual sensing for automatic control on smart farmingand forest management. In: 13th APCA international con-
+ference on automatic control and soft computing(CONTROLO) , Ponta Delgada, Azores, Portugal, 4–6
+June 2018. pp.419–424.
+Puig de la Bellacasa M (2015) Making time for soil:
+Technoscientiﬁc futurity and the pace of care. Social
+Studies of Science 45(5): 691–716. 2015
+Rose G (2017) Posthuman agency in the digitally mediated
+city: Exteriorization, individuation, reinvention. Annals of
+the American Association of Geographers 107(4): 779–793.
+Schick L and Winthereik B (2013) Innovating relations – Or
+why smart grid is not too complex for the public. Science
+& Technology Studies 26(3): 82–102.
+Shelton T and Lodato T (2019) Actually existing
+smart citizens. City online ﬁrst. Available at: https://www.tandfonline.com/doi/abs/10.1080/13604813.2019.
+1575115
+Shelton T, Zook M and Wiig A (2015) The “actually existing
+smart city”. Cambridge Journal of Regions, Economy and
+Society 8(1): 13–25.
+Stacey J and Suchman L (2012) Animation and automation –
+The liveliness and labours of bodies and machines. Body &
+Society 18(1): 1–46.
+Suchman L, Follis K and Weber J (2017) Tracking and tar-
+geting: Sociotechnologies of (in)security. Science,
+Technology & Human Values 42(6): 983–1002.
+Svendsen E and Gunther B (2016) Stewards of the urban
+forest. In: International day of forests and world
+water day , 22 March 22, United Nations Audio Visual
+Library.
+Tironi M and Valderrama M (2018) Unpacking a citizen self-
+tracking device: Smartness and idiocy in the accumulationof cycling mobility data. Environment and Planning D:
+Society and Space 36(2): 294–312.
+Turnhout E, Waterton C, Neves K, et al. (2013) Rethinking
+biodiversity: From goods and services to “living with”.Conservation Letters 6(3): 154–161.
+Verran H (2002) A postcolonial moment in science studies:
+Alternative ﬁring regimes of environmental scientists andaboriginal landowners. Social Studies of Science 32(5–6):
+729–762.
+Walford A (2012) Data moves: Taking Amazonian
+climate science seriously. Cambridge Anthropology 30(2):
+101–111.
+World Economic Forum (2018) Centre for the Fourth
+Industrial Revolution Network . Geneva: World Economic
+Forum.
+Zook M (2017) Crowd-sourcing the smart city: Using big
+geosocial media metrics in urban governance.
+Big Data
+& Society 4(1): 1–13.10 Big Data & Society

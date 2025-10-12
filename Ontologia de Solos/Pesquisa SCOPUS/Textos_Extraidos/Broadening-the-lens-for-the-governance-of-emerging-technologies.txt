@@ -1,0 +1,1152 @@
+Broadening the lens for the governance of emerging technologies:
+Care ethics and agricultural biotechnology
+Christopher J. Prestona,*, Fern Wicksonb
+aDepartment of Philosophy, University of Montana, Missoula, MT, 59812, United States
+bGenØk Centre for Biosafety, Forskningsparken, PB 6418, 9294, Tromsø, Norway
+article info
+Article history:
+Received 14 October 2015Received in revised form
+29 February 2016
+Accepted 2 March 2016Available online 14 March 2016
+Keywords:
+Emerging technologyRisk assessmentAgricultural biotechnologyFeminist care ethicsabstract
+In this paper we argue that insights from feminist perspectives, particularly in the form of an ethics of
+care, have a number of advantages when used as a lens through which to consider questions relevant to
+the governance of emerging technologies. We highlight how an emphasis on central themes of impor-tance in feminist theory and care ethics such as relationality, contextuality, dependence, power, affect,and narrative can shine a light on a number of salient issues that are typically missed by the dominant
+and largely consequentialist risk assessment frame. We argue that the care ethics lens is a better ﬁtw h e n
+technologies are understood not simply as devices designed to create a certain end experience for a userbut as transformative systems that smuggle in numerous social and political interests. The advantages of
+these care ethics themes for emerging technologies are illustrated through a detailed consideration of
+agricultural biotechnology. We show how the feminist care ethics lens might have anticipated the veryquestions that have proved themselves to be the sticking points for this technology. We therefore suggest
+that applying a care ethics lens can signi ﬁcantly broaden the frame of appraisal processes used for the
+governance of emerging technologies and usefully grant legitimacy to questions and concerns that areprominent in public discourse but typically left out of practices of risk assessment.
+©2016 Elsevier Ltd. All rights reserved.
+1. Introduction
+After thirty years of careful and innovative work, gender con-
+siderations have secured an important place within science and
+technology studies. Feminists have looked critically at the make-up
+of research communities and exposed the hidden values and as-
+sumptions those communities can perpetuate [8,12] . They have
+exposed the association between a hegemonic conception of mas-
+culinity and a culturally loaded understanding of science and tech-
+nology [20]. By highlighting the material-semiotic dimension of
+technological products, feminists have explained how technologies
+can reproduce genderand recreate gender power relations in society
+[32,79] . In addition, feminist science studies theorists have scruti-
+nized unquestioned representationalist frameworks utilized in sci-
+ence and have helpfullychallenged classic dualisms between subject
+and object, active knower and passive known, nature and culture,
+human and non-human, organism and machine [28,2] . Through
+relentless analysis, the political dimensions of technoscience havebeen laid bare [80] and thanks to this body of work, it is hard to look
+at science or its products without wondering where gender appears,
+or remains concealed, within it.
+Feminist care ethics, however, has made less frequent appear-
+ances in science and technology studies. Evelyn Fox Keller's ex-
+amination of Barbara McClintock's “feeling for the organism ”raised
+the prospect of an important role for affect in scienti ﬁc research
+[40]. Recently, prompted by Bruno Latour's reframing of “matters of
+fact ”as “matters of concern ”[44], Maria Puig de la Bellacasa has
+raised the notion of “matters of care ”to encourage “an ethos of care
+within the study of science and technology ”[4; p. 85]. A special
+issue soon to be released focuses on the politics of care in tech-
+noscience, including some of the inherent ambiguities and chal-
+lenges involved [50,77] as well as questions around temporalities of
+care [5,62] . There has also been a small amount of work investi-
+gating care under the banner of Responsible Research and Inno-
+vation (RRI), a frame for understanding the craft of scienti ﬁc
+practice [16] and addressing concern about future generations in
+light of the uncertainty created by new technologies [23,24] . Aside
+from these sporadic shoots of recent interest, care ethics has thus
+far played only a minimal role in feminist science and technology
+studies.*Corresponding author.
+E-mail addresses: christopher.preston@umontana.edu (C.J. Preston), fern.
+wickson@genok.no (F. Wickson).
+Contents lists available at ScienceDirect
+Technology in Society
+journal homepage: www.elsevier.com/locate/techsoc
+http://dx.doi.org/10.1016/j.techsoc.2016.03.001
+0160-791X/ ©2016 Elsevier Ltd. All rights reserved.Technology in Society 45 (2016) 48 e57
+While we suspect that feminist care ethics might indeed provide
+a helpful lens through which to consider a proper relationship to
+the matters of concern in science, and also provide a vision of how
+to be responsible towards future generations, we think that the
+advantages of feminist care ethics in the context of powerful
+emerging technologies esuch as biotechnology, nanotechnology,
+synthetic biology and geoengineering ereach considerably deeper.
+We suggest that, compared to the consequentialist and broadly
+utilitarian risk analysis approach that currently dominates
+decision-making, care ethics can provide a broader framework
+through which to appraise new and emerging technologies, one
+that usefully illuminates important issues tending to remain con-
+cealed in traditional risk assessments but often dominating public
+discourse and debate. This includes issues relating to shifting re-
+lationships, dependencies, and power distributions, as well as
+attention to speci ﬁc context, to the affective dimensions of the
+experience of technology, and the interconnections illuminated in
+narrative forms of story-telling. In the body of this paper, we
+illustrate the value of approaching technology appraisal through a
+care ethics lens because of the way it opens for the legitimacy of
+these issues using the case study example of genetically modi ﬁed
+organisms (GMOs) in agriculture. However, in order to reveal the
+advantages of the care ethics lens and explore their value in the
+context of a particular case study, it is helpful to ﬁrst brie ﬂy review
+some of the recognized shortcomings of the existing risk analysis
+framework for appraising new and emerging technologies and to
+appreciate the relational philosophy of technology that feminist
+approaches tend to adopt.
+2. Some limits of the dominant “risk ”frame
+Sociologist Ulrich Beck has argued that risk has become the
+central organizing concept of modern industrialized societies [3]
+and indeed, risk assessment has become the dominant tool for
+informing and aiding decision-making in the governance of new
+and emerging technologies [38,84] . In this context, risk is typically
+understood as involving the potential for negative consequences to
+attend the introduction of a new technology, the magnitude of
+these potential consequences, and the probability that they will
+occur [13,14] . When used for the governance of new and emerging
+technologies, the risks of interest are typically those relating to
+potential harms to human health and/or the environment.
+One inherent problem with the use of risk analysis as the
+dominant approach to appraising emerging technologies is that the
+risks they pose to human health and the environment are often also
+novel. This leaves them poorly understood and requiring the
+development of new test methods and/or instrumentation to
+generate the empirical data required for such an assessment [52].
+Such a lack of existing empirical data means that it is very dif ﬁcult
+to predict and calculate prospective harms with any con ﬁdence in
+advance. This shortcoming is ampli ﬁed by the fact that harms are
+often non-linear, incremental, emergent, and (sometimes)
+enduring. Rather than reducing uncertainties in a gradual step-
+wise fashion, conducting more research on the potential risks ofemerging technologies can also open up previously unconsidered
+questions and reveal new ﬁelds of uncertainty. Furthermore, the
+uncertainties surrounding emerging technologies can exist in both
+quantitative and qualitative forms [70,87] . Some uncertainties will
+stem from a simple lack of knowledge and be reducible over time,
+while others will be more systemically embedded, stemming from
+the inherent limitations of scienti ﬁc knowledge for understanding
+complex systems and the inevitable framing choices scientists
+make in the planning and conduct of their research [83].
+Further challenges abound. Not only can harms appear in radi-
+cally different forms, conceptions of what actually constitutes aharm can also vary signi ﬁ
+cantly. While harms to human health and
+well-being tend to be regarded as prototypes, they are certainly not
+the only form of harm. For example, economic harms (understood
+as costs or losses) are often given signi ﬁcant weight and can also be
+deployed as proxies to evaluate the seriousness of any predicted
+health and environmental impacts. Other types of harm, sometimes
+misleadingly called “moral losses ”, are also signi ﬁcant and impact
+the social fabric in ways that often resist formal accounting.1For
+example, harms to traditional knowledge, to community cohe-
+siveness, or to a sense of place are different from harms to health
+and well-being but should be no less an important part of the
+assessment of a new technology. Harms to the non-human envi-
+ronment are also real and often relevant but tend to be dif ﬁcult to
+identify and quantify. This challenge stems in part from the way
+that the object of interest can vary (e.g. harm to individual organ-
+isms, species, populations, ecosystems, functions) but also by the
+way in which constant change within nature gives no stable
+baseline for de ﬁning harm. Subtle shifts in symbiotic relationships
+(e.g. as one pollinator gets nudged aside by another that may be
+more suited to a changed crop system) have no clear metric for
+quanti ﬁcation. Growing interest in the signi ﬁcance of “socio-eco-
+nomic ”impacts, “non-economic ”damages and the “cultural ser-
+vices ”of ecosystems, arguably highlight the incompleteness of
+technology appraisal processes focused solely on risks to human
+and environmental health.
+For emerging technologies that promise deep transformations
+of social, economic, and biological life, the consequentialist
+approach of risk analysis is inadequate for identifying the varied
+forms of peril that may lurk beneath the hype and hyperbole sur-
+rounding the technology's introduction. This is not only because of
+the limited scope and quality of available information for assessing
+risks associated with emerging technologies, nor simply because
+the focus on impacts on human health and environment is too
+narrow. It is also importantly connected to how technology is being
+conceptualized.
+3. Technology as a deep cultural practice
+Feminists have joined a number of voices within the Science and
+Technology Studies (STS) community and argued that technological
+assemblages are not merely objects but “knots of social and political
+interests ”[4]or what Bruno Latour called “embodied sociality ”
+[43]. Such a standpoint demands a heightened sensitivity to the
+technology's “political qualities ”[75]. The fact that this important
+point was missed for so long re ﬂects the pervasiveness of the
+“device paradigm ”, which Albert Borgmann claims has dominated
+contemporary life [10]. In the device paradigm, “means ”are con-
+cealed or shrink from view while “ends ”ethe commodity/outcome
+that the technology has promised to deliver eoccupy all the
+attention. When technology is perceived as a device merely deliv-
+ering an end, a certain kind of blindness to underlying social and
+cultural entanglements is encouraged. Within this paradigm,
+technology gets assessed only thinly for the kind of end experience
+it provides and not for the kind of transformations of material and
+social structures it creates. With emphasis only on the experienced
+end, it becomes reasonable to think that bene ﬁts and harms might
+be isolated and quanti ﬁed using a consequentialist frame such as
+that involved in risk assessment.
+From Heidegger to contemporary feminist technoscience, the
+warnings of the dangers of such a view are legion. Technology is not
+a neutral device, it stems from and frames our socio-cultural beliefs
+1This characterization is misleading because most types of harm considered by
+risk assessment are in some sense ‘moral. ’C.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 49
+and structures. “We are delivered over to [a technology] in the
+worst possible way when we regard it as neutral …. utterly blind to
+[its] essence ”[34: p. 1]. Technology is always more than simply a
+material object delivering a certain experience. “The machine is not
+an it to be animated, worshipped, and dominated. The machine is
+us, our processes, an aspect of our embodiment ”[29: p. 180].
+Technological artifacts are key components of social fabric, both
+reﬂecting and promoting a particular vision of society. They should
+be thought of “as formalizations, i.e., as frozen moments, of the
+ﬂuid social interactions constituting them, but they should also be
+viewed as instruments for enforcing meanings ”[29: p. 164]. With
+these insights in mind, technology can be viewed as a system
+embodied in a set of practices that both re ﬂects the world from
+which it arose and in turn reconstitutes the world into which it is
+introduced.
+If an emerging technology reorders the social and cultural sys-
+tem, then technological appraisal performed for the purpose of
+governance clearly requires that one look as much at shifts in social
+and political relationships as at bene ﬁts and harms. A utilitarian
+analysis of costs and bene ﬁts or a consequentialist focus on risk
+simply leaves too much concealed. It cannot fully recognize thedynamic social, cultural, and ecological restructuring the technol-
+ogy performs. A richer and deeper analysis would examine tech-
+nology as a transformative practice that dramatically restructures
+relationships. This suggests the need for an ethic that is not just a
+consequentialist consideration of risks to human health and safety
+but which puts relationships at the forefront of concern.
+4. GMOs: from isolated artifact to agri-food system
+A highly illuminating example of how a narrowly consequen-
+tialist frame works to conceal issues of concern in the governance of
+emerging technology is agricultural biotechnology, and particularly
+genetically modi ﬁed (GM) crops. While the risk-based approach to
+technology appraisal in this case has claimed to represent an
+objective assessment of safety and acceptability, and GMOs have
+been routinely approved as a result of such assessments, they have
+continued to generate ﬁerce social and political disagreement for
+decades. Fueling this ongoing controversy is the fact that several
+concerns held by citizens are simply not accounted for when a GM
+crop is considered to be merely a biotechnical device for which the
+only legitimate questions concern empirically demonstrable risks
+to human health and the environment. An illustrative summary of
+some of the concerns that this form of assessment misses include:
+1) the domineering or hubristic relationship between humans and
+nature that GMOs can be seen to represent and perpetuate [84,60] ,
+2) the loss of freedom of choice for non-GM producers and non-GM
+consumers [7,58] , 3) the increasing concentration of power and
+capital in the hands of ever fewer social actors in agri-food systems
+[53,71] , 4) the widespread implementation of patents and intel-
+lectual property rights to control the distribution and development
+of seed and varieties [51,41] , 5) the lack of sensitivity to un-
+certainties, paradigms and values in the production of scienti ﬁc
+knowledge [11,61] and 6) competing narratives and visions of
+development and the future of agriculture [47,49] . This means that
+even if GMOs are judged to pose no signi ﬁcant risks to human
+health and the environment, they may still pose signi ﬁcant socio-
+economic and cultural concerns.
+The way we feed ourselves from the earth represents one of
+humanity's most foundational relationships with nature. Agricul-
+tural practices signi ﬁcantly structure both community and personal
+identity, implicitly expressing deeply held moral convictions.
+Through eating we move “inside the differential relationalities that
+make us who and what we are and that materialize what we must
+do…Multispecies human and nonhuman ways of living and dyingare at stake in practices of eating ”[31: p. 295]. Agri-food systems
+represent a complex set of relationships and attitudes between
+people and land and different forms of agriculture engender radi-
+cally different forms of practice and networks of socio-ecological
+relations. However, the way agricultural technologies, like GM
+crops, embody and engender particular socio-ecological relations is
+not immediately apparent to most people. As agri-food systems
+have become increasingly industrialized and globalized in the
+modern era, various elements of their practice have also become
+increasingly removed from lived experience. No longer what
+Borgmann calls “focal practices ”that might sponsor engagement
+with the full “depth and context ”of the world in which we live [10],
+industrialized agriculture turns the procurement of food into
+something shallow, disembodied, disengaged, and often destruc-
+tive to both persons and place. Immersed in the device paradigm,
+people increasingly consume food solely as an end, disconnected
+from the means of its production and distribution and therefore
+typically disengaged from many of the ethical considerations at
+play.
+Just as other technologies, GM crops do not exist in a vacuum
+but operate as socio-technical and eco-social systems. They areshaped by the interests, values, goals and visions that arise from
+their contexts of development and deployment and, at the same
+time, they themselves shape operating discourses, social practices,
+skills and knowledge. By narrowing regulatory considerations to an
+assessment of empirically demonstrable risks to human and envi-
+ronmental health, the appraisal process has failed to see GM
+technologies as agri-food systems and thereby failed to account for
+the complex networks of interrelation and co-construction this
+entails [45,57] . To do so requires thinking of the technology less as a
+thing and more as a system comprised of practices, a system that
+both breaks old relationships and establishes new ones, with sig-
+niﬁcant implications for the socio-ecological matrix involved. The
+challenge is then to ensure that these shifting relationships are
+incorporated in an appraisal process and not quickly concealed
+from view. For this task, it is clear that a more comprehensive and
+sensitive ethical lens is required to replace, or at least to supple-
+ment, the utilitarian one.
+5. GM crops through the care ethics lens
+A number of feminist themes identi ﬁable across several versions
+of care ethics make it a uniquely useful lens to apply in the appraisal
+of emerging technologies. These themes include: 1) A relational
+ontology, 2) Emphasis on particularity and context, 3) Recognition
+of the signi ﬁcance of dependence, 4) An analysis of power and
+concern for the most vulnerable, 5) Weight given to the affective
+dimensions of ethics, and 6) An important role for narrative. The
+case study of GM crops shows how each of these themes makes
+visible important issues of concern typically excluded or hidden in
+risk assessment approaches.
+5.1. Relational ontology
+In the original formulations of what was distinctive about
+feminist accounts of moral development, the contrast between theidea of autonomous individuals seeking to identify and follow
+certain rules for behavior, and persons embedded in networks of
+relationships they felt a responsibility to sustain, took on a high
+proﬁle. In Carol Gilligan's studies of moral decision-making [22],
+the real dif
+ﬁculty in the paradigmatic case of Heinz's dilemma
+about whether or not to steal a potentially life-saving drug centered
+on what appeared to be the impossibility of Heinz maintaining the
+integrity of existing relationships with both his sick wife and the
+drug store owner. The need to sustain these relationships re ﬂectsC.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 50
+an insistence broadly accepted in care ethics that we are necessarily
+“second persons ”always partly constituted by the relationships in
+which we stand [1]. A relational ontology shifts the view of what is
+ethically important so that the relevant harms to be identi ﬁed are
+not so much harms to individuals (whether human or environ-
+mental) but the fracturing of relationships of personal, social, and
+cultural signi ﬁcance. Applied to new and emerging technologies,
+Susan Sherwin claims that the relational ontology in care ethics
+demands at the very least “consideration of the social, as well as the
+physical and psychological, impacts of proposed new technologies ”
+[63: p. 290].
+In modern agri-food systems, relationships extend across time
+and space and include a range of actors beyond the iconic land-
+farmer-consumer trio. For example, relationships exist across sci-
+entists working to develop improved varieties in research and
+development institutes, contractors producing seed for market,
+companies responsible for storing and treating seed, beekeepers
+operating on farm margins, workers operating mills, re ﬁneries and
+processing plants, as well as transport and delivery drivers, store
+owners and market vendors, just to name a few. Some of these
+relationships are purely economic, but others are highly constitu-tive of individual and collective identities.
+The relationship between farmer and seed, for example, was
+traditionally an intimately interconnected one (stretching back
+though generations), in which farmers saved seed from year to year,
+carefully selecting and planting varieties that performed well ac-
+cording to desired criteria. This interaction facilitated the co-
+evolution of both crop plants and farming practice [75]. With the
+development and uptake of commercial hybrid seed, this intimate,
+personal and historically rooted relationship between farmers and
+seed was broken, as the technology required the purchase of new
+seed each year to achieve a consistent and reliable performance.
+Under a GM system, however, this relationship breaks down even
+further as GM crops have become patented inventions, which
+require not only that farmers purchase new seed each year for
+reliable performance, but that they sign a contract or “technology
+use agreement ”which prohibits them from replanting the seed and
+removes their right to conduct any further research or experi-
+mentation with the seed [54].
+In addition to farmer-seed relations, farmer-farmer relation-
+ships can also be severely damaged by patented GMO crops.
+Adjacent farmers have always had to negotiate a suite of issues that
+include spraying, drainage, fences, escaping livestock, and cross-
+pollination. Such issues demanded a particular type of neighbor-
+neighbor tolerance, communication, and understanding. The
+introduction of patentable seed inserts a third party into this
+relationship, the technology's “inventor ”, and thereby raises the
+stake considerably when lawsuits over patent infringement occur.
+This happened in the paradigmatic case of Monsanto Canada Inc .vs.
+Schmeiser where Monsanto successfully sued Canadian canola
+farmer Percy Schmeiser for growing their patented GM crop, which
+the court judged to be intentionally planted but the farmer main-
+tained was an unintentional result of wind carrying pollen from a
+neighboring farm [41]. Organic agri-food systems are particularly
+vulnerable to negative impacts from this type of “contamination ”
+since being GM-free has become one of their key distinguishingfeatures. Some farmers have now moved away from organic
+farming so as to avoid potential legal rami ﬁcations from cross-
+pollination contamination and from a speci ﬁc desire not to
+destroy relations with their GM crop-growing neighbors and the
+social cohesion of their small rural villages
+[6].
+These examples indicate how the GM agri-food system can
+radically transform existing relationships and how new social and
+ecological relationships of interaction are created through the
+introduction of the technology. The shifting dynamic betweenactors such as different farmers, farmers and consumers, seed
+producers and purchasers, and even between research scientists
+working on patentable and patented technologies, should all be
+scrutinized for a comprehensive appraisal of agricultural biotech-
+nology. This would include not only considering the impact that the
+technology as object would have on human health and the envi-
+ronment, but also importantly how the technology as practice may
+restructure relationships in signi ﬁcant ways and the extent to
+which such recon ﬁgurations are desirable and just. The emphasis
+that feminist care ethics places on the maintenance of nourishing
+relationships could usefully bring such issues under consideration,
+issues which are currently outside the scope of risk analysis frames.
+5.2. Particularity and context
+In an important article contrasting the justice and the care
+approach to ethics, Seyla Benhabib elucidates the difference be-
+tween an ethics that considers the “generalized other ”and one that
+considers the “concrete other ”[6]. Benhabib articulates a common
+complaint in feminist ethics that masculinist justice approaches
+abstract from the “individuality and concrete identity ”of any given
+person in order to make ethics into a non-partial enterprise dealing
+only with nameless and autonomous others [6]. Ethical actors
+become mere placeholders in moral equations who lack particu-
+larity or speci ﬁcity. Jake, one of the research subjects in Kohlberg's
+original studies of moral development, claimed that the famous
+Heinz's dilemma amounted to “a math problem with humans ”[22:
+p. 26]. Regarding moral dilemmas as math problems requires
+abstracting away from all the particularities of any one individual
+and the context in which they operate to focus only on a “gener-
+alized other. ”
+The emphasis on relational ontologies mentioned above
+immediately starts to discourage this sort of abstraction because
+individuals are understood to be constituted by their relationships
+to very particular human and non-human others in concrete con-
+texts. The abstraction is further discouraged by the move in femi-
+nist care ethics away from ethics as an entirely rule governed
+endeavor applying formulaically to the generic individuals that fall
+under it. Feminist care approaches do not consider ethics to be
+“math problems with humans, ”suggesting instead that ethics
+typically demands sensitivity to context and might include, in
+certain situations, room for partiality.
+While the impacts of GM crops are inevitably impacts on
+particular people and particular situations, it is rare that the spec-
+iﬁcity of the concrete other is accounted for in either the devel-
+opment of GMOs or in the formal risk assessment processes applied
+to them (which are often based on quantitative research, statistical
+analysis and expert judgment). Actual stakeholders are rarely
+incorporated into assessment processes, and where they are, it is
+typically through an opening to comment on expert scienti ﬁc as-
+sessments of risk rather than to describe how they themselves may
+be directly affected. It is also the case that public engagement ex-
+ercises around emerging technologies have often speci ﬁcally
+sought to engage only “the innocent citizen ”[37] or those without
+any speci ﬁc interests, stakes or established opinions on the issue
+[17]. This again favours the views of an impartial, generalized other
+rather than those particularly involved in the issue.
+Assessment processes for GM crops arguably demand a certain
+level of abstraction simply by the scale of their operation and the
+location of decision-making power ee.g. approval is usually given
+to a GM crop by a national or supranational authority (such as the
+European Commission). While there is clearly a place for general-
+ized statistical analyses of harm when assessing a new agricultural
+practice or product, the variability of social and ecological contexts
+means that such abstractions can also be misleading. In riskC.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 51
+assessment, some degree of consideration may be given to how
+different environments can in ﬂuence the potential risks of GMOs,
+however, there has historically been very little acceptance that
+social and cultural particularities and context should be permitted
+to inﬂuence decision-making.
+This tendency to deny the signi ﬁcance of social and cultural
+particularities has been most starkly demonstrated by the World
+Trade Organisation's (WTO) arbitration of divergent decisions on
+GMO regulation. In a famous case, the USA (and others) challenged
+the legitimacy of a de facto moratorium on GM crops that the Eu-
+ropean Union had in place as they attempted to manage consumer
+concern. The challengers won the case on the basis of a ruling that
+the moratorium was not based on scienti ﬁc evidence , which was
+interpreted as an empirically informed assessment of health and/or
+environmental risks [72]. The socio-political particularities con-
+nected to cultural context were deemed not to be legitimate factors
+for decision-making.
+This lack of acceptance of the importance of context sensitivity
+has also been an historical feature of the European regulatory
+system for GMOs itself. Member States have previously not been
+permitted to take their own decisions concerning the acceptabilityof GMOs unless it is speci ﬁcally based on new scienti ﬁc evidence
+[85]. Interestingly and ewe would argue eappropriately, this
+controversial situation has recently been overturned with a new
+resolution of the European Parliament [19] that allows Member
+States to prohibit the cultivation of GMOs within their territory on
+the basis of grounds such as agricultural and environmental policy
+objectives and socio-economic impacts.
+This recent move in the European Union to open up and allow
+for particular socio-cultural contexts to be given more weight in
+assessment processes was implemented as an attempt to break the
+long standing political impasse on GM crops in Europe. Global
+policies that do not account for national, regional, or even local
+differences in culture, economy, or ecology clearly treat techno-
+logical appraisal as simply a math problem. But with agri-food
+systems often being such a fundamental constituent of cultural
+identity, there appears to be an emerging recognition that
+approaching GM crops as a universal math problem is stimulating
+rather than diminishing debate. A feminist emphasis on concrete-
+ness and particularity in ethical decision-making can legitimize the
+differences and divergences across actors that are clearly already
+present in debates over emerging technologies but routinely dis-
+missed. As such, it can open up space for different nations or re-
+gions to legitimately adopt different positions on technologies like
+agricultural biotechnologies depending on the particularities of
+their context and culture (and not just across USA/Europe but also
+the global north/south). It also opens space for different agricultural
+biotechnologies themselves to be assessed for their individual
+particularities, rather than treated as an indiscriminate block.
+Furthermore, it would open appraisal processes to more directly
+consider the impacts of the technology as a system on speci ﬁc ac-
+tors, such as organic or smallholder farmers, seed companies of
+different sizes, publicly funded researchers and plant breeders.
+Such an openness to the relevance of context and particularity may
+also allow for the development of a more nuanced debate rather
+than the highly polarized and bifurcated division we currently seearound GMOs.
+5.3. Dependence
+The turn away from ethics as a set of rules applying equally to
+groups of nameless and faceless individuals also suggests a
+rethinking of the emphasis on autonomy that has pervaded ethics
+since Kant. In both Nel Noddings' [55] and Eva Kittay's [42] artic-
+ulations of a care ethic, there is recognition that caringrelationships often take place between those who are not equally
+situated or autonomous. Kittay insists that a foundational human
+experience in the world is one of dependence in which some kind
+of difference in capacity exists between the persons in the rela-
+tionship. “We are all some mother's child, ”she points out [
+42:p .
+19]. This idea that there are often important differences between
+persons in a relationship also appears in Noddings' differentiation
+between the “one caring ”and the “cared for. ”This emphasis on
+asymmetrical relationships, while critiqued by some feminists [36],
+can draw attention to the ways in which agri-food systems are also
+comprised of networks of linked dependencies. In light of these
+linked dependencies, individuals and groups of individuals can be
+highly vulnerable to the possibility of network disruption. Partic-
+ular shifts in relationships expose individuals to the possibility of
+harm through the loss of the provision of something important on
+which they depend, whether that be parental care, essential health
+or educational services, or food itself. Though neither Kittay nor
+Noddings are eager to extend their accounts of care and de-
+pendency to include the natural world due to the speci ﬁc emotional
+and cognitive components of care demanded by their views, it is
+clear that an additional type of dependency exists between humansand ecological systems.
+It is central to this feminist analyses that dependence itself is not
+necessarily problematic, it is simply an inevitable part of the fabric
+of life. What Noddings and Kittay show us is that relationships of
+dependence can be nourishing or destructive for the people
+involved. They can be socially legitimated and supportive or they
+can be taken for granted and oppressive. An emphasis on depen-
+dence draws attention to the values and structures that might
+sustain this oppression.
+Just as people inevitably depend on certain human others, they
+also depend on functioning agri-food systems and the institutional
+arrangements they contain (be they self-sustaining or otherwise).
+Within GM agri-food systems, one of the major concerns has been
+with how the technology creates new depths of dependency for
+both producers and consumers on a select few powerful agents,
+namely the multi-national corporations that own GM crops as their
+patented property. The dependency of GM agri-food systems on
+multi-national corporations includes not only access to seed, but
+also to ‘co-technologies ’such as chemicals for production (such as
+herbicides, pesticides and fertilizers) and to technical information
+and support. As farmers and consumers become increasingly
+dependent on a small selection of powerful actors, relevant ques-
+tions arise concerning whether those actors are engaged in the
+relationship in a caring and nurturing manner or whether the
+relation is extractive, pro ﬁt-driven, and destructive [64]. The pre-
+dominance of herbicide tolerant GM crops (such as Roundup
+ready
+®soybeans, corn, cotton and canola), which are designed to be
+used together with particular chemicals that are owned by the
+same companies selling the GMO, has raised signi ﬁcant questions
+about the motivations involved, particularly as bene ﬁts for con-
+sumers have not been prominent in the ﬁrst generation of GM
+crops.2
+The point here is obviously not that dependency in agri-food
+systems is always bad. Farmers have always been dependent
+upon experience, know-how, local knowledge, and a range ofexisting economic relationships. Some degree of locally distributed
+dependency is in fact a source of the very relationships and
+2While there is little evidence to support a link between farmer suicides in India
+[25] and the introduction of Bt cotton, concerns about the relationship between
+farmer debt, the seed economy created by GM crops, and suicide have created a
+ﬁerce and emotional public debate around the pros and cons of biotechnology use
+in the developing world.C.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 52
+practices that create and sustain a community over time. With this
+more traditional type of dependency, the agents on whom one
+depends are typically relatively accessible/present and therefore
+potentially more engaged and attentive (as demanded by Noddings
+and Kittay) than abstract and distant. This type of dependency is,
+however, arguably different in scale and scope from the type of
+dependency that GM crops have created. GM crops amplify and
+intensify the move within agri-food systems away from a locally
+distributed dependency and towards a dependency imposed from
+the outside by a handful of powerful actors. In the globalized sys-
+tem of industrialized agriculture that GM crops emerge from,
+perpetuate and strengthen, dependencies are increasingly
+concentrated in a select few distant actors rather than distributed
+amongst diverse and more accessible agents. A feminist ethic lens
+would call for speci ﬁc attention to be paid to the types of de-
+pendency being created by a new technology and question the
+extent to which they were constitutive of a healthy community.
+5.4. Power and vulnerability
+Feminist thinking is particularly concerned with power re-
+lationships and Kittay's work on dependency is only one of the
+ways in which power inequalities have been highlighted. Iris
+Marion Young has talked about the “structural injustices ”that
+systematically pervade society [89,90] . Even if they are not inten-
+tionally malevolent, these injustices subject certain individuals and
+communities to the “systematic threat of domination or depriva-
+tion of the means to develop and exercise their capacities ”[90:p .
+114]. In a further illustration of the central concern with power in
+feminist thought, Hilde Lindemann de ﬁnes gender itself as a
+normative power relation [48]. Gender often rudely instructs
+people on how to act in the world, containing strong social pre-
+scriptions for what are deemed appropriate roles and behaviors.
+Lindemann identi ﬁes feminism's concern with gender as being
+about “understanding, criticizing, and correcting ”these power
+moves and exposing the ways they make some people vulnerable
+while empowering others.
+As Kittay's examination of dependency illustrates, lack of power
+is not always inherently bad; some power imbalances are simply an
+ineradicable feature of a world riddled with complex and uneven
+relationships. In these cases, power imbalances are simply some-
+thing to pay attention to so that the imbalance does not system-
+atically disadvantage some groups over others. Furthermore,
+imbalances in power need not suggest a lack of agency or capability.
+Feminist standpoint theorists draw attention to the possibility that
+those who are structurally disadvantaged might end up having
+particular insights available to them for critiquing the status quo
+[33]. Recognizing a power dynamic can ensure that voices currently
+missing from the political discourse are sought out and that hidden
+structural effects of power imbalances are illuminated.
+In the case of GM crops, the signi ﬁcance of power has already
+been mentioned in the discussions of dependency and relational
+ontology. However, there are additional aspects of relevance in the
+unfolding of GM technology as an agri-food system. The adoption ofGM crops has in some cases created an uneven power balance and
+set of burdens amongst different types of farmers. In Europe, for
+example, there is a general commitment to the importance of
+maintaining separation between GM and non-GM agri-food pro-
+duction and consumption chains. However, the burdens of up-
+holding these “co-existence ”regimes are typically unjustly
+distributed. Since gene ﬂow can occur between certain crops
+through cross pollination, and contamination can occur through
+unintentional mixing during seed and grain production and along
+transport and processing chains, maintaining separation between
+GM and non-GM crops requires preventative actions. This can, forexample, include implementing crop separation distances in the
+ﬁeld. Implementing such distances is, however, typically voluntary
+(leaving non-GM farmers reliant on the good will of those culti-
+vating neighboring ﬁ
+elds) and extremely dif ﬁcult for small-scale
+and subsistence farmers (since it signi ﬁcantly reduces the
+amount of land that can be farmed with that crop). Furthermore,
+conducting consistent monitoring of seed and grain samples
+throughout different stages of the agri-food system is also required
+to assure separation of GM and non-GM crops. Currently, the costs
+of monitoring for GM contamination and mixing must be born by
+those choosing not to adopt the technology, i.e. it is those that do
+not wish to be contaminated with GM material that bear the
+burden of monitoring [9].
+Power issues are also in play over the issues of labeling. Con-
+sumers in countries such as the United States are currently pre-
+vented from avoiding GM foodstuffs by the lack of a requirement
+for labeling. Efforts to impose mandatory GM labeling at the state
+level are repeatedly thwarted by expensive advertising campaigns,
+manipulation strategies by GM interests and by national author-
+ities. These interests exert their power to deny choice to consumers
+who are at present unable to determine whether a certain productcontains GM crops or not. Lack of labeling clearly undermines not
+only the power of consumers to exercise control over the food they
+consume, but also their ability to invest in and express support for a
+certain type of agri-food system through their purchases.
+The way in which GM agri-food systems have come to dominate
+particular contexts and sectors can also been seen as a relevant
+issue when scrutinizing the potential creation of vulnerabilities. For
+example, in the US in 2014, 93% of all corn, 96% of all cotton and 94%
+of all soybean acreage was GM [76]. Such a high level of depen-
+dence on GM crops rather than a broad range of agricultural
+biodiversity, and therefore also on the select few powerful actors
+that control them, can clearly leave people highly vulnerable to
+economic/ecological change. Resilience in socio-ecological systems,
+and particularly in agri-food systems, is a character trait linked to
+diversity and ﬂexibility. Should a particular disease or problem
+befall these crops, or a particular disease or problem emerge as
+linked to cultivation or consumption of these crops, then this sys-
+tem of heavy dependency will quickly create extensive challenges
+and be revealed in all its fragility.
+It is also worth highlighting that the dominance of risk based
+approaches for assessing emerging technologies already makes
+particular power moves, e.g. by granting power over questions of
+public acceptability and what counts as relevant knowledge to a
+select group of scienti ﬁc experts [86]. As shown, however, these
+methods do not provide any mechanism for detecting power dis-
+tributions and vulnerabilities created by new technologies. There is
+simply no way for a utilitarian risk-assessment frame to account for
+issues such as a consumer's freedom to choose or the question of
+whether the dominance of one type of system creates unacceptable
+vulnerabilities. A similar challenge arises with the problem of the
+additional burden on subsistence, organic, or conventional farmers
+for monitoring their crop against GMO in ﬁltration and patent
+infringement. A feminist care ethics approach comes to the prob-
+lem already sensitized to the way power operates in relationships
+and is particularly attentive to the needs of the most vulnerable.Using this lens in an appraisal of the technology would therefore
+ensure that these types of burdens are less likely to escape notice.
+5.5. Affect
+One of the most widely articulated features of feminist care
+ethics is its emphasis on the affective dimensions of moral expe-
+rience. Where ethics has previously been characterized as essen-
+tially rational, the efforts of feminist care ethicists have created aC.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 53
+growing appreciation that moral decision-making has a signi ﬁcant
+emotional core [35]. Morality is lived and experienced by ﬂesh and
+blood individuals who respond to real world situations both
+rationally and emotionally. It is not lived by abstract and fully
+autonomous rational agents, who make decisions according to logic
+and formula. As a result, responses to situations need not exclu-
+sively focus on reason. Action may be legitimately motivated by the
+affective demands of a situation, for example, by the emotional
+importance of the personal relationships comprising it and resis-
+tance to their potential loss and transformation.
+This emphasis on affect does not mean that reason is excluded
+from moral decision-making. Matters of justice, for example, have
+both emotional and rational dimensions [27]. It does mean, how-
+ever, that a signi ﬁcant part of the process of responding to a situ-
+ation perceived to contain moral dimensions involves emotions,
+which can be shaped by personal, historical, and cultural context.
+This emphasis on emotions is consistent with the possibility of
+partiality. An emotional connection is likely to be stronger when a
+relationship is more intimate or direct. This partiality might be
+directed towards a family member, a farmer that supplies a com-
+munity with food, a crop that has important cultural signi ﬁcance, or
+even a landscape identi ﬁed as home and for which a person has a
+particular attachment. A feminist sensitivity does not dismiss an
+affective response as irrational but recognizes it as a core compo-
+nent of morality.
+The GMO debate has clearly had a very strong affective
+dimension, with people often reacting emotionally to either the
+transgenic element of the technology itself or the transformation it
+threatens. The very thought of GMO's create in some people a kind
+of “yuck ”response, often connected to the perceived “unnatural-
+ness ”of the technology [39]. The emotional and intuitive nature of
+this response can often leave those who have it unable to fully
+explain it [26], even though, as theorists such as Mary Douglas [18]
+and Martijntje Smits [68] have argued, such reactions relate to the
+transgression of important ordering concepts and cultural cate-
+gories that people use to orient their understanding of the world
+and their action within it. While some are quick to reject these
+types of worry as irrational or ill-informed [59,73] , public engage-
+ment exercises have found that those gut reactions or moral doubts
+are highly important and often “act as a veto irrespective of peo-
+ple's views on use and risk ”[21: p. 845]. It is also notable that affect
+in the debate over GM crops is not restricted to members of the
+general public; it is powerfully apparent within the scienti ﬁc
+community as demonstrated by the way various scientists pub-
+lishing potential harmful effects from GM crops have come under
+vicious and vindictive attack from supporters of the technology.
+These attacks have been described as being emotional, personal
+and crossing over into a form of harassment [81]. Although typi-
+cally ignored by decision-makers, affect drives a signi ﬁcant portion
+of the GM debate.
+Within the realm of technology governance, the call has
+consistently been for rational decision-making based on sound
+scienti ﬁc evidence, with emotions sidelined as having no place in
+the assessment process. This is despite the clear role that they
+continue to play in people's own assessments of the technology and
+its acceptability. This has often forced opponents of GM agri-food
+systems to campaign on the basis of spurious risk-based concerns
+when their position actually stems from other considerations and
+issues, particularly ethical concerns, questions over the proposed
+purpose of the technology, or commitments to competing visions of
+the good life [46]. This has been necessary because other consid-
+erations are permitted no place within a risk assessment frame
+[88]. Many of the aspects of GM technologies that people react
+emotionally to, such as the loss of traditional identities and prac-
+tices (such as seed saving, subsistence farming, polyculturalcropping), the challenge to established ordering concepts (such as a
+species, a plant, a farmer), or the perceived “unnaturalness ”of GM
+crops (whatever its philosophical merits or demerits), are
+extremely hard to quantify but are a type of gut level reaction to an
+infringement of a worldview rather than a response to an empiri-
+cally demonstrable risk to human or environmental health. These
+affective dimensions are excluded by risk assessment frames but
+could potentially ﬁnd a place for articulation through a feminist
+lens that takes such elements of moral experience seriously.
+5.6. Narrative
+A number of care ethicists have proposed narrative or story-
+telling as an appropriate mechanism to employ for unpacking
+moral situations. Karen Warren suggests that narrative is a useful
+tool that can be employed to highlight issues “often lost or
+underplayed in mainstream philosophical ethics ”[82: p. 134].
+Stories also have the potential to “entertain, explain, connect, and
+emancipate ”[74] and can be particularly effective at unearthing the
+detail that matters for an individual or community. In addition to
+the capacity for expanding the moral imagination [56], narratives
+can open the door to power considerations by providing room for
+the voice of those who might ordinarily be excluded, e.g. those who
+may not comprise the dominant majority and/or may be vulnerable
+to a transformational change. Narratives can not only help capture
+certain ineffable and very personal features of moral experience,
+they can also help capture the emergent nature of certain moral
+challenges. Narrative illuminates “the location of human beings'
+feelings, psychological states, needs, and understandings as nodes
+of a story (or of the intersection of stories) that has already begun,
+and will continue beyond a given juncture …”[78: p. 18]. This could
+be particularly important for new and transformational technolo-
+gies where shifts in relationships may not be visible in advance but
+start to emerge over time.
+A narrative mode would arguably be well suited for revealing
+issues connected to each of the ﬁve themes already highlighted.
+Narrative can bring attention to particularity and context, empha-
+sizing the importance of allowing individuals to control their own
+story. It can make connections between actors and events clear and
+generate questions about how relationships might unfold. Narra-
+tive can also serve as a prompt for the moral imagination (i.e.
+expanding our horizons to include the plight of others) and can be
+used to recognize and af ﬁrm affective experience. Furthermore,
+given the way narrative articulates interconnections and views of
+relationships, narrative could also help reveal the underlying
+worldviews, socio-technical imaginaries and future visions that
+inform and shape the development of technological trajectories.
+Research on the psychology of risk perception for emerging
+technologies has clearly demonstrated not only the importance
+of gender [15,65,66] ,b u ta l s ot h es i g n i ﬁcance of worldviews,
+values and beliefs [67]. Competing worldviews and visions are
+arguably central in the debate over GM crop acceptability, e.g.
+disagreements concerning what is a desirable model for the
+future of agriculture, what is an appropriate relationship withthe natural world, what is the basis or cause of the challenges we
+face in feeding a growing population, etc. Understanding,
+analyzing and addressing this dimension is, however, neverformally a part of decision-making conducted within a risk
+assessment frame. Opening up space for narrative and paying
+attention to storytelling would arguably allow this signi ﬁcant
+dimension of moral consideration to become a legitimate part of
+the assessment process. Permitting different actors to frame and
+tell their own stories in a technology appraisal and policy making
+context would allow both the political deliberations and the
+social debates more broadly to take place not just in terms of theC.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 54
+scienti ﬁc risks involved with using a particular device, but
+importantly, to also engage with and illuminate questions around
+how the technological system relates to and/or advances con-
+cepts of the good life, the good community, and appropriate re-
+lations between humans and nature.
+The problems that have arisen for GM crops as highlighted in
+this paper tend to surface most clearly through the stories people
+tell about their own lived experience with GMOs. Applying a
+feminist ethics lens to technology appraisal in this case would allow
+the appraisal to pay particular attention to the (often competing)
+stories being told by various actors about what GMOs are, where
+they have come from, what they offer, and where they are leading
+us. This would be highly instructive and revealing of underlying
+beliefs and motivations and allow these to become a transparent
+component of the appraisal process.
+6. Conclusion
+The six features associated with a feminist perspective and care
+ethic described above are neither exhaustive nor exclusive. There
+are other features of feminist care ethics that might have beenidenti ﬁed and other feminist approaches and ethical frameworks
+that might have also highlighted them. What the feminist ethics
+lens clearly provides, however, is an illumination of issues that
+appear particularly relevant when attempting to approach the
+governance of new and emerging technologies from a socio-
+ecological systems-based perspective. Through this paper we
+have sought to demonstrate that if technology appraisal were to be
+conducted with these features of care ethics in mind, different
+impacts would be noticed and made legitimate, different questions
+would be asked, and different conclusions potentially drawn. In this
+article we have focused on how a care ethics lens can be used to
+broaden technology appraisal. However, it could be argued that the
+lens could also be used to improve governance through informing,
+shaping and guiding the actual development of emerging tech-
+nologies (rather than just their regulation). In this case, the features
+of a relational ontology and attention to particularity, context, de-
+pendencies, power and narrative would become important con-
+siderations incorporated into the imagination and development of
+future agricultural biotechnologies. This means that although
+existing GM crops may not necessarily meet a favorable appraisal
+when viewed through a care ethics lens, this need not be the fate of
+all agricultural biotechnologies. How the lens may be used to shape
+more ‘caring ’technologies and socio-technical systems in the
+future (and what these would look like in practice) is arguably a
+topic worthy of further research and another paper. It is also worth
+noting here that although agricultural biotechnology provides a
+particularly useful illustration of the potential bene ﬁt of adopting a
+care ethics lens, the lens will also likely be of value for the appraisal
+of emerging technologies more generally, as well as for complex
+global challenges such as climate change.
+The advantages of the care ethics lens that we have highlighted
+should not be taken to suggest that a traditional risk assessment
+frame misses everything of moral signi ﬁcance about a new tech-
+nology. Scienti ﬁc and statistical assessment of the risk of harm has
+an important role to play in the governance of emerging technol-
+ogies. However, it is clear from feminist science studies that the
+relevant impacts of a new technology reach far further than phys-
+iological or environmental harm. They also in ﬁltrate the “embodied
+sociality ”of the technology [43]. The feminist care ethics lens
+seems well suited to identify impacts that not only can be missed by
+traditional risk assessment, but which can also turn out to repre-
+sent some of the most salient dimensions of technological change.
+The care ethics lens therefore helps to bring focus to these trans-
+formations and does it in a way that illuminates aspects thatactually matter to real people in their daily lives.
+Would such an approach ever be adopted in practice though?
+While it is beyond the scope of this paper to engage in a detailed
+analysis of the political obstacles and challenges facing the adop-
+tion and use of a care ethics lens for the governance of emerging
+technologies, one argument often touted in favor of traditional
+quantitative risk-assessment is that it can offer a clear numerical
+answer to complex questions. In contrast, care ethics is often
+accused of lacking both precision and normativity. However, we
+would argue that the science of risk assessment is falsely de ﬁnitive,
+narrowly de ﬁning risk as the only relevant element for consider-
+ation of a technology's public acceptability and often failing to ac-
+count for the ambiguity of risk-based research. Since care ethics
+does not tend to see moral dilemmas as math problems, the an-swers it gives to moral situations may not always be de ﬁnitive and
+indeed this may be the point. While it is clear that the process may
+be messy and decision-making not always clear, this seems to
+better re ﬂect the social reality that surrounds emerging technolo-
+gies. Feminist care ethics may therefore be seen to provide the kind
+of“plural and conditional ”policy advice that is being called for in
+this domain [70]. Indeed, the new European resolution now creates
+room for a more pluralized and context speci ﬁc approach to GMOs,
+enabling individual Member States to take decisions based on
+factors such as socio-economic impacts, agricultural policy objec-
+tives and cultural traditions [19]. Such an opening for alternative
+appraisal criteria could be leveraged for the exploration of a care
+ethics lens in the governance of agricultural biotechnologies. This
+may see different socio-ecological and cultural contexts yield
+diverse assessments of GMOs, some favorable and others not. More
+broadly though, the increasing emphasis within science policy on
+the need to advance ‘responsible research and innovation ’, and the
+conceptions of responsibility as care within this [69], also open a
+crack for a care ethics lens to be further developed and applied.
+While our focus in this paper has been on providing an argument
+for the potential bene ﬁts and value of a care ethics lens, political
+obstacles to uptake clearly remain and, we suggest, offer a fruitful
+area for further research and work should our argument of the
+advantages prove convincing.
+To quell any concerns about normative vagueness, it is clear that
+guidance from other ethical frameworks can easily be brought in to
+supplement the care frame. For example, policy-making can be
+guided by the norm of sustaining healthy relationships between
+(social and ecological) community members and curtailing those
+relationships that are destructive. It might seek to protect the most
+vulnerable and avoid situations where concentrated power is used
+tostructurally disadvantage certain segments of the population. It
+might embrace caring forms of distributed dependency and avoid
+types of dependency that foster exploitation . It might take more
+note of negative affective responses and seek ways to ensure posi-
+tive ones. It could seek to give people control of their own stories and
+their unfolding and try to avoid forms of life being imposed from the
+outside . Certainly, the practicalities of implementing a care ethics
+approach and the alliances it will demand remain to be articulated
+in greater detail in future work. However, the worry about
+normative vagueness does not appear to be debilitating.
+The important socio-cultural dimensions of technological
+innovation that have been concealed by the device paradigm and
+the reliance on risk assessment seem to provide a clear and sig-
+niﬁcant opening for a better assessment frame. If Donna Haraway
+was right about the need to realign the technical and political so
+that “questions about possible livable worlds lie visibly at the heart
+of our best science ”[30] then we need decision-aiding tools that are
+better suited to the task of technology appraisal. We hope that this
+article might spur additional exploration of what could be a new
+and important role for the care ethics approach.C.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 55
+References
+[1]Annette Baier, Postures of the Mind: Essays on Mind and Morals, University of
+Minnesota Press, Minneapolis, MN, 1985 .
+[2]Karen Barad, Meeting the Universe Halfway: Quantum Physics and the
+Entanglement of Matter and Meaning, Duke University Press, Durham, NC,2007 .
+[3]Ulrich Beck, Risk Society: Towards a New Modernity, SAGE Publications,
+London, 1986 .
+[4]Maria Puig de la Bellacasa, Matters of care in technoscience: assembling
+neglected things, Soc. Stud. Sci. 41 (1) (2011) 85 e106.
+[5] Maria Puig de la Bellacasa, Making time for soil: technoscienti ﬁc futurity and
+the pace of care, Soc. Stud. Sci. (2015) 1 e26, http://dx.doi.org/10.1177/
+0306312715599851 .
+[6]S. Benhabib, The generalized and the concrete other: the Kohlberg-Gilligan
+controversy and feminist theory in feminism as critique, Prax. Int. 5 (4)
+(1986) 402 e424.
+[7]Rosa Binimelis, Coexistence of plants and coexistence of farmers: is an indi-
+vidual choice possible? J. Agric. Environ. Ethics 21 (2008) 437 e457.
+[8]R. Bleier, Science and Gender: a Critique of Biology and its Theories on
+Women, Pergamon Press, Oxford, 1984 .
+[9]Anne-Katrin Bock, Karine Lheureux, Monique Libeau-Dulos, Hans Nilsgård,
+Emilio Rodriguez-Cerezo, Scenarios for Co-existence of Genetically Modi ﬁed,
+Conventional and Organic Crops in European Agriculture, European Com-
+mission Joint Research Centre, Seville, 2002 .
+[10] Albert Borgmann, Technology and the Character of Contemporary Life, Uni-
+versity of Chicago Press, Chicago, IL, 1984 .
+[11] Susan Carr, Les Levidow, Exploring the links between science, risk, uncer-
+tainty and ethics in regulatory controversies about genetically modi ﬁed crops,
+J. Agric. Environ. Ethics 12 (2000) 29 e39.
+[12] L. Code, Epistemic Responsibility, University of New England Press, Hanover,
+NH, 1987 .
+[13] J.J. Cohrssen, V.T. Covello, Risk Analysis: a Guide to Principles and Methods for
+Analyzing Health and Environmental Risks, National Technical Information
+Service, Spring ﬁeld, 1989 .
+[14] V.T. Covello, M.W. Merkhofer, Risk Assessment Methods: Approaches for
+Assessing Health and Environmental Risks, Plenum Press, New York, 1993 .
+[15] D.J. Davidson, W.R. Freudenberg, Gender and environmental risk concerns: a
+review and analysis of available research, Environ. Behav. 28 (1996) 302 e339.
+[16] S.R. Davis, M. Horst, Crafting the group: care in research management, Soc.
+Stud. Sci. 45 (3) (2015) 371 e393.
+[17] Ana Delgado, Kamilla L. Kjølberg, Fern Wickson, Public engagement coming of
+age: from theory to practice in STS encounters with nanotechnology, Public
+Underst. Sci. 20 (6) (2011) 826 e845.
+[18] Mary Douglas, Purity and Danger, Routledge, London, 1966
+.
+[19] European Parliament. 2015. European Parliament legislative resolution of 13
+January 2015 on the Council position at ﬁrst reading with a view to the
+adoption of a directive of the European Parliament and of the Council
+amending Directive 2001/18/EC as regards the possibility for the Member
+States to restrict or prohibit the cultivation of genetically modi ﬁed organisms
+(GMOs) in their territory. http://www.europarl.europa.eu/sides/getDoc.do?
+pubRef ¼-//EP//TEXT þTAþP8-TA-2015-0004 þ0þDOCþXMLþV0//EN (last
+accessed 09.04.15).
+[20] Wendy Faulkner, M. Lohan, Masculinities and technologies, Men Masc. 6 (4)
+(2004) 319 e329.
+[21] G. Gaskell, Europe ambivalent on biotechnology, Nature 387 (26 June) (1997)
+845e847.
+[22] Carol Gilligan, In a Different Voice, Harvard University Press, Cambridge, MA,
+1982 .
+[23] A. Grinbaum, C. Groves, What is “responsible ”about responsible innovation?
+understanding the ethical issues, in: Richard Owen, John Besant,
+Maggie Heintz (Eds.), Responsible Innovation: Managing the Responsible
+Emergence of Science and Innovation in Society, John Wiley &Sons, Ltd.,
+Chichester, Sussex, 2013, pp. 119 e142.
+[24] Christopher Groves, Future ethics: risk, care and non-reciprocal responsibility,
+J. Glob. Ethics 5 (1) (2009) 17 e31.
+[25] G. Gru /C18ere, D. Sengupta, Bt cotton and farmer suicides in India: an evidence-
+based assessment, J. Dev. Stud. 47 (2) (2011) 316 e337.
+[26] Jonathan Haidt, The emotional dog and its rational tail: a social intuitionist
+approach to moral judgment, Psychol. Rev. 108 (4) (2001) 814 e834.
+[27] Reza Halwani, Care ethics and virtue ethics, Hypatia 18 (3) (2009) 161 e192.
+[28] Donna Haraway, Situated knowledges: the science question in feminism and
+the privilege of partial perspective, Fem. Stud. 14 (3) (1988) 575 e599.
+[29] Donna Haraway, Simians, Cyborgs and Women: the Reinvention of Nature,
+Routledge, New York, 1991 .
+[30] Donna Haraway, Modest /C0Witness@Second /C0Millennium. Female-
+Man/C0Meets/C0OncoMouse: Feminism and Technoscience, Psychology Press,
+New York, 1997 .
+[31] Donna Haraway, When Species Meet, University of Minnesota Press, Minne-
+apolis, 2008 .
+[32] G. Harding Sandra, The Science Question in Feminism, Cornell University
+Press, Ithaca, NY, 1986 .
+[33] C. Hartsock Nancy, The feminist standpoint: developing the ground for a
+speci ﬁcally feminist historical materialism, in: Sandra Harding,Merril Hintikka (Eds.), Discovering Reality: Feminist Perspectives on Episte-
+mology, Metaphysics, Methodology, and Philosophy of Science, Springer,
+Dordrecht, 1983, pp. 283 e310.
+[34] Martin Heidegger, The Question Concerning Technology, and Other Essays,
+Harper Torch Books, London, 1977 .
+[35] Virginia Held, The Ethics of Care: Personal, Political, Global, Oxford University
+Press, New York, 2006 .
+[36] Sarah L. Hoagland, Some thoughts about caring, in: Claudia Card (Ed.),
+Feminist Ethics, University Press Kansas Press, Lawrence, KS, 1991, pp.
+246e263.
+[37] Alan Irwin, The politics of talk: coming to terms with the ‘new ’scienti ﬁc
+governance, Soc. Stud. Sci. 36 (2) (2006) 299 e320.
+[38] Sheila Jasanoff, The songlines of risk, Environ. Values 8 (1999) 135 e152.
+[39] Leon R. Kass, Wisdom of repugnance: why we should ban the cloning of
+humans, The New Republic (June 2) 32 (1997) 17 e26.
+[40] Evelyn F. Keller, A Feeling for the Organism: the Life and Work of Barbara
+McClintock, Henry Holt &Company, New York, 1984 .
+[41] Abby Kinchy, Seeds, Science, and Struggle: the Global Politics of Transgenic
+Crops, The MIT Press, Cambridge, Massachusetts, 2012 .
+[42] Eva Kittay, Love's Labor: Essays on Women, Equality, and Dependency,
+Routledge, New York, 1998 .
+[43] Bruno Latour, Aramis, or the Love of Technology, Harvard University Press,
+Cambridge, MA, 1996 .
+[44] Bruno Latour, Why has critique run out of steam? from matters of fact to
+matters of concern, Crit. Inq. 30 (2004) 225 e248.
+[45] Amalia Leguizam /C19on, Modifying Argentina: GM soy and socio-environmental
+change, Geoforum 53 (2014) 149 e160.
+[46] Les Levidow, Susan Carr, How biotechnology regulation sets a risk/ethics
+boundary, Agric. Hum. Values 14 (1997) 29 e43.
+[47] Les Levidow, Karin Boschert, Coexistence or contradiction? GM crops versus
+alternative agricultures in Europe, Geoforum 39 (1) (2008) 174 e190.
+[48] Hilde Lindemann, An Invitation to Feminist Ethics, McGraw-Hill, San Fran-
+cisco, 2006 .
+[49] Terry Marsden, Agri-food contestations in rural space: GM in its regulatory
+context, Geoforum 39 (2008) 191 e203.
+[50] Aryn Martin, Natasa Myers, Ana Viseu, The politics of care in technoscience,
+Soc. Stud. Sci. (2015) 1 e17,http://dx.doi.org/10.1177/0306312715602073 .
+[51] Michael Mascarenhas, Lawrence Busch, Seeds of change: intellectual property
+rights, genetically modi ﬁed soybeans and seed saving in the United States,
+Sociol. Rural 46 (2) (2006) 122 e138.
+[52] Andrew D. Maynard, Robert J. Aitken, Tilman Butz, Vicki L. Colvin,
+Ken Donaldson, Gunter Oberdorster, Martin A. Philbert, John Ryan,Anthony Seaton, Vicki Stone, Sally S. Tinkle, Lang Tran, Nigel J. Walker, David
+B. Warheit, Safe handling of nanotechnology, Nature 444 (2006) 267 e269.
+[53] Kathleen McAfee, Neoliberalism on the molecular scale. Economic and genetic
+reductionism in biotechnology battles, Geoforum 34 (2003) 203 e219.
+[54] Monsanto, Technology Use Guide, 2014. http://www.monsanto.com/
+sitecollectiondocuments/technology-use-guide.pdf (last accessed 08.04.15).
+[55] Nel Noddings, Caring: a Feminine Approach to Ethics and Moral Education,
+University of California Press, Berkeley, CA, 1984 .
+[56] Martha C. Nussbaum, Love's Knowledge: Essays on Philosophy and Literature,
+Oxford University Press, New York, 1990 .
+[57] Pavone Vincenzo, Joanna Goven, Riccardo Guarin, From risk assessment to in-
+context trajectory evaluation eGMOs and their social implications, Environ.
+Sci. Eur. 23 (3) (2011) 1 e13.
+[58] Christofer P. Rodgers, Coexistence or con ﬂict? a European perspective on
+GMOs and the problem of liability, Bull. Sci. Technol. Soc. 27 (2007) 233 e250.
+[59] Bernard Rollin, The Frankenstein Syndrome: Ethical and Social Issues in the
+Genetic Engineering of Animals, Cambridge University Press, Cambridge, UK,1995 .
+[60] Ronald L. Sandler, Character and Environment: a Virtue Oriented Approach to
+Environmental Ethics, Colombia University Press, New York, 2007 .
+[61] Daniel Sarewitz, How science makes environmental controversies worse,
+Environ. Sci. Policy 7 (2004) 385 e403.
+[62] Astrid Schrader, Abyssal intimacies and temporalities of care: how (not) to
+care about deformed leaf bugs in the aftermath of Chernobyl, Soc. Stud. Sci.(2015) 1 e26,http://dx.doi.org/10.1177/0306312715603249 .
+[63] Susan Sherwin, The importance of ontology for feminist policy-making in the
+realm of reproductive technology, Can. J. Philos. 32 (Suppl. 1) (2013) 273 e295.
+[64]
+Vandana Shiva, Biopiracy: the Plunder of Nature and Knowledge, South End
+Press, Boston, MA, 1999 .
+[65] Michael Siegrist, Belief in gene technology: the in ﬂuence of environmental
+attitudes and gender, Personal. Individ. Differ. 24 (1998) 861 e866.
+[66] Michael Siegrist, The in ﬂuence of trust and perceptions of risks and bene ﬁts
+on the acceptance of gene technology, Risk Anal. 20 (2) (2000) 195 e203.
+[67] Paul Slovic, Trust, emotion, sex, politics and science: surveying the risk
+assessment battle ﬁeld, Risk Anal. 19 (4) (1999) 689 e701.
+[68] Martijntje Smits, Taming monsters: the cultural domestication of new tech-
+nology, Technol. Soc. 28 (2006) 489 e504.
+[69] Jack Stilgoe, Richard Owen, Phil Macnaghten, Developing a framework for
+responsible innovation, Res. Policy 42 (9) (2013) 1568 e1580 .
+[70] Andy Stirling, Keep it complex, Nature 468 (2010) 1029 e1031 .
+[71] Glenn Davis Stone, The anthropology of genetically modi ﬁed crops, Annu. Rev.
+Anthropol. 39 (2010) 381 e400.
+[72] D.M. Strauss, Feast or famine: the impact of the WTO decision favouring theC.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 56
+U.S. Biotechnology Industry in the EU ban of genetically modi ﬁed foods, Am.
+Bus. Law J. 45 (4) (2008) 775 e826.
+[73] Paul Thompson, Food Biotechnology in Ethical Perspective, Blackie Academic
+and Professional, London, 1997 .
+[74] Joyce Trebilcot, Ethics of method: greasing the machine and telling stories, in:
+Claudia Card (Ed.), Feminist Ethics, University Press of Kansas, Lawrence, KS,1991, pp. 45 e51.
+[75] Anna Tsing, Unruly edges: mushrooms as companion species, Environ.
+Humanit. 1 (2012) 141 e154.
+[76] United States Department of Agriculture (USDA), Adoption of Genetically
+Engineered Crops in the U.S., USDA Economic Research Service, Washington,
+2014 .
+[77] Ana Viseu, Caring for nanotechnology? being an integrated social scientist,
+Soc. Stud. Sci. (2015) 1 e23,http://dx.doi.org/10.1177/0306312715598666 .
+[78] Margaret U. Walker, Moral Understandings: a Feminist Study in Ethics,
+Routledge, New York, 1998 .
+[79] Judy Wajcman, Feminist theories of technology, Camb. J. Econ. 34 (1) (2010)
+143e152.
+[80] Judy Wajcman, TechnoFeminism, John Wiley &Sons, 2013 .
+[81] Emily Waltz, GM crops: battle ﬁeld, Nature 461 (2009) 27 e32.
+[82] Karen Warren, The power and promise of ecological feminism, Environ. Ethics
+12 (1990) 125 e146.
+[83] Fern Wickson, Frøydis Gillund, Anne Myhr, Treating nanoparticles with pre-
+caution: recognising qualitative uncertainty in scienti ﬁc risk assessment, in:
+K. Kjølberg, Fern Wickson (Eds.), Nano Meets Macro, Pan Stanford Publishing,
+Singapore, 2010, pp. 445 e472.
+[84] Fern Wickson, The ontological objection to life technosciences, in:
+A. Guimaraes Pereira, S. Funtowicz (Eds.), Science, Philosophy and Sustain-
+ability: the End of the Cartesian Dream, Routledge, Oxford, 2015, pp. 61 e77.
+[85] Fern Wickson, Brian Wynne, The angler ﬁsh deception: the light of proposed
+reform in the regulation of GM crops hides underlying problems in EU science
+and governance, EMBO Rep. 13 (2) (2012) 100 e105.[86] Langdon Winner, The Whale and the Reactor: a Search for Limits in an Age of
+High Technology, University of Chicago Press, Chicago, 1986 .
+[87] Brian Wynne, Uncertainty and environmental learning: reconceiving science
+and policy in the preventive paradigm, Glob. Environ. Change 2 (2) (1992)
+111e127.
+[88] Brian Wynne, Risk and environment as legitimatory discourses of technology:
+reﬂexivity inside out? Curr. Sociol. 50 (3) (2002) 459 e477.
+[89] Iris M. Young, Justice and the Politics of Difference, Princeton University Press,
+Princeton, 1990 .
+[90] Iris M. Young, Responsibility and global justice: a social connection model,
+Soc. Philosophy Policy 23 (1) (2006) 102 e130.
+Christopher J. Preston is a professor of philosophy and fellow at the Mans ﬁeld Cen-
+ter's Program on Ethics and Public Affairs at the University of Montana in Missoula.Author of Grounding Knowledge :Environmental Philosophy ,Epistemology ,and Place
+(2003) and Saving Creation :Nature and Faith in the Life of Holmes Rolston III (2009) his
+research centers on environmental philosophy, the ethics of emerging technologies
+(including, most recently, climate engineering), and the Anthropocene.
+Fern Wickson is a scientist and program coordinator for the Society, Ecology and
+Ethics Department (SEED) at GenØk Centre for Biosafety in Tromsø, Norway. Working
+as a cross-disciplinary scholar, her research interests include ecophilosophy, the envi-
+ronmental governance of emerging technologies, and the development of sustainable
+agri-food systems. She publishes her academic work for both natural and social scienceaudiences, participates in policy development and enactment through a range of na-
+tional and international committees, and actively reaches out to publics through social
+media avenues including YouTube, Twitter (@FernWickson) and a project blog www.
+agriculturesproject.org .C.J. Preston, F. Wickson / Technology in Society 45 (2016) 48 e57 57

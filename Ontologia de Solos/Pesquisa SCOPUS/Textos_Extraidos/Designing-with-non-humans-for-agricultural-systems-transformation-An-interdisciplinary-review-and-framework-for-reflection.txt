@@ -1,0 +1,1685 @@
+Review
+Designing with non-humans for agricultural systems transformation: An 
+interdisciplinary review and framework for reflection
+Tatiana Moreiraa, Marieke E. Meestersb,c, Kristiaan P.W. Kokd, Katharine Leguna,  
+Lenora Ditzlere, Laurens Klerkxa,f,*
+aKnowledge, Technology & Innovation Group, Wageningen University, the Netherlands
+bKnowledge, Transformation and Society, University of Twente, the Netherlands
+cSchool of Sociological Studies, Politics and International Relations, University of Sheffield, United Kingdom
+dAthena Institute, VU Amsterdam, the Netherlands
+eFarming Systems Ecology Group, Wageningen University, the Netherlands
+fDepartamento de Economía Agraria, Facultad de Ciencias Agrarias, Universidad de Talca, Chile
+HIGHLIGHTS GRAPHICAL ABSTRACT
+≡Agriculture must move beyond anthro -
+pocentrism to tackle socio-ecological 
+crises.
+≡Participatory design is increasingly used 
+to foster democratic systems design.
+≡Non-humans are largely overlooked in 
+participatory agricultural design 
+processes.
+≡Critical social sciences offer insights for 
+fostering transformative systems design.
+≡We propose practical interventions to 
+better integrate non-humans in systems 
+design.
+ARTICLE INFO
+Editor: Guillaume Martin
+Keywords:
+Participatory design
+More-than-human
+Agricultural systems
+Sustainability transitions
+Food systems transformation
+Transdisciplinary research
+Transition design
+Relational approachesABSTRACT
+CONTEXT: In response to growing concern over agriculture ’s contribution to climate and ecological crises, recent 
+definitions of sustainable food systems have expanded beyond productivity to emphasize interconnected 
+ecological and social dimensions. Responding to this challenge, agricultural system design scholars have moved 
+beyond a focus on merely increasing productivity, supply, and profitability, to include goals such as animal 
+welfare and ecological health. However, this selection often fails to move beyond anthropocentric needs and 
+values. For design to be transformative, addressing who can participate in design and how participating actors 
+relate to each other is critical. Notably, non-humans, which are foundational to agricultural systems, are largely 
+overlooked as actors to be involved in design processes.
+OBJECTIVE: The aim of the article is to develop a framework to assist agricultural design scholars in mean -
+ingfully integrating non-human needs in agricultural design processes by identifying and reflecting upon trade- 
+*Corresponding author at: Departamento de Economía Agraria, Facultad de Ciencias Agrarias, Universidad de Talca, Chile; Knowledge, Technology & Innovation 
+Group, Wageningen University, the Netherlands.
+E-mail address: laurens.klerkx@wur.nl (L. Klerkx). 
+Contents lists available at ScienceDirect
+Agricultural Systems
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow�o�t o~1m{y2w{mk�o 2kr�Þ
+https://doi.org/10.1016/j.agsy.2025.104512
+Received 26 June 2025; Received in revised form 22 August 2025; Accepted 10 September 2025  Agricultural  Systems  231 (2026)  104512  
+Available  online  16 September  2025  
+0308-521X/©  2025  The Authors.  Published  by Elsevier  Ltd. This is an open access  article  under  the CC BY license  ( http://creativecommons.org/licenses/by/4.0/  ). 
+Posthuman design
+Bioeconomyoffs and providing methodological tools with the goal of contributing to just and sustainable transformations of 
+agricultural systems.
+METHODS: A critical review of the state-of-the-art of non-human participation in agricultural systems design 
+research was done. This was followed by a narrative review, consulting several approaches from critical social 
+sciences, such as transition studies, Actor Network Theory, animal studies, feminist posthumanism, post-
+colonialism and indigenous scholarship to enhance our understanding of participation by non-humans. This 
+analysis informed a synthesized framework for reflection.
+RESULTS AND CONCLUSIONS: The review points at three themes for better engagement of non-humans in 
+design, notably regarding the role of (1) agency; (2) temporality; and (3) deliberation of non-humans. Based on 
+these themes, practical steps forward are proposed to include non-humans in five design phases: problem defi-
+nition; system analysis; design requirements; measurements; and selecting design solutions.
+SIGNIFICANCE: By opening a dialogue between agricultural systems design and different bodies of research on 
+inclusion of non-humans, this article aims to support agricultural systems designers in their reflection, making 
+informed, context-sensitive decisions by fostering new ways of thinking and relating to non-humans as active 
+rather than passive actors in these processes, thereby enhancing the transformative potential of agricultural 
+systems research and design beyond anthropocentric perspectives.
+1.Introduction
+In response to growing concern over agriculture ’s contribution to 
+climate and ecological crises (Campbell et al., 2017 ), recent definitions 
+of sustainable food systems have expanded beyond productivity to 
+emphasize interconnected ecological and social dimensions (FAO, F, 
+2018 ; Rockstr om et al., 2020 ). For agricultural systems, as a crucial part 
+of food systems, to be considered sustainable, they must now simulta -
+neously address climate adaptation and mitigation, ecosystem and soil 
+restoration, biodiversity conservation, nutritious food production, 
+poverty eradication, resilience enhancement, inequality reduction, and 
+promotion of political stability (Çakmakçı et al., 2023 ), in order to 
+promote health and wellbeing of farmers, consumers, and the planet as a 
+whole. These broad understandings of sustainable agriculture recognize 
+that agriculture ’s enormous ecological, social, and economic influence 
+must be leveraged to integrate a broad set of goals rather than priori -
+tizing supply for affluent human populations (Caron et al., 2018 ; Trib-
+aldos and Kortetm aki, 2022 ).
+Agricultural systems design plays an important role in shaping 
+agricultural and hence food system outcomes and therefore bears sub-
+stantial responsibility for creating systems aligned with comprehensive 
+sustainability goals. Responding to this challenge, design scholars have 
+moved beyond a focus on merely increasing supply, production, and 
+profitability (Martin et al., 2013 ). Participatory design has emerged in 
+design scholarship as a process that increasingly incorporates diverse 
+stakeholders and marginalized groups throughout the design stages, 
+with the intention of yielding outcomes that are more integrated, 
+effective, and just (Huttunen et al., 2022 ; Robertson and Simonsen, 
+2012 ; Martin et al., 2013 ; Cerf et al., 2012 ). Building on the work in 
+participatory design, a growing body of scholarship argues that to meet 
+comprehensive sustainability goals we must extend participation 
+beyond humans. Various scholars have called for acknowledging a wider 
+range of values, stakes, and interests, highlighting the need to actively 
+address the stakes of non-humans within participatory processes in 
+agriculture (Bastian, 2017 ; de Bruin et al., 2024 ; Kok and Klerkx, 2023 ; 
+Nicenboim et al., 2024 ; Tschersich and Kok, 2022 ).
+An interdisciplinary body of work is therefore developing concepts 
+and methodologies to meaningfully include non-humans in agricultural 
+system transitions and design. Examples include recent extensions of the 
+Agricultural Innovation Systems approach (Pigford et al., 2018 ; Plum -
+mer et al., 2024 ) and work on sustainability transitions in agricultural 
+systems (Contesse et al., 2021; Vermunt et al., 2020 ), where non- 
+humans are now considered as participants in innovation processes 
+next to humans, and Reflexive Interactive Design (Bos and Grin, 2008 ; 
+Romera et al., 2020 ), where non-humans are considered stakeholders 
+with needs in the design process. Within this lineage of work, two 
+recurring challenges have emerged. First, agricultural systems inher -
+ently present tradeoffs between goals, including between human and non-human needs and interests, as these systems fundamentally inter-
+vene in food webs where life, death, consumption, and ecological pro-
+cesses are intertwined. Second, despite efforts to incorporate natural 
+actors in design processes, both methodological and conceptual tools 
+remain limited for including non-humans as meaningful participants. 
+Particularly integrating non-human considerations beyond anthropo -
+centric ideals and utilitarian lenses has been less conceptualized so far. 
+Even within nature-inclusive agriculture frameworks, conventional 
+productivity aims often remain the standard to which nature must 
+accommodate (Runhaar, 2017 ). While non-humans are the foundation 
+of agricultural systems, they remain largely overlooked as actors to be 
+meaningfully and dynamically involved in design processes (Pigford 
+et al., 2018 ). Such superficial engagement with goals beyond production 
+may mitigate damage but risks reinforcing and prolonging conventional 
+agricultural paradigms (Kothari et al., 2014 ).
+We recognize that agricultural systems will always present tradeoffs 
+between human and non-human needs and interests. However, we 
+contend that the overlooked non-human element of agricultural systems 
+design (ASD) is a critical aspect for more effective agri-food transitions 
+that meet comprehensive sustainability goals. In view of this gap, this 
+article develops a framework to assist agricultural design scholars in 
+identifying and reflecting upon trade-offs and to provide methodological 
+tools to engage with natural entities and meaningfully integrate non- 
+human needs in agricultural design processes. To do so, we consult 
+disciplines which have further developed on the theme of more-than- 
+human inclusion, including transition studies, Actor Network Theory, 
+animal studies, feminist posthumanism, postcolonialism and indigenous 
+scholarship. These disciplines have developed diverse and complemen -
+tary theory-based practices to meaningfully engage with natural 
+entities.
+Our article continues as follows. After explaining our methods in 
+Section 2, in Section 3we provide a brief interdisciplinary state-of-the- 
+art review of non-human inclusion in agricultural design processes. 
+Next, in Section 4we introduce concepts and methodological tools to 
+foster engagement with and by non-humans. Then, in Section 5we 
+present a reflective framework to assist agricultural systems designers in 
+better participating with non-humans based on five design phases 
+(problem definition, system analysis, design requirements, measure -
+ment practices, design solutions). We conclude by critically discussing 
+the framework ’s utility for integrated sustainability and its limitations 
+and propose questions for further research.
+2.Definition and methods
+2.1. Non-human working definition
+Non-humans can be defined broadly to include any being or entity 
+that is not human, whether it be animals, plants, ecosystems, water T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+2 
+bodies, tools, or systems like the economy. We conceptualize non- 
+humans on a continuum, from natural to human-made (Fig. 1).
+On one side of the spectrum, for example, there might be a wild 
+animal and at the other end a tractor, with a whole range of actors in 
+between. While it is beyond the scope of the article to engage with de-
+bates over artificiality and human-nature binaries here, for the purposes 
+of this article it is helpful to reflect on the extent of human intervention 
+in the creation of non-humans. There is a long tradition of research on 
+the role of human-made materials in agriculture (such as machinery or 
+artificial fertilizers) and how they shape and co-evolve with agricultural 
+systems (Glover, 2022 ; Jansen and Vellema, 2011 ; Rosin et al., 2017 ) 
+and through actual use by farmers, in processes which have been 
+referred to as ‘innofusion ’ (Fleck, 1993 ) and ‘coupled innovation ’ 
+(Salembier et al., 2020 ). Many non-humans in agricultural systems are 
+somewhere in between the two ends of the continuum, for example 
+crops are both naturally occurring, yet also commonly genetically bred 
+by humans. This notion of artificiality of nature in farming was already 
+noted in 1969 by Herbert Simon (Simon, 1996 ), who wrote in his 
+seminal work ‘The sciences of the artificial ’ that “A forest may be a 
+phenomenon of nature; a farm certainly is not. The very species upon 
+which we depend for our food our corn and our cattle are artifacts of our 
+ingenuity ” (Simon, 1996 : 3). This debate on the boundaries between 
+naturalness and artificiality has been given a new twist with reflections 
+on the agency of autonomous technologies such as Artificial Intelligence 
+and Digital Twins in the sense that they aim to fully mimic the natural 
+world and take over agency from the farmer (Geiselmann et al., 2023 ; 
+Higgins et al., 2017 ; Pylianidis et al., 2021 ; Ryan, 2023 ; Verdouw et al., 
+2021 ). As philosophers have argued, hybrids between humans, natural 
+non-humans and technologies, are becoming a new ontological category 
+(Blok and Gremmen, 2018 ; Holy-Luczaj and Blok, 2021 ; Forlano, 2017; 
+Korenhof et al., 2021 ), and some have empirically studied in the case of 
+precision agriculture what they refer to as ‘cyborg animals ’ and ‘cyborg 
+farmers ’ (Søraa and Vik, 2021 ; Van der Velden et al., 2024 ).
+2.2. Methods
+A critical review format was followed to critically analyze the state- 
+of-the art in non-human participation in ASD for Section 3. This format 
+allows for highlighting strengths and weaknesses in the literature 
+without performing an exhaustive review (Par˘e and Kitsiou, 2017 ). To 
+move beyond the state-of-the-art and broaden the scope on non-human 
+participation in ASD, a narrative review approach was followed for 
+Section 4, as we aimed to identify what has been written on non-human 
+participation in a variety of disciplines of relevance to, but not yet 
+considered to a large degree, in ASD and identify common narratives 
+(Par˘e and Kitsiou, 2017 ). Through our narrative review we identified 
+emerging themes and assessed the uptake of the concept of non-human 
+participation in various critical social science fields such as science and 
+technology studies, transition studies, and indigenous scholarship with 
+relevance to the field of agriculture and the potential to inform ASD, 
+which have also figured in other reviews of non-human participation in 
+design (Forlano, 2017 ). See also Appendix A: Supplementary materials, 
+in which a deeper elaboration is provided of these different fields.
+Google Scholar was used to find a broader range of literature, both 
+peer-reviewed and grey literature. For the state-of-the-art (Section 3) the 
+following search terms were used, informed by the authors ’ knowledge 
+of the field: “design ” OR “co-design ” OR “re-design ” AND “farming ”; “agriculture ”; “agricultural systems ”; “participatory ”; “participation ”; 
+“more-than-human ”; “posthumanism ”; “non-humans ”. To identify rele-
+vant literature outside of ASD (Section 4) the following search terms 
+were used, informed by the authors ’ transdisciplinary knowledge across 
+disciplines: “more-than-human ” OR “non-humans ” AND “participa -
+tory”; “participation ”; “communication ”; “deliberation ”; “temporality ”; 
+“agency ”; “design ”; “ANT ”; “MLP ”; “decolonial ”; “indigenous ”; “care”; 
+“feminist ”; “posthumanism ”; “materialism ”; “relational ”; “sustainability 
+transitions ”. A snowballing method was also used, finding articles 
+through citations in articles that came up in our search and through 
+special issues that came up in our search. One complementary interview 
+was held with Gabriela de la Rosa, an academic studying trans -
+disciplinary participatory research methods, to deepen our under -
+standing of a method to include non-humans in human decision-making 
+processes. Additionally, works on the topic already known to the 
+authorship were included, resulting in a multidisciplinary approach 
+with author backgrounds in sustainability transitions, participatory 
+design, agronomy, agroecology, feminist posthumanism, sociology, and 
+political ecology.
+Both peer-reviewed and grey literature were included. Searches were 
+performed in English, thus only English-written material was included. 
+There was no time range set in the search due to the emergent nature of 
+the topic. Abstracts were screened for relevance to the review before 
+reading full texts. If non-humans were not addressed in the research 
+(directly or indirectly), the text was not included. This review was done 
+iteratively; themes were identified through the process of reading and 
+analyzing literature, and the continuation of the search was informed by 
+the insights found in the review process.
+While the selected disciplines have divergent backgrounds and un-
+derpinnings, we take a crosscutting approach to examine how different 
+perspectives, disciplines, and knowledge traditions interfere with one 
+another to generate novel patterns of understanding. Moreover, because 
+all authors are from Western backgrounds, we explicitly sought to 
+include scholarship from non-Western scholars and build on non- 
+Western epistemologies during the review process to counter potential 
+Western-oriented biases.
+3.Current participation of non-humans in agricultural systems 
+design
+3.1. The distinction between material and representational participation 
+of non-humans
+Participatory design approaches have gained traction in ASD to 
+foster more democratic, transformative, and societally relevant design, 
+as they engage stakeholders in consultation and knowledge co- 
+production processes. Since stakeholders tend to diverge in interests, 
+participatory processes also encourage negotiations between sectors and 
+different stakeholder groups, for example on what issue is at stake, the 
+nature of the problem, and the solution directions (Leeuwis, 1999, 
+2000 ). In ASD, these include approaches such as participatory design of 
+decision support and systems analysis tools (Carberry et al., 2002 ; Cerf 
+et al., 2012 ; Martin et al., 2011 ; Ditzler et al., 2018 ; Rose et al., 2016 ), 
+agricultural production systems design and re-design (Brun et al., 2021 ; 
+Dogliotti et al., 2004 ; Kropff et al., 2001 ; Le Gal et al., 2011 ; Romera 
+et al., 2020 ) and design of agri-food system transitions and innovation 
+ecosystems (Meynard et al., 2017 ; Steinke et al., 2022 ; Wolfert et al., 
+2023 ).
+Participatory design approaches generally involve actors such as 
+farmers, government officials, and private sector companies, and these 
+are believed to enhance applicability and ownership of the proposed 
+design, increasing adoption and use, and have also been seen to better 
+forecast and anticipate potential social effects of food system changes 
+(Berthet et al., 2018 ; Elzen and Bos, 2019 ; Steinke et al., 2022 ). How-
+ever, participatory processes are not without conflict and struggle: they 
+are inherently political, and can reinforce power imbalances amongst 
+ Fig. 1.Natural - human-made non-human continuum.T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+3 
+participants, not least of all through top-down decisions about who can 
+participate and how (Barnaud et al., 2010 ; Tschersich and Kok, 2022 ; 
+Turnhout, 2024 ). Such power imbalances jeopardize the democratic 
+potential of participation, as these processes tend to exclude issues or 
+actors that threaten the goals of the participatory process or those 
+leading it (Meesters, 2023 ). This, we believe, also has implications for 
+the inclusion of non-humans in participatory design.
+In this subsection, we review the ways in which non-humans have 
+been considered in participatory agricultural systems design so far. 
+Agricultural design frameworks already include non-human consider -
+ations when they determine the best conditions to grow crops and ani-
+mals to ensure food production or to enhance, streamline, or simplify 
+production processes from an agronomist, productivist perspective 
+(Gerber and Hiernaux, 2022 ; Grahmann et al., 2024 ; Pelzer et al., 2020 ; 
+Reckling et al., 2020 ). The process in which distinct needs are accom -
+modated (or not), including those of plants, animals, machinery, and 
+soil, can be seen as a material form of participation. Following ideas on 
+agency of non-humans (Latour, 2007 ), material objects, plants, in-
+frastructures, and animals can be seen to co-shape physical reality in a 
+process that can be described as a negotiation between various humans 
+and nonhumans (Marres and Lezaun, 2011 ; Barry, 2013; Higgins et al., 
+2017, 2023 ), challenging that such negotiation only happens between 
+human actors as commonly proposed (Leeuwis, 2000 ). Non-humans 
+communicate about their needs in physical ways: through how they 
+grow and reproduce, the colors of their leaves, whether they accom -
+modate other forms of life, or by becoming rusty or failing to work in the 
+case of machinery. Farmers are implicated in this negotiation when they 
+attend to the needs of crops, animals, and machinery, and by adjusting 
+situations to ensure crops, animals, and machinery thrive in specific 
+ways. Such direct, bio-physical participation from non-humans thus 
+shapes agricultural systems in the place where the non-humans reside 
+and exert influence, a form of participation which we henceforth refer to 
+as material participation. This material participation is a continuous and 
+always occurring process, currently predominantly shaped by produc -
+tivist goals, which limits how non-human participation can unfold.
+Besides material participation, ASD increasingly draws on repre -
+sentational approaches to broaden the set of actors involved in design 
+decisions. Representation most commonly occurs in co-design strategies, 
+in which agricultural experts (i.e. farmers, consultants, and scientists), 
+public officials, and local stakeholders (Berthet et al., 2016 ) who 
+represent the interests and needs of other actor groups who are not 
+directly included in the co-design process, including plants, animals, and 
+machinery (i.e. veterinarians communicating the needs of a dairy cow 
+through their expert knowledge). While representational processes tend 
+to enlarge the set of actors and relationships that can influence agri-
+cultural system design, and these processes can, at times, lead to 
+increased understanding of and interest in each (human) groups’ needs 
+(Turnhout et al., 2020 ), we notice that the non-humans in these relations 
+are not generally considered as having agency per se, nor that their in-
+terests are meaningfully considered as part of the processes. Within 
+representational participatory processes, non-humans are often consid -
+ered rather passively, either as background conditions or as objects of 
+production that can be adjusted at hand to conform to productivist in-
+terests (Meesters, 2023 ). Ultimately, they are either rendered as a 
+collection of parts that can be optimized and controlled, or as uncon -
+trollable conditions like the weather. Therefore, we contend that the 
+goal of both the negotiation of interests and the subjectification of non- 
+humans matters: most of these processes are geared towards maximized 
+production while the interests in non-human flourishing and prosperity 
+are not taken into account.
+Nevertheless, some notable exceptions exist that work towards 
+designing agricultural systems for transformative change and just out-
+comes which more actively consider non-humans, which we will discuss 
+in the next subsection. We follow the distinction between the earlier 
+defined material approaches, which point to physical negotiations be-
+tween and amongst humans and non-humans in fields, stables, and forests (Meesters, 2023 ), and representational approaches, which are 
+characterized by human or technological representation for non-human 
+needs in the design process (e.g. scientist, farmer, or model). Before 
+discussing these approaches to non-human inclusion in ASD, it is 
+important to stipulate that rather than defining an end goal (e.g. more- 
+than-human justice, environmental sustainability), we present various 
+approaches that steer towards acknowledging complexity and consid -
+ering the interests of non-humans, while they may differ in their 
+formulation and conceptualization of goals.
+3.2. Examples of material and representational participation of non- 
+humans in ASD
+Representational approaches are commonly found in the literature 
+on non-human participation in ASD, such as case studies using methods 
+like the Reflexive Interactive Design approach (RIO) or the Describe 
+Explain Explore Design approach (DEED), to represent livestock and 
+crops (Moreira et al., 2023 ; Puente-Rodríguez et al., 2019 ; Romera et al., 
+2020 ; van Weeghel et al., 2021 ), via various human experts that speak 
+on their behalf. Through setting design requirements, some studies have 
+incorporated the needs of non-humans in the design process, including 
+those of crops (Moreira et al., 2023 ), cows (Romera et al., 2020 ), laying 
+hens (van Weeghel et al., 2016 ), and environments more generally 
+(Kanter et al., 2016 ; Prost et al., 2018 ; Quinio et al., 2022 ; Romera et al., 
+2020 ; van Weeghel et al., 2016 ). Others address non-human interests 
+through design objectives, including those of biodiversity (Juventia 
+et al., 2022 ; Quinio et al., 2022 ) or water bodies (Murgue et al., 2015 ; 
+Quinio et al., 2022 ). Quinio et al. (2022) utilized design-support tools to 
+help participants visualize the object of design, for example cards to 
+represent mycorrhizal networks that the participants had to keep alive 
+and consider how different design choices would affect their mycor -
+rhizal network. They also defined design goals with requirements, i.e. 
+develop mycorrhizal networks, or a maximum threshold for nitrate 
+concentrations. Building on DEED, Juventia et al. (2022) propose a 
+framework for spatio-temporal arable field design which incorporates 
+farmers’ dreams and objectives alongside mechanical constraints and 
+ecological interactions as decision criteria for field designs. They 
+explicitly weighed design options to diversify crops based on how well 
+they facilitate desirable ecological relations, e.g. pest-natural enemy 
+interactions or soil rest vs. disturbance, although the value of these 
+ecological outcomes is largely evaluated from an anthropocentric 
+perspective (ecosystem services).
+We also found material approaches that took it a step further, pre-
+senting ways to actively participate with non-humans by fostering more 
+complex, horizontal, and affective relations between humans and non- 
+humans in agricultural systems. Ditzler and Driessen (2022) explored 
+the design of automated tools for agroecological farming systems, asking 
+what “might come out when various actors considered automation and 
+designed tools specifically for an agroecological paradigm in which 
+complexity is embraced, ecological cycles are fostered, and the bound -
+aries between binaries such as crop/weed and labor/fulfillment are 
+blurred” (p. 25). They engaged with a variety of human actors to explore 
+this question, including farmers, technology developers, scientists, and 
+designers. While they did not explicitly engage with non-humans as 
+actors, they demonstrated that to wholly adopt an agroecological 
+perspective (i.e., nature-based, socio-ecologically just) on farming sys-
+tems design, entangled relations between humans and non-humans 
+(including machines) must be considered as central to the design pro-
+cess, as others have also argued looking at design of harvesting robots 
+(Legun et al., 2023 ).
+Several articles referred to “conversations” or “dialogues” between 
+designers and objects of designs. Cerf et al. (2012) argue for the 
+importance of considering the ‘use situation’ in the design of decision 
+support tools, describing a dialogue between humans, tools, and their 
+use situations. Prost et al. (2018) describe an iterative process to the 
+implementation of design concepts, citing an ongoing “conversation” T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+4 
+between the farm (and the non-humans within it) and the designers (the 
+farmers and researchers). When solutions did not result in anticipated 
+outcomes, the design was altered accordingly, which they refer to as 
+‘adaptive management’. Quinio et al. (2022) identified negotiations 
+between the farmer and the farm in the design process, for example 
+organizing tilling around when thistle roots are least developed and 
+sowing rapeseed earlier in the season so that the crop is strong enough to 
+withstand insects in the fall. They reflected on the interaction between 
+the designers and the tools and how the tools afforded knowledge 
+sharing. They found that visual tools used to represent objects of design 
+were useful for allowing designers to better understand the object and 
+the consequences of design solutions for the object, resulting in a 
+“reflective conversation” with the representation.
+Another interesting way of considering non-humans in ASD can be 
+found in the studies using the notion of “nature inclusive” design, even if 
+it comes with challenges and conflicts. Nature-inclusive design, as a 
+concept and policy priority, has generated tools for centering non- 
+humans and multi-species approaches in systems design, especially in 
+urban design (Gualtieri et al., 2023 ). It has largely focused on the 
+incorporation of non-human species habitats in human occupied spaces 
+(Sella et al., 2022 ) and advancing a more-than-human approach to 
+consider multi-species relations in making design choices. For example, 
+some insects may be seen as pests by humans but are essential to the 
+vitality of other species who depend on them for food (Gualtieri et al., 
+2023 ). In farming, the language of nature-inclusive agriculture has 
+gained significant traction, but also leads to challenges and conflicts. 
+The title ‘nature-inclusive’ itself implies that nature and agriculture are 
+separate entities, potentially perpetuating a binary view of non-humans 
+as inferior to humans and human enterprises (Merchant, 2006 ). Its 
+resonance with historical bifurcations between production and conser -
+vation means habitats for species are cultivated alongside productive 
+spaces, and production choices that harm species are discouraged, but a 
+more integrated approach remains politically and economically chal-
+lenging (Runhaar, 2017 ; Vermunt et al., 2022 ).
+Perhaps the most embodied design method in ASD that builds on 
+place-based material non-human participation is permaculture design. 
+Permaculture is an integrative, systems-thinking framework and method 
+for ASD that is based on respecting and integrating the relational and 
+intrinsic qualities of plants and animals to stimulate nature-based ap-
+proaches to farming (Ferguson and Lovell, 2014 ). Permaculture design 
+methods leverage natural ways in which plants relate, for instance by 
+working on natural tendencies of plants to cover the soil, use all the 
+available sunlight, and make efficient use of water (Ferguson and Lovell, 
+2014 ; Roux-Rosier et al., 2018 ). These methods can be called partici -
+patory because they work with non-humans’ inclinations to determine 
+what systems can work in specific localities (cf. Meijer, 2019 ). In other 
+words, permaculture stimulates embodied, material negotiations be-
+tween humans and their goals and needs (i.e. food production, aes-
+thetics), and non-human needs and preferences (i.e. water, perenniality, 
+genetic diversity). This differs from other design approaches because 
+permaculture claims to work with non-humans (to a certain degree), by 
+giving space to non-human agency, instead of imposing control over 
+plants, animals. The main differences in this approach, then, are a 
+challenge to the human – nature binary, a different conceptualization of 
+agency, and adjusted power relations between humans and non-humans 
+(Ferguson and Lovell, 2014 ; Roux-Rosier et al., 2018 ).
+To build on previous work on participation in ASD, the following 
+section draws on insights from other disciplines that have advanced both 
+theoretically and practically in more-than-human inclusion, to critically 
+analyze the current state of non-human participation in ASD.
+4.Interdisciplinary insights on active participation of non- 
+humans
+While much has been done to bring participation, including repre -
+sentation of non-humans, to ASD, we look to bring insights from the critical social sciences to further the transformative potential of the 
+field. The critical social sciences facilitate transformative change in 
+sustainability transitions by politicizing and pluralizing debates and 
+supporting structural and transformative system change, offering valu-
+able insights (Massarella et al., 2021 ). Specifically, we look to disciplines 
+that have advanced theoretically and practically on more-than-human 
+inclusion. While non-humans are often considered passively in ASD, 
+we argue that involving them more actively could lead to more trans -
+formative outcomes.
+We draw on concepts and approaches that are developed in various 
+fields, including work informed by transition studies, Actor Network 
+Theory, animal studies, feminist posthumanism, postcolonialism and 
+indigenous scholarship.1We do not aim to give a comprehensive over-
+view of these fields nor contend that each field is neatly separated or fits 
+into one fixed box. Instead, we draw on concepts and conceptual in-
+terpretations that we find benefit the scope of this article. We identified 
+the themes of agency, temporality, and deliberation as running 
+threads in this literature and will follow these threads through the rest of 
+the article. For a deeper elaboration on the concepts considered, see the 
+Supplementary materials in Appendix A.
+To explore the first theme, agency, we engaged with approaches that 
+recognize the active role of non-humans in shaping the world, through 
+either concepts, theoretical perspectives or methodologies. While con-
+ceptualizations and implications differ, this work considers non-humans 
+as influential and active participants in social, ecological, and techno -
+logical systems, which challenges earlier deterministic and anthropo -
+centric approaches. These approaches move, in more or lesser extent, 
+away from the idea that non-humans are conditions or material foun-
+dations that influence social (i.e. human) processes and change, towards 
+an understanding of non-humans as agentic bodies that engage in ac-
+tivities and relations. Non-humans including pests, diseases, soils, ani-
+mals, waters, plants, and machines are increasingly considered to 
+actively co-produce reality with other non-humans as well as with 
+human beings (Campbell, 2020 ; Contesse et al., 2021 ; Legun, 2015a,b ; 
+Rosin et al., 2017 ). For human-made non-humans such as technology 
+and machines, agency is shaped both by the intentions, assumptions, 
+and biases of their human creators, reproducing the intentions, as-
+sumptions and biases of their human creators and by its societal uptake 
+and reproduction (Latour, 1992 ), in which users also exercise agency 
+and can greatly exceed or deviate from what the designers originally 
+intended (Glover, 2022 ; Jansen and Vellema, 2011 ; Rosin et al., 2017 ).
+The second theme we identified as a common thread amongst liter-
+ature considering non-humans is temporality. Amongst a wide range of 
+theoretical approaches, we identified a common critique of the domi -
+nant linear, human-centered, productivist conception of time that pri-
+oritizes efficiency and in which conventional design practices are often 
+rooted (Bessai et al., 2024 ; Puig de la Bellacasa, 2015 ). These varying 
+views share a critique of the hegemonic human-centered time scales we 
+work in and recognize the imbalances this creates between humans and 
+non-humans. Thus, involving non-humans could include involving non- 
+1As western raised and trained white scholars and in the context of this 
+article, we can neither do justice to the depth and breadth of Indigenous bodies 
+of work, nor respectfully place it in the colonial histories of violence and 
+displacement in which western and indigenous knowledge are entangled (cf. 
+Watts, 2016 ). Nevertheless, we would like to take up Kimmerer’s (2013) sug-
+gestion that indigenous scholarship can help to inspire also non-indigenous 
+scholars towards ways to build more-than-human societies (p. 9), and that 
+engagement is needed to dialogue between epistemic worlds (Sundberg, 2014 ). 
+For ethical engagement, we look to the concept of ‘Ethical Space’ by Ermine 
+(2007) , which highlights the importance of indigenous self-determination, 
+mutual respect between different knowledge systems, and addressing power 
+imbalances. In this article, we aspire to learn from and communicate about this 
+important scholarship, without reinforcing colonialist appropriation, by 
+encouraging scholars to be sensitive to place-based histories, different knowl -
+edge systems, and more-than-human presences.T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+5 
+human timescales, rather than imposing human timescales on non- 
+humans. For participatory design, this means re-focusing and re- 
+imagining the timescales of design projects can aid in fostering more 
+inclusive participatory processes (Pschetz et al., 2024 ).
+The third theme we identified was deliberation. Deliberative pro-
+cesses traditionally emphasize human participation and the use of logic 
+and reason to reach collective decisions.2Such human qualities have 
+been recently criticized, leading towards other types of models and 
+practices that allow for including non-humans in deliberative processes. 
+While many scholars share a recognition of the need to involve non- 
+humans in deliberative processes, they differ in their views on the 
+extent and methods. Some scholarship focuses on the ways in which 
+non-humans already deliberate materially, with humans and other non- 
+humans, while others consider how to further involve non-humans in 
+discursive, democratic, political processes, mirroring the focus on ma-
+terial and representational processes. In our discussion below, we 
+include both types of deliberation to showcase a variety of methods that 
+may suit a range of ASD applications.
+We argue that addressing the themes of agency, temporality, and 
+deliberation with an interdisciplinary lens can foster better participation 
+by non-humans in design processes. In the next section we elaborate 
+further on how to engage with these themes in the context of partici -
+patory ASD and conclude with a framework for reflection.
+5.A framework for reflection to better include non-humans in 
+design processes
+In this section we offer practical interventions for better inclusion of 
+non-humans in various phases within a design process, considering the 
+themes of agency, temporality, and deliberation. Design approaches 
+differ in how design phases are defined and organized (Cerf et al., 2012 ; 
+Kropff et al., 2001 ; Martin et al., 2013 ; Meynard et al., 2017 ; Prost, 
+2021 ), and in ASD scholarship several genealogies of design reasoning 
+can be identified (Salembier et al., 2018 ). Here we focus on a general -
+ized approach that draws heavily on the RIO methodology (Bos et al., 
+2009; Elzen and Bos, 2019 ): problem definition, system analysis, design 
+requirements, measurement practices, and design concept. While we 
+have organized this section in a linear way, we do not mean to convey 
+that design processes should be linear, especially when including non- 
+humans. Design processes should be reflexive, iterative, and flexible if 
+they wish to involve non-humans as actors, as they require the ability to 
+respond to unpredictable or unexpected expressions of agency and 
+outcomes of interconnections (Hoppe, 2019 ). Additionally, inherent to 
+the literature we have reviewed for this article, these insights are not 
+meant to provide ready-to-use tools that can be applied in any context. 
+Our understanding of practicality is not about delivering a framework or 
+solutions that shift decision-making and ethical considerations away 
+from designers. Rather, we seek to support agricultural systems de-
+signers in their reflection, making informed, context-sensitive decisions 
+by fostering new ways of thinking and relating to non-humans. In this 
+section we provide relevant examples of concepts used in practice, per 
+highlighted design phase, to guide designers looking to implement these 
+concepts. While many of the concepts addressed are versatile and can be 
+applied across multiple design phases, we highlight them at the phases 
+they are most relevant with practical examples. Table 1presents a 
+framework for reflection for researchers and designers that highlights the key findings from this section and offers guiding questions to address 
+the themes of agency, temporality, and deliberation at each explored 
+design phase. In what follows, we will further explain the framework.
+5.1. Problem definition and design objectives
+The problem definition and design objectives are foundational to a 
+design process and therefore this is a critical phase to reflect on how non- 
+humans are considered. Inherent to design objectives are underlying 
+problem definitions. For example, imagine a system where weeds are a 
+persistent barrier to yield (problem definition). The objective might be 
+to improve crop production. Based on the literature we consulted, it is 
+important to pause and consider our worldview, words, and concepts 
+that form problem definition and objectives. Continuing with our 
+example, how has the objective of production been defined in such a 
+way that it defines other plants as weeds and barriers to that objective? 
+How has a monoculture model of agriculture cultivated weeds, figura -
+tively and literally? How does using the term ‘weed ’ color our experi -
+ence of a plant, and restrict the potential design solutions to a crop-weed 
+conflict? Can we reframe viewing certain species as problems, to 
+recognizing their role within an ecosystem?
+By pausing and reflecting on questions regarding problem definition 
+and design objectives, designers can consider and open up what it means 
+to involve both human and non-humans as participants and deliberators 
+during this phase of design. This resembles processes in which farmers 
+are involved in defining goals for their own wellbeing. In an effort to 
+design a farming system with improved animal welfare, van Veen and 
+Helvoirt (2024) exemplify how to use a citizen assembly to negotiate or 
+deliberate with dairy cows over design choices. In this case they used 
+human actors as proxies for the cows; other representational approaches 
+such as personas can also be used to include non-human voices in 
+deliberative processes when discussing the problem definition, design 
+objectives, and in other design phases (Frawley and Dyson, 2014 ; 
+Tomitsch et al., 2021 ).
+Representational approaches can be complemented by embodiment 
+exercises to better imagine non-human struggles and goals (van Bommel 
+and Boonman-Berson, 2022 ), and such embodiment exercises have 
+already been used in approaches such as role playing games (Dernat 
+et al., 2025; Ditzler et al., 2018; Harms et al., 2025 ). Embodiment ex-
+ercises for including non-humans have been developed under various 
+headers and in various forms, including the Council of Care (De La Rosa 
+et al., 2025 ; Ressiore and de la Rosa, 2024 ), De-moo-cracy (van Veen 
+and Helvoirt, 2024 ), or personas by human proxies (Frawley and Dyson, 
+2014 ). On discussing the Council of Care, de la Rosa describes how 
+embodiment helps uncover power hierarchies amongst humans and 
+non-humans as well as human – non-human relations (G. de la Rosa, 
+personal communication, September 12, 2024). De la Rosa used a 
+meditation exercise to have participants embody different non-humans 
+before opening a council where humans would speak as if they were 
+the non-human they were embodying. While this exercise does not 
+include listening to non-human voices directly, it helps participants 
+understand their own relationship to non-humans and their biases to-
+wards them. They had better results when doing the embodiment ex-
+ercise outdoors in the ecosystem of the non-humans they were 
+embodying, rather than in an indoor office setting or online (G. de la 
+Rosa, personal communication, September 12, 2024).
+It’s important to note that the language of ‘problem ’ and ‘solution ’ 
+has itself been critiqued as an anthropocentric, scientific way of framing. 
+This linear approach, common in design processes, inherently centers 
+human needs and objectives and often oversimplifies complex, inter-
+woven challenges. In doing so, it risks reproducing the root causes of 
+these challenges by failing to address them in meaningful ways 
+(Bakırlıo ˚glu and Yetis¸, 2024 ). These framings should be interrogated 
+and destabilized to allow for more holistic articulations of intentions for 
+change.2Deliberation in this context refers to decision making processes amongst 
+participants in participatory design. Deliberation is one model in political 
+theory, but not the only approach to democratic decision making. For more- 
+than-human decision making, other frameworks may also be useful, such as 
+Chantal Mouffe ’s Agonistic Pluralism (Mouffe, 1999 ) which focuses on navi-
+gating trade-offs and conflicts, rather than focusing on consensus-building. 
+Keeping to the scope of this work, we do not discuss the different democratic 
+models of deliberation.T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+6 
+5.2. System analysis
+System analyses are used to map out the elements within a system 
+and the inter-relation between system elements, and there are many 
+approaches to map, diagnose and assess agricultural systems from 
+different angles such as system components, material flows, system 
+resilience, and innovation capacity (e.g. Conway, 1985 ; Hengsdijk et al., 
+1998 ; Kropff et al., 2001 ; Jones, 2014 ; Schut et al., 2015 ; Meuwissen 
+et al., 2019 ). Performing a system analysis helps designers get an 
+overview of how the system in question operates and where system 
+improvements can be made. Generally, a technical approach is taken 
+where, in the case of ASD, natural and mechanical processes are 
+described. Taking a relational approach to systems analyses can uncover 
+overlooked dynamics between non-humans by viewing these actors as 
+intertwined rather than isolated. Key to adopting a relational approach 
+is the recognition that farming systems are dynamic: not only do 
+farmers ’ own goals and practices evolve, but also relations between non- 
+human elements change frequently (e.g. pest and disease cycles), as well 
+as markets, technologies, and more (Darnhofer, 2020; West et al., 2020 ). 
+Delineations of what constitutes the system to be designed must therefore be conceptualized in a way that accounts for this dynamism; at 
+a minimum, this could mean adopting an iterative approach to system 
+definition. To include more relational ways of describing non-human 
+system elements, actor-network theory (ANT) can be used to broaden 
+how designers see agency amongst system elements and how system 
+elements influence system dynamics (Yaneva, 2009 ). For example, ANT 
+can help highlight how a farmer ’s decision to alter sowing schedules 
+based on weather conditions, such as rain, is not solely a human-made 
+decision but is shaped through interactions with the environment. 
+Building on ANT, assemblage theory can be used to further help de-
+signers identify relevant, often overlooked, non-human stakeholders in 
+the design process, thus facilitating their inclusion (Higgins et al., 2023; 
+Youn and Baek, 2024 ). Assemblage theory brings an awareness of 
+temporalities to ANT, by addressing the dynamic and ever-evolving 
+nature of relationships amongst system actors.
+The concept of affect, which highlights the capacity of entities to 
+affect their surroundings, can further strengthen the process of recog -
+nizing the interconnectedness between system actors. Affect brings to 
+light the inter-subjectivity between humans and non-humans, giving a 
+fuller picture of how humans and non-humans influence each other in Table 1 
+Framework for reflection, presenting reflective questions for research and design and relevant concepts and methods to support reflection across design phases (phases 
+based on a generalized approach that draws heavily on the RIO methodology (Bos et al., 2009 )).
+Phase Agency Temporality Deliberation Relevant concepts and methods
+Problem 
+definition and 
+design 
+objectivesRegarding the problem definition, 
+why is this a problem and for 
+whom? 
+Whose agency is being fostered and 
+whose is hindered in the framing of 
+the problem definition and design 
+objectives?What time scales are problems and 
+objectives defined on and how does that 
+influence the outcome of the design 
+process?How do other beings perceive the 
+problem and how do they act on it? 
+Which human and non-human actors 
+can shape the problem definition, and 
+which cannot?Citizen assembly (van Veen and 
+Helvoirt, 2024 ), 
+Personas (Frawley and Dyson, 
+2014 ; Tomitsch et al., 2021 ), 
+Embodiment (van Bommel and 
+Boonman-Berson, 2022 )
+System analysis Which actors are considered, and 
+how does this define what exists 
+and therefore can act? 
+How has non-human agency been 
+considered in the systems analysis? 
+How are the identified human and 
+non-human actors a product of 
+another set of actors? In other 
+words, who influences the agency of 
+system actors and how?How are the time scales of the identified 
+human and non-human actors 
+considered? 
+What temporality is the system 
+boundary based on?How are the identified human and non- 
+human actors deliberating or 
+negotiating with the system?ANT (Yaneva, 2009 ), 
+assemblage theory (Youn and 
+Baek, 2024 ), affect (Darnhofer, 
+2020 )
+Design 
+requirements or 
+KPIsHow do requirement definitions 
+define what non-human agency is 
+and is not considered?What timescales are implied or defined 
+in the requirements and how does that 
+influence the solution space? Do the 
+timescales fit all relevant human and 
+non-human actors?How are non-humans invited to 
+deliberate about their own 
+requirements?Personas (Frawley and Dyson, 
+2014 ; Tomitsch et al., 2021 ), 
+Ethics of Care (EoC; Puig de la 
+Bellacasa, 2015 ; 
+Krzywoszynska, 2019 ), 
+Citizen assembly (van Veen and 
+Helvoirt, 2024 ), 
+Need-based analysis (Jolibert 
+et al., 2011 )
+Measurement 
+practicesHow does the measurement define 
+the thing you are measuring, and 
+what agency does it overlook?Which non-humans are structurally 
+measured, and which are excluded from 
+measurements? How would adjusting 
+measurement timescales influence such 
+in- and exclusions?  
+Who determines when baseline 
+measurements are taken and in what 
+ways are baseline measurements 
+neutralizing past harms?How does the measuring instrument 
+influence the relationship between the 
+measurer and the measured (e.g. does it 
+dig holes, take plants or animals out of 
+the system, establish a more affective 
+relation between the observer and the 
+observed)?Multi-sensory communication (
+Poikolainen Ros˘en et al., 2022 ; 
+van Bommel and Boonman- 
+Berson, 2022 ), 
+Mapping exercise (Meesters, 
+2023 ), 
+Process-relational agronomy (
+Ditzler, 2022 )
+Selecting design 
+solutionsHow do proposed solutions change 
+(better enable or hinder) the agency 
+of system actors?How can working with different 
+timescales enable non-human 
+deliberation in selecting or adjusting 
+design solutions?How can designers invite non-humans 
+to influence and negotiate over the 
+selection of design solutions?Enabling space and voice (
+Donaldson, 2020 ), 
+Animal deliberation (Driessen, 
+2014 ), 
+Digital twins (Korenhof et al., 
+2021 )
+Overall If this problem is solved, who wins and who loses? Is this desirable? Is there another problem definition that will have more 
+desirable outcomes? 
+What visualization tools are used in the design process and how does that influence our understanding of the non-humans in 
+the system? Is that desirable? 
+At every design stage: In what ways do our framings and assumptions influence, challenge, or maintain power dynamics 
+within the system?T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+7 
+what they can do and how they think (Darnhofer, 2020 ; van Bommel 
+and Boonman-Berson, 2022 ; Carolan, 2017 ). In the context of systems 
+analysis, this can broaden our view of relationships between system 
+elements and how they influence, and deliberate with, each other.
+Utilizing ANT, assemblages, and affect, system designers can better 
+recognize the non-humans within a system and the influences they have, 
+thus bringing to light important dynamics and challenging the idea that 
+humans have full control over farming systems.
+5.3. Design requirements and KPIs
+Design requirements and Key Performance Indicators (or KPIs) 
+describe the conditions for each stakeholder that a design concept must 
+meet to be considered acceptable or successful. Agricultural system 
+design processes often include requirements for non-humans, for 
+example the nutrient requirements a certain crop needs to thrive or feed 
+requirements for livestock (e.g. Moreira et al., 2023 ; Schreefel et al., 
+2022 ). Although sustainability and environmental impact assessment 
+methods, such as multi-criteria analysis, consider effects on non-humans 
+(Cicciù et al., 2022 ; Hebinck et al., 2021 ), these design requirements 
+generally remain principally focused on the production of food for 
+human consumption. However, the stage in which design requirements 
+and KPIs are defined can be critical for including objectives other than 
+those focused on production.
+Relational approaches can be used to better understand how 
+different system elements are intertwined and therefore how setting a 
+requirement on one element will influence another element. Relational 
+scholars argue that the ‘objective’, logical reasoning often strived for in 
+science creates a detachment, resulting in moral distancing that allows 
+for the exploitation of non-humans (Coeckelbergh, 2018 ). In the context 
+of agricultural systems design, and specifically setting design re-
+quirements, one could argue that reducing this moral distance and 
+acknowledging the illusion of objectivity may improve the consideration 
+of non-humans in design requirements and outcomes, while highlighting 
+the cultural, political, and economic choices that can underpin a design 
+process (Legun, 2015a ; Legun et al., 2022 ; Marder, 2012 ; Hebinck et al., 
+2021 ). Additionally, relational scholars highlight the agency of metrics 
+themselves, noting how metrics co-produce realities in how they influ-
+ence the actions of farmers and policymakers. Acknowledging the 
+agency of metrics can afford designers the opportunity to define metrics 
+as co-productive system elements (Rosin et al., 2017 ).
+When using relational approaches, less emphasis is put on collecting 
+objective and rational data, while emotional, physical, and affective 
+experiences are included, for instance by considering a farmer’s 
+emotional connection to their land, animals, and machines (Darnhofer, 
+2020 ). Design requirements and KPIs are generally described with 
+quantitative indicators and it is challenging to represent qualitative in-
+dicators in this format. For example, how does one measure farmer 
+wellbeing, and can farmer wellbeing be related to, e.g., wellbeing of soil 
+organisms? More research is needed on relational ways of measuring the 
+success of design concepts (see Ditzler, 2022 ). This is further explored in 
+5.4 Measurement practices.
+Ethics of Care (EoC) is a relational approach developed by feminist 
+theorists which emphasizes meeting the needs of non-humans and 
+aligning with the cycles or timelines of non-humans, with attentiveness 
+and relationality. Attentiveness is needed to recognize the care needed 
+by an entity. By working with the temporal rhythms of non-humans, 
+rather than the typically used human-centered temporality, we can be 
+more attentive to the needs of non-humans, allowing us to meet those 
+needs for mutual care taking and improved sustainability (Puig de la 
+Bellacasa, 2015 ; Krzywoszynska, 2019 ). This framework, focusing on 
+care, being attentive, and working on different temporal rhythms, can 
+help in defining requirements that revolve around the care needed for 
+non-humans.
+To enable more deliberation over decisions affecting non-humans, 
+one could consider using a citizens’ assembly in which non-humans are represented by human proxies who negotiate on the requirements 
+necessary for their wellbeing (van Veen and Helvoirt, 2024 ). This 
+method can also be used in later stages of a design process whenever 
+design choices are being made. Methods that facilitate the representa -
+tion of non-humans in deliberative processes can be helpful in better 
+representing their needs and interests. For example, methods from HCI 
+(human-computer interaction) and ACI (animal-computer interaction) 
+can be used, such as personas that are developed to represent the needs 
+and interests of non-humans in the process of setting design re-
+quirements (Frawley and Dyson, 2014 ; Tomitsch et al., 2021 ).3Personas 
+can be useful in shedding light on our assumptions, beliefs, and expe-
+riences of non-humans in a design process.
+A need-based analysis can be used to consider the needs of non- 
+humans and make compromises when conflicts arise between different 
+actors’ needs (Jolibert et al., 2011 ). This method has been found to in-
+crease understanding of the different sides of a conflict when there are 
+competing interests and including non-humans in this method can shift 
+us away from prioritizing human interests in conflict resolution.
+By further including non-humans in the requirement setting process, 
+designers can ensure that the objectives of a design project are repre -
+sented in the design requirements and there is less room for oversight on 
+requirements that directly affect non-humans. This lays a good foun-
+dation for incorporating non-human interests in the rest of a design 
+project.
+5.4. Measurement practices
+Measurements are a means of producing knowledge about a system. 
+They might be used to better understand the state of affairs in a system to 
+be designed, or to follow up on design outcomes and ensure KPIs are 
+met. Measurement practices, including what researchers choose to 
+measure, when, and how they measure it, shape what is uncovered and 
+what remains hidden within a system. They are performative and have 
+agency since they shape how designs are implemented and evolve 
+(Meesters et al., 2023 ). While measurements aim to reveal the unseen, 
+they also inherently create exclusions. For example, measures of agro-
+biodiversity may only account for certain target species that are 
+considered relevant from a particular perspective, e.g. for biological pest 
+control or for nature conservation. By excluding certain bodies/objects 
+through the process of measuring, you exclude those bodies from 
+participating (Gorissen et al., 2025 ; Meesters et al., 2023 ). These prac-
+tices not only influence what is known and visible but also serve as tools 
+of control and often enable extractivism (Turnhout et al., 2014 ).
+To highlight the inclusions and exclusions inherent in measurement 
+processes, one can map the effects of the various measurement methods 
+employed, their temporal dimension (when and how long does mea-
+surements take place) and the material objects they create and exclude. 
+This mapping can also be done to see what exclusions are made by the 
+selection of indicators used for KPIs or design requirements (5.3 Design 
+requirements). For instance, such a mapping exercise could describe 
+which time scales are measured, which affects what knowledge is un-
+covered and how the measurement methods used are reinforcing power 
+dynamics between different actors or enabling productivist agricultural 
+models. Measurement campaigns in agricultural systems design exper -
+iments are often limited by the constraints of dominant funding schemes 
+at the expense of long-term engagement and iterative approaches 
+3While personas are a useful tool, it is important to remember that an animal 
+persona is a human-made tool that represents a current understanding of that 
+animal, rather than being a true representation of the animal itself (Frawley and 
+Dyson, 2014 ). Primary data should be emphasized in the development of per-
+sonas that is collected through field research as there is a risk of overlooking 
+critical issues not yet documented while using secondary data from literature 
+(Tomitsch et al., 2021 ). This caution should be applied to all tools and methods 
+used to represent or interpret non-human voices or intentions.T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+8 
+(Ditzler et al., 2021 ).
+Further research could explore how measuring techniques, such as 
+how soil health is measured, shape research outcomes. Ditzler (2022)
+highlights how commonly used soil fertility indicators, such as plant- 
+available nitrogen and soil organic matter content, are often measured 
+discretely at one or two points in time (e.g. the beginning and/or end of 
+an experiment), whereas the processes occurring that affect these in-
+dicators are happening on multiple time scales. Additionally, Ditzler 
+remarks that in agricultural systems design these indicators are used 
+primarily to assess how successful a harvest will be and ignores how 
+other beings are affected by soil health. In response, Ditzler proposes 
+‘process-relational agronomy ’ in which measuring the success of a farm 
+moves away from static indicators and towards holistic and relational 
+accounts of success (Ditzler, 2022 ).
+To overcome structural exclusions, and enhance more careful 
+deliberation, it can be useful to employ a plurality of techniques that 
+engage different senses (e.g. sight, sound, smell) to uncover otherwise 
+hidden realities (Gorissen et al., 2025 ; Meesters, 2023 ; Poikolainen 
+Ros˘en et al., 2022 ; van Bommel and Boonman-Berson, 2022 ). Improving 
+measurement techniques might look like using different tools to ‘hear ’ 
+non-humans. For example, van Bommel and Boonman-Berson (2022)
+describe how multi-sensory communication can be helpful in inter-
+preting non-human ways of communication to include non-human 
+voices in nature conservation research. Poikolainen Ros˘en et al. 
+(2022) describe techniques for ‘noticing ’ non-humans, meaning 
+bringing to light the overlooked, with a variety of measurement tech-
+niques employing various senses. Gorissen et al. (2025) describe how 
+using a plurality of measuring techniques that value both oversight 
+(“enabling farmers to optimize the efficiency of production ”) and insight 
+(“offering a holistic and long-term understanding of ecological relations 
+and how they affect production ”) can foster more diverse un-
+derstandings of farm performance.
+5.5. Selecting design solutions
+Finally, we look to the phase of selecting design solutions. Design 
+choices can be made with non-humans if we find ways to involve non- 
+humans in decision making processes by making space for them to ex-
+press their agency. Involving non-humans in the selection of design 
+solutions takes rethinking the temporal dimension of design, contem -
+plating and adjusting the time scales we are working in to allow them to 
+express their agency and allow time for iteration and deliberation. 
+Deliberating with non-humans might look like being perceptive to how 
+they interact with a design concept and adjusting it as needed. For 
+example, farmers adjusted the settings of milking robots based on how 
+cows preferred to use the system (Driessen, 2014 ). In another example, 
+farmers used digital fencing to control the grazing territory of their 
+goats, resulting in a type of negotiation over what goat farming can look 
+like (Søraa and Vik, 2021 ). While such interventions may enhance 
+practical negotiations between humans and non-humans in the given 
+circumstances, it is important to note that they are unable to challenge 
+structural conditions and power dynamics regarding the larger agri-
+cultural system. To take it a step further, designers can draw on 
+Donaldson ’s (2020) concept of enabling space and voice to actively 
+foster the conditions to empower non-humans to express their agency to 
+shape their environments.
+Others look to novel technologies in digital agriculture, such as 
+sensors, digital twins and artificial intelligence, to represent non-human 
+entities, such as ecosystems or animals, or anticipate how system inputs 
+will affect system outcomes (Pylianidis et al., 2021 ; Verdouw et al., 
+2021 ). Beyond representing non-humans, these technologies could also 
+be used to give voice to non-humans in novel forms of participatory on- 
+farm experimentation (Lacoste et al., 2022, 2025 ). Artificial intelligence 
+could be used to interpret plant and animal ‘communication ’, and a 
+digital twin could be used to test out design solutions to anticipate the 
+effects on non-humans, facilitating design choices in line with non-human objectives (Bakker, 2022 ). This could be a key area in which 
+agri-food tech start-ups (Klerkx and Villalobos, 2024 ) could contribute 
+to more inclusive future ASD. Generally sensors and digital twins are 
+used to control non-humans for improved efficiency and can lead to 
+further objectification of non-humans (Bos et al., 2018 ), but they can be 
+used for the inclusion of non-human interests in design if used carefully 
+(Korenhof et al., 2021 ). It’s important to consider the interaction be-
+tween human-made technologies and natural non-human temporalities, 
+and how technologies alter our perception of time and the speed of 
+decision-making processes.
+6.Discussion and conclusion
+Tackling contemporary climate and ecological crises requires 
+fundamental, systemic changes in food systems. Agricultural systems 
+design co-shapes broader food systems and thus has a key role to play in 
+food systems transformations. We argue that expanding which actors are 
+considered as participants in design processes beyond humans is an 
+important pathway to drive transformative change. In this article, we 
+have developed ways to engage non-humans as active participants in 
+participatory design processes to systematically address broad sustain -
+ability goals for more democratic and transformative outcomes. Rather 
+than assessing which conceptualization of more-than-human participa -
+tion is true or has received the most evidence, this article explored the 
+consequences of approaching ASD through different sets of assumptions 
+for the possibilities of non-human participation. While the insights 
+addressed in this article can be applied to many different cases and bears 
+relevance for transition design in other systems (e.g. mobility and urban 
+systems) (Ceschin and Gaziulusoy, 2016; Irwin, 2015; Pineda et al., 
+2024; Tsatsou et al., 2023 ), we focused on participatory agricultural 
+systems design. Agriculture is an interesting case as inherently agricul -
+tural systems are human-made systems with the goal to extract a product 
+from the system, namely food, fibre, and other biobased materials4. 
+However, we try to advocate for an ‘ethics of exclusion ’ (Giraud, 2019 ), 
+in which designers are conscious about the inclusions and exclusions 
+made.
+Such engagements fundamentally transform agricultural systems 
+design by: (1) revealing hidden trade-offs between human productivity 
+goals and non-humans ’ needs and ecological resilience; (2) expanding 
+methodological capacity to detect and interpret signals from soil sys-
+tems, plant communities, and animal populations; and (3) elevating 
+non-human interests from externalities to essential design parameters. 
+This approach creates pathways towards sustainable food systems as 
+well as broader bioeconomies by systematically opening up problem and 
+solution spaces to consider the stakes, needs, and interests of non- 
+humans to meet a broader set of sustainability goals. Including non- 
+human needs in agricultural systems have been shown to trigger 
+cascading positive effects in holistic and integrated ways (Rehman et al., 
+2022 ). We conclude this article with three critical reflections on the 
+potential for including non-humans in ASD.
+First, possibilities for participation in agricultural systems are not 
+distributed equally, and such inequality is tied intimately to knowledge 
+hierarchies (Turnhout, 2024 ). Whether actors are cast as active or pas-
+sive, atemporal or with their own rhythms, and communicative or mute 
+affects how power and responsibilities are distributed across agricultural 
+systems. The theoretical approaches that we have consulted operation -
+alize non-humans in various ways, which can point ASD scholars in 
+various directions. ANT and assemblage theory render non-humans as 
+influential in steering agricultural systems through material negotiation, 
+simply because they possess particular properties or bodily abilities. 
+4In this sense, beyond having importance for food systems transformation, 
+agricultural systems design also has importance for transformations of other 
+systems such as energy and housing, for example through concepts such as 
+bioeconomy.T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+9 
+This acknowledges non-humans as being relevant in ASD and encour -
+ages human agricultural actors to allow non-human courses to take their 
+turn and to let go of an ideal of full controllability. Posthumanist and 
+animal studies conceptualizations of non-human needs and interests 
+more explicitly call for different sets of responsibilities for humans, 
+based on values of justice and mutual care. These approaches direct 
+designers towards processes that can foster a better distribution of 
+agentic possibilities by attuning to non-human temporalities and modes 
+of deliberation. Postcolonial and indigenous work powerfully addresses 
+both why and how non-humans are key to consult in ASD, because they 
+render non-humans as communicative and knowledgeable entities that 
+embody lessons about living well together. This implies that it matters 
+for ASD, and hence for agricultural realities, which theoretical frame -
+works, concepts and methods are invited in ASD processes.
+Second, considering these interdisciplinary insights has not only 
+implications for design outcomes, but also for design processes. Current 
+agricultural systems design processes are human-centered by design, 
+and selectively including some non-humans in these processes will not 
+enable the fundamental changes to agricultural systems necessary to be 
+transformative. This means that design processes in themselves require 
+radical adjustment to account for non-human agency, temporality and 
+deliberation. The linearity of many design processes contradicts the 
+adaptivity needed to engage non-humans and work in more-than-human 
+time scales. Therefore, it is urgently needed to assess the extent to which 
+our current design processes are fit for meaningful inclusion of non- 
+humans. This review demonstrated that a rapidly growing body of 
+work from various plumage can lead ASD in improving design methods. 
+Mapping exercises to highlight inclusions and exclusions made in the 
+design process, embodiment exercises to facilitate participants taking on 
+different roles, citizen assemblies to negotiate between actors on design 
+choices, and enabling space for non-humans to make choices on how 
+they interact with a design are just some of the practical ways designers 
+can participate with non-humans in design. However, to do so, design 
+processes need to be designed for including non-human voices, for 
+instance by creating more inclusive design protocols.
+Third, our work articulates that there are various degrees of inter-
+vening in power relations, and how this in turn affects the trans -
+formative potential of ASD thinking. This not only entails challenging 
+incumbent power relations between different human actors and orga-
+nizations in agri-food systems (cf. Clapp, 2021 ; Rossi et al., 2019 ), but 
+also entails challenging the power relations that reproduce the separa -
+tion between humans and non-humans in agri-food systems (cf. 
+Tschersich and Kok, 2022 ). For ASD to be inclusive of non-humans, this 
+ultimately requires humans to disrupt the dominance of human values, 
+temporalities, needs, and interests, so non-humans can take more space 
+and enter in negotiation on terms set outside of current agricultural 
+production systems (Bastian, 2017 ; Meesters, 2023 ). Disrupting domi -
+nant systems leads to shifts in power balances, and it is important to 
+consistently and continuously scrutinize who loses and gains influence, 
+and whether that is desirable and for whom. Participatory processes 
+have been demonstrated to reinforce and even strengthen hierarchies 
+when they do not allow for adjusting the rules of the game (Bastian, 
+2017 ; Cooke and Kothari, 2001 ; Turnhout et al., 2020 ). Determining 
+who wins and who loses is complex, as human and non-human interests 
+are often intertwined, and the objectives of sustainability, biodiversity, 
+and improved animal welfare frequently serve human interests, such as 
+enhancing production and human livelihoods. While representing 
+human and non-human interests simultaneously does not have to be 
+mutually exclusive, genuine consideration of the interests of non- 
+humans is uncommon, requiring a shift in how non-humans are 
+considered. This is challenging, as fundamental changes in values and 
+power dynamics often run into resistance of status quo actors and or-
+ganizations. While working with vested interests (such as large busi-
+nesses and governments) can be considered an important avenue to 
+realize change, scholars have warned to be wary of collaborating with 
+actors that benefit from the exploitation of the natural world, which often results in the watering-down of the, often ambitious, objectives set 
+out at the start of projects (Turnhout et al., 2020 ). For instance, studies 
+point out that radical agricultural frameworks, such as agroecology and 
+regenerative agriculture, have been coopted by the mainstream and 
+watered down, due to a lack of consideration of power and equity issues 
+(Bless et al., 2023 ; Tittonell et al., 2022 ; Walthall et al., 2024 ), high-
+lighting the importance of addressing power and equity for trans -
+formational agricultural systems.
+In view of these reflections, to advance research on non-human 
+participation in ASD, further research could focus on questions such as: 
+≡What is the interaction between human and non-human participa -
+tion in participatory processes?
+≡Which methods for involving non-humans in participatory processes 
+are effective, for who, and how, in practice?
+≡What is the influence of different methods on the transformative 
+potential of design outcomes?
+≡How can research and innovation projects support designers to do 
+this type of work and create an evolution of what transdisciplinary 
+science and innovation entails?
+≡What role can new technologies have in creating systems that facil-
+itate deliberation between humans and non-humans, and what are 
+the risks?
+Finally, in this article we have focused on practical applications, 
+though these applications in practice will not be without hurdles, given 
+current research schemes (e.g. time and budget limitations), knowledge 
+gaps (e.g. how to enable non-humans to speak for themselves), and 
+power distributions (e.g. how to balance human and non-human needs 
+when they are mutually exclusive). This shows that agricultural systems 
+design cannot be designed differently in isolation from larger academic 
+and societal challenges. Hence, it highlights that, in addition to novel 
+research methods, there is a need for incumbent agri-food research and 
+innovation systems to tackle these hurdles and provide support for 
+projects and initiatives that seek to promote non-human participation in 
+ASD. Nevertheless, we believe this article shows that engaging with 
+terms, words, and ways of thinking from unexpected places can provide 
+practical interventions to take a step in the right direction.
+CRediT authorship contribution statement
+Tatiana Moreira: Writing – review & editing, Writing – original 
+draft, Project administration, Methodology, Investigation, Conceptual -
+ization. Marieke E. Meesters: Writing – review & editing, Writing – 
+original draft, Conceptualization. Kristiaan P.W. Kok: Writing – review 
+& editing, Visualization, Conceptualization, Writing – original draft. 
+Katharine Legun: Writing – review & editing, Funding acquisition, 
+Conceptualization. Lenora Ditzler: Writing – review & editing, 
+Conceptualization. Laurens Klerkx: Writing – review & editing, Su-
+pervision, Funding acquisition, Conceptualization, Writing – original 
+draft.
+Declaration of generative AI and AI-assisted technologies in the 
+writing process
+During the preparation of this work the authors used generative AI 
+for assistance in shortening and improving readability of text. All orig-
+inal text was written by the authors. After using this tool/service, the 
+authors reviewed and edited the content as needed and take full re-
+sponsibility for the content of the published article.
+Declaration of competing interest
+The authors have no interests to declare.T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+10 
+Acknowledgements
+Tatiana Moreira ’s contribution to the article was funded by the 
+Knowledge, Technology and Innovation Group of Wageningen Univer -
+sity and the New Zealand Ministry of Business, Innovation and 
+Employment (UOAX1810). Laurens Klerkx ’ contribution to the article 
+draws on his professorial lecture ‘Towards agricultural innovation sys-
+tems 4.0?: Supporting directionality, diversity, distribution and de-
+mocracy in food systems transformation ’ which was enabled by 
+Wageningen University, and was supported by the Chilean National 
+Agency for Research and Development (ANID) through FONDECYT 
+Regular Grant No. 1250482 (2025). We thank Gabriela de la Rosa for 
+proving her insights on transdisciplinary engagements. We also thank 
+the two anonymous reviewers for their constructive comments on earlier 
+drafts of the article, and editor Guillaume Martin for his guidance during 
+the review process.
+Appendix A.Supplementary data
+Supplementary materials to this article can be found online at htt 
+ps://doi.org/10.1016/j.agsy.2025.104512 .
+Data availability
+No data was used for the research described in the article.
+References
+Bakırlıo ˚glu, Y., Yetis¸, E.O., 2024. Daunted by design: creating tools of slow violence. 
+Innov. Europ. J. Soc. Sci. Res. 1–15. https://doi.org/10.1080/ 
+13511610.2024.2395268 .
+Bakker, K., 2022. The Sounds of Life: How Digital Technology Is Bringing us Closer to the 
+Worlds of Animals and Plants. Princeton University Press, New Jersey . 
+Barnaud, C., van Paassen, A., Tr˘ebuil, G., Promburom, T., Bousquet, F., 2010. Dealing 
+with power games in a companion modelling process: lessons from community water 
+management in Thailand highlands. J. Agric. Educ. Ext. 16, 55–74. https://doi.org/ 
+10.1080/13892240903533152 .
+Barry, A., 2013. Material Politics: Disputes along the Pipeline. John Wiley & Sons.
+Bastian, M., 2017. Towards a more-than-human participatory research. In: Franklin, In A. 
+(Ed.), The Routledge International Handbook of More-Than-Human Studies, 1st ed. 
+Routledge, pp. 404–419. https://doi.org/10.4324/9781003262619-29 .
+Berthet, E.T., Barnaud, C., Girard, N., Labatut, J., Martin, G., 2016. How to foster 
+agroecological innovations? A comparison of participatory design methods. 
+J. Environ. Plan. Manag. 59 (2), 280–301. https://doi.org/10.1080/ 
+09640568.2015.1009627 .
+Berthet, E.T., Hickey, G.M., Klerkx, L., 2018. Opening design and innovation processes in 
+agriculture: insights from design and management sciences and future directions. 
+Agric. Syst. 165, 111–115. https://doi.org/10.1016/j.agsy.2018.06.004 .
+Bessai, R., Bendor, R., Balkenende, R., 2024. Designing with more-than-human 
+temporalities. In: DRS Biennial Conference Series. DRS2024: Boston, Boston, USA. 
+https://doi.org/10.21606/drs.2024.438 .
+Bless, A., Davila, F., Plant, R., 2023. A genealogy of sustainable agriculture narratives: 
+implications for the transformative potential of regenerative agriculture. Agric. 
+Hum. Values 40 (4), 1379 –1397. https://doi.org/10.1007/s10460-023-10444-4 .
+Blok, V., Gremmen, B., 2018. Agricultural technologies as living machines: toward a 
+biomimetic conceptualization of smart farming technologies. Ethics Policy Environ. 
+21, 246–263. https://doi.org/10.1080/21550085.2018.1509491 .
+Bos, A.P., Grin, J., 2008. “Doing ” reflexive modernization in pig husbandry: the hard 
+work of changing the course of a river. Sci. Technol. Hum. Values 33 (4), Article 4. 
+https://doi.org/10.1177/0162243907306697 .
+Bos, A.P., Groot Koerkamp, P.W.G., Gosselink, J.M.J., Bokma, S., 2009. Reflexive 
+interactive design and its application in a project on sustainable dairy husbandry 
+systems. Outlook Agric. 38 (2009), 2. https://doi.org/10.5367/ 
+000000009788632386 .
+Bos, J.M., Bovenkerk, B., Feindt, P.H., van Dam, Y.K., 2018. The quantified animal: 
+precision livestock farming and the ethical implications of objectification. Food 
+Ethics 2, 77–92. https://doi.org/10.1007/s41055-018-00029-x .
+Brun, J., Jeuffroy, M.-H., P˘enicaud, C., Cerf, M., Meynard, J.-M., 2021. Designing a 
+research agenda for coupled innovation towards sustainable agrifood systems. Agric. 
+Syst. 191, 103143. https://doi.org/10.1016/j.agsy.2021.103143 .
+Çakmakçı, R., Salık, M.A., Çakmakçı, S., 2023. Assessment and principles of 
+environmentally sustainable food and agriculture systems. Agriculture 13 (5), 1073. 
+https://doi.org/10.3390/agriculture13051073 .
+Campbell, H., 2020. Farming inside Invisible Worlds: Modernist Agriculture and its 
+Consequences. Bloomsbury Academic, p. 224. https://doi.org/10.5040/ 
+9781350120570 .Campbell, B.M., Beare, D.J., Bennett, E.M., Hall-Spencer, J.M., Ingram, J.S.I., 
+Jaramillo, F., Ortiz, R., Ramankutty, N., Sayer, J.A., Shindell, D., 2017. Agriculture 
+production as a major driver of the earth system exceeding planetary boundaries. 
+Ecol. Soc. 22 (4). https://doi.org/10.5751/ES-09595-220408 .
+Carberry, P.S., Hochman, Z., McCown, R.L., Dalgliesh, N.P., Foale, M.A., Poulton, P.L., 
+Hargreaves, J.N.G., Hargreaves, D.M.G., Cawthray, S., Hillcoat, N., Robertson, M.J., 
+2002. The FARMSCAPE approach to decision support: farmers ’, advisers ’, 
+researchers ’ monitoring, simulation, communication and performance evaluation. 
+Agric. Syst. 74, 141–177. https://doi.org/10.1016/S0308-521X(02)00025-2 .
+Carolan, M., 2017. Agro-digital governance and life itself: food politics at the intersection 
+of code and affect. Sociol. Rural. 57, 816–835. https://doi.org/10.1111/soru.12153 .
+Caron, P., Ferreroy de Loma-Osorio, G., Nabarro, D., Hainzelin, E., Guillou, M., 
+Andersen, I., Verburg, G., 2018. Food systems for sustainable development: 
+proposals for a profound four-part transformation. Agron. Sustain. Dev. 38, 1–12. 
+https://doi.org/10.1007/s13593-018-0519-1 .
+Cerf, M., Jeuffroy, M.-H., Prost, L., Meynard, J.-M., 2012. Participatory design of 
+agricultural decision support tools: taking account of the use situations. Agron. 
+Sustain. Dev. 32 (4), 899–910. https://doi.org/10.1007/s13593-012-0091-z .
+Ceschin, F., Gaziulusoy, I., 2016. Evolution of design for sustainability: From product 
+design to design for system innovations and transitions. Design Studies 47, 118–163.
+Cicciù, B., Schramm, F., Schramm, V.B., 2022. Multi-criteria decision making/aid 
+methods for assessing agricultural sustainability: a literature review. Environ. Sci. 
+Pol. 138, 85–96. https://doi.org/10.1016/j.envsci.2022.09.020 .
+Clapp, J., 2021. The problem with growing corporate concentration and power in the 
+global food system. Nat. Food 2 (6), 404–408. https://doi.org/10.1038/s43016-021- 
+00297-7 .
+Coeckelbergh, M., 2018. What do we mean by a relational ethics? Growing a relational 
+approach to the moral standing of plants, robots, and other non-humans. In: Plant 
+Ethics. Routledge .
+Contesse, M., Duncan, J., Legun, K., Klerkx, L., 2021. Unravelling non-human agency in 
+sustainability transitions. Technol. Forecast. Soc. Chang. 166, 120634. https://doi. 
+org/10.1016/j.techfore.2021.120634 .
+Conway, G.R., 1985. Agroecosystem analysis. Agric. Adm. 20, 31–55. https://doi.org/ 
+10.1016/0309-586X(85)90064-0 .
+Cooke, B., Kothari, U., 2001. Participation: The New Tyranny? Zed Books .
+Darnhofer, I., 2020. Farming from a process-relational perspective: making openings for 
+change visible. Sociol. Rural. 60 (2), 505–528. https://doi.org/10.1111/soru.12294 .
+de Bruin, A., de Boer, I.J.M., Faber, N.R., de Jong, G., Termeer, K.J.A.M., de Olde, E.M., 
+2024. Easier said than defined? Conceptualising justice in food system transitions. 
+Agric. Hum. Values 41 (1), 345–362. https://doi.org/10.1007/s10460-023-10482-y .
+De La Rosa, G., Ludwig, D., Nieves, A., El-Hani, C.N., 2025. Between confluence and 
+disenfranchisement: the role of power dynamics in transdisciplinary research. Curr. 
+Res. Environ. Sustain. 10, 100300. https://doi.org/10.1016/j.crsust.2025.100300 .
+Dernat, S., Grillot, M., Andreotti, F., Martel, G., 2025. A sustainable game changer? 
+Systematic review of serious games used for agriculture and research agenda. Agric. 
+Syst. 222, 104178. https://doi.org/10.1016/j.agsy.2024.104178 .
+Ditzler, L., 2022. Towards Diversified Industrial Cropping Systems? Doctoral Thesis 
+Wageningen University. https://library.wur.nl/WebQuery/wurpubs/603203 .
+Ditzler, L., Driessen, C., 2022. Automating agroecology: how to design a farming robot 
+without a Monocultural mindset? J. Agric. Environ. Ethics 35 (1), 2. https://doi.org/ 
+10.1007/s10806-021-09876-x .
+Ditzler, L., Klerkx, L., Chan-Dentoni, J., Posthumus, H., Krupnik, T.J., Ridaura, S.L., 
+Andersson, J.A., Baudron, F., Groot, J.C.J., 2018. Affordances of agricultural systems 
+analysis tools: a review and framework to enhance tool design and implementation. 
+Agric. Syst. 164, 20–30. https://doi.org/10.1016/j.agsy.2018.03.006 .
+Ditzler, L., van Apeldoorn, D.F., Pellegrini, F., Antichi, D., Bˇarberi, P., Rossing, W.A.H., 
+2021. Current research on the ecosystem service potential of legume inclusive 
+cropping systems in Europe. A review. Agron. Sustain. Dev. 41 (2), 26. https://doi. 
+org/10.1007/s13593-021-00678-z .
+Dogliotti, S., Rossing, W.A.H., van Ittersum, M.K., 2004. Systematic design and 
+evaluation of crop rotations enhancing soil conservation, soil fertility and farm 
+income: a case study for vegetable farms in South Uruguay. Agric. Syst. 80 (3), 
+277–302. https://doi.org/10.1016/j.agsy.2003.08.001 .
+Donaldson, S., 2020. Animal agora: animal citizens and the democratic challenge. Soc. 
+Theory Pract. 46 (4), 709–735. https://doi.org/10.5840/soctheorpract202061296 .
+Driessen, C., 2014. Animal Deliberation. In: Wissenburg, M., Schlosberg, D. (Eds.), 
+Political Animals and Animal Politics. Palgrave Macmillan UK, pp. 90–104. https:// 
+doi.org/10.1007/978-1-349-68308-6_7 .
+Elzen, B., Bos, B., 2019. The RIO approach: design and anchoring of sustainable animal 
+husbandry systems. Technol. Forecast. Soc. Chang. 145, 141–152. https://doi.org/ 
+10.1016/j.techfore.2016.05.023 .
+Ermine, W., 2007. The ethical space of engagement. Ind. Law J. 6 (1), 193.
+FAO, F, 2018. The future of food and agriculture: alternative pathways to 2050. In: Food 
+and Agriculture Organization of the United Nations Rome, 60.
+Ferguson, R.S., Lovell, S.T., 2014. Permaculture for agroecology: design, movement, 
+practice, and worldview. A review. Agron. Sustain. Dev. 34 (2), 251–274. https:// 
+doi.org/10.1007/s13593-013-0181-6 .
+Fleck, J., 1993. Innofusion: Feedback in the innovation process. In: Stowell, F.A., 
+West, D., Howell, J.G. (Eds.), Systems Science: Addressing Global Issues. Springer, 
+US, Boston, MA, pp. 169–174.
+Forlano, L., 2017. Posthumanism and Design. She Ji. The Journal of Design, Economics, 
+and Innovation 3, 16–29.
+Frawley, J.K., Dyson, L.E., 2014. Animal personas: acknowledging non-human 
+stakeholders in designing for sustainable food systems. In: Proceedings of the 26th 
+Australian Computer-Human Interaction Conference on Designing Futures: The 
+Future of Design. https://doi.org/10.1145/2686612.2686617 .T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+11 
+Geiselmann, R., Tsourgianni, A., Deroy, O., Harris, L.T., 2023. Interacting with agents 
+without a mind: the case for artificial agents. Curr. Opin. Behav. Sci. 51. https://doi. 
+org/10.1016/j.cobeha.2023.101282 .
+Gerber, S., Hiernaux, Q., 2022. Plants as machines: history, philosophy and practical 
+consequences of an idea. J. Agric. Environ. Ethics 35 (1), 4. https://doi.org/ 
+10.1007/s10806-021-09877-w .
+Giraud, E.H., 2019. What Comes after Entanglement?: Activism, Anthropocentrism, and 
+an Ethics of Exclusion. Duke University Press .
+Glover, D., 2022. Affordances and agricultural technology. J. Rural. Stud. 94, 73–82. 
+https://doi.org/10.1016/j.jrurstud.2022.05.007 .
+Gorissen, L., Konrad, K., Turnhout, E., 2025. Sensors and sensing practices: shaping 
+farming system strategies toward agricultural sustainability. Agric. Hum. Values 
+1–19. https://doi.org/10.1007/s10460-024-10686-w .
+Grahmann, K., Reckling, M., Hern ˘andez-Ochoa, I., Donat, M., Bellingrath-Kimura, S., 
+Ewert, F., 2024. Co-designing a landscape experiment to investigate diversified 
+cropping systems. Agric. Syst. 217, 103950. https://doi.org/10.1016/j. 
+agsy.2024.103950 .
+Gualtieri, G., Druta, O., Velzing, E., 2023. Preliminary study of participatory and nature- 
+inclusive design approaches. In: De Sainz Molestina, D., Galluzzo, L., Rizzo, F., 
+Spallazzo, D. (Eds.), IASDR 2023: Life-Changing Design, 9–13 October, Milan, Italy. 
+https://doi.org/10.21606/iasdr.2023.718 .
+Harms, P., Joshi, N., Knau ß, S., 2025. Designing multispecies role-playing games: from 
+human-nature partnerships towards multispecies justice. NPJ Urban Sustain. 5, 68.
+Hebinck, A., Zurek, M., Achterbosch, T., Forkman, B., Kuijsten, A., Kuiper, M., 
+Nørrung, B., Veer, P.V.T., Leip, A., 2021. A sustainability compass for policy 
+navigation to sustainable food systems. Glob. Food Sec. 29, 100546. https://doi.org/ 
+10.1016/j.gfs.2021.100546 .
+Hengsdijk, H., van Ittersum, M.K., Rossing, W.A.H., 1998. Quantitative analysis of 
+farming systems for policy formulation: development of new tools. Agric. Syst. 58, 
+381–394. https://doi.org/10.1016/S0308-521X(98)00037-7 .
+Higgins, V., Bryant, M., Howell, A., Battersby, J., 2017. Ordering adoption: materiality, 
+knowledge and farmer engagement with precision agriculture technologies. J. Rural. 
+Stud. 55, 193–202. https://doi.org/10.1016/j.jrurstud.2017.08.011 .
+Higgins, V., van der Velden, D., Bechtet, N., Bryant, M., Battersby, J., Belle, M., 
+Klerkx, L., 2023. Deliberative assembling: Tinkering and farmer agency in precision 
+agriculture implementation. Journal of Rural Studies 100, 103023 .
+Holy-Luczaj, M., Blok, V., 2021. Hybrids and the boundaries of moral Considerability or 
+revisiting the idea of non-instrumental value. Philos. Technol. 34, 223–242. https:// 
+doi.org/10.1007/s13347-019-00380-9 .
+Hoppe, K., 2019. Responding as composing: towards a post-anthropocentric, feminist 
+ethics for the Anthropocene. Distinktion J. Soc. Theory 21 (2), 125–142. https://doi. 
+org/10.1080/1600910X.2019.1618360 .
+Huttunen, S., Turunen, A., Kaljonen, M., 2022. Participation for just governance of food- 
+system transition. Sustain Sci Pract Policy 18 (1), 500–514. https://doi.org/ 
+10.1080/15487733.2022.2088187 .
+Irwin, T., 2015. Transition Design: A Proposal for a New Area of Design Practice, Study, 
+and Research. Design and Culture 7 (2), 229–246. https://doi.org/10.1080/ 
+17547075.2015.1051829 .
+Jansen, K., Vellema, S., 2011. What is technography? NJAS Wageningen J. Life Sci. 57 
+(3–4), 169–177. https://doi.org/10.1016/j.njas.2010.11.003 .
+Jolibert, C., Max-Neef, M., Rauschmayer, F., Paavola, J., 2011. Should we care about the 
+needs of non-humans? Needs assessment: a tool for environmental conflict resolution 
+and sustainable organization of living beings. Environ. Policy Gov. 21 (4), 259–269. 
+https://doi.org/10.1002/eet.578 .
+Jones, P.H., 2014. Systemic design principles for complex social systems. In: Metcalf, G.S. 
+(Ed.), Social Systems and Design Springer Japan, Tokyo, pp. 91–128.
+Juventia, S.D., Selin Nor˘en, I.L.M., van Apeldoorn, D.F., Ditzler, L., Rossing, W.A.H., 
+2022. Spatio-temporal design of strip cropping systems. Agric. Syst. 201, 103455. 
+https://doi.org/10.1016/j.agsy.2022.103455 .
+Kanter, D.R., Schwoob, M.H., Baethgen, W.E., Bervejillo, J.E., Carriquiry, M., 
+Dobermann, A., de Lima, J.M.S., 2016. Translating the sustainable development 
+goals into action: a participatory backcasting approach for developing national 
+agricultural transformation pathways. Glob. Food Sec. 10, 71–79. https://doi.org/ 
+10.1016/j.gfs.2016.08.002 .
+Kimmerer, R.W., 2013. Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge 
+and the Teachings of Plants, 1st ed. (Milkweed Editions) . 
+Klerkx, L., Villalobos, P., 2024. Are AgriFoodTech start-ups the new drivers of food 
+systems transformation? An overview of the state of the art and a research agenda. 
+Glob. Food Sec. 40, 100726. https://doi.org/10.1016/j.gfs.2023.100726 .
+Kok, K.P.W., Klerkx, L., 2023. Addressing the politics of mission-oriented agricultural 
+innovation systems. Agric. Syst. 211, 103747. https://doi.org/10.1016/j. 
+agsy.2023.103747 .
+Korenhof, P., Blok, V., Kloppenburg, S., 2021. Steering representations —towards a 
+critical understanding of digital twins. Philos. Technol. 34 (4), 1751 –1773. https:// 
+doi.org/10.1007/s13347-021-00484-1 .
+Kothari, A., Demaria, F., Acosta, A., 2014. Buen Vivir, degrowth and ecological Swaraj: 
+alternatives to sustainable development and the green economy. Development 57 
+(3), 362–375. https://doi.org/10.1057/dev.2015.24 .
+Kropff, M.J., Bouma, J., Jones, J.W., 2001. Systems approaches for the design of 
+sustainable agro-ecosystems. Agric. Syst. 70, 369–393. https://doi.org/10.1016/ 
+S0308-521X(01)00052-X .
+Krzywoszynska, A., 2019. Caring for soil life in the Anthropocene: the role of 
+attentiveness in more-than-human ethics. Trans. Inst. Br. Geogr. 44 (4), 661–675. 
+https://doi.org/10.1111/tran.12293 .
+Lacoste, M., Bellon-Maurel, V., Piot-Lepetit, I., Cook, S., Tremblay, N., Longchamps, L., 
+McNee, M., Taylor, J., Ingram, J., Adolwa, I., Hall, A., 2025. Farmer-centric On-Farm Experimentation: digital tools for a scalable transformative pathway. Agronomy for 
+Sustainable Development 45, 18.
+Lacoste, M., Cook, S., McNee, M., Gale, D., Ingram, J., Bellon-Maurel, V., MacMillan, T., 
+Sylvester-Bradley, R., Kindred, D., Bramley, R., Tremblay, N., Longchamps, L., 
+Thompson, L., Ruiz, J., García, F.O., Maxwell, B., Griffin, T., Oberthür, T., 
+Huyghe, C., Zhang, W., McNamara, J., Hall, A., 2022. On-Farm Experimentation to 
+transform global agriculture. Nature Food 3, 11–18.
+Latour, B., 1992. Where are the missing masses? The sociology of a few mundane 
+artifacts. In: Bijker, W.E., Law, J. (Eds.), Shaping Technology/Building Society: 
+Studies in Sociotechnical Change. MIT Press, Cambridge, MA, pp. 225–258.
+Latour, B., 2007. Reassembling the Social: An Introduction to Actor-Network-Theory. 
+OUP Oxford .
+Le Gal, P.-Y., Dugu ˘e, P., Faure, G., Novak, S., 2011. How does research address the design 
+of innovative agricultural production systems at the farm level? A review. Agric. 
+Syst. 104 (9), 714–728. https://doi.org/10.1016/j.agsy.2011.07.007 .
+Leeuwis, C., 1999. Integral technology design as a process of learning and negotiation. A 
+social science perspective on interactive prototyping. In: Leeuwis, C. (Ed.), Integral 
+Design: Innovation in Agriculture and Natural Resource Management. Wageningen, 
+Mansholt Institute, pp. 123–144.
+Leeuwis, C., 2000. Reconceptualizing participation for sustainable rural development: 
+towards a negotiation approach. Dev. Chang. 31, 931–959. https://doi.org/ 
+10.1111/1467-7660.00184 .
+Legun, K., 2015a. Club apples: a biology of markets built on the social life of variety. 
+Econ. Soc. 44 (2), 293–315. https://doi.org/10.1080/03085147.2015.1013743 .
+Legun, K., 2015b. Tiny trees for trendy produce: dwarfing technologies as assemblage 
+actors in orchard economies. Geoforum 65, 314–322. https://doi.org/10.1016/j. 
+geoforum.2015.03.009 .
+Legun, K., Burch, K.A., Klerkx, L., 2023. Can a robot be an expert? The social meaning of 
+skill and its expression through the prospect of autonomous AgTech. Agriculture and 
+Human Values 40, 501–517.
+Legun, K., Comi, M., Vicol, M., 2022. New aesthetic regimes: the shifting global political 
+ecology of aroma hops. Geoforum 128, 148–157. https://doi.org/10.1016/j. 
+geoforum.2021.12.004 .
+Marder, M., 2012. Resist like a plant! On the vegetal life of political movements.  Peace 
+Stud. J. 5 (1), 24–32.
+Marres, N., Lezaun, J., 2011. Materials and devices of the public: an introduction. Econ. 
+Soc. 40 (4), 489–509. https://doi.org/10.1080/03085147.2011.602293 .
+Martin, G., Felten, B., Duru, M., 2011. Forage rummy: a game to support the 
+participatory design of adapted livestock systems. Environ. Model. Softw. 26, 
+1442 –1453. https://doi.org/10.1016/j.envsoft.2011.08.013 .
+Martin, G., Martin-Clouaire, R., Duru, M., 2013. Farming system design to feed the 
+changing world. A review. Agron. Sustain. Dev. 33 (1), 131–149. https://doi.org/ 
+10.1007/s13593-011-0075-4 .
+Massarella, K., Nygren, A., Fletcher, R., Büscher, B., Kiwango, W.A., Komi, S., 
+Percequillo, A.R., 2021. Transformation beyond conservation: how critical social 
+science can contribute to a radical new agenda in biodiversity conservation. Curr. 
+Opin. Environ. Sustain. 49, 79–87. https://doi.org/10.1016/j.cosust.2021.03.005 .
+Meesters, M.E., 2023. Posthumanist Participation: Beyond Extractivism in the Dutch 
+Wadden Sea Area. Doctoral Thesis. Wageningen University. https://doi.org/ 
+10.18174/633108 .
+Meesters, M.E., Turnhout, E., Behagel, J.H., 2023. Negotiating salt worlds: causation and 
+material participation. Critic. Policy Stud. 17 (2), 297–315. https://doi.org/ 
+10.1080/19460171.2022.2078731 .
+Meijer, E., 2019. When Animals Speak: Toward an Interspecies Democracy, vol. 1. NYU 
+Press .
+Merchant, C., 2006. The scientific revolution and the death of nature. Isis 97 (3), 
+513–533. https://doi.org/10.1086/508090 .
+Meuwissen, M.P.M., Feindt, P.H., Spiegel, A., Termeer, C.J.A.M., Mathijs, E., Mey, Y.D., 
+Finger, R., Balmann, A., Wauters, E., Urquhart, J., Vigani, M., Zawali ˘nska, K., 
+Herrera, H., Nicholas-Davies, P., Hansson, H., Paas, W., Slijper, T., Coopmans, I., 
+Vroege, W., Ciechomska, A., Accatino, F., Kopainsky, B., Poortvliet, P.M., Candel, J. 
+J.L., Maye, D., Severini, S., Senni, S., Soriano, B., Lagerkvist, C.-J., Peneva, M., 
+Gavrilescu, C., Reidsma, P., 2019. A framework to assess the resilience of farming 
+systems. Agric. Syst. 176, 102656. https://doi.org/10.1016/j.agsy.2019.102656 .
+Meynard, J.-M., Jeuffroy, M.-H., Le Bail, M., Lefˇevre, A., Magrini, M.-B., Michon, C., 
+2017. Designing coupled innovations for the sustainability transition of agrifood 
+systems. Agric. Syst. 157, 330–339. https://doi.org/10.1016/j.agsy.2016.08.002 .
+Moreira, T., Groot Koerkamp, P., Janssen, A., Stomph, T.-J., van der Werf, W., 2023. 
+Breaking the mould: developing innovative crop protection strategies with reflexive 
+interactive design. Agric. Syst. 210, 103727. https://doi.org/10.1016/j. 
+agsy.2023.103727 .
+Mouffe, C., 1999. Deliberative democracy or agonistic pluralism? Soc. Res. 66 (3), 
+745–758.
+Murgue, C., Therond, O., Leenhardt, D., 2015. Toward integrated water and agricultural 
+land management: participatory design of agricultural landscapes. Land Use Policy 
+45, 52–63. https://doi.org/10.1016/j.landusepol.2015.01.011 .
+Nicenboim, I., Lindley, J., Zaga, C., Berger, A., Forlano, L., 2024. More-Than-Human 
+Design in Practice. DRS2024: Boston, Boston, USA. https://doi.org/10.21606/ 
+drs.2024.114 .
+Par˘e, G., Kitsiou, S., 2017. Chapter 9 methods for literature reviews. In: Handbook of 
+eHealth Evaluation: An Evidence-Based Approach. University of Victoria .
+Pelzer, E., Bonifazi, M., Souli ˘e, M., Guichard, L., Quinio, M., Ballot, R., Jeuffroy, M.-H., 
+2020. Participatory design of agronomic scenarios for the reintroduction of legumes 
+into a French territory. Agric. Syst. 184, 102893. https://doi.org/10.1016/j. 
+agsy.2020.102893 .T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+12 
+Pigford, A.A.E., Hickey, G.M., Klerkx, L., 2018. Beyond agricultural innovation systems? 
+Exploring an agricultural innovation ecosystems approach for niche design and 
+development in sustainability transitions. Agric. Syst. 164, 116–121. https://doi. 
+org/10.1016/j.agsy.2018.04.007 .
+Pineda, A.F.V., Elle, M., Iuel-Jensen, J., 2024. The role of design in sustainable 
+transitions: The case of mobility in Greater Copenhagen. Environmental Innovation 
+and Societal Transitions 50, 100807 .
+Plummer, P., Andersson, J., Lennerfors, T.T., 2024. Foraging for development: an 
+analysis of the Swedish wild berry innovation system. Agric. Syst. 216. https://doi. 
+org/10.1016/j.agsy.2024.103901 .
+Poikolainen Ros˘en, A., Normark, M., Wiberg, M., 2022. Towards more-than-human- 
+centred design: learning from gardening. Int. J. Des. 16 (3), 21–36. https://doi.org/ 
+10.57698/v16i3.02 .
+Prost, L., 2021. Revitalizing agricultural sciences with design sciences. Agric. Syst. 193, 
+103225. https://doi.org/10.1016/j.agsy.2021.103225 .
+Prost, L., Reau, R., Paravano, L., Cerf, M., Jeuffroy, M.H., 2018. Designing agricultural 
+systems from invention to implementation: the contribution of agronomy. Lessons 
+from a case study. Agric. Syst. 164, 122–132. https://doi.org/10.1016/j. 
+agsy.2018.04.009 .
+Pschetz, L., Koppel, K., Bastian, M., 2024. Design for temporal cohabitation. In: Extended 
+Abstracts of the CHI Conference on Human Factors in Computing Systems, pp. 1–8. 
+https://doi.org/10.1145/3613905.3644068 .
+Puente-Rodríguez, D., Bos, A.P., Groot Koerkamp, P.W.G., 2019. Rethinking livestock 
+production systems on the Gal˘apagos Islands: organizing knowledge-practice 
+interfaces through reflexive interactive design. Environ. Sci. Pol. 101, 166–174. 
+https://doi.org/10.1016/j.envsci.2019.08.019 .
+Puig de la Bellacasa, M., 2015. Making time for soil: technoscientific futurity and the 
+pace of care. Soc. Stud. Sci. 45 (5), 691–716. https://doi.org/10.1177/ 
+0306312715599851 .
+Pylianidis, C., Osinga, S., Athanasiadis, I.N., 2021. Introducing digital twins to 
+agriculture. Comput. Electron. Agric. 184.
+Quinio, M., Jeuffroy, M.H., Guichard, L., Salazar, P., D˘etienne, F., 2022. Analyzing co- 
+design of agroecology-oriented cropping systems: lessons to build design-support 
+tools. Agron. Sustain. Dev. 42 (4), 72. https://doi.org/10.1007/s13593-022-00772- 
+w.
+Reckling, M., Bergkvist, G., Watson, C.A., Stoddard, F.L., Bachinger, J., 2020. Re- 
+designing organic grain legume cropping systems using systems agronomy. Eur. J. 
+Agron. 112, 125951. https://doi.org/10.1016/j.eja.2019.125951 .
+Rehman, A., Farooq, M., Lee, D.J., Siddique, K.H., 2022. Sustainable agricultural 
+practices for food security and ecosystem services. Environ. Sci. Pollut. Res. 29 (56), 
+84076 –84095. https://doi.org/10.1007/s11356-022-23635-z .
+Ressiore, A., de la Rosa, G., 2024. The Council of Care. Geos Project. https://www.geos-p 
+roject.org/projects/the-council-of-care .
+Robertson, T., Simonsen, J., 2012. Challenges and opportunities in contemporary 
+participatory design. Des. Issues 28 (3), 3–9. https://doi.org/10.1162/DESI_a_ 
+00157 .
+Rockstr om, J., Edenhofer, O., Gaertner, J., DeClerck, F., 2020. Planet-proofing the global 
+food system. Nat. Food 1 (1), 3–5. https://doi.org/10.1038/s43016-019-0010-4 .
+Romera, A.J., Bos, A.P., Neal, M., Eastwood, C.R., Chapman, D., McWilliam, W., 
+Royds, D., O’Connor, C., Brookes, R., Connolly, J., Hall, P., Clinton, P.W., 2020. 
+Designing future dairy systems for New Zealand using reflexive interactive design. 
+Agric. Syst. 181, 102818. https://doi.org/10.1016/j.agsy.2020.102818 .
+Rose, D.C., Sutherland, W.J., Parker, C., Lobley, M., Winter, M., Morris, C., Twining, S., 
+Ffoulkes, C., Amano, T., Dicks, L.V., 2016. Decision support tools for agriculture: 
+towards effective design and delivery. Agric. Syst. 149, 165–174. https://doi.org/ 
+10.1016/j.agsy.2016.09.009 .
+Rosin, C.J., Legun, K.A., Campbell, H., Sautier, M., 2017. From compliance to co- 
+production: emergent forms of agency in sustainable wine production in New 
+Zealand. Environ. Plan. A Econ. Space 49 (12), 2780 –2799. https://doi.org/ 
+10.1177/0308518X17733747 .
+Rossi, A., Bui, S., Marsden, T., 2019. Redefining power relations in agrifood systems. 
+J. Rural. Stud. 68, 147–158. https://doi.org/10.1016/j.jrurstud.2019.01.002 .
+Roux-Rosier, A., Azambuja, R., Islam, G., 2018. Alternative visions: permaculture as 
+imaginaries of the Anthropocene. Organization 25 (4), 550–572. https://doi.org/ 
+10.1177/1350508418778647 .
+Runhaar, H., 2017. Governing the transformation towards ‘nature-inclusive ’ agriculture: 
+insights from the Netherlands. Int. J. Agric. Sustain. 15 (4), 340–349. https://doi. 
+org/10.1080/14735903.2017.1312096 .
+Ryan, M., 2023. The social and ethical impacts of artificial intelligence in agriculture: 
+mapping the agricultural AI literature. AI & Soc. 38 (6), 2473 –2485. https://doi.org/ 
+10.1007/s00146-021-01377-9 .
+Salembier, C., Segrestin, B., Berthet, E., Weil, B., Meynard, J.-M., 2018. Genealogy of 
+design reasoning in agronomy: lessons for supporting the design of agricultural 
+systems. Agric. Syst. 164, 277–290. https://doi.org/10.1016/j.agsy.2018.05.005 .
+Salembier, C., Segrestin, B., Sinoir, N., Templier, J., Weil, B., Meynard, J.-M., 2020. 
+Design of equipment for agroecology: coupled innovation processes led by farmer- 
+designers. Agric. Syst. 183, 102856. https://doi.org/10.1016/j.agsy.2020.102856 .
+Schreefel, L., van Zanten, H.H.E., Groot, J.C.J., Timler, C.J., Zwetsloot, M.J., Schrijver, A. 
+P., Creamer, R.E., Schulte, R.P.O., de Boer, I.J.M., 2022. Tailor-made solutions for 
+regenerative agriculture in the Netherlands. Agric. Syst. 203, 103518. https://doi. 
+org/10.1016/j.agsy.2022.103518 .
+Schut, M., Klerkx, L., Rodenburg, J., Kayeke, J., Hinnou, L.C., Raboanarielina, C.M., 
+Adegbola, P.Y., van Ast, A., Bastiaans, L., 2015. RAAIS: rapid appraisal of 
+agricultural innovation systems (Part I). A diagnostic tool for integrated analysis of 
+complex problems and innovation capacity. Agric. Syst. 132, 1–11. https://doi.org/ 
+10.1016/j.agsy.2014.08.009 .Sella, I., Hadary, T., Rella, A.J., Riegl, B., Swack, D., Perkol-Finkel, S., 2022. Design, 
+production, and validation of the biological and structural performance of an 
+ecologically engineered concrete block mattress: a nature-inclusive design for 
+shoreline and offshore construction. Integr. Environ. Assess. Manag. 18 (1), 
+148–162. https://doi.org/10.1002/ieam.4523 .
+Simon, H.A., 1996. The Sciences of the Artificial, 3rd ed. The MIT Press, Cambridge, MA, 
+p. 231.
+Søraa, R.A., Vik, J., 2021. Boundaryless boundary-objects: digital fencing of the 
+CyborGoat in rural Norway. J. Rural. Stud. 87, 23–31. https://doi.org/10.1016/j. 
+jrurstud.2021.08.015 .
+Steinke, J., Ortiz-Crespo, B., van Etten, J., Müller, A., 2022. Participatory design of 
+digital innovation in agricultural research-for-development: insights from practice. 
+Agric. Syst. 195, 103313. https://doi.org/10.1016/j.agsy.2021.103313 .
+Sundberg, J., 2014. Decolonizing posthumanist geographies. Cult. Geogr. 21 (1), 33–47. 
+https://doi.org/10.1177/1474474013486067 .
+Tittonell, P., El Mujtar, V., Felix, G., Kebede, Y., Laborda, L., Luj˘an Soto, R., de Vente, J., 
+2022. Regenerative agriculture —agroecology without politics? Front. Sustain. Food 
+Syst. 6. https://doi.org/10.3389/fsufs.2022.844261 .
+Tomitsch, M., Fredericks, J., Vo, D., Frawley, J., Foth, M., 2021. Non-human personas: 
+including nature in the participatory design of smart cities. Interact. Design 
+Architect. 50 (50), 102–130. https://doi.org/10.55612/s-5002-050-007 .
+Tribaldos, T., Kortetm aki, T., 2022. Just transition principles and criteria for food 
+systems and beyond. Environ. Innov. Soc. Trans. 43, 244–256. https://doi.org/ 
+10.1016/j.eist.2022.04.005 .
+Tsatsou, A., Frantzeskaki, N., Malamis, S., 2023. Nature-based solutions for circular 
+urban water systems: A scoping literature review and a proposal for urban design 
+and planning. Journal of Cleaner Production 394, 136325 .
+Tschersich, J., Kok, K.P.W., 2022. Deepening democracy for the governance toward just 
+transitions in agri-food systems. Environ. Innov. Soc. Trans. 43, 358–374. https:// 
+doi.org/10.1016/j.eist.2022.04.012 .
+Turnhout, E., 2024. A better knowledge is possible: transforming environmental science 
+for justice and pluralism. Environ. Sci. Pol. 155, 103729. https://doi.org/10.1016/j. 
+envsci.2024.103729 .
+Turnhout, E., Neves, K., de Lijster, E., 2014. ‘Measurementality ’ in biodiversity 
+governance: knowledge, transparency, and the intergovernmental science-policy 
+platform on biodiversity and ecosystem services (IPBES). Environ. Plan. A 46 (3), 
+581–597. https://doi.org/10.1068/a4629 .
+Turnhout, E., Metze, T., Wyborn, C., Klenk, N., Louder, E., 2020. The politics of co- 
+production: participation, power, and transformation. Curr. Opin. Environ. Sustain. 
+42, 15–21. https://doi.org/10.1016/j.cosust.2019.11.009 .
+van Bommel, S., Boonman-Berson, S., 2022. Transforming convivial conservation: 
+towards more-than-human participation in research. Conserv. Soc. 20 (2), 136. 
+https://doi.org/10.4103/cs.cs_29_21 .
+Van der Velden, D., Klerkx, L., Dessein, J., Debruyne, L., 2024. Cyborg farmers: 
+embodied understandings of precision agriculture. Sociol. Rural. 64, 3–21. https:// 
+doi.org/10.1111/soru.12456 .
+van Veen, A., Helvoirt, B., 2024. De-Mooo-cracy! A Performative Experiment with a Cow- 
+Human Citizen ’s Assembly: Evaluation Report. https://doi.org/10.13140/ 
+RG.2.2.35140.44168 .
+van Weeghel, H.J.E., Bos, A.P., Spoelstra, S.F., Groot Koerkamp, P.W.G., 2016. Involving 
+the animal as a contributor in design to overcome animal welfare related trade-offs: 
+the dust bath unit as an example. Biosyst. Eng. 145, 76–92. https://doi.org/10.1016/ 
+j.biosystemseng.2016.02.015 .
+van Weeghel, H.J.E., Bos, A.P., Jansen, M.H., Ursinus, W.W., Groot Koerkamp, P.W.G., 
+2021. Good animal welfare by design: an approach to incorporate animal capacities 
+in engineering design. Agric. Syst. 191, 103154. https://doi.org/10.1016/j. 
+agsy.2021.103154 .
+Verdouw, C., Tekinerdogan, B., Beulens, A., Wolfert, S., 2021. Digital twins in smart 
+farming. Agric. Syst. 189. https://doi.org/10.1016/j.agsy.2020.103046 .
+Vermunt, D.A., Negro, S.O., Van Laerhoven, F.S.J., Verweij, P.A., Hekkert, M.P., 2020. 
+Sustainability transitions in the agri-food sector: how ecology affects transition 
+dynamics. Environ. Innov. Soc. Trans. 36, 236–249. https://doi.org/10.1016/j. 
+eist.2020.06.003 .
+Vermunt, D.A., Wojtynia, N., Hekkert, M.P., Van Dijk, J., Verburg, R., Verweij, P.A., 
+Wassen, M., Runhaar, H., 2022. Five mechanisms blocking the transition towards 
+“nature-inclusive ” agriculture: a systemic analysis of Dutch dairy farming. Agric. 
+Syst. 195, 103280. https://doi.org/10.1016/j.agsy.2021.103280 .
+Walthall, B., Vicente-Vicente, J.L., Friedrich, J., Piorr, A., L˘opez-García, D., 2024. 
+Complementing or co-opting? Applying an integrative framework to assess the 
+transformative capacity of approaches that make use of the term agroecology. 
+Environ. Sci. Pol. 156, 103748. https://doi.org/10.1016/j.envsci.2024.103748 .
+Watts, V., 2016. Smudge this: assimilation, state-favoured communities and the denial of 
+indigenous spiritual lives. Int. J. Child Youth Family Stud. 7 (1). https://doi.org/ 
+10.18357/ijcyfs.71201615676 . Article 1. 
+West, S., Haider, L.J., Stålhammar, S., Woroniecki, S., 2020. A relational turn for 
+sustainability science? Relational thinking, leverage points and transformations. 
+Ecosystems and People 16, 304–325.
+Wolfert, S., Verdouw, C., van Wassenaer, L., Dolfsma, W., Klerkx, L., 2023. Digital 
+innovation ecosystems in Agri-food: design principles and organizational framework. 
+Agric. Syst. 204, 103558. https://doi.org/10.1016/j.agsy.2022.103558 .
+Yaneva, A., 2009. Making the social hold: towards an actor-network theory of design. 
+Des. Cult. 1 (3), 273–288. https://doi.org/10.2752/174967809X12556950208826 .
+Youn, H., Baek, J.S., 2024. Assemblage-based stakeholder analysis in design: a 
+conceptual framework through the lenses of post–anthropocentrism. CoDesign 1–22. 
+https://doi.org/10.1080/15710882.2024.2358966 .T. Moreira et al.                                                                                                                                                                                                                                Agricultural  Systems  231 (2026)  104512  
+13 

@@ -1,0 +1,770 @@
+Article
+Rev Bras Cienc Solo 2016;40:e01504981 DOI: 10.1590/18069657rbcs20150498* Corresponding author:  
+E-mail: grasielarodrigues@gmail.com
+Received:  December 2, 2015
+Approved:  June 22, 2016
+How to cite:  Medeiros GOR, 
+Giarolla A, Sampaio G, Marinho 
+MA. Diagnosis of the Accelerated Soil Erosion in São Paulo State (Brazil) by the Soil Lifetime Index Methodology. Rev Bras Cienc Solo. 2016;40:e0150498.
+Copyright: This is an open-access 
+article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided that the original author and source are credited.Diagnosis of the Accelerated Soil Erosion in São Paulo State (Brazil) by the Soil Lifetime Index Methodology
+Grasiela de Oliveira Rodrigues Medeiros(1)*, Angelica Giarolla(2), Gilvan Sampaio(3) and 
+Mara de Andrade Marinho(4)
+(1) Instituto Nacional de Pesquisas Espaciais, Programa de Pós-graduação em Ciência do Sistema T errestre, 
+Centro de Ciência do Sistema T errestre, São José dos Campos, São Paulo, Brasil.
+ (2) Instituto Nacional de Pesquisas Espaciais, Centro de Ciência do Sistema T errestre, São José dos Campos, 
+São Paulo, Brasil.
+(3) Instituto Nacional de Pesquisas Espaciais, Centro de Ciência do Sistema T errestre, Cachoeira Paulista, 
+São Paulo, Brasil.
+(4) Universidade Estadual de Campinas, Faculdade de Engenharia Agrícola, Campinas, São Paulo, Brasil.
+ABSTRACT: The soil is a key component of the Earth System, and is currently under high 
+pressure, due to the increasing global demands for food, energy and fiber. Moreover, the management of agricultural systems is often inadequate and ignores the agricultural suitability of lands, and particularly the vulnerability of soils. This paper demonstrates the application of the concept of the Soil Lifetime Index (SLtI) for the entire state of São Paulo, at a spatial resolution of 30 m. The SLtI methodology represents a tolerance criterion and a diagnostic tool to assess the level of soil degradation by water erosion, based on estimated soil loss rates and on an average soil renewal rate. T wo approaches were applied to determine: i) the remaining time (years) until the solum (horizons A + B) is removed by water erosion to a critical depth of 1.0 m (original approach); ii) the remaining time (years) until the top 0.25 m of the nutrient-rich soil surface is removed by water erosion (new approach). Several areas in the state have reached a very critical soil depletion level, due to the predominance of consolidated agricultural activities, mainly of sugarcane and livestock production (as in the mesoregions of Ribeirão Preto, Bauru, Assis, Itapetininga and Araraquara). Only 35 % of the study area is in conserved state; 65 % of the study area is in the state of resource degradation, requiring intervention to diminish soil loss rates - and of this total, SLtI is zero in 1 and 0.25 % of the study area, respectively, for the original (critical depth of 1 m) and the new approach (0.25 m). It was estimated that at the current soil loss rates, within 100 years, 20,000 km
+2 of the total area of the state of 
+São Paulo (248,209 km2) will have reached the critical depth of 1.0 m, and the top 0.25 m 
+of the soil surface from an area of approximately 76,000 km2 will have been completely 
+removed if the current pace of resource exploitation is maintained.
+Keywords: soil erosion modeling, soil loss rates, soil loss tolerance, USLE, GIS.Division – Soil Use and Management   |  Commission – Soil and Water Management and Conservation
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+2
+Rev Bras Cienc Solo 2016;40:e0150498INTRODUCTION
+Economic development based on farm land exploration over the past decades has 
+taken a toll with severe consequences for the planet (Camargo et al., 2010; Bellacasa, 
+2015). Furthermore, projections of demands for food, fiber and energy indicate that the 
+pressures on natural resources, particularly on soil, will be intensified beyond the resilience 
+capacity of the planet, which could lead humanity into an even deeper ecological crisis 
+(Rockström et al., 2009; Reid et al., 2010). One billion hectares of land in the world 
+are already degraded and the ecosystem functions of 70 % of this total are severely 
+compromised (Lal, 2003). 
+Thus, the intensive agricultural land use without taking the necessary precautions of 
+management and conservation was cited as the main cause of the accelerated erosion 
+which in turn creates the enormous challenge of taking into account preservation, 
+economic growth and the sustainable use of ecosystems (Bertol et al., 2014; Bouma, 
+2014). In addition to soil and water degradation, erosion processes cause serious economic 
+and environmental damage (Manzatto et al., 2002; T elles, 2010). Data published by the soil conservation section of the Instituto Agronômico de Campinas/Agência Paulista de 
+Tecnologia dos Agronegócios in the 1980s indicated an annual soil loss of 130 million tons 
+in the state of São Paulo, representing about 25 % of the soil loss throughout Brazil (Bertoni 
+and Lombardi Neto, 2012). These soil loss data were updated by Medeiros et al. (2016) and 
+the authors reported that the annual loss in the state reaches about 600 million Mg yr-1. 
+Moreover, it is estimated that the erosion tolerance limits are exceeded in 80 % of the cultivated areas (CDA, 2014).
+A factor further complicating the control of the erosion process is that, in spite of different 
+degradation levels in the agricultural areas, there are often no immediate impacts on crop yield, since some aspects of soil degradation by erosion can be compensated by management, e.g., replacement of minerals by fertilizers (T elles, 2010); for some time, 
+agricultural management can mask the decrease in soil quality. Therefore, associating 
+soil degradation with productivity loss is a complex and sometimes impossible task 
+(Stocking, 2003). For different regions of the world, studies addressed the establishment 
+of a mean value of crop production loss associated with erosion (Oyedele and Aina, 1998; 
+Schumacher et al., 1999; De la Rosa et al., 2000; Stine and Weil, 2002; Wieber, 2003; 
+Bakker et al., 2004; T elles, 2010; Duan et al., 2011; Zhao et al., 2012). For example, Bakker 
+et al. (2004) stated that a loss of 0.10 m of the soil surface in agricultural ecosystems 
+would cause a mean loss in crop productivity of 4 %. In Brazil, for several reasons, but 
+mainly due to the complexity of tropical agricultural systems (Sparovek et al., 1993; 
+Pugliesi et al., 2011), little evidence was found for this relationship. For an Argissolo at an experimental site in the region of Santa Maria/RS, Albuquerque et al. (1996) found a direct relationship between the horizon thickness and maize grain yield, i.e., a decrease 
+of 43 kg ha
+-1 for each 0.01 m of lost surface layer.
+Thus, the soil loss tolerance concept (T) as was defined as “the maximum annual soil 
+erosion rate that still allows a high level of crop productivity” (Wischmeier and Smith, 1978) 
+and it has been used to interpret soil loss rates. For the state of São Paulo, T assumes 
+values from 4.5 to 13.4 Mg ha-1 yr-1 and 9.6 to 15 Mg ha-1 yr-1 for soils with textural B 
+and B Latosolic, respectively (Lombardi Neto and Bertoni, 1975). For shallow soils are considered tolerable soil losses average 2 to 4 Mg ha
+-1 yr-1 (Bertoni and Lombardi Neto, 
+2012). Generally, for soil deep, permeable and well drained, soil loss tolerance considers 
+that an average loss of up to 12.5 Mg ha-1 yr-1 is tolerable.
+The Soil Lifetime Index - SLTI (Weill and Sparovek, 2008), developed from studies of 
+Stamey and Smith (1964), Skidmore (1982) and Sparovek and Jong van Lier (1997), and from the operational sustainability concept proposed by Hansen (1996) and Kruseman et al. (1996), is in turn an operational criterion developed from the concept of soil loss 
+tolerance and described as a time-related function.
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+3
+Rev Bras Cienc Solo 2016;40:e0150498At the conceptual level, the SLTI is a tool with high quantitative diagnostic potential in 
+relation to the current approaches of Environmental Sciences. Many scientists engaged in 
+predicting the needs and future of Soil Science believe that addressing soil-related issues 
+in a conventional way, focusing research on agricultural goals and a high production 
+capacity, has become inappropriate in view of the current problems of the planet, 
+particularly of the soil (McDonagh, 2014; Bellacasa, 2015). The focus of traditional 
+approaches has become unsatisfactory as the environmental context and needs have 
+changed. Significant climatic fluctuations have occurred on the planet (Parmesan et al., 
+2013), which may be exacerbated in the near future by the increase in the world population 
+and the depletion of natural resources to meet the demands for food, food and energy. 
+Considering this environmental framework and forecasts for the future of the planet 
+(Bouma, 2014), the SLTI can be an essential diagnostic tool underlying measures of soil 
+protection and erosion control, to ensure a habitable planet and supplies for the current 
+and future generations.
+The original approach of SLTI is based on the “remaining time” in years until a previously 
+defined situation of permanent impact is reached. This condition occurs when soil 
+degradation by erosion reduces the soil thickness until a depth considered critical is 
+reached. Thus, this methodology can be understood as a spatially explicit measure with 
+diagnostic potential at the soil sustainability level. The studies of Weill and Sparovek 
+(2008) and Rocha (2013) are examples of the application of the original SLTI concept on 
+the hydrographic and regional basin-scale, respectively, where results were obtained for 
+the planning of agricultural use and management in the short, medium and long-term for the study sites.
+Describing a soil as depleted only when the profile reaches a certain depth, however, may 
+lead to misinterpretations. Long before a soil is reduced to a depth considered critical, the area may be degraded and abandoned mainly due to the partial or total loss of its 
+surface horizons, which is the portion rich in soil organic matter. This soil surface layer is 
+the primary source of nutrients, regulates hydrological processes, is sensitive to changes 
+by soil management (Gregorich et al., 1994) and its reduction is directly related to an increase in susceptibility to erosion.
+The application of the SLTI methodology to calculate the remaining time until the 
+occurrence of topsoil loss is a complementary indicator to the original SLTI approach and 
+appropriate from the point of view of establishing planning horizons for the promotion of 
+soil conservation and sustainability of agricultural productivity. This new approach focuses 
+on highlighting the most critical situations of very fast loss of this nutrient-rich topsoil layer, associating the uses and translating the results into information that can support public policies to stimulate a shift towards more conservation-oriented managements. 
+Therefore, the two approaches are complementary for including different information 
+for a sustainable planning.
+Based on the foregoing, the purpose of this study was to calculate the SLTI for the state 
+of São Paulo by: i) the original approach, which calculates the remaining time until the soil reaches a critical depth, determined as 1 m in this study, and ii) a novel approach 
+that indicates the remaining time until the surface layer of 0.25 m is completely removed 
+by erosion.
+MATERIALS AND METHODS
+Study area
+This study addressed the whole area of the state of São Paulo (Figure 1) (between the 
+parallels 19° 50’ S and 24° 30’ S and the meridians 44° W and 53° 30’ W), with an area of 248,209.4 km
+2. From the standpoint of soil conservation, the heavy soil exploitation 
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+4
+Rev Bras Cienc Solo 2016;40:e0150498by intense agricultural use has damaged many areas in the state (Medeiros et al., 2016). 
+From the biophysical point of view, the state is part of the regional complex Southeast 
+which comprises a wide variety of soils, for being located in the transition region between 
+the semi-arid (“Drought Polygon”, in the North of Minas Gerais) and humid climate 
+(coastline and mountains, including the Serra do Mar and Serra da Mantiqueira), as well 
+as an extensive sedimentary region in the highlands to the West of the mountainous 
+areas (Lepsch, 2010).
+The climate of the macroregions of São José do Rio Preto, Araçatuba, Presidente 
+Prudente, and part of Ribeirão Preto in the southern part of the state as predominantly 
+tropical with dry winters (Aw). In the South-central part with the mesoregions of 
+Assis, Bauru, Itapetininga, Marília and part of the southern coastline and Macro 
+metropolitan region of São Paulo, the climate is mostly subtropical humid oceanic, 
+with no dry season and hot summers (Cfa); in the Northeast of the state, in the 
+mesoregions of Araraquara, Ribeirão Preto, Piracicaba, and Campinas, the dominant 
+climate is humid subtropical, with dry winters and hot summers (Cwa); in the eastern 
+region with the mesoregions of Vale do Paraíba Paulista, Metropolitan and Macro 
+Metropolitan region of São Paulo and part of the mesoregion of Itapetininga, the 
+climate is mostly subtropical humid oceanic, with no dry season and with temperate 
+summers (Cfb), and the climate along the coast is tropical with no dry season (Af) 
+(Alvares et al., 2013).
+Latossolos/Oxisols and Argissolos/Ultisols are the predominant soil types and are distributed 
+across plateaus and the peripheral depression. The Latossolos /Oxisols are pedogenetically 
+very well-developed, deep and unsaturated soils, whereas the Argissolos/Ultisols are 
+also well developed, but their main distinguishing property is the textural gradient 
+in the subsurface due to clay accumulation in the B horizon, which makes these soils 
+erosion-prone. The mountainous region consists mostly of Cambissolos/Inceptisols 
+and litholic Neossolos/Entisols and along the coast Gleysolos/Aquoll, Histosolos and 
+Fluvisolos/Fluvents (Oliveira et al., 1999).
+Cartographic material, basic data and programs
+By the Geographic Information System (GIS) ArcGIS version 10.1 (ESRI, 2014), digital 
+data were used as entries in the database, to perform the analysis and present the 
+45°S 30°S 15°S 0° 15°N
+20°0’S 22°30’S 25°0’ SN
+0 2000 4000 km75°W 60°W 45°W 52°30’W5 0°0’W4 7°30’W4 5°0’W
+N
+Minas Gerais
+CAMPINAS
+VALE DO PARAÍBA PAULISTAPIRACICABA BAURUARARAQUARARIBEIRAO PRETO SAO JOSE DO RIO PRETO
+ARACATUB A
+MARILI A
+ASSISPRESIDENTE PRUDENTEMato Grosso
+do Sul
+Paraná
+ITAPETININGA
+LITORAL SUL PAULISTAMACRO METROPOLITANA PAULISTA
+METROPOLITANA DE SAO PAUL O
+0 100 200 kmAtlantic
+OceanLegend
+State of São Paulo
+Municipal boundaries
+State boundaries
+Mesoregion boundariesAtlantic
+OceanPacific
+OceanSouth America
+Figure 1.  Localization of the study area, state of São Paulo (Brazil).
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+5
+Rev Bras Cienc Solo 2016;40:e0150498results, consisting of: 1) vector map of the soil use and cover in 2005, at a scale of 
+1: 100,000 (São Paulo, 2013) (Figure 2a); 2) soil density map with (spatial resolution 
+of 1 km) of the International Soil Reference and Information Center (ISRIC, 2014) 
+(Figure 2b); and 3) data of solum (A and B horizons) depth of 387 mapping units 
+described by Oliveira (1999), representing the soil types of the state of São Paulo 
+(Figure 2c). These specific soil depth data were spatialized with software ArcGIS and 
+interpolated by the cokriging method using altitude as a secondary variable, resulting 
+in a raster with a regular 30 m grid.
+Methodology of the Soil Lifetime Index (SLtI)
+This study considered the estimated soil loss rates (Mg ha-1 yr-1) for the state of São 
+Paulo at medium resolution (30 m), previously obtained by Medeiros et al. (2016) 
+(Figure 3). The results were obtained by the Universal Soil Loss Equation (USLE) 
+(Wischmeier and Smith, 1965; 1978). The SLtI is applied in two methodological 
+steps: the first, “Characterization of planning situations” addresses the planning of 
+situations based on the ratio between the estimated soil loss rates and the assumed 
+soil renewal rate; the second, “Soil Lifetime Index” calculates the SLtI according to 
+the original approach described by Weill (1999) and Weill and Sparovek (2008), and 
+proposes the calculation for a novel approach that estimates the remaining time until 
+a topsoil layer of 0.25 m is eroded.
+Characterization of planning situations
+Initially, the soil loss rates (A, in Mg ha-1 yr-1) estimated by Medeiros et al. (2016) were 
+converted into thickness of the lost soil layer (h, in mm yr-1). This conversion was calculated 
+from the bulk density (Bd, Mg m-3) (Figure 2b), according to equation 1.
+h =0.1 ✕ A
+Bd             Eq. 1
+where h is the soil loss rate (mm yr-1), A is the soil loss rate (Mg ha-1 yr-1), and Bd is the 
+soil density (Mg m-3).
+Thereafter, the net soil loss rate (hL) was calculated as the difference between the soil 
+loss rate (h) and the assumed soil renewal rate (r) of 0.2 mm yr-1 (Skidmore, 1982), 
+as shown in equation 2.
+hL = h – r             Eq. 2
+where hL is the net soil loss rate (mm yr-1), h is the soil loss rate (mm yr-1), and r is the 
+assumed soil renewal rate of 0.2 mm yr-1.
+Based on the relationship between h and r, two planning situations were identified: 
+i) Resource Conservation - occurs in places where r > h, indicating that there is no 
+soil depletion; ii) Resource Degradation - occurs in places where h > r, indicating 
+that the soil is being degraded by erosion (Weill and Sparovek, 2008). This result 
+was related with soil depth and land-use data by GIS (ESRI, 2014) algebra maps, 
+generating analyses for each of the categories indicated in the mapping of the 
+planning situations.
+Soil Lifetime Index (SLtI)
+For the areas in the situation of Resource Degradation, the SLtI was calculated, 
+indicating the remaining time (years) until the soil will reach a predefined critical 
+depth (Dcritical) according to the estimated erosion rates. The critical depth can be 
+interpreted as a threshold, which means that, once reached, the resource is irreversibly 
+degraded. In this study, we determined a critical depth ( Dcritical) of 1 m, in other words, 
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+6
+Rev Bras Cienc Solo 2016;40:e0150498the results show the remaining time in years until the soil is degraded to a thickness 
+of only 1 m.
+However, when an area is in the situation of resource degradation, soil resource is being explored 
+beyond the tolerance limits and conservation should be adopted. Therefore, to consider a 
+condition as critical only when the critical depth is reached is a mistaken interpretation from 
+the point of view of conservation and should be considered with restrictions. The SLtI map 
+should be interpreted as an indication of the areas requiring the most rapid conservation 
+interventions, considering the time until the state of irreparable degradation will be reached.
+(a)
+(b)
+(c)Legen d
+Sugarcane
+Restingas
+Reforestatio n
+Permanent agricultural crop
+Pasture
+Mining zones
+Riparian forest
+Forest
+Mangroves
+Industrial
+Annual agricultural crop
+Wate r
+Cerrado
+Humid areas
+Urban areas
+Airports
+Port areas
+Legen d
+Density (Mg m-3)
+Max.: 1.61 6
+Min.: 0.84
+Legen d
+Solum depth (A+B horizons)
+(mm)
+0 1,200
+1,4001,700
+1,800
+2,0002,2002,500
+3,400
+4,050150200350
+400
+480570950
+1,000
+1,170
+Sampling sites
+Figure 2. Data used: (a) Land use map of 2005; (b) Soil density map and (c) Soil depth map 
+obtained by interpolation of data of Oliveira (1999).
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+7
+Rev Bras Cienc Solo 2016;40:e0150498When calculating the SLtI, the solum (sum of thicknesses of the horizons A and B) depth is 
+considered as “stock”. Solum depth data of the main representative soil profiles of taxonomic 
+units of the state of São Paulo were used, as described by Oliveira (1999), indicated here as 
+Dprofile (depth of solum profile). Thus, the net solum depth (Dnet) (Equation 3) is the difference 
+between Dprofile and Dcritical (1 m). Thus, in areas where Dprofile is lower than Dcritical, the SLtI is 
+zero (SLtIzero), which means that the state of permanent degradation is already reached.
+Dnet = Dperfil – Dcritical            Eq. 3
+where Dnet is the net solum  depth (mm), Dprofile is the solum  depth (mm), and Dcritical is the 
+critical depth, in this case 1 m (1000 mm).
+Then, if hL expresses the estimated net loss of soil erosion depth (mm yr-1), SLtI is obtained 
+from the relation between the net solum  depth, Dnet, and hL, as shown in equation 4.
+SLti =Pnet
+hL             Eq. 4
+where SLtI is the Soil Lifetime Index (years), Pnet is the net solum depth (mm), and hL is 
+the net soil loss rate (mm yr-1).
+Complementing the original approach of SLtI, this study presents a new focus for 
+SLtI, i.e., by calculating the remaining time (years) until the upper 0.25 m of the soil 
+surface are completely lost by erosion. This approach is important to estimate the 
+time until the layer of the most fertile soil, rich in organic matter and nutrients, will 
+be lost if no conservation measures are adopted. This consideration is valid since 
+the soils, long before being reduced to the critical depth, are already permanently 
+degraded. It is however worth emphasizing that the spatial variability in depth of the soils of São Paulo was taken into account, because a loss of 0.25 m from the 
+surface horizon from one soil can represent a major part, while for another deeper 
+soil the loss is less crucial, but nevertheless relevant, for being the surface horizon. 
+For this reason, areas with a soil depth of less than 0.25 m were excluded from 
+the analyses.
+The SLtI is the relationship between the thickness of the surface layer L (0.25 m), and 
+the net soil loss rate (hL), as shown in equation 5.
+52°W 50°W 48°W 46°W 44°W24°S22°S20°S
+N
+km200 100 50 0Geographic Coordinate System
+Datum SIRGAS 200 0Mesoregions of the state 
+of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assi s
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+9 Marília
+10 Metrop. São Paul o
+11 Piracicaba
+12 Presidente Prudente13 Ribeirão Pret o
+14 São José do Rio Preto15 Vale do Paraíba PaulistaMinas Gerais
+Mato Grosso
+do Sul
+ParanáAtlantic Ocea nLegend
+Soil loss estimate
+(Mg ha-1yr-1)
+<1 ; 28 %
+1 - 5 ; 15 %
+5 - 10 ; 12 %
+10 - 25 ; 14 %
+25 - 50 ; 17 %
+50 - 100 ; 7 %
+>100 ; 6 %
+No data129
+314
+113
+2
+5
+11 4
+6
+7815
+10
+Figure 3.  USLE-based map of soil loss rates in São Paulo State. Source: Medeiros et al. (2016).
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+8
+Rev Bras Cienc Solo 2016;40:e0150498SLti =L
+hL250 mm
+hL=                   Eq. 5
+where SLtI is the Soil Lifetime Index considering the soil loss of the upper 0.25 m (years), 
+L is the topsoil thickness (mm) in this case the upper 0.25 m (250 mm), and hL is the 
+net soil loss rate (mm yr-1).
+RESULTS AND DISCUSSION
+The results of the estimated soil loss rates used in this study were obtained by Medeiros 
+et al. (2016). These authors describe the limitations of the USLE and the generalization 
+of some factors caused by adaptation of the methodology to a regional scale. As is 
+well-known, this empirical model was originally designed for erosion studies at the local level and without considering sediment deposition, but only the potential estimates of 
+soil loss required by the SLtI methodology. By the USLE, the above authors found an 
+average soil loss rate of 30 Mg ha-1 yr-1 and that the land uses directly linked to high 
+erosion estimates are agricultural (annual, semi-evergreen and evergreen crops).
+Characterization of “planning situations” of the study area (hL)
+The planning situations were defined as the ratio between the soil loss rate (h) and the 
+presumed soil renewal rate (r) (Figure 4). Only 35 % of the soils of the state of São Paulo 
+are in a “conserved stage”, i.e., the presumed soil renewal rate exceeds the estimated 
+soil loss rate. Therefore, soil formation occurs instead of degradation by erosion at 
+these locations. These areas account for about 84,000 km2 and the predominant uses 
+and covers are forest and pasture, accounting for 62 and 25 % of the conserved area, 
+respectively. This total includes most of the remaining fragments of Atlantic Forest covering 
+the mountainous region of the state. The predominant soil types in these conservation 
+areas are Latossolos/Oxisols, Argissolos/Ultisols and Cambissolos/Inceptisols, respectively, 
+in 43, 29, and 18 % of the conserved area. With regard to the soil depth of the conserved 
+areas it was found that 17 % of the soil of the area are 1 m; 12 % between 1 and 2 m and 71 % less than 2 m deep.
+The areas in “degraded stage”, in which the assumed soil renewal rate is lower than the 
+estimated soil loss rate, corresponding to 65 % of the state of São Paulo, account for 
+52° W 50° W 48° W 46° W 44° W24° S22° S20° S
+N
+km200 100 50 0Geographic Coordinate System
+Datum SIRGAS 2000Mesoregions of the state 
+of São Paulo
+1 Araçatuba
+2 Araraquara
+3 Assi s
+4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+9 Marília
+10 Metrop. São Paul o
+11 Piracicaba
+12 Presidente Prudente
+13 Ribeirão Preto
+14 São José do Rio Preto
+15 Vale do Paraíba PaulistaMinas Gerais
+Mato Grosso
+do Sul
+ParanáAtlantic Ocea nLegend
+Planning situations
+Conservation (r>h) - 35 %
+Degradation (h>r) - 65 %
+No data129
+314
+113
+2
+5
+11 4
+6
+7815
+10
+Figure 4.  Map of planning situations in state of São Paulo.
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+9
+Rev Bras Cienc Solo 2016;40:e0150498approximately 154,000 km2 and are characterized by the predominance of sugarcane 
+plantations and pastures, at proportions of 25 and 75 %, respectively . The dominant soil 
+types in these areas are Argissolos/Ultisols in 51 % of the area, and Latossolos/Oxisols in 
+41 %. With regard to the solum  depth, 90 % of the soils are deeper than 2 m, 5 % are up 
+to 1 m deep and 5 % between 1 and 2 m deep. These areas need intervention urgently, 
+since if the assumed renewal rate of 0.2 mm yr-1 is lower than the computed soil loss rates, 
+the soil will consequently be exhausted in terms of available soil quantity in the future if 
+the current exploitation rates are maintained. The time when this depletion will occur is defined by calculating the SLtI by the two approaches presented and discussed below.
+This survey of planning situations is a fundamental preliminary result for discussions 
+on exploitation limits both at a local scale, since the data resolution allows analyses 
+in small regions (micro-watersheds, for example), as well as at the regional level. With 
+regard to regional scales, the conceptual objective of this methodological application 
+consists in including pedology in quantitative terms in the discussions on global 
+environmental change, Sustainable Development Goals (SDGs) (Bouma, 2014) and 
+on planetary limits (Rockström et al., 2009), due to the criticism of the inactivity of 
+Soil Science with regard to these issues (Hartemink, 2008; Bockheim and Gennadiyev, 
+2010; Amundson et al., 2015).
+In this context of soil exploitation with not only environmental, but social and economic 
+implications, the diagnosis that 154,000 km2 of land in the state of São Paulo are 
+approaching a state of exhaustion is a threatening situation. This diagnosis suggests that 
+in a future determined by SLtI (in how much time - years), vast formerly productive areas 
+may be abandoned if the erosion rates are not controlled and the cultivation systems 
+replaced by more sustainable techniques.
+Soil Lifetime Index for a critical depth of 1 m
+The first consideration with respect to SLtI is about the soil depth. It is worth mentioning 
+that, in the case of a regional scale approach (for the entire state of São Paulo), the 
+representation of the soil depth by interpolated data from 387 points, as done here, 
+cannot express the complete range of soil thickness variability (Figure 2), although this 
+does not completely compromise the results since these data correspond to the most 
+representative classes.
+In general, soils in the state of São Paulo are deep. According to the spatialized data 
+of solum depth sampled by Oliveira (1999) (Figure 2c), 10 % of the state has solum  
+depths of less than 1 m; 49 % are between 1 and 2 m deep and 41 % 2 to 4 m deep. 
+The corresponding SLtI for a critical depth of 1 m is shown in figure 5.
+The areas where the solum  depth is already below the critical depth (highlighted in 
+pink), named SLtIzero, account for 9 % of the state and occur in the mesoregion of 
+the Vale do Paraíba of São Paulo and the southern mesoregion of Itapetininga, in the 
+mountainous region of the state (with predominantly Cambissolos and forest cover, 
+but shallow soils) and in the state interior, in the mesoregions of Araraquara and 
+Piracicaba and in the southern and southwestern mesoregion of Ribeirão Preto, with litholic dystrophic Neossolos/Entisols Quartzipsamments Ortics and dystrophic Ortics 
+and Litholic eutrophic Neossolos /Entisols, apart from the dominant use of pastures. 
+For this planning situation where SLtI is zero, the methodology foresees a land use 
+that reduces the soil loss rate to the soil renewal rate, so that no more soil can be lost. 
+In other words, the recommendation is to freeze agricultural uses and invest in the 
+preservation of the area (restoration of natural vegetation). In this case, shallow soils 
+generally have narrow limitations for agricultural uses, in view of the restrictions for plant root growth and the low water storage capacity, and for tending to a markedly 
+lower infiltration capacity.
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+10
+Rev Bras Cienc Solo 2016;40:e0150498The SLtI considers the time until soil degradation by erosion reaches a critical depth of 
+1 m, ranging from very low values near zero until about 200,000 years (Figure 5). The 
+parts of the state where agricultural uses are consolidated are the most critical, for which 
+Medeiros et al. (2016) found mean soil loss estimates for annual, semi-evergreen and perennial crops, respectively, of 118 Mg ha
+-1 yr-1, 78.09 Mg ha-1 yr-1 and 38 Mg ha-1 yr-1. 
+This is mainly the case in most of the mesoregion of Ribeirão Preto, east of the mesoregion 
+of São José do Rio Preto and in parts of the mesoregions of Araçatuba and Presidente Prudente, among others.
+These results can be discussed based on the conceptual model of SLtI (Figure 6), 
+which is a function of the soil depth and the net soil loss rate. For areas where 
+soils are shallow and the net loss rate is high, SLtI is low, i.e., the remaining time 
+until the soil is eroded to a minimum depth of 1 m is short. At these locations, the problems of resource degradation by erosion are alarming and these are priority areas for the application of measures to reduce and eradicate erosive processes. 
+On the other hand, in areas where soil loss levels are lower and soils are deeper, the 
+SLtI is high and erosion control is less urgent than in the above situation, although attention is required.
+The Soil Lifetime Index for the state of São Paulo, considering a critical depth of 1 m, 
+was represented in a graph (Figure 7). Within a short period of 100 years, 13 % of the areas in which the estimated soil loss rate exceeds the assumed renewal rate can reach the critical depth. These areas cover almost 20,000 km
+2, approximately, 
+and are distributed throughout the state, especially in the mesoregions of Ribeirão Preto and São José do Rio Preto where, despite the typically deep soils characteristic of much of the state, the estimated soil loss rates are high. At the same time, in the 
+mesoregion of Vale do Paraíba Paulista many areas have a short soil lifetime, because 
+the soils are generally shallow.
+In a systemic approach, in which physical, biological, chemical, and social processes 
+define the conditions of the Earth System functioning by the interactions between atmosphere, hydrosphere, geosphere, biosphere, and pedosphere (Bockheim and 
+Gennadiyev, 2010), a geological period of 5000 years was analyzed, showing that 
+80 % of the erosion-degraded areas of the state of São Paulo will be exhausted 
+if the current forms of exploitation and management systems are maintained. Figure 5.  Soil Lifetime Index map of state of São Paulo (critical depth 1 m).
+52° W 50° W 48° W 46° W 44° W24° S22° S20° S
+N
+km200 100 50 0Geographic Coordinate System
+Datum SIRGAS 200 0Mesoregions of the state 
+of São Paulo
+1 Araçatuba
+2 Araraquar a
+3 Assis
+4 Bauru5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista8 Macro Metrop. Paulista
+9 Marília
+10 Metrop. São Paul o
+11 Piracicaba
+12 Presidente Prudent e
+13 Ribeirão Pret o
+14 São José do Rio Preto
+15 Vale do Paraíba PaulistaMinas Gerais
+Mato Grosso
+do Sul
+ParanáAtlantic Ocea nLegend
+SLti zero
+(net solum depth <topsoil thickness )
+SLti (years) - Degradatio n
+Up to 10,2 %
+10 - 20,2 %129
+314
+113
+2
+5
+11 4
+6
+7815
+10
+Planning situation: Conservatio n
+20 - 50,4 %
+50 - 100,5 %
+No data100 - 200,8 %
+200 - 300,12 %
+300 - 500,15 %
+Above 500,52 %
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+11
+Rev Bras Cienc Solo 2016;40:e0150498This would cause a widespread environmental collapse with economic and social 
+consequences, particularly with regard to food safety.
+Based on these results, two considerations are relevant. The first indicates the need 
+to focus attention on the soils of São Paulo in view of to the severity of the erosion 
+problems. The second is that, although determining the Soil Lifetime Index until the 
+solum profile is reduced to a critical depth of 1 m is an important diagnostic approach to represent the current state of the soil, this methodology can mask the severity of problems related to soil conservation. In other words, for many areas, as mentioned 
+before, even before reaching a critical depth, the soils are already in a severe degradation 
+stage with partial or total loss of their ecosystem functions. Therefore, although this approach is important for studies on sustainable land use, it is a limited measure and 
+Figure 6.  SltI is a function of soil depth and net soil loss rate, estimated by an erosion model.SLti
+SLti high
+(slow degradation)
+SLti intermediate
+(moderate degradation)SLti low
+(accelerated degradation)
+Net soil loss rate (h L>0)Solum  dept h
+Figure 7.  Histogram of the Soil Lifetime Index (SLtI) considering a critical depth of 1 m.
+SLtI considering a critical depth of 1 m (years )Frequenc y
+Depleted soil (% )60.000
+50.000
+40.000
+30.000
+20.000
+10.000
+0
+04 000 8000 12000 16000 20000100
+80
+60
+40
+20
+0
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+12
+Rev Bras Cienc Solo 2016;40:e0150498must be interpreted with precaution. Thus, complementarily, the approach of the Soil 
+Lifetime Index until a layer of 0.25 m of the surface soil is lost was applied and the 
+results were described below.
+Soil Lifetime Index – loss of 0.25 m topsoil
+This new approach indicates the period (year) until a 0.25 m layer of the surface soil 
+is lost, as shown in figure 8. The areas where the SLtI is zero is where the solum  depth 
+is already less than 0.25 m. In general, it is observed that the situation of the soils of 
+São Paulo is even more worrying from the point of view of soil conservation, since this 
+approach demonstrates that the lifetime until the fertile soil layer is eroded is low for 
+most of the state. The results indicate, for example, that within 100 yr, about 40 km2 of 
+the most fertile soil layer will have been removed and within 200 yr this area will have 
+nearly doubled. This diagnosis was quantified (Figure 9), showing that in 70 % of the 
+areas where the estimated soil loss rate exceeds the assumed soil renewal rate, the 
+most fertile layer will be lost within only 500 yr.
+Numerous effects were indicated by this new approach, since topsoil removal can reduce 
+the ability to provide nutrients for crop production, decrease agricultural productivity, 
+compromise the food supply and increase production costs due to the nutrient and 
+mineral replacement in the areas of intense erosion degradation.
+These results led to a quantitative diagnostic view of soil exploitation in São Paulo, 
+with a view to warn the government and the agriculture-based private sector about the urgency of application of conservation practices in the areas indicated by SLtI. In case 
+no responsibility is assumed to meet these needs of soil conservation and restoration, more and more areas will be abandoned and new agricultural frontiers will be exploited 
+beyond their tolerance limits, invariably leading to the depletion of soils, without measures 
+that could reverse the process, in a not too distant future.
+The SLtI can be considered an important methodology of a combined approach of 
+various disciplines, to meet the real need of a mind shift with regard to soil exploitation, 
+particularly in relation to agricultural practices. Thus, the application of SLtI, aside from 
+being a measure of soil degradation by erosion, represents an effective warning tool 
+with regard to the human pressures damaging the soils.
+52° W 50° W 48° W 46° W 44° W24° S22° S20° S
+N
+km200 100 50 0Geographic Coordinate System
+Datum SIRGAS 200 0Mesoregions of the state 
+of São Paulo
+1 Araçatuba
+2 Araraquar a
+3 Assis4 Bauru
+5 Campinas
+6 Itapetininga
+7 Litoral Sul Paulista
+8 Macro Metrop. Paulista
+9 Marília
+10 Metrop. São Paul o
+11 Piracicaba
+12 Presidente Prudent e
+13 Ribeirão Pret o
+14 São José do Rio Preto
+15 Vale do Paraíba PaulistaMinas Gerais
+Mato Grosso
+do Sul
+ParanáAtlantic Ocea nLegend
+SLti zero
+(net solum depth <0.25 m)
+SLti (years) - Degradatio n
+Up to 10,2 %
+10 - 20,3 %129
+314
+113
+2
+5
+11 4
+6
+7815
+10
+Planning situation: Conservation
+20 - 50,9 %
+50 - 100,14 %
+No data100 - 200,19 %
+200 - 300,11 %
+300 - 500,12 %
+Above 500,29 %
+Figure 8.  Soil Lifetime Index map of state of São Paulo (0.25 m).
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+13
+Rev Bras Cienc Solo 2016;40:e0150498CONCLUSIONS
+The planning situations allowed the identification of the soils of the state of São Paulo 
+that are degraded and require intervention to diminish soil loss rates, accounting for 
+65 % of the total area. The mesoregions of Ribeirão Preto, Bauru, Assis, Itapetininga and 
+Araraquara require particular attention.
+Given the original approach of soil lifetime and knowing that the state has an area of 
+248,209 km2, the prediction for a SLtI of 100 years is that 20,000 km2 will reach an 
+irremediable degradation stage.The situation is more critical, since within 100 years, about 40 000 km
+2 will have lost 
+the surface layer, and within 200 years this area will have almost doubled, when using 
+the SLtI approach that considers a loss of 0.25 m of the surface layer.
+ACKNOWLEDGEMENTS
+The authors are indebted to the Ecometrica Platform (www.ecometrica.com); Fundação de 
+Ciência, Aplicações e Tecnologia Espaciais (FUNCATE); Coordenação de Aperfeiçoamento 
+de Pessoal de Nível Superior  (CAPES), and Centro de Ciência do Sistema Terrestre (CCST) 
+of the Instituto Nacional de Pesquisas Espaciais  (INPE) for funding.
+REFERENCES 
+Albuquerque JA, Reinert DJ, Fiorin JE.  Variabilidade de solo e planta em Podzólico 
+Vermelho-Amarelo. Rev Bras Cienc Solo. 1996;20:151-7. 
+Alvares CA, Stape JL, Sentelhas PC, Gonçalves JLM, Sparovek G.  Köppen’s climate classification 
+map for Brazil. Meteorol Z. 2013;22:711-28. doi:10.1127/0941-2948/2013/0507
+Amundson R, Berhe AA, Hopmans JW, Olson C, Sztein AE, Sparks DL.  Soil and human security 
+in the 21st century . Science. 2015;348:12610711-2. doi:10.1126/science.1261071
+Bakker MM, Govers G, Rounsevell MD.  The crop productivity - erosion relationship: an analysis 
+based on experimental work. Catena. 2004;57:55-76. doi:10.1016/j.catena.2003.07.002
+Bellacasa MP .  Making time for soil : T echnoscientific futurity and the pace of care. Soc Stud Sci. 
+2015;1:691-716. doi:10.1177/0306312715599851Figure 9.  The Soil Lifetime Index (SLtI) to removal of 0.25 m of the topsoil.SLtI to removal of 25 cm of the topsoil  (years )Frequenc y
+Depleted soil (% )300.000
+250.000
+200.000
+150.000
+100.000
+50.000
+0
+0
+4.000 8.00012.000 16.000 20.000100
+80
+60
+40
+20
+0
+0
+ 0
+ 0
+ 0
+ 0
+ 0
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+14
+Rev Bras Cienc Solo 2016;40:e0150498Bertol I, Barbosa FT, Mafra AL, Flores MC.  Soil water erosion under different cultivation systems 
+and different fertilization rates and forms over 10 years. Rev Bras Cienc Solo. 2014;38:1918-28. 
+doi:10.1590/S0100-06832014000600026
+Bertoni J, Lombardi Neto F .  Conservação do solo. 8a ed. São Paulo: Ícone; 2012.Bockheim JG, Gennadiyev AN.  Soil-factorial models and earth-system science: A review. 
+Geoderma. 2010;159:243-51. doi:10.1016/j.geoderma.2010.09.005
+Bouma J.  Soil science contributions towards sustainable development goals and their 
+implementation: linking soil functions with ecosystem services. J Plant Nutr Soil Sci. 
+2014;177:111-20. doi:10.1002/jpln.201300646View/save
+Camargo FA, Alvarez V VH, Baveye PC.  Brazilian soil science: from its inception to the future, 
+and beyond. Rev Bras Cienc Solo. 2010;1:589-99. doi:10.1590/S0100-06832010000300001
+Coordenadoria de Defesa Agropecuária do Estado de São Paulo - CDA.  Conservação do solo. 
+Campinas: Coordenadoria de Defesa Agropecuária do Estado de São Paulo; 2014.
+De la Rosa D, Moreno JA, Mayol F, Bonsón T.  Assessment of soil erosion vulnerability in western 
+Europe and potential impact on crop productivity due to loss of soil depth using the ImpelERO 
+model. Agric Ecosyst Environ. 2000;81:179-90. 
+Duan X, Xie Y, Ou T, Lu H.  Effects of soil erosion on long-term soil productivity in the black soil 
+region of northeastern China. Catena. 2011;87:268-75. doi:10.1016/j.catena.2011.06.012
+Environmental Systems Research Institute - ESRI.  ArcGIS Desktop [computer program]. Version 
+10.1. Redlands: 2014. 
+Gregorich EG, Carter MR, Angers DA, Monreal CM, Ellert BH.  T owards a minimum data set 
+to assess soil organic matter quality in agricultural soils. Can J Soil Sci. 1994;74:367-86. 
+doi:10.4141/cjss94-051
+Hansen JW.  Is agricultural sustainability a useful concept? Agric Syst. 1996;50:117-43. 
+doi:10.1016/0308-521X(95)00011-S
+Hartemink AE.  Soils are back on the global agenda. Soil Use Manage. 2008;24:327-30. 
+doi:10.1111/j.1475-2743.2008.00187.x
+Kruseman G, Ruben R, Kuyvenhoven A, Engsdijk H, van Keulen V.  Analytical framework 
+for disentangling the concept of sustainable land use. Agric Syst. 1996;50:191-207. doi:10.1016/0308-521X(94)00074-2 
+Lal R.  Soil erosion and the global carbon budget. Environ Int. 2003;29:437-50. 
+doi:10.1016/S0160-4120(02)00192-7
+Lepsch IF .  Formação e conservação do solo. 2a ed. São Paulo: Oficina de T extos; 2010.
+Lombardi Neto F, Bertoni J.  T olerância de perdas de terra para solos do Estado de São Paulo. 
+Campinas: Instituto Agronômico de Campinas; 1975. (Boletim técnico, 28). 
+Manzatto CV, Freitas Junior E, Peres JRR.  Uso agrícola dos solos brasileiros. Rio de Janeiro: 
+Embrapa Solos; 2002. 
+Mcdonagh J.  Rural geography II: Discourses of food and sustainable rural futures. Progr Human 
+Geogr. 2014;38:1-7.
+Medeiros GOR, Giarolla A, Sampaio G, Marinho MA.  Estimates of annual soil loss 
+rates in the state of São Paulo, Brazil. Rev Bras Cienc Solo. 2016;40:e0150497. doi:10.1590/18069657rbcs20150497
+Oliveira JB, Camargo MN, Rossi M, Calderano Filho B.  Mapa pedológico do Estado de São 
+Paulo: legenda expandida (mapa). Campinas: Instituto Agronômico/Rio de Janeiro: Embrapa 
+Solos; 1999.
+Oliveira JB.  Solos do Estado de São Paulo: descrição das classes registradas no mapa 
+pedológico. Campinas: Instituto Agronômico de Campinas; 1999. (Boletim técnico, 45).
+Oyedele D, Aina PO.  A study of soil factors in relation to erosion and yield of maize on a 
+Nigerian soil. Soil Till Res. 1998;48:115-25. doi:10.1016/S0167-1987(98)00110-X
+Medeiros et al. Diagnosis of the Accelerated Soil Erosion in Sao Paulo State (Brazil)...
+15
+Rev Bras Cienc Solo 2016;40:e0150498Parmesan C, Burrows MT, Duarte CM, Poloczanska ES, Richardson AJ, Schoeman DS, Singer 
+MC.  Beyond climate change attribution in conservation and ecological research. Ecol Lett. 2013;16:58-71. doi:10.1111/ele.12098
+Pugliesi ACV, Marinho MA, Fernando Marques J, Lucarelli JRF .  Valoração econômica do efeito da 
+erosão em sistemas de manejo do solo empregando o método custo de reposição. Bragantia. 2011;70:113-21. doi:10.1590/S0006-87052011000100017
+Reid W, Chen D, Goldfarb L.  Earth system science for global sustainability: grand challenges. 
+Science. 2010;330:916-7. doi:10.1126/science.1196263
+Rocha GC.  Aplicação da estimativa espaço-temporal da tolerância à perda de solo no 
+planejamento do uso da terra [dissertação]. Piracicaba: Universidade de São Paulo; 2013. 
+Rockström J, Steffen W, Noone K, Persson A, Chapin FS, Lambin EF .  A safe operating space for 
+humanity. Nature. 2009;461:472-5. doi:10.1038/461472a
+São Paulo (Estado).  Secretaria do Meio Ambiente. Mapeamento de Cobertura da T erra do 
+Estado de São Paulo - 2005. Escala 1:100.000. São Paulo: Coordenadoria de Planejamento Ambiental; 2013.
+Schumacher TE, Lindstrom MJ, Schumacher JA, Lemme GD.  Modeling spatial 
+variation in productivity due to tillage and water erosion. Soil Till Res. 1999;51:331-9. 
+doi:10.1016/S0167-1987(99)00046-X
+Skidmore EL.  Soil loss tolerance. In: Schmidt BL, editor. Determinants of soil loss tolerance. 
+Madison: American Society of Agronomy; 1982. p.87-93
+Sparovek G, Jong van Lier Q.  Definition of tolerable soil erosion values. Rev Bras Cienc Solo. 
+1997;1:467-71. doi:10.1590/S0100-06831997000300016
+Sparovek G, Jong van Lier Q, Aloise RR, Vidal-T orrado P .  Forecasting crop yield for some 
+Piracicaba soils as a functions of erosion. Rev Bras Cienc Solo. 1993;17:465-70.
+Stamey WL, Smith RM.  A conservation definition of erosion tolerance. Soil Sci. 1964;97:183-6.Stine MA, Weil RR.  The relationship between soil quality and crop productivity across 
+three tillage systems in south central Honduras. Am J Altern Agric. 2002;17:2-8. doi:10.1079/AJAA20011
+Stocking M.  Erosion and crop yield. In: Chesworth W, editor. Encyclopedia of soil science. New 
+York: Marcel Dekker; 2003. p.1-4.
+T elles TS.  Os custos da erosão do solo [dissertação]. Londrina: Universidade Estadual de 
+Londrina; 2010.
+Weill MAM, Sparovek G.  Estudo da erosão na microbacia do Ceveiro (Piracicaba, 
+SP): II - Interpretação da tolerância de perda de solo utilizando o método do Índice de T empo de Vida. Rev Bras Cienc Solo. 2008;32:815-24. doi:10.1590/S0100-06832008000200035
+Weill MAM.  Estimativa da erosão do solo e a avaliação do seu impacto na microbacia do 
+Ceveiro (Piracicaba, SP) através do Índice de T empo de Vida [tese]. Piracicaba: Universidade de São Paulo; 1999. 
+Wieber K.  Agricultural Economic. Washington, DC: United States of Department of Agriculture; 
+2003. (Report, 823).
+Wischmeier WHE, Smith DD.  Predicting rainfall erosion losses from cropland east of the Rocky 
+Mountains. Washington, DC: USDA; 1965.
+Wischmeier WHE, Smith DD.  Predicting rainfall erosion losses: a guide to conservation 
+planning. Washington, DC: USDA; 1978.
+World Soil Information - ISRIC. 2013.  Soil Grids: an automated system for global soil mapping. 
+Wageningen: 2014.
+Zhao L, Jin J, Du S, Liu G.  A quantification of the effects of er osion on the productivity of purple 
+soils. J Mount Sci. 2012;9:96-104. doi:10.1007/s11629-012-2241-9
