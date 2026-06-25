@@ -1,0 +1,11 @@
+
+	at org.protege.editor.owl.ui.ontology.imports.wizard.page.AnticipateOntologyIdPage.checkImport(AnticipateOntologyIdPage.java:109)
+	at org.protege.editor.owl.ui.ontology.imports.wizard.page.AnticipateOntologyIdPage.lambda$new$0(AnticipateOntologyIdPage.java:44)
+	at java.base/java.lang.Thread.run(Unknown Source)
+  ERROR  14:11:57  An error occurred whilst extracting the Ontology Id from the imported ontology: {}
+java.lang.NullPointerException: null
+	at org.protege.editor.owl.model.repository.MasterOntologyIDExtractor.getOntologyId(MasterOntologyIDExtractor.java:27)
+	at org.protege.editor.owl.ui.ontology.imports.wizard.page.AnticipateOntologyIdPage.checkImport(AnticipateOntologyIdPage.java:109)
+	at org.protege.editor.owl.ui.ontology.imports.wizard.page.AnticipateOntologyIdPage.lambda$new$0(AnticipateOntologyIdPage.java:44)
+	at java.base/java.lang.Thread.run(Unknown Source)
+   INFO  14:11:59  -------------------- Importing ontology and imports closure --------------------

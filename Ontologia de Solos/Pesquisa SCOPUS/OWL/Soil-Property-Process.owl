@@ -129,15 +129,15 @@ ObjectProperty: producedBy
 
 
 Class: Soil
+       Annotations:
+              rabbit:Description "Following the SWEET ontology."
+       SubClassOf: ChemicalSubstance
+       
        SubClassOf: hasComponent some SoilMineralMatter
        SubClassOf: hasComponent some SoilOrganicMatter
        SubClassOf: hasComponent some SoilSolution
        SubClassOf: hasComponent some SoilAir
-
-       Annotations:
-       rabbit:Description "Following the SWEET ontology."
-       SubClassOf: ChemicalSubstance
-       
+     
 
 Class: SoilComponent
        SubClassOf: partOf some Soil
@@ -180,25 +180,20 @@ Class: SoilOrganicMatter
        SubClassOf: hasImpactOn some SoilFilteringCapacity
        SubClassOf: hasImpactOn some SoilWaterRetention
        
-
 Class: SoilOrganicSolid
-       Annotations:
-       rabbit:Description "[Chapter 2 Basic Definitions and Concepts: Soil Components and Phases, p.13]"
+       Annotations: 
+           rabbit:Description "[Chapter 2 Basic Definitions and Concepts: Soil Components and Phases, p.13]",
+           rabbit:Description "[3.3 IMPORTANCE OF SOIL SOLIDS, p.75]"
        EquivalentTo: SoilOrganicMatter
        SubClassOf: SoilSolid
        SubClassOf: from some Plant
        SubClassOf: from some Animal
-       
-       Annotations:
-       rabbit:Description "[3.3 IMPORTANCE OF SOIL SOLIDS, p.75]"
        SubClassOf: hasImpactOn some SoilStructure
        SubClassOf: hasImpactOn some SoilWaterHoldingCapacity
        SubClassOf: hasImpactOn some SoilNutrientAvailability
-       
        SubClassOf: hasImpactOn some SoilBufferingCapacity
-       
        SubClassOf: hasImpactOn some SoilFilteringCapacity
-       
+
        
 Class: SoilSolution
        Annotations:
@@ -243,12 +238,11 @@ Class: AirQuality
        SubClassOf: SoilEnvironmentalFunction
 
 
-Class: FoundationStability
-       SubClassOf: SoilEngineeringFunction
-       SubClassOf: influencedBy some SoilStability
-       
+Class: FoundationStability    
        Annotations:
        rabbit:Description "[Chapter 7. Soil Strength and Compaction, p.175]"
+       SubClassOf: SoilEngineeringFunction
+       SubClassOf: influencedBy some SoilStability
        SubClassOf: hasImpactOn some Road
        SubClassOf: hasImpactOn some Building
 
@@ -267,13 +261,11 @@ Class: SoilPoreSpace
        SubClassOf: dependsOn some SoilPore
 
 Class: SoilVoid
+       Annotations:
+       rabbit:Description "[4.1.1 Different Approaches to Describing Soil Structure, p.87]"            
        EquivalentTo: SoilPoreSpace
        SubClassOf: SoilPorePhysicalProperty
        
-       Annotations:
-       rabbit:Description "[4.1.1 Different Approaches to Describing Soil Structure, p.87]"
-       
-
 Class: SoilPhysicalProperty
        SubClassOf: SoilProperty
 
@@ -317,13 +309,13 @@ Class: SoilFunction
 Class: SoilDegradation
        Annotations:
        rabbit:Description "[3.1.4 Clay Minerals, p.47-48]"
-       SubClassOf: influencedBy some SoilClayMineral
-       
-       SubClassOf: SoilPhysicalDegradativeProcess
-       SubClassOf: SoilChemicalDegradativeProcess
-
        Annotations:
        rabbit:Description "[Chapter 6. Manifestations of Soil Structure, p.153]"
+       
+       SubClassOf: influencedBy some SoilClayMineral     
+       SubClassOf: SoilPhysicalDegradativeProcess
+       SubClassOf: SoilChemicalDegradativeProcess
+       
        SubClassOf: hasPossibleEffect some SoilDispersion
        SubClassOf: hasPossibleEffect some SoilCrusting
        SubClassOf: hasPossibleEffect some SoilCompaction
@@ -336,31 +328,31 @@ Class: AgriculturalSustainability
        SubClassOf: influencedBy some SoilClayMineral
        SubClassOf: SoilAgriculturalFunction
 
-Class: SoilDesertification
-       SubClassOf: SoilPhysicalProcess
-       SubClassOf: SoilChemicalProcess
-       
+Class: SoilDesertification     
        Annotations:
        rabbit:Description "[4.8 IMPACT OF DECLINE IN AGGREGATION AND STRUCTURAL DEGRADATION, p.127]"
-       
+       SubClassOf: SoilPhysicalProcess
+       SubClassOf: SoilChemicalProcess       
        SubClassOf: hasPossibleCause some Runoff
        SubClassOf: hasPossibleCause some SoilErosion		   
 
 Class: SoilErosion
        Annotations:
        rabbit:Description "TABLE 1.1 Soil Physical Properties and Processes That Affect Agricultural, Engineering, and Environmental Soil Functions"
-       SubClassOf: hasImpactOn some RootGrowth
-       SubClassOf: hasImpactOn some PlantWaterUptake
-       SubClassOf: hasImpactOn some PlantNutrientUptake
-       SubClassOf: hasImpactOn some SoilAeration
-       
        Annotations:
        rabbit:Description "TABLE 3.17 Soil Properties and Processes Affected by Texture and Inorganic Components.",
        rabbit:Description "TABLE 3.20 Soil Properties and Processes Affected by Soil Organic Component",
        rabbit:Description "TABLE 3.22 Soil Degradative Processes Influenced by Inorganic and Organic Components and Clay Minerals",
        rabbit:Description "[4.8 IMPACT OF DECLINE IN AGGREGATION AND STRUCTURAL DEGRADATION, p.127]"
 
-       SubClassOf: influencedBy some SoilTexture
+       SubClassOf: influencedBy some SoilTexture       
+       
+       SubClassOf: hasImpactOn some RootGrowth
+       SubClassOf: hasImpactOn some PlantWaterUptake
+       SubClassOf: hasImpactOn some PlantNutrientUptake
+       SubClassOf: hasImpactOn some SoilAeration
+       
+       
        SubClassOf: influencedBy some SoilInorganicComponent
        SubClassOf: influencedBy some SoilOrganicComponent
        

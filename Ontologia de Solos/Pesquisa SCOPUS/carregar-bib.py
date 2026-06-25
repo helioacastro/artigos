@@ -2,6 +2,7 @@ import pandas as pd
 import bibtexparser
 import os
 import sys
+import re
 
 def update_planilha_com_bibtex(caminho_planilha, pasta_bibtex):
     """
@@ -14,6 +15,7 @@ def update_planilha_com_bibtex(caminho_planilha, pasta_bibtex):
     print(f"Carregando planilha de: {caminho_planilha}")
     try:
         df = pd.read_excel(caminho_planilha)
+        df = df.astype(object)
     except FileNotFoundError:
         print(f"Erro: Planilha não encontrada em '{caminho_planilha}'. Verifique o caminho.")
         return
@@ -50,9 +52,33 @@ def update_planilha_com_bibtex(caminho_planilha, pasta_bibtex):
 
         if os.path.exists(caminho_bib_file):
             print(f"Processando arquivo BibTeX: {caminho_bib_file}")
-            try:
+            '''try:
                 with open(caminho_bib_file, 'r', encoding='utf-8') as bibtex_file:
                     bib_database = bibtexparser.load(bibtex_file)
+
+                if bib_database.entries:'''
+
+            try:
+                with open(caminho_bib_file, 'r', encoding='utf-8') as bibtex_file:
+                    # Em vez de carregar direto, lemos como texto primeiro
+                    bibtex_str = bibtex_file.read()
+
+                # --- INÍCIO DA LIMPEZA DO SCOPUS ---
+                # 1. Remove o cabeçalho inútil (tudo antes do primeiro '@')
+                idx_arroba = bibtex_str.find('@')
+                if idx_arroba != -1:
+                    bibtex_str = bibtex_str[idx_arroba:]
+                
+                # 2. Conserta espaços na chave do BibTeX usando expressão regular
+                bibtex_str = re.sub(
+                    r'(@[A-Za-z]+\{)([^,]+)(,)', 
+                    lambda m: m.group(1) + m.group(2).replace(' ', '_') + m.group(3), 
+                    bibtex_str
+                )
+                # --- FIM DA LIMPEZA ---
+
+                # Faz o parse da string já limpa (usamos loads em vez de load)
+                bib_database = bibtexparser.loads(bibtex_str)
 
                 if bib_database.entries:
                     entry = bib_database.entries[0] # Assume que há apenas uma entrada por arquivo .bib
@@ -109,10 +135,12 @@ def update_planilha_com_bibtex(caminho_planilha, pasta_bibtex):
 # Diretório base onde o script está localizado
 PASTA_BASE = os.path.abspath(os.path.dirname(sys.argv[0])) 
 # Caminho completo para o seu arquivo Excel
-PLANILHA_PATH = r'' + PASTA_BASE + '\\Pesquisa_Ontologia_Solos.xlsx'
+PLANILHA_PATH = r'' + PASTA_BASE + '\Pesquisa_Ontologia_Solos.xlsx'
 # Caminho para a pasta onde você salvou seus arquivos .bib
-BIBTEX_FOLDER = r'' + PASTA_BASE + r'\\Metadados_BibTeX\\'
+BIBTEX_FOLDER = r'' + PASTA_BASE + '\Metadados_BibTex'
 
 # --- Executa a função ---             
 if __name__ == "__main__":
+    PLANILHA_PATH = os.path.normpath(PLANILHA_PATH)
+    BIBTEX_FOLDER = os.path.normpath(BIBTEX_FOLDER)
     update_planilha_com_bibtex(PLANILHA_PATH, BIBTEX_FOLDER)
